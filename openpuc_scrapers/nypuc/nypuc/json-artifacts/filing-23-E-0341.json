@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0341",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Acceptance.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B7158F-0000-C415-90E1-5FB43B09AACA}",
+      "organization": "9274 Group, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-E-0341",
+      "file_name": "TRANSMITTAL - 23-E-0341 042524.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00C9108F-0000-C516-B7B4-216B3119B866}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0341",
+      "file_name": "363_23-E-0341 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 9274 Group, Inc. to Submeter Electricity at 310 Niagara Street, Niagara Falls, Located in the Territory of Niagara Mohawk Power Corporation d/b/a National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D7E388-0000-C013-BF5C-044E1CE1BB55}",
+      "organization": "9274 Group, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0341",
+      "file_name": "Notice of Intent 062223.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0387",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D164BFD-4E65-4830-9837-2A3D66B41F5A}",
+      "organization": "Sheldrake Station Development, LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0387",
+      "file_name": "Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4448DDB6-274B-4BBF-9C7D-C9EEEB9795C1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0387",
+      "file_name": "374_18-E-0387.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20FFA787-D898-4C05-91AE-356205049383}",
+      "organization": "Sheldrake Station Development, LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0387",
+      "file_name": "18-E-0387 Request for Additional Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/02/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F14AC922-ED1A-4296-809A-0D940B6501D4}",
+      "organization": "Sheldrake Station Development, LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0387",
+      "file_name": "Petition to Submeter Electricity at 270 Waverly Ave.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Sheldrake Station Development LLC to Submeter Electricity at 270 Waverly Avenue, Mamaroneck, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CDE9E60-4215-45E6-9D92-A1EA4B420825}",
+      "organization": "Sheldrake Station Development, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0387",
+      "file_name": "Submetering Application - 270 Waverly.pdf"
+    }
+  ]
+}

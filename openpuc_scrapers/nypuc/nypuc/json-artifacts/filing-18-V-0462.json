@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0462",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B35C6BD-EFD6-4862-A2BC-2F29BDB6AB5E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0462",
+      "file_name": "661_18-V-0462.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF7725C0-BF4B-4F59-B079-0F88A7864282}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0462",
+      "file_name": "17-01779 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2041 Holland Avenue, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A78031F-3AB0-4CAD-9857-371C4069D378}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0462",
+      "file_name": "Petition (2041 Holland Av).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E70D2A5-EF61-44D8-84A5-7A8C7B44AB99}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0462",
+      "file_name": "Exhibit 2 (2041 Holland Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0474C203-50F7-4493-A1DE-08F42FE82336}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0462",
+      "file_name": "Exhibit 1 (2041 Holland Av).pdf"
+    }
+  ]
+}

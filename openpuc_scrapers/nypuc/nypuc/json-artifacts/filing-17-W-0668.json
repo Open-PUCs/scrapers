@@ -1,0 +1,115 @@
+{
+  "case": "17-W-0668",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/04/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D33F486-4B8F-4533-8FDA-ABEDA1847063}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "9",
+      "docket_id": "17-W-0668",
+      "file_name": "2020.09.04_Case 17-W-0668_NYAW Compliance filing_Customer Notification (003).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/03/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter re Whitlock Farms Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E4D1AB7-E51A-4541-9F3C-70F3C4BBB799}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "8",
+      "docket_id": "17-W-0668",
+      "file_name": "Case 17-W-0668 - Phillips Letter re Whitlock Farms Compliance Filing Combined.pdf (305 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207FF003-FD33-4CD8-BBF8-57B8A32153EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "17-W-0668",
+      "file_name": "463_17-W-0668 Notice of Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Assets",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C4DB52D-1CD3-4F1B-B5EA-9E82C89D3D92}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-W-0668",
+      "file_name": "463_17-W-0668 Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/08/2020",
+      "nypuc_doctype": "Reports",
+      "name": "SEAF Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3B2E25E-3C1B-4E7F-8635-CE89A98C4E49}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "17-W-0668",
+      "file_name": "SEAF Part 2 and 3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/08/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08388142-1AFB-41CD-90A7-E05D1384DF4F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "17-W-0668",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/30/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter re Clarification and Amendment to Whitlock Farms Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72817F35-91F1-4B71-8AD7-9481072170B7}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-W-0668",
+      "file_name": "AS FILED - Philips Letter re Clarification and Amendment to Whitlock Farms Petition.pdf (2 MB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing - Customer Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C56DF02E-EBFD-42AD-85D7-8A0A0F9AE8AA}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-W-0668",
+      "file_name": "2018.07.11_Case 17-W-0668_NYAW Compliance Filing - Customer Notice.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Clarification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E938FBF8-0269-42F8-99B1-3AA8143BEABF}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-W-0668",
+      "file_name": "2018.07.11_Case 17-W-0668_NYAW Letter to Burgess Clarifying Petition.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of New York American Water Company, Inc. and Whitlock Farms Water Corp. for Approval of a Certificate of Merger, with New York American Water Company, Inc. being the Surviving Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFF72B97-D456-441C-90D3-8510ADF29331}",
+      "organization": "New York American Water Company, Inc., Whitlock Farms Water Corp.",
+      "itemNo": "1",
+      "docket_id": "17-W-0668",
+      "file_name": "2017.11.09_NYAW-Whitlock Farms Merger Joint Petition.pdf"
+    }
+  ]
+}

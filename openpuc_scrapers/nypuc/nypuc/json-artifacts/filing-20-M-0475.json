@@ -1,0 +1,49 @@
+{
+  "case": "20-M-0475",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37322CFD-815C-47E5-8315-0ADCC0E194D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-M-0475",
+      "file_name": "265_20-M-0475_Order .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67F9DA62-D493-4504-B78E-B2769434D694}",
+      "organization": "Daroga Power, LLC",
+      "itemNo": "2",
+      "docket_id": "20-M-0475",
+      "file_name": "Daroga Supplement to Petition 10-7-20.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/25/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Waiver or Modification of Daroga Power LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D025D75B-692C-4039-B6A8-77F444CB5180}",
+      "organization": "Daroga Power, LLC",
+      "itemNo": "1",
+      "docket_id": "20-M-0475",
+      "file_name": "Petition for Waiver or Modification of Daroga Power LLC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/25/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06A51112-D36F-437A-A478-92D94E837933}",
+      "organization": "Daroga Power, LLC",
+      "itemNo": "1",
+      "docket_id": "20-M-0475",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

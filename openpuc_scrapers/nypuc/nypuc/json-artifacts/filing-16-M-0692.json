@@ -1,0 +1,49 @@
+{
+  "case": "16-M-0692",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7F9EF88-62C1-42CE-99CE-9E9953406153}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-M-0692",
+      "file_name": "16-M-0692 Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Leases of Certain Real Property",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC6A69B8-AABE-4DDF-8B76-27140AB38F1E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-M-0692",
+      "file_name": "261_16-M-0692 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Signed EAF Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4D45E93-258F-453F-B771-788B4E978358}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-M-0692",
+      "file_name": "16M0692 Signed Letter and SEAF Part 2 and 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/01/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York State Electric & Gas Corporation for Approval to Lease Space Within Several Different New York State Electric & Gas Corporation Facilities.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={743C1A60-EC51-4F10-B0FD-BA1FDD6420ED}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "16-M-0692",
+      "file_name": "2016-12-01 NYSEG Section 70 Petition_Misc Building Leases.pdf"
+    }
+  ]
+}

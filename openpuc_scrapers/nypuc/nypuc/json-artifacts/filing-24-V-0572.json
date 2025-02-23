@@ -1,0 +1,49 @@
+{
+  "case": "24-V-0572",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40396892-0000-CC49-8D6D-AA43DC9DC952}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0572",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. Jamestown 10.7.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30396892-0000-CC15-9A3A-F391543B41BF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0572",
+      "file_name": "Charter Confidential Treatment Request to RAO C. Jamestown 10.7.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications-C. Jamestown Cover Letter- Request for Renewal and Certificate of Confirmation ac",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40396892-0000-C46D-842F-9CB3821802D9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0572",
+      "file_name": "Charter Communications-C. Jamestown Cover Letter- Request for Renewal and Certificate of Confirmation ac.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, C. Jamestown-Request for Renewal and Certificate of Confirmation(redacted) ac",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40396892-0000-C385-AC30-9A3842C31B1C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0572",
+      "file_name": "Charter Communications, C. Jamestown-Request for Renewal and Certificate of Confirmation(redacted) ac.PDF"
+    }
+  ]
+}

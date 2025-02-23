@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0663",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5634A5A-9851-4A56-9FBC-2D63994902E5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0663",
+      "file_name": "664_17-V-0663.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C00AEA6-1884-4B5A-9B1B-31D2656A8E62}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0663",
+      "file_name": "Laurel Hollow Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Laurel Hollow, Nassau County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F293C9BB-9E0D-4530-97EF-A8CE9C320B56}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0663",
+      "file_name": "Laurel Hollow Renewal Petition (complete).pdf"
+    }
+  ]
+}

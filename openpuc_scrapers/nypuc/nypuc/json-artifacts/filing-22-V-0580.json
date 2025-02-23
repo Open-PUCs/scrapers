@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0580",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={284E7766-A15F-4210-923B-DAC1C53EE541}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0580",
+      "file_name": "661_22-V-0580.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01603 Letter to Building Owner_567 W 125",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73B4B25E-184E-4E05-9468-D3A6DF57CDCC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0580",
+      "file_name": "22-01603 Letter to Building Owner_567 W 125.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 567 West 125th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={568E9F9E-30BB-4A31-B1D7-FDFB45736E44}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0580",
+      "file_name": "220810-14 Petition (567 W 125 ST) (Post-Survey).pdf"
+    }
+  ]
+}

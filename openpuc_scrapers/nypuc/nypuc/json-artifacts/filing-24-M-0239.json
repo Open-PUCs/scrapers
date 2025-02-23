@@ -1,0 +1,38 @@
+{
+  "case": "24-M-0239",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/29/2024",
+      "nypuc_doctype": "Comments",
+      "name": "RESA_NY 24-M-0239_Back Billing Amendments_Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10EF9F91-0000-C716-B14C-8CD728CC111B}",
+      "organization": "Retail Energy Supply Association",
+      "itemNo": "2",
+      "docket_id": "24-M-0239",
+      "file_name": "RESA_NY 24-M-0239_Back Billing Amendments_Comments.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/29/2024",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10EF9F91-0000-CC37-B3EA-AD164E777C83}",
+      "organization": "Retail Energy Supply Association",
+      "itemNo": "2",
+      "docket_id": "24-M-0239",
+      "file_name": "Letter Phllips NY 24-M-0239 - Back Billing Amendments.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Initiating Proceeding to Implement Public Service Law Sections 41, 44, and 66-W.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4060878F-0000-CC39-B48F-FFCCDAA763B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-M-0239",
+      "file_name": "263_24-M-0239_51724finl.pdf"
+    }
+  ]
+}

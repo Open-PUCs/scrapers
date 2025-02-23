@@ -1,0 +1,60 @@
+{
+  "case": "21-G-0571",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2022",
+      "nypuc_doctype": "Memorandum and Resolution",
+      "name": "Memorandum and Resolution Adopting Amendments to 16 NYCRR Part 10 and 255",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D39D0B7B-67FC-4E4C-9C66-426ACC2D473F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-G-0571",
+      "file_name": "165_21-G-0571.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letters to Legislative Leaders Regarding Notice of Proposed Rulemaking",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF1864EC-9AE8-4B81-990C-0B3CE3F9E3CD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0571",
+      "file_name": "Letters to Leaders 21-G-0571SP1.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Inviting Comment on Proposed Draft Rulemaking",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD4379D5-4514-495D-BC09-AB391FD7864C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0571",
+      "file_name": "21-G-0571SP1_Notice & Attachment.docx.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Proposed Revisions to 16 NYCRR Parts 10 and 255",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31FF3FA1-454B-4906-8460-6C3B988107BA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0571",
+      "file_name": "FULL TEXT OF THE RULE 21-G-0571SP1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6799C898-18C1-43F3-862A-5A5920087DAE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0571",
+      "file_name": "Cover Letter 21-G-0571SP1 Hard-Rule.pdf"
+    }
+  ]
+}

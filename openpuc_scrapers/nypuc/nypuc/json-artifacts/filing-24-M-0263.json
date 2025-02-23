@@ -1,0 +1,71 @@
+{
+  "case": "24-M-0263",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0CC4A93-0000-CD13-8399-31E80BA94289}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-M-0263",
+      "file_name": "266_24-M-0263 Letter112024final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0CC4A93-0000-CA35-B5D4-BDBA3FD7A6C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-M-0263",
+      "file_name": "266_24-M-0263 Determination .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to LenruHill Realty Appeal 335825",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E038EF8F-0000-CF14-965F-D12471F478C4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-M-0263",
+      "file_name": "Case 24-M-0263 Con Edison Response to LenruHill Realty Appeal 335825 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal _Redacted - Dated 4/30/24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={609A3E8F-0000-C634-854A-00A4C111FD21}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-M-0263",
+      "file_name": "Acknowledgement Scheduling Letter - Lenru v Coned - #332825_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Decision_Redacted - Dated 4/27/24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0963E8F-0000-C22D-A4A4-FD80A03A29D6}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "2",
+      "docket_id": "24-M-0263",
+      "file_name": "2024 04 27 Appeal of Informal Decison #332825 Lenru_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision_Redacted - Dated 4/23/24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50943E8F-0000-CE3B-9EB8-26CF1C0E6264}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-M-0263",
+      "file_name": "2024 04 23 Informal Review Decision #332825_Redacted.pdf"
+    }
+  ]
+}

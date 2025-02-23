@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0448",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241007 - Payment - $4,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0109C92-0000-C21C-85D3-C4D8AF9A40B8}",
+      "organization": "Pro Septic LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0448",
+      "file_name": "20241007 - Payment - $4,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40643492-0000-CA16-9397-01D6E183E514}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-G-0448",
+      "file_name": "161-A_24-G-0448.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240312 - Response to Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F8608E-0000-CD1B-A505-44098A6133CC}",
+      "organization": "Pro Septic LLC",
+      "itemNo": "4",
+      "docket_id": "24-G-0448",
+      "file_name": "20240312 - Response to Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240311 - Payment ($7,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F8608E-0000-C134-98FC-2E03A2AC1721}",
+      "organization": "Pro Septic LLC",
+      "itemNo": "4",
+      "docket_id": "24-G-0448",
+      "file_name": "20240311 - Payment ($7,500) - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C067CC8D-0000-CD1F-AE4B-3E9390410DA3}",
+      "organization": "Pro Septic LLC",
+      "itemNo": "3",
+      "docket_id": "24-G-0448",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "23-V-0465",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C44D8B-0000-C01F-8218-3576194A529A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0465",
+      "file_name": "661_23-V-0465 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Schaghticoke Corrected Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D3238A-0000-C136-AC6B-5CBF467AF45B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0465",
+      "file_name": "Cover letter to secretary with corrected rso V. Schaghticoke.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D3238A-0000-C81C-B54F-DEE725B695FC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0465",
+      "file_name": "2023.08.23 Cover letter to Secretary reso V. Schaghticoke sp-eny (002).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "V. Schaghticoke Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BB1E8A-0000-C395-A302-B42CAD18409E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0465",
+      "file_name": "V. Schaghticoke Filing (Redacted).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "V. Schaghticoke Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 8.17.23SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BB1E8A-0000-C77B-9ABA-23C9F1AFDA52}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0465",
+      "file_name": "V. Schaghticoke Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 8.17.23SP.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BB1E8A-0000-CC54-AF75-EA4774ED4E3D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0465",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Schaghticoke 8.17.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BB1E8A-0000-C911-AFB0-882A7ABCFD22}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0465",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Schaghticoke 8.17.23.pdf"
+    }
+  ]
+}

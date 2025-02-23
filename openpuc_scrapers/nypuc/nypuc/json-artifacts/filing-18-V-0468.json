@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0468",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0776329B-FB45-447F-9CE2-C09ACD02C1C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0468",
+      "file_name": "666_18-V-0468.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner Regarding Verizon's Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23FCDC32-2310-4C19-AC84-63E35C6C580D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0468",
+      "file_name": "17-01838 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 302 West 86th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC74FDB9-2242-4372-B172-A460FD9674F8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0468",
+      "file_name": "Petition (302 W 86 St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A2DE28-8067-4648-AE66-BE8899338219}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0468",
+      "file_name": "Exhibit 2 (302 W 86 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B81E4E91-6C6E-4FE5-A5A4-DF97D2E61BC7}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0468",
+      "file_name": "Exhibit 1 (302 W 86 St).pdf"
+    }
+  ]
+}

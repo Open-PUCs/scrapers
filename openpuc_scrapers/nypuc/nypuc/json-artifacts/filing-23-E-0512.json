@@ -1,0 +1,225 @@
+{
+  "case": "23-E-0512",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Erratum Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60ECAB8C-0000-CA19-BE78-DE8ED86D04E4}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "23-E-0512",
+      "file_name": "23-E-0512 and 19-T-0549 erratum notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90C68D8C-0000-C417-BA8E-2E69F1EF6F13}",
+      "organization": "     Erratum Notice - 12/22/2023",
+      "itemNo": "Public Service Commission",
+      "docket_id": "23-E-0512",
+      "file_name": "6"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B04E368C-0000-CF14-ABEA-37E2020BF499}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0512",
+      "file_name": "23-E-0512_Notice of Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Transfers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={404C368C-0000-C011-B877-ABEEE139FF1C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0512",
+      "file_name": "23-E-0512 et al. National Grid-LS Power Transfer Order .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Environmental Assessment Form Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30F9358C-0000-CC3C-9625-ECEFF57F8858}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0512",
+      "file_name": "23-E-0512 EAF Parts 2 and 3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30F9358C-0000-C91D-BEAB-DF116FA54A06}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0512",
+      "file_name": "23-E-0512 EAF Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201E858A-0000-CA31-A465-3DDD282BC2D9}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Confidential Treatment and Exception from Disclosure - Sect 70",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301E858A-0000-C8F7-B61C-4A072EAE5E46}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Request for Confidential Treatment and Exception from Disclosure - Sect 70.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit H to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301E858A-0000-C15B-90B9-E5897ADFDE68}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit H to Petition.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit G-SAPA Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301E858A-0000-CD37-B497-82F2C38EA765}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit G-SAPA Notice.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit F-Short EAF - Section 70 Executed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301E858A-0000-C017-A234-F39D20CFE4DF}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit F-Short EAF - Section 70 Executed.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit E - NMPC Statement of Financial Condition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={501E858A-0000-CC39-9166-5E9E14C1ADFD}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit E - NMPC Statement of Financial Condition.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit D - NMPC Company Balance Sheet and Income Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201E858A-0000-CA13-8046-7D063330B48A}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit D - NMPC Company Balance Sheet and Income Statement.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit C- Accounting Entries for Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301E858A-0000-C7BE-B57C-5D185B19F850}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit C- Accounting Entries for Transaction.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit B to Petition- redacted 002",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301E858A-0000-C09D-BDB5-E0E2B120DB65}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit B to Petition- redacted.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit B to Petition- redacted 001",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5088858A-0000-C018-854A-A197651AC0DB}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit B to Petition- redacted.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A to Petition-redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301E858A-0000-C478-9E26-5D43C7334EB3}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Exhibit A to Petition-redacted.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter - Section 70_(26947139",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={501E858A-0000-CD17-80BF-25FF187E99EE}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0512",
+      "file_name": "Cover Letter - Section 70_(26947139.pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Niagara Mohawk Power Corporation d/b/a National Grid and LS Power Grid New York Corporation I for an Order Approving the Proposed Transfer Pursuant to Section 70 of the New York Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9084768A-0000-CA1E-A65B-D8B223E32F3B}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0512",
+      "file_name": "2023.09.08 Verified Section 70 Petition.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9084768A-0000-CD35-A06E-91774D24A72A}",
+      "organization": "LS Power Grid New York Corporation I, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0512",
+      "file_name": "23-E- _____Cover Letter - Section 70_(26947139.pdf"
+    }
+  ]
+}

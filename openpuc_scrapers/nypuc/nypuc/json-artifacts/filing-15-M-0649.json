@@ -1,0 +1,49 @@
+{
+  "case": "15-M-0649",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Journal Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC415F1F-0E44-4D60-B880-20CBD866E470}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "15-M-0649",
+      "file_name": "2016-06-22 RG&E Journal Entries (15-M-0649).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition to Normalize Customer Service Results",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAA0189E-8789-4FCA-A8B8-E31A6CCE9D8E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-M-0649",
+      "file_name": "264_15m0649.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG and RG&E Petition - Normalize February Percent of Estimates - Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88E85460-0EAA-451B-9BC4-C7B69123112D}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-M-0649",
+      "file_name": "NYSEG and RG&E Petition - Normalize February Percent of Estimates - Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG and RG&E Petition - Normalize February Percent of Estimates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E56F526-E7BD-4005-B6F3-301C379E475C}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-M-0649",
+      "file_name": "NYSEG and RG&E Petition - Normalize February Percent of Estimates.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0161",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1670F59A-7FFF-4774-8918-E3E3B88B2E32}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0161",
+      "file_name": "661_22-V-0161 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B01267-8678-4F5E-A4D0-FD03D2B29ACB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "22-V-0161",
+      "file_name": "Nissequogue Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/24/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Nissequogue, New York (Suffolk County)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D65A687D-C9E5-4B37-A621-18F3C4187846}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0161",
+      "file_name": "Nissequogue Renewal Petition (Complete).pdf"
+    }
+  ]
+}

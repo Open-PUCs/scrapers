@@ -1,0 +1,93 @@
+{
+  "case": "18-E-0392",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/27/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBE0214F-0784-4E3B-983D-4FEE85FE4255}",
+      "organization": "Alfa Gramercy Park LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0392",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E154110D-555F-48D5-8892-0B4FC54038A8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0392",
+      "file_name": "369_18-E-0392.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86C45F32-D031-4AC0-BB56-CB2BA00D6C96}",
+      "organization": "Alfa Gramercy Park LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0392",
+      "file_name": "response letter 12-6-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/03/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82F8F70B-7FCC-4542-852F-48C368F73F0E}",
+      "organization": "Alfa Gramercy Park LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0392",
+      "file_name": "additional information 7-2-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application-3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAB64BBC-8AF3-459C-B850-837BC1AD8BA1}",
+      "organization": "Alfa Gramercy Park LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0392",
+      "file_name": "submetering application-4.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EF43178-512A-498A-B1DE-C3D105CFB17A}",
+      "organization": "Alfa Gramercy Park LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0392",
+      "file_name": "submetering application-3.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application-1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={224B4761-0477-40F1-B0E8-4B7C48BA723C}",
+      "organization": "Alfa Gramercy Park LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0392",
+      "file_name": "submetering application-2.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Alfa Gramercy Park LLC, to Submeter Electricity at 200 East 21st Street, New York, New York 10010, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A30BB08-E860-4352-95B5-83E75D367D0C}",
+      "organization": "Alfa Gramercy Park LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0392",
+      "file_name": "submetering application-1.pdf"
+    }
+  ]
+}

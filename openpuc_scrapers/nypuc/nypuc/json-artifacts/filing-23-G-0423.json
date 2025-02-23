@@ -1,0 +1,104 @@
+{
+  "case": "23-G-0423",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing and Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0EB2F92-0000-C517-80CB-DE013FBB5048}",
+      "organization": "Public Service Commission",
+      "itemNo": "11",
+      "docket_id": "23-G-0423",
+      "file_name": "161-C_23-G-0422 and 23-G-0423.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/07/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240807 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30EB2D91-0000-C613-B663-13496A1F25A9}",
+      "organization": "Akela Contracting LLC, New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-G-0423",
+      "file_name": "20240807 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240718 - Training - (6 - NY 811)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10F3E590-0000-CE11-8519-892F0E871376}",
+      "organization": "Akela Contracting LLC",
+      "itemNo": "9",
+      "docket_id": "23-G-0423",
+      "file_name": "20240718 - Training - (6 - NY 811).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240621 - Payment ($2,000) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05D9390-0000-C31B-B2AE-5B85173A192C}",
+      "organization": "Akela Contracting LLC",
+      "itemNo": "8",
+      "docket_id": "23-G-0423",
+      "file_name": "20240621 - Payment ($2,000) - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60692790-0000-C519-A306-D9B740480228}",
+      "organization": "Akela Contracting LLC",
+      "itemNo": "7",
+      "docket_id": "23-G-0423",
+      "file_name": "20240617 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/15/2024",
+      "nypuc_doctype": "753 Evidence",
+      "name": "20240412 - Operator Evidence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907DE28E-0000-CD1F-A05B-F1F428EABE51}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "23-G-0423",
+      "file_name": "20240412 - Operator Evidence.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid Response to Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9085448B-0000-C517-9FDA-2E792C5780FF}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "23-G-0423",
+      "file_name": "Case 23-G-0422 NG Response Akela Contracting.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60FDFA8A-0000-C815-B8E0-3D5CE2129F73}",
+      "organization": "Akela Contracting LLC",
+      "itemNo": "4",
+      "docket_id": "23-G-0423",
+      "file_name": "NYSPSC, re-23-10-04 - Akela Contracting LLC Appeal Submission & Request for Rehearing to NYSPSC.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B086B88A-0000-CC17-95A1-216D73291858}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0423",
+      "file_name": "161-A_23-G-0422 and 23-G-0423.pdf"
+    }
+  ]
+}

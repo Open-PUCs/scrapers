@@ -1,0 +1,38 @@
+{
+  "case": "23-C-0732",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Indirect Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0E05090-0000-CC1B-92EA-C213C35EE0C8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-C-0732",
+      "file_name": "562_23-C-0732_62524 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/22/2024",
+      "nypuc_doctype": "Letters",
+      "name": "23-C-0732 GC Pivotal Stop Clock.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E094D18D-0000-C310-82B6-9BB7B5664FDF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-C-0732",
+      "file_name": "23-C-0732 GC Pivotal Stop Clock.Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/26/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of GC Pivotal LLC dba Global Capacity for Approval of a Pro Forma Change in Indirect Ownership.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3098A78C-0000-C31D-BFC9-145774D32330}",
+      "organization": "GC Pivotal LLC dba Global Capacity",
+      "itemNo": "1",
+      "docket_id": "23-C-0732",
+      "file_name": "GC Pivotal LLC - New York Pro Forma Transfer of Control Application.pdf"
+    }
+  ]
+}

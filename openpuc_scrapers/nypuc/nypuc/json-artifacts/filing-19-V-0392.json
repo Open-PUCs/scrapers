@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0392",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB806A32-53FC-4617-80E4-7E437F8DDAA4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0392",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Verizon Reactivation Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DF27061-20BD-4E8F-B862-04E46F32681B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0392",
+      "file_name": "201110 Letter re Matter 17-02751 (reactivation).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Letter Requesting Suspension of Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82450087-636E-42A1-BDDF-E86B94D047D9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0392",
+      "file_name": "180112 Letter Requesting Suspension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 89-14 Parsons Boulevard, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3B22979-58F9-45A6-B217-3ECF2DA85908}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0392",
+      "file_name": "Petition (89-14 Parsons Blvd).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAB78655-56E0-490E-938A-4C8293F3F5F0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0392",
+      "file_name": "Exhibit 2 (89-14 Parsons Blvd).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6F426C7-9513-48F4-831C-9C01DBBE72E1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0392",
+      "file_name": "Exhibit 1 (89-14 Parsons Blvd).pdf"
+    }
+  ]
+}

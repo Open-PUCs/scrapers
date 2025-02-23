@@ -1,0 +1,27 @@
+{
+  "case": "23-E-0110",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Reports",
+      "name": "2022 Electric Safety Standards Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6066E488-0000-C23A-8B26-1C4E7ADDFA20}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0110",
+      "file_name": "302_23-E-0110.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Cuts Revenues a Record $22.6 Million for 6 Utilities Failing to Meet Customer Service Metrics",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DAE388-0000-CC1D-B18C-6D2247CF11F4}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "23-E-0110",
+      "file_name": "pr23060.pdf"
+    }
+  ]
+}

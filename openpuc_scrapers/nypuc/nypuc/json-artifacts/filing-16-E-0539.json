@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0539",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/02/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Update to Submetering System",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0B9D4AF-C8AA-4E63-BEE9-0BDE3799C90A}",
+      "organization": "Haus LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0539",
+      "file_name": "Update to Submetering System. Case 16-E-0539-Signed.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={464DA98C-420A-4197-BC54-1EF6B77F69E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0539",
+      "file_name": "363_16-E-0539.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B98A390-DBEF-4D0D-8C80-11051BB321E7}",
+      "organization": "Haus LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0539",
+      "file_name": "152FreemanSubmetering.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22A4DF97-1EC3-474C-BA1B-AFB625DD1A1F}",
+      "organization": "Haus LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0539",
+      "file_name": "Submetering.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Haus LLC of Intent to Submeter Electricity at 152 Freeman St, Brooklyn NY 11222, Located in the Territory of Consolidated Edison Company of New York, Inc",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C866C5-BCC6-4DCE-8F32-BED00677E8E2}",
+      "organization": "Haus LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0539",
+      "file_name": "152FreemanNoticeofIntent.pdf"
+    }
+  ]
+}

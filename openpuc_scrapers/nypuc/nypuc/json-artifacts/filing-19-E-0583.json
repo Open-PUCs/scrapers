@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0583",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03784265-10BE-4408-B742-220878656ED0}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0583",
+      "file_name": "365 19-E-0583 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={143D9E63-7284-4474-95C3-8D324130A71C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-E-0583",
+      "file_name": "Case 19-E-0583 Con Edison Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Denial of Informal Review Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B38D4A21-7D79-4B82-B36F-215DC7842C50}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0583",
+      "file_name": "969838 Tower West Inc..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Review Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={170E97FE-BBDF-49F3-BE5D-6C3A14421104}",
+      "organization": "Tower West Inc./Grenadeir Realty Corp.",
+      "itemNo": "2",
+      "docket_id": "19-E-0583",
+      "file_name": "Tower West v Consolidated Edison Company Appeal of Denial ofInformal Review.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/11/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Denial of Informal Review Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E5B51D4-EA89-4005-B846-6076E051B436}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0583",
+      "file_name": "969838 Tower West Inc IR request final.pdf"
+    }
+  ]
+}

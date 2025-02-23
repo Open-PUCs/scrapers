@@ -1,0 +1,49 @@
+{
+  "case": "23-G-0354",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={407E618E-0000-C917-A159-22A865C951C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0354",
+      "file_name": "165_23-G-0354.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Letters",
+      "name": "258612 SMR Acknowledgement Letter Wein",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0593189-0000-CD19-A17D-1E2A6138E87E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0354",
+      "file_name": "258612 SMR Ack Letter Wein.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "258612 SMR Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0573189-0000-C813-82A7-46AA429374F0}",
+      "organization": "Wein Realty LLC",
+      "itemNo": "2",
+      "docket_id": "23-G-0354",
+      "file_name": "258612 SMR Request_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Letters",
+      "name": "258612_Wein_SMD_Final_06272023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0463189-0000-CF1E-B8FC-40AD3584B46E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0354",
+      "file_name": "258612_Wein_SMD_Final_06272023_Redacted.pdf"
+    }
+  ]
+}

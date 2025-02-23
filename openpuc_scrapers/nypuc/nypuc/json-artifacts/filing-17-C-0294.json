@@ -1,0 +1,27 @@
+{
+  "case": "17-C-0294",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "45 Day Letter Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99B148FB-A02A-4979-BFC3-9D94C2740FDD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-C-0294",
+      "file_name": "17-C-0294 45 Day Letter Signed - Searchable.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DSCI, LLC for Permission to Participate in Certain Financing Arrangements of U.S. TelePacific Corp. DBA TPx Communications.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D681F4D-3553-4F90-9A75-31FFB1DF11B3}",
+      "organization": "DSCI, LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0294",
+      "file_name": "Petition.pdf"
+    }
+  ]
+}

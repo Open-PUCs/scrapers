@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0472",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901836DE-D0FB-48AE-8E0D-E311649A0FCD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0472",
+      "file_name": "661_21-V-0472.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Watkins Glen, Schuyler County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C46A55FD-C6C9-47FF-A4E2-383450E57B35}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0472",
+      "file_name": "2021 09.02 V. WATKINS GLEN FRANCHISE RENEWAL FILED- PSC .pdf"
+    }
+  ]
+}

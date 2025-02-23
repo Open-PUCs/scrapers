@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0583",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={210B6CAF-9DAE-41E9-B548-763E82F40106}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0583",
+      "file_name": "662_15V0583.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/09/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E909CA91-E0AC-42DC-A80C-B247EC8296DA}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0583",
+      "file_name": "Beacon Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Beacon Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5959C03-CD38-461F-B26A-ACE45BEE4B65}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0583",
+      "file_name": "Beacon Application Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Beacon Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABB39696-266F-48EF-9341-FBBAC9A2B250}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0583",
+      "file_name": "Beacon Exhibit IV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Beacon Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5D8FE93-8C9C-4B08-8CFB-E9054B860646}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0583",
+      "file_name": "Beacon Exhibit III.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Beacon Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B17E6818-5917-476A-A169-7DE9E4FCE562}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0583",
+      "file_name": "Beacon Exhibit II.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Beacon Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF7E42F6-8542-4422-81EB-DD8F4A4BE6CE}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0583",
+      "file_name": "Beacon Exhibit I.pdf"
+    }
+  ]
+}

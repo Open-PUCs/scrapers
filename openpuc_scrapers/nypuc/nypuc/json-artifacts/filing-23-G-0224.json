@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0224",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Reports",
+      "name": "2022 Pipeline Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10F2E488-0000-C919-9FF4-C563F375F2A8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0224",
+      "file_name": "102_23-G-0224.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Cuts Revenues a Record $22.6 Million for 6 Utilities Failing to Meet Customer Service Metrics",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10DBE388-0000-C564-9717-EC7C2C24166C}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "23-G-0224",
+      "file_name": "pr23060.pdf"
+    }
+  ]
+}

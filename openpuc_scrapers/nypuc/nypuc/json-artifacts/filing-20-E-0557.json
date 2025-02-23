@@ -1,0 +1,104 @@
+{
+  "case": "20-E-0557",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAAE674C-65E3-4E0B-B358-20C044319B01}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "8",
+      "docket_id": "20-E-0557",
+      "file_name": "20-E-0557.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C182132-4E79-4997-80DE-4911E7805EEC}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "20-E-0557",
+      "file_name": "375_20-E-0557 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE96CD2A-7735-4005-8C4C-83DB4C795C4D}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0557",
+      "file_name": "response letter (002).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Energy waiver letter for 29-17 40th Avenue, Long Island City, New York 11101.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D857193-8A2F-480F-8198-DA43CB94E8A7}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0557",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/19/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31B26AE1-EEDF-49D3-A677-67F4E843CEAF}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0557",
+      "file_name": "Revised Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84A9F05D-2F43-45FE-97EF-94C6724C8706}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0557",
+      "file_name": "letter 11-16-20.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E96F2525-C05C-49A5-9A51-CCC237187601}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0557",
+      "file_name": "29-17 40th ave - Air Handlers.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C75F591-5DC7-4379-8FB7-D482D8688CC3}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0557",
+      "file_name": "Submetering Identification Form.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D88B754C-28C3-43D6-A1CF-C07BDB526A84}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0557",
+      "file_name": "Submetering Application Part 1.pdf"
+    }
+  ]
+}

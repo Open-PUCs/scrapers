@@ -1,0 +1,49 @@
+{
+  "case": "18-C-0331",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/10/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-C-0331.ExteNetSystems.Hudson Fiber Network.Transfer Indirect Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A134F6-9904-4C62-81D9-C515ABB4164E}",
+      "organization": "Extenet Systems, Inc., Hudson Fiber Network, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-C-0331",
+      "file_name": "18-C-0331.ExteNetSystems.Hudson Fiber Network.Transfer Indirect Control.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={719B7EF9-B619-45A5-8A30-DC9BE5AAFD2F}",
+      "organization": "Extenet Systems, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-C-0331",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={332C40DB-266A-40E6-B489-4C7FEDDF9C65}",
+      "organization": "Extenet Systems, Inc., Hudson Fiber Network, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0331",
+      "file_name": "NY Transmittal Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of ExteNet Systems, Inc. and Hudson Fiber Network Inc. for Approval (1) to Transfer Indirect Control of Hudson Fiber Network Inc. to ExteNet Systems, Inc. and (2) for Hudson Fiber Network Inc. to Participate in Certain Financing Arrangements.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79FF2B48-637C-44FC-951A-E12CC40FE8C0}",
+      "organization": "Extenet Systems, Inc., Hudson Fiber Network, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0331",
+      "file_name": "NY Transfer & Financing Petition.pdf"
+    }
+  ]
+}

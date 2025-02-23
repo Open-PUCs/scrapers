@@ -1,0 +1,71 @@
+{
+  "case": "20-V-0183",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D93C1590-37F3-4608-B651-B5E17087E413}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0183",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letters to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B6B6E11-8CBB-4061-A3DF-B47C4E4EBB34}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-V-0183",
+      "file_name": "19-00770 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/30/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EC4C43B-C59E-4DF6-8A66-3E98638C3CDD}",
+      "organization": "ABRO Management Corp.",
+      "itemNo": "2",
+      "docket_id": "20-V-0183",
+      "file_name": "20190530154902035.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 435 Fort Washington Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1099B360-4D44-4675-A7D4-784249102FEC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0183",
+      "file_name": "Petition (435 Ft Washington Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01AA92DB-28F2-4326-8193-C9C2B82FB611}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0183",
+      "file_name": "Exhibit 2 (435 Ft Washington Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EC146C5-A060-4D67-BAA7-4BC26A501FEA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0183",
+      "file_name": "Exhibit 1 (435 Ft Washington Av).pdf"
+    }
+  ]
+}

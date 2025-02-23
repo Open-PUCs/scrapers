@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0748",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0748 Zeller Additional Request 12192017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={244EB8C2-F1CC-4827-B38F-529D1461B883}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "17-E-0748",
+      "file_name": "17-E-0748 Zeller Additional Request 12192017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0748 Zeller Ack Letter 12042017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE153958-5BFC-4FE0-AF05-792145F82699}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0748",
+      "file_name": "17-E-0748 Zeller Ack Letter 12042017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0748 Zeller Rehearing Request 12012017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95B5D973-8CC9-4E9D-8FF9-84892E7BCDB0}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0748",
+      "file_name": "17-E-0748 Zeller Rehearing Request 12012017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0748 Zeller SMD Final 11062017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25F6C6F8-C28B-4D20-A65C-AC6D4811EA98}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0748",
+      "file_name": "17-E-0748 Zeller SMD Final 11062017_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a petition for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CA68EF4-A8E3-420D-8C4C-9044A4F63D16}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0748",
+      "file_name": "365 Letter_Redacted.pdf"
+    }
+  ]
+}

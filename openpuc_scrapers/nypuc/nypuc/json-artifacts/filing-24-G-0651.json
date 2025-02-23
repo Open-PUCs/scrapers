@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0651",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Letters",
+      "name": "324797 Ponder SMR Ack_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B64093-0000-C112-9E76-D06D103E9903}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0651",
+      "file_name": "324797 Ponder SMR Ack_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Owner SMR Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B54093-0000-CE11-9122-5BDF84C562C4}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-G-0651",
+      "file_name": "Owner SMR Request_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Letters",
+      "name": "324797_Ponder_SMD_Final_10222024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B34093-0000-C523-B096-7672679A54FA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0651",
+      "file_name": "324797_Ponder_SMD_Final_10222024_Redacted.pdf"
+    }
+  ]
+}

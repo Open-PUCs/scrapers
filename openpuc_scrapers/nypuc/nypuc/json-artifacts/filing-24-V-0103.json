@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0103",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FC0B8F-0000-C12E-BC85-FD4BA9588473}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0103",
+      "file_name": "662_24-V-0103.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/13/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DDA38D-0000-CF5A-97F9-3707486AC2BC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0103",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Springwater Letter 2.13.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DDA38D-0000-C817-B265-02FA54E96355}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0103",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Springwater Letter 2.13.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Springwater-Request for Renewal and Certificate of Confirmation(redacted) 02.13.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DDA38D-0000-C819-9751-19E279E2818A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0103",
+      "file_name": "Charter Communications, T. Springwater-Request for Renewal and Certificate of Confirmation(redacted) 02.13.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Springwater Cover Letter- Request for Renewal and Certificate of Confirmation 02.13.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DDA38D-0000-C475-B4E9-9AD9A3DD7BA0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0103",
+      "file_name": "Charter Communications, T. Springwater Cover Letter- Request for Renewal and Certificate of Confirmation 02.13.24.pdf"
+    }
+  ]
+}

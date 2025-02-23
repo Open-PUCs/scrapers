@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0705",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2017",
+      "nypuc_doctype": "Motions",
+      "name": "G-Z/10 UNP Realty, LLC - Request for Extension of Time and Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007A8C84-041B-4E1B-98F8-D983FA24D277}",
+      "organization": "G-Z/10 UNP Realty, LLC",
+      "itemNo": "6",
+      "docket_id": "15-E-0705",
+      "file_name": "50 UN Plaza - Meter Test Plan Extension request.ltr.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing Pursuant to Ordering Clause No. 3 Issued on July 20, 2016",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={288A5B82-EBE6-4CF6-A712-092C9E5FC6D2}",
+      "organization": "G-Z/10 UNP Realty, LLC",
+      "itemNo": "5",
+      "docket_id": "15-E-0705",
+      "file_name": "Compliance Filing Pursuant to Ordering Clause No. 3 Issued on July 20, 2016.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC0A8A5B-63AA-4BC4-A29B-8D23E8B74A3E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0705",
+      "file_name": "371_15e0705.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Copy of Resident Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA7C57D8-A896-46F7-AF07-B7490A39FB40}",
+      "organization": "G-Z/10 UNP Realty, LLC",
+      "itemNo": "3",
+      "docket_id": "15-E-0705",
+      "file_name": "Copy of Resident Notice.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C8ADD78-6BC6-494E-870C-218CB692DAA0}",
+      "organization": "G-Z/10 UNP Realty, LLC",
+      "itemNo": "2",
+      "docket_id": "15-E-0705",
+      "file_name": "Burgess 12-16-15.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/09/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D65310D3-2BBE-4C5B-B936-064E395793B8}",
+      "organization": "G-Z/10 UNP Realty, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0705",
+      "file_name": "Filing Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/09/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "50 UN Plaza_Submetering Notice of Intent_Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79A97E61-823F-40AF-9CB5-B08CC095C440}",
+      "organization": "G-Z/10 UNP Realty, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0705",
+      "file_name": "50 UN Plaza_Submetering Notice of Intent_Final.pdf"
+    }
+  ]
+}

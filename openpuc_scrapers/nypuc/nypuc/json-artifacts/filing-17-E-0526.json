@@ -1,0 +1,82 @@
+{
+  "case": "17-E-0526",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves Expansion of Con Edison's 'Smart AC' Program",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD65F7AB-366B-4439-A5F2-CFFC337D15E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "17-E-0526",
+      "file_name": "pr17094.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FCD062F-E133-4E6A-975F-EA518F32DCD2}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0526",
+      "file_name": "301_17-E-0526.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/03/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={195952E4-9EF5-4879-A6BB-9B1D792281EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0526",
+      "file_name": "17-E-0526 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/01/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-E-0526",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B004DB0-7C2B-466D-AA8B-7BE8CFF53797}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-E-0526",
+      "file_name": "CE Elec Rider L legal notice 2017 1011.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0526",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. to Move a Room Air Conditioning Program to Rider L, Make Changes to Rider L, and Continue Connected Devices Pilot With Modifications.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B22DA36D-0891-4B79-99BB-C74CDF7B0382}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0526",
+      "file_name": "CDP-RiderL Petition.pdf"
+    }
+  ]
+}

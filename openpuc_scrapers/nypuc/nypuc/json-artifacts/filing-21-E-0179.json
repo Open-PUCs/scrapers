@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0179",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "30 Warren Condominium LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={260B9F91-2CDC-490E-AFFD-51B56017F6C7}",
+      "organization": "30 Warren Condominium, LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0179",
+      "file_name": "30 Warren Condominium LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C2F50DF-D839-47A4-91A3-29ACFD57C0DE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0179",
+      "file_name": "368_21-E-0179 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplement to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34DD7F95-D65B-470E-A143-21AA2E3BE07D}",
+      "organization": "30 Warren Condominium, LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0179",
+      "file_name": "Supplemental Filing_30 Warren Condominium, LLC_7.27.20.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent of 30 Warren Condominium LLC - Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87D97016-AFDC-40AE-BE5E-6C0DE26E6783}",
+      "organization": "30 Warren Condominium, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0179",
+      "file_name": "30 Warren Condominium LLC - SAPA Notice Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 30 Warren Condominium, LLC to Submeter Electricity at 30 Warren Street, New York, NY, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FFCFD56-8069-4886-8ABC-8DF3FD2BC51D}",
+      "organization": "30 Warren Condominium, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0179",
+      "file_name": "Submetering notice of intent - 30 Warren FINAL AS FILED.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0577",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DA99BF2-C314-49A3-A2DD-877ED5A9B1C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0577",
+      "file_name": "662_15V0577.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Millbrook Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2101678B-FAEF-4EB8-9C84-76A1E1E53691}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "2",
+      "docket_id": "15-V-0577",
+      "file_name": "Millbrook Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Millbrook Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55F19421-545F-4F1E-930F-AEC4C0A46333}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0577",
+      "file_name": "Millbrook Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Millbrook Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5873C4B-BDEE-4438-834D-877DAF7B06CF}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0577",
+      "file_name": "Millbrook Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Millbrook Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E9E19A-7431-4D49-8996-72D9B512ADE9}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0577",
+      "file_name": "Millbrook Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Millbrook Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A03D2E21-9A80-4FF3-AF30-D7D251CEBE2B}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0577",
+      "file_name": "Millbrook Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Millbrook Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADF6C5C6-D7D4-4E85-9F0E-98E692C570B2}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0577",
+      "file_name": "Millbrook Application Cover Letter.pdf"
+    }
+  ]
+}

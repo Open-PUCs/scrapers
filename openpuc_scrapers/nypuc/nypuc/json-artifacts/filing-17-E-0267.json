@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0267",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B439F7C6-83F0-4F8E-9FBF-EA937557CAE7}",
+      "organization": "Melrose Commons Supportive Housing, L.P.",
+      "itemNo": "5",
+      "docket_id": "17-E-0267",
+      "file_name": "10-2-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={718D1C33-C3EE-4656-A055-776B77D9E4BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0267",
+      "file_name": "362_17-E-0267.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6DDA473-4535-467B-8B8D-D0F78381D042}",
+      "organization": "Melrose Commons Supportive Housing, L.P.",
+      "itemNo": "3",
+      "docket_id": "17-E-0267",
+      "file_name": "response letter 7-27-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for a Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B17BCD5-5898-441B-8140-BB8F6C02FD30}",
+      "organization": "Melrose Commons Supportive Housing, L.P.",
+      "itemNo": "2",
+      "docket_id": "17-E-0267",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Melrose Commons Supportive Housing, L.P. to Submeter Electricity at 425 East 161 Street, Bronx, New York 10451, Located in the Territory of Consolidated Edison Company of New York, lnc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59A5AA83-2587-4E60-8E2F-BFB5E5EFE254}",
+      "organization": "Melrose Commons Supportive Housing, L.P.",
+      "itemNo": "1",
+      "docket_id": "17-E-0267",
+      "file_name": "submetering application 5-11-17.pdf"
+    }
+  ]
+}

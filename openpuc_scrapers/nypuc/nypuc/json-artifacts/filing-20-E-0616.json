@@ -1,0 +1,82 @@
+{
+  "case": "20-E-0616",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A16D1070-423C-4759-ADDF-812F6AAE8BFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0616",
+      "file_name": "366_20-E-0616 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF05191B-C7F0-4A45-AA95-CEE4CA6EC09A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0616",
+      "file_name": "366_20-E-0616 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison\u00bfs response to the Customer\u00bfs appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDAEE69B-F42B-466B-BD71-273B2E534FB5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-E-0616",
+      "file_name": "Case 20-E-0616 Con Edison Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59A845B8-EC57-4445-ACB0-3127F8FD2DD9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0616",
+      "file_name": "Appeal 964056.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={605D0BDC-EC02-49EA-9CA7-091B0BB899F7}",
+      "organization": "Charlotte Realty Co./Katz Realty",
+      "itemNo": "2",
+      "docket_id": "20-E-0616",
+      "file_name": "APPEAL OF INFORMAL DETERMINATION - Charlotte Realty v Con Edison (964056) - Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F14FB61-F100-4398-B658-200334CC8C71}",
+      "organization": "Charlotte Realty Co./Katz Realty",
+      "itemNo": "2",
+      "docket_id": "20-E-0616",
+      "file_name": "APPEAL OF INFORMAL DETERMINATION - Charlotte Realty v Con Edison (964056).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE5F53BE-6C8B-4EFC-8AB3-743F1138C51C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0616",
+      "file_name": "Charlotte Realty Co. Katz Realty- URAC vs Con Edison case 964056 .pdf"
+    }
+  ]
+}

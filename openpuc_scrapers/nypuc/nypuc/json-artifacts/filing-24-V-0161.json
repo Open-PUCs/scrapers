@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0161",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70799C8F-0000-C370-88DE-F62F1C2AF245}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0161",
+      "file_name": "663_24-V-0161_52124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Nassau Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201C398E-0000-CD81-A94E-9C6B6A9DEB78}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0161",
+      "file_name": "T. Nassau Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Nassau Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 03.12.24SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201C398E-0000-CE60-9148-C096C5D2B400}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0161",
+      "file_name": "T. Nassau Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 03.12.24SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201C398E-0000-C340-8EE9-9897EC01EFF9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0161",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Nassau 03.12.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={101C398E-0000-C216-AB22-CF2BA85ED12B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0161",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Nassau 03.12.24.pdf"
+    }
+  ]
+}

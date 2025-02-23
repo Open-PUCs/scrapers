@@ -1,0 +1,82 @@
+{
+  "case": "24-W-0303",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Short Environmental Assessment Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70156792-0000-CF15-ACC4-5BAACA172789}",
+      "organization": "Minder Road Water Inc.",
+      "itemNo": "2",
+      "docket_id": "24-W-0303",
+      "file_name": "Short Environmental Assessment Part 1.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Minder Road HOA Water Budget",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3066878F-0000-C09C-A9EF-2FD4FD85A6A6}",
+      "organization": "Minder Road Water Inc., Robert & Eleanor Kelley dba Kelley Water Works",
+      "itemNo": "1",
+      "docket_id": "24-W-0303",
+      "file_name": "Minder Road HOA water budget 05 12 24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Minder Road Bylaws",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3066878F-0000-C179-91EB-0DA436569989}",
+      "organization": "Minder Road Water Inc., Robert & Eleanor Kelley dba Kelley Water Works",
+      "itemNo": "1",
+      "docket_id": "24-W-0303",
+      "file_name": "Minder Road bylaws executed 05 12 24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Minder Rd Water Real Estate Sales Contract",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3066878F-0000-CF59-96C8-6DD95365B434}",
+      "organization": "Minder Road Water Inc., Robert & Eleanor Kelley dba Kelley Water Works",
+      "itemNo": "1",
+      "docket_id": "24-W-0303",
+      "file_name": "Minder Rd Water real estate sales contract 05 12 24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Minder Rd PSC Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3066878F-0000-C63B-BCA2-8C6118F3D8B7}",
+      "organization": "Minder Road Water Inc., Robert & Eleanor Kelley dba Kelley Water Works",
+      "itemNo": "1",
+      "docket_id": "24-W-0303",
+      "file_name": "Minder Rd PSC Transfer 05 12 24.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Minder Rd Budget 06 23 22 erh",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3066878F-0000-C51A-95C7-96AC15A162B9}",
+      "organization": "Minder Road Water Inc., Robert & Eleanor Kelley dba Kelley Water Works",
+      "itemNo": "1",
+      "docket_id": "24-W-0303",
+      "file_name": "Minder Rd Budget 06 23 22 erh.xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3066878F-0000-C6BE-8B86-CCA1FB15A48C}",
+      "organization": "Minder Road Water Inc., Robert & Eleanor Kelley dba Kelley Water Works",
+      "itemNo": "1",
+      "docket_id": "24-W-0303",
+      "file_name": "NYS PSC Transfer Intro Letter 05 15 24.pdf"
+    }
+  ]
+}

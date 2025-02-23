@@ -1,0 +1,38 @@
+{
+  "case": "15-G-0735",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice that Econopower, LLC will terminate its eligibility to operate as an ESCO in New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B9F284C-8CBE-4FB2-95F3-E292AC15CD60}",
+      "organization": "Econopower, LLC",
+      "itemNo": "2",
+      "docket_id": "15-G-0735",
+      "file_name": "Econopower Termination Letter 1.26.16.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1C924F0-325C-4BEE-88FC-9F31A4FA589B}",
+      "organization": "Econopower, LLC",
+      "itemNo": "2",
+      "docket_id": "15-G-0735",
+      "file_name": "Cover.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93484D69-DA54-4B18-BA4A-B03196823763}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "15-G-0735",
+      "file_name": "161_15g0735.pdf"
+    }
+  ]
+}

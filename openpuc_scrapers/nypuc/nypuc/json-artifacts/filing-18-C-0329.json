@@ -1,0 +1,60 @@
+{
+  "case": "18-C-0329",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DAB45182-F754-4070-8DDB-E2ED87343862}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-C-0329",
+      "file_name": "565_18-C-0329.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3898538C-A765-4E82-B6E2-5066A8E6570F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-C-0329",
+      "file_name": "562_18-C-0329.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2018",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Expands Rural Low-Income Broadband Opportunities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22D560FB-BA94-45E3-9701-77C31E08FA68}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-C-0329",
+      "file_name": "pr18067.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Armstrong Telecommunications, Inc. for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFE6B589-DB81-4876-9198-A27C4090280A}",
+      "organization": "Armstrong Telecommunications, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0329",
+      "file_name": "Armstrong ETC Application 5-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81022CF0-B225-4CDC-BC92-230F5949A221}",
+      "organization": "Armstrong Telecommunications, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0329",
+      "file_name": "Armstrong ETC Application Filing Letter 5-18.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "16-T-0422",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Certificate",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D889AB07-0B86-49D6-BBD7-F000BAE974F4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-T-0422",
+      "file_name": "163_16t0422.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/03/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition of Emkey Resources, LLC and Minard Run Oil Company for Approval to Transfer One Article VII Certificate.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D3D4C0-C5FA-4B27-B886-DC5CC9A4F1F2}",
+      "organization": "Emkey Resources, LLC, Minard Run Oil Company",
+      "itemNo": "1",
+      "docket_id": "16-T-0422",
+      "file_name": "Hon. Kathleen H. Burgess 8-3-16 & Petition & Cert of Service.pdf"
+    }
+  ]
+}

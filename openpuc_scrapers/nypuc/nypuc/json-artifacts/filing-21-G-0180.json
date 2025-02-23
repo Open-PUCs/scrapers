@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0180",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-G-0180 O'Brien Ack Letter 03252021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9693162A-2231-4ECB-8C46-37AFD896121B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-G-0180",
+      "file_name": "21-G-0180 O'Brien Ack Letter 03252021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-G-0180 O'Brien Rehearing Request 03252021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21B35D71-DF9E-4082-93F4-881563408C75}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-G-0180",
+      "file_name": "21-G-0180 O'Brien Rehearing Request 03252021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-G-0180 O'Brien SMD Final 03182021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6B6C5F0-B682-4DD2-AF72-1FAB150233A4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-G-0180",
+      "file_name": "21-G-0180 O'Brien SMD Final 03182021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B6B5D39-49CF-4F14-BD4F-1E7AF839204E}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-G-0180",
+      "file_name": "164_ 21-G-0180 Letter final_Redacted.pdf"
+    }
+  ]
+}

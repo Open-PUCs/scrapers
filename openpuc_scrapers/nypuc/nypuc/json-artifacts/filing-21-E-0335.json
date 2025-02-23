@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0335",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/09/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4799F55-3458-4D6F-B016-D8F4DF1AF9A5}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0335",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/09/2022",
+      "nypuc_doctype": "Motions",
+      "name": "2022-05-09 NYSEG Town of Ithaca Workpapers - TS Letter (21-E-0335)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={828C0948-431F-48AB-AEEC-FC0F0D7F523F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0335",
+      "file_name": "2022-05-09 NYSEG Town of Ithaca Workpapers - TS Letter (21-E-0335).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/09/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2022-05-09 NYSEG Town of Ithaca Final Journal Entries - Cover Letter (21-E-0335)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DEAF44E-89B3-4217-B9E7-1BBB5BE8A030}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0335",
+      "file_name": "2022-05-09 NYSEG Town of Ithaca Final Journal Entries - Cover Letter (21-E-0335).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/09/2022",
+      "nypuc_doctype": "Reports",
+      "name": "2022-05-09 NYSEG Town of Ithaca Final Journal Entries (21-E-0335)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6AEF846-3952-4ABE-AF24-41B959A66D00}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0335",
+      "file_name": "2022-05-09 NYSEG Town of Ithaca Final Journal Entries (21-E-0335).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1D5A231-70D6-4998-870C-51B1438800EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0335",
+      "file_name": "365_21-E-0335 Neg. Dec.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E1A8173-F3AE-43BC-8D9F-71DBE722D9A3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0335",
+      "file_name": "365_21-E-0335 final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/31/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG & Town of Ithaca Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={353E98E4-7D89-4386-AD5D-95E94E284A2D}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "21-E-0335",
+      "file_name": "2021-08-31 NYSEG & Town of Ithaca Section 70 Petition CORRECTION.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG & Town of Ithaca Section 70 SL Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CFDB03D-D0CD-464E-9467-F6D1A2B1F1D2}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "21-E-0335",
+      "file_name": "NYSEG & Town of Ithaca Section 70 SL Petition.pdf"
+    }
+  ]
+}

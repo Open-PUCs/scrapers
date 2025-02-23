@@ -1,0 +1,93 @@
+{
+  "case": "22-E-0663",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={355DE2CE-EA24-4AFB-BE4A-A844E0D04A74}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0663",
+      "file_name": "371_22-E-0663.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/05/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Redacted Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78D38B36-20E5-486E-A960-C50091EEF4DF}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0663",
+      "file_name": "Redacted Exhibit A.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/05/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Phillips Cover Letter FINAL REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B2A5267-250C-4549-96A8-F00279DF1F15}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0663",
+      "file_name": "Phillips Cover Letter 1-5-22 FINAL REDACTED (1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/05/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={047B7E45-6A31-44FE-9F73-BA3BB5F295FB}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0663",
+      "file_name": "Trade Secret 1-5-22 FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Exhibit B FINAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57634029-F0F9-42A0-906B-E04AEB149DAE}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0663",
+      "file_name": "Supplemental Exhibit B FINAL.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E074C213-D255-42B9-A84F-592610CC82EB}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0663",
+      "file_name": "Phillips Cover Letter 12-14-22 FINAL.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition for a Declaratory Ruling Concerning the Transfer of Upstream Ownership Interests.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B8DF933-2E63-49D7-8114-CA588B328CBA}",
+      "organization": "ESI Energy, LLC, Eight Point Wind, LLC, Emerald Breeze Funding, LLC, Emerald Breeze Holdings, LLC, NEP Renewables Holdings IV, LLC, NEP Renewables IV, LLC, NEP US SellCo, LLC, NextEra Energy Partners Acquisitions, LLC, OTPP Beach Borrower, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0663",
+      "file_name": "Eight Point Wind Petition 11-23-2022.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A9626F1-D9AF-4FBE-9CA4-61AABC81A5D5}",
+      "organization": "ESI Energy, LLC, Eight Point Wind, LLC, Emerald Breeze Funding, LLC, Emerald Breeze Holdings, LLC, NEP Renewables Holdings IV, LLC, NEP Renewables IV, LLC, NEP US SellCo, LLC, NextEra Energy Partners Acquisitions, LLC, OTPP Beach Borrower, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0663",
+      "file_name": "Phillips Cover Letter 11-23-22.pdf"
+    }
+  ]
+}

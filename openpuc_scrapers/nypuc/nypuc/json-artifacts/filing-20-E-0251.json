@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0251",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0251 Cadet Ack Letter 04102020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9F185A9-E519-49E4-982F-E30FBCE89860}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0251",
+      "file_name": "20-E-0251 Cadet Ack Letter 04102020_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0251 Cadet Rehearing Request 03022020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F695DEA1-706B-4BB9-9CE2-B326E2BB144F}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0251",
+      "file_name": "20-E-0251 Cadet Rehearing Request 03022020_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0251 Cadet SMD Final 02282020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50448A24-0A74-4FEB-BEB1-71A8125D052F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0251",
+      "file_name": "20-E-0251 Cadet SMD Final 02282020_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD56776D-5B01-4D95-8C8F-68CD418C6436}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0251",
+      "file_name": "365 20-E-0251 Letter final Redacted.pdf"
+    }
+  ]
+}

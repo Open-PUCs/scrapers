@@ -1,0 +1,60 @@
+{
+  "case": "17-S-0543",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={766C807E-076A-4A38-A4FC-3A00CB2D4CB7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-S-0543",
+      "file_name": "263 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDD1D628-D719-4CAD-8E68-CFF684762D64}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-S-0543",
+      "file_name": "263 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={425B7D75-2D93-4F13-8AE9-7FFD29ACA7A5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-S-0543",
+      "file_name": "114 Tenants ACK Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43546A2E-AAA4-4054-B4D5-E7593EBFDE84}",
+      "organization": "114 Tenants Corp.",
+      "itemNo": "2",
+      "docket_id": "17-S-0543",
+      "file_name": "114 Tenants Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8974F889-D0ED-47CA-8E7A-C5608721BB7A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-S-0543",
+      "file_name": "114 Tenants IH.pdf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case": "23-E-0220",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5077328D-0000-CF19-8D7E-2C9096179842}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0220",
+      "file_name": "371_23-E-0220 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/31/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2036528A-0000-C718-B258-977A28C6A279}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "4",
+      "docket_id": "23-E-0220",
+      "file_name": "Case 23-E-0220 - Letter to RAO request for protection (test meter).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908F1E8A-0000-C95F-A254-F247B6DBA2E9}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "23-E-0220",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit A_Redacted Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908F1E8A-0000-C178-AB89-ACF8718539AB}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "23-E-0220",
+      "file_name": "Exhibit A_Redacted Test Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 23-E-0220_Supplemental Filing_miniQloset testing report_without Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908F1E8A-0000-CA1C-B49B-45FAE3E96F39}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "23-E-0220",
+      "file_name": "Case 23-E-0220_Supplemental Filing_miniQloset testing report_without Exhibit A.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Case 23-E-0220 - Letter to RAO request for protection",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908F1E8A-0000-CA3E-92D5-1E6AB0020520}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "23-E-0220",
+      "file_name": "Case 23-E-0220 - Letter to RAO request for protection.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E8B887-0000-C73A-989D-1991CFF46009}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0220",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 23-E-________Letter to Secretary Filing Application for Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={208DB987-0000-C11B-9ECC-2D84D36BC3C9}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0220",
+      "file_name": "Case 23-E-________Letter to Secretary Filing Application for Approval.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Case 23-E-____Application for Approval of miniQloset_REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E8B887-0000-C752-BAC9-04B53CC36839}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0220",
+      "file_name": "Case 23-E-____Application for Approval of miniQloset_REDACTED.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Case 23-E-_ Letter to RAO Requesting Protected Status re Application miniQloset",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E8B887-0000-C113-A52E-0CB0D02459EE}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0220",
+      "file_name": "Case 23-E-_ Letter to RAO Requesting Protected Status re Application miniQloset.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0393",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23E5F5FB-C3C3-4BF1-8C01-D4CFDAB52E3E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0393",
+      "file_name": "661_21-V-0393.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Argyle, Washington County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA65BF29-F3BF-4A8E-AC81-6AE8FDE481C4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0393",
+      "file_name": "V. Argyle - To Be Filed with PSC.pdf"
+    }
+  ]
+}

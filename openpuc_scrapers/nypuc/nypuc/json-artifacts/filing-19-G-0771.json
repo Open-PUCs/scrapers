@@ -1,0 +1,71 @@
+{
+  "case": "19-G-0771",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/06/2020",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B1E8357-551C-4435-B950-782862E14693}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "5",
+      "docket_id": "19-G-0771",
+      "file_name": "Case 19-G-0771 - National Grid Status Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "2020-0075 - NY State - IM Assessment - Brooklyn Union - National Grid Signed LOD",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={800C0E7D-0C81-4E4E-BDC1-DB2141B7C319}",
+      "organization": "United States Department of Transportation",
+      "itemNo": "4",
+      "docket_id": "19-G-0771",
+      "file_name": "2020-0075 - NY State - IM Assessment - Brooklyn Union - National Grid Signed LOD.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver and Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D432DE23-05C3-4ADB-BC85-084A0842E762}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-G-0771",
+      "file_name": "164_19-G-0771 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Follow-Up on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05645429-B1CD-4138-8504-1A04BA91F2E0}",
+      "organization": "The Brooklyn Union Gas Company",
+      "itemNo": "2",
+      "docket_id": "19-G-0771",
+      "file_name": "Case 19-G-0771 - National Grid Supplemental Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "SAPA Form of Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB0E6F7F-DB7A-4F4A-B466-FC52DDF36869}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "19-G-0771",
+      "file_name": "Case 19-G-XXXX - SAPA Form of Notice.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Brooklyn Union Gas Company d/b/a National Grid NY for a Waiver of Reassessment Interval Contained in 16 NYCRR, Section 255.939.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC5F24C8-84A4-4971-A3AA-AE9D59D1E422}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "19-G-0771",
+      "file_name": "Case 19-G-XXXX - National Grid Waiver Request.pdf"
+    }
+  ]
+}

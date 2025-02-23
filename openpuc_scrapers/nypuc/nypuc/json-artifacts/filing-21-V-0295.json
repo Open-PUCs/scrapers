@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0295",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC83C82F-2C59-480A-984B-FDF235795C35}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0295",
+      "file_name": "667_21-V-0295 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Canastota, County of Madison.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4293BD61-3589-4104-B369-E8C2E61EC9F7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0295",
+      "file_name": "2021.05.21 V. CANASTOTA RENEWAL FILED, PSC-AK.pdf"
+    }
+  ]
+}

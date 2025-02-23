@@ -1,0 +1,93 @@
+{
+  "case": "16-V-0029",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F80A6FB8-0651-4CAC-BCAA-FBD60F7388E2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-V-0029",
+      "file_name": "663_16v0029.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Staff Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={293D8044-6BFB-4199-B09B-5E289E7BD741}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-V-0029",
+      "file_name": "CVC - Southampton letter re PSC Case _16-V-0029 2.29.16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/05/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Southampton Town Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70305510-BDFA-4DFA-B33B-5C84686C4847}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-V-0029",
+      "file_name": "Southampton Town Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Southampton Town - Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={475409DE-38D9-4756-990B-0CF9C1A75AB4}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0029",
+      "file_name": "Southampton Town - Exhibit IV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Southampton Town - Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2B3C992-EA34-4EAC-8E74-23DFC8484C93}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0029",
+      "file_name": "Southampton Town - Exhibit III.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Southampton Town - Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CA84124-2F08-4A55-AB42-B23A83C50324}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0029",
+      "file_name": "Southampton Town - Exhibit II.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Southampton Town - Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4CF0BDF-C462-449B-85DC-4AADD27D68B7}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0029",
+      "file_name": "Southampton Town - Exhibit I.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of CSC Acquisition-NY, Inc. for Approval of the Renewal of its Franchise with the Town of Southampton, Suffolk County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFE38355-A921-4331-99BB-B598BFBE68D6}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0029",
+      "file_name": "Southampton Town Application Cover Letter.pdf"
+    }
+  ]
+}

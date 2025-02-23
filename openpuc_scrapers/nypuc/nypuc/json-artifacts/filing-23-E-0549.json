@@ -1,0 +1,93 @@
+{
+  "case": "23-E-0549",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pacific Hicks Owner 1 LLC - Updated Submeterer ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F64B91-0000-C95A-B458-02EDDB7F9415}",
+      "organization": "Pacific Hicks Owner 1 LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0549",
+      "file_name": "Pacific Hicks Owner 1 LLC - Updated Submeterer ID Form.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pacific Hicks Owner 1 LLC - Updated R&R",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F64B91-0000-C77F-B5C2-434E2DE76BEE}",
+      "organization": "Pacific Hicks Owner 1 LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0549",
+      "file_name": "Pacific Hicks Owner 1 LLC - Updated R&R.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pacific Hicks Owner 1 LLC - Updated HEFPA Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F64B91-0000-CE9B-BD7C-31CC6ADA6B11}",
+      "organization": "Pacific Hicks Owner 1 LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0549",
+      "file_name": "Pacific Hicks Owner 1 LLC - Updated HEFPA Plan.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pacific Hicks Owner 1 LLC - Executed COC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F64B91-0000-C639-8D68-71AC97F3491A}",
+      "organization": "Pacific Hicks Owner 1 LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0549",
+      "file_name": "Pacific Hicks Owner 1 LLC - Executed COC.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F64B91-0000-C413-ACC1-EEA1DCCC553C}",
+      "organization": "Pacific Hicks Owner 1 LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0549",
+      "file_name": "Pacific Hicks Owner 1 LLC - Cover Letter - COC & Updated Documents.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0240A91-0000-CE18-AF84-FCB45044C984}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0549",
+      "file_name": "371_23-E-0549 .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Pacific Hicks Owner 1 LLC - Notice of Intent to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F087DD8A-0000-CE36-9D99-C95DE59742FA}",
+      "organization": "Pacific Hicks Owner 1 LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0549",
+      "file_name": "Pacific Hicks Owner 1 LLC - Final NOI.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F087DD8A-0000-C715-8D5C-FE93D7A7B4F1}",
+      "organization": "Pacific Hicks Owner 1 LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0549",
+      "file_name": "Notice of Intent to Submeter Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "19-W-0682",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/28/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Saratoga Water Services Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31C47DF8-C856-499D-8035-1F4481A38BC6}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-W-0682",
+      "file_name": "Saratoga Water Services Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/28/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={816C4236-8200-4587-8358-F7D81E33B423}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-W-0682",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5914489-B792-42FA-937A-E453C8D9FE85}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-W-0682",
+      "file_name": "461_19-W-0682.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Proposed Rule Making",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61A7FB9A-CD1B-4D37-AE29-64DDE70014CA}",
+      "organization": "Millerton Co-op, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0682",
+      "file_name": "Notice of Proposed Rule Making 191016.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E4C6132-FE79-4C7A-9F1A-01F66FFEF63D}",
+      "organization": "Millerton Co-op, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0682",
+      "file_name": "SWS- Millerton, Letter of Transmittal to Burgess 191016.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition by Saratoga Water Services, Inc. and Millerton Co-op, Inc., for Approval of an Extension Agreement and Waivers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FC9D8EF-C677-4CD6-9651-04DF60076758}",
+      "organization": "Millerton Co-op, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0682",
+      "file_name": "SWS-Millerton Petition to Extn Serv Area 191016.pdf"
+    }
+  ]
+}

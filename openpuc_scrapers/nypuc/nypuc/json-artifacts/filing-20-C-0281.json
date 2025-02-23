@@ -1,0 +1,49 @@
+{
+  "case": "20-C-0281",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "State Directory Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={492D59CD-AFA2-46A0-8806-C36B390DC76F}",
+      "organization": "State Telephone Company",
+      "itemNo": "4",
+      "docket_id": "20-C-0281",
+      "file_name": "State Directory Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B81EBBA-0913-4F18-802A-D9035721E0C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-C-0281",
+      "file_name": "562_20-C-0281 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C5B4D98-AB58-4731-BC76-A7276EFBC362}",
+      "organization": "State Telephone Company",
+      "itemNo": "2",
+      "docket_id": "20-C-0281",
+      "file_name": "State Petition Update.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/09/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "State Tel. Petition for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC8E248F-3931-4700-A15C-0A45705C2303}",
+      "organization": "State Telephone Company",
+      "itemNo": "1",
+      "docket_id": "20-C-0281",
+      "file_name": "State Tel. Petition for Waiver.pdf"
+    }
+  ]
+}

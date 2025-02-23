@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0188",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240614 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0AD5F90-0000-C413-B179-CB76B8063ABD}",
+      "organization": "Koran Landscape & Irrigation Services, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0188",
+      "file_name": "20240614 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={403DA18F-0000-C92F-8CD7-C98C68831F47}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-G-0188",
+      "file_name": "161_24-G-0188.pdf"
+    }
+  ]
+}

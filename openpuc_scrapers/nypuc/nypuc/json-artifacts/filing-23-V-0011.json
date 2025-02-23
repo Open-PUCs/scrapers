@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0011",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20280587-0000-C019-B003-5F5A443B4EAB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0011",
+      "file_name": "662_23-V-0011.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02064 Letter to Building Owner_429 W 154 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={824D26D9-8C92-45DC-AF10-0D599ED7DC4B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0011",
+      "file_name": "22-02064 Letter to Building Owner_429 W 154 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 429 West 154th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05C4F376-3F74-449D-9B9A-166A9FA21B72}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0011",
+      "file_name": "221019-19 Petition (429 W 154 ST) (Post-Survey).pdf"
+    }
+  ]
+}

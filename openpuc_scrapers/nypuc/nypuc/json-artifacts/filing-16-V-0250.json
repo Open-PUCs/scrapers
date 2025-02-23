@@ -1,0 +1,38 @@
+{
+  "case": "16-V-0250",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73A8B91C-BEAD-49BC-9512-AA3FE9E178E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0250",
+      "file_name": "663_16v0250.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revision to Page 19 - Public Hearing Notice Year Changed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8E014EB-40D3-4B4E-93AD-EA75FD7F9FB9}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0250",
+      "file_name": "06202016 v of richville - pub hrng notice year changed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Richville, St. Lawrence County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83A176B5-288D-4687-B7BD-CAAD5DF7D92A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0250",
+      "file_name": "Richville.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0626",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09782A75-1035-42B3-B562-09E31541C8A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0626",
+      "file_name": "663_21-V-0626.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Bath, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84A97744-453A-4763-95CD-411AFF1DA349}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0626",
+      "file_name": "2021.12.15 T.BATH RENEWAL PETITION FILED-PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "17-T-0303",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/01/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1F79109-2CAD-48F2-AD55-EE441F83F457}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0303",
+      "file_name": "17-T-0303 Letter Regarding T5690 Rotterdam New Scotland signed.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Part 102 Report of National Grid Concerning the Rotterdam-New Scotland #19 Transmission Line Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FD4B524-F686-445D-AED4-CB8CA18F73BE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0303",
+      "file_name": "National Grid Rotterdam-NewScotland Part 102.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D090A0A-5FFA-49D6-A807-2595708B4FCF}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0303",
+      "file_name": "Cover Letter for Rotterdam-New Scotland CCR Project Part 102.pdf"
+    }
+  ]
+}

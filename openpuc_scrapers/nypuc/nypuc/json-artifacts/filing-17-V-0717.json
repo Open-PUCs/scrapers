@@ -1,0 +1,60 @@
+{
+  "case": "17-V-0717",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B3A968A-9761-4EE3-9E89-84788DA13AFA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0717",
+      "file_name": "663_17-V-0717.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7AB475A6-DBB2-40B2-9FE2-48395A17FC05}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0717",
+      "file_name": "17-00736 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 170 West 81st Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11872F99-0EFE-4C99-903F-4ED61BBD87F8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0717",
+      "file_name": "170412 Petition re 170 W 81 St.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC69EFF4-051B-4E27-9A2B-EDB81A6D8ABD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0717",
+      "file_name": "Exhibit 2 (170 W 81 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={275D64AB-996E-4A1C-AAED-3985E4C5D0FF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0717",
+      "file_name": "Exhibit 1 (170 W 81 St).pdf"
+    }
+  ]
+}

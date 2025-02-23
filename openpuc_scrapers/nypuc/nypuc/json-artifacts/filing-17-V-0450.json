@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0450",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDB77A87-9900-48AB-9B8D-FE0BA4ABBCE7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0450",
+      "file_name": "663_17-V-0450.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Lima, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F6CBCCE-464C-48FA-9FA6-C935AAEFF73E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0450",
+      "file_name": "07.24.17 - LIMA, VLG FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

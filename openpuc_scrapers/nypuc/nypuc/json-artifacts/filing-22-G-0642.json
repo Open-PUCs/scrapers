@@ -1,0 +1,49 @@
+{
+  "case": "22-G-0642",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Filing Tax Exemption Certificates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E62B6441-38EF-49D3-9C9C-3145B4C07E87}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0642",
+      "file_name": "161_22-G-0642_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 22-G-0462 - URAC Petition for Declaratory Ruling (National Grid Response)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65981764-3BB2-433B-BD6E-0EB07D2276F2}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "2",
+      "docket_id": "22-G-0642",
+      "file_name": "Case 22-G-0462 - URAC Petition for Declaratory Ruling (National Grid Response).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E80CAFCA-2399-4EB2-AF1F-367437236486}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "22-G-0642",
+      "file_name": "2022-11-10 - Petition for Declaratory Ruling - NGRID not accepting TP 385 at its offices.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78169763-4B67-45E0-BB97-CEF51DC277E5}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "22-G-0642",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

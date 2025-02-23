@@ -1,0 +1,49 @@
+{
+  "case": "16-V-0026",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9108CFE-A955-461C-8B32-E65A8FEA6A94}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0026",
+      "file_name": "663_16v0026.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/10/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Warren SEQR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={733BD2D3-6322-4D4F-A808-4B5CCAE407E5}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0026",
+      "file_name": "02102016 T of Warren SEQR.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Resubmission to Secretary - Town of Warren",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E712F657-ED43-4353-8D09-C099694F9ADF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0026",
+      "file_name": "02102016 resubmission to secretary - t of Warren.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for a Certificate of Confirmation for its Franchise with the Town of Warren, Herkimer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3959CC3A-C34F-4A8D-BE80-46E92A6DCF2E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0026",
+      "file_name": "01202016 t of warren submission to psc.pdf"
+    }
+  ]
+}

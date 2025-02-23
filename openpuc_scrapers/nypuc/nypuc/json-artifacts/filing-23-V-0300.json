@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0300",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B04C238A-0000-CE1A-8081-D5321F018CF9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0300",
+      "file_name": "661_23-V-0300 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "AUSA Newspaper Cover Letter - Northport, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30489188-0000-C132-BDC8-6869ABB2B75D}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0300",
+      "file_name": "AUSA Newspaper Cover Letter - Northport, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "AUSA Newspaper Affidavit - Northport, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30489188-0000-C013-AC12-C52553EE31D5}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0300",
+      "file_name": "AUSA Newspaper Affidavit - Northport, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0189188-0000-C059-9EA4-94F7169C48B1}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0300",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Huntington Corporation for Approval of the Renewal of its Franchise with the Village of Northport, Suffolk County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0189188-0000-C3B0-B71B-B9AE4D62EE38}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0300",
+      "file_name": "Application Cover Letter - Northport, V..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Northport, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0189188-0000-C790-AAC9-2A8FB63194CE}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0300",
+      "file_name": "Exhibit IV - Northport, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0189188-0000-CB78-93F0-78FC65868493}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0300",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0189188-0000-C633-B204-15FEAE42382C}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0300",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0189188-0000-CD1D-8A80-4F1E2B2A1B7B}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0300",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

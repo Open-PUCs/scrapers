@@ -1,0 +1,38 @@
+{
+  "case": "16-T-0672",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/13/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E8B2771-CDFB-44DE-8505-BDFFF472972D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-T-0672",
+      "file_name": "16-T-0672-Nat Grid-Part 102 Ltr.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Whitehall-Blissville #7 Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4052BE1-BA49-436D-8CFE-8271DDCC3A1B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0672",
+      "file_name": "Whitehall-Blissville Part 102_(FINAL)_11 16 2016.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3067FDAA-B728-43DA-825E-93457EBD5491}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0672",
+      "file_name": "Whitehall-Blissville #7 CCR Part 102 -- Zafonte Cover Letter.pdf"
+    }
+  ]
+}

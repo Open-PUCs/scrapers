@@ -1,0 +1,49 @@
+{
+  "case": "15-V-0391",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9014CFBC-FF57-4CA8-8642-C1B2EEA71915}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-V-0391",
+      "file_name": "663_15V0391.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Published legal and affidavit for the Application of Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27F7D9B6-7EE4-46AF-9239-37818B581486}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "15-V-0391",
+      "file_name": "11042015 v of dolgeville - legal notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/04/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8EA1561-D986-4405-9A48-B3E7C402B60A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "15-V-0391",
+      "file_name": "v of volgeville - legal notice.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Dolgeville, Herkimer County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AD80603-C01C-4F5A-BC4A-4ADDF0F583A3}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0391",
+      "file_name": "07072015 v of dolgeville submission to psc.pdf"
+    }
+  ]
+}

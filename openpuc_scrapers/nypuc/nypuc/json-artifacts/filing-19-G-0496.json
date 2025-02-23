@@ -1,0 +1,71 @@
+{
+  "case": "19-G-0496",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2020",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9029555-F2FF-4388-A7AF-E222E3CD6B45}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-G-0496",
+      "file_name": "164 Determination Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86E642D3-7D54-4512-8A98-0A5938E8E97F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-G-0496",
+      "file_name": "164 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/06/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hebrew Academy - National Grid Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46B9046D-B7EE-4327-BBAD-1D3EB1B6E4F3}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "19-G-0496",
+      "file_name": "Hebrew Academy NG response to IHD appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00F0DADC-4FF1-48C3-ADBF-FFAD63311B09}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-G-0496",
+      "file_name": "725229 Hebrew Academy.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/03/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5453FFA0-4B7B-4E64-9E3E-460C5D56BD05}",
+      "organization": "Hebrew Academy of 5 Towns",
+      "itemNo": "2",
+      "docket_id": "19-G-0496",
+      "file_name": "Hebrew acadey of 5 Towns.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49EB14F0-AE47-4974-BB1A-D5B2833C3CC1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-G-0496",
+      "file_name": "Hebrew Academy of 5 Towns Determination.pdf"
+    }
+  ]
+}

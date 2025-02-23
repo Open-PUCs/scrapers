@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0167",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of a informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97B22DF5-1179-40C0-B66A-14538D853848}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0167",
+      "file_name": "371 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={910D5842-CC63-4BDE-AB7B-EEC3A8467D6F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0167",
+      "file_name": "Stasior Ack Letter 519207_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92CDCCB5-9823-46EE-A983-3E15BA8DFBA2}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0167",
+      "file_name": "Appeal of the Decision (002)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EFE9D62-FF92-4608-BA52-0268A8A55B4E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0167",
+      "file_name": "Case 519207 IH Decision (002)_Redacted.pdf"
+    }
+  ]
+}

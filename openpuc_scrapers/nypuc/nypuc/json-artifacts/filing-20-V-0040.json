@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0040",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51DB0451-15CD-4EB2-B28E-AF4E035B2721}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0040",
+      "file_name": "661_20-V-0040 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "01.27.20 T. SCIO RENEWAL SUBMISSION TO PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32CA84C8-BD66-4243-952B-3313514EB9DF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0040",
+      "file_name": "01.27.20 T. SCIO RENEWAL SUBMISSION TO PSC.pdf (1 MB)"
+    }
+  ]
+}

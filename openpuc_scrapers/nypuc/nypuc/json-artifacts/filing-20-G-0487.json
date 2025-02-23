@@ -1,0 +1,71 @@
+{
+  "case": "20-G-0487",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9372094A-B1F0-42D9-99EA-A43C1F2ECDF7}",
+      "organization": "Environmental Defense Fund",
+      "itemNo": "4",
+      "docket_id": "20-G-0487",
+      "file_name": "EDF Cover Letter 12.21.20.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Comment on Proposed Gas Leak Information Rule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A6A6A06-1DE2-4B99-A2EA-35C033631852}",
+      "organization": "Environmental Defense Fund",
+      "itemNo": "4",
+      "docket_id": "20-G-0487",
+      "file_name": "EDF Comment Gas Leak Info 12.21.20.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Comments",
+      "name": "NFGDC Comments in Response to NOPR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94E7A90D-6063-4A74-ACFB-47D05B42FC2C}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "20-G-0487",
+      "file_name": "NFGDC Comments in Response to NOPR (20-G-0487).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BB79FBA-1183-4495-B33C-E158C02A25FF}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "20-G-0487",
+      "file_name": "Cover Letter 20201221.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Comments",
+      "name": "NFGDC Comments in Response to NOPR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2F5E234-DE49-4813-B9E0-4284B99CA1C2}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "20-G-0487",
+      "file_name": "NFGDC Comments in Response to NOPR (20-G-0487).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DBBFA0D-453D-4E43-8FE2-29E8F3A3A264}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "20-G-0487",
+      "file_name": "Cover Letter 20201221.pdf"
+    }
+  ]
+}

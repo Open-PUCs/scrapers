@@ -1,0 +1,49 @@
+{
+  "case": "22-C-0648",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "NOVA Xchange NY Restated Transfer of Control Application 5 16 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={001E2688-0000-C613-91D7-60845F7F6CE4}",
+      "organization": "NOVA Infrastructure Capital Advisors, LLC, Xchange Telecom Corp.",
+      "itemNo": "4",
+      "docket_id": "22-C-0648",
+      "file_name": "NOVA Xchange NY Restated Transfer of Control Application 5 16 2023.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/10/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-02240 XChange NOVA 100 Stop Clock Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F18A4F64-051E-4268-9778-FC86DD401507}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-C-0648",
+      "file_name": "22-02240 XChange NOVA 100 Stop Clock Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/29/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY DPS Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE534C5B-294C-4F32-B2CE-653D7A1F850B}",
+      "organization": "NOVA Infrastructure Capital Advisors, LLC, Xchange Telecom LLC",
+      "itemNo": "2",
+      "docket_id": "22-C-0648",
+      "file_name": "NY DPS Consummation Notice 11 29 2022 (1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/15/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Xchange Telecom LLC and NOVA Infrastructure Capital Advisors, LLC for Approval of a Transfer of Control Pursuant to Public Service Law \u00a7100.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9E4C36C-086C-4A69-B196-3B7DA02EF770}",
+      "organization": "NOVA Infrastructure Capital Advisors, LLC, Xchange Telecom LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0648",
+      "file_name": "NOVA Xchange NY Transfer of Control Application 11 15 2022.pdf"
+    }
+  ]
+}

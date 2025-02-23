@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0723",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Making Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42168A7A-94D1-4E09-B1DB-25BC724E7FA1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0723",
+      "file_name": "371_18-E-0723.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cross-Sound Cable Company (New York) LLC and Cross-Sound Cable Company, LLC for an Order Approving an Increase in Authorized Indebtedness under Section 69 of the New York State Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EA0605A-F718-4342-84AC-5144818D81AE}",
+      "organization": "Cross-Sound Cable Company (New York) LLC, Cross-Sound Cable Company, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0723",
+      "file_name": "Section 69 Petition 11-21-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71DA6F11-731E-45E0-85EC-BAFB840149DD}",
+      "organization": "Cross-Sound Cable Company (New York) LLC, Cross-Sound Cable Company, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0723",
+      "file_name": "Cover letter 11-21-18.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0251",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C35EB24-1D5E-4083-95F3-B31B402099AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0251",
+      "file_name": "661_16v0251 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Chester, Orange County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CBA86034-B2AF-4D2D-AB3D-08E88AEAD375}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0251",
+      "file_name": "Chester.pdf"
+    }
+  ]
+}

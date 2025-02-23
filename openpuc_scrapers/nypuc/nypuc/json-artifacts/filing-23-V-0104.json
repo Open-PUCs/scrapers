@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0104",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0022B987-0000-C51E-9498-318C21ABDC09}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0104",
+      "file_name": "662_23-V-0104 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/27/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60CE9486-0000-CB5E-9755-80EF2D34584A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0104",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/27/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Aurora Letter 02.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60CE9486-0000-CA1A-A70B-572FD2451BDB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0104",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Aurora Letter 02.24.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/27/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Aurora Cover Letter- Request for Certificate of Confirmation 02.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60CE9486-0000-CD7C-9960-2189AAD4CC9E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0104",
+      "file_name": "Charter Communications, V. Aurora Cover Letter- Request for Certificate of Confirmation 02.24.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Aurora - Request for Renewal and Certificate of Confirmation(redacted) 02.22.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60CE9486-0000-C79F-B1AA-04C0027DD215}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0104",
+      "file_name": "Charter Communications, V. Aurora - Request for Renewal and Certificate of Confirmation(redacted) 02.22.23.pdf"
+    }
+  ]
+}

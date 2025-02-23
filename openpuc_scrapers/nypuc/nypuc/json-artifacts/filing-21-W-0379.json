@@ -1,0 +1,49 @@
+{
+  "case": "21-W-0379",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF031A7F-5063-43E7-84C9-65919B304A93}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-W-0379",
+      "file_name": "269_21-W-0379 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "To whom this may concern",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD8F5539-C1C5-436D-B781-52F8C944982E}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "21-W-0379",
+      "file_name": "To whom this may concern.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CAB84DB-DA9B-41C5-90DA-792273C6E923}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "21-W-0379",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/03/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A2696BF-D0CB-4BA3-8E96-44EB4748427A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-W-0379",
+      "file_name": "165-A_21-W-0379 final.pdf"
+    }
+  ]
+}

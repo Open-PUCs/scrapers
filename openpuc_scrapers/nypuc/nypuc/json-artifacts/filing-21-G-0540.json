@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0540",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32799749-A359-4730-A4AA-DB2797A4CAD7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0540",
+      "file_name": "165802 Robinson Ack _Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B34B7176-19D2-4495-BBC8-85B52CC3488C}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-G-0540",
+      "file_name": "Appeal 165802_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Denial _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60D1122B-E1AF-42CC-887E-6684C6D3109B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0540",
+      "file_name": "IH Denial 165802_Redacted.pdf"
+    }
+  ]
+}

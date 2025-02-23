@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0654",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39492E2A-22E5-49F3-BE68-829BF12BBB61}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0654",
+      "file_name": "661_15v0654.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Cuyler, Cortland County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33E42B2A-348D-49C7-B396-B5F57B505EFE}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0654",
+      "file_name": "CUYLER, TOWN FRANCHISE RENEWAL TO PSC, 11.10.15.pdf"
+    }
+  ]
+}

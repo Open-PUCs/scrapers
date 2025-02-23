@@ -1,0 +1,38 @@
+{
+  "case": "17-T-0355",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9F25CFA-9596-45D4-95AB-59556E733DFF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0355",
+      "file_name": "17-T-0355 Part 102 letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the National Grid Dennison-Colton #4 115 kV Transmission Line Conductor Clearance Refurbishment Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6891013C-C356-4D2B-BE0F-3D18CFF89295}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0355",
+      "file_name": "Zafonte Cover Letter for Dennison-Colton Hill.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Dennison-Colton Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02C944E8-8E65-4E95-BB0B-43864CA110FC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0355",
+      "file_name": "Dennison-Colton Part 102_6122017.pdf"
+    }
+  ]
+}

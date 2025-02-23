@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0207",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/28/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Empire State Dairy LLC - 2840 Atlantic Avenue - Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4091BF8F-0000-C116-AD0B-1ABD4C387B9F}",
+      "organization": "Empire State Dairy LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0207",
+      "file_name": "Empire State Dairy LLC - 2840 Atlantic Avenue - Meter Test Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Empire State Dairy LLC - Submeter Install Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3068238D-0000-CA1F-BED1-35B1FF9A9343}",
+      "organization": "Empire State Dairy LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0207",
+      "file_name": "Empire State Dairy LLC - Submeter Install Compliance Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/04/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Empire State Dairy LLC - Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5040D58C-0000-C018-9232-4727B8DBD640}",
+      "organization": "Empire State Dairy LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0207",
+      "file_name": "Empire State Dairy LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8011128C-0000-CD1C-9247-3C92B705499F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0207",
+      "file_name": "370_23-E-0207.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of Empire State Dairy LLC to Submeter Electricity at 2840 Atlantic Avenue, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={002FA587-0000-C91D-94A4-1756834D4549}",
+      "organization": "Empire State Dairy LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0207",
+      "file_name": "Submetering Notice of Intent - Empire State Dairy LLC - 2840 Atlantic Ave Brooklyn NY.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0225",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Submeter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFCB4A9F-0B3C-41EC-9712-A5BA485071F0}",
+      "organization": "Affinity Potsdam Properties, LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0225",
+      "file_name": "Case 11-M-0710.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F19A930D-6CCE-44EB-B06D-0D767604B96E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0225",
+      "file_name": "373_16-E-0225.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/01/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Answer to questions during final review of case.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E471385-EF6E-4576-87C8-A2B6D0AC7CA4}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "16-E-0225",
+      "file_name": "Phil Cannata.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information - Submeter Termination Capabilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B34E02-AD12-40BD-A265-D9B470195424}",
+      "organization": "Affinity Potsdam Properties, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0225",
+      "file_name": "PSC Case_ 16-E-0225 Submeter Termination Capabilities.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/18/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Affinity Potsdam Properties, LLC to Submeter Electricity at 206 Outer Main Street, Building #67, Potsdam, Located in the Territory of Niagara Mohawk Power Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADBE4826-EAE2-463A-A9D4-421D438794E2}",
+      "organization": "Affinity Potsdam Properties, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0225",
+      "file_name": "PSC APP 2016 Signed.pdf"
+    }
+  ]
+}

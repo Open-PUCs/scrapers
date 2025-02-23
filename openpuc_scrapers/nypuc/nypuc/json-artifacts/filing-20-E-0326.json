@@ -1,0 +1,126 @@
+{
+  "case": "20-E-0326",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C City of Tonawanda",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF2F13EF-93E0-4C6E-BDBC-D00AE8A731A6}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "20-E-0326",
+      "file_name": "Schedule C City of Tonawanda.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B69B558-4696-499E-9B4D-D88E71E3D283}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "20-E-0326",
+      "file_name": "City of Tonawanda Journal Entry Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBFC05E5-EE64-4F0A-A7B3-630490C22A58}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0326",
+      "file_name": "368_20-E-0326_Notice.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B7C3C7E-0FBF-4A71-93D1-6D949BEAD0A0}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0326",
+      "file_name": "368_20-E-0326_Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/16/2020",
+      "nypuc_doctype": "Reports",
+      "name": "SEA part 23 Signed MZS",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28800319-E91A-4B73-A796-C0277A52D2A0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0326",
+      "file_name": "SEA part 23 Signed MZS.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/16/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19E7E58D-EF5E-4389-A6DC-1F47BF757093}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0326",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DDA71AB-3459-43E6-BFBE-58C1E058C617}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "20-E-0326",
+      "file_name": "City of Tonawanda Request for Confidentiality.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Tonawanda City Section 70 Petition_Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26D1CA6E-8C74-4E17-B640-B23B65BC6FAE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0326",
+      "file_name": "TonawandaCitySection 70 Petition_Schedules.07102020-v1.pdf (13 MB)"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Tonawanda City - Schedule C Tax Workpaper",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1EEAB19-9D9C-461F-B314-6B0F0813E973}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0326",
+      "file_name": "Tonawanda City - Schedule C Tax Workpaper.xlsx (22 KB)"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Work Papers for City of Tonawanda Street Light Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={526B770E-0892-4DB4-B84C-FDD10D24EBD0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0326",
+      "file_name": "Schedule D Work Papers for City of Tonawanda Street Light Sale.xlsx (328 KB)"
+    },
+    {
+      "serial": "11",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D46CBB8-91AA-43E1-A42A-BA143DFCD8F0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0326",
+      "file_name": "City of Tonawanda Section 70 Cover Letter.pdf (105 KB)"
+    }
+  ]
+}

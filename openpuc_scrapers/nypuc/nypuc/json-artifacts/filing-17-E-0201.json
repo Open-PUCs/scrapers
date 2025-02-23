@@ -1,0 +1,104 @@
+{
+  "case": "17-E-0201",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Submetering ID Change",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0036D992-0000-C61B-960A-BD39A6B49257}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "6",
+      "docket_id": "17-E-0201",
+      "file_name": "Submetering ID Change (17-E-0201).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "OLL CASE 17-E-0201 Submission",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80412588-0000-CD18-A1C3-95E72FBFF088}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0201",
+      "file_name": "OLL CASE 17-E-0201 Submission.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B0D1191-0940-4D50-99D5-750E0AD32B4F}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0201",
+      "file_name": "OLL confirmation of submetering 1.9.18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={352CAA41-A35D-4DE0-AB3C-9972E9A34436}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0201",
+      "file_name": "369 17-E-0201 Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "OLL RENTAL AD",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C188C0DA-1E6A-4613-9E4F-F54922AF98E5}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0201",
+      "file_name": "OLL_RENTAL_AD.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "OLL NYSERDA Award",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3154074D-E220-4B16-AA25-B7B77BCDAEC8}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0201",
+      "file_name": "OLL_NYSERDA_Award.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "OLL Income distribution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9FFB610-C530-4676-8C0D-550793EF8A5C}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0201",
+      "file_name": "Copy of OLL_Income_distribution.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Energy Audit Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9881B64B-52AA-4616-9509-E3DE0FCF21CB}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0201",
+      "file_name": "EnergyAuditWaiver_5.30.2017.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Our Lady of Lourdes Apartments, LLC to Submeter Electricity at the following low income apartment buildings, 11 De Sales Place, 21 De Sales Place,1875 Broadway, contiguously located in Brooklyn, New York, 11207, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21479B1B-6E14-4039-B3C0-78FB790AC572}",
+      "organization": "Our Lady of Lourdes Apartments LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0201",
+      "file_name": "Our_Lady_of_Lourdes_Notice_of_Intent_to_Submeter.pdf"
+    }
+  ]
+}

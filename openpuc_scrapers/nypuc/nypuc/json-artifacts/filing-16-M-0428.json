@@ -1,0 +1,60 @@
+{
+  "case": "16-M-0428",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Aggregated Data Privacy Standards",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75EF118F-0639-49DA-A05C-1DCC4156EADD}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-M-0428",
+      "file_name": "Case 14-M-0101 Aggregated Data Privacy.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Aggregated Data Privacy Policy Statements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={779DFE35-3F4E-4352-BD83-2CAE16EA4DCF}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid, Niagara Mohawk Power Corporation d/b/a National Grid, The Brooklyn Union Gas Company",
+      "itemNo": "4",
+      "docket_id": "16-M-0428",
+      "file_name": "National Grid - Compliance Filing - Aggregated Data Privacy Statememt.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/01/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Aggregated Data Privacy Policy Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC7452A8-CCFF-47C3-AFB9-5B48227DB710}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "16-M-0428",
+      "file_name": "Aggregated Data Policy Statement Letter Filed 11-01-2016.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/31/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Aggregated Data Privacy Policy Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={856B5028-660C-4AF5-8C55-9D88BF0C2E9B}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "16-M-0428",
+      "file_name": "REV Aggregated Data Privacy Policy Statement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/09/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of New Case Numbers Relating to Utility Revenue Reforms",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E860790E-1D6F-4817-A12A-ADADF75219BF}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-M-0428",
+      "file_name": "16m0428 et al New Case Numbers Rate Reform Final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0321",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4751F38C-6DC4-420F-8264-CFB12F398A01}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0321",
+      "file_name": "166-C_17g0321 - 3.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regaring Citation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67AD8A53-0A21-4516-B195-A65AFF3538AE}",
+      "organization": "Peter J. Landi Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0321",
+      "file_name": "Letter Regaring Citation Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4073C71-CA8D-4AFC-B75E-BCBEB5AB3C7B}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0321",
+      "file_name": "161_17g0321.pdf"
+    }
+  ]
+}

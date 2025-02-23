@@ -1,0 +1,170 @@
+{
+  "case": "16-W-0721",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYS DEC Permit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={993D2DB2-5281-42CB-97EE-CB710377B8C4}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "8",
+      "docket_id": "16-W-0721",
+      "file_name": "DEC Approval GF Mixing Tanks.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E721F80-3525-477A-98E1-678EA2AFDEB9}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "8",
+      "docket_id": "16-W-0721",
+      "file_name": "LETT.SWS.Compliance.Case 16-W-0721.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Tariffs",
+      "name": "Tariff Leaves - Pursuant to Ordering Clause No. 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D50A4ED9-EA56-435A-A5C9-5E8C3F8942A7}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "7",
+      "docket_id": "16-W-0721",
+      "file_name": "LEAVES.16-W-0721.SWS.Global Foundries.9.1.17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E942E0A-0265-498D-B57F-4B90C5F94BBA}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "7",
+      "docket_id": "16-W-0721",
+      "file_name": "LETT.SWS.16-W-0721 Compliance 9.1.17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/04/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement, Tariff Revisions, and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FD22C4E-81DF-40C8-8B65-C316FB9C61DE}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-W-0721",
+      "file_name": "462_16-W-0721.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter by SWS and GF Amending Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2477BA13-34AC-49BF-AAF8-E9C29ACDC0C6}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-W-0721",
+      "file_name": "170405 Ltr by SWS and GF Amending Agreement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA216E0F-67C6-40FF-9BBD-AC1212927FE9}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-W-0721",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BA7C5D4-53D3-4DBD-892A-DB468D38A428}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-W-0721",
+      "file_name": "170615 Further Revised Exhibit 2, Draft Tariff.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Concerning the SWS Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94D92E31-A469-4D61-9A56-ACE30E66F898}",
+      "organization": "Saratoga County Water Authority",
+      "itemNo": "4",
+      "docket_id": "16-W-0721",
+      "file_name": "PSC.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "05/17/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Amend Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97666BD2-6E6E-4E79-B101-6643A9CC3A61}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-W-0721",
+      "file_name": "Case 16-W-0721, 170517, SWS-GF Amendment to Joint Petition, .pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "01/20/2017",
+      "nypuc_doctype": "Exhibits",
+      "name": "Transmittal Letter, Revised Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4698AAC8-85BA-484D-BA0F-4556BFB5EAB7}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0721",
+      "file_name": "170120 16-W-0271, Transmittal Letter, Revised Exhibit 2.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "01/20/2017",
+      "nypuc_doctype": "Exhibits",
+      "name": "EXHIBIT 2 - Revised",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C858D281-2F88-44A1-8755-77B48914386C}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0721",
+      "file_name": "170120 16-W-0271 EXHIBIT 2 without dates.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "12/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Saratoga Water Services, Inc. and GLOBALFOUNDRIES U.S. Inc. for a Declaratory Ruling Concerning the Provision of Water Service, and the Approval of Service Classification 3 A - Interruptible Industrial Process Water Service.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4A6CBA9-1D45-4803-929E-FFCA8747D811}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0721",
+      "file_name": "SWS-GF Petition with Exhibits .pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "12/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FADE4571-FE0A-491A-9903-37BB5A24F652}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0721",
+      "file_name": "EAF SWS and GF for Petition 161229.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "12/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B97C240A-9D5F-432B-A191-F0111CC9985A}",
+      "organization": "GLOBALFOUNDRIES U.S. Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0721",
+      "file_name": "Transmittal Letter to PSC for Petition by SWS and GF 161229.pdf"
+    }
+  ]
+}

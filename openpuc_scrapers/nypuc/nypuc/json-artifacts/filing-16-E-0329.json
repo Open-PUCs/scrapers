@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0329",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/20/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34F52DF1-DDE4-4EAE-BAA0-9DA450B5A27B}",
+      "organization": "421 Kent Deve\u00ccopment LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0329",
+      "file_name": "updated submetering ID form.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EDFEA1B-B988-40A7-9F8F-A526A325014D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0329",
+      "file_name": "364_16e0329.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/01/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 421 Kent Development LLC to Submeter Electricity at 60 South 8th Street, Brooklyn, New York Located in the Territory of Consolidated Edison Company of New York, Inc",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAC4ED3E-928B-42DC-9404-A5089E3CE1D1}",
+      "organization": "421 Kent Deve\u00ccopment LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0329",
+      "file_name": "submetering application 5-31-16.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "21-M-0105",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waivers and Extending Development Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A439314-6F2C-4219-A058-275B775CF384}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-M-0105",
+      "file_name": "261_21-M-0105_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/23/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={381D7368-D422-481A-8E25-8B4E25818954}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-M-0105",
+      "file_name": "National Grid Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Eldan Homes, Inc. for a Year Extension of the Five Year Agreement Concerning Builder Development Funds.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3661A671-2CF3-4E6F-B7D6-524C0073E0B3}",
+      "organization": "Eldan Homes, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-M-0105",
+      "file_name": "Petition for Crane Brook.pdf"
+    }
+  ]
+}

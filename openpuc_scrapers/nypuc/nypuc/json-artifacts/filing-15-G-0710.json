@@ -1,0 +1,49 @@
+{
+  "case": "15-G-0710",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44B8F18B-0362-4379-A9AC-38677D1BC3FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0710",
+      "file_name": "268_15e0709 15g0710.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDBD76C2-9ECD-4159-B5AA-737F3CE277FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-G-0710",
+      "file_name": "15E0709 15G0710 Postponement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/14/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "15-G-0710",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/10/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-G-0710",
+      "file_name": ""
+    }
+  ]
+}

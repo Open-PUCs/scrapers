@@ -1,0 +1,104 @@
+{
+  "case": "16-E-0457",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to letter from the Developer's Attorney, John Dax",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={283744F8-D7A7-4E0D-BA54-C93836D9D62F}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "16-E-0457",
+      "file_name": "Case 16-E-0457 - National Grid Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA315E18-68F9-4560-B3EB-C32A004228B3}",
+      "organization": "43 Mall, Ltd.",
+      "itemNo": "6",
+      "docket_id": "16-E-0457",
+      "file_name": "Sec Burgess (PSC) Ltr re Natl Grid March 10 Ltr 3-15-17 FINAL w-Attmt.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Reply to November 3rd Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E2FFCAE-9BDF-4DDF-ABD2-1EEF01CFF4D7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "16-E-0457",
+      "file_name": "Case 16-E-0457 - National Grid Reply.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Reply in Opposition to National Grid's Motion",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={341EA19F-B5F8-49CB-AE2E-54E7E408CD7B}",
+      "organization": "43 Mall, Ltd.",
+      "itemNo": "4",
+      "docket_id": "16-E-0457",
+      "file_name": "Reply to Natl Grid Response - FINAL w-Exhibits.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/24/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments in Response to Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A04393E-59CF-42F6-9AC7-CCD1B8DF3AE8}",
+      "organization": "43 Mall, Ltd.",
+      "itemNo": "3",
+      "docket_id": "16-E-0457",
+      "file_name": "Comments in Response to Notice.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response of Niagara Mohawk Power Corporation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22A60441-9AAE-4819-824E-8AE86A060E11}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "16-E-0457",
+      "file_name": "Case 16-E-0457 - National Grid Response.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Complaint and Petition for Declaratory Ruling of 43 Mall, Ltd. Against Niagara Mohawk Power Corporation d/b/a National Grid Regarding Underground Residential Distribution Provisions Contained in Rule 16 of PSC Tariff No. 220",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB87AB1A-A2BE-44B1-B3F7-8B6925B86031}",
+      "organization": "43 Mall, Ltd.",
+      "itemNo": "1",
+      "docket_id": "16-E-0457",
+      "file_name": "43 Mall, Ltd. Verified Complaint & Pet for DR 8-12-16 FINAL.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Affidavit of Mark Pettrone 8-11-2016 FINAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5AABADE-2FE6-43FD-BE19-B1FEE2E1B966}",
+      "organization": "43 Mall, Ltd.",
+      "itemNo": "1",
+      "docket_id": "16-E-0457",
+      "file_name": "Affidavit of Mark Pettrone 8-11-2016 FINAL.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Affidavit of Ken Baer 8-11-16 FINAL w-Exhibits A-L",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD872795-E464-4150-9F24-C40A53C76755}",
+      "organization": "43 Mall, Ltd.",
+      "itemNo": "1",
+      "docket_id": "16-E-0457",
+      "file_name": "Affidavit of Ken Baer 8-11-16 FINAL w-Exhibits A-L.pdf"
+    }
+  ]
+}

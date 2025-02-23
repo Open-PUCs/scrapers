@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0480",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3640F76C-4E22-451C-88AE-F433D09E9215}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0480",
+      "file_name": "663_22-V-0480.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DD43C5E-3505-4019-9A54-8B8B32045F75}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0480",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Caledonia Letter 08.09.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D27AA57-C6FD-48AD-BDA1-576A63DB5F11}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0480",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Caledonia Letter 08.09.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Caledonia- Request for Renewal and Certificate of Confirmation (Redacted) 08.09.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD241972-EFBF-4E76-9826-919DAED34F7B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0480",
+      "file_name": "Charter Communications, V. Caledonia- Request for Renewal and Certificate of Confirmation (Redacted) 08.09.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Caledonia Cover Letter- Request for Certificate of Confirmation 08.09.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4397A73-5DE9-42F2-83B9-AB2D359E1C8C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0480",
+      "file_name": "Charter Communications, V. Caledonia Cover Letter- Request for Certificate of Confirmation 08.09.22.pdf"
+    }
+  ]
+}

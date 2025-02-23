@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0696",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={705CBA92-0000-C013-A09E-89B0525D8484}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0696",
+      "file_name": "364_23-E-0696 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "EO 160 Water LLC - Responses to DPS Staff Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10214D91-0000-C81D-8351-80E6B7553D1B}",
+      "organization": "EO 160 Water LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0696",
+      "file_name": "Case 23-E-0696 - EO 160 Water LLC - Responses to DPS Staff Questions.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "160 Water Street - Cover Letter - Shadow Bill Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0506090-0000-C01D-BB6C-62CCF285676D}",
+      "organization": "EO 160 Water LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0696",
+      "file_name": "160 Water Street - Cover Letter - Shadow Bill Confirmation.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Service re. SAPA Notice Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90849A8E-0000-CF1A-8F14-D441F6FC6144}",
+      "organization": "EO 160 Water LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0696",
+      "file_name": "EO 160 Water LLC - SAPA Notice Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/05/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of EO 160 Water LLC to Submeter Electricity at 160 Water Street, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06C3B8C-0000-C61B-BA94-DA88F364DAF8}",
+      "organization": "EO 160 Water LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0696",
+      "file_name": "Pearl House - Petition to Submeter Filing Package (2).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/05/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B13A8C-0000-CB37-9F46-C01BFC7193C1}",
+      "organization": "EO 160 Water LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0696",
+      "file_name": "Pearl House - Petition Cover Letter.pdf"
+    }
+  ]
+}

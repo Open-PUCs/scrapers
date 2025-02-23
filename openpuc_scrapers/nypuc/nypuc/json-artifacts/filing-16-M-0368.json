@@ -1,0 +1,49 @@
+{
+  "case": "16-M-0368",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding Tariff Provision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DD23E25-2BB1-4731-858C-0BD7B2300EE9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-M-0368",
+      "file_name": "263_16-M-0368.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Reply Letter of Cornell/Argos",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23EA6631-9507-4B52-8CB8-598815684331}",
+      "organization": "Argos Solar LLC, Cornell University",
+      "itemNo": "3",
+      "docket_id": "16-M-0368",
+      "file_name": "Cornell_Argos Reply to NYSEG_FINAL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Response to Cornell Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FF74952-BDD0-4BFF-94B7-938A28EF976B}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "16-M-0368",
+      "file_name": "2016-07-07 NYSEG Response to Cornell Petition (16-M-0368) - FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Cornell University and Argos Solar LLC for a Declaratory Ruling, or in the Alternative, Waiver of Certain Tariff Provisions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A1EAEE1-D083-4372-85B7-FE12A4FDE089}",
+      "organization": "Argos Solar LLC, Cornell University",
+      "itemNo": "1",
+      "docket_id": "16-M-0368",
+      "file_name": "Cornell_Argos Petition for Declaratory Ruling_Final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0189",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={808C4AD1-EE3A-4E78-888C-73CA6FD3C396}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0189",
+      "file_name": "664_16v0189.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for a Certificate of Confirmation for its Franchise with the Town of Scipio, County of Cayuga, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1542AE1-460A-417E-92D1-700231A4FDB7}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0189",
+      "file_name": "032816 - SCIPIO, TOWN_INITIAL FRANCHISE REQUEST SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

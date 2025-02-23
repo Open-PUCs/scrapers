@@ -1,0 +1,82 @@
+{
+  "case": "23-V-0096",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6021B987-0000-C91E-8645-27F72B7828F0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0096",
+      "file_name": "662_23-V-0096.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10769386-0000-C417-9808-E4A3260B24E1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0096",
+      "file_name": "Charter Communications, V. Dundee Case 23-V-0096 Cover Letter - Correction to Resolution .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Dundee - Correction to Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10769386-0000-C137-8E02-483EEF2EF0B9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0096",
+      "file_name": "Charter Communications, V. Dundee Case 23-V-0096 - Correction to Resolution .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={180F4581-00ED-4564-B47D-08E5C82B5126}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0096",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Dundee Letter 02.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D100015-F078-4CAB-8990-EC56E4596C3A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0096",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Dundee Letter 02.13.23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Dundee- Request for Renewal, Certificate of Confirmation(redacted) 02.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6615F2C8-98C7-443B-B04A-B959E378435F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0096",
+      "file_name": "Charter Communications, V. Dundee- Request for Renewal, Certificate of Confirmation(redacted) 02.13.23.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Dundee Cover Letter- Request for Certificate of Confirmation 02.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BEEC260-5246-419A-8FF3-88962A836E24}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0096",
+      "file_name": "Charter Communications, V. Dundee Cover Letter- Request for Certificate of Confirmation 02.13.23.pdf"
+    }
+  ]
+}

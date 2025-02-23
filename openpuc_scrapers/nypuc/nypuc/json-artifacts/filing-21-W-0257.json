@@ -1,0 +1,38 @@
+{
+  "case": "21-W-0257",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={176E6387-1B62-47B7-B757-8534DC3572E1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-W-0257",
+      "file_name": "462_21-W-0257 Confirming Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Cancellation of Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09BB7A91-CA7F-4D55-9CEF-24552D238908}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-W-0257",
+      "file_name": "461_21-W-0257 OCO mp rvwd sb.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Windover Water Works",
+      "itemNo": "1",
+      "docket_id": "21-W-0257",
+      "file_name": ""
+    }
+  ]
+}

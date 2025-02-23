@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0134",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "19-E-0134",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-E-0134",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Establishing Updated Pole Attachment Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9DD8A12-BC70-4012-837A-D5EF66CFF0A3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0134",
+      "file_name": "376_19-E-0134.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/01/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "19-E-0134",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0038",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB84FA63-7BA7-4E79-A08F-267D88C20F35}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-V-0038",
+      "file_name": "663_23-V-0038.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/29/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02063 Letter to Building Owner Offering Facilitation 48 St Nicholas Pl 12.29.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE286AD4-0384-447C-9821-A07F02863A59}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "23-V-0038",
+      "file_name": "22-02063 Letter to Building Owner Offering Facilitation 48 St Nicholas Pl 12.29.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02063 Letter to Building Owner Offering Facilitation 48 St. Nicholas Pl",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A714CA5A-4299-4767-BE70-E8638239F91C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-V-0038",
+      "file_name": "22-02063 Letter to Building Owner Offering Facilitation 48 St. Nicholas Pl.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/15/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF597C39-5F63-429D-9670-03CB2478518A}",
+      "organization": "48 St. Nicholas LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0038",
+      "file_name": "VERIZON 48 ST NICHOLAS PLACE.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02063 Letter to Building Owner_48 St Nicholas Pl",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1450ACDB-82A3-4E00-BC7D-D5FCA53ACACC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0038",
+      "file_name": "22-02063 Letter to Building Owner_48 St Nicholas Pl.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 48 St. Nicholas Place, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05477CC2-2C01-426E-850F-013932C7E121}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0038",
+      "file_name": "221019-18 Petition (48 ST NICHOLAS PL) (Post-Survey).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-T-0070",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/04/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Notice of Withdrawal of Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2770C38C-BAFD-48CF-874D-E4324CDD11F1}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-T-0070",
+      "file_name": "Notice of Withdrawal of Part 102 Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation d/b/a National Grid \u00bf Part 102 Report Lockport \u00bf Batavia #112 115 kV Asset Relocation Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E46348BC-A5CE-4E71-B0E0-61F4F34441CC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-T-0070",
+      "file_name": "National Grid -- Lockport-Batavia _112 Relocation Part 102 Report -- Corpus Filing Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid -- Lockport-Batavia 112 Relocation Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B2FFF5D-2E6E-4DC1-8435-EBD6F2CB2FF3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-T-0070",
+      "file_name": "National Grid -- Lockport-Batavia _112 Relocation Part 102 Report.pdf"
+    }
+  ]
+}

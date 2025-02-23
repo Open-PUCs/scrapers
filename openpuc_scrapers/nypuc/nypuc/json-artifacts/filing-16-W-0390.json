@@ -1,0 +1,49 @@
+{
+  "case": "16-W-0390",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Action on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF680931-63C5-42AC-8D65-E39CB8CEF7ED}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-W-0390",
+      "file_name": "462_16w0390 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/14/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8455B178-DDE8-436E-9F75-14FF9D8F976F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-W-0390",
+      "file_name": "464_16w0390.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Appoints Temporary Operator for Forest Park Water Group",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB0458E6-74FD-4B43-8885-87DA05F5C4EC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-W-0390",
+      "file_name": "pr16041.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Appointing Temporary Operator",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DFE7164-3F13-477B-B681-35A5CCF93749}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-W-0390",
+      "file_name": "16-W-0390 OCO EMERGENCY ORDER Final.pdf"
+    }
+  ]
+}

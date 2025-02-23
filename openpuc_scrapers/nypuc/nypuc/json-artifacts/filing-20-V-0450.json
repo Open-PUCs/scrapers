@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0450",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C90BB3A2-06C1-4501-869A-EFC735A9A548}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0450",
+      "file_name": "661_20-V-0450 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Franklin Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69D30D25-88A0-41DD-BE20-24544F3330DD}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0450",
+      "file_name": "2020.09.10 T. Franklin Renewal - Filed.pdf"
+    }
+  ]
+}

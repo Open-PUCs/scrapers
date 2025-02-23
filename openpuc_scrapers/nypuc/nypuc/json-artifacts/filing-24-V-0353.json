@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0353",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0FA7A91-0000-CC12-B63B-3AC5DC899469}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0353",
+      "file_name": "661_24-V-0353 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Warrensburg Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908EF38F-0000-C882-8B90-38F4092FEB77}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0353",
+      "file_name": "T. Warrensburg Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Warrensburg Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 06.04.24 SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908EF38F-0000-C265-AA4A-33C8F6B02CBC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0353",
+      "file_name": "T. Warrensburg Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 06.04.24 SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908EF38F-0000-CE46-A7A3-92DD3588FBC1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0353",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Warrnesburg 06.07.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={808EF38F-0000-C219-B1AE-85FA6A528DA0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0353",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Warrnesburg 06.07.24.pdf"
+    }
+  ]
+}

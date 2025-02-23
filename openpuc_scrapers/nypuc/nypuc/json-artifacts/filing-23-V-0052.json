@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0052",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00330587-0000-C61E-B2D1-3B9BCC488E07}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0052",
+      "file_name": "663_23-V-0052.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCBF53E9-9605-433D-AD57-38747A742BFE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0052",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Gardiner 1.27.23 DOCX",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8343F240-EF87-47C5-8E71-E2049E6E3DD2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0052",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Gardiner 1.27.23 DOCX.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Gardiner Request for Renewal and Certificate Confirmation (redacted) 1.27.23.pdf",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={085B9D2E-5CBF-4D43-BB69-E95B02DC26B2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0052",
+      "file_name": "Charter Communications, T. Gardiner Request for Renewal and Certificate Confirmation (redacted) 1.27.23.pdf.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications T. Gardiner-Cover Letter Request for Renewal and Certificate of Confirmation 1.26.23AC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80C9A6D5-4C16-4E86-B499-2F0B2BF8B84F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0052",
+      "file_name": "Charter Communications T. Gardiner-Cover Letter Request for Renewal and Certificate of Confirmation 1.26.23AC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "22-C-0585",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={906FB786-0000-C21C-9AAD-6D4B6978B1C7}",
+      "organization": "Oneida County Rural Telephone Company",
+      "itemNo": "5",
+      "docket_id": "22-C-0585",
+      "file_name": "Oneida-Directory waiver notification report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD7F4BDC-6738-4421-9AC1-738B6738FA6E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-C-0585",
+      "file_name": "22-C-0585-Oneida County Rural Tel.-Extension Ruling 2.15.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={450BC3FA-D2CC-4EE1-84AD-5C4E8775DDBB}",
+      "organization": "Oneida County Rural Telephone Company",
+      "itemNo": "3",
+      "docket_id": "22-C-0585",
+      "file_name": "22-C-0585 Request for extension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54DDB533-E38C-4FC7-B699-C592B85691FA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-C-0585",
+      "file_name": "561_22-C-0585 final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Oneida County Rural Telephone Company for waiver of 16 NYCRR Section 602.10 (b) regarding distribution of telephone directories.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF5C1098-CAA3-4E9A-9E12-16DA98A381D8}",
+      "organization": "Oneida County Rural Telephone Company",
+      "itemNo": "1",
+      "docket_id": "22-C-0585",
+      "file_name": "Oneida Directory Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "OCRTC-Directory Publishing Secretary Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={120A5C3C-741B-4359-9403-26451BE3EF41}",
+      "organization": "Oneida County Rural Telephone Company",
+      "itemNo": "1",
+      "docket_id": "22-C-0585",
+      "file_name": "OCRTC-Directory Publishing Secretary Letter.pdf"
+    }
+  ]
+}

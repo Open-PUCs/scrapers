@@ -1,0 +1,104 @@
+{
+  "case": "21-E-0200",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={708CCDD3-0AC4-4E40-A62D-78A1AB2F2A3F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0200",
+      "file_name": "368_21-E-0200.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "EMC and Meter Accuracy Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A6A02F8-C65A-4A15-9A5C-782F4B1D30A3}",
+      "organization": "Sensus",
+      "itemNo": "4",
+      "docket_id": "21-E-0200",
+      "file_name": "EMC&TEL100476B-ANSI Rev. 2_NEMA_C12-30(reduced size).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9ADB6FC-359B-4DDE-B8DD-F411744CA13D}",
+      "organization": "Sensus",
+      "itemNo": "4",
+      "docket_id": "21-E-0200",
+      "file_name": "New York PSC Case 21-E-0200.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "EMC and Meter Accuracy Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2ED0F437-C00B-4CF1-A269-752A0C98F99B}",
+      "organization": "Sensus",
+      "itemNo": "3",
+      "docket_id": "21-E-0200",
+      "file_name": "EMC and TEL 100476A-ANSI Rev. 5 (reduced size).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7303D09A-6083-4AEC-9FA1-CACD2E7142F5}",
+      "organization": "Sensus",
+      "itemNo": "3",
+      "docket_id": "21-E-0200",
+      "file_name": "New York PSC Case 21-E-0200.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83C23FC3-E7BC-41FE-8A2B-55485B576330}",
+      "organization": "Sensus",
+      "itemNo": "2",
+      "docket_id": "21-E-0200",
+      "file_name": "EMC&TEL100476B-ANSI Rev. 2_NEMA_C12-30(reduced size).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={218EEB0C-D002-447C-A6B9-24C27890E409}",
+      "organization": "Sensus",
+      "itemNo": "2",
+      "docket_id": "21-E-0200",
+      "file_name": "New York PSC Case 21-E-0200.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Sensus USA Inc. for Approval of FlexNet AMI Solution for Revenue Grade Electric Meters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA314333-4DD4-4198-AB8A-3C25795B8D11}",
+      "organization": "Sensus USA Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0200",
+      "file_name": "Fishers Island Electric Company Letter of Intent.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDFB4C10-0DB9-4AAD-99E8-18DB9B04895F}",
+      "organization": "Sensus USA Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0200",
+      "file_name": "PSC Petition_4_5_2021.pdf"
+    }
+  ]
+}

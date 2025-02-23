@@ -1,0 +1,60 @@
+{
+  "case": "20-E-0200",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/11/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Final Journal Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE06A86C-8864-4C5A-807F-830747B00FA1}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "20-E-0200",
+      "file_name": "2021-05-11 NYSEG Village of Dryden Lighting Section 70 - PUBLIC (20-E-0200).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/11/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86DEA1D1-8849-4CA7-B8CE-05B0369EDF80}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "20-E-0200",
+      "file_name": "2021-05-11 NYSEG & Village of Dryden Lighting Section 70 - TS Letter (20-E-0200).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4B7D40A-7BDF-46DA-8B8E-C1D7EFB7B7D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0200",
+      "file_name": "365_20-E-0200 Notice of Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={533ABFBF-8131-4453-833A-AB1F6D06D5B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-E-0200",
+      "file_name": "365_20-E-0200 Order.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG & Village of Dryden Section 70 SL Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EF8888D-4501-4F07-8A46-D3009BCC526F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0200",
+      "file_name": "2020-04-27 NYSEG & Village of Dryden Section 70 SL Sale.pdf (8 MB)"
+    }
+  ]
+}

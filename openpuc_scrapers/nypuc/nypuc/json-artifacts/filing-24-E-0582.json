@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0582",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/07/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "revised application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0840793-0000-C76D-BA37-093DFC1F88AA}",
+      "organization": "CP VI Crown Heights, LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0582",
+      "file_name": "revised application.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Energy Waiver Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4099B492-0000-CA25-B4CF-695134DC517E}",
+      "organization": "CP VI Crown Heights, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0582",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Notice of Intent - 54 Crown Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0469192-0000-CB61-BD8B-1B586A690FB5}",
+      "organization": "CP VI Crown Heights, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0582",
+      "file_name": "Submetering Notie of Intent - 54 Crown Street.pdf"
+    }
+  ]
+}

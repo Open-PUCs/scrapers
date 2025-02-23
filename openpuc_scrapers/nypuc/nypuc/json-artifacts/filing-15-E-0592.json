@@ -1,0 +1,49 @@
+{
+  "case": "15-E-0592",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2015",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1C62A68-35F7-4F9F-A316-24A0DB204352}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-E-0592",
+      "file_name": "368_15E0592 Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/30/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Supplement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25D4963E-E235-4888-9013-18E72534B664}",
+      "organization": "Eastern Generation, LLC",
+      "itemNo": "2",
+      "docket_id": "15-E-0592",
+      "file_name": "Letter Supplement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1992E273-2B6A-4C76-93F0-08719572CD8E}",
+      "organization": "Astoria Generating Company,L.P., Eastern Generation, LLC, TPF II Power Holdings, LLC, TPF II Power Midco, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0592",
+      "file_name": "Cover letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Astoria Generating-Eastern Generation Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6C4F4DA-3CD5-4F3B-A32A-ED73CB854C15}",
+      "organization": "Astoria Generating Company,L.P., Eastern Generation, LLC, TPF II Power Holdings, LLC, TPF II Power Midco, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0592",
+      "file_name": "Astoria Generating-Eastern Generation Petition.pdf"
+    }
+  ]
+}

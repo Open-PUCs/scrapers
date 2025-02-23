@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0468",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Submeter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4F9EDE7-A2BB-4CD7-9B75-C682D0CFF5AF}",
+      "organization": "1115 Fifth Avenue Corporation",
+      "itemNo": "6",
+      "docket_id": "17-E-0468",
+      "file_name": "Case 17-E-0468 Submetering at 1115 5th Ave_Meter Testing Plan_5-16-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice to Current Residents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CD56F96-D462-4933-9CE6-036768BDB619}",
+      "organization": "1115 Fifth Avenue Corporation",
+      "itemNo": "5",
+      "docket_id": "17-E-0468",
+      "file_name": "Case 17-E-0468 Submetering at 1115 5th Avenue_Notification to Shareholders_2-15-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Acceptance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB5ED447-B0D8-4D66-9BD6-58B37EAB45C7}",
+      "organization": "1115 Fifth Avenue Corporation",
+      "itemNo": "4",
+      "docket_id": "17-E-0468",
+      "file_name": "Case 17-E-0468 Submetering at 1115 5th Avenue_Acceptance of Order_2-15-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D5CAF7C-D57C-4B12-A973-6EF54A5B8BDB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0468",
+      "file_name": "369_17-E-0468.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/07/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request to Withdraw Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03072754-BC36-4598-A90A-735D766BB098}",
+      "organization": "1115 Fifth Avenue Corporation",
+      "itemNo": "2",
+      "docket_id": "17-E-0468",
+      "file_name": "1115 5th Avenue_Withdraw of Waiver Request_8-7-17.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 1115 Fifth Avenue Corporation to Submeter Electricity at 1115 Fifth Avenue, New York, NY, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B71615E4-EF38-4B80-9650-7525D2309982}",
+      "organization": "1115 Fifth Avenue Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0468",
+      "file_name": "1115 5th Ave_Petition to Submeter to PSC_7-31-17_final.pdf"
+    }
+  ]
+}

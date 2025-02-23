@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0358",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4B40ACD-2D02-49BD-A8CA-C1285A2DF5CD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0358",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "T German Flatts Resolution 10.24.18",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FD52760-2D52-4755-89CE-7C54AD52CF8B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0358",
+      "file_name": "T German Flatts Resolution 10.24.18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={798E7B3C-2E74-4BBD-8034-7F46DC0B0FA1}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0358",
+      "file_name": "061019 Ltr to PSC Secretary -T German Flatts Resolution (replace).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of German Flatts, Herkimer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={518F93D9-FC5C-407E-BB62-4987F186F304}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0358",
+      "file_name": "050319 T. GERMAN FLATTS RENEWAL SUBMISSION TO PSCpdf.pdf"
+    }
+  ]
+}

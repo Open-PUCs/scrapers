@@ -1,0 +1,93 @@
+{
+  "case": "20-E-0308",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F453379-297C-409C-8D39-8ED4677E6F00}",
+      "organization": "St. Paul's Center",
+      "itemNo": "4",
+      "docket_id": "20-E-0308",
+      "file_name": "St. Paul's.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of Individual Metering Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F56AEE6-0B64-44A6-9256-A5A69E852E18}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0308",
+      "file_name": "365_20-E-0308 - St Pauls Waiver Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "State Housing Budget",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6365C542-1B4D-4129-9679-7C0853F15487}",
+      "organization": "St Paul's Center",
+      "itemNo": "2",
+      "docket_id": "20-E-0308",
+      "file_name": "State Housing Budget.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "St. Paul's ESSHI 2018-071 Updated Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F008CD92-2CAB-4C66-818C-C393E86FEC92}",
+      "organization": "St Paul's Center",
+      "itemNo": "2",
+      "docket_id": "20-E-0308",
+      "file_name": "St. Paul's ESSHI 2018-071 updated confirmation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "OTDA Contract Face Sheet and Workplan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D6DC588-4DDC-43B0-BDC3-366CA89A6454}",
+      "organization": "St Paul's Center",
+      "itemNo": "2",
+      "docket_id": "20-E-0308",
+      "file_name": "OTDA contract face sheet and workplan.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter w/Attachment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92D9C8C2-C348-4BB0-8B1F-1163691BD438}",
+      "organization": "St Paul's Center",
+      "itemNo": "2",
+      "docket_id": "20-E-0308",
+      "file_name": "Cover Letter to PSC for Master Meter 7.22.20 w attachment (002).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "St. Paul's ESSHI 2018-071 Updated Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3648ACA-52F1-4E3C-953E-4949E49445D8}",
+      "organization": "St Paul's Center",
+      "itemNo": "1",
+      "docket_id": "20-E-0308",
+      "file_name": "St. Paul's ESSHI 2018-071 updated confirmation.pdf (735 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of St Pauls Center to Master Meter at 214 Washington Avenue Rensselaer, NY 12144, Located in the Territory of National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05C2CB04-B7B1-4229-887E-A38B03EABF15}",
+      "organization": "St Paul's Center",
+      "itemNo": "1",
+      "docket_id": "20-E-0308",
+      "file_name": "Cover Letter to PSC for Master Meter 6.23.20.pdf"
+    }
+  ]
+}

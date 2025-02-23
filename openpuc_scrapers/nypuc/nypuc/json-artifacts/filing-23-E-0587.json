@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0587",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Deficiency Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={005D1C8C-0000-C61B-9F83-DF362D639772}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0587",
+      "file_name": "23-E-0587 - Deficiency Notification Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavits & Proofs of Service & Publication - Petition & Notice_GCS CPCN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3022128C-0000-C61D-ABDD-8BD2AF170868}",
+      "organization": "Greens Corners Solar LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0587",
+      "file_name": "231127 Ltr filing Affs & Proofs of Svc & Publication_Petition & Notice_GCS CPCN.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Greens Corners Solar LLC for Certificate of Public Convenience and Necessity Pursuant to Public Service Law Section 68 and for an Order Granting Lightened Regulation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EF018B-0000-C72F-A38E-126E53B12ABE}",
+      "organization": "Greens Corners Solar LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0587",
+      "file_name": "GCS CPCN Petition final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "GCS CPCN Exhibit C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EF018B-0000-C640-97CD-6F7E993C8506}",
+      "organization": "Greens Corners Solar LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0587",
+      "file_name": "GCS CPCN Exhibit C.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "GCS CPCN Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EF018B-0000-C76E-A710-31C42B29BE66}",
+      "organization": "Greens Corners Solar LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0587",
+      "file_name": "GCS CPCN Exhibit B.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "GCS CPCN Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EF018B-0000-C480-8C1C-AADE94E4829B}",
+      "organization": "Greens Corners Solar LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0587",
+      "file_name": "GCS CPCN Exhibit A.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10EF018B-0000-C312-8546-DCFC5623C7AD}",
+      "organization": "Greens Corners Solar LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0587",
+      "file_name": "231005 Ltr filing CPCN Petition w Exhibits_Greens Corners Solar LLC.pdf"
+    }
+  ]
+}

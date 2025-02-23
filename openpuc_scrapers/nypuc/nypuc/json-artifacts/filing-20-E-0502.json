@@ -1,0 +1,148 @@
+{
+  "case": "20-E-0502",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2021",
+      "nypuc_doctype": "Reports",
+      "name": "In Service Meter Test Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E248332-F5C1-4BE1-955B-0DFF6D1C73A2}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "7",
+      "docket_id": "20-E-0502",
+      "file_name": "Test Form 20-E-0502.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C4A461C-6DAF-4588-A7D6-378EA19CB069}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "7",
+      "docket_id": "20-E-0502",
+      "file_name": "Letter to Secretary_In Service Meter Test Form (20-E-0502).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81920E94-4DE4-4692-9BFF-F6A5DFFE4E39}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0502",
+      "file_name": "Case 20-E-0502 - Letter to Secretary with Updated Documents and Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "CJ Plaza One LLC - Submetering ID Form - Updated",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2F7BE2D-6BE4-4B3D-825E-6EF57C9DBA09}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0502",
+      "file_name": "Case 20-E-0502 - CJ Plaza One LLC - Submetering ID Form - Updated.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "CJ Plaza One LLC - Lease Rider - Updated",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8028FF95-AEF4-4E92-AB0E-D70EBA43FBF4}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0502",
+      "file_name": "Case 20-E-0502 - CJ Plaza One LLC - Lease Rider - Updated.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "CJ Plaza One LLC - HEFPA Plan - Updated",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E28C7A84-1D43-495D-B718-F9DD9F7AA70B}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0502",
+      "file_name": "Case 20-E-0502 - CJ Plaza One LLC - HEFPA Plan - Updated.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "CJ Plaza One LLC - Certificate of Compliance - Executed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C2972BB-DCC3-4E12-BCAD-D36F17373239}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0502",
+      "file_name": "Case 20-E-0502 - CJ Plaza One LLC - Certificate of Compliance - Executed.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40035525-4EB6-418A-ADC9-A1B401C8F213}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0502",
+      "file_name": "367_20-E-0502 Confirming Order final.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9C5E802-E503-40D5-A13D-50828F96C6D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0502",
+      "file_name": "363_20-E-0502 OCO final.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/30/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0502 - CJ Plaza One LLC - Further Response to DPS Staff",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6416E786-08F1-415E-8D49-694D6DCD5932}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0502",
+      "file_name": "Case 20-E-0502 - CJ Plaza One LLC - Further Response to DPS Staff.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "12/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FEB3E7E-C910-4253-A394-C21C3F47DD44}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0502",
+      "file_name": "Case 20-E-0501 - Letter to Secretary with Additional Information.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AB7AF21-C3D9-4587-809B-D176237D29F3}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0502",
+      "file_name": "CJ_Plaza_One_LLC_-_Notice_of_Intent_to_Submeter_Filing_Package.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3811BCE8-9E4B-48CA-96CB-C7D3589D1D83}",
+      "organization": "CJ Plaza One LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0502",
+      "file_name": "CJ Plaza One LLC - Notice of Intent to Submeter Cover Letter 4838-3362-5549 v.1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0669",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={373FD349-B4ED-4DCF-8AAA-3C25378F8DD7}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0669",
+      "file_name": "661_17-V-0669.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76A59EEE-DFB1-445D-9FBE-41B86BD3BFB8}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "4",
+      "docket_id": "17-V-0669",
+      "file_name": "Comcast Confirmation of Publication 5_24_18 OCR.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C734A89A-54C9-4AC5-97A7-0C8616445F53}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "3",
+      "docket_id": "17-V-0669",
+      "file_name": "Comcast Franchise Renewal Application_Town of Pawling_5.16.18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/27/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9AE58A4-EA2B-42F3-A7B7-B282598E9263}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0669",
+      "file_name": "Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast of New York, LLC for Approval of the Renewal of its Franchise with Town of Pawling, Dutchess County, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06359DE1-51E8-4468-B914-2351D2D3336F}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0669",
+      "file_name": "Comcast_Town of Pawling Franchise Renewal Applicatrion.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Comcast RateCard",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={691BFB31-3FDA-48DC-9938-6DA070A22F84}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0669",
+      "file_name": "Comcast RateCard.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Comcast Channel Lineup",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B2D3A56-8D47-4FA2-A323-A065967F063D}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0669",
+      "file_name": "Comcast Channel Lineup.pdf"
+    }
+  ]
+}

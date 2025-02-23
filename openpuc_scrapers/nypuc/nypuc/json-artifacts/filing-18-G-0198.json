@@ -1,0 +1,49 @@
+{
+  "case": "18-G-0198",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Gas Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5CB55EC-37C5-4707-AB96-AB403F57B6E9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0198",
+      "file_name": "163_18-G-0198.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Addendum to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95D37DD5-C36D-4CEB-8D93-949789F53A0D}",
+      "organization": "AVANGRID Networks",
+      "itemNo": "2",
+      "docket_id": "18-G-0198",
+      "file_name": "RVP Updated Letter of Intent for PSC Approval.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AVANGRID Networks for Approval of Honeywell/Elster Remote Volume Pulser (RVP), an Accessory for Gas Diaphragm Meters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAADEE25-DE7A-408A-8984-E5DBC31AC270}",
+      "organization": "AVANGRID Networks",
+      "itemNo": "1",
+      "docket_id": "18-G-0198",
+      "file_name": "RVP Letter of Intent for PSC Approval.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Honeywell Elster American Remote Volume Pulser",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B043456F-756F-4831-9CF7-8A61EAB107F7}",
+      "organization": "AVANGRID Networks",
+      "itemNo": "1",
+      "docket_id": "18-G-0198",
+      "file_name": "Honeywell Elster American remote volume pulser.pdf"
+    }
+  ]
+}

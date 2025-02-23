@@ -1,0 +1,269 @@
+{
+  "case": "23-E-0415",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Village of Wellsville - Customer Service Operations Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7084BA92-0000-C418-9BF5-15396481B5A3}",
+      "organization": "Village of Wellsville",
+      "itemNo": "14",
+      "docket_id": "23-E-0415",
+      "file_name": "Village of Wellsville - Customer Service Operations Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7084BA92-0000-CC35-BFD6-086C79E33503}",
+      "organization": "Village of Wellsville",
+      "itemNo": "14",
+      "docket_id": "23-E-0415",
+      "file_name": "L - Phillips - Customer Service Operations Plan.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Wellsville",
+      "itemNo": "13",
+      "docket_id": "23-E-0415",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Wellsville",
+      "itemNo": "12",
+      "docket_id": "23-E-0415",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A1F78E-0000-C616-AC01-90923500C0D9}",
+      "organization": "Public Service Commission",
+      "itemNo": "11",
+      "docket_id": "23-E-0415",
+      "file_name": "370_23-E-0415_final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Wellsville Response to DPS-35",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-C4FB-8879-D6040BF5676D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "Village of Wellsville Response to DPS-35.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Wellsville Response to DPS-03_Corrected Q5",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-C7D7-8BC4-83066B2C03C4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "Village of Wellsville Response to DPS-03_Corrected Q5.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Wellsville Response to DPS-03",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-C6B5-82AD-0DB14CEC2E2E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "Village of Wellsville Response to DPS-03.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 35.3 - Niles Hill Project Breakdown",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-C194-84EC-376A6CDCE27B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "Exhibit 35.3 - Niles Hill Project Breakdown.xlsx"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 35.2 - Traffic Signal Manufacturer Specs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-C571-AA60-4B6B3B42F7E9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "Exhibit 35.2 - Traffic Signal Manufacturer Specs.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 3.3 - Loetek Specs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-C25C-B070-C568C73F5050}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "Exhibit 3.3 - Loetek Specs.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 3.1 - LED Rate Calculations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-CA3C-81E2-12ABD003CF6E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "Exhibit 3.1 - LED Rate Calculations.xlsx"
+    },
+    {
+      "serial": "13",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-E-0415 -Letter -Village of Wellsville Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6C28E-0000-CD19-A6E6-75CA8A495C2E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-E-0415",
+      "file_name": "23-E-0415 -Letter -Village of Wellsville Petition.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "03/08/2024",
+      "nypuc_doctype": "Orders",
+      "name": "FURTHER POSTPONEMENT of a Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70171F8E-0000-C119-8FD4-4D5D5CBB393B}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "23-E-0415",
+      "file_name": "e.23-E-0415.Village of Wellsville.FPP.2.FINAL 3.8.24.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Wellsville",
+      "itemNo": "8",
+      "docket_id": "23-E-0415",
+      "file_name": ""
+    },
+    {
+      "serial": "16",
+      "date_filed": "02/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification - Letter from the Mayor",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={307EA38D-0000-C51A-81BB-ACDB9BF62359}",
+      "organization": "Village of Wellsville",
+      "itemNo": "7",
+      "docket_id": "23-E-0415",
+      "file_name": "Customer Notification - Letter from the Mayor.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "02/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={307EA38D-0000-CA35-916E-7082AF1EB347}",
+      "organization": "Village of Wellsville",
+      "itemNo": "7",
+      "docket_id": "23-E-0415",
+      "file_name": "L - Phillips - Customer Notification Cover Letter.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Orders",
+      "name": "FURTHER POSTPONEMENT of a Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50BF598C-0000-C21C-B337-864FFE45DA35}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-E-0415",
+      "file_name": "e.23-E-0415.Village of Wellsville.FPP.FINAL 12.7.23 sb.pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Wellsville",
+      "itemNo": "5",
+      "docket_id": "23-E-0415",
+      "file_name": ""
+    },
+    {
+      "serial": "20",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of a Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50125D8B-0000-C71A-876C-83A4FE0E597D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0415",
+      "file_name": "23-E-0415.Village of Wellsville.PP.FINAL 10.20.23.pdf"
+    },
+    {
+      "serial": "21",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Wellsville",
+      "itemNo": "3",
+      "docket_id": "23-E-0415",
+      "file_name": ""
+    },
+    {
+      "serial": "22",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Workpapers",
+      "name": "Workpapers for Village of Wellsville Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={707CAD89-0000-C03A-8764-459A467284B1}",
+      "organization": "Village of Wellsville",
+      "itemNo": "2",
+      "docket_id": "23-E-0415",
+      "file_name": "Village_of_Wellsville_Rate_Filing.pdf"
+    },
+    {
+      "serial": "23",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Workpapers",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={707CAD89-0000-CC1A-B4B8-6A5887F69658}",
+      "organization": "Village of Wellsville",
+      "itemNo": "2",
+      "docket_id": "23-E-0415",
+      "file_name": "L - Phillips - Village of Wellsville Rate Filing Workpapers.pdf"
+    },
+    {
+      "serial": "24",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Wellsville",
+      "itemNo": "1",
+      "docket_id": "23-E-0415",
+      "file_name": ""
+    }
+  ]
+}

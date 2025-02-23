@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0366",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Responses to Kopald Application for Subpoena Issuance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32F9D5AA-A285-451A-883E-29C0134D21E4}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0366",
+      "file_name": "18-E-0067 et al Ruling on Responses to Kopald Application for Subpoena Issuance and Confirming Service of Application.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Aclara kV2c Electric Meter With Silver Spring Technologies NIC 511 Communication Card",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35A495DE-FF12-499F-9264-44C3EB5D3664}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0366",
+      "file_name": "380_16-E-0366.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE82060F-F27B-4576-BAD7-4CDC0517C368}",
+      "organization": "Aclara Technologies LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0366",
+      "file_name": "kV2c SSN Nic 510 - 11-10-2016.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/10/2016",
+      "nypuc_doctype": "Reports",
+      "name": "ANSI Tests Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC988411-2CEB-4D54-81DE-3BD0C741B9DC}",
+      "organization": "Aclara Technologies LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0366",
+      "file_name": "kV2c SSN510 Prj 2562 10Nov2016 UL report R11401933-ANSI.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Orange & Rockland\u00bfs Letter of Intent to use the Aclara I kV2c AMI Meters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B708B13-589E-4707-82F9-B07181899D0A}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0366",
+      "file_name": "Letter of Intent to use - AMI Meters Kv2c Secretary.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/15/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Aclara for Approval of kV2c EPS Meter with Silver Spring Networks Network Interface Card (NIC) 510",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2C77D8B-F7B8-4025-B2A1-52860AD41A3D}",
+      "organization": "Aclara Technologies LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0366",
+      "file_name": "Petition.pdf"
+    }
+  ]
+}

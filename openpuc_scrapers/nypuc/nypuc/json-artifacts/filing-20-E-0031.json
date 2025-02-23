@@ -1,0 +1,115 @@
+{
+  "case": "20-E-0031",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54F58028-CC7B-4B73-899B-29D10624FF79}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "8",
+      "docket_id": "20-E-0031",
+      "file_name": "TS Request - 20-E-0031 Town of Fallsburgh (final journal entries).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG & Town of Fallsburgh Journal Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={725A51A3-7516-4EA4-B737-818BDE107E81}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "7",
+      "docket_id": "20-E-0031",
+      "file_name": "2020-11-17 NYSEG & Town of Fallsburgh Journal Entry (20-E-0031).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Town of Fallsburg Section 70 Final JEs - Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F2F084E-E24E-4D4F-8047-DC3360A8D23C}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "7",
+      "docket_id": "20-E-0031",
+      "file_name": "2020-11-17 NYSEG Town of Fallsburg Section 70 Final JEs - Cover Letter (20-E-0031).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2B93D82-BFE5-4664-8831-14BACE6AD77C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0031",
+      "file_name": "361_20-E-0031 Notice of Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8A7CBDD-848C-4C07-83DD-A9F8C5A9839B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0031",
+      "file_name": "361_20-E-0031 Order.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Fallsburg SL Sale CORRECTED Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEBDB4C9-F011-4E24-B9A3-8064BD1A873F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "20-E-0031",
+      "file_name": "2020-04-10 NYSEG Town of Fallsburg SL Sale CORRECTIONS (20-E-0031).pdf (1 MB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/25/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Town of Fallsburg SL Sale CORRECTED PETITION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A39969CB-0D53-48CF-BB24-2F70DCA00DCF}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "20-E-0031",
+      "file_name": "2020-03-25 NYSEG Town of Fallsburg SL Sale CORRECTED PETITION.pdf (185 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/26/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Fallsburg SL Sale Corrected Schedule E",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={611EC9A5-95FA-4B4A-8BAD-4326169BBA68}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "20-E-0031",
+      "file_name": "2020-02-26 Town of Fallsburg SL Sale Corrected Schedule E (20-E-0031).pdf (52 KB)"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB974125-5A6A-497D-BF19-3AFCF64238AD}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0031",
+      "file_name": "2020-01-20 Town of Fallsburg SL Sale Cvr Ltr.pdf (40 KB)"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2020-01-20 NYSEG & Town of Fallsburg Sec 70 Street Lighting Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17EB229F-4CEF-4F6B-B3F8-64CCC052C651}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0031",
+      "file_name": "2020-01-20 NYSEG & Town of Fallsburg Sec 70 Street Lighting Petition.pdf (15 MB)"
+    }
+  ]
+}

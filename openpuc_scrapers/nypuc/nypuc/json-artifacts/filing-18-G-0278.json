@@ -1,0 +1,71 @@
+{
+  "case": "18-G-0278",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2021",
+      "nypuc_doctype": "Comments",
+      "name": "18-G-0278 and 19-G-0681 BUG Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA42C147-759F-4BFB-90B7-4A613835A4F5}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "6",
+      "docket_id": "18-G-0278",
+      "file_name": "18-G-0278 and 19-G-0681 BUG Response.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB9F18FF-61B1-42E9-8A3B-5E5F92246E39}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "5",
+      "docket_id": "18-G-0278",
+      "file_name": "Case 18-G-0278 - Secretary filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/04/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE8A52B7-49F8-4D5E-B7C8-CEB43ED2F47A}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "18-G-0278",
+      "file_name": "Case 18-G-0278 - Confidentiality Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Limited Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10166A46-5DFF-43AF-9FA4-E48DB8528AD2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0278",
+      "file_name": "101_18-G-0278.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/24/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0A2F0A7-D14D-4D31-BF51-4829C39B29CF}",
+      "organization": "City of New York",
+      "itemNo": "2",
+      "docket_id": "18-G-0278",
+      "file_name": "City of New York Comments on National Grid Penalty Waiver.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Brooklyn Union Gas Company d/b/a National Grid NY for a Limited Waiver of Tariff Provisions for Interruptible Service to Multiple Customers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D2ECBD3-F71C-4AE6-B207-10FFFB0D5E20}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "18-G-0278",
+      "file_name": "KEDNY TC Penalty Waiver Petition May 11 2018.pdf"
+    }
+  ]
+}

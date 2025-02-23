@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0371",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57EC50E1-CE4C-4B48-841A-D77009341F96}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0371",
+      "file_name": "668_16-V-0371.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Hopkinton, St. Lawrence County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={719FA377-5314-4B22-8902-B4360353255F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0371",
+      "file_name": "06152016 submission to psc.pdf"
+    }
+  ]
+}

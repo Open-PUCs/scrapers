@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0087",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20FC0B8F-0000-C273-8095-D1021DF2652D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0087",
+      "file_name": "662_24-V-0087 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0C87A8D-0000-C654-9364-95E2C5D50CB3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0087",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Deerfield, 2.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0C87A8D-0000-C919-8232-8AF795FBD558}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0087",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Deerfield, 2.5.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Deerfield-Request for Renewal and Certificate of Confirmation (redacted) 2.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0C87A8D-0000-CE1D-A50E-841C901F46EC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0087",
+      "file_name": "Charter Communications, T. Deerfield-Request for Renewal and Certificate of Confirmation (redacted) 2.5.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Deerfield-Cover Letter-Request for Renewal and Certificate of Confirmation 2.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0C87A8D-0000-C977-8777-F8BC69F48D13}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0087",
+      "file_name": "Charter Communications, T. Deerfield-Cover Letter-Request for Renewal and Certificate of Confirmation 2.5.24.pdf"
+    }
+  ]
+}

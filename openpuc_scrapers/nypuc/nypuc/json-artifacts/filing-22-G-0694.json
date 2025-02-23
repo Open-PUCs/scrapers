@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0694",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C06D3C8D-0000-C01C-BBA6-1F47DD187AB8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0694",
+      "file_name": "161-C_22-G-0694.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2140DBB9-2425-4905-ACB1-501E72EF7DAA}",
+      "organization": "J.D. Northrup",
+      "itemNo": "3",
+      "docket_id": "22-G-0694",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7CD267C-30D7-45A9-95F6-F4DE865A5855}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0694",
+      "file_name": "163_22-G-0694.pdf"
+    }
+  ]
+}

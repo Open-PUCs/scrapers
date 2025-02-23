@@ -1,0 +1,60 @@
+{
+  "case": "15-G-0439",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "15-G-0439",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "15-G-0439",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "15-G-0439",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/19/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Changes to RG&E's Portfolio of Natural Gas and Pipeline Transportation and Storage Assets",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2348E911-2424-4DA8-A989-7BA61D30E393}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-G-0439",
+      "file_name": "164_15G0439.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-G-0439",
+      "file_name": ""
+    }
+  ]
+}

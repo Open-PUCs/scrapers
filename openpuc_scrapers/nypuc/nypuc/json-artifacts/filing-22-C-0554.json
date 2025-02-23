@@ -1,0 +1,38 @@
+{
+  "case": "22-C-0554",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "New York - Intrado Safety - Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C59E86-0000-C91B-B29D-6F3312FCAD2B}",
+      "organization": "Intrado Safety Communications, Inc.",
+      "itemNo": "3",
+      "docket_id": "22-C-0554",
+      "file_name": "New York - Intrado Safety - Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/18/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-01988 Intrado Safety OOL Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FECC7D10-7CD3-462F-A3D2-3845F047129D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0554",
+      "file_name": "22-01988 Intrado Safety OOL Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Transfer of Indirect Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B6B9252-31CA-45DD-AD69-0BBB17F5048D}",
+      "organization": "Guardian US Holdco LLC, Intrado Corporation, Intrado Safety Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-C-0554",
+      "file_name": "Intrado Safety New York App (WBK final 10.7.22).pdf"
+    }
+  ]
+}

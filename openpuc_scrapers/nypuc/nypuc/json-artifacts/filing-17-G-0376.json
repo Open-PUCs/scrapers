@@ -1,0 +1,27 @@
+{
+  "case": "17-G-0376",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/05/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FBF0ACA-97C2-467B-837F-F3C4EFC0536B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-G-0376",
+      "file_name": "164A_17g0376 - 3.5.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA4E8610-F933-489B-AAE5-85E7AC9C9B25}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0376",
+      "file_name": "163c_17g0376.pdf"
+    }
+  ]
+}

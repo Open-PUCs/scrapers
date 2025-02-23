@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0146",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Fallsview - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62475C7C-DEF1-49BE-A635-5CE1B0F650A9}",
+      "organization": "Harmony Mills Fallsview LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0146",
+      "file_name": "Fallsview - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C36E4216-C596-4614-B684-A1EF5E76A390}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0146",
+      "file_name": "366_18-E-0146.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2B07F84-C381-4BD3-A292-FFF65216EE0E}",
+      "organization": "Harmony Mills Fallsview LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0146",
+      "file_name": "SAPA Notice Filing Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8448B1D0-40D6-4D1F-BF50-90669B0A5F5C}",
+      "organization": "Harmony Mills Fallsview LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0146",
+      "file_name": "Harmony Mills Update Letter.final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Harmony Mills Fallsview LLC to Submeter Electricity at 100 N. Mohawk Street, Cohoes, New York, Located in the Territory of Niagara Mohawk Power Corporation d/b/a National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32791EFE-0BB0-40BC-B84C-14B915B5C65A}",
+      "organization": "Harmony Mills Fallsview LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0146",
+      "file_name": "Submetering Petition_Harmony Mills Fallsview.FINAL.pdf"
+    }
+  ]
+}

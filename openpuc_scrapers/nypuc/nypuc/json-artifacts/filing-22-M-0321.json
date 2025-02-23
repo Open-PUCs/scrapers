@@ -1,0 +1,49 @@
+{
+  "case": "22-M-0321",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B585C4D9-48C0-459E-A138-D68758E0BE9C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-M-0321",
+      "file_name": "261_22-M-0321 Letter.Redact final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/27/2022",
+      "nypuc_doctype": "Letters",
+      "name": "185291 Wells SMR Ack Ltr 1 05272022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC058F0A-4E20-4284-BC86-A39AE18D9B7F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-M-0321",
+      "file_name": "185291 Wells SMR Ack Ltr 1 05272022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/27/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "FW_ Case # 185291_ Request for Hearing_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B2BB891-2A5D-40D3-99AA-D1BF309845E9}",
+      "organization": "Multiple Individuals",
+      "itemNo": "2",
+      "docket_id": "22-M-0321",
+      "file_name": "FW_ Case # 185291_ Request for hearing_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/27/2022",
+      "nypuc_doctype": "Letters",
+      "name": "185291_Wells_SMD_Final_05112022_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6CADCB0-CB1E-4549-B72D-BD48D7D6EAA4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-M-0321",
+      "file_name": "185291_Wells_SMD_Final_05112022_Redacted.pdf"
+    }
+  ]
+}

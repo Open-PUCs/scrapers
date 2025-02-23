@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0612",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C32ABCC1-BF56-418D-93DE-89092A3FBF3D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0612",
+      "file_name": "661_16v0612.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Village of Athens, Greene County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFEF8CA8-36D5-491F-AEFF-BFE96A2B732E}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0612",
+      "file_name": "VILLAGE OF ATHENS FRANCHISE RENEWAL OCT 2016.pdf"
+    }
+  ]
+}

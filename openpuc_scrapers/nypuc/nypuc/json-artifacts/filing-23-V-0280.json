@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0280",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00C68889-0000-C214-A20B-54EF0F10612F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0280",
+      "file_name": "661_23-V-0280 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Chatham Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C54888-0000-C839-8B3F-88D5A174C820}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0280",
+      "file_name": "T. Chatham Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C54888-0000-C759-830B-2314E382A94D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0280",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Chatham 5.23.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C54888-0000-CE13-BA0E-EA3FA38FFF0A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0280",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Chatham 5.23.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications T. Chatham-Cover Letter Request for Renewal and Certificate of Confirmation 5.23.23SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C54888-0000-CE14-AF8C-CC57E3C878C2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0280",
+      "file_name": "Charter Communications T. Chatham-Cover Letter Request for Renewal and Certificate of Confirmation 5.23.23SP.pdf"
+    }
+  ]
+}

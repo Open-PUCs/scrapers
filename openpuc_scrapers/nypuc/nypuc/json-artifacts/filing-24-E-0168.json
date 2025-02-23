@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0168",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80A2878F-0000-C81D-9871-C6286395E755}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0168",
+      "file_name": "372_24-E-0162 and 24-E-0168 51724fnl.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Section 70 Petition and Request for a Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B0578E-0000-C316-8263-0A8A769A78E0}",
+      "organization": "Global Infrastructure Management, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0168",
+      "file_name": "Joint Section 70 Petition of GIM and BlackRock and Request for a Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter - Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B0578E-0000-C93B-9ECD-891276DD1849}",
+      "organization": "Global Infrastructure Management, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0168",
+      "file_name": "Cover Letter - Joint Section 70 Petition of GIM and BlackRock and Request for a Declaratory Ruling.pdf"
+    }
+  ]
+}

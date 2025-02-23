@@ -1,0 +1,60 @@
+{
+  "case": "18-M-0626",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0636 Gray Ack Letter 10032018 _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={098816A1-8566-4547-A774-514433A70ACF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "18-M-0626",
+      "file_name": "18-M-0636 Gray Ack Letter 10032018 _Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-M-0636 Gray Rehearing Request 10012018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72978654-083B-4D27-A38A-F95762BC1B1D}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "18-M-0626",
+      "file_name": "18-M-0636 Gray Rehearing Request 10012018_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0636 Gray SMD Final 08282018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5409F16-B342-4EF6-945E-F332AA639F9D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-M-0626",
+      "file_name": "18-M-0636 Gray SMD Final 08282018_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess for Rehearing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8714B988-D644-4DFC-BA4A-22B6D99E8269}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-M-0626",
+      "file_name": "262 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D0F3BAB-8490-43F1-8B6D-588DBEC650D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-M-0626",
+      "file_name": "262 Determination.pdf"
+    }
+  ]
+}

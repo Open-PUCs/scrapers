@@ -1,0 +1,27 @@
+{
+  "case": "15-E-0403",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82E5F5E2-8BD2-4D59-8B25-FFAFBD1D8C41}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-E-0403",
+      "file_name": "361_15E0403.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0403",
+      "file_name": ""
+    }
+  ]
+}

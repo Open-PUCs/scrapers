@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0196",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/28/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C1E5D88-AFAF-4C4B-9DC0-90DFDD793313}",
+      "organization": "Madison 30 31 Owner LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0196",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F14004D-9CBD-458A-ABCE-C930469BB59C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0196",
+      "file_name": "374_18-E-0196.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DFD7963-6085-4911-95B5-39875438100E}",
+      "organization": "Madison 30 31 Owner LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0196",
+      "file_name": "response letter 9-25-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional information for submetering application for 15 East 30th Street, New York, NY 10016.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78CF24CB-1C0C-4E2A-9678-67E8A6F35768}",
+      "organization": "Madison 30 31 Owner LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0196",
+      "file_name": "additional information 4-5-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 15 East 30th Street, New York, NY 10016, Located in the Territory of Consolidated Edison Company, lnc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA5A1E0D-7F51-484C-92DC-974A4EE3B984}",
+      "organization": "Madison 30 31 Owner LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0196",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

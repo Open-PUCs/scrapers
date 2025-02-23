@@ -1,0 +1,38 @@
+{
+  "case": "15-T-0520",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/02/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF0339A2-A2CB-4D4A-B60A-1F7A7258630C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-T-0520",
+      "file_name": "15t0520 Part 102_Oneida-Yahnundasis _LTR.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED58AFA6-4063-471C-980B-493F38A8C380}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "15-T-0520",
+      "file_name": "Andrew Leja.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/10/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Part 102 Report of Niagara Mohawk Power Corporation concerning the Oneida-Yahnundasis #6 115 kV Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7278965B-4D4D-4A43-808E-5CE28F8F3C79}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "15-T-0520",
+      "file_name": "NG_Oneida-Yahnundasis Part 102_Sept 2015.pdf"
+    }
+  ]
+}

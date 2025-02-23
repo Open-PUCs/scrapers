@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0214",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/02/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Denial of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={366E8745-4E88-41C9-A07F-37AE86520AA5}",
+      "organization": "Pacific Lawn Sprinklers Inc.",
+      "itemNo": "6",
+      "docket_id": "22-G-0214",
+      "file_name": "Pacific Lawn Sprinklers.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8F78764-15F6-42B0-ADEA-018B2BA41F5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0214",
+      "file_name": "269_22-G-0214 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67ED8226-68E6-480D-88BA-FE34EA783CAE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0214",
+      "file_name": "167-A_22-G-0214.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0501",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240220 - Payment - Process $2,500_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3055CC8D-0000-CE12-8040-C9EB24E18459}",
+      "organization": "Powers IoT",
+      "itemNo": "4",
+      "docket_id": "23-G-0501",
+      "file_name": "20240220 - Payment - Process $2,500_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DD678B-0000-CE44-971A-4DED963CCC4E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0501",
+      "file_name": "161-A_23-G-0501.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "18-M-0775",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-M-0775 Council Additional Corr. 01072019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={416F9C7E-A3EC-4A97-96D4-7AE3FD14AAE8}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "18-M-0775",
+      "file_name": "18-M-0775 Council Additional Corr. 01072019 (4).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0775 Council Ack Letter 12182018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43B47ED9-DCBB-4DA2-9249-949427D3B2A4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-M-0775",
+      "file_name": "18-M-0775 Council Ack Letter 12182018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-M-0775 Council Rehearing Request 12122018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E45128BB-A4F4-4E6E-B19D-393D19A7B1D9}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-M-0775",
+      "file_name": "18-M-0775 Council Rehearing Request 12122018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0775 Council SMD Final 11152018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4A0C7F1-0769-48C4-BE20-9BADACFC2F70}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-M-0775",
+      "file_name": "18-M-0775 Council SMD Final 11152018.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/12/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEF55DE1-8659-42BC-A483-4E498318FD7F}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-M-0775",
+      "file_name": "261 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/12/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02A5EF10-D785-4F7E-8588-2AF289EE39A5}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-M-0775",
+      "file_name": "261 Determination.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "22-V-0413",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/05/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11CC3C5B-58F8-4D47-8129-B3296F280907}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "22-V-0413",
+      "file_name": "Sec Letter Granting Withdrawal-Closing Matters 10.5.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CC7C1D7-3E10-4378-A166-163C28A2B689}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0413",
+      "file_name": "220914 Withdrawal Letter re Matter 22-00969.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FB7C95D-A6A4-4498-AB86-DEE0F7C3DC90}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0413",
+      "file_name": "220819_22-00969_29 ORCHARD ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00969 Letter to Verizon Cooperation 29 Orchard St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D75CEC41-191E-46CF-93A1-8A996085AD72}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-V-0413",
+      "file_name": "22-00969 Letter to Verizon Cooperation 29 Orchard St - Wholesome - Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Approval for Verizon to access premises.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73B2EF26-AD41-4BCE-BBE7-24C0839626FB}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "22-V-0413",
+      "file_name": "Dear Michelle L.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00969 Letter to Building Owner 29 Orchard St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C836991-FD65-4FF7-8FCA-071C50AAB09C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0413",
+      "file_name": "22-00969 Letter to Building Owner 29 Orchard St.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 29 Orchard Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={963BD361-D4C8-49FC-9018-2644FAA9DD10}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0413",
+      "file_name": "220504-18 Petition (29 ORCHARD ST) (Post-CODA).pdf"
+    }
+  ]
+}

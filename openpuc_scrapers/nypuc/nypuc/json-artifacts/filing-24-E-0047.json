@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0047",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of EZ Meter for Approval of RGB Series of Electric Submeters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6318D-0000-C63C-AB0C-C890E155E8EF}",
+      "organization": "EZ Meter",
+      "itemNo": "1",
+      "docket_id": "24-E-0047",
+      "file_name": "EZ Meter approval request.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "MET Labs - 0591-01",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6318D-0000-C691-8177-F52677F9B5A1}",
+      "organization": "EZ Meter",
+      "itemNo": "1",
+      "docket_id": "24-E-0047",
+      "file_name": "MET Labs - 0591-01.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "EZ Meter NY Sponsor Document",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6318D-0000-C476-8A94-172D89E376DE}",
+      "organization": "EZ Meter",
+      "itemNo": "1",
+      "docket_id": "24-E-0047",
+      "file_name": "EZ Meter NY Sponsor Document.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "EZ Meter Description",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6318D-0000-CC5E-9087-161587EA8BA0}",
+      "organization": "EZ Meter",
+      "itemNo": "1",
+      "docket_id": "24-E-0047",
+      "file_name": "EZ Meter description n.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "EMC127206-ANSI Rev. 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6318D-0000-C41D-BAC1-FECE9DDA67D4}",
+      "organization": "EZ Meter",
+      "itemNo": "1",
+      "docket_id": "24-E-0047",
+      "file_name": "EMC127206-ANSI Rev. 1.pdf"
+    }
+  ]
+}

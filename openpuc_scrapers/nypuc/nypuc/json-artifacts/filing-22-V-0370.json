@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0370",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0198A669-48AC-4F21-A87A-5A266A2B5863}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0370",
+      "file_name": "662_22-V-0370 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B2AB72D-AEC8-4E84-B916-26FEB35E4414}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0370",
+      "file_name": "AUSA Newspaper Cover Letter - Greenwood Lake, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Greenwood Lake, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36B205F4-F855-4CBB-AC16-575E08527C81}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0370",
+      "file_name": "AUSA Newspaper Affidavit - Greenwood Lake, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1AB51DF-52A2-4FE1-87BD-F49A0DC4DCE4}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0370",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with the Village of Greenwood Lake, Orange County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7929C20-E66E-4A4D-801D-AA669BD71F82}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0370",
+      "file_name": "Application Cover Letter - Greenwood Lake, V..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Greenwood Lake, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6F2BB5B-323F-44E3-97E1-BF7E2F1F1E0F}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0370",
+      "file_name": "Exhibit IV - Greenwood Lake, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD1FBD4A-9FD2-4FFE-A1CD-6AA89C2E773B}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0370",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22AB2413-3596-49EB-B0FC-4268762C727E}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0370",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59BC8D85-1E27-46D2-B425-AC23F7880074}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0370",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

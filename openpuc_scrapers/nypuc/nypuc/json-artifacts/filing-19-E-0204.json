@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0204",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA9E77EB-3746-4C91-8323-D015FD588755}",
+      "organization": "533 48th Avenue Condominium LLC",
+      "itemNo": "8",
+      "docket_id": "19-E-0204",
+      "file_name": "compliance letter 1-6-2020 (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA3E009F-10DD-433E-B839-F8532AB044A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0204",
+      "file_name": "374_19-E-0204.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C97E59EA-0869-4AD0-A29C-5CFE5D3E106F}",
+      "organization": "533 48th Avenue Condominium LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0204",
+      "file_name": "additional information. 11-13-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A3D2B96-996C-4395-B6C9-8F7759EDF02E}",
+      "organization": "533 48th Avenue Condominium LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0204",
+      "file_name": "response letter 7-24-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14CBDB1B-576E-449E-8A18-809E549EFD82}",
+      "organization": "533 48th Avenue Condominium LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0204",
+      "file_name": "response letter 6-26-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/18/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29BFD838-5C0E-442B-AA4C-8E2915BCE7CE}",
+      "organization": "533 48th Avenue Condominium LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0204",
+      "file_name": "response letter 4-18-19.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/09/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A868AFD7-A33F-486C-B218-D61873C1F64C}",
+      "organization": "533 48th Avenue Condominium LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0204",
+      "file_name": "submetering application.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 533 48th Avenue Condominium LLC, to Submeter Electricity at 5-33 48th Avenue, Queens, New York in the of territory of Consolidated Edison Company, lnc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53238DC1-3796-4358-B48E-0532EB103863}",
+      "organization": "533 48th Avenue Condominium LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0204",
+      "file_name": "submetering cover letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-M-0644",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgment Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80603193-0000-C92C-9236-707B793E9EEE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-M-0644",
+      "file_name": "24-M-0644 Acknowledgment Letter Marnell v Sunnova_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Customer_Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903B3193-0000-C616-9CE4-E5772923D5A4}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-M-0644",
+      "file_name": "355692_CUSTOMER_EMAIL_05072024_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Informal_Hearing_Denial Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80363193-0000-CF3F-82CB-882C18DCA452}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-M-0644",
+      "file_name": "Case_No._355692_-_Informal_Hearing_Request_-_Marnelle_Eugene_-_Sunnova_Energy_Redacted.pdf"
+    }
+  ]
+}

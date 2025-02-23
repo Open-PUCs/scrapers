@@ -1,0 +1,60 @@
+{
+  "case": "21-V-0021",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={884FADBA-C61E-4D15-91EE-4105E931A051}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0021",
+      "file_name": "663_21-V-0021 OOE final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02769.Order of Entry Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6AD1909-0106-40C8-902A-F992EBBD48F0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0021",
+      "file_name": "19-02769.Order of Entry Letter.docx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 196 Neptune Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B780D30-3F04-43AF-AF81-3DD511864291}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0021",
+      "file_name": "Petition (196 NEPTUNE AV).pdf (95 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C92DB80-E2B9-4B47-A06E-E91E6D38C655}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0021",
+      "file_name": "Exhibit 2 (196 NEPTUNE AV).pdf (80 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E50837D-857F-4FC3-92FA-969A9F2101D4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0021",
+      "file_name": "Exhibit 1 (196 NEPTUNE AV).pdf (1 MB)"
+    }
+  ]
+}

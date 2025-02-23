@@ -1,0 +1,49 @@
+{
+  "case": "19-G-0493",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-G-0493 Na Ack Letter 05242019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C32EA090-F8C5-47B3-B994-0974213DD83F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-G-0493",
+      "file_name": "19-G-0493 Na Ack Letter 05242019_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-G-0493 Na Rehearing Request 05162019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A47DE41-18A9-4981-A7CB-26257E7861D2}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-G-0493",
+      "file_name": "19-G-0493 Na Rehearing Request 05162019_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-G-0493 Na SMD FInal 04182019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76891BA5-DFD8-402B-9D22-3CEAAB172A32}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-G-0493",
+      "file_name": "19-G-0493 Na SMD FInal 04182019_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/13/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B5FF8A0-F21B-423D-8557-B65136CEE317}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0493",
+      "file_name": "165 Letter_Redacted.pdf"
+    }
+  ]
+}

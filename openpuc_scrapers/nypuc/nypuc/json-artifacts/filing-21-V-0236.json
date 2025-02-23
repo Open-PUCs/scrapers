@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0236",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB224EC6-0385-44B1-8042-1D6FFBBFE44F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0236",
+      "file_name": "667_21-V-0236 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Kinderhook, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5284FE6-745D-441E-95C4-C2208643AA08}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0236",
+      "file_name": "V. Kinderhook To Be Filed PSC.pdf"
+    }
+  ]
+}

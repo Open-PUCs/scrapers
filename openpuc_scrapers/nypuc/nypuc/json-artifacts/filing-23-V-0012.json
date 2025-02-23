@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0012",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F79EFA14-ABC7-4D53-8B6F-50AF2A5D68AB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "23-V-0012",
+      "file_name": "230221_22-02066_61 HAMILTON PL_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/14/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Close the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05EA7CE5-B259-4345-B3D8-53AD02AD52F9}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-V-0012",
+      "file_name": "22-02048, 22-02058, 22-02065 Sec Letter Closing Matters.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CBB75A72-93BB-4749-AD1D-A64F4B5C29D2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "23-V-0012",
+      "file_name": "230208 Withdrawal Letter re Matter 22-02065.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-02065 Letter to Verizon Re-Cooperation 61 Hamilton Pl",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C239229-01FD-4C3A-B9EE-F937CA973219}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0012",
+      "file_name": "22-02065 Letter to Verizon Re-Cooperation 61 Hamilton Pl.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02065 Letter to Building Owner_61 Hamilton Pl",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B42ABD7D-9104-4392-B02E-ED168E7B558C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0012",
+      "file_name": "22-02065 Letter to Building Owner_61 Hamilton Pl.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 61 Hamilton Place, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B686D0F-6325-44E3-864A-9FF63A61A19C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0012",
+      "file_name": "221019-20 Petition (61 HAMILTON PL) (Post-Survey).pdf"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "case": "16-G-0378",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Silver Spring Networks IMU300/300A Gas Interface Management Unit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D0F14C5-A080-4D6D-BBDA-EA7B0FFEA85E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-G-0378",
+      "file_name": "163_16-G-0378.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison respectfully requests approval of Silver Spring Network gas IMU\u00bfs for Elster-American, Itron, and Sensus Class 400 meters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5673B9C0-0B0A-4B67-A792-AAA9C92E8E1A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-G-0378",
+      "file_name": "CASE 16-G-0378_SSN Mod for Itron Elster Sensus Class 400 Mtrs_Approval Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover_Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E18F3DC-6DBC-4410-8CD1-37339E05F00B}",
+      "organization": "Silver Spring Networks, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-G-0378",
+      "file_name": "CASE 16-G-0378_Res_B109_Cover_Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={648BA474-5545-4DE2-992F-37C2DCF8ADDF}",
+      "organization": "Silver Spring Networks, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-G-0378",
+      "file_name": "B109 Exhibit 1 - Residential B109 ESL92572A-GEN.REV2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/23/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Petition Approval Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB504957-46E2-4DF8-9CFA-B5E551964326}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-G-0378",
+      "file_name": "SSN Mod for Itron Elster Class 250 Mtrs_Approval Request.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/16/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Supplemental Information - Sensus RMA Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91930035-8B34-424A-AA7F-D5BF61BCDDD9}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0378",
+      "file_name": "Sensus R275TC_RMA Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/16/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CF2CF9A-90E9-4FDA-A98B-BA035A1D15AD}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0378",
+      "file_name": "Sensus R275TC_Cover_Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Orange and Rockland Utilities, Inc. and Consolidated Edison Company of New York, Inc. for Approval of Silver Spring Networks Residential IMU AMI Devices.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44E01CA9-3765-4F19-BA5D-E3C1341B79D8}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "0 CE Request for Approval of Silver Spring Networks Residential IMU AMI Device.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 9 - SSN Battery Life Tests",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4EAFC28-981A-4F5A-B7AC-8F27D94EC579}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 9 - SSN Battery Life Tests.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 8 - SSN Meter Accuracy Test Results",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CCC7575-CD97-4FAA-832E-F857FC9E5117}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 8 - SSN Meter Accuracy Test Results.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 7 - SSN FCC Grant(s) of Equipment Authorization",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0AF1F4B-F8F6-4113-835B-456C7418A95A}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 7 - SSN FCC Grant(s) of Equipment Authorization.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 6 - SSN Underwriters Laboratories (UL) Notice(s) of Authorization - Residential",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={563D60F1-AAE1-4A98-B15D-BCF28E4EBAB9}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 6 - SSN Underwriters Laboratories (UL) Notice(s) of Authorization - Residential.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 5 - SSN GasIMU_CompatibilityByMeter_Reference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CD4CD24-F969-452C-B257-041262750FF5}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 5 - SSN GasIMU_CompatibilityByMeter_Reference.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 4 - SSN Technology Guides and Glossary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DE78B01-3902-442F-94B0-7C52B05BFDEC}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 4 - SSN Technology Guides and Glossary.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 3 - SSN Gas IMU Installation Manuals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADAAD6D4-3DC7-41DA-8807-EFD367C86101}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 3 - SSN Gas IMU Installation Manuals.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 2 - SSN Gas IMU Brochure Data Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={985FD566-21DA-4AD7-8494-91DF52E1E112}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 2 - SSN Gas IMU Brochure Data Sheet.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 10 - Con Edison Accelerated Life Test",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E869D28C-813B-4D30-9BE7-E1AF4B77E113}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 10 - Con Edison Accelerated Life Test.xlsx"
+    },
+    {
+      "serial": "18",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 1 - Meter-IMU Photos",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBBEA0B4-DE86-4C83-9CDE-98669F54B4C7}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0378",
+      "file_name": "Attachment 1 - Meter-IMU Photos.pdf"
+    }
+  ]
+}

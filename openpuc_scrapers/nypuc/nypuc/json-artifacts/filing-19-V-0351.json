@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0351",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F79B764E-94D4-4544-BED1-6B9515CE7F94}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0351",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EFACFD4-3C2B-4A1B-A2ED-A0BE7CAB534B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0351",
+      "file_name": "061019 C. Hornell to PSC w.Sig Pg 15 aligned.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "C. Hornell Signature Page",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D167148-CE1A-41D9-958F-DE319677251C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0351",
+      "file_name": "C. Hornell Signature Page, Case 19-V-0351.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/02/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the City of Hornell, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2ED84C5F-66AD-44E0-B83A-D0869B7A0DA8}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0351",
+      "file_name": "05.01.19 - C. HORNELL RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

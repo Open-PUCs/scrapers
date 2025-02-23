@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0136",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={924FA69B-3652-4B2B-9D18-EA7458D7BDE3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0136",
+      "file_name": "662_21-V-0136 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Portland Letter w. Corrected Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94B0D970-5A58-441E-9016-734C6940908F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0136",
+      "file_name": "2021.03.15 T. PortlandLetter to PSC secretary w. corrected Reso.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Portland, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B98ACFDB-B932-464E-ADD8-B07C327BE264}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0136",
+      "file_name": "2021.03.02 T. PORTLAND RENEWAL FILED.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0244",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "compliance letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22EEA623-1957-4D35-8C13-E07B221C56E4}",
+      "organization": "18 Sixth Avenue Owner, LLC",
+      "itemNo": "6",
+      "docket_id": "21-E-0244",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F29E13F-A4FE-4185-918E-8B9B962BEE83}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0244",
+      "file_name": "370_21-E-0244 Order Authorizing Submetering final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00E77419-680E-406F-89B6-C7358305EE01}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "4",
+      "docket_id": "21-E-0244",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/07/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27154218-21F3-4B0C-BCE3-2E1CDEDA5852}",
+      "organization": "18 Sixth Avenue Owner, LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0244",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C48456C-0E22-4317-8A90-F460D64B67AB}",
+      "organization": "18 Sixth Avenue Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0244",
+      "file_name": "additional information (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Documents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FBD3C9F-03A3-418B-B102-643FF0A69818}",
+      "organization": "18 Sixth Avenue Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0244",
+      "file_name": "Submetering Documents.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E5BEC8C-3AC4-4EC3-A557-A50870F63691}",
+      "organization": "18 Sixth Avenue Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0244",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "18 6th Ave - Letter to ConEd",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6CB6320-7F6D-429F-8D66-A0A190F54CEE}",
+      "organization": "18 Sixth Avenue Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0244",
+      "file_name": "18 6th Ave - Letter to ConEd.pdf"
+    }
+  ]
+}

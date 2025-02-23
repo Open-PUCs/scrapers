@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0424",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0424 Jean Ack Letter 08242020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={704F6A94-759D-46DA-916D-0588D67A45AD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0424",
+      "file_name": "20-E-0424 Jean Ack Letter 08242020_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0424 Jean Rehearing Request 08192020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A72C6BFA-D326-4172-BA4E-9572772470B0}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0424",
+      "file_name": "20-E-0424 Jean Rehearing Request 08192020_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0424 Jean SMD Final 07172020 _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80043E69-664F-4BD4-8F18-EACBA17F209F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0424",
+      "file_name": "20-E-0424 Jean SMD Final 07172020 _Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1ABD9D44-17A3-4F95-8060-2D8660E4B22F}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0424",
+      "file_name": "364 Letter final_Redacted.pdf"
+    }
+  ]
+}

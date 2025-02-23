@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0019",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F80019A-06E8-45C6-8CB4-21C416C390C4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0019",
+      "file_name": "664_18-V-0019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0019 T. of Westerlo Proof of Public Notice of Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A4D493C-E67B-4F4F-92A7-F1CA2C5CF23D}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0019",
+      "file_name": "18-V-0019 T. of Westerlo Proof of Public Notice of Application.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Town of Westerlo, Albany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={057B4DF0-F4D6-4D7C-BFEE-B6FA91C41172}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0019",
+      "file_name": "TOWN OF WESTERLO FRANCHISE FILING WITH PSC Searchable 2018.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0051",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50320587-0000-CE10-8D50-73008DAC8565}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0051",
+      "file_name": "663_23-V-0051.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/26/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31B027E4-1232-4F73-A59E-2C90B000223B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0051",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/26/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Sangerfield 01.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B64EC2-66CC-45C9-BC95-62237E99B11B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0051",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Sangerfield 01.24.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Sangerfield-Cover Letter-Request for Renewal and Certificate of Confirmation 1.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAB3D4C3-9AB3-4088-949B-FC6B6FD6D608}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0051",
+      "file_name": "Charter Communications, T. Sangerfield-Cover Letter-Request for Renewal and Certificate of Confirmation 1.24.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/26/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Sangerfield Request for Renewal, Certificate of Confirmation (Redacted) 1.24.23 ak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BA32A70-99EF-4CD1-97AB-D09B634DA92F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0051",
+      "file_name": "Charter Communications, T. Sangerfield Request for Renewal, Certificate of Confirmation (Redacted) 1.24.23 ak .pdf"
+    }
+  ]
+}

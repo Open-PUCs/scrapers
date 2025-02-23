@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0170",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4BB3F17-A2C6-43FD-86C7-9ECD2E905287}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0170",
+      "file_name": "662_22-V-0170.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00073 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EF39AB0-EBD2-4140-BE59-1D9A7D947380}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0170",
+      "file_name": "22-00073 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 501 West 134th Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B310D30B-9004-4391-AF48-3BB03240049B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0170",
+      "file_name": "220112-6 Petition (501 W 134 ST) (Post-CODA).pdf"
+    }
+  ]
+}

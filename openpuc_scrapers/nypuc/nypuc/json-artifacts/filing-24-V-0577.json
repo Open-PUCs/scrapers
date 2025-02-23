@@ -1,0 +1,49 @@
+{
+  "case": "24-V-0577",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0657792-0000-CD12-88B3-6EA1E9821CA7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0577",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Harpersfield Letter 10.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90657792-0000-C21B-9800-6BB1A8F6B5C2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0577",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Harpersfield Letter 10.10.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Harpersfield-Request for Renewal and Certificate of Confirmation(redacted)10.10.24.SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0657792-0000-C65A-A97C-5670DBC8879E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0577",
+      "file_name": "Charter Communications, T. Harpersfield-Request for Renewal and Certificate of Confirmation(redacted)10.10.24.SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Harpersfield Cover letter-Request for Renewal and Certificate of Confirmation 10.10.24.SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0657792-0000-CF3D-9E82-C9151EE5D722}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0577",
+      "file_name": "Charter Communications, T. Harpersfield Cover letter-Request for Renewal and Certificate of Confirmation 10.10.24.SP.pdf"
+    }
+  ]
+}

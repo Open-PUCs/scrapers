@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0030",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E0668E-0000-C21F-A176-CD9778739D9F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0030",
+      "file_name": "662_24-V-0030 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8013F58C-0000-C251-A024-32FE5101622C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0030",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Pendleton Letter 1.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8013F58C-0000-C019-B364-F46C524CFEC1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0030",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Pendleton Letter 1.10.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Pendleton Cover Letter - Request for Renewal and Certificate of Confirmation 1.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8013F58C-0000-CA7A-A404-AAFADE56BF92}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0030",
+      "file_name": "Charter Communications, T. Pendleton Cover Letter - Request for Renewal and Certificate of Confirmation 1.10.24 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Pendleton - Request for Renewal and Certificate of Confirmation(redacted) 1.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8013F58C-0000-CA93-B397-95DBBBBE3B34}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0030",
+      "file_name": "Charter Communications, T. Pendleton - Request for Renewal and Certificate of Confirmation(redacted) 1.10.24.pdf"
+    }
+  ]
+}

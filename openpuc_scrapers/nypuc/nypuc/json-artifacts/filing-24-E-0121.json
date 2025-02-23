@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0121",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90314A93-0000-C327-A4B1-512ABCE21BDA}",
+      "organization": "BLDG Orchard LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0121",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60552A92-0000-C61B-BBDB-E5731D5EC1C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0121",
+      "file_name": "364_24-E-0121 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BLDG Orchard LLC to Submeter Electricity at 42-22 Orchard Street, New York, Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={406FFA8D-0000-CE12-868B-22DF074A99E6}",
+      "organization": "BLDG Orchard LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0121",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

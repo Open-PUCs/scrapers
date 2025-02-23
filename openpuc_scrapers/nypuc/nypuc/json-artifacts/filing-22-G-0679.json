@@ -1,0 +1,93 @@
+{
+  "case": "22-G-0679",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "National Grid AMI Module Testing Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A94F93-0000-CD16-B126-2BBD6110A6FE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "22-G-0679",
+      "file_name": "National Grid AMI Module Testing Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A94F93-0000-CD32-9196-C6935F853205}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "22-G-0679",
+      "file_name": "Case 22-G-0679 - Acceptance Testing Procedures - Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Installation of Conditionally Approved Modules - Oct 2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0990D93-0000-CA1A-89A2-493FFADCCCB4}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "22-G-0679",
+      "file_name": "Case 22-G-0679 - installation of conditionally approved modules - Oct 2024 - Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Conditional Approval of Gas Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4058BA92-0000-CF11-96D2-ABC1618FF7AD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0679",
+      "file_name": "164_22-G-0679 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid Letter re AMI Gas Module Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01AD791-0000-CA12-8C13-383429AC8371}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "22-G-0679",
+      "file_name": "09.09.24 National Grid Letter re AMI Gas Module Approval (22-G-0679).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/15/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Conditional Approval to Deploy Updated Gas Modules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B5E18E-0000-C510-9EAC-7CD9EC6F90A5}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "22-G-0679",
+      "file_name": "04.15.24 National Grid Letter re AMI Gas Module Conditional Approval (22-G-0679).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/14/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40035689-0000-C61A-A8EA-97A6396D9D4E}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-G-0679",
+      "file_name": "RAO Request for Confidential Treatment - NG - L+G Agreement.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/06/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid Gas Meter Approval Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA12B258-8B1C-4B87-BB35-4D904DAFA95B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-G-0679",
+      "file_name": "Case 22-G-XXXX - National Grid Gas Meter Approval Petition.pdf"
+    }
+  ]
+}

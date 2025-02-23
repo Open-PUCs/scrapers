@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0602",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F082928C-0000-CC19-96CD-CB3B2B2A2390}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0602",
+      "file_name": "662_23-V-0602 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D055208B-0000-C05E-9D93-3E3A48F18550}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0602",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Machias Letter 10.11.23-ac",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D055208B-0000-CC14-BFC9-D418359FED02}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0602",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Machias Letter 10.11.23-ac.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Machias Cover Letter - Request for Renewal and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E055208B-0000-CE14-A3F3-D71900C12F7E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0602",
+      "file_name": "Charter Communications, T. Machias Cover Letter - Request for Renewal and Certificate of Confirmation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Machias - Request for Renewal and Certificate of Confirmation(redacted)10.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E055208B-0000-CC33-8F1D-E35E35D360BB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0602",
+      "file_name": "Charter Communications, T. Machias - Request for Renewal and Certificate of Confirmation(redacted)10.11.23.pdf"
+    }
+  ]
+}

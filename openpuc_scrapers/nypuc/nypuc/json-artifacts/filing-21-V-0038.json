@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0038",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16FBC5E0-51E6-43D9-8F63-50D9DB810FB4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0038",
+      "file_name": "661_21-V-0038 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "T. BETHANY RENEWAL TO PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18682305-8103-49A2-AA1E-700956994DF6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0038",
+      "file_name": "2021.01.08 T. BETHANY RENEWAL TO PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0496",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7B8D049-906F-494B-AFD6-F488D4CF8449}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0496",
+      "file_name": "663_22-V-0496.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/26/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99180084-F56B-4E3D-93C5-43B4295723AC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0496",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Manchester Letter 08.26.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67897731-7776-4846-9B79-D83B062C33A1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0496",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Manchester Letter 08.26.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/26/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Manchester-Request for Renewal and Certificate of Confirmation (Redacted) 08.26.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D48B955-9656-45AB-BAEC-357DAC81396C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0496",
+      "file_name": "Charter Communications, V. Manchester-Request for Renewal and Certificate of Confirmation (Redacted) 08.26.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/26/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Manchester Cover Letter- Request for Renewal and Certificate of Confirmation 08.26.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63D36A22-2DC0-4B8A-BD16-D39CA12880E7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0496",
+      "file_name": "Charter Communications, V. Manchester Cover Letter- Request for Renewal and Certificate of Confirmation 08.26.22.pdf"
+    }
+  ]
+}

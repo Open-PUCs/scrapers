@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0434",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Withdrawal of Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE102622-C0D0-4834-ABB2-FC2EFDA6D680}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-E-0434",
+      "file_name": "22-E-0434 - CECONY Ltr.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Utility Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={861F080B-6C8D-4D23-BAF1-D8C5C16A8010}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "4",
+      "docket_id": "22-E-0434",
+      "file_name": "Con Edison v Urban Horizons - Response to utility appeal 019878.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D20A6109-819C-4940-8BF6-376841408A8C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0434",
+      "file_name": "019878 ack ltr.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Decision 7-21-22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E57F2D9-443B-41B9-8B0F-213EE7A5630F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0434",
+      "file_name": "019878 Con Ed appeal letter 7-21-22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/27/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision 7-6-22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC4CBFA0-6BEC-45E2-8D81-30464F24B149}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0434",
+      "file_name": "019878 IHD 7-6-22.pdf"
+    }
+  ]
+}

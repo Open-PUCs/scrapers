@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0192",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20241030 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DBE392-0000-CD20-9340-351A6866CC35}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "24-G-0192",
+      "file_name": "20241030 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240827 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0869991-0000-C01E-9E38-B8B4B320C2FC}",
+      "organization": "Nassau Builders Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0192",
+      "file_name": "20240827 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/03/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "20240703 \u00bf Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00D7A90-0000-C313-A373-764259A18850}",
+      "organization": "Nassau Builders Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0192",
+      "file_name": "20240703 \u00bf Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240604 - Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F04B2B90-0000-C912-8127-D6A92D1E4CC5}",
+      "organization": "Nassau Builders Inc.",
+      "itemNo": "3",
+      "docket_id": "24-G-0192",
+      "file_name": "20240604 - Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7044A18F-0000-C013-8C1B-D9373C9810F1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0192",
+      "file_name": "161_24-G-0192.pdf"
+    }
+  ]
+}

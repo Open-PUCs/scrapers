@@ -1,0 +1,38 @@
+{
+  "case": "16-G-0505",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/13/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Limited Waiver of Tariff Provisions for Interruptible Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={713E5944-5DCE-4930-9344-F04A4D19CA98}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-G-0505",
+      "file_name": "167_16-G-0505.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of SUNY Downstate Medical Center",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2642DAFD-DB18-4F37-8405-50B01E05D165}",
+      "organization": "The State University of New York",
+      "itemNo": "2",
+      "docket_id": "16-G-0505",
+      "file_name": "Comments 12-5-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of the Petition of The Brooklyn Union Gas d/b/a National Grid NY for a Limited Waiver of Tariff Provisions for Interruptible Service to SUNY Downstate Medical Center.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB0BF3DB-1E27-4C43-9BDA-A299DFCB3D89}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "16-G-0505",
+      "file_name": "SUNY Downstate Petition (Final).pdf"
+    }
+  ]
+}

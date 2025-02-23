@@ -1,0 +1,60 @@
+{
+  "case": "17-C-0101",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09E90DAA-97B8-417E-B35C-1AD53B0ABAFF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-C-0101",
+      "file_name": "564_17-C-0101.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Review of Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CD53853-7748-4EE7-BEC3-838C05874706}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-C-0101",
+      "file_name": "Letter Regarding Review of Transaction.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/07/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CE3289D-47D4-4066-8F3B-258CC3819B6D}",
+      "organization": "CenturyLink, Inc., Level 3 Communications, LLC",
+      "itemNo": "2",
+      "docket_id": "17-C-0101",
+      "file_name": "Ltr Giliberto - Matter 17-00035 - Joint Petition of CenturyLink, Level 3 Communications, LLC, et al.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Century Link, Inc., Wildcat Holdco, LLC, Wildcat Merger Sub 1 LLC, WWG Merger Sub LLC, CenturyLink Communications, Inc., Level 3 Communications, LLC, Broadwing Communications, LLC, WilTel Communications, LLC, Global Crossing Telecommunications, Inc., Global Crossing Local Services, Inc., TelCove Operations, LLC, and Level 3 Telecom of New York LLC for Authority to Transfer and Acquire Shares and Ownership Interests, and Issue Long Term Debt.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19E4D945-1999-49C5-8C2D-D699B56DD52F}",
+      "organization": "Broadwing Communications, LLC., CenturyLink Communications, LLC, CenturyLink, Inc., Global Crossing Local Services, Inc., Global Crossing Telecommunications, Inc., Level 3 Communications, Inc., Level 3 Communications, LLC, Level 3 Telecom of New York, LLC, TelCove Operations, LLC, WWG Merger Sub LLC, WilTel Communications, LLC, Wildcat Holdco, LLC, Wildcat Merger Sub 1 LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0101",
+      "file_name": "Joint Petition RE Petition of CenturyLink, Inc., Level 3 Communications, Inc. et al.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48E5C489-4BEA-468A-99C7-152F5636D50E}",
+      "organization": "Broadwing Communications, LLC., CenturyLink Communications, LLC, CenturyLink, Inc., Global Crossing Local Services, Inc., Global Crossing Telecommunications, Inc., Level 3 Communications, Inc., Level 3 Communications, LLC, Level 3 Telecom of New York, LLC, TelCove Operations, LLC, WWG Merger Sub LLC, WilTel Communications, LLC, Wildcat Holdco, LLC, Wildcat Merger Sub 1 LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0101",
+      "file_name": "Cover Ltr to Secretary RE Petition of CenturyLink, Inc., Level 3 Communications, Inc. et al.pdf"
+    }
+  ]
+}

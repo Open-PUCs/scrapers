@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0500",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Reports",
+      "name": "9 DeKalb Fee Owner LLC - Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2048448B-0000-CD17-AB21-2FE342739EF6}",
+      "organization": "9 Dekalb Fee Owner LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0500",
+      "file_name": "9 DeKalb Fee Owner LLC - Meter Test Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "9 DeKalb Fee Owner LLC - Approval Order Compliance Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E52A88-0000-CB16-8CFD-C72C35E868DF}",
+      "organization": "9 Dekalb Fee Owner LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0500",
+      "file_name": "9 DeKalb Fee Owner LLC - Approval Order Compliance Filing Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E04A0087-0000-C21B-9ADA-389A2A13903B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0500",
+      "file_name": "369_22-E-0500.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1A89295-1C8B-4EB4-87EC-D67CE23A1107}",
+      "organization": "9 Dekalb Fee Owner LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0500",
+      "file_name": "Supplemental Filing_9 DeKalb Fee Owner LLC_1.24.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B31A6EA-0179-4DF1-B47A-A524B05AD0F9}",
+      "organization": "9 Dekalb Fee Owner LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0500",
+      "file_name": "Correspondence_9 DeKalb Fee Owner LLC_9.28.22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/29/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 9 DeKalb Fee Owner LLC to Submeter Electricity at 55 Fleet Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C80F805-0C85-40EA-A889-B1CBCA3066D9}",
+      "organization": "9 Dekalb Fee Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0500",
+      "file_name": "Notice of Intent - 9 DeKalb Fee Owner LLC - 55 Fleet Street, Brooklyn, NY.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0162",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={307D328D-0000-C31C-96F9-174468D3AB12}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0162",
+      "file_name": "367_23-E-0162_1.22.24_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/03/2023",
+      "nypuc_doctype": "Letters",
+      "name": "233333 Alcide SMR Ack 04032023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40F74D87-0000-CC1C-9E38-CE49D8AFA3DE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0162",
+      "file_name": "233333 Alcide SMR Ack 04032023_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/03/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Alcide Petition for Rehearing #233333_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6092EF8C-0000-C013-8407-A65EDB8305CF}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0162",
+      "file_name": "Alcide Petition for Rehearing #233333_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/03/2023",
+      "nypuc_doctype": "Letters",
+      "name": "233333_Alcide_SMD_Final_03032023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10F04D87-0000-C617-97B9-788CB493E9CF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0162",
+      "file_name": "233333_Alcide_SMD_Final_03032023_Redacted.pdf"
+    }
+  ]
+}

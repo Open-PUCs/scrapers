@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0401",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47B17289-23EC-4332-83D0-CCAB1B928FA9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0401",
+      "file_name": "375_16e0401 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/15/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Riverstone Holdings LLC, Talen Energy Supply, LLC, MACH Gen, LLC, New MACH Gen, LLC and New Athens Generating Company, LLC for a Declaratory Ruling or, in the Alternative Approval of the Acquisition of Indirect Ownership Interests in New Athens Generating Company, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C609F554-2D73-4C2E-BD45-4167F80F205D}",
+      "organization": "MACH Gen, LLC, New Athens Generating Co.,LLC, New MACH Gen, LLC, Riverstone Holdings LLC, Talen Energy Supply, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0401",
+      "file_name": "Joint Petition for a Declaratory Order re New Athens Generating Company LLC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/15/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={190009AF-5D73-424A-9A1E-D0445EE2ECEA}",
+      "organization": "MACH Gen, LLC, New Athens Generating Co.,LLC, New MACH Gen, LLC, Riverstone Holdings LLC, Talen Energy Supply, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0401",
+      "file_name": "Joint Cover Letter.pdf"
+    }
+  ]
+}

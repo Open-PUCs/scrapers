@@ -1,0 +1,82 @@
+{
+  "case": "20-E-0468",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31496A51-F950-4701-916D-F55C07C13BA4}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0468",
+      "file_name": "374_20-E-0468 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAEDC530-E999-49D0-9915-FAAB11B77259}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0468",
+      "file_name": "374_20-E-0468 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison\u00bfs response to the Customer\u00bfs Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31CF4C4B-3D0A-4257-A917-D6350C3CBAF5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-E-0468",
+      "file_name": "Case 20-E-0468 Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A4A4F3C-7979-49A3-8958-A7D441F54AB6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0468",
+      "file_name": "021068 PACLA Apts.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6271C6D-BAD1-45D4-AC16-C418B5CB1FC3}",
+      "organization": "PACLA Apts. Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0468",
+      "file_name": "021068 Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A554C351-6B7B-41BF-A987-A774B6A4D214}",
+      "organization": "PACLA Apts. Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0468",
+      "file_name": "Appeal 021068.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B13A3890-31AF-4C03-856A-DCE13C14AC31}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0468",
+      "file_name": "DPS Case 021068 (Pacla Apts Inc-URAC vs Con Edison) IR decision.pdf"
+    }
+  ]
+}

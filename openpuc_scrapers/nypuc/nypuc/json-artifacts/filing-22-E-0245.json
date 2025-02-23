@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0245",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0903363-2445-49AD-93D8-21CBE94EF8D8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0245",
+      "file_name": "379_22-E-0245 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B88A8D38-57F4-42F2-AACE-EC14870D4689}",
+      "organization": "NextEra Energy Transmission New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0245",
+      "file_name": "Phillips 4-26-2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Amended Section 69 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={808E341F-B936-49F3-9298-1A942051D9F8}",
+      "organization": "NextEra Energy Transmission New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0245",
+      "file_name": "Amended Section 69 Petition 4-26-2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of NextEra Energy Transmission New York, Inc. for an Order Approving Financing Pursuant to Section 69 of the New York Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9323F172-0221-466D-ABDA-EDC1A7F0EDD6}",
+      "organization": "NextEra Energy Transmission New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0245",
+      "file_name": "Section 69 Petition 04-22-2022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16B9C4F1-13A0-4869-A50D-1EA30CA22F24}",
+      "organization": "NextEra Energy Transmission New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0245",
+      "file_name": "Phillips 4-25-2022.pdf"
+    }
+  ]
+}

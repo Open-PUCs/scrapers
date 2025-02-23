@@ -1,0 +1,82 @@
+{
+  "case": "21-E-0526",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80459587-0000-CD19-B7BE-1E5CC3C78439}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "7",
+      "docket_id": "21-E-0526",
+      "file_name": "in-service meter test plan Case # 21-E-0526.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7C0B47E-9ABB-4D9F-A888-4510FDF8242E}",
+      "organization": "Woodside Development LLC",
+      "itemNo": "6",
+      "docket_id": "21-E-0526",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84830202-E1C8-4890-802C-3A6BC8F27822}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0526",
+      "file_name": "363_21-E-0526 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF4B89C4-D8B1-495C-88CD-32FAE49F2DDD}",
+      "organization": "LIC Owner LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0526",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/05/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Number of Units Offered as Affordable",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BB14167-9BE7-4B25-893C-8F464CD75DA9}",
+      "organization": "Consolidated Edison Company of New York, Inc., Woodside Development LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0526",
+      "file_name": "requested information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "energy waiver letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF55C170-AA17-4C8D-84A6-A3D5A2E3876B}",
+      "organization": "Woodside Development LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0526",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Woodside Development LLC to Sub-meter electricity at a building located at72-01Queens Blvd., Woodside, New York 11377.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85120159-33A5-472D-98EA-8B2AD3F93D10}",
+      "organization": "Woodside Development LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0526",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

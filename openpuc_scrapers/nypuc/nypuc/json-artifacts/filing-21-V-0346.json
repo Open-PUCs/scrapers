@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0346",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B08AF4-B13F-4BF5-AD2C-05CE6D2F0226}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0346",
+      "file_name": "661_21-V-0346.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of McGraw, Cortland County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94AAC324-52BD-4678-90FB-5FC66EC0E457}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0346",
+      "file_name": "2021.06.22 V.MCGRAW RENEWAL FILED-PSC lk.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0340",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240905 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C051C391-0000-C347-B699-2B777398776D}",
+      "organization": "New York State Department of Public Service, Viele Development and Construction Company, Inc.",
+      "itemNo": "8",
+      "docket_id": "24-G-0340",
+      "file_name": "20240905 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240823 - Payment ($400) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0429A91-0000-CE18-8795-BFFC7324890F}",
+      "organization": "Viele Development and Construction Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-G-0340",
+      "file_name": "20240823 - Payment ($400) - Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240417 - Training (2 - UDig NY)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0429A91-0000-C625-A89F-B914937CD3D4}",
+      "organization": "Viele Development and Construction Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-G-0340",
+      "file_name": "20240417 - Training (2 - UDig NY).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50061491-0000-C017-A785-B90E22774418}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-G-0340",
+      "file_name": "161-B_24-G-03408224final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E65C8E-0000-CB13-8B36-B485164AE5B6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "24-G-0340",
+      "file_name": "20240313 - Consent Offer Letter.pdf"
+    }
+  ]
+}

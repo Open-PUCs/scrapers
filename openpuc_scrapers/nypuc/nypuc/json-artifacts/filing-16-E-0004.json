@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0004",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/01/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing- cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={790D795F-2A73-4DF8-B199-266EF8167222}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "6",
+      "docket_id": "16-E-0004",
+      "file_name": "Supplemental Filing- cover letter2.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC358B08-72DD-4366-9A25-11414248202A}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-E-0004",
+      "file_name": "Exception for Disclosure 2.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83E6D394-0A55-43ED-935A-5CE461FC5EA0}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-E-0004",
+      "file_name": "NRG Request for exception from disclosure for DPS 001 to 003.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/04/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6B27A6C-04B5-45FB-B44E-EF71B5D5A06C}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-E-0004",
+      "file_name": "NRG Request for exception from disclosure_122215 UPDATED 1.4.16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/04/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter regarding Mothball Astoria Gas Turbine Units 8, 10 & 11",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4B70619-9D0E-49DF-A146-64BF5B649771}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0004",
+      "file_name": "CONFIDENTIAL_Astoria Westinghouse Units 8 10 11 Analysis - REDACTED FINAL.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/04/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E14DAED5-4FB6-438A-8D6A-75B0F6A14141}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0004",
+      "file_name": "PSC Letter-Astoria- REVISED FINAL.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/30/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35531CB0-542C-471B-9DCA-43C8D71C9EC5}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0004",
+      "file_name": "CONFIDENTIAL_Records Officer_NRG.pdf"
+    }
+  ]
+}

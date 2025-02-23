@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0605",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDEF322A-053E-4288-AB4A-088409F6AD63}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0605",
+      "file_name": "662_21-V-0605 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01841 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3682DD22-1307-4523-B3E9-A4292EEC3282}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0605",
+      "file_name": "21-01841 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 409 East 6th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8C82367-6727-4A7C-B3D9-BDB65D7A1550}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0605",
+      "file_name": "8-210826 Petition (409 E 6 ST) (Complete).pdf"
+    }
+  ]
+}

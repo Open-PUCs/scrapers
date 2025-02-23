@@ -1,0 +1,159 @@
+{
+  "case": "18-F-0189",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bull Run Solar-Letter to Secretary Phillips re Withdrawal of Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CBFD74A-0F6E-4113-B83D-2962B77C11FB}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "11",
+      "docket_id": "18-F-0189",
+      "file_name": "Bull Run Solar-Letter to Secretary Phillips re Withdrawal of Application 12-15-21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2020",
+      "nypuc_doctype": "Reports",
+      "name": "BRS_BullRunSecretaryPIPupdateFilingLetter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={180CC448-D1B0-49D5-BEFD-30B18ACC7110}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "10",
+      "docket_id": "18-F-0189",
+      "file_name": "BRS_BullRunSecretaryPIPupdateFilingLetter2020-01-23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/23/2020",
+      "nypuc_doctype": "Reports",
+      "name": "BRS PIP Tracking Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32762FE6-AFDB-4C66-82B9-BFF445872793}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "10",
+      "docket_id": "18-F-0189",
+      "file_name": "BRS PIP Tracking Report 2020-01-23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Party Status",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E097841-A934-47E9-9735-A6A20BB517D2}",
+      "organization": "Bull Run Solar LLC, Invenergy Renewables LLC",
+      "itemNo": "9",
+      "docket_id": "18-F-0189",
+      "file_name": "BULL RUN SOLAR TO SITING BOARD re 18-F-0189 Fournier Party Status 9-14-18 FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/15/2018",
+      "nypuc_doctype": "Reports",
+      "name": "PIP Tracking Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE1BE3A4-B7F8-4C23-9F34-8FF62E5114C3}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "8",
+      "docket_id": "18-F-0189",
+      "file_name": "BRS PIP Tracking Report 2018-08-15.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/15/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CEC1099-0286-4EB7-A287-A8B4A0DA8DB8}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "8",
+      "docket_id": "18-F-0189",
+      "file_name": "BRS_BullRunSecretaryPIPupdateFilingLetter2018-08-15.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/12/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to County Administrator Zurlo, Clinton County, regarding ad hoc nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DFF1770-786C-43A3-849F-6930CAD6A54B}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "7",
+      "docket_id": "18-F-0189",
+      "file_name": "18-F-0189-BullRun-ClintonCty.Admin.-Zurlo.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/12/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Town Supervisor Dezan, Town of Ellenburg, regarding ad hoc nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A696C88-1C51-4368-A94E-89810DAEF229}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "6",
+      "docket_id": "18-F-0189",
+      "file_name": "18-F-0189-BullRun-EllenburgSuper-Dezan.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/12/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Town Supervisor Mendar, Town of Mooers, regarding ad hoc nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1BE5A65-01F1-4701-9070-8CDCFDFA0F0A}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "18-F-0189",
+      "file_name": "18-F-0189-BullRun-MooersTown Super-Menard.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/12/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Town Supervisor LaClair, Town of Clinton, regarding ad hoc nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87EF7358-FF7E-4098-BFA2-A6007C8FAFA9}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "4",
+      "docket_id": "18-F-0189",
+      "file_name": "18-F-0189-BullRun-ClintonSupervisor-LaClair.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "05/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Public Involvement Program Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9CC7ACC-C67D-4E55-8721-097296E19324}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "3",
+      "docket_id": "18-F-0189",
+      "file_name": "SITING BOARD (Sec Burgess) re 18-F-0189 Bull Run Solar PIP Rev1 5-23-18 FINAL w-Attmts.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "04/23/2018",
+      "nypuc_doctype": "Letters",
+      "name": "DPS Staff Letter Regarding PIP Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4BEAE60-8C85-4984-8FC6-683B2B117FBD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-F-0189",
+      "file_name": "Case 18-F-0189 - Bull Run Solar DPS Staff PIP Plan Comments final.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD40021A-F5BD-477E-8918-1E3B8364785E}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "1",
+      "docket_id": "18-F-0189",
+      "file_name": "SEC BURGESS (PSC) Ltr re 18-F-___ BULL RUN SOLAR 3-22-18 FINAL.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Application of Bull Run Solar LLC for a Certificate of Environmental Compatibility and Public Need Pursuant to Article 10 to Construct a 170 MW Solar Electric Generating Facility.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC8A0DE3-408A-4BE3-AFD8-DF3D0A37EF46}",
+      "organization": "Bull Run Solar LLC",
+      "itemNo": "1",
+      "docket_id": "18-F-0189",
+      "file_name": "BULL RUN SOLAR Proposed Public Involvement Program Plan 03-2018 (3).pdf"
+    }
+  ]
+}

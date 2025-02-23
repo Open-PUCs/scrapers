@@ -1,0 +1,38 @@
+{
+  "case": "16-V-0027",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5490612E-C762-4931-9F2E-0B1FCE588036}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0027",
+      "file_name": "666_16v0027.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Delaware, Sullivan County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49077872-7BF3-4285-96B9-4B71C8817E2C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0027",
+      "file_name": "01202016 t of delaware submission to psc.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Hudson Valley Final Aug 2014 FCC proofs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AA875BA-DE04-460C-B4BC-F833AA287FD6}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0027",
+      "file_name": "Copy of Hudson Valley Final Aug 2014 FCC proofs.xlsx"
+    }
+  ]
+}

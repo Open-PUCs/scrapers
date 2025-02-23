@@ -1,0 +1,104 @@
+{
+  "case": "24-G-0271",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={406E5590-0000-C61F-8C34-57AA9BEDD36F}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "24-G-0271",
+      "file_name": "161-B_24-G-0271 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240507 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AF598F-0000-C710-B426-7D9A6B875E32}",
+      "organization": "JRCruz Corp.",
+      "itemNo": "9",
+      "docket_id": "24-G-0271",
+      "file_name": "20240507 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240429 - Training Documentation (27 Employees)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10182F8F-0000-C410-975E-4196C317F428}",
+      "organization": "JRCruz Corp.",
+      "itemNo": "8",
+      "docket_id": "24-G-0271",
+      "file_name": "20240429 - Training Documentation (27 Employees).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240429 - Training Documentation - Training verification needed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0672A8F-0000-CC59-A7E3-9A2D1D984332}",
+      "organization": "JRCruz Corp.",
+      "itemNo": "7",
+      "docket_id": "24-G-0271",
+      "file_name": "20240429 - Training Documentation - Training verification needed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240429 - Training Documentation - Training verification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0672A8F-0000-C83A-AD39-E794751ED6BC}",
+      "organization": "JRCruz Corp.",
+      "itemNo": "7",
+      "docket_id": "24-G-0271",
+      "file_name": "20240429 - Training Documentation - Training verification.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240426 - Training Documentation - General sign in sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0672A8F-0000-CD18-815C-BCA026C6E3D9}",
+      "organization": "JRCruz Corp.",
+      "itemNo": "7",
+      "docket_id": "24-G-0271",
+      "file_name": "20240426 - Training Documentation - General sign in sheet.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240408 - Payment ($6,000) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B3EC8E-0000-CF11-A201-E5018407C677}",
+      "organization": "JRCruz Corp.",
+      "itemNo": "6",
+      "docket_id": "24-G-0271",
+      "file_name": "20240408 - Payment ($6,000) - Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0EF5C8E-0000-C91C-B91A-F4D3536E671F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "24-G-0271",
+      "file_name": "20240313 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "753 Evidence",
+      "name": "20240105 - Operator Evidence - Markout Video Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00263D8D-0000-CB13-98C9-F97D0C7DB22D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0271",
+      "file_name": "20240105 - Operator Evidence - Markout Video Letter.pdf"
+    }
+  ]
+}

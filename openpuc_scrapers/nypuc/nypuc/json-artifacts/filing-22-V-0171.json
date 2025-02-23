@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0171",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A065D926-A77B-4BAE-924F-55FC66F10C25}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0171",
+      "file_name": "662_22-V-0171.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00074 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A28FD686-653E-44A6-89F3-579EA19A01FC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0171",
+      "file_name": "22-00074 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 720 Riverside Drive, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01CB3558-A40A-49E7-8CAF-2E924962F2E9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0171",
+      "file_name": "220112-7 Petition (720 RIVERSIDE DR) (Post-Survey).pdf"
+    }
+  ]
+}

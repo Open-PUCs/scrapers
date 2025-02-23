@@ -1,0 +1,38 @@
+{
+  "case": "17-T-0353",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C3C8511-DDD6-4BF6-9985-39C72BF5EFD3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0353",
+      "file_name": "17-T-0353 part 102 letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the National Grid Colton-Battle Hill #7 115 kV Transmission Line Conductor Clearance Refurbishment Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={789FC1CD-14F5-4E61-87FE-E9C056CC210C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0353",
+      "file_name": "Zafonte Cover Letter for Colton Battle Hill (2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Colton-Battle Hill Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0CA1C13-B14F-4018-B723-245971BFCDBE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0353",
+      "file_name": "Colton-Battle Hill_Part 102 06192017.pdf"
+    }
+  ]
+}

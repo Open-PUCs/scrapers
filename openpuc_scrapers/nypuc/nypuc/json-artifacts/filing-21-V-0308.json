@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0308",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6ACF19E7-E6D8-4719-85FC-5F047C72696A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0308",
+      "file_name": "663_21-V-0308 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Hamilton, Madison County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F0EFB5E-9FB9-4B2C-A759-9A23042C8AEF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0308",
+      "file_name": "2021.06.04 T. HAMILTON RENEWAL PSC_FILED.pdf"
+    }
+  ]
+}

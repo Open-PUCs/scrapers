@@ -1,0 +1,49 @@
+{
+  "case": "20-C-0076",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Secretary with Attachments (Pollak)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CDF39DB-DD37-4368-9000-CD120563F16D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-C-0076",
+      "file_name": "20-C-0076 - Letter to Secretary with Attachments (Pollak).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75C6FD09-680D-4DED-B822-32C139D6ACC8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-C-0076",
+      "file_name": "843922 Pollak_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Denial_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D38912F5-271B-4D55-B6FD-CED31FD40317}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-C-0076",
+      "file_name": "Verizon Appeal Letter Case 843922 2020-02-07_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Denial of Informal Hearing Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2EC85B8-B5E6-4937-982B-77054DEBDEA0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-C-0076",
+      "file_name": "843922 Pollak IH reply_Redacted.pdf"
+    }
+  ]
+}

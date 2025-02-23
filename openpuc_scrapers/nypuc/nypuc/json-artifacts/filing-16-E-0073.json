@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0073",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={538FECF4-3AF5-404B-9A26-C5C2DE9BC766}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0073",
+      "file_name": "378_16-E-0073.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Additional Information for 504 Myrtle Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F45BBE3-07A3-474C-903C-2A182F719E04}",
+      "organization": "504 Myrtle Residential Owner LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0073",
+      "file_name": "response letter 7-25-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application for 504 Myrtle",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F165429-1248-4F35-A179-AD5AD7DCAC14}",
+      "organization": "504 Myrtle Residential Owner LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0073",
+      "file_name": "Submetering Application for 504 Myrtle.pdf"
+    }
+  ]
+}

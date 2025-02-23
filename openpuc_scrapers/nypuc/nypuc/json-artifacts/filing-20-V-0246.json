@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0246",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22F28971-F875-4B9B-9B3F-2E474988D7BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0246",
+      "file_name": "661_20-V-0246 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Russia, Herkimer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={384104F6-ACFE-4E0C-96A7-B7BF621BD11B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0246",
+      "file_name": "052620 T. RUSSIA RENEWAL SUBMISSION TO PSC.pdf (1 MB)"
+    }
+  ]
+}

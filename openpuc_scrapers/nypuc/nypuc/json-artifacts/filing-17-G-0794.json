@@ -1,0 +1,115 @@
+{
+  "case": "17-G-0794",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/24/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "17-G-0794",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-G-0794",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Modifying Reconciliation of Gas Purchase of Receivables",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D334B9C-9421-4BBB-AD41-F105AB03CBB5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0794",
+      "file_name": "165_17-G-0794.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E080179A-6012-4C80-A3E0-AC18B9FA484D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0794",
+      "file_name": "Case 17-G-0794 Filing Ltr.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D4334F3-B180-432A-892B-FF8689784BF8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0794",
+      "file_name": "Case 17-G-0794 Con Edison Response to Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BBPC, LLC d/b/a Great Eastern Energy; Direct Energy Services, LLC; East Coast Power & Gas, LLC; Robison Energy, LLC and Robison Energy (Commercial), LLC To Examine and Revise the Mechanism For The Annual Recovery Of Con Edison Company of New York, Inc. Natural Gas POR Rate.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A53FB313-0FDF-497A-94EA-568236702ADA}",
+      "organization": "Direct Energy Services LLC, East Coast Power & Gas, LLC, Great Eastern Energy, Robison Energy (Commercial) LLC, Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-G-0794",
+      "file_name": "GEE POR Petition 12-4 Final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91B9F19D-09C5-4B0C-9789-C7B8BE8CA3E3}",
+      "organization": "Direct Energy Services LLC, East Coast Power & Gas, LLC, Great Eastern Energy, Robison Energy (Commercial) LLC, Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-G-0794",
+      "file_name": "GEE POR Petition Filing Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51FE6DBB-C01E-4D60-8221-D5A1421C0AB6}",
+      "organization": "Direct Energy Services LLC, East Coast Power & Gas, LLC, Great Eastern Energy, Robison Energy (Commercial) LLC, Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-G-0794",
+      "file_name": "Exhibit C.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB767E98-381D-469C-AA10-CBF2B351D4E3}",
+      "organization": "Direct Energy Services LLC, East Coast Power & Gas, LLC, Great Eastern Energy, Robison Energy (Commercial) LLC, Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-G-0794",
+      "file_name": "Exhibit B.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD039822-1EB9-4E08-A786-4E1B4C314C43}",
+      "organization": "Direct Energy Services LLC, East Coast Power & Gas, LLC, Great Eastern Energy, Robison Energy (Commercial) LLC, Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-G-0794",
+      "file_name": "Exhibit A.pdf"
+    }
+  ]
+}

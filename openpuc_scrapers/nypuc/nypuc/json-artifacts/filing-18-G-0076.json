@@ -1,0 +1,49 @@
+{
+  "case": "18-G-0076",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0076 Wen Lin Ack Letter 01302018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F264F1E6-EFB6-4065-84CC-8F3245B3990F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-G-0076",
+      "file_name": "18-G-0076 Wen Lin Ack Letter 01302018_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-G-0076 Wen Lin Rehearing Request 01262018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33FD2650-917C-441F-B2D6-41C52722CD67}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-G-0076",
+      "file_name": "18-G-0076 Wen Lin Rehearing Request 01262018_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0076 Wen Lin SMD Final 12012017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CFB73CA-7FFE-4A28-8714-293A69B648CC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-G-0076",
+      "file_name": "18-G-0076 Wen Lin SMD Final 12012017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C5EEB9B-2155-4B2D-9CFB-B9818C6A7553}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0076",
+      "file_name": "163 Letter_Redacted.pdf"
+    }
+  ]
+}

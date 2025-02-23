@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0292",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F64F500-460B-4319-8CA7-16FDA2994E21}",
+      "organization": "Trump Plaza New Rochelle Condominium",
+      "itemNo": "5",
+      "docket_id": "16-E-0292",
+      "file_name": "TPNRCOA Affidavit Trans Ltr.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={448DAA7C-6580-468F-BCF9-65C329D3295F}",
+      "organization": "Trump Plaza New Rochelle Condominium",
+      "itemNo": "5",
+      "docket_id": "16-E-0292",
+      "file_name": "TPNRCOA Affidavit of Compliance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7240BC98-3473-4348-B20F-9F046856F1DC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0292",
+      "file_name": "364_16-E-0292 Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1D0F4F0-C0E5-4BCB-B16F-AD224A0A3151}",
+      "organization": "Trump Plaza New Rochelle Condominium",
+      "itemNo": "3",
+      "docket_id": "16-E-0292",
+      "file_name": "16-W-0292 Response to Staff Qs.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/23/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering -- Trump Plaza New Rochelle",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BD3AC4A-9090-4A5D-ABE8-48AD65D97ECB}",
+      "organization": "Trump Plaza New Rochelle Condominium",
+      "itemNo": "2",
+      "docket_id": "16-E-0292",
+      "file_name": "Trump Plaza NR signed billing agreement.07.pdf.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice to Submeter Trump Plaza New Rochelle Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C83D330-0DBF-4518-8681-AB4052FDD090}",
+      "organization": "Trump Plaza New Rochelle Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0292",
+      "file_name": "Notice to Submeter Trump Plaza New Rochelle Final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at Trump Plaza New Rochelle Condominium, 175 Huguenot Street, New Rochelle, NY Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8344D20B-B4CA-4C67-844F-C99EE8DBE55C}",
+      "organization": "Trump Plaza New Rochelle Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0292",
+      "file_name": "TPNRHOA Trans Ltr.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "20-E-0090",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Approval Request for Aclara kV2c Gen 5 Commercial Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BF41E35-9486-4E98-A497-6330D7E596F0}",
+      "organization": "Aclara Technologies LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0090",
+      "file_name": "kV2c Gen 5 Approval 021621.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/11/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Withdrawal of Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1280C21-7DBB-4098-95BB-32901422E11F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0090",
+      "file_name": "Withdrawal of Aclara kV2c Gen5 Petition 2021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Central Hudson - Aclara kV2c Gen5 Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={386A04FB-3AE5-4387-9EC7-B188BFFE9625}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "20-E-0090",
+      "file_name": "Central Hudson - Aclara kV2c Gen5 Letter of Intent.pdf (105 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "kV2c Gen 5 Specs r6",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D77509D-0880-4588-B7D0-7D2DF67FA16A}",
+      "organization": "Aclara Meters, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0090",
+      "file_name": "kV2c Gen 5 Specs r6.pdf (543 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "MIL-2018-005 kV2c Gen 5",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={071A6476-F10E-496B-BF4F-EA2324238B85}",
+      "organization": "Aclara Meters, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0090",
+      "file_name": "MIL-2018-005 kV2c Gen 5.pdf (501 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Approval Request for Aclara kV2c Gen 5 Commercial Meter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C96D16-402F-4CB4-9A48-472A58114689}",
+      "organization": "Aclara Meters, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0090",
+      "file_name": "kV2c Gen 5 Approval.pdf (167 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "132232-TUM kV2c Gen 5 Features and Applications Guide rev2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A39F23C4-CA5A-484E-9AFB-DE55DA8F00F1}",
+      "organization": "Aclara Meters, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0090",
+      "file_name": "132232-TUM kV2c Gen 5 Features and Applications Guide rev2.pdf (1 MB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "132231-TUM - kV2c Gen 5 User Manual rev4",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74DE8B21-6657-4F64-A9C1-D0AD64AF1385}",
+      "organization": "Aclara Meters, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0090",
+      "file_name": "132231-TUM - kV2c Gen 5 User Manual rev4.pdf (4 MB)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0139",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Letters",
+      "name": "SMR Untimely Rejection Letter 32624_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D010808E-0000-C712-8440-51169D50F2EF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0139",
+      "file_name": "417823 SMR Untimely Rejection Singh kt 32624final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "417823 SMR Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20680B8E-0000-C414-8A92-28E4FD383EA7}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-G-0139",
+      "file_name": "417823 SMR Request_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Letters",
+      "name": "247719_Rampersad_SMD_Final_06272023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0650B8E-0000-C813-9FD1-0A7023606F73}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0139",
+      "file_name": "247719_Rampersad_SMD_Final_06272023 (1)_Redacted.pdf"
+    }
+  ]
+}

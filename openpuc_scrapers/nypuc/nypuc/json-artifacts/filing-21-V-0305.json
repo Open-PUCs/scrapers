@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0305",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED6DEE3D-CC3C-4594-A70D-1455F1458C36}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0305",
+      "file_name": "663_21-V-0305 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "V. Bolivar FA Signature Pg to PSC-Corrected",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D574935D-FD98-4A05-90F0-97E1CE2B3EBC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0305",
+      "file_name": "2021.06.15 Case 21-V-0305 V. Bolivar FA Signature Pg to PSC-corrected.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Bolivar, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF6EFB8F-483B-42E0-8A24-888F4C0C17FB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0305",
+      "file_name": "2021.06.01 V. BOLIVAR PSC RENEWAL FILED.pdf"
+    }
+  ]
+}

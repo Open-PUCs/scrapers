@@ -1,0 +1,93 @@
+{
+  "case": "23-M-0337",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Incidental Regulation and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A052F28B-0000-CD1B-9F56-14845F63F8FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-M-0337",
+      "file_name": "266_23-M-0337.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F8D28A-0000-C31A-A0C8-DDB690311DAF}",
+      "organization": "Pearl River Campus, LLC",
+      "itemNo": "4",
+      "docket_id": "23-M-0337",
+      "file_name": "Case 23-M-0337 - PRC - RAO Confidential Ltr - Supplemental Information (9.26.2023).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "PRC - Supplemental Information 9.26.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0DDD28A-0000-CB16-A00A-71D4A8924D0D}",
+      "organization": "Pearl River Campus, LLC",
+      "itemNo": "3",
+      "docket_id": "23-M-0337",
+      "file_name": "Case 23-M-0337 - PRC - Ltr Supplemental Information (9.26.2023) (DMM).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/30/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0DE2B89-0000-C437-83B6-ABDB5E16C9E1}",
+      "organization": "Pearl River Campus, LLC",
+      "itemNo": "2",
+      "docket_id": "23-M-0337",
+      "file_name": "Case 23-M-0337 - PRC - RAO Confidental LETTER - Replacement Operating Agreement (6.30.23).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/14/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F097BB88-0000-C985-B8F6-BB3D92D4EBD0}",
+      "organization": "Pearl River Campus, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0337",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Case 23-M-____ - Petition of Pearl River Campus LLC for a Declaratory Ruling - Incidental Water Reg (6.14.23) (PUBLIC DMM REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F097BB88-0000-CF4C-9C26-70AE325C1D90}",
+      "organization": "Pearl River Campus, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0337",
+      "file_name": "Case 23-M-____ - Petition of Pearl River Campus LLC for a Declaratory Ruling - Incidental Water Reg (6.14.23) (PUBLIC DMM REDACTED).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/14/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Case 23-M-____ - Petition of PRC Decl Ruling - Incidental RAO CONF LETTER (6.14.23)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E097BB88-0000-C71D-901B-A91D0DAB837E}",
+      "organization": "Pearl River Campus, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0337",
+      "file_name": "Case 23-M-____ - Petition of PRC Decl Ruling - Incidental RAO CONF LETTER (6.14.23).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 23-M-____ - Petition of PRC Decl Ruling - Incidental COVER LETTER (6.14.23)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F097BB88-0000-CD2C-B20F-E017B3B5FE14}",
+      "organization": "Pearl River Campus, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0337",
+      "file_name": "Case 23-M-____ - Petition of PRC Decl Ruling - Incidental COVER LETTER (6.14.23).pdf"
+    }
+  ]
+}

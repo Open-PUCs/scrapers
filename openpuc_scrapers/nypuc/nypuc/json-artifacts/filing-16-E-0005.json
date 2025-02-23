@@ -1,0 +1,93 @@
+{
+  "case": "16-E-0005",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/04/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit affirming publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E534B416-44F2-4A61-82C5-E04774BF0714}",
+      "organization": "Village of Fairport",
+      "itemNo": "7",
+      "docket_id": "16-E-0005",
+      "file_name": "DOC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/14/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7333D4F8-3AAF-432E-8159-22166E53428F}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0005",
+      "file_name": "366_16e0005 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/29/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Fairport",
+      "itemNo": "5",
+      "docket_id": "16-E-0005",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/27/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Fairport",
+      "itemNo": "4",
+      "docket_id": "16-E-0005",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Determining Revenue Requirement and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CED128C-F0DB-43A5-9F4D-FA44E93E0CC2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0005",
+      "file_name": "16-E-0005 OCO Final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Public Notice - Village of Fairport",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AF4D31E-673B-4108-992B-ECD83CA7FF4A}",
+      "organization": "Village of Fairport",
+      "itemNo": "2",
+      "docket_id": "16-E-0005",
+      "file_name": "FMC Rate case.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B61E6F1D-CF24-43A1-AE05-97997994E707}",
+      "organization": "Village of Fairport",
+      "itemNo": "2",
+      "docket_id": "16-E-0005",
+      "file_name": "Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/05/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Fairport",
+      "itemNo": "1",
+      "docket_id": "16-E-0005",
+      "file_name": ""
+    }
+  ]
+}

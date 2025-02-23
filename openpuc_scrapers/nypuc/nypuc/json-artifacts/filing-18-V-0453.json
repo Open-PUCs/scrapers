@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0453",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF8B8F7E-DE25-4DC6-8F77-2BD51F849B48}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0453",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96FA1F4F-63E1-49EB-B1F1-798C993489B6}",
+      "organization": "145 West 231st Street, Bronx, NY",
+      "itemNo": "3",
+      "docket_id": "18-V-0453",
+      "file_name": "Wansoo Kim.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letters to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0057F34F-8FBE-4883-9788-B77E32548954}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0453",
+      "file_name": "17-01168 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 145 West 231st Street, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9864EDE7-8B7A-4ECC-9C14-AC7638CDE44F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0453",
+      "file_name": "170602 Petition re 145 W 231 St.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={824917F6-88BB-4772-8734-3D263B7122B6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0453",
+      "file_name": "Exhibit 2 (145 W 231 St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={639E7AD2-A927-4321-823D-BCA89AFF5B11}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0453",
+      "file_name": "Exhibit 1 (145 W 231 St).pdf"
+    }
+  ]
+}

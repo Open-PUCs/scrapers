@@ -1,0 +1,49 @@
+{
+  "case": "15-V-0390",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F799C221-BB15-478B-92D0-43D62A96C3D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0390",
+      "file_name": "663_15V0390.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02386ED4-A603-4A57-B461-D7DA0F674871}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0390",
+      "file_name": "Albany HE 2015-1 (3).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Canajoharie, Montgomery County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23EA962D-0B6E-4A97-A19B-0D65402E5896}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0390",
+      "file_name": "07072015 v of canajoharie psc submission.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Field Tests",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAFF5CA2-ACAC-421C-A1C8-02771A043FD4}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0390",
+      "file_name": "Albany TP 2015-1.pdf"
+    }
+  ]
+}

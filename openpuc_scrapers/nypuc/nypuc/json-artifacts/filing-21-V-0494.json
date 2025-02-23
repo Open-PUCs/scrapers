@@ -1,0 +1,104 @@
+{
+  "case": "21-V-0494",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E13F3AAA-413C-4905-9106-F092B36950FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0494",
+      "file_name": "661_21-V-0494.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC5A5935-45C8-428B-93A3-FC269E7F242D}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "21-V-0494",
+      "file_name": "AUSA Newspaper Affidavit - Hyde Park.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={926C2217-AB9C-4A5D-8828-133EA71E3FD7}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "21-V-0494",
+      "file_name": "AUSA Cover Letter - Newspaper Affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance - Hyde Park",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12BAA077-6D75-4A2C-83A4-6A000DDC5D13}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0494",
+      "file_name": "Proof of Performance - Hyde Park.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with the Town of Hyde Park, Dutchess County. Initial Docket # 10-V-0326.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34C4C661-3570-4F10-BDEB-23AF5DB54452}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0494",
+      "file_name": "Application Cover Letter - Hyde Park.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Hyde Park, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61CDF79C-E60F-4B89-B3DC-62F437BD5EBA}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0494",
+      "file_name": "Exhibit IV - Hyde Park, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8590CB1B-2C84-4F1D-B6DF-2E5960B7713D}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0494",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39C604C9-8E20-472F-91E9-58D9EF14DB6F}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0494",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30820DF2-93B3-4C38-A4DC-6E21ECACF316}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0494",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

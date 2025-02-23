@@ -1,0 +1,71 @@
+{
+  "case": "20-E-0199",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/08/2021",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG & Town of Thompson Final Journal Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1681CB71-21AA-45FC-A094-24B5F6AC1A3C}",
+      "organization": "New York State Electric & Gas Corporation, Town of Thompson",
+      "itemNo": "5",
+      "docket_id": "20-E-0199",
+      "file_name": "NYSEG & Town of Thompson Final Journal Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/19/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B2E80DF-81F6-45F8-805B-606E785404FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0199",
+      "file_name": "364_20-E-0199 Notice of Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32307F9D-85D6-49BD-893C-8D47C11EB5FA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0199",
+      "file_name": "364_20-E-0199 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/14/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB468CA9-969A-47F4-9892-493740934997}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0199",
+      "file_name": "Signed EAF 20-E-0199.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/14/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={963445B2-7732-483C-A5BB-ECD74483AD5C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0199",
+      "file_name": "20-E-0199 NYSEG-Thompson SEAF Cover Letter for Secretary signed MZS.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2020-04-27 NYSEG & Town of Thompson Section 70 SL Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54ECC00D-9CC1-4B6D-B70B-97A92FE45553}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0199",
+      "file_name": "2020-04-27 NYSEG & Town of Thompson Section 70 SL Sale.pdf (6 MB)"
+    }
+  ]
+}

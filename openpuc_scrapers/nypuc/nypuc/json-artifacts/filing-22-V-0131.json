@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0131",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86716AA1-4E0E-430D-A325-14FB902F6C1E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0131",
+      "file_name": "661_22-V-0131 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C29BC88-ADCC-4DF1-B37F-5F703FD06B5D}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0131",
+      "file_name": "AUSA Newspaper Cover Letter - Marlborough, T.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Marlborough, T",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84941880-B449-40BC-A7D6-97F1AC58B628}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0131",
+      "file_name": "AUSA Newspaper Affidavit - Marlborough, T.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance - Marlborough",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A776403F-0F22-41E9-99B0-11341B5FAC0F}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0131",
+      "file_name": "Proof of Performance - Marlborough.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with Town of Marlborough, Ulster County. Initial Docket #11-V-0302.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04B92979-CA71-4606-AB7B-D7EC2492EEAF}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0131",
+      "file_name": "Application Cover Letter - Marlborough, T.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Marlborough, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A77F436D-1EE7-4330-91C2-818753AF70C3}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0131",
+      "file_name": "Exhibit IV - Marlborough, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E23254F0-7771-4C38-A87C-053178C2ABE2}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0131",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2AEED26-543A-4A37-9C8B-D3AF3549100B}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0131",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39F67671-DCAF-4F50-ACFC-795D26C1E07A}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0131",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

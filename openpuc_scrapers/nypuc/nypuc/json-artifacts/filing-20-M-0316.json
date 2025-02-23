@@ -1,0 +1,38 @@
+{
+  "case": "20-M-0316",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A89B5E77-9A5F-41B5-A8C4-B9E0DC512017}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-M-0316",
+      "file_name": "265_20-M-0316_Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "RED-Rochester Financing Petition Executed-Verified",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={765E1F15-BD62-4699-BD8D-C7BB6D3B6595}",
+      "organization": "Red-Rochester, LLC",
+      "itemNo": "1",
+      "docket_id": "20-M-0316",
+      "file_name": "RED-Rochester Financing Petition Executed-Verified.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5F4710F-5C64-48BE-B13D-55562CB9AFE9}",
+      "organization": "Red-Rochester, LLC",
+      "itemNo": "1",
+      "docket_id": "20-M-0316",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0435",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/01/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "City of Jamestown",
+      "itemNo": "4",
+      "docket_id": "22-E-0435",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/27/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "final - L - NYMPA Attacher Notice 12-27-22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A20CF412-9900-4231-A020-DA6A7AD3C432}",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "3",
+      "docket_id": "22-E-0435",
+      "file_name": "final - L - NYMPA Attacher Notice 12-27-22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Establishing Updated Pole Attachment Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE0755F5-BB2B-418C-B3F0-10DBD0EBA03E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0435",
+      "file_name": "381_22-E-0435 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "1",
+      "docket_id": "22-E-0435",
+      "file_name": ""
+    }
+  ]
+}

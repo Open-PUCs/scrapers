@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0433",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Upstream Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41036FA2-C74E-4F20-B963-59E9B8F1BA9C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0433",
+      "file_name": "166_21-G-0433 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/06/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={284E8745-A59A-4460-AA6D-407654541E67}",
+      "organization": "Con Edison Gas Pipeline and Storage Northeast LLC, Crestwood Pipeline and Storage Northeast LLC, Stagecoach Gas Services LLC, Twin Tier Pipeline LLC",
+      "itemNo": "2",
+      "docket_id": "21-G-0433",
+      "file_name": "Letter to NYS Department of Public Service.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Stagecoach Twin Tier Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C349AB6-FE1D-4CE2-82AF-E823357F64D9}",
+      "organization": "Con Edison Gas Pipeline and Storage Northeast LLC, Crestwood Pipeline East LLC, Kinder Morgan Operating LLC \"A\", Stagecoach Gas Services LLC, Twin Tier Pipeline LLC",
+      "itemNo": "1",
+      "docket_id": "21-G-0433",
+      "file_name": "Stagecoach Twin Tier Joint Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7F0C756-1E96-4662-B593-F7096D180F9E}",
+      "organization": "Con Edison Gas Pipeline and Storage Northeast LLC, Crestwood Pipeline East LLC, Kinder Morgan Operating LLC \"A\", Stagecoach Gas Services LLC, Twin Tier Pipeline LLC",
+      "itemNo": "1",
+      "docket_id": "21-G-0433",
+      "file_name": "Letter to NYS Public Service Commission.pdf"
+    }
+  ]
+}

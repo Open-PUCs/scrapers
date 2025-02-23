@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0592",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07E928C-0000-C31E-9575-94D57BBF7FFF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0592",
+      "file_name": "662_23-V-0592 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E01E1B8B-0000-C65F-9C4B-339F60A86BB5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0592",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. Geneva Letter 10.10.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E01E1B8B-0000-CC15-A276-5CDBAC7E2C1E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0592",
+      "file_name": "Charter Confidential Treatment Request to RAO C. Geneva Letter 10.10.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, C. Geneva Cover Letter- Request for Renewal and Certificate of Confirmation 10.10.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E01E1B8B-0000-C579-80D7-4E2D711166F3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0592",
+      "file_name": "Charter Communications, C. Geneva Cover Letter- Request for Renewal and Certificate of Confirmation 10.10.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, C. Geneva - Request for Renewal and Certificate of Confirmation(redacted) 10.10.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E01E1B8B-0000-C793-B1E4-AC3777127938}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0592",
+      "file_name": "Charter Communications, C. Geneva - Request for Renewal and Certificate of Confirmation(redacted) 10.10.23.pdf"
+    }
+  ]
+}

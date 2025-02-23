@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0599",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B3D46E9-AD2A-4648-B1D6-38CE188081F6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0599",
+      "file_name": "165-C_21-G-0599 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19EF3B82-4895-4039-8907-6E94CB88A419}",
+      "organization": "O'Hanlon Excavation Inc.",
+      "itemNo": "4",
+      "docket_id": "21-G-0599",
+      "file_name": "O\u00bfHanlon Excavation Inc letter to dsp.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7513160B-D597-4CCC-8A2C-6FB28F77BCCD}",
+      "organization": "O'Hanlon Excavation Inc.",
+      "itemNo": "4",
+      "docket_id": "21-G-0599",
+      "file_name": "Attachment to Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/28/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0354CF9F-A006-43A6-ADEE-F609D0D39148}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0599",
+      "file_name": "162-A_21-G-0599.pdf"
+    }
+  ]
+}

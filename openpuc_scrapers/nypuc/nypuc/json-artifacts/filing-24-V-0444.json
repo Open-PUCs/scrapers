@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0444",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5082B592-0000-CB11-A57C-19C5EB7F2240}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0444",
+      "file_name": "661_24-V-0444.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80300591-0000-C458-84BD-8715B9831ED6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0444",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Unadilla Letter 7.30.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80300591-0000-C61B-A6F5-7E762D888A82}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0444",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Unadilla Letter 7.30.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Unadilla Cover letter-Request for Renewal and Certificate of Confirmation 7.30.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80300591-0000-C370-AEC5-EC4F86DAD479}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0444",
+      "file_name": "Charter Communications, V. Unadilla Cover letter-Request for Renewal and Certificate of Confirmation 7.30.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications -V. Unadilla Request for Renewal and Certificate of Confirmation(redacted)7.30.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90300591-0000-C914-9269-1D4D25946CE6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0444",
+      "file_name": "Charter Communications -V. Unadilla Request for Renewal and Certificate of Confirmation(redacted)7.30.24.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "18-M-0217",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/10/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Requesting Case Closure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F39553D-657A-49F5-B6A7-EE2A400C7DC1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-M-0217",
+      "file_name": "Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/30/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Aspirity Energy LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFF5D45C-E8E0-4B30-8197-7F3A60B2D0EE}",
+      "organization": "Aspirity Energy LLC",
+      "itemNo": "2",
+      "docket_id": "18-M-0217",
+      "file_name": "Letter of Aspirity Energy, LLC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/18/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45D47DA7-A9E9-4CB7-8D18-58E45039A8A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-M-0217",
+      "file_name": "262_18-M-0217.pdf"
+    }
+  ]
+}

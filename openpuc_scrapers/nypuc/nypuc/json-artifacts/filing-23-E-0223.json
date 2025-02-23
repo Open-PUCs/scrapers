@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0223",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60297989-0000-C214-A35F-40F3CA6661AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0223",
+      "file_name": "361_23-E-0223.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Filing to Electric Tariff Schedule, P.S.C. No. 120",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A55388-0000-C511-932A-933FD58978B1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0223",
+      "file_name": "e.23-E-0223 NYSEG Postponement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "23-E-0223",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0223",
+      "file_name": ""
+    }
+  ]
+}

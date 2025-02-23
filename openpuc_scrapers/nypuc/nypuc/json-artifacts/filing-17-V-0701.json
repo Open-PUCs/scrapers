@@ -1,0 +1,170 @@
+{
+  "case": "17-V-0701",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance - Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A72BB6D-874F-4AEE-A9C8-C4A3B5536314}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-V-0701",
+      "file_name": "17-V-0701 Notice of Negative Declaration.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06D85EC8-24D2-43D3-A86F-8D81E9302F2F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0701",
+      "file_name": "665_17-V-0701.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "17-V-0701.Signed EAF DTC Cable.Town of Walton",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30BBA21A-F9E4-4111-8952-3619EFAAE4A4}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0701",
+      "file_name": "17-V-0701.Signed EAF DTC Cable.Town of Walton.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F476BCB-E95D-424E-91C8-2423C1FA80DC}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton DTC Cable Legal Notice OCR 12-11-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7E25415-E1D7-4955-A852-25011D7C945E}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Transmittal Letter of Additional Legal Notice OCR 12-11-17.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3033524B-9D3A-4D67-A8AF-DBB47CF1B018}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Transmittal Letter of Additional Legal Notice OCR 12-11-17.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C98C1EB8-1597-445F-9CD1-519D38EA5A02}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton DTC Cable Legal Notice OCR 12-11-17.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Walton SEQR Short Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9B397BD-E115-4846-BFBC-A2A2E9BF9D73}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton SEQR Short Form Part 1 11-13-17 OCR.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Walton Public Hearing Notice and Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBB8A169-4B45-491C-BE74-6B2FBC49C2C3}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Public Hearing Notice and Affidavit 9-11-17 OCR.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Walton Part 896 Technical Standards",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={861CC5F7-B99C-497B-8AF2-02C1E4448944}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Part 896 Technical Standards 11-09-17 OCR.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Walton Certificate of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11DD140C-CA96-4EEE-A929-5303FD9204D9}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Certificate of Service 11-15-17 OCR.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Walton Cable Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17CEAE3F-4DD7-44BF-B302-829CA9A515A3}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Cable Franchise Agreement 9-11-17 OCR.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for a Certificate of Confirmation for its Franchise with the Town of Walton, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B50E75-4294-4F36-961D-D406F2ED3ED2}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Cable Application for Franchise 11-13-17 OCR.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "DTC Cable Channel Guide",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6ADDBA4-91C7-4DB5-BEEA-E10239ADFF77}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "DTC Cable Channel Guide 9-11-17 OCR.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={770A2874-978A-431B-A654-F142DD9E23B1}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0701",
+      "file_name": "Town of Walton Cable Franchise Transmittal Letter 11-14-17 OCR.pdf"
+    }
+  ]
+}

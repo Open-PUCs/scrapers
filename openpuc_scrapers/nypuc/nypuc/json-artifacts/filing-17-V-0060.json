@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0060",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56F7D872-5A87-49ED-BC0D-236F8ED9BFBC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0060",
+      "file_name": "669_17-V-0060.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Stillwater, Saratoga County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31962543-D908-49E9-B9A1-AE4674DAF02E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0060",
+      "file_name": "V Stillwater PSC submission documents.pdf"
+    }
+  ]
+}

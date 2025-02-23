@@ -1,0 +1,27 @@
+{
+  "case": "21-E-0171",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "EM3S-V-P-D_E-Mon Class6200 ANSI Report_EMC&TEL107759-ANSI Rev. 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D588FBE-5638-4CC7-A9C3-35D89EF5775D}",
+      "organization": "Honeywell, Honeywell",
+      "itemNo": "3",
+      "docket_id": "21-E-0171",
+      "file_name": "EM3S-V-P-D_E-Mon Class6200 ANSI report_EMC&TEL107759-ANSI Rev. 2.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F4DD411-8DCF-44EE-8807-920C9E977B17}",
+      "organization": "Honeywell, Honeywell",
+      "itemNo": "3",
+      "docket_id": "21-E-0171",
+      "file_name": "NYSERDA Cover Letter.pdf"
+    }
+  ]
+}

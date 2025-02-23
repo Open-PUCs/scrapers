@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0316",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={664DB16C-840E-4A7E-8C5A-EF30FCF6B69B}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-V-0316",
+      "file_name": "666_16v0316.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B3B1267-1ADD-43F7-82C8-79AF76FF3EC1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-V-0316",
+      "file_name": "666_16v0316.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF-Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E09155A6-1D57-4EE7-A215-60AE8A90E6D7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "16-V-0316",
+      "file_name": "16-V-0316 Signed EAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Correction EAP Part 1 EVSC - Village of Dansville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2054F532-C018-4E7B-B057-2D023A356A7D}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "4",
+      "docket_id": "16-V-0316",
+      "file_name": "2nd Correction- EVSC Long EAP Part 1 - Village of Dansville.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected EAF Part 1 EVSC - Village of Dansville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC4B80A4-76B8-428A-B684-34848881CA85}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "3",
+      "docket_id": "16-V-0316",
+      "file_name": "Corrected Village of Dansville - EVSC Long EAF Part1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of the Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10156019-4D5F-4069-897F-D10AF5527FEB}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0316",
+      "file_name": "Supplemental Filin 16-V-0316 Affidavit of Proof of Notice of the Filing of Certificate of Confirmation Village of Dansville.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Village of Dansville, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA156403-4FF0-4C4E-B75C-B12C9A3F7203}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0316",
+      "file_name": "Village of Dansville Certificate of Confirmation Application - EVSC.pdf"
+    }
+  ]
+}

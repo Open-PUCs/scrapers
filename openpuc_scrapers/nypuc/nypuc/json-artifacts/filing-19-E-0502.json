@@ -1,0 +1,115 @@
+{
+  "case": "19-E-0502",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/12/2020",
+      "nypuc_doctype": "Compliance",
+      "name": "Compliance Letter 839 Tilden Street HDFC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21A6C53A-2D3F-4D52-A0B0-41EE587B3AAD}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "8",
+      "docket_id": "19-E-0502",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/29/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BD69EA4-EA06-4CD1-95E7-0DC09F4C2A86}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0502",
+      "file_name": "362_19-E-0502.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E0484FA-6801-44F5-921C-EEDBE2762C93}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "6",
+      "docket_id": "19-E-0502",
+      "file_name": "response letter 3-9-20.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={623A094B-ADE5-4656-A45D-F2451EDEF9FE}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "5",
+      "docket_id": "19-E-0502",
+      "file_name": "additional information 12-17-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCEF6648-E1EF-48EC-B4EA-7B9D86CF4687}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "4",
+      "docket_id": "19-E-0502",
+      "file_name": "response letter 10-8-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/02/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FB91314-C340-4891-A60B-2343AA159DF2}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "3",
+      "docket_id": "19-E-0502",
+      "file_name": "response information 10-2-19.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2678A98-ED9E-4A5F-A5AF-D679425C021E}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "2",
+      "docket_id": "19-E-0502",
+      "file_name": "response letter 9-10-19.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A69CBBFF-66B4-45E1-B497-7DC0E8F0E74B}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "1",
+      "docket_id": "19-E-0502",
+      "file_name": "submetering application part 1.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A937D59D-914D-4C19-820E-0799A74A7B8B}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "1",
+      "docket_id": "19-E-0502",
+      "file_name": "submetering application 2.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "incorporation receipt",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5800F5B5-C0F5-45FE-A98D-9ABDA6023132}",
+      "organization": "839 Tilden Street HDFC",
+      "itemNo": "1",
+      "docket_id": "19-E-0502",
+      "file_name": "incorporation receipt.pdf"
+    }
+  ]
+}

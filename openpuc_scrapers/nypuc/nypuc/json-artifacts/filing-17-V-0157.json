@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0157",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6937E9DA-2F33-46CA-86DF-9FBCD729EBC3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0157",
+      "file_name": "661_17-V-0157.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Lancaster, County of Erie, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0F4970F-81DB-4A28-AF04-923F91440236}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0157",
+      "file_name": "LANCASTER, TOWN - RENEWAL DOCS TO PSC, 03.14.17.pdf"
+    }
+  ]
+}

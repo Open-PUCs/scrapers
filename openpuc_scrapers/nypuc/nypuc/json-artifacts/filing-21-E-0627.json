@@ -1,0 +1,27 @@
+{
+  "case": "21-E-0627",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "HHAP Award Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07C2BB3-0F16-4FB2-A5A1-74E1A518DB2B}",
+      "organization": "Seed Renewables LLC dba Seed Solar",
+      "itemNo": "1",
+      "docket_id": "21-E-0627",
+      "file_name": "HHAP Award Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99207002-6D53-4CFB-A30F-EBCC14799AC9}",
+      "organization": "Seed Renewables LLC dba Seed Solar",
+      "itemNo": "1",
+      "docket_id": "21-E-0627",
+      "file_name": "Cover Letter to PSC for Master Meter 12.15.21.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0391",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A07BEFC4-9632-4948-853B-84EBC626B87A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0391",
+      "file_name": "661_20-V-0391 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of South Dayton, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED844D54-0938-41EC-B60E-72B809B3308A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0391",
+      "file_name": "080520 -V. SOUTH DAYTON RENEWAL FILED TO PSC.pdf"
+    }
+  ]
+}

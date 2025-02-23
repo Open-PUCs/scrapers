@@ -1,0 +1,82 @@
+{
+  "case": "22-E-0458",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2023",
+      "nypuc_doctype": "Reports",
+      "name": "70 Remsen Street Tenants Corp - Submeter Installation Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4064268C-0000-CE17-9790-D615AAC4D748}",
+      "organization": "70 Remsen Street Tenants Corp.",
+      "itemNo": "7",
+      "docket_id": "22-E-0458",
+      "file_name": "70 Remsen Street Tenants Corp - Submeter Installation Filing Package.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2023",
+      "nypuc_doctype": "Reports",
+      "name": "70 Remsen Street Tenants Corp. - ISMTF Filing Package",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E063258C-0000-C01A-91DA-D7F6EB34333C}",
+      "organization": "70 Remsen Street Tenants Corp.",
+      "itemNo": "6",
+      "docket_id": "22-E-0458",
+      "file_name": "70 Remsen Street Tenants Corp. - ISMTF Filing Package.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B9B28A-0000-C21F-90FF-2CB79F335531}",
+      "organization": "70 Remsen Street Tenants Corp.",
+      "itemNo": "4",
+      "docket_id": "22-E-0458",
+      "file_name": "70 Remsen Street Tenants Corp. - ISMTF Extension Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Reports",
+      "name": "70 Remsen Street Tenants Corp - Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F03488-0000-C218-A287-A6C02641347F}",
+      "organization": "70 Remsen Street Tenants Corp.",
+      "itemNo": "3",
+      "docket_id": "22-E-0458",
+      "file_name": "70 Remsen Street Tenants Corp - Letter to Secretary with Updated Documents and Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F05A0087-0000-CC11-B196-C5A363805317}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0458",
+      "file_name": "374_22-E-0458_final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8C3DE0D-D711-4328-B385-89DE6A70A9F2}",
+      "organization": "70 Remsen Street Tenants Corp.",
+      "itemNo": "1",
+      "docket_id": "22-E-0458",
+      "file_name": "70 Remsen Street Tenants Corp. - Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "70 Remsen Street Tenants Corp - Notice of Intent to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD2388C6-8800-4AB9-9112-15917AE7D421}",
+      "organization": "70 Remsen Street Tenants Corp.",
+      "itemNo": "1",
+      "docket_id": "22-E-0458",
+      "file_name": "70 Remsen Street Tenants Corp - Notice of Intent to Submeter.pdf"
+    }
+  ]
+}

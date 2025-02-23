@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0445",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0445 Hodge Ack Letter 06222020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7ED58F4-141E-47EF-8EED-C5D4B7A978A6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0445",
+      "file_name": "20-E-0445 Hodge Ack Letter 06222020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0445 Hodge Rehearing Request 06222020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={612CE7C4-E428-46A6-AD70-DD61D5605508}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0445",
+      "file_name": "20-E-0445 Hodge Rehearing Request 06222020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0445 Hodge SMD Final 05132020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C0E5DC5-900C-44CD-B0D5-5FF832E10E6E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0445",
+      "file_name": "20-E-0445 Hodge SMD Final 05132020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={338E6A1A-CFA8-4FCB-8613-664BB6A20403}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0445",
+      "file_name": "366 Letter final_Redacted.pdf"
+    }
+  ]
+}

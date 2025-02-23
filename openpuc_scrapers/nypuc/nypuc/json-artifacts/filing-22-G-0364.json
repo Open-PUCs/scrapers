@@ -1,0 +1,49 @@
+{
+  "case": "22-G-0364",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B57F485-A814-4D53-A0CD-29A0D0FFB448}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0364",
+      "file_name": "161_22-G-0364 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/25/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A526178B-FCAD-479D-81DB-4FA647DBA0AF}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "22-G-0364",
+      "file_name": "22-G-0364 NFGDC Proof of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/25/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "NFGDC Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE44ADD6-A19A-4528-80FA-4B1C1802A2BE}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "22-G-0364",
+      "file_name": "NFGDC Cover Letter 08-25-2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "22-G-0364",
+      "file_name": ""
+    }
+  ]
+}

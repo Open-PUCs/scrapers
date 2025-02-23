@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0419",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={342CB235-608B-4C4D-8480-74515F80CEB9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0419",
+      "file_name": "663_22-V-0419.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2022",
+      "nypuc_doctype": "Exhibits",
+      "name": "Case No.22-V0419 Town of Halcott Cable Franchise Renewal - Exhibit 7 Addition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2A5AB07-98F0-47D1-8C3A-C5852567D58F}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "22-V-0419",
+      "file_name": "Case No.22-V0419 Town of Halcott Cable Franchise Renewal - Exhibit 7 Addition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "2022 Franchise Renewal between The Town of Halcott and Heart of the Catskills Communications MTC (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25F29F88-19AD-41B7-8F44-4280E826C807}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "22-V-0419",
+      "file_name": "2022 Franchise Renewal between The Town of Halcott and Heart of the Catskills Communications MTC (1).pdf"
+    }
+  ]
+}

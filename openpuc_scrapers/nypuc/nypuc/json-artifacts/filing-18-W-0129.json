@@ -1,0 +1,71 @@
+{
+  "case": "18-W-0129",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73E2C39E-2EB2-4492-ACBF-1EF2999863F1}",
+      "organization": "Rural Atlantic Water Company Inc.",
+      "itemNo": "6",
+      "docket_id": "18-W-0129",
+      "file_name": "Proof of Notification..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rural Atlantic Water Company Inc.",
+      "itemNo": "5",
+      "docket_id": "18-W-0129",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1318D79C-8011-4520-8A94-F9297915BFF4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-W-0129",
+      "file_name": "464_18-W-0129 Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D98E886-B127-40CA-A45F-85AB19D0FE08}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-W-0129",
+      "file_name": "18-W-0129 Postponement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/09/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rural Atlantic Water Company Inc.",
+      "itemNo": "2",
+      "docket_id": "18-W-0129",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rural Atlantic Water Company Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0129",
+      "file_name": ""
+    }
+  ]
+}

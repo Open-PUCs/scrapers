@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0231",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "505 State Operator LLC - Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D29592-0000-CD49-9DB1-402D44C014E2}",
+      "organization": "505 State Operator, LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0231",
+      "file_name": "505 State Operator LLC - Meter Test Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Reports",
+      "name": "505 State Operator LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B01E358C-0000-C314-A559-EA58A71DFCBE}",
+      "organization": "505 State Operator, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0231",
+      "file_name": "505 State Operator LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "505 State Operator LLC - Order Certifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70556D8B-0000-C61D-A718-FC54F25125ED}",
+      "organization": "505 State Operator, LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0231",
+      "file_name": "505 State Operator LLC - Order Certifications - 10.26.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BE438B-0000-CA18-8064-97A882551EAD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0231",
+      "file_name": "378_23-E-0231 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 505 State Operator, LLC to Submeter Electricity at 100 Flatbush Avenue, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109BE287-0000-C81A-A22B-E425FE849419}",
+      "organization": "505 State Operator, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0231",
+      "file_name": "Submetering Petition - 505 State Operator LLC - 100 Flatbush Avenue.pdf"
+    }
+  ]
+}

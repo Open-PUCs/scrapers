@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0376",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1057238A-0000-CC1D-9114-B69A02D4A703}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-V-0376",
+      "file_name": "662_23-V-0376 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00970 Letter to Building Owner 559 W 149 St 6.23.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={507DE888-0000-C31A-98D1-1555DAF11554}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-V-0376",
+      "file_name": "23-00970 Letter to Building Owner 559 W 149 St 6.23.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/12/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00970 Letter to Building Owner 559 W 149 St 6.12.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={802AB088-0000-CA15-8A18-33A36E513FF8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0376",
+      "file_name": "23-00970 Letter to Building Owner 559 W 149 St 6.12.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00970 Letter to Building Owner - 559 W 149 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B54888-0000-CF18-B513-8C1FB9015A57}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0376",
+      "file_name": "23-00970 Letter to Building Owner - 559 W 149 St.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 559 West 149th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903DE287-0000-C81D-871C-D7382B3B81A6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0376",
+      "file_name": "230503-13 Petition (559 W 149 ST) (Post-Survey).pdf"
+    }
+  ]
+}

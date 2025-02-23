@@ -1,0 +1,82 @@
+{
+  "case": "18-E-0145",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "NMPC & Cellco Partnership-Compliance Filing-Actual Journal Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BFB2A1B-62BD-4F7F-9CCE-8793A0346B5A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "18-E-0145",
+      "file_name": "Case 18-E-0145 & Case 02-M-1288 NMPC & Cellco Partnership-Compliance Filing-Actual Journal Entries.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D93F4DDF-EC75-4DF1-970D-0A41A190DD3A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-E-0145",
+      "file_name": "18-E-0145-02-M-1288-Nat.Grid-JournalEntries-Extension Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension to File Actual Journal Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0ADD65F3-850C-41C4-B7D9-47E822C6A126}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "18-E-0145",
+      "file_name": "Case 18-E-0145 & Case 02-M-1288-Request for Extension to File Actual Journal Entries.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD90F9EF-8426-42B9-BF2E-9B9B808B0398}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0145",
+      "file_name": "18-E-0145 Notice.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2B5C775-8822-41F5-A172-21B89467375D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0145",
+      "file_name": "371_18-E-0145 et al. Order.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/11/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "SEQR SEAF Letter and Form for National Grid's Section 70",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFF930C1-9BD4-46DB-8868-656C98D93CB7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "18-E-0145",
+      "file_name": "SEAF Cover Letter and Forms to Secretary Case 18-E-0145 9-6-18.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Niagara Mohawk Power Corp dba National Grid and Cellco Partnership",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD41A3C9-21AE-43F7-ABA9-F4C03D193AD5}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-E-0145",
+      "file_name": "Joint Petition of Niagara Mohawk Power Corp dba National Grid and Cellco Partnership.pdf"
+    }
+  ]
+}

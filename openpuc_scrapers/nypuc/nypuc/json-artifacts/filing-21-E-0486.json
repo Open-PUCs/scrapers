@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0486",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F02F058A-0000-CC47-B4FA-C2F7116EEA0A}",
+      "organization": "Brookfield Properties Mutlifamily LLC",
+      "itemNo": "6",
+      "docket_id": "21-E-0486",
+      "file_name": "Submetering ID Update_1 Bell Slip (8.15.23).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2022",
+      "nypuc_doctype": "Compliance",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9B7F077-7C3F-4ED6-BED2-BA93C2C9EAB8}",
+      "organization": "BOP Greenpoint H3 LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0486",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07A0875-E3D0-498C-93EE-0452D105CA0B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0486",
+      "file_name": "367_21-E-0486 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information Requested for One Bell Slip, Brooklyn, New York 10001.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B56BE62-AD25-4389-B71F-DBB7105DE94D}",
+      "organization": "BOP Greenpoint H3 LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0486",
+      "file_name": "Additional Information Requested for One Bell Slip, Brooklyn, New York 10001..pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92B4FB91-BF05-4F7D-ADC7-24EE1B8CAB4B}",
+      "organization": "BOP Greenpoint H3 LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0486",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of BOP Greenpoint H3 LLC to Sub-meter electricity at a building cornplex located at One Bell Slip, Brooklyn, New York 10001.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE5FD180-0007-4140-8971-A050B91F65C4}",
+      "organization": "BOP Greenpoint H3 LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0486",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

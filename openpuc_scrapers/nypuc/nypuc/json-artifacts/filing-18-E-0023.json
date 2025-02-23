@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0023",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BC32365-88FB-45E8-8BF0-EFAD8F91035E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0023",
+      "file_name": "377_18-E-0023.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F773F2A-EAE4-422B-B850-FD4C3C1CE0E5}",
+      "organization": "Castleton Power LLC, Lockport Energy Associates, L.P.",
+      "itemNo": "2",
+      "docket_id": "18-E-0023",
+      "file_name": "Letter Supplement 3-19-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Lockport Energy Associates, L.P. and Castleton Power, LLC, for Order Approving Financing Pursuant to Section 69 of the New York State Public Service Law and Declaratory Ruling Regarding Application of Sections 70 and 83 of the New York State Public Service Law, and, in the Alternative, Sections 70 and 83 Approval.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E31E90F-F49F-4371-8CCF-8DEE8EF9D016}",
+      "organization": "Castleton Power LLC, Lockport Energy Associates, L.P.",
+      "itemNo": "1",
+      "docket_id": "18-E-0023",
+      "file_name": "Petition 1-12-18.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0270",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={506D5590-0000-C51F-BD4A-CD61A1262CEC}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0270",
+      "file_name": "161-B_24-G-0270 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240507 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B3598F-0000-C019-8D19-4F9EB3389C66}",
+      "organization": "All Island Excavating Corp.",
+      "itemNo": "6",
+      "docket_id": "24-G-0270",
+      "file_name": "20240507 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240501 - Training Documentation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D07D398F-0000-CC17-A113-A4E57BFDA01D}",
+      "organization": "All Island Excavating Corp.",
+      "itemNo": "5",
+      "docket_id": "24-G-0270",
+      "file_name": "20240501 - Training Documentation.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240329 - Payment ($1,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1084E88E-0000-C318-B26D-6EB5704E2A66}",
+      "organization": "All Island Excavating Corp.",
+      "itemNo": "4",
+      "docket_id": "24-G-0270",
+      "file_name": "20240329 - Payment ($1,500) - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20FE5C8E-0000-C814-AE0C-DC1002C07C23}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0270",
+      "file_name": "20240313 - Consent Offer Letter.pdf"
+    }
+  ]
+}

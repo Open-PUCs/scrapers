@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0413",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0551F92-0000-C11C-8C21-F4459A101C54}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0413",
+      "file_name": "661_24-V-0413.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A29D90-0000-CD48-8C6D-75AD7485928F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0413",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Litchfield 7.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00A29D90-0000-C117-91D3-29CDFBDD4F68}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0413",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Litchfield 7.10.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Litchfield-Cover Letter-Request for Renewal and Certificate of Confirmation 7.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A29D90-0000-C36E-9625-2568015306AA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0413",
+      "file_name": "Charter Communications, T. Litchfield-Cover Letter-Request for Renewal and Certificate of Confirmation 7.10.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications -T. Litchfield-Request for Renewal and Certificate of Confirmation(redacted)7.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A29D90-0000-C183-BC0E-FFC1D7D3613D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0413",
+      "file_name": "Charter Communications -T. Litchfield-Request for Renewal and Certificate of Confirmation(redacted)7.10.24.pdf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case": "18-C-0242",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/29/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Confirmation of the Completion of Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76C09E98-E20F-423B-8D95-827A16713806}",
+      "organization": "Greenlight Networks, LLC",
+      "itemNo": "7",
+      "docket_id": "18-C-0242",
+      "file_name": "Letter to NY DFS Secretary to the Commission Re. Case 18-C-0242 - Greenlight Networks, LLC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2018",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves Sale of Rochester-based Broadband Company",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={565C1A1C-C310-4487-BD85-2A510CF01845}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-C-0242",
+      "file_name": "pr18033.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control and Associated Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90379A17-BA0D-4260-8E7A-D1A4766E5286}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-C-0242",
+      "file_name": "563_18-C-0242.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/02/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition for Expedited Approval of Proposed Transactions - UPDATED PUBLIC VERSION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A599C719-7762-471A-A0A4-28AC9962A3DF}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Networks, LLC",
+      "itemNo": "4",
+      "docket_id": "18-C-0242",
+      "file_name": "Joint Petition for Expedited Approval of Proposed Transactions - UPDATED PUBLIC VERSION .docx.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/02/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43C8A6B8-2D66-484A-9F43-6DF89CCC408F}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Networks, LLC",
+      "itemNo": "4",
+      "docket_id": "18-C-0242",
+      "file_name": "Cover Letter to Updated Joint Petition - Greenlight - Grand Oaks - May 2, 2018 (6148871).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Greenlight - Supplemental Letter to Joint Petition Re. Expedited Treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A03B4E5-D34B-4761-A384-D323C6FFE447}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Networks, LLC",
+      "itemNo": "3",
+      "docket_id": "18-C-0242",
+      "file_name": "Greenlight - Supplemental Letter to Joint Petition Re. Expedited Treatment.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Greenlight - Filing Letter Re Supplement Letter to Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77F80B21-1D40-49EF-B21D-426C685DD35A}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Networks, LLC",
+      "itemNo": "3",
+      "docket_id": "18-C-0242",
+      "file_name": "Greenlight - Filing Letter Re Supplement Letter to Joint Petition.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/13/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E523457B-4A3A-47A6-8B7E-D930EDF4DCBF}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Networks, LLC",
+      "itemNo": "2",
+      "docket_id": "18-C-0242",
+      "file_name": "Filing Letter to RAO Requesting Confidential Treatment.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Greenlight Networks, LLC and Grand Oaks GLN, LLC for Expedited Approval of Proposed Transactions Pursuant to Section 100 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DC2D8ED-4110-41D0-A3AD-42E29390A4C3}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Networks, LLC",
+      "itemNo": "1",
+      "docket_id": "18-C-0242",
+      "file_name": "Joint Petition for Expedited Approval of Proposed Transactions - REDACTED PUBLIC VERSION (6071016).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CD72564-4D8C-4044-AA23-1DCB5CCC2C81}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Networks, LLC",
+      "itemNo": "1",
+      "docket_id": "18-C-0242",
+      "file_name": "Filing Letter to Secretary of PSC enclosing Public Petition.pdf"
+    }
+  ]
+}

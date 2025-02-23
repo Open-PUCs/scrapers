@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0385",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53ABC3CC-A66C-43D2-97C0-0B13D28AE59B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0385",
+      "file_name": "366_16-E-0385.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/27/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Snowplow LH LLC to Submeter Electricity at 252 East 57th Street, New York, New York Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4703F45-1FE6-46E0-A9B7-B5033369A188}",
+      "organization": "Snowplow LH LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0385",
+      "file_name": "submetering application 6-27-16.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0687",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "361354 SMR Reject as Untimely la Flamme_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D04F118C-0000-CA1A-B293-DACC547CCE4D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0687",
+      "file_name": "361354 SMR Reject as Untimely la Flamme final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "361354 SMR Request la Flamme_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3046118C-0000-C619-B1EE-FE9263AAED1A}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0687",
+      "file_name": "361354 SMR Request la Flamme_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "361354-977888 SMD Final la Flamme_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0ADF88B-0000-C41E-A300-B099EF0CA95C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0687",
+      "file_name": "361354-977888 SMD Final la Flamme_Redacted.pdf"
+    }
+  ]
+}

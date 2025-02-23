@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0432",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CA978CF-AD92-4030-BFC8-AF6D4942F7FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0432",
+      "file_name": "374 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB160D24-FB0A-4D5D-A601-C7BACC288C1D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0432",
+      "file_name": "372_Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC0CC87B-817D-4B97-A772-D2E22C7C00D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0432",
+      "file_name": "372_Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAE3A4B4-123F-4A55-BC8A-B73334480E8D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0432",
+      "file_name": "Tibbatts.333143.Appeal Ack Ltr_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF879401-3E55-465B-821C-AD691F294117}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-E-0432",
+      "file_name": "DECISION - CASE 333143 - Tibbatts vs Con Edison_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E6D2706-8C45-48F0-A349-398A6BD0D646}",
+      "organization": "Individual",
+      "itemNo": "1",
+      "docket_id": "15-E-0432",
+      "file_name": "Appeal of IH Decision.pdf"
+    }
+  ]
+}

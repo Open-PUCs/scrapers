@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0660",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={308AF086-0000-C816-AE90-FDAA93CA3115}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0660",
+      "file_name": "372_22-E-0660 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6031A486-0000-C111-8AEF-5F314BA03B4F}",
+      "organization": "Number Three Wind LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0660",
+      "file_name": "22-E-0660 NTW - Cv Ltr to Sec. Phillips encl. Second Suppl. to Petition for an Order Approving Section 69 and Section 70 - 03.02.23 ( FINAL ).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "22-E-0660 NTW - Second Suppl. to Petition for an Order Approving Section 69 and Section 70 - 03.02.23 ( FINAL )",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5031A486-0000-C215-8530-67364220D4EB}",
+      "organization": "Number Three Wind LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0660",
+      "file_name": "22-E-0660 NTW - Second Suppl. to Petition for an Order Approving Section 69 and Section 70 - 03.02.23 ( FINAL ).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to Petition for Approval of Section 69 and Section 70",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74F25AB0-4DCF-4FF9-972F-A17E13BCA487}",
+      "organization": "Number Three Wind LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0660",
+      "file_name": "22-E-0660 NTW - Letter Supplement to Petition for Approval of Section 69 and Section 70 - 02.10.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Number Three Wind LLC for an Order Approving Financing Pursuant to Section 69 of the New York State Public Service Law and a Declaratory Ruling Regarding Application of Section 70.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EA23D37-CD44-46A7-AFEB-7824BF3459A7}",
+      "organization": "Number Three Wind LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0660",
+      "file_name": "22-E-____ - Number Three Wind - Letter & Section 69 Petition and Declaratory Ruling Regarding Section 70 Application - 11.22.2022 (FINAL).pdf"
+    }
+  ]
+}

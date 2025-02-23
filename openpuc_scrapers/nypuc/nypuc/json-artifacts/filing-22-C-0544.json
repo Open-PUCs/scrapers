@@ -1,0 +1,49 @@
+{
+  "case": "22-C-0544",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/14/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Notification of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A7E286-0000-C116-8FE4-395DEDB1BE5E}",
+      "organization": "US Signal Company, LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0544",
+      "file_name": "NY.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01924 US Signal OOL Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A4E87EA-1826-445D-BF68-66B59B7422A2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0544",
+      "file_name": "22-01924 US Signal OOL Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Application for Transfer of Control of US Signal Company, L.L.C. to Traffic Midco, LLC, For Consent to a Transaction That Will Result in a Change of Control of US Signal Company, L.L.C.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B343D16-BEB2-4916-9C2D-50530A86D0A4}",
+      "organization": "US Signal Company, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0544",
+      "file_name": "New York TOC Application Final 092822.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B718EF3-2F28-44DD-A7B2-1D56825148EC}",
+      "organization": "US Signal Company, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0544",
+      "file_name": "NY Cover Letter 092822.pdf"
+    }
+  ]
+}

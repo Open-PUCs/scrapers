@@ -1,0 +1,49 @@
+{
+  "case": "16-M-0529",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A31E6207-B803-495E-BD23-17AC673D2192}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-M-0529",
+      "file_name": "262_16-M-0529 Cryquick.letter decision.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E28EB28F-3960-496D-8871-20FF7B36FF20}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-M-0529",
+      "file_name": "427681 Ack Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/13/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107D01C2-F216-4113-89DA-B919851FAEE2}",
+      "organization": "Cryquick Property Management LLC",
+      "itemNo": "2",
+      "docket_id": "16-M-0529",
+      "file_name": "427681appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE25F780-02C0-4353-AD49-9C0C2A6CD907}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-M-0529",
+      "file_name": "Joseph Brown vs Con Ed 427681.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0135",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B7974A3-9815-456A-9939-6B46C67C5B5E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0135",
+      "file_name": "662_21-V-0135 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/11/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signature Page",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB9F8135-7E1E-4128-8511-1DFA0A18E8CB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0135",
+      "file_name": "T. Cazenovia Reso Sig Pg Case 21-V-0135.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Cazenovia, Madison County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B33D4DDD-ECB9-458B-9E75-4B458DD24CF5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0135",
+      "file_name": "2021.03.02 T. CAZENOVIA RENEWAL FILING-PSC.pdf"
+    }
+  ]
+}

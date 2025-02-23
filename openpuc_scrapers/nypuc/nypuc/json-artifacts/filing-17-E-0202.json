@@ -1,0 +1,82 @@
+{
+  "case": "17-E-0202",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/09/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Allison Christopher Granting Request to Withdraw Petition and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52A667DA-AA50-4178-9155-929FC31AD629}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "17-E-0202",
+      "file_name": "17-E-0202 Case Closure Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Withdrawal letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5172FFA-B998-466A-8F77-4EFD2D854267}",
+      "organization": "Waverly Arms Housing Development of Yonkers LLC",
+      "itemNo": "6",
+      "docket_id": "17-E-0202",
+      "file_name": "withdrawal letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={129A5CD6-B5EA-407D-BE12-FB2FCC76448C}",
+      "organization": "Waverly Arms Housing Development of Yonkers LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0202",
+      "file_name": "response letter 1-22-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to information requested",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A40E7F52-E97B-4836-B5A3-FFD3B33E55F9}",
+      "organization": "Waverly Arms Housing Development of Yonkers LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0202",
+      "file_name": "response letter 5-3-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4B1B4CF-6A34-4173-B036-26B36CE60951}",
+      "organization": "Waverly Arms Housing Development of Yonkers LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0202",
+      "file_name": "response letter 2-14-18.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response regarding information requested for 125 Waverly Street, Yonkers, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92265569-B3C9-46C2-B2F1-8140EF6673E2}",
+      "organization": "Waverly Arms Housing Development of Yonkers LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0202",
+      "file_name": "response letter 6-6-17.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Waverly Arms Housing Development of Yonkers LL\u00c7 to Submeter Electricity at 125 Waverly Street, Yonkers, New York 10701, Located in the Territory of Consolidated Edison Company, lnc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E91B6B9-A151-4CA6-B243-49FCC6CA98F8}",
+      "organization": "Waverly Arms Housing Development of Yonkers LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0202",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

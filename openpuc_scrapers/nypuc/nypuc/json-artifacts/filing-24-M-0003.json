@@ -1,0 +1,27 @@
+{
+  "case": "24-M-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "SMR Rehearing Request Owner 01022024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={409FD08C-0000-CF11-B190-F8348A33CD79}",
+      "organization": "Vanzetta Realty LLC",
+      "itemNo": "2",
+      "docket_id": "24-M-0003",
+      "file_name": "SMR Rehearing Request Owner 01022024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "234753_Stephens_SMD_08312023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209DD08C-0000-CD17-B170-C4107CA37D3D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-M-0003",
+      "file_name": "234753_Stephens_SMD_Final_08312023 (3)_Redacted.pdf"
+    }
+  ]
+}

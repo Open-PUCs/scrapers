@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0084",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01DB987-0000-CC15-990F-CF91442219B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0084",
+      "file_name": "662_23-V-0084.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/13/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2459265-7E81-4C39-810C-451E57BA0E4B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0084",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Clinton 02.10.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DAE83A6-119F-4C02-9360-87CD4CAC3CBB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0084",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Clinton 02.10.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/13/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Charter Communications, V. Clinton-Request for Renewal and Certificate of Confirmation (redacted) 2.10.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A434391C-D5C5-45D0-AA57-D99C00F2FD28}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0084",
+      "file_name": "Charter Communications, V. Clinton-Request for Renewal and Certificate of Confirmation (redacted) 2.10.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/13/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Clinton-Cover Letter-Request for Renewal and Certificate of Confirmation 2.10.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6BB591A-7898-4AF8-BB43-BB3A42491717}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0084",
+      "file_name": "Charter Communications, V. Clinton-Cover Letter-Request for Renewal and Certificate of Confirmation 2.10.23.pdf"
+    }
+  ]
+}

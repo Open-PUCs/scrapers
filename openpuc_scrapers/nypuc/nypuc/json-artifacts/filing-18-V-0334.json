@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0334",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87864A96-0BBC-41CD-B7ED-912498876EA3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0334",
+      "file_name": "664_18-V-0334.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0334 T. OF DURHAM PUBLIC NOTICE OF APPLICATION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F07D8726-55C3-499A-8692-C413FD8517CD}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0334",
+      "file_name": "18-V-0334 T. OF DURHAM PUBLIC NOTICE OF APPLICATION.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Town of Durham, Greene County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5B13643-B232-4CC2-832B-00E4A872A2BF}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0334",
+      "file_name": "TOWN OF DURHAM FRANCHISE FILING WITH PSC 2018 SEARCHABLE.pdf"
+    }
+  ]
+}

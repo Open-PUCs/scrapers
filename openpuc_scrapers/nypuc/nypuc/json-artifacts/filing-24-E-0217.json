@@ -1,0 +1,82 @@
+{
+  "case": "24-E-0217",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E06B91-0000-CE19-B845-C640FB734D7E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0217",
+      "file_name": "373_24-E-0217 Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/19/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E06B91-0000-C62F-BD99-0BC7B70223CF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0217",
+      "file_name": "373_24-E-0217 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={003D0A91-0000-C847-B6A7-1110D369D724}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-E-0217",
+      "file_name": "Case 24-E-0217 CH Section 70 Streetlight SEAF Part 2 and 3 (signed).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={003D0A91-0000-C92C-BF19-BE12CB5400FB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-E-0217",
+      "file_name": "Case 24-E-0217 Staff SEAF Cover Letter 7-30-2024.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "SEAF_Village of Millerton",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BFAF8E-0000-C256-971D-354F85D482A4}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0217",
+      "file_name": "SEAF_Village of Millerton_signed.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A_Purchase and Sale Agreement_Bill of Sale_Village of Millerton",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BFAF8E-0000-C43F-9300-F95CDD358259}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0217",
+      "file_name": "Exhibit A_Purchase and Sale Agreement_Bill of Sale_Village of Millerton.xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "CHGE Section 70_Village of Millerton",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0C8AF8E-0000-C01E-A238-84F320495854}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0217",
+      "file_name": "CHGE Section 70_Village of Millerton_Filed.pdf"
+    }
+  ]
+}

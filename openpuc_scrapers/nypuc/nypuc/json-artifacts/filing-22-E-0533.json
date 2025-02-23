@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0533",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B9E2EF6-99FC-4B9F-8D0A-55953A030270}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0533",
+      "file_name": "370_22-E-0533 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/09/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5D669F8-8FEB-45E0-B6C7-D898CAFDE215}",
+      "organization": "Ball Hill Wind Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0533",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "EXHIBIT A - Ball Hill Wind Project LGIA_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FFCEB21-399A-4D8C-81FA-E74FDE3E784A}",
+      "organization": "Ball Hill Wind Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0533",
+      "file_name": "EXHIBIT A - Ball Hill Wind Project LGIA_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "220909 Section 70 Petition_Nat Grid Transfer_Verified",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={465FA630-B4E0-4B87-99CE-FE3453068B34}",
+      "organization": "Ball Hill Wind Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0533",
+      "file_name": "220909 Section 70 Petition_Nat Grid Transfer_Verified.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/09/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "220909 Ltr to Secretary re Verified Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3116AF9D-C171-4DE2-98EB-A968072B749F}",
+      "organization": "Ball Hill Wind Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0533",
+      "file_name": "220909 Ltr to Secretary re Verified Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/09/2022",
+      "nypuc_doctype": "Motions",
+      "name": "220909 Ltr to RAO re Verified Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14BAD2DE-8555-4E73-B22B-318728E605AF}",
+      "organization": "Ball Hill Wind Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0533",
+      "file_name": "220909 Ltr to RAO re Verified Petition.pdf"
+    }
+  ]
+}

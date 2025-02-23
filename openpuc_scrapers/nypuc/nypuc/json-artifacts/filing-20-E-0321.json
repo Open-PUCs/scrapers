@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0321",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "215 West 28th Street Property Owner LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05289B7F-EB2F-481F-BB2F-7B546AB3DD81}",
+      "organization": "215 West 28th Street Property Owner LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0321",
+      "file_name": "215 West 28th Street Property Owner LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={261E7A65-ED54-4D1E-B42D-E8749FFDFB91}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0321",
+      "file_name": "364_20-E-0321 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing 215 West 28th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7330A7FE-4AF2-4023-BD3B-74B4AAD8F9BA}",
+      "organization": "215 West 28th Street Property Owner LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0321",
+      "file_name": "Supplemental Filing 215 West 28th Street.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 215 West 28th Street Property Owner LLC to Submeter Electricity at 215 West 28th Street, New York, NY, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5865D1B-DECC-4AA8-8428-1463A1721E94}",
+      "organization": "215 West 28th Street Property Owner LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0321",
+      "file_name": "Submetering notice of intent 215 West 28th Street.pdf"
+    }
+  ]
+}

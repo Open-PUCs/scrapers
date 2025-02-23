@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0458",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F17AD89F-31BC-4BD2-9537-0F4B3AE212D3}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0458",
+      "file_name": "363 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C173FC30-71F1-4038-AF87-5780601297AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-E-0458",
+      "file_name": "363 Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Revised - Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA2B3884-DB5A-40D7-BED9-31606C98E4C6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-E-0458",
+      "file_name": "734099 Cliffside Properties (rev).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Clarification on money held in dispute",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBFD7A22-E15E-463D-BC43-6E65C448274F}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "4",
+      "docket_id": "19-E-0458",
+      "file_name": "NoMoneyHeldInDispute.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/12/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD1CE8B0-C7BD-4367-88B4-F83431FC7C5B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0458",
+      "file_name": "734099 Cliffside Properties.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/12/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FFFA5F6-6E15-4DAD-B6FF-7423B58035F3}",
+      "organization": "Cliffside Properties",
+      "itemNo": "2",
+      "docket_id": "19-E-0458",
+      "file_name": "Cliffside Properties v Con Edison Appeal of Informal Determination OCS Case 734099.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/12/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D48ACCB5-EE60-4C13-B6DE-96CB2B2E6DA8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0458",
+      "file_name": "Cliffside Properties -URAC vs Con Edison case 734099 .pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0614",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={540491AD-DFDB-468B-9A79-4B02176027F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0614",
+      "file_name": "662_22-V-0614.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/02/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DC5F729-0E51-4E02-92B5-83EE745F38DE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0614",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/02/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Cato Letter 10.25.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEB7971E-E00C-47A5-AD20-19048FF94712}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0614",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Cato Letter 10.25.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "2022.10.25 - Charter Communications-T. CATO Request for Renewal-Certificate of Confirmationlk (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71834652-7A3D-4241-8D99-521B5C307146}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0614",
+      "file_name": "2022.10.25 - Charter Communications-T. CATO Request for Renewal-Certificate of Confirmationlk (Redacted).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/02/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2022.10.25 - Charter Communications-T. CATO Cover Letter Request for Renewal-Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DA56B1-9EBF-41F3-972E-F992EAC59305}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0614",
+      "file_name": "2022.10.25 - Charter Communications-T. CATO Cover Letter Request for Renewal-Certificate of Confirmation.pdf"
+    }
+  ]
+}

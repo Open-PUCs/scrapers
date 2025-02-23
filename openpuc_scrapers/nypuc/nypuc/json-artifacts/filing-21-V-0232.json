@@ -1,0 +1,137 @@
+{
+  "case": "21-V-0232",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0A31F14-768C-48E7-BD67-B0797EE59A31}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0232",
+      "file_name": "661_21-V-0232.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village Windsor Resolution CORRECTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14DB9DC5-D34A-4F1B-B97A-C9A54E16221F}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "21-V-0232",
+      "file_name": "Village Windsor Resolution 20210524.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village Windsor Fran Agmt",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F849A18-8173-4521-B3C3-BACADA54B9B4}",
+      "organization": "Village of Windsor",
+      "itemNo": "2",
+      "docket_id": "21-V-0232",
+      "file_name": "Village Windsor Fran Agmt.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/28/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Village Windsor 2nd Legal Notice Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46688F81-73A7-4CE9-9611-2647C1E9FCE4}",
+      "organization": "Village of Windsor",
+      "itemNo": "2",
+      "docket_id": "21-V-0232",
+      "file_name": "Village Windsor 2nd Legal Notice Affidavit.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village Windsor 1st Legal Notice Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A38382F5-9412-4371-B988-791F9F51FFA0}",
+      "organization": "Village of Windsor",
+      "itemNo": "2",
+      "docket_id": "21-V-0232",
+      "file_name": "Village Windsor 1st Legal Notice Affidavit.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89DD1551-97F0-447C-9299-0AE57FA2CBC9}",
+      "organization": "Village of Windsor",
+      "itemNo": "2",
+      "docket_id": "21-V-0232",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Adams Cable Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3CE007B-146C-4D97-A8E9-FAC5BBED3F93}",
+      "organization": "Village of Windsor",
+      "itemNo": "2",
+      "docket_id": "21-V-0232",
+      "file_name": "Adams Cable Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Windsor Village Fran Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A5CD53F-A4FD-453B-989E-C623B5FE743D}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0232",
+      "file_name": "Windsor Village Fran Agreement 20210302.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village Windsor 2nd Legal Notice Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C410D7F0-1407-46CA-A7CA-CB9810F45347}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0232",
+      "file_name": "Village Windsor 2nd Legal Notice Affidavit.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village Windsor 1st Legal Notice Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA15E21E-9A8A-4A77-A8FE-58307DE90B9A}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0232",
+      "file_name": "Village Windsor 1st Legal Notice Affidavit.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A9EF109-573C-453C-890A-23BFF0DEA8F1}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0232",
+      "file_name": "NYPSC Header Letter Village Windsor.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Adams Cable Resolution 2021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={277B549B-4494-4C54-B33E-094AC938E609}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0232",
+      "file_name": "Adams Cable Resolution 2021.pdf"
+    }
+  ]
+}

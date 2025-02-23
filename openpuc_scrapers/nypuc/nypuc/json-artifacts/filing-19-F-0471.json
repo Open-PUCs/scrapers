@@ -1,0 +1,93 @@
+{
+  "case": "19-F-0471",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/04/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Donna Kissane, Franklin County Manager, Regarding Ad Hoc Nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AB2248B-4389-4026-BDBE-6ECABCE161D7}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "19-F-0471",
+      "file_name": "19-F-0471-EDF-Bunker Solar- Franklin County Mgr. Kissane.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/04/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to H. Bruce Russell, Bellmont Town Supervisor Regarding Ad Hoc Nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5197BA51-37DB-42AC-B5E6-A7B6215F7A41}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "4",
+      "docket_id": "19-F-0471",
+      "file_name": "19-F-0471-EDF-Bunker Solar-Bellmont Supervisor Russell.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={079666DF-522B-465D-AB27-2EA692C2CE98}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0471",
+      "file_name": "190823 Ltr to Secretary Burgess filing Final PIP & Response to DPS Comments.pdf (73 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/23/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Bunker Solar PIP Plan_August 2019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00004EA-D214-4D62-9E04-9F53B864EF21}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0471",
+      "file_name": "Bunker Solar PIP Plan_Final_August 2019.pdf (7 MB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/23/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Bunker Road Solar PIP Response to DPS Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF95E25E-68FE-4B2E-9392-32E90B517ECF}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0471",
+      "file_name": "Bunker Road Solar PIP response to DPS comments.pdf (167 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bunker Solar Energy Center PIP Plan - DPS Staff Recommendations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={487DEA24-8597-4803-99CB-46942AD61124}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-F-0471",
+      "file_name": "2019.07.25 Case 19-F-0471 - Bunker Solar Energy PIP Plan__ DPS Staff Comments_7_25_19_.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AAEB8C0-A578-4CAC-88B7-045BC4014F58}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-F-0471",
+      "file_name": "Cover Letter Submitting Bunker PIP.pdf (300 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Bunker Solar Public Involvement Program Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA6DF223-04F1-4C68-BE61-FBFD0A9ACC2A}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-F-0471",
+      "file_name": "Bunker Solar PIP Plan_Draft_June 2019.pdf (13 MB)"
+    }
+  ]
+}

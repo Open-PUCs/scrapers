@@ -1,0 +1,27 @@
+{
+  "case": "22-G-0144",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/03/2022",
+      "nypuc_doctype": "Affidavit of Service",
+      "name": "20220421 Final Order Service Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C4B324C-B2D5-4E52-A905-FBAEA6256B37}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0144",
+      "file_name": "20220421 Final Order Service Affidavit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA6B738A-DEE0-47A9-A02C-FB8F7FFE7DC1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0144",
+      "file_name": "163_22-G-0144 22-G-0145 final.pdf"
+    }
+  ]
+}

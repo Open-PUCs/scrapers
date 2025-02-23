@@ -1,0 +1,115 @@
+{
+  "case": "22-E-0097",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC0B87C1-0034-436E-977C-A1F2FDAE5727}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "10",
+      "docket_id": "22-E-0097",
+      "file_name": "compliance letter (7).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05B06FFF-CA2B-4DAE-B71D-43B61A2E25A4}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "22-E-0097",
+      "file_name": "371_22-E-0097.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98F7157D-5A83-40AA-B968-74427C70EBEF}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0097",
+      "file_name": "response letter 6-14-22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41B0F329-7DBA-489F-9C53-D6ABF36DB990}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0097",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/27/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE072C7C-D29F-46FD-A5BC-633150243AE3}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0097",
+      "file_name": "response letter 4-27-22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83B8C706-022A-494C-97F9-F7CD1F4575F1}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0097",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 10 LeCount Place, New Rochelle, New York 10801.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30961C26-8EBB-48F4-A7F0-9E962FBC6789}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0097",
+      "file_name": "response letter 4-12-22.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/05/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "WBLM 14 le Count Owner, LLC Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={079C8E5B-430E-4717-B2D2-68F545ED64CB}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0097",
+      "file_name": "WBLM 14 le Count Owner, LLC Response Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent of WBLM 14 LeCount Owner, LLC, to submeter Electricity at 10 LeCount Place, New Rochelle, New York 10801 Located in service the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29E3916C-AB52-4102-B5E5-A220971EFF19}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0097",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of WBLM 14 Le Count Owner, LLC to Submeter Electricity at 10 LeCount Place, New Rochelle, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={356FE5B6-605B-42E1-96EC-7282A2F127A8}",
+      "organization": "WBLM 14 Le Count Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0097",
+      "file_name": "submetering application (2).pdf"
+    }
+  ]
+}

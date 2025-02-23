@@ -1,0 +1,82 @@
+{
+  "case": "18-G-0188",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Zachary Farrell Acknowledging Withdrawal and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={463D0AA8-58A6-4C52-AC1F-B9F18BDE430F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0188",
+      "file_name": "18-G-0188 - Letter Closing Case.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCAEA515-14AA-4480-A9DC-AD7D908CF126}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "18-G-0188",
+      "file_name": "AC800 Petition Withdrawal Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/30/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "EAM-PL3001",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE9842C6-79A8-4B28-8468-EA2F3C7B0F0E}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "18-G-0188",
+      "file_name": "EAM-PL3001.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/30/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "EAM-DS3000",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4467B707-A2EF-4C23-9B42-6A4BCFA5B273}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "18-G-0188",
+      "file_name": "EAM-DS3000.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/30/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1038ADA-1C59-4455-9521-80B39731D85D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "18-G-0188",
+      "file_name": "AC800 Part 227 Addendum Documents.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/30/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "AC-800 ANSI Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3A70296-2662-4370-94CD-ED3647B69274}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "18-G-0188",
+      "file_name": "AC-800 ANSI Report (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation for Approval of New 800 Class Meter Manufactured by Honeywell-American Meter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB5BC9C0-8F09-47A9-8949-59ECA9FB4715}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-G-0188",
+      "file_name": "AC800 Petition Letter.pdf"
+    }
+  ]
+}

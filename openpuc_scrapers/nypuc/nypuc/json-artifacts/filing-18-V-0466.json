@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0466",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding withdrawal of petitions and closing cases",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED2CED16-1880-4D20-9A14-C5E6393784A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0466",
+      "file_name": "Matter Nos. 17-01695-17-01835-17-02710-Verizon-Order of Entry Termination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FD1230E-5441-4E55-A7A9-39463151760A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0466",
+      "file_name": "180919 VZ Letter re 170825 Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner Regarding Verizon's Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88FA191F-C7EC-40FC-84FD-7F4C4AD57241}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0466",
+      "file_name": "17-01835 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 830 Broadway, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E4B96A0-FD97-42CC-873A-A2DFB0B6E436}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0466",
+      "file_name": "Petition (830 Broadway).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63B4A742-0A1A-4F96-8431-56D95C53718B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0466",
+      "file_name": "Exhibit 2 (830 Broadway).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9631E10-EC56-4DCB-8DE0-240BDAA4AA7F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0466",
+      "file_name": "Exhibit 1 (830 Broadway).pdf"
+    }
+  ]
+}

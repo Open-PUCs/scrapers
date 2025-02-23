@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0677",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Follow Up Notification Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9012C290-0000-CD3A-852D-917DB3B49D33}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "23-E-0677",
+      "file_name": "07172024_001_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D55090-0000-C61B-83CF-BC88DB427B74}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0677",
+      "file_name": "367_23-E-0677_62524final_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/15/2023",
+      "nypuc_doctype": "Letters",
+      "name": "263099 SMR Ack Letter Galvin_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90C7D38B-0000-C118-9EC5-46602477C10E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0677",
+      "file_name": "263099 SMR Ack Letter Galvin_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/15/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "263099 SMR Rehearing Request Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C5D38B-0000-C81D-B51F-FD877621ABCB}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0677",
+      "file_name": "263099 SMR Rehearing Request Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/15/2023",
+      "nypuc_doctype": "Letters",
+      "name": "263099_Galvin_SMD_Final_09252023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0C3D38B-0000-C818-8CE2-F52D63317B41}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0677",
+      "file_name": "263099_Galvin_SMD_Final_09252023_Redacted.pdf"
+    }
+  ]
+}

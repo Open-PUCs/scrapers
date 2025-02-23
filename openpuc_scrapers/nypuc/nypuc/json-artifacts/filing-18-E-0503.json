@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/17/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Acts to Help Build Shelter for Homeless Veterans in Utica",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BE0A4A4-F4BC-461E-A391-8AD139CF90C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0503",
+      "file_name": "pr19004.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of the Individual Residential Living Unit Metering Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={841842A1-042A-4D3B-B307-CB2B83FC0462}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0503",
+      "file_name": "302_18-E-0503.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utica Center for Development, Inc. for a Waiver to allow Master-Metering.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B44EAB7-A5FE-404B-BC84-E5DA1AA18966}",
+      "organization": "Utica Center for Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0503",
+      "file_name": "Request for Waver to Allow Master-Metering.pdf"
+    }
+  ]
+}

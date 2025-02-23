@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0547",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83C837FC-AC2A-4CFC-92EE-47D344FB49B3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0547",
+      "file_name": "163_21-G-0547.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition of Bluestone Gas Corporation of New York, Inc. and DT Midstream, Inc. For Approval of Debt Financing Pursuant to \u00a7 69 of the New York State Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A42341B-1DB8-44B9-ACEA-323783E4150D}",
+      "organization": "Bluestone Gas Corporation of New York, DT Midstream, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-G-0547",
+      "file_name": "Phillips 11-04-2021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Section 69 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33AC98A4-3515-418D-8DE9-56CF5BC284AD}",
+      "organization": "Bluestone Gas Corporation of New York, DT Midstream, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-G-0547",
+      "file_name": "Section 69 Petition 11-04-21 Final.pdf"
+    }
+  ]
+}

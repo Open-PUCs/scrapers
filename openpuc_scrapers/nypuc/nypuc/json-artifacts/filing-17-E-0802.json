@@ -1,0 +1,137 @@
+{
+  "case": "17-E-0802",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/31/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F095C08-BB78-4477-8273-662E03A5A4F5}",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "10",
+      "docket_id": "17-E-0802",
+      "file_name": "Letter PSC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/31/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6161D8DC-E814-4C4A-B5A9-AEF863705C6D}",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "10",
+      "docket_id": "17-E-0802",
+      "file_name": "img-190131130003.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/19/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "9",
+      "docket_id": "17-E-0802",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/19/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "8",
+      "docket_id": "17-E-0802",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/17/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirements and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={869213C0-7CDC-4E49-A4FB-70F79313DF06}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "17-E-0802",
+      "file_name": "371_17-E-0802 Final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E36DFDE-CB91-4013-B25C-E6C91F6557C6}",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0802",
+      "file_name": "PDF 2018.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B028124-4A53-40AC-81BE-02BBF1A69704}",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0802",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/20/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Further Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58005915-BA03-400A-9877-24C00B9E7639}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0802",
+      "file_name": "17-E-0802 Postponement.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/14/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0802",
+      "file_name": ""
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B2B78EE-3026-4209-92E6-C33778242BFC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0802",
+      "file_name": "17-E-0802 Postponement.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "02/22/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "2",
+      "docket_id": "17-E-0802",
+      "file_name": ""
+    },
+    {
+      "serial": "12",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0802",
+      "file_name": ""
+    }
+  ]
+}

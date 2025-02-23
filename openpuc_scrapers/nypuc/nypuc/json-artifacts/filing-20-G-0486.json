@@ -1,0 +1,71 @@
+{
+  "case": "20-G-0486",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5932E2CC-C35B-49D3-983D-F447C87E00AB}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-G-0486",
+      "file_name": "163_20-G-0486 Neg Dec..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfers, Providing for Lightened Regulation, and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C860F06-4517-4BD7-8A4D-068C1681E8CD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0486",
+      "file_name": "163_20-G-0486 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "EAF Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB0F7B7E-956D-4193-9BDF-A57E59AA31BD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-G-0486",
+      "file_name": "20-G-0486 EAF Parts 2 and 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "(EmKey EAF - Cover Letter)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B49B3358-869F-4A26-826E-ABE6588EBED5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-G-0486",
+      "file_name": "20-G-0486 (EmKey EAF - Cover Letter).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition of EmKey, CGE, and CGEV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8C99B56-498C-4506-BDBA-43EB7858B4AC}",
+      "organization": "CGE Ventures, LLC, Chautauqua Green Energy, LLC, Emkey Gathering, LLC",
+      "itemNo": "1",
+      "docket_id": "20-G-0486",
+      "file_name": "Verified Joint Petition of EmKey, CGE, and CGEV.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C09B1E9E-7FF8-4B32-8787-1C610D7269D6}",
+      "organization": "CGE Ventures, LLC, Chautauqua Green Energy, LLC, Emkey Gathering, LLC",
+      "itemNo": "1",
+      "docket_id": "20-G-0486",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

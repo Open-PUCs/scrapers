@@ -1,0 +1,49 @@
+{
+  "case": "20-C-0305",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "BestWeb - New York (NY) Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08D46934-9737-4D0A-AE50-38202D70425D}",
+      "organization": "Best Web CLEC Ltd., FirstLight Fiber, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-C-0305",
+      "file_name": "BestWeb - New York (NY) Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-01330 FirstLight BestWeb OOL Letter Final.signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9686C2B5-A2E3-409D-A628-31E50EED0C89}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0305",
+      "file_name": "20-01330 FirstLight BestWeb OOL Letter Final.signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C6ECC4A-EC3B-439D-B69B-838BFC7C2646}",
+      "organization": "Best Web CLEC Ltd., FirstLight Fiber, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-C-0305",
+      "file_name": "NY Transmittal Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Transfer of Control & Financing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5A6A41C-4212-4334-B8CC-2BC5D1A50DFB}",
+      "organization": "Best Web CLEC Ltd., FirstLight Fiber, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-C-0305",
+      "file_name": "NY Transfer of Control & Financing Petition..pdf"
+    }
+  ]
+}

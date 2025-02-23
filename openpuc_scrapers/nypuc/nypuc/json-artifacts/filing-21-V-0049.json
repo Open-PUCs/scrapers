@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0049",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C747945-3F33-40E4-A022-4296C64E9560}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0049",
+      "file_name": "663_21-V-0049 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Leyden, Lewis County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B3D823B-8059-4665-8912-D5E07024B8B2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0049",
+      "file_name": "2021.01.13 T. LEYDEN RENEWAL FILED-PSC.pdf"
+    }
+  ]
+}

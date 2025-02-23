@@ -1,0 +1,71 @@
+{
+  "case": "15-C-0383",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27F0B827-3624-4269-8615-D8645B300DE7}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-C-0383",
+      "file_name": "15-C-0383 15-C-0091 15-C-0095-Verizon-Extension Ruling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Additional Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B199688-30F3-433F-94BF-B17E0E7290D3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "15-C-0383",
+      "file_name": "Request for Additional Extension of Time.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/25/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling regarding extension of compliance deadline",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5E1A452-B8C9-47B0-AB6C-7030E0D61EA7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-C-0383",
+      "file_name": "15c0383 et al Ltr from Secretary to Clemons re compliance..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/19/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Verizon submits requests for an extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86D2D05D-93CC-42D6-8154-42753278FFB8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "15-C-0383",
+      "file_name": "Verizon Request_For_Extension of Time (Case Nos. 15-C-0383, 15-C-0091, and 15-C-0095).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Retention of Property Tax Refunds",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D795B1CD-B0D1-44DB-9B09-C9EE7F54AB48}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-C-0383",
+      "file_name": "564_15c0383.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/29/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval, Pursuant to Public Service Law Section 113(2), of a Proposed Allocation of Certain Tax Refunds from the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A072098F-41B3-4F14-8F84-E088637B4E1D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "15-C-0383",
+      "file_name": "150629 NYC Tax Refund Notification.pdf"
+    }
+  ]
+}

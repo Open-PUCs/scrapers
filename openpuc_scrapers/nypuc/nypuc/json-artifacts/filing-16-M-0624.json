@@ -1,0 +1,60 @@
+{
+  "case": "16-M-0624",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/24/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE11CA50-8B32-4120-B709-97813E86AE55}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "16-M-0624",
+      "file_name": "NYSEG Compliance Filing_Allied Dog Lease (16-M-0624).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D202FB0-9220-4C4E-B173-8D6ED3257F8B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-M-0624",
+      "file_name": "16-M-0624 Notice of Determination of Significance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/23/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Lease of Certain Real Property",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCA843E3-E544-4C63-A3CF-E1112D67EC5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-M-0624",
+      "file_name": "264_16-M-0624 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C28EC85-0A74-4DBA-AC0B-3FBC4E618FC8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-M-0624",
+      "file_name": "16-M-0624 signed EAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York State Electric & Gas Corporation for Approval of the Lease of Property to Allied Dog Training, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={727C3CE4-0AE7-4CC8-B33A-6DFDB742E8EF}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "16-M-0624",
+      "file_name": "2016-10-21 NYSEG Section 70 Petition_Allied Dog Training LLC Lease.pdf"
+    }
+  ]
+}

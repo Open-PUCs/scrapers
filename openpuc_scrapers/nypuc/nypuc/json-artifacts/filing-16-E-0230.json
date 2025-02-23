@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0230",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B7E259-621A-41DF-B143-E7118D7FB57E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0230",
+      "file_name": "375_16-E-0230.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of CB Tarter Property",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D953E667-3EFB-4F0E-915A-E195013614BF}",
+      "organization": "CB Tarter Property LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0230",
+      "file_name": "letter 9-14-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F0D6A66-C905-49E6-90C6-BC359FC25026}",
+      "organization": "CB Tarter Property LLC",
+      "itemNo": "4",
+      "docket_id": "16-E-0230",
+      "file_name": "letter 9-7-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7017F996-E12E-4416-9746-6749C850ADC7}",
+      "organization": "CB Tarter Property LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0230",
+      "file_name": "additional information 6-20-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/10/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "CB Tarter Property LLC submits request for a waiver of 16 NYCRR 96.5(k)(3).",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1325B81E-A69C-432C-9B42-A405018BFE84}",
+      "organization": "CB Tarter Property LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0230",
+      "file_name": "letter 5-10-16.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 210 East 39th Street, New York City, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A66A593B-4A5A-453C-A627-FFE6AAF7EC5D}",
+      "organization": "CB Tarter Property LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0230",
+      "file_name": "Submetering Application.pdf"
+    }
+  ]
+}

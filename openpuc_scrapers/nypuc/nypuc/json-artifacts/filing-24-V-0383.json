@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0383",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F6AF92-0000-C11E-AB3A-7269E531519C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0383",
+      "file_name": "662_24-V-0383 Letter_102124final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F6AF92-0000-C133-B603-E3D85A566C77}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0383",
+      "file_name": "662_24-V-0383 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement Scheduling Letter _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01C7590-0000-CF3C-B9A5-D3F4790377F4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0383",
+      "file_name": "Acknowledgement Scheduling Ltr - Newsome v Verizon - #341940 _Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901B7590-0000-C138-A56E-429D0DF0034E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-V-0383",
+      "file_name": "Appeal of Informal Hearing Decision #341940_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 05 23 Informal Hearing Response Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20197590-0000-CC3F-9BD1-962AC51FB2C4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-V-0383",
+      "file_name": "2024 05 23 Informal_Hearing_Request_-_KK_Newsome_-_Verizon_-_Billing_Dispute_-_Response_letter_Redacted.pdf"
+    }
+  ]
+}

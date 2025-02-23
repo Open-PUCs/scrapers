@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0614",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD2919E3-4F50-463B-9764-F21D090CB55E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0614",
+      "file_name": "668_20-V-0614.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Deposit Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18B94C00-6C78-4F2E-9F55-2F160C79E582}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0614",
+      "file_name": "Town of Deposit Resolution.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Deposit Franchise Agmt",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D7C3C51-458C-4DB8-B5C5-EA3210DD0A42}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0614",
+      "file_name": "Town of Deposit Franchise Agmt.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Town Deposit Affidavits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E7A44A7-89EE-400B-9FC2-74F6D924E229}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0614",
+      "file_name": "Town Deposit Affidavits.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C18C4998-5346-4281-AF23-D1D0A2D8D87F}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0614",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

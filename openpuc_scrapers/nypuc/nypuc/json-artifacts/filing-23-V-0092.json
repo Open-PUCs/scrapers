@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0092",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A01EB987-0000-C518-BC93-F4420BFC1023}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0092",
+      "file_name": "662_23-V-0092.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50489886-0000-C813-93D9-E90E3255DD5F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0092",
+      "file_name": "Clarkstown Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Town of Clarkstown, Rockland County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3523528-C2C3-45F5-AFB6-0C4E5ABA3443}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0092",
+      "file_name": "Clarkstown Renewal Petition (Complete).pdf"
+    }
+  ]
+}

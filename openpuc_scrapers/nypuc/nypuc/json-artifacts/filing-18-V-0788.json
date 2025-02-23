@@ -1,0 +1,93 @@
+{
+  "case": "18-V-0788",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16CD77F0-7EED-49E8-8CE9-F0F7DFD72792}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0788",
+      "file_name": "668_18-V-0788.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/02/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD9B59C8-0BF8-4621-8951-EC2A94D74AB4}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0788",
+      "file_name": "Kent Newspaper Publication Affidavit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision of Wappingers Falls, Inc. for Approval of the Renewal of its Franchise with the Town of Kent, Putnam County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A44365D1-6259-4FA0-838B-BE894C7A2E52}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0788",
+      "file_name": "Kent - Exhibit IV.PDF"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Kent- Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D453202-8A75-47DA-8D77-E3C2310135FB}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0788",
+      "file_name": "Kent- Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Kent - Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA177FD7-7CE5-4F5E-B297-2AA30F3E4546}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0788",
+      "file_name": "Kent - Exhibit III.PDF"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Kent - Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD1F0EC5-1E2A-4F9D-8B56-D0C7905A58C0}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0788",
+      "file_name": "Kent - Exhibit II.PDF"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Kent - Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CDEC98D7-2552-42AB-B087-3A1780197639}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0788",
+      "file_name": "Kent - Exhibit I.PDF"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E1CFA32-5B84-468B-BA8F-2DD21DE1EF03}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0788",
+      "file_name": "Kent, Application Cover Letter.pdf"
+    }
+  ]
+}

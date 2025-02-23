@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0125",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13BD65F0-8521-4328-A6FB-0107DF01FFED}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0125",
+      "file_name": "161-A_17-G-0125.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "May 5 2017 Email Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D82D5A3-8A72-4AF8-A461-C0C3B7E20EC3}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-G-0125",
+      "file_name": "May 5 2017 Email Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F64AFCA-7BDF-450B-9F65-792587E29316}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0125",
+      "file_name": "165_17g0125 - 5.1.pdf"
+    }
+  ]
+}

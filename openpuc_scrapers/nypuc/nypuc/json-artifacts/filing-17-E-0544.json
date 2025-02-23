@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0544",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52F8E445-8EB9-489D-A3D4-9A8815695FF9}",
+      "organization": "BLDG 44 Developers, LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0544",
+      "file_name": "compliance letter 5-14-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised submetering ID Form for 222 East 44th Street, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA7C701F-B054-47CD-8B11-580A994A8398}",
+      "organization": "BLDG 44 Developers, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0544",
+      "file_name": "revised submetering ID form.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB631BFA-1627-45D5-A809-E480C6C0E141}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0544",
+      "file_name": "366_17-E-0544.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BB15A6F-AD46-4F3A-B089-583C0C0B24F5}",
+      "organization": "BLDG 44 Developers, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0544",
+      "file_name": "response letter 12-19-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of BLDG 44 Developers, LLC to Submeter Electricity at 222 East 44th Street New York, NY 10017, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={641BF196-6C43-4F76-A143-F1FA0E9A419D}",
+      "organization": "BLDG 44 Developers, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0544",
+      "file_name": "submetering application -9-7-17.pdf"
+    }
+  ]
+}

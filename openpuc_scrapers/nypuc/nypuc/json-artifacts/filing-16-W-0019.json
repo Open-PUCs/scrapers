@@ -1,0 +1,93 @@
+{
+  "case": "16-W-0019",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "SRR Customer Ltr 07 13 16 PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7222782B-75A1-422F-8352-C4041B7F47B2}",
+      "organization": "Rainbow Water Company, Inc., Sunrise Ridge Water Company",
+      "itemNo": "6",
+      "docket_id": "16-W-0019",
+      "file_name": "SRR Customer Ltr 07 13 16 PSC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "RWC Customer Ltr 07 13 16 PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA4919BD-C998-4FE2-8768-3F1DD60236D7}",
+      "organization": "Rainbow Water Company, Inc., Sunrise Ridge Water Company",
+      "itemNo": "6",
+      "docket_id": "16-W-0019",
+      "file_name": "RWC Customer Ltr 07 13 16 PSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rainbow Water Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-W-0019",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/28/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rainbow Water Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-W-0019",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39692CAC-E064-419B-9D89-14368920C095}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-W-0019",
+      "file_name": "464_16w0019.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/09/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supporting Documents - Part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98BF9D03-7966-44A3-8190-C791F1D411F0}",
+      "organization": "Rainbow Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0019",
+      "file_name": "Part 2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/09/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supporting Documents - Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E8DAFAE-F21D-4A8D-9402-B2F1FE2D4B35}",
+      "organization": "Rainbow Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0019",
+      "file_name": "Part 1.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/15/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rainbow Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0019",
+      "file_name": ""
+    }
+  ]
+}

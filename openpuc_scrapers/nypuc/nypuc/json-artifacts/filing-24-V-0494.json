@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0494",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0515493-0000-CE1A-8B87-7DBEF33883FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0494",
+      "file_name": "661_24-V-0494 112224final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Kirkwood Agreement 20240806",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0499991-0000-C234-8B57-047DE5080666}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "24-V-0494",
+      "file_name": "Kirkwood Agreement 20240806.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0499991-0000-CF18-831A-DDB3A34FDB2B}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "24-V-0494",
+      "file_name": "Kirkwood NYPSC Cover Ltr 20240828.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Kirkwood Resolution 20240806",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0499491-0000-CF5E-875F-24033E56BDD3}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0494",
+      "file_name": "Town of Kirkwood Resolution 20240806.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Kirkwood Agreement 20240806",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0499491-0000-CE91-B3D9-1AD94E134D61}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0494",
+      "file_name": "Town of Kirkwood Agreement 20240806.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Kirkwood Town Attachment B 20240611",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0499491-0000-C170-B5D2-3D07D21C37F7}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0494",
+      "file_name": "Kirkwood Town Attachment B 20240611.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Kirkwood Legal Notice 2 Affidavit - Ad 20240813",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0499491-0000-C334-B5E5-7A362C953251}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0494",
+      "file_name": "Kirkwood Legal Notice 2 Affidavit - Ad 20240813.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Kirkwood Legal Notice 1 Affidavit - Ad 20240723",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0499491-0000-C619-85C1-C9DB811B53C3}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0494",
+      "file_name": "Kirkwood Legal Notice 1 Affidavit - Ad 20240723.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0499491-0000-C710-B676-963BD9EC5B19}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0494",
+      "file_name": "Kirkwood NYPSC Cover Ltr 20240827.pdf"
+    }
+  ]
+}

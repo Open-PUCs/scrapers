@@ -1,0 +1,27 @@
+{
+  "case": "21-M-0114",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/18/2021",
+      "nypuc_doctype": "Memorandum and Resolution",
+      "name": "Resolution to Certify the Need for Additional Commissioners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D586CE7-AA31-43D7-963E-9AF43F30FE01}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-M-0114",
+      "file_name": "21-M-0114 -Resolution.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Governor Andrew Cuomo to Certify the Need for Additional Commissioners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1759E907-E7CA-4308-9DAC-49584401A902}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-M-0114",
+      "file_name": "21-M-0114 - Additional Cssr. Resolution Cover Ltr..pdf"
+    }
+  ]
+}

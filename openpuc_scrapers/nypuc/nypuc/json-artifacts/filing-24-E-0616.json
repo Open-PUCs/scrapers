@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0616",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2023 07 13 Requesting an Appeal to Commision Decision 1 of 2_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1050E492-0000-C327-81C1-CCF037E8076D}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0616",
+      "file_name": "2023 07 13 Requesting an Appeal to Commision Decision 1 of 2_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Request - Response_Letter_6.29.23_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B04DE492-0000-CB3A-9EC7-85A83A258C5D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0616",
+      "file_name": "Case_251672_-_IH_Request_-_Zissis_Takantzas_-_Con_Edison_-_Smart_Meter_Concerns_-_Response_Letter_6.29.23_Redacted.pdf"
+    }
+  ]
+}

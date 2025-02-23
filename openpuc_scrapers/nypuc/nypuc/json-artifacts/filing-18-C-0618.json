@@ -1,0 +1,60 @@
+{
+  "case": "18-C-0618",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37D9E84A-747D-4A5E-8BF7-40BA877FC752}",
+      "organization": "Greenlight Networks Holding Corp., Greenlight Networks, LLC",
+      "itemNo": "4",
+      "docket_id": "18-C-0618",
+      "file_name": "Letter to NY PSC Secretary to the Commission Re. Case 18-C-0618 - Greenlight Networks.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-C-0618.Greenlight Networks.122718.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B1BCCE7-EB30-4E43-A40C-A7FC41233502}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-C-0618",
+      "file_name": "18-C-0618.Greenlight Networks.122718.Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Filing Letter to RAO Requesting Confidential Treatment (003)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE0615D8-12A9-4A5F-9288-91C16190AB1E}",
+      "organization": "Greenlight Networks, LLC",
+      "itemNo": "2",
+      "docket_id": "18-C-0618",
+      "file_name": "Filing Letter to RAO Requesting Confidential Treatment (003).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Greenlight Networks Holding Corp. and Greenlight Networks, LLC for Approval of Internal Reorganization.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53D575E5-F97D-4C6F-A4F6-FCF2B70F7CF4}",
+      "organization": "Greenlight Networks Holding Corp., Greenlight Networks, LLC",
+      "itemNo": "1",
+      "docket_id": "18-C-0618",
+      "file_name": "Joint Petition for Approval of Internal Reorganization - PUBLIC VERSION (6616827).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AF667E3-DEBB-4BCA-AE2A-5EE9AB60FBD3}",
+      "organization": "Greenlight Networks Holding Corp., Greenlight Networks, LLC",
+      "itemNo": "1",
+      "docket_id": "18-C-0618",
+      "file_name": "Filing Letter to Secretary of PSC enclosing Public Petition.pdf"
+    }
+  ]
+}

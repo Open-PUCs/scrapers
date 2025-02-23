@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0278",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "The Additional Information Requested",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={904B4E92-0000-C912-A354-3BC01C2FBB66}",
+      "organization": "108 St Edwards Street Housing Development Fund Corporation, c/o WestHab, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0278",
+      "file_name": "additional information (2).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/07/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 108 St Edwards Strfeet Housing Develpment Fund Corporation, c/o WestHab, Inc. to Submeter Electricity at 108 St Edward's Street, Brooklyn. Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AA548F-0000-C313-832C-1E92A082C2D9}",
+      "organization": "108 St Edwards Street Housing Development Fund Corporation, c/o WestHab, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0278",
+      "file_name": "submetering application (9).pdf"
+    }
+  ]
+}

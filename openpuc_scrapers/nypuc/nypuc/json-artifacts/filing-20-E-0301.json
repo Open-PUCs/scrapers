@@ -1,0 +1,302 @@
+{
+  "case": "20-E-0301",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correspondence Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={729AD55E-CA97-4F57-9A41-6D323A0F1F76}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "7",
+      "docket_id": "20-E-0301",
+      "file_name": "Correspondence Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12B41C52-1B5C-4F87-9769-379B3F59587C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0301",
+      "file_name": "382 - 20-E-0301 25 Park Row Submetering Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/18/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 25 Park Row, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16095C9F-C69B-4B93-BE62-1B9D61DB4193}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "5",
+      "docket_id": "20-E-0301",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DA2FD48-0389-4ACD-B5A5-C434FAACBEFC}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "4",
+      "docket_id": "20-E-0301",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "cover Letter for additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={244CF398-049D-4B26-93B3-8A8F226BE157}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "3",
+      "docket_id": "20-E-0301",
+      "file_name": "cover Letter for additional information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Average Rate Sample Invoice 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63BEBED7-6725-447B-AC18-41B8FE9F30F4}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "3",
+      "docket_id": "20-E-0301",
+      "file_name": "Average Rate Sample Invoice 1.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE684176-B479-4881-B00E-C5F7265BD288}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "2",
+      "docket_id": "20-E-0301",
+      "file_name": "Submetering Identification Form.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Resident Assest Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A94E799F-DC59-423A-AC5A-3A02D83B4081}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "2",
+      "docket_id": "20-E-0301",
+      "file_name": "Resident Assest Form.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFDEADAB-89E9-4A36-9A9C-F474DC92F359}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "2",
+      "docket_id": "20-E-0301",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering offering Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32445103-D218-4918-820A-B0A21A56D1D0}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Submetering offering Plan.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Special Protections Registration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={219ADE1D-F7CC-4FB0-904A-655B48A07855}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Special Protections Registration.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Quarterly Billing Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF7E5255-E5CD-4F3E-A90A-31D9A0731AD8}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Quarterly Billing Plan.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Past Due Reminder Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89F5F778-ADE8-4A19-BE89-00E6B4C5C94F}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Past Due Reminder Notice.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notification of Rights (24)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF83E583-604C-4574-B74F-4A26CA54FE56}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Notification of Rights (24).pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice to Social Services",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F27A1B-7254-435E-A30C-FDE291E4F448}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Notice to Social Services.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "New Doc OCR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D16E8B8D-DE23-46C1-AA98-A6A49201307E}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "New Doc OCR.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Final Termination Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D5443F3-DB07-49DD-AD92-C273CB5C6A14}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Final Termination Notice.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Failure to Make Payment Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DAA3B01A-8F0C-482C-AF1E-F86F6D0D6943}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Failure to Make Payment Notice.pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Energy Saving Ideas - OCR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51C3A6C4-4E15-4078-B825-6EBE9DB6DEEA}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Energy Saving Ideas - OCR.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Deferred Payment Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CFF82E7-C73F-4291-A7ED-909282B1AED0}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Deferred Payment Agreement.pdf"
+    },
+    {
+      "serial": "21",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9F40DF4-3878-4C3F-B2FE-5468B241F721}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "22",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={136E7883-5894-4BD3-9121-0B7E76613F0A}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Con Edison Letter.pdf"
+    },
+    {
+      "serial": "23",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Budget Billing Plan - v2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34B6DBCB-3FC3-4568-B7D8-8B05D9ED30EB}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Budget Billing Plan - v2.pdf"
+    },
+    {
+      "serial": "24",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Average Rate breakdown2 - OCR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93848B7D-8559-47F3-BD2D-587C1F1ED7BA}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Average Rate breakdown2 - OCR.pdf"
+    },
+    {
+      "serial": "25",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Average Rate Sample Invoice - OCR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0BEC8C5-2050-45EC-8968-76763656EB56}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "Average Rate Sample Invoice - OCR.pdf"
+    },
+    {
+      "serial": "26",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "25 Park Row. PSC Petition to Submeter Letter - OCR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1F113AE-7A4C-4A28-BB05-7792F7879C31}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "25 Park Row. PSC Petition to Submeter Letter - OCR.pdf"
+    },
+    {
+      "serial": "27",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "25 Park Row Condominium - EIN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B50FF448-D5A6-4BF4-8486-D9CB0EFFC9F5}",
+      "organization": "25 Park Row Condominium",
+      "itemNo": "1",
+      "docket_id": "20-E-0301",
+      "file_name": "25 Park Row Condominium - EIN.pdf"
+    }
+  ]
+}

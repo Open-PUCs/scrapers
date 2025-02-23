@@ -1,0 +1,60 @@
+{
+  "case": "15-W-0508",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer notification letter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14248857-6E47-4296-A083-73DB5E106A08}",
+      "organization": "William K. Green",
+      "itemNo": "5",
+      "docket_id": "15-W-0508",
+      "file_name": "Case 15-W-0508 William K. Green.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "William K. Green",
+      "itemNo": "4",
+      "docket_id": "15-W-0508",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement and Authorizing Surcharge",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FA69E2B-8673-4EE4-B2FE-D958DA282C83}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-W-0508",
+      "file_name": "463_15w0508.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information - W Green Income Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DD6B85D-4442-4268-A15B-72B578A27346}",
+      "organization": "William K. Green",
+      "itemNo": "2",
+      "docket_id": "15-W-0508",
+      "file_name": "w green filed income statement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/28/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "William K. Green",
+      "itemNo": "1",
+      "docket_id": "15-W-0508",
+      "file_name": ""
+    }
+  ]
+}

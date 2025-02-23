@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0564",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance, Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23DFC4EE-BAD5-478C-8554-4D29065EB9BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-V-0564",
+      "file_name": "662_19-V-0564_Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DD0E8EA-50DC-4DA5-AA56-38E193F5FB3A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-V-0564",
+      "file_name": "662_19-V-0564_Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "19-V-0564 Empire Video Services Corporation - C. of Elmira SEAF Part 2&3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7037C7A3-A01A-40EA-B632-6CC5C26F4C7E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-V-0564",
+      "file_name": "19-V-0564 Empire Video Services Corporation - C. of Elmira SEAF Part 2&3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of the Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CABEDB75-820B-4CAA-960A-3A48F5CBF16D}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "4",
+      "docket_id": "19-V-0564",
+      "file_name": "Affidavit of the Proof of Publication Case 19-V-0564.pdf (93 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/18/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certified Ordinance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDC411A0-DB40-4DFE-8FE1-E638537854DF}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "3",
+      "docket_id": "19-V-0564",
+      "file_name": "Certified Ordinance Case 19-V-0564.pdf (167 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the City of Elmira, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C150D4E-68C7-4C6A-BBEB-F71CEC6F1CB5}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0564",
+      "file_name": "PSC Complete Filing City of Elmira Franchise.pdf (2 MB)"
+    }
+  ]
+}

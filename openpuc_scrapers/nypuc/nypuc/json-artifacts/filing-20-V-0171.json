@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0171",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2397879-56EC-4CBE-848C-4DB96FA4AF69}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0171",
+      "file_name": "667_20-V-0171 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02871 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58CBBA4B-C4B3-48F5-9DAE-FA922D6CFEEF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0171",
+      "file_name": "19-02871 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Entry (MDU) - 260 - 262 Kent Avenue (Two Trees Management)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8EB5AD70-8281-49E3-BC5F-4B0E54CB397D}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0171",
+      "file_name": "Petition for Order of Entry (MDU) - 260 - 262 Kent Avenue (Two Trees Management).pdf (543 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CF58BAD-8DAF-40FF-864B-5082F91D645F}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0171",
+      "file_name": "Cover Letter - Petition for Order of Entry (MDU) - 260 - 262 Kent Avenue (Two Trees Management).PDF (24 KB)"
+    }
+  ]
+}

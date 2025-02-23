@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0513",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering Test Form - 552 West 24th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D9EAACE-BE1A-4DAB-83DF-4B5B98BC29CF}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "15-E-0513",
+      "file_name": "submetering test form 2-18-15.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13BE1307-3109-4DEA-B2FB-A24D3BE0EB25}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0513",
+      "file_name": "365_15e0513.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Owner Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89B0E1BE-C659-4FD5-B919-F2138D5E6D1B}",
+      "organization": "560 West 24th Street Condominium",
+      "itemNo": "3",
+      "docket_id": "15-E-0513",
+      "file_name": "Owner Notification Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Submetering Offering Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3255955A-2595-4660-883D-06FAEEAD92D5}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "15-E-0513",
+      "file_name": "revised submetering offering plan 15.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/09/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Offering Plan 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F16938FD-3697-4452-B054-193B26AB50FB}",
+      "organization": "560 West 24th Street Condominium",
+      "itemNo": "1",
+      "docket_id": "15-E-0513",
+      "file_name": "Offering Plan 2.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/09/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Offerign Plan 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09285EA1-51BC-4417-8242-E1FBBBA6FB79}",
+      "organization": "560 West 24th Street Condominium",
+      "itemNo": "1",
+      "docket_id": "15-E-0513",
+      "file_name": "Offerign Plan 1.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/09/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 560 West 24th Street Condominium to Submeter Electricity at 552 West 24th Street, New York, NY 10011, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B17848C-686F-4E17-8BD1-6481086EAC25}",
+      "organization": "560 West 24th Street Condominium",
+      "itemNo": "1",
+      "docket_id": "15-E-0513",
+      "file_name": "Notice of Intent .pdf"
+    }
+  ]
+}

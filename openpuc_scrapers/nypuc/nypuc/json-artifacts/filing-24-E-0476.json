@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0476",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Test report, SVA 362, Ser No 3027702",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={808C5791-0000-C012-AFFA-4921AAD782A7}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0476",
+      "file_name": "Test report, SVA 362, Ser No 3027702.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NGRID - Trench SVA PT Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={708C5791-0000-CC4E-B180-CA9B7CFF53F8}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0476",
+      "file_name": "NGRID - Trench SVA PT Letter of Intent 04152024.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={708C5791-0000-C21A-9674-FDCD622A5FAC}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0476",
+      "file_name": "August 2024 SVA Request Letter Trench Rev 2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Clean AIr VT, SVA 362 Outline dwg 615874",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={708C5791-0000-C240-BBFE-A918AB13CB0B}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0476",
+      "file_name": "Clean AIr VT, SVA 362 Outline dwg 615874 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Clean AIr VT, SVA 362 Nameplate dwg 615869",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={708C5791-0000-CA22-9F5C-35696D38FE9F}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0476",
+      "file_name": "Clean AIr VT, SVA 362 Nameplate dwg 615869 .pdf"
+    }
+  ]
+}

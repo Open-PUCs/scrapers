@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0609",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB0A6F2E-0B12-4B51-8391-69B42ADD2E5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0609",
+      "file_name": "662_22-V-0609.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={635A5504-C91A-41BC-A83F-AA76007E6B34}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0609",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Farnham Letter R-2-10.24.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79BE6E1E-B4BE-4710-8406-4955D0A29368}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0609",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Farnham Letter R-2-10.24.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Farnham Request for Renewal, Certificate of Confirmation (Redacted) -10.24.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09B90049-5556-4FDC-B96B-48D92DE584EC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0609",
+      "file_name": "Charter Communications, V. Farnham Request for Renewal, Certificate of Confirmation (Redacted) -10.24.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Farnham Cover Letter Request - for Renewal, Certificate of Confirmation 10.24.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FFB36F5-2738-49D8-AA63-83EB703608B8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0609",
+      "file_name": "Charter Communications, V. Farnham Cover Letter Request - for Renewal, Certificate of Confirmation 10.24.22.pdf"
+    }
+  ]
+}

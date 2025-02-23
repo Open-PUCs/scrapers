@@ -1,0 +1,104 @@
+{
+  "case": "19-E-0506",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Final Accounting Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32118E1E-7072-4705-A9F9-EA54C2D07309}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "7",
+      "docket_id": "19-E-0506",
+      "file_name": "CASE 19-E-0506, Final Accounting Entries.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D964ADB6-DE29-46C2-B967-57D2BD68AAFD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "19-E-0506",
+      "file_name": "Case 19-E-0506 SEAF Parts 2 and 3.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/13/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C0F1344-F6F3-4C1A-B14A-7C5D402F786A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0506",
+      "file_name": "366_19-E-0506 Notice Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/13/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Property Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E15F2DB4-BDCA-4330-8067-997E12D00F0A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0506",
+      "file_name": "366_19-E-0506 Order Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/15/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Schedules B and D",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E3943D2-FBF0-4395-89D3-D3B3CA6EC95A}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-E-0506",
+      "file_name": "19-01174 S. Nyack Revised Schedules.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/15/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C41FB82F-B0B3-440C-A6CB-03586E92F29F}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-E-0506",
+      "file_name": "19-01174 Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/08/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Requiring Further Review of Property Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84CD4CDF-BBCD-4D0B-A9F1-6D47404B2DFC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0506",
+      "file_name": "364_19-E-0506.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Orange and Rockland Utilities, Inc. for Approval, Pursuant to Public Service Law Section 70, to Transfer to the Village of South Nyack the Street Lighting Facilities with an Original Value under $100,000.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={168DF1ED-0BA5-431F-B816-39BEABC2842D}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0506",
+      "file_name": "OR and South Nyack Section 70.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E3AB882-93FC-45C7-86E2-16FE9CA38B33}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0506",
+      "file_name": "O&R Section 70 re S Nyack Street Lights - Cover Letter.pdf"
+    }
+  ]
+}

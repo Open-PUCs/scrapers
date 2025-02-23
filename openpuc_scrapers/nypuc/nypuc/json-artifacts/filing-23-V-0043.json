@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0043",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0300587-0000-C511-BB54-100021AB73CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0043",
+      "file_name": "663_23-V-0043.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AF4B835-3377-4C15-BE5F-E7CBE2A084F8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0043",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Bainbridge Letter 01.18.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={318BDC17-F514-4FE4-BD14-3A604ADACA2E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0043",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Bainbridge Letter 01.18.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Bainbridge Request for Renewal, Certificate of Confirmation (Redacted) 1.18.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B96B6A13-E7E2-41FA-BCC3-9DC08DC0BD5F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0043",
+      "file_name": "Charter Communications, T. Bainbridge Request for Renewal, Certificate of Confirmation (Redacted) 1.18.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Bainbridge Cover Letter- Request for Renewal, Certificate of Confirmation 01.18.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0402B93-411D-43BA-954F-A975860BCB9F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0043",
+      "file_name": "Charter Communications, T. Bainbridge Cover Letter- Request for Renewal, Certificate of Confirmation 01.18.23.pdf"
+    }
+  ]
+}

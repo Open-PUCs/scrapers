@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0257",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Converge_RGT_NY_Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={347CFB9C-CA3F-4E2F-8F66-805B834E2E13}",
+      "organization": "ConvergeOne, Inc., RGT Utilities, Inc.",
+      "itemNo": "5",
+      "docket_id": "17-C-0257",
+      "file_name": "Converge_RGT_NY_Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54F86E45-775D-4613-B238-8861FE75F28A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-C-0257",
+      "file_name": "561_17-C-0257.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/09/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY_Amend_Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3244C7F0-2516-4049-92E1-18B5FF51FAD5}",
+      "organization": "ConvergeOne, Inc., RGT Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-C-0257",
+      "file_name": "NY_Amend_Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of RGT Utilities, Inc., ConvergeOne, Inc. for Approval of a Transfer or Lease of Property with an Original Cost of Over $100,000.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEA504D8-3CFF-4253-80A1-BD5AFD7BFD03}",
+      "organization": "ConvergeOne, Inc., RGT Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0257",
+      "file_name": "{9BBF22F3-6440-4576-92D5-CB9107AF10FB}.pdf"
+    }
+  ]
+}

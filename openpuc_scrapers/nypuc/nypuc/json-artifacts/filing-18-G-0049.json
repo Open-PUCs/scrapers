@@ -1,0 +1,38 @@
+{
+  "case": "18-G-0049",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EF99A4E-3D94-4590-BDDB-663BB51BAA80}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0049",
+      "file_name": "162-C_18-G-0049.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Notice of Violation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF4B1BFE-45BB-40DA-8B4E-E4CD3F4A7BDB}",
+      "organization": "Gallo Construction Corp.",
+      "itemNo": "2",
+      "docket_id": "18-G-0049",
+      "file_name": "Letter Regarding Notice of Violation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/06/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DA73248-D8AD-496A-B1E0-7252B3E7962B}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0049",
+      "file_name": "164A_18g0049 - 3.6.pdf"
+    }
+  ]
+}

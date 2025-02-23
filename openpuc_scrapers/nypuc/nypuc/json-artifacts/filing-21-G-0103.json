@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0103",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2022",
+      "nypuc_doctype": "Affidavit of Service",
+      "name": "20121129 Final Order Service Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F78B29D2-A3B3-40B9-B19E-193776D76FB7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "21-G-0103",
+      "file_name": "20121129 final order service affidavit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DA07293-38E4-4F26-8003-7DEC7AE5CCDC}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "21-G-0103",
+      "file_name": "164-C_21-G-0103.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/25/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={443B3A19-DA5C-4E45-8A4D-4131200641B0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0103",
+      "file_name": "168-A_21-G-0103.pdf"
+    }
+  ]
+}

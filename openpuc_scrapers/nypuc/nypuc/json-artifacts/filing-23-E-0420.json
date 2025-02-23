@@ -1,0 +1,192 @@
+{
+  "case": "23-E-0420",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Summary Post Closing JEs City of Amsterdam",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D050A092-0000-C22B-AEEA-878E08E74AFE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "23-E-0420",
+      "file_name": "Summary Post Closing JEs City of Amsterdam.xlsx"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C City of Amsterdam 06-2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D050A092-0000-C34C-869C-5AD5CCB6E1A5}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "23-E-0420",
+      "file_name": "Schedule C City of Amsterdam 06-2024.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C050A092-0000-C214-89F7-64D3C59E44CB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "23-E-0420",
+      "file_name": "City of Amsterdam Journal Entry Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/22/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={402C078F-0000-C250-BDC9-C1B34398CED2}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-E-0420",
+      "file_name": "383_23-E-0420 Neg Dec.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={602A078F-0000-C631-8417-7E156DD048FA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0420",
+      "file_name": "383_23-E-0420_Order final 42224.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2060618D-0000-C312-AA04-A8AB2EF44351}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-E-0420",
+      "file_name": "23-E-0420 SEAF Forms 2 and 3 with Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Opposition to Motion Amsterdam Section 70 Abeyance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E080CA8B-0000-C83C-A1BF-304758EF0B47}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "23-E-0420",
+      "file_name": "Opposition to Motion Amsterdam Section 70 Abeyance.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E080CA8B-0000-C111-9068-25B3F3875982}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "23-E-0420",
+      "file_name": "Amsterdam Abeyance Opposition Cover Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "IBEW 97 Motion to Hold Petition in Abeyance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B083968B-0000-CA1C-BFC6-B4ACE6925C7A}",
+      "organization": "International Brotherhood of Electrical Workers Local Union No. 97",
+      "itemNo": "2",
+      "docket_id": "23-E-0420",
+      "file_name": "IBEW 97 Motion to Hold Petition in Abeyance Amsterdam 4894-8623-4509 v.1.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B083968B-0000-C538-90F4-0FC53BC6F60E}",
+      "organization": "International Brotherhood of Electrical Workers Local Union No. 97",
+      "itemNo": "2",
+      "docket_id": "23-E-0420",
+      "file_name": "IBEW 97 Cover Letter Regarding Motion to Hold in Abeyance Amsterdam.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Work Papers for City of Amsterdam",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8073AD89-0000-CF5E-82C9-74DB08C5D102}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0420",
+      "file_name": "Schedule D Work Papers for City of Amsterdam.xlsx"
+    },
+    {
+      "serial": "12",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule C Work Papers for City of Amsterdam",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8073AD89-0000-C534-BF3E-F76918E5DB3A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0420",
+      "file_name": "Schedule C Work Papers for City of Amsterdam.xlsx"
+    },
+    {
+      "serial": "13",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7073AD89-0000-CA7C-9C05-7AB41874C9BB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0420",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "City of Amsterdam Section 70 Petition and Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8073AD89-0000-CD11-AD14-69FB15CCFD3E}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0420",
+      "file_name": "City of Amsterdam Section 70 Petition and Schedules.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "City of Amsterdam Section 70 Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8073AD89-0000-CA7F-B4CE-CC95145B7759}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0420",
+      "file_name": "City of Amsterdam Section 70 Cover letter.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Motions",
+      "name": "City of Amsterdam RAO Section 70 Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7073AD89-0000-CB5D-AA78-682DC8938E37}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0420",
+      "file_name": "City of Amsterdam RAO Section 70 Letter.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Amsterdam, City of - Inventory - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7073AD89-0000-C03B-87EE-7EE36FE8F785}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0420",
+      "file_name": "Amsterdam, City of - Inventory - Redacted.pdf"
+    }
+  ]
+}

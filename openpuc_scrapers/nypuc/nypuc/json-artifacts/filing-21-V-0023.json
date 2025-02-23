@@ -1,0 +1,82 @@
+{
+  "case": "21-V-0023",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA5EB26C-DC4E-4FC5-8B1B-1CD8504D4394}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-V-0023",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={435D210A-2A77-4268-ACA1-29B2E3400930}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0023",
+      "file_name": "663_21-V-0023.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02846 Corrected Letter To Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={850CF788-C3B6-4CFE-8C41-DAC549A1CD86}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-V-0023",
+      "file_name": "19-02846 Corrected Letter To Building Owner.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/15/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02846.Order of Entry Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EF47D3E-C728-4B41-97A8-5BFB8A62D173}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0023",
+      "file_name": "19-02846.Order of Entry Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2829 Haring Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6408C68-8CB4-4688-9FA5-23382EA7B986}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0023",
+      "file_name": "Petition (2829 HARING ST).pdf (95 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F04188C1-6426-42A5-82DC-FE1AC60527B6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0023",
+      "file_name": "Exhibit 2 (2829 HARING ST).pdf (82 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7DB2B4E-CA87-4916-9145-E6784DDEC5FD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0023",
+      "file_name": "Exhibit 1 (2829 HARING ST).pdf (1 MB)"
+    }
+  ]
+}

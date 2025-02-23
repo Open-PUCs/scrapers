@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0289",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCED58C6-111D-48CC-B543-79986494EE4B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0289",
+      "file_name": "663_17-V-0289.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/22/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Sloan, Erie County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42D1D479-D776-4B6E-8C1C-CDE08F6987E3}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0289",
+      "file_name": "SLOAN, VILLAGE FRANCHISE RENEWAL SUBMISSION TO PSC, 05.22.17.pdf"
+    }
+  ]
+}

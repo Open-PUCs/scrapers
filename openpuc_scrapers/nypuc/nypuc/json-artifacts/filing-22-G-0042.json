@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0042",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8EAFAA0-F281-48C0-B2F7-7C65ACBE8CFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0042",
+      "file_name": "161-B_22-G-0042 - Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85772598-2C8A-450E-9BF8-DB51C50B4796}",
+      "organization": "The Laurel Group",
+      "itemNo": "5",
+      "docket_id": "22-G-0042",
+      "file_name": "petition for rehearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/28/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E39F2796-FA93-443B-A0ED-15B44F3991D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0042",
+      "file_name": "161-A_22-G-0042.pdf"
+    }
+  ]
+}

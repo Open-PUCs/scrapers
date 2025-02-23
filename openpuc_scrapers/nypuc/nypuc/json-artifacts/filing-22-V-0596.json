@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0596",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AE4781A-361A-48CC-B15F-53F0D1747C07}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0596",
+      "file_name": "661_22-V-0596.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/13/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01660 Letter to Building Owner 433 W 126",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E216C42-8E13-4297-802A-430E0C0BA53C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0596",
+      "file_name": "22-01660 Letter to Building Owner 433 W 126.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 433 West 126th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={046EC077-DC59-4244-A004-70BDAC7ED5FB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0596",
+      "file_name": "220823-4 Petition (433 W 126 ST) (Post-Survey).pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0426",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0426 Cueba Ack Letter 08252020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE29402C-296D-4153-ABB6-D6DB4A68AC15}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0426",
+      "file_name": "20-E-0426 Cueba Ack Letter 08252020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0426 Cueba Rehearing Request 06242020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17C76DFF-0DC1-4E40-8166-F7D2932B4EC3}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0426",
+      "file_name": "20-E-0426 Cueba Rehearing Request 06242020.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0426 Cueba SMD Final 05292020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98DD1DB8-1D22-44F1-91F2-3137851C7F94}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0426",
+      "file_name": "20-E-0426 Cueba SMD Final 05292020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/25/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8516E3F9-5009-495E-8644-937040993AF6}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0426",
+      "file_name": "364 letter final_Redacted.pdf"
+    }
+  ]
+}

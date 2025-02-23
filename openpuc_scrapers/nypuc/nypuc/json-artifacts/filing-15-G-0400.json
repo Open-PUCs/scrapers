@@ -1,0 +1,71 @@
+{
+  "case": "15-G-0400",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Confirmation of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61CE01C6-6351-4D53-9A11-2BC2F35A0F1B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-G-0400",
+      "file_name": "Marmara Appeal Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75191C6D-FFA7-421C-B01F-24BD2F3E91B2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0400",
+      "file_name": "163 Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E26EE178-437B-4A33-A12F-028CF0FD6F24}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0400",
+      "file_name": "163 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/13/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement of Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FE3B855-72BF-491C-8E4E-66CF14DDF66E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-G-0400",
+      "file_name": "416294_Ack_Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/09/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17218794-1891-468D-8B9D-E093A2F80A59}",
+      "organization": "Marmara Inc.",
+      "itemNo": "2",
+      "docket_id": "15-G-0400",
+      "file_name": "Marmara Inc v Con Ed OCS Case 416294.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/09/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CCB3E20-3E4E-4725-A94A-81A6E7BD3354}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-G-0400",
+      "file_name": "Marmara case 416294 Determination.pdf"
+    }
+  ]
+}

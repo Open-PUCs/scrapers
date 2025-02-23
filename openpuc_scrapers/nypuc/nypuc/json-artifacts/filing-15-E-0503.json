@@ -1,0 +1,60 @@
+{
+  "case": "15-E-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "15-E-0503 Ruark Response 09112015_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3FD108E-78C8-49B2-8A26-0B4040FF2688}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "15-E-0503",
+      "file_name": "15-E-0503 Ruark Response 09112015_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "15-E-0503 Jacoby Rehearing Request 08032015_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={671B475E-2B6D-4E63-BB90-2391088C3C55}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "15-E-0503",
+      "file_name": "15-E-0503 Jacoby Rehearing Request 08032015_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "15-E-0503 Jacoby SMD Final 06162015_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B47F9BFC-55B9-40CA-BB03-919FBB017320}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-E-0503",
+      "file_name": "15-E-0503 Jacoby SMD Final 06162015_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a petition for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={684C648F-4962-4453-940E-3DDFED41A0C8}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "15-E-0503",
+      "file_name": "379 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1841DB4-1AF9-461D-81DB-06BE201BF012}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "15-E-0503",
+      "file_name": "379 Determination.pdf"
+    }
+  ]
+}

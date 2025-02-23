@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0313",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5623B3A-C1C3-40AC-8080-435A834B4A64}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0313",
+      "file_name": "661_16v0313.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Riverhead - Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CF89A9C-0B87-4D41-A85E-EE4B984A4CBC}",
+      "organization": "Cablevision Systems Corp.",
+      "itemNo": "2",
+      "docket_id": "16-V-0313",
+      "file_name": "Riverhead Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Riverhead Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9D88985-B1EF-4373-BE76-480B9AA29956}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0313",
+      "file_name": "Riverhead Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Riverhead Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09086F7E-3967-4C80-855E-F118D9C147E9}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0313",
+      "file_name": "Riverhead Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Riverhead Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B732DC88-EF70-485F-B152-E551AD14B86E}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0313",
+      "file_name": "Riverhead Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Riverhead Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={234F14E8-B8CF-4D7C-BDB3-2C50462B5779}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0313",
+      "file_name": "Riverhead Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of CSC Acquisition-NY, Inc. for Approval of the Renewal of its Franchise with the Town of Riverhead, Suffolk County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88BB444C-12DF-4AAC-AF40-BDBEA183ECF0}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "1",
+      "docket_id": "16-V-0313",
+      "file_name": "Riverhead Application Cover Letter.pdf"
+    }
+  ]
+}

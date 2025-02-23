@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0599",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/05/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Entity Consolidation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AB3DE5B-A836-4941-AF1B-65D0F4B3C9FF}",
+      "organization": "Charter Communications",
+      "itemNo": "3",
+      "docket_id": "19-V-0599",
+      "file_name": "CHTR NY PSC Entity Consolidation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/13/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97B5CCDA-1ACC-48A3-9BDA-802A51EC3F7F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0599",
+      "file_name": "663_19-V-0599 Order Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter for Consolidation Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FEC91E-83F5-4F0A-87BF-10FEE868A3F6}",
+      "organization": "Charter Communications, Charter Communications Entertainment I, LLC, Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0599",
+      "file_name": "Charter Cover Letter for Consolidation Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "5 - Spectrum NE Application Signed Verification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0794D38D-3F4C-4DB7-AFE2-30F7C2BCF337}",
+      "organization": "Charter Communications, Charter Communications Entertainment I, LLC, Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0599",
+      "file_name": "5 - Spectrum NE Application Signed Verification.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "4 - Spectrum NE PSC Application Appendix A - Agreement and Plan of Merge...",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC820BC2-4B44-477B-9A59-E9CEE1CF5659}",
+      "organization": "Charter Communications, Charter Communications Entertainment I, LLC, Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0599",
+      "file_name": "4 - Spectrum NE PSC Application Appendix A - Agreement and Plan of Merge....pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "3 - Spectrum NE PSC Application - Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F814CCC-0317-4CDE-AF43-BF91F48663FF}",
+      "organization": "Charter Communications, Charter Communications Entertainment I, LLC, Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0599",
+      "file_name": "3 - Spectrum NE PSC Application - Exhibits.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "2 - Spectrum NE PSC Application - Form 394",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E53B588-77D3-48AE-BCE8-4989E09072AC}",
+      "organization": "Charter Communications, Charter Communications Entertainment I, LLC, Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0599",
+      "file_name": "2 - Spectrum NE PSC Application - Form 394.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "1 - Spectrum NE - PSC Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2040303-17DF-43E6-9FE8-649C1EB65600}",
+      "organization": "Charter Communications, Charter Communications Entertainment I, LLC, Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0599",
+      "file_name": "1 - Spectrum NE - PSC Application.pdf"
+    }
+  ]
+}

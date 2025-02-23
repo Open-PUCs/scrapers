@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0403",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Logan Fountain Owner LLC - Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={808BD68D-0000-C816-A6BA-9797E5CA18C7}",
+      "organization": "Logan Fountain Owner LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0403",
+      "file_name": "Logan Fountain Owner LLC - COC Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of Individual Metering Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0FECC8D-0000-C11E-84F0-3B92374CC9A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0403",
+      "file_name": "368_23-E-0403 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Logan Fountain Owner LLC - Petition for Waiver of the Individual Metering Requirements - Executed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={306F8989-0000-CA12-A459-BF2DA457A81C}",
+      "organization": "Logan Fountain Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0403",
+      "file_name": "Logan Fountain Owner LLC - Petition for Waiver of the Individual Metering Requirements - Executed.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={306F8989-0000-CD31-87DD-824CFA5D8C17}",
+      "organization": "Logan Fountain Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0403",
+      "file_name": "Cover Letter_Petition for Waiver - Logan Fountain Owner LLC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "20-T-0135",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Mark Rielly Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1DBFB4F-7656-47EB-9E0B-3E2841C7D20D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-T-0135",
+      "file_name": "20-T-0135 - Black River -Taylorville CC - Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Niagara Mohawk Power Corporation d/b/a National Grid \u00bf Part 102 Report Black River \u00bf Taylorville 115kV Conductor Clearance Refurbishment Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86621309-EC6A-4AC7-B1C9-1E93990CA026}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0135",
+      "file_name": "National Grid -- Black River-Taylorville CCR Part 102 -- Report (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid -- Black River-Taylorville CCR Part 102 -- Enclosure Ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={023BE054-B1C1-45EE-A39F-A38317406058}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0135",
+      "file_name": "National Grid -- Black River-Taylorville CCR Part 102 -- Enclosure Ltr.pdf"
+    }
+  ]
+}

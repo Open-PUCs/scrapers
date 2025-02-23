@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0566",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241112 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40AA5593-0000-CE28-87BC-F66C6D22A171}",
+      "organization": "A-Liminate Pest Control Service Co., Inc.",
+      "itemNo": "3",
+      "docket_id": "24-G-0566",
+      "file_name": "20241112 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240805 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0A62391-0000-CB29-8F1C-BE520A3F8D6F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0566",
+      "file_name": "20240805 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240805 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0A62391-0000-CD4E-9A29-1A2C7F406913}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0566",
+      "file_name": "20240805 - NOPV Letter.pdf"
+    }
+  ]
+}

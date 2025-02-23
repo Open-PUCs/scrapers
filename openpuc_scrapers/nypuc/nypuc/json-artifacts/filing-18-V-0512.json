@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0512",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99A3D081-3509-4AF1-8144-3B1E1D24FC1A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0512",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Amendment to Resolution #11",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A781A8F0-51CA-410F-AD4D-A649A4F78F65}",
+      "organization": "Charter Communications",
+      "itemNo": "2",
+      "docket_id": "18-V-0512",
+      "file_name": "Willing, Amended Res, 120518.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Willing, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7F87B5E-2E58-4460-8EB7-194439407638}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0512",
+      "file_name": "08.13.18 T WILLING FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

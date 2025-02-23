@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0593",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification that the merger was consummated.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A6B1AC-3299-43B6-AA1F-9B257FBB7015}",
+      "organization": "First Communications, LLC, Xtension Services Inc.",
+      "itemNo": "4",
+      "docket_id": "17-C-0593",
+      "file_name": "NY XSI FCL consumm cancel.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Approval of the Petition Pursuant to PSL \u00a7\u00a7 92-e, 99 and 100",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7BF06EF-44B8-4129-BD60-EE54199C509D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-C-0593",
+      "file_name": "17-02015 Xtension Services Inc.First CommunicationsLLC.Transfer.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80071336-0911-4652-B704-A6E362F8EDF2}",
+      "organization": "First Communications, LLC, Xtension Services Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0593",
+      "file_name": "NY GCI FCL MERGER (wdw expedite) FLT.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Xtension Services Inc. and First Communications, LLC for Approval of a Pro Forma Intra-Corporate Transaction.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC30E32B-B424-40C9-AB2B-2A48CB1351B9}",
+      "organization": "First Communications, LLC, Xtension Services Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0593",
+      "file_name": "NY XSI MERGER PLEADING.pdf"
+    }
+  ]
+}

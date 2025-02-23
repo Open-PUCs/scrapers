@@ -1,0 +1,60 @@
+{
+  "case": "15-E-0398",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2BDABA23-88DA-4030-89FC-BC7500889056}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0398",
+      "file_name": "376_15-E-0398 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2676118-421A-418C-BE40-3CE9C4D32957}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0398",
+      "file_name": "376_15-E-0398 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/08/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement of Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AABC7649-7BE7-47BB-A807-CBF9AE245BF3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0398",
+      "file_name": "313529_Ack_Letter_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01B564E4-8ED9-4F40-85C5-DD43DAEFA7DF}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "15-E-0398",
+      "file_name": "Appeal_petition_313529_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/08/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B413F2D-62A1-4551-802D-3897D3CC5807}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-E-0398",
+      "file_name": "Saleh vs Con Ed - Service Classification_Redacted.pdf"
+    }
+  ]
+}

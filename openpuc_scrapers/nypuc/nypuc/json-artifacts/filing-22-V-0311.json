@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF5A096E-6E2D-42F8-BC2A-BDF93A9FB204}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "22-V-0311",
+      "file_name": "Sec Letter Granting Withdrawal and Closing Seven Matters 6.15.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFF578C7-8137-44DF-8D1D-310F6C954DBA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "22-V-0311",
+      "file_name": "220614 Withdrawal Letter re Matter 21-02475.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02475 Letter to Building Owner Offering Facilitation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90BED546-9895-4B51-A408-32B623D30963}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "22-V-0311",
+      "file_name": "21-02475 Letter to Building Owner Offering Facilitation.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EFC3D59-C62D-4EF6-8C71-5D775EA37C24}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0311",
+      "file_name": "220321_21-02475_14 ST MARKS PL_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14FF5019-F841-4026-8BEB-A8A16F3A88F5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0311",
+      "file_name": "220222_21-02475_14 ST MARKS PL_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/03/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02475 Letter to Verizon 2.3.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={951817D9-4799-4EC2-A927-A929F8FBC806}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0311",
+      "file_name": "21-02475 Letter to Verizon 2.3.2022.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/09/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02475 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23A13727-03DC-49E9-846E-EE1D0C668F14}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0311",
+      "file_name": "21-02475 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 14 Saint Marks Place, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDD6FF5E-FAC9-467D-A74E-574D9443FFDE}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0311",
+      "file_name": "9-211119 Petition (14 ST MARKS PL) (Post-CODA).pdf"
+    }
+  ]
+}

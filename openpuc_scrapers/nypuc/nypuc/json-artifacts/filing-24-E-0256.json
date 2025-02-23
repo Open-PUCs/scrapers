@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0256",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Hamilton Green I Partners LLC - 5 Cottage Place - NOI",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06A308F-0000-C632-94BF-C51228E8244F}",
+      "organization": "Hamilton Green I Partners LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0256",
+      "file_name": "Hamilton Green I Partners LLC - 5 Cottage Place - NOI.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06A308F-0000-C01B-8B51-A633E0EF64C0}",
+      "organization": "Hamilton Green I Partners LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0256",
+      "file_name": "Hamilton Green I Partners LLC - 5 Cottage Place - Cover Letter.pdf"
+    }
+  ]
+}

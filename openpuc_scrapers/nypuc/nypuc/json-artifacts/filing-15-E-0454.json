@@ -1,0 +1,27 @@
+{
+  "case": "15-E-0454",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59999224-8116-484C-A0F5-87E264FC4909}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-E-0454",
+      "file_name": "361_15E0454.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cricket Valley Energy Center, LLC for Order Approving Financing Pursuant to Section 69 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B3B0AAC-79FC-4922-ABE4-06CDCD5B86AF}",
+      "organization": "Cricket Valley Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0454",
+      "file_name": "Final 69 petition 7-31-15.pdf"
+    }
+  ]
+}

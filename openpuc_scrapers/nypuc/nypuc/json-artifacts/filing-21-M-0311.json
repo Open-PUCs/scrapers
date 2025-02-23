@@ -1,0 +1,60 @@
+{
+  "case": "21-M-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Proof of Publication- Enhanced Emergency Gas Restoration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5971AD11-5F72-423D-BB30-05712DF2CEF9}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-M-0311",
+      "file_name": "Proof of Publication- Enhanced Emergency Gas Restoration.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Comments",
+      "name": "Reply to NYC Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1DDD9E5-9DC0-4F64-A5CD-576638E5387B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-M-0311",
+      "file_name": "Reply to NYC Comments.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2021",
+      "nypuc_doctype": "Comments",
+      "name": "NYC Comments - AMI Curtailiment Proposal. - finall",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DD726E2-FB1B-4DAE-A8EF-A36A43C06A41}",
+      "organization": "City of New York",
+      "itemNo": "2",
+      "docket_id": "21-M-0311",
+      "file_name": "NYC Comments - AMI Curtailiment Proposal. - finall.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Enhanced Gas Recovery Pilot",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F739533-5BE0-4F22-A986-45B80EABE559}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-M-0311",
+      "file_name": "Petition for Enhanced Gas Recovery Pilot.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F2EB537-C7BD-4F7E-8E7D-F85A4728421A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-M-0311",
+      "file_name": "Petition Cvltr.pdf"
+    }
+  ]
+}

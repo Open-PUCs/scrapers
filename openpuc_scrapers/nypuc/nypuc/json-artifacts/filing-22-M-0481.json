@@ -1,0 +1,49 @@
+{
+  "case": "22-M-0481",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47026D65-BDB0-4711-B5FF-5FBBDEA30FCA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-M-0481",
+      "file_name": "265_22-M-0481 Letter Redact final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Letters",
+      "name": "183120 SMR Ack Letter Makani",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5667BC1A-50A9-4211-A39B-D4516FC2BD8D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-M-0481",
+      "file_name": "183120 SMR Ack Letter Makani.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "18320 SMR Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79B3D522-575E-4C18-AFB3-A43EF0DA981E}",
+      "organization": "Makani Post St. Inc.",
+      "itemNo": "2",
+      "docket_id": "22-M-0481",
+      "file_name": "18320 SMR Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Letters",
+      "name": "183120_Makani_42_SMD_Final_07182022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F74C722D-CEA8-4C00-9DB1-7E26D9856B89}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-M-0481",
+      "file_name": "183120_Makani_42_SMD_Final_07182022 (3).pdf"
+    }
+  ]
+}

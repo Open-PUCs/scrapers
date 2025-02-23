@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0572",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240112 - Payment - $2,500 - KT Contracting Inc Record #8908 [Matter #23-01244] Case #23-G-0572_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202E138D-0000-C712-80D1-47E3953EA9B8}",
+      "organization": "KT Contracting Inc",
+      "itemNo": "3",
+      "docket_id": "23-G-0572",
+      "file_name": "20240112 - Payment - $2,500 - KT Contracting Inc Record #8908 [Matter #23-01244] Case #23-G-0572_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1041268C-0000-CF19-937D-BDA09C57FF21}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0572",
+      "file_name": "161-A_23-G-0572.pdf"
+    }
+  ]
+}

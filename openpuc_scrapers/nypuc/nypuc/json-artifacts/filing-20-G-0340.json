@@ -1,0 +1,27 @@
+{
+  "case": "20-G-0340",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correspondance ML Caccamise Elec. Corp.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB84C48A-01DB-4BB6-936A-E26E61539EDE}",
+      "organization": "M.L. Caccamise Electric Corp.",
+      "itemNo": "4",
+      "docket_id": "20-G-0340",
+      "file_name": "Correspondance ML Caccamise Elec. Corp..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0D2A127-1C6C-4F2E-9AE7-ED538179D246}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0340",
+      "file_name": "164-A_20-G-0340.pdf"
+    }
+  ]
+}

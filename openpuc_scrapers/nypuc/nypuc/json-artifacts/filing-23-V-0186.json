@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0186",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30584E88-0000-C01C-A472-E53EE9D60FF3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0186",
+      "file_name": "663_23-V-0186.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00266 Letter to Building Owner 528 E 11th 2.28.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07C9886-0000-C21A-8C30-4EDB38849308}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0186",
+      "file_name": "23-00266 Letter to Building Owner 528 E 11th 2.28.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 528 East 11th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADB819DE-04F2-48D3-A9D2-605FE21B848E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0186",
+      "file_name": "230208-4 Petition (528 E 11 ST) (Post-Survey).pdf"
+    }
+  ]
+}

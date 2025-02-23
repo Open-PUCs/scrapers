@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0665",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D60A652F-5BCC-478C-AF2B-871DF8C01DF8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0665",
+      "file_name": "661_20-V-0665 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Silver Creek, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A7BCB98-80A7-4320-A599-71A31B25E7B2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0665",
+      "file_name": "2020.12.17 V. SILVER CREEK RENEWAL TO PSC.pdf"
+    }
+  ]
+}

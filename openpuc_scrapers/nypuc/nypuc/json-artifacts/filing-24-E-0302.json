@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0302",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Owner SMR Request 05132024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600F838F-0000-C51D-A0E5-48EDBEB71185}",
+      "organization": "MOSCAROL Investments Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0302",
+      "file_name": "Owner SMR request 05132024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "255188_MOSCARAL_SMD_Final_04042024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D00C838F-0000-C711-B52C-C02C377D70FD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0302",
+      "file_name": "255188_MOSCARAL_SMD_Final_04042024_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "17-C-0654",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EDD254C-D30D-4BD8-9631-1459D370C3D9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0654",
+      "file_name": "Confidential Ltr- Matter No.. 17-02087.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0654",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "23-V-0477",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0595D8B-0000-CA1F-B754-D0565BC3D324}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0477",
+      "file_name": "662_23-V-0477 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01224 Letter to Building Owner 249 E 49 St 7.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={506A4F89-0000-CE17-8C79-EBD0F909E149}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0477",
+      "file_name": "23-01224 Letter to Building Owner 249 E 49 St 7.13.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01224 Letter to Building Owner 249 E 49 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40470789-0000-C51D-B5DD-A8C8A9487F8B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0477",
+      "file_name": "23-01224 Letter to Building Owner 249 E 49 St.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition - 249 E 49th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F4A088-0000-C637-AB61-60D816F41B9A}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0477",
+      "file_name": "Petition - 249 E 49th Street.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 249 E 49th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F4A088-0000-CB7D-9998-5CEAA7344E98}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0477",
+      "file_name": "Exhibit 2 - 249 E 49th Street.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - 249 E 49th SOW",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F4A088-0000-CF1C-833E-3FB60842569A}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0477",
+      "file_name": "Exhibit 1 - 249 E 49th SOW (1).xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F4A088-0000-C257-A2E5-2DE03CE2131E}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0477",
+      "file_name": "Cover Letter - 249 East 49th St.pdf"
+    }
+  ]
+}

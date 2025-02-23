@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0214",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EE7A0C1-26DE-412A-B22A-7F160CC8D640}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0214",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the matter of Time Warner Cable Northeast LLC, known as Charter Communications, for renewal of its Certificate of Confirmation and Cable Television Franchise in the Town of Champion, Jefferson County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23231410-51F2-4A18-A47B-A15DA2869A95}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0214",
+      "file_name": "4.9.18 T Champion Charter PSC cable franchise renewal.pdf"
+    }
+  ]
+}

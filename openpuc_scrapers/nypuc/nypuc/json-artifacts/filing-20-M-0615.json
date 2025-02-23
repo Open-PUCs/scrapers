@@ -1,0 +1,38 @@
+{
+  "case": "20-M-0615",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0510029-7C85-42FA-BA95-0E94CCE5BE12}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-M-0615",
+      "file_name": "20-M-0165.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval, Pursuant to Public Service Law, Section 113(2), of a Proposed Allocation of Certain Tax Refunds between Consolidated Edison Company of New York, Inc. and the City of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB8F1FAF-C03E-4145-AFA7-D34E1ED04106}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-M-0615",
+      "file_name": "NYC Prop Tax Benefit Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85BA84FF-5AFC-453F-A918-A63F9996F735}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-M-0615",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

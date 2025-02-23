@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0024",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DE668E-0000-C819-84EB-2642EADAFD85}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0024",
+      "file_name": "662_24-V-0024 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E0F48C-0000-CA5F-910E-68B5F1F13731}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0024",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Darien Letter 1.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E0F48C-0000-C311-BB4D-A43C2DB18372}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0024",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Darien Letter 1.10.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Darien Cover Letter - Request for Renewal and Certificate of Confirmation 1.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E0F48C-0000-CE71-B544-E52A6D294664}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0024",
+      "file_name": "Charter Communications, T. Darien Cover Letter - Request for Renewal and Certificate of Confirmation 1.10.24 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Darien - Request for Renewal and Certificate of Confirmation (redacted)1.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E0F48C-0000-CE9F-AE08-2EDC45A65732}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0024",
+      "file_name": "Charter Communications, T. Darien - Request for Renewal and Certificate of Confirmation (redacted)1.10.24 .pdf"
+    }
+  ]
+}

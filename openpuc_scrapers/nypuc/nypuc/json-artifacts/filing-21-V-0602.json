@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0602",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={293628FC-764B-4ECC-96D2-3F77240B4283}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0602",
+      "file_name": "662_21-V-0602.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01834 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED10CEFC-4533-4BAC-BA89-36AE84FE1A0F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0602",
+      "file_name": "21-01834 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 371 Madison Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E154BE8-55CF-4E8B-AA4D-762F884500F2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0602",
+      "file_name": "2-210826 Petition (371 MADISON ST) (Complete).pdf"
+    }
+  ]
+}

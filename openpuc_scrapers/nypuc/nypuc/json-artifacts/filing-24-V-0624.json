@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0624",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-01919 Letter to Building Owners 31-22 29 St, Astoria",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50026792-0000-C04A-A004-F1B7D47DCB1B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-V-0624",
+      "file_name": "24-01919 Letter to Building Owners 31-22 29 St, Astoria.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Access for 31-22 29th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0CA0092-0000-CA38-9494-BE24807E152B}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0624",
+      "file_name": "31-22 29th Street - Order of Access Petition_Final(29765803.1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CB0092-0000-C647-9638-55EC6F81F5AB}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0624",
+      "file_name": "Exhibit 2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0CA0092-0000-CE12-BBEF-727EF8F0A820}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0624",
+      "file_name": "Exhibit 1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CB0092-0000-C826-814B-F0B5C9A7D406}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0624",
+      "file_name": "Filing Cover Letter - Order of Access 2024 - 31-22 29th.pdf"
+    }
+  ]
+}

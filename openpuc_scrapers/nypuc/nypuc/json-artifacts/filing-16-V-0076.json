@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0076",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99B046AF-92AB-4116-87D7-B39B6FD1E6B3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0076",
+      "file_name": "663_16v0076.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Oxford, Chenango County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8215DF84-752C-450C-BBD4-988AA20A5A12}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0076",
+      "file_name": "02112016 t of oxford psc submission.pdf"
+    }
+  ]
+}

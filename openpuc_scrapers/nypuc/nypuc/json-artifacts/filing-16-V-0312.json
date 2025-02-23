@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0312",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={788CA62E-9495-4631-B541-D24A3F47EB02}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0312",
+      "file_name": "661_16v0312.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Brockport, Monroe County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6530A7B3-8974-436F-8340-9DB0E03BCA95}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0312",
+      "file_name": "05.19.16 - BROCKPORT, VILLAGE FRANCHISE RENEWAL SUBMITTED TO PSC.pdf"
+    }
+  ]
+}

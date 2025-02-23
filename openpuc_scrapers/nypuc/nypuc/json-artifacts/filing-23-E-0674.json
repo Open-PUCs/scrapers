@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0674",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Westview Owners Corp. - Responses to DPS Staff Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A3AF92-0000-C71B-9546-ABAE815CB142}",
+      "organization": "Westview Owners Corp.",
+      "itemNo": "3",
+      "docket_id": "23-E-0674",
+      "file_name": "Case 23-E-0674 - Westview Owners Corp. - Responses to DPS Staff Questions (10.21.24).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Westview Owners Corp. - Final SAPA Notice Package",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0A4238D-0000-C816-8C0F-CB0C7CD69BAE}",
+      "organization": "Westview Owners Corp.",
+      "itemNo": "2",
+      "docket_id": "23-E-0674",
+      "file_name": "Westview Owners Corp. - Final SAPA Notice Package.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Westview Owners Corp. - Notice of Intent to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0DFC98B-0000-CF15-82C7-E534E5128B91}",
+      "organization": "Westview Owners Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0674",
+      "file_name": "Westview Owners Corp. - Final NOI 11.13.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0DFC98B-0000-C02E-9657-A2DA0DBA066F}",
+      "organization": "Westview Owners Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0674",
+      "file_name": "Westview Owners Corp - Notice of Intent to Submeter - Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "19-G-0435",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2020",
+      "nypuc_doctype": "Affidavit of Service",
+      "name": "20200213 Final Order Service Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8803C17F-927C-4651-BCD8-AFACEA8BA8CC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-G-0435",
+      "file_name": "20200213 Final Order Service Affidavit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/25/2020",
+      "nypuc_doctype": "Affidavit of Service",
+      "name": "20190719 Final Order Service Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={617DF4D5-5888-443F-B454-827DC8CBFEC3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-G-0435",
+      "file_name": "20190719 Final Order Service Affidavit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F525C2B-58BD-46DE-9D32-43F027390548}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-G-0435",
+      "file_name": "164-C_19-G-0435.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing/Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1433ACE-57AE-44A5-94CB-9F568AAE8F9A}",
+      "organization": "",
+      "itemNo": "2",
+      "docket_id": "19-G-0435",
+      "file_name": "2019.7.30 Case 19-G-0435.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEAA3B10-3DE9-419A-8AA2-63C17646A1E5}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0435",
+      "file_name": "165-A_19-G-0435.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0468",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7309E7E-DBCC-45B9-B1C8-6680E07F2D5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0468",
+      "file_name": "661_21-V-0468.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Genesee Falls, Wyoming County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C20AEFC6-D0F5-4A42-B0AF-6AF4FFB4D100}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0468",
+      "file_name": "2021.08.31 T. GENESEE FALLS FRANCHISE RENEWAL FILED.pdf"
+    }
+  ]
+}

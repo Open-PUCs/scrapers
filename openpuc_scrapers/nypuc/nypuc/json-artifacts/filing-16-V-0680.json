@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0680",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5003675-9E6E-4EBA-8504-BA8738FCA682}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0680",
+      "file_name": "661_16-V-0680.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Allegany, NY of Cattaraugus County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42647A1B-55BE-45A5-BE2F-80FB77E6A542}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0680",
+      "file_name": "Allegany, Vlg Renewal Submission to PSC.pdf"
+    }
+  ]
+}

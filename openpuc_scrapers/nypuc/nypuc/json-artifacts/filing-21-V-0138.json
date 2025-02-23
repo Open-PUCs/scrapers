@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0138",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAEB50C1-78C2-4678-9AD6-46B9C000064A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0138",
+      "file_name": "667_21-V-0138 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C90E47B7-286D-4093-A249-B8E4C6075327}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0138",
+      "file_name": "2021.03.11 T. Ripley Legal Affidavit2 21-V-0138.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Franchise Renewal \u00bf Spectrum Northeast, LLC, locally known as Charter Communications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9398FD77-A7D6-4D79-B1B9-22957C666C4D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0138",
+      "file_name": "2021.03.03 T. RIPLEY RENEWAL FILED-PSC.pdf"
+    }
+  ]
+}

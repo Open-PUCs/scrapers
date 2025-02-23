@@ -1,0 +1,60 @@
+{
+  "case": "21-W-0402",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Windham Ridge Water Corp Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DAE1092-80A4-418F-8383-E964AB08A75F}",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "4",
+      "docket_id": "21-W-0402",
+      "file_name": "Windham Ridge Water Corp Customer Notification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Windham Ridge Customer Notification - Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03FE9AF6-E753-41A0-B739-742E65C23AEA}",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "4",
+      "docket_id": "21-W-0402",
+      "file_name": "Windham Ridge Customer Notification - Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/26/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "3",
+      "docket_id": "21-W-0402",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tapping Fee with Modification and Denying Connection Fee",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D2B975F-6176-4F94-95ED-C2AB432DA562}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-W-0402",
+      "file_name": "461_21-W-0402.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Windham Ridge Water Corp. for Establishment of a Tapping Fee and Connection Fee.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D255527C-B0A2-4ADA-8194-186011BD279C}",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "1",
+      "docket_id": "21-W-0402",
+      "file_name": "Windham Ridge Water Corp..pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "17-C-0110",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6726045F-A88C-4105-99FE-5CA479149AFF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-C-0110",
+      "file_name": "561 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8B20E5A-C960-4F3E-8C32-46A4A9DEC0D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-C-0110",
+      "file_name": "561 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A43A2EB4-D3FC-47E9-8C04-FD7D769642ED}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-C-0110",
+      "file_name": "Wantagh UFSD Ack Letter 435606.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCBEA097-53FC-4E1E-8C90-2AF3621FE3C0}",
+      "organization": "Wantagh Union Free School District",
+      "itemNo": "2",
+      "docket_id": "17-C-0110",
+      "file_name": "Case 435606 Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C2BDB59-F522-4AAC-BFD4-65DE201E3A97}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-C-0110",
+      "file_name": "Case 435606 IH Decision.pdf"
+    }
+  ]
+}

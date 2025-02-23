@@ -1,0 +1,93 @@
+{
+  "case": "20-E-0389",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={235AADB4-5383-4899-89B7-5BF482B44386}",
+      "organization": "646 11th Owner LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0389",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FEC3794-9EFB-4D46-AE6B-55FB6DF9B918}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0389",
+      "file_name": "365_20-E-0389 Confirming Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3A2280C-0147-41CE-AC07-80A9756EB99D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0389",
+      "file_name": "367_20-E-0389 Sumbetering OCO final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/14/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBBD2E63-9EF7-46C0-A305-303284D171FC}",
+      "organization": "646 11th Owner LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0389",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Sample Invoice Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={308564CF-99CA-4D58-979A-EFC8F590AFDC}",
+      "organization": "646 11th Owner LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0389",
+      "file_name": "Sample Invoice Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97D554F4-C37F-474A-8320-AD2F24F92AB3}",
+      "organization": "646 11th Owner LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0389",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={278F580E-13E3-48EE-8AAF-F3571D022BAC}",
+      "organization": "646 11th Owner LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0389",
+      "file_name": "submetering application.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "cover Letter for application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB6C50C2-F55E-4323-96AB-1DD75842CEFB}",
+      "organization": "646 11th Owner LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0389",
+      "file_name": "cover Letter for application.pdf"
+    }
+  ]
+}

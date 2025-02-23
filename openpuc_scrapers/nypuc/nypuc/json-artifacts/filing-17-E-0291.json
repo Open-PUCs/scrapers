@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0291",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/12/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52FBEBA7-C95C-479E-9DDE-7A454FD0F5B0}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0291",
+      "file_name": "17-E-0291_Letter closing case.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request to Withdraw the Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1970CF99-E863-46A8-BB8E-5C0E1111DFF7}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "17-E-0291",
+      "file_name": "Case 630106 and 17-E-0291 - Holt Withdrawal Letter (Executed).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE8EF452-6DAF-4B02-B2AC-9B96605FC3DD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0291",
+      "file_name": "Holt Ack Letter 630106 (002)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBDD298C-BE5D-4DBD-8E1C-7CEC3A8745D4}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0291",
+      "file_name": "Holt Appeal 630106 (002)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25874854-8DC6-4819-975E-737F07C8D6E7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0291",
+      "file_name": "Holt IH Decision 630106 (002)_Redacted.pdf"
+    }
+  ]
+}

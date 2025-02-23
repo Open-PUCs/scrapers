@@ -1,0 +1,115 @@
+{
+  "case": "21-W-0048",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/03/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB61F0DE-6D55-4070-9B0B-B3F0602243A6}",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "21-W-0048",
+      "file_name": "Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73D7FAC4-7AF4-48A0-80CC-83CB72716AEC}",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-W-0048",
+      "file_name": "Customer Notification Cover Letter - 21-W-0048.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bethel Water Comapny, Inc. - Customer Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A56736FA-9FAE-48FC-BC5A-53EBD9314792}",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-W-0048",
+      "file_name": "Bethel Water Comapny, Inc. - Customer Notice.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "21-W-0048",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/14/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E933BF7-158A-4C98-9C1A-4E36FF6B542B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-W-0048",
+      "file_name": "462_21-W-0048 final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/19/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54E5C2A7-EB8A-4D15-935A-16D378776527}",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-W-0048",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/19/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Bethel Water Company, Inc. Income Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F211B776-5AE3-45BF-9840-10DE5F02C76B}",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-W-0048",
+      "file_name": "Income Statements.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/19/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "EXHIBIT XXI - Bethel Notification Letter to Customers Regarding Rate Increase Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8EFD348B-6123-4DCC-ADD9-4BC2D6AE1973}",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-W-0048",
+      "file_name": "EXHIBIT XXI - Bethel Notification Letter to Customers Regarding Rate Increase Request.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/19/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF0F33B6-63AF-4C2C-B915-572BD4176261}",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-W-0048",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/13/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Bethel Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0048",
+      "file_name": ""
+    }
+  ]
+}

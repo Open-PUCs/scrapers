@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0372",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5857312F-E5CB-42F7-908D-A97E7CD079E7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0372",
+      "file_name": "661_16v0372.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of New Berlin, Chenango County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2806141-4524-4A5C-9BB7-921431894014}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0372",
+      "file_name": "06152016 t of new berlin psc submission.pdf"
+    }
+  ]
+}

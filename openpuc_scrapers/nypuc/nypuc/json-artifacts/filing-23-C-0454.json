@@ -1,0 +1,49 @@
+{
+  "case": "23-C-0454",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B08E038A-0000-C654-97E6-E0BBB483D1BD}",
+      "organization": "Cellco Partnership dba Verizon Wireless",
+      "itemNo": "1",
+      "docket_id": "23-C-0454",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "230817 VZW Waiver Request for 3 blks in 845 NPA due to grandfathered resources (REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B08E038A-0000-C673-BEB8-1F9F5D17C2D9}",
+      "organization": "Cellco Partnership dba Verizon Wireless",
+      "itemNo": "1",
+      "docket_id": "23-C-0454",
+      "file_name": "230817 VZW Waiver Request for 3 blks in 845 NPA due to grandfathered resources (REDACTED).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "230817 VZW NY grandfathered waiver confidentiality request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B08E038A-0000-C33C-9BFB-E558A1A4989C}",
+      "organization": "Cellco Partnership dba Verizon Wireless",
+      "itemNo": "1",
+      "docket_id": "23-C-0454",
+      "file_name": "230817 VZW NY grandfathered waiver confidentiality request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "220817 VZW 845 Waiver Request - Letter to Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B08E038A-0000-C216-9AC8-7A9A643D5317}",
+      "organization": "Cellco Partnership dba Verizon Wireless",
+      "itemNo": "1",
+      "docket_id": "23-C-0454",
+      "file_name": "220817 VZW 845 Waiver Request - Letter to Secretary.pdf"
+    }
+  ]
+}

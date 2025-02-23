@@ -1,0 +1,104 @@
+{
+  "case": "22-E-0179",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Honeywell X-Mon Multi-Circuit Energy Monitor Similarity Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7087F08D-0000-CF17-B980-8861472532B6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "22-E-0179",
+      "file_name": "Honeywell X-Mon Multi-Circuit Energy Monitor Similarity Approval Letter (signed)-combined.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Leviton VerifEye Series 7000 Similarity Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1086438B-0000-C819-BB10-7418F023A60B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-E-0179",
+      "file_name": "Leviton VerifEye Series 7000 Similarity Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF87D3F5-347A-478A-9F2A-42866FB6C293}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0179",
+      "file_name": "368_22-E-0179.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Secretary redacted ANSI report letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A9263D6-9E73-47B0-B389-7995FC597461}",
+      "organization": "DENT Instruments, Inc",
+      "itemNo": "2",
+      "docket_id": "22-E-0179",
+      "file_name": "Secretary redacted ANSI report letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D672B027-D3D0-4F80-BD20-DE18E09CF39E}",
+      "organization": "DENT Instruments, Inc",
+      "itemNo": "2",
+      "docket_id": "22-E-0179",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Records Access Officer Confidential ANSI report letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7C40C87-47E0-4AFE-B954-77AC0F67F1B6}",
+      "organization": "DENT Instruments, Inc",
+      "itemNo": "2",
+      "docket_id": "22-E-0179",
+      "file_name": "Records Access Officer Confidential ANSI report letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Reports",
+      "name": "PowerScout UL ANSI C12.20 Test Report Redacted 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65293A19-41E1-464B-9872-74A89B2841C6}",
+      "organization": "DENT Instruments, Inc",
+      "itemNo": "2",
+      "docket_id": "22-E-0179",
+      "file_name": "PowerScout UL ANSI C12.20 Test Report Redacted 1.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYPSC Sponsor Letter 3.23.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B4877F6-D3D2-4125-9D9D-C09DD286A47C}",
+      "organization": "DENT Instruments, Inc",
+      "itemNo": "2",
+      "docket_id": "22-E-0179",
+      "file_name": "NYPSC Sponsor Letter 3.23.2022.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DENT Instruments, Inc for Approval of PowerScout Multi-Circuit Power Submeter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13E37BDD-73E6-463B-A060-A5B5F25AFB12}",
+      "organization": "DENT Instruments, Inc",
+      "itemNo": "1",
+      "docket_id": "22-E-0179",
+      "file_name": "NY Petition for PowerScout meter.pdf"
+    }
+  ]
+}

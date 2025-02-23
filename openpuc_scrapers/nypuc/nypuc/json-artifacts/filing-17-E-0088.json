@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0088",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "17-E-0088 Cruciata Response 02212017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42C724AE-466E-48FA-9AC0-B74C2AB5B315}",
+      "organization": "Cruciata and Sons, LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0088",
+      "file_name": "17-E-0088 Cruciata Response 02212017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0088 Floyd Ack Letter 02072017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73BFF45D-C558-42F1-A2DC-3DA79D597044}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0088",
+      "file_name": "17-E-0088 Floyd Ack Letter 02072017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0088 Floyd Rehearing Request 02062017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F965E34F-843E-4CEB-8308-A88F5C749BD1}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0088",
+      "file_name": "17-E-0088 Floyd Rehearing Request 02062017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0088 Cruciata SMD Final 01302017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92230AEB-5D71-4C25-A33A-92975BB81072}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0088",
+      "file_name": "17-E-0088 Cruciata SMD Final 01302017_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={366D286A-1674-4E4B-B112-A5602FF4CDF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0088",
+      "file_name": "385_17-E-0088 Letter_Redacted.pdf"
+    }
+  ]
+}

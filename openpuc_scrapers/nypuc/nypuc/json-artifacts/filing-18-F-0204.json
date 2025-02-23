@@ -1,0 +1,71 @@
+{
+  "case": "18-F-0204",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/10/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding withdrawal of petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68159DB7-E39C-429B-896C-BC9BE6126169}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "18-F-0204",
+      "file_name": "18-F-0204-Helix Ravenswood-Close Out Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA71C1DD-93E4-4BD1-AF29-9A0BB0BCB01B}",
+      "organization": "EnergyStorageCo, Helix Ravenswood, LLC",
+      "itemNo": "4",
+      "docket_id": "18-F-0204",
+      "file_name": "2018-06-29 ltr to Sec. Burgess re petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Paul Agresta to Michael Murphy Regarding Article 10 Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1610D6D2-E55F-42F8-9713-2CC73062ECE4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-F-0204",
+      "file_name": "Case 18-F-0204 - Counsel_Op._LTR.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/27/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AC63A25-0B8A-4A51-A533-78E7B5ADB38A}",
+      "organization": "Helix Ravenswood, LLC",
+      "itemNo": "2",
+      "docket_id": "18-F-0204",
+      "file_name": "2018-04-27 Ltr to J. Vigars.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Helix Ravenswood, LLC and EnergyStorageCo for a Declaratory Ruling Regarding the Proposed Development of a Stand-Alone Battery Energy Storage Facility.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D301C7-9BB0-4451-923B-D46926B89BCA}",
+      "organization": "EnergyStorageCo, Helix Ravenswood, LLC",
+      "itemNo": "1",
+      "docket_id": "18-F-0204",
+      "file_name": "2018-03-30 Siting Board Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAA8F2D0-794A-4E79-9023-ACEC4E5B1BCC}",
+      "organization": "EnergyStorageCo, Helix Ravenswood, LLC",
+      "itemNo": "1",
+      "docket_id": "18-F-0204",
+      "file_name": "2018-03-30 Petition Cover Letter.pdf"
+    }
+  ]
+}

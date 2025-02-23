@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0110",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0110 Madera Ack Letter 03062020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={935B8AF2-5BF0-4993-A025-43E4C1E6CB61}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0110",
+      "file_name": "20-E-0110 Madera Ack Letter 03062020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0110 Madera Rehearing Request 02282020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={507E5E98-2F8E-4359-B28B-80C17A3B72B5}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0110",
+      "file_name": "20-E-0110 Madera Rehearing Request 02282020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0110 Madera SMD Final 02262020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6A3C835-1053-4C34-9623-1F1AC0607126}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0110",
+      "file_name": "20-E-0110 Madera SMD Final 02262020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FDA91F2-6D1D-4437-8033-64BC690D3A0A}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0110",
+      "file_name": "364 20-E-0110 Letter Redacted.pdf"
+    }
+  ]
+}

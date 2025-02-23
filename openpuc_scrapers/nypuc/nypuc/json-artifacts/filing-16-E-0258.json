@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0258",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={952706C6-067A-4547-9898-3DF65BBC93BB}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0258",
+      "file_name": "370 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71A3CEC2-CFC0-4DB9-A427-E43A51E842A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0258",
+      "file_name": "370 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/28/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5222F8A3-6FBA-4364-AC7B-84788118794C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0258",
+      "file_name": "421207_Ack_Letter_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/28/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96852FA0-0CB3-43E3-9474-5C8BB5F3D967}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "16-E-0258",
+      "file_name": "421207_Appeal (002)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/28/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36B27E49-2151-4292-87DD-7C2CD004D5B2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0258",
+      "file_name": "Balwant Singh vs Con Ed 421207 sm (002)_Redacted.pdf"
+    }
+  ]
+}

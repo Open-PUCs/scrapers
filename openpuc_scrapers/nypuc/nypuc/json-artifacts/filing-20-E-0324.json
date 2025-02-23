@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0324",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0324 Lipkis Ack Letter 71520",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B3489D5-2461-4688-8268-EA43D738D252}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0324",
+      "file_name": "20-E-0324 Lipkis Ack Letter 71520.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0324 Lipkis Rehearing Request 62720",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B239D50-AD92-45A0-A636-E06FA81C21C2}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0324",
+      "file_name": "20-E-0324 Lipkis Rehearing Request 62720.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0324 Lipkis SMD Final 72420",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={614051DE-879D-4930-975F-E0831B7BBB9E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0324",
+      "file_name": "20-E-0324 Lipkis SMD Final 72420.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={414819A1-FA3A-456E-B6E7-8C95D657D488}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0324",
+      "file_name": "361 Letter final_Redacted.pdf"
+    }
+  ]
+}

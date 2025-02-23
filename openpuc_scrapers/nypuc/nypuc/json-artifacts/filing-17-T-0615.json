@@ -1,0 +1,60 @@
+{
+  "case": "17-T-0615",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Ms. Zafonte regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36251B38-6431-4836-99F2-47D227491A86}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0615",
+      "file_name": "17-T-0615_Part 102_Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Rosa-Inman Part 102_Exhibits B and C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C7A3F76-5938-48C8-B331-70D03A77C40F}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0615",
+      "file_name": "Rosa-Inman Part 102_Exhibits B and C.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Rosa-Inman #14/#20 115 kV Transmission Line Maintenance Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A585A9D-A88C-40D2-AF72-EA88730FAB03}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0615",
+      "file_name": "Rosa-Inman Part 102_Report Text, Figures and Exhibit A.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit D - Agency Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09DC1361-279F-4D93-A8D2-E5130AF73EA7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0615",
+      "file_name": "Exhibit D - Agency Correspondence.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37877775-C418-450B-956F-59C663877A8C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0615",
+      "file_name": "Burgess_Letter_-_Rosa-Inman.pdf"
+    }
+  ]
+}

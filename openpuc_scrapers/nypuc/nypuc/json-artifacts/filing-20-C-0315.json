@@ -1,0 +1,49 @@
+{
+  "case": "20-C-0315",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/02/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY AIR Notice of T-Mobile",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FF953C5-048D-473F-918F-710B6A952055}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "3",
+      "docket_id": "20-C-0315",
+      "file_name": "NY AIR Notice of T-Mobile 9.2.21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E7999BA-15FD-4F42-A22E-35462B2909AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-C-0315",
+      "file_name": "562_20-C-0315.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "NY AIR ETC App Efiling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2129E170-41D0-4D77-A056-4EC20CAA9979}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "1",
+      "docket_id": "20-C-0315",
+      "file_name": "NY AIR ETC App Efiling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BADDC39-CB8A-4E3D-AC70-0A4C22632FA5}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "1",
+      "docket_id": "20-C-0315",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

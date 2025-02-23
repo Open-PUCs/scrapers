@@ -1,0 +1,93 @@
+{
+  "case": "16-E-0133",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9A28DDD-31B6-4BFE-A53F-710EF35E8486}",
+      "organization": "AES Distributed Energy",
+      "itemNo": "6",
+      "docket_id": "16-E-0133",
+      "file_name": "AES Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71396BA3-3BC1-4CB8-AA3B-2C869DC83CB7}",
+      "organization": "AES Distributed Energy",
+      "itemNo": "6",
+      "docket_id": "16-E-0133",
+      "file_name": "AES cover.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding Grandfathering of Remote Net Metered Projects",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6396CAB0-C0E6-45F8-910F-191CFD94E53C}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0133",
+      "file_name": "361_16-E-0133.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/18/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Response to SunEdison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8D6D206-B051-4CD8-9B22-11ED03242943}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-E-0133",
+      "file_name": "Response to SunEdison.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/05/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "SunEdison's Reply to Orange and Rockland Utilities, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C089590F-E690-4D65-8EA7-A9DC325C581E}",
+      "organization": "SunEdison LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0133",
+      "file_name": "Reply to O&R_final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to SunEdison Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={355D2AF1-8232-4085-8BB1-28836AFAAE04}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0133",
+      "file_name": "Response to SunEdison Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Orange and Rockland\u00bfs response to SunEdison\u00bfs Petition for a Declaratory Ruling.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36AF1247-C974-42F0-97A2-1310865FB231}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0133",
+      "file_name": "Cover Letter - Sun Edison.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/04/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of SunEdison, Inc. for a Declaratory Ruling Regarding Orange & Rockland Utilities, Inc.\u00bfs Remote Net Metering Tariff.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56B2E618-4E45-4C63-A42E-3178428575F5}",
+      "organization": "SunEdison, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0133",
+      "file_name": "Petition - OR Tariff Customer Name Change_FINAL.pdf"
+    }
+  ]
+}

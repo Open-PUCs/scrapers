@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0728",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0728 Gadnad Ack LEtter 11272018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={055B468A-FDD1-4F4B-81B4-C4E2F0953107}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0728",
+      "file_name": "18-E-0728 Gadnad Ack LEtter 11272018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0728 Gadnad Rehearing Request 11192018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A23A829F-A751-448E-ADDD-EA88CF00B581}",
+      "organization": "GADNAD LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0728",
+      "file_name": "18-E-0728 Gadnad Rehearing Request 11192018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0728 Gadnad SMD Final 10312018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E9FB64D-6814-4A82-ABC1-C67DA6F9EE45}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0728",
+      "file_name": "18-E-0728 Gadnad SMD Final 10312018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD155648-9323-4DB1-B4FA-B7B39C99B617}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0728",
+      "file_name": "363 Letter_Redacted.pdf"
+    }
+  ]
+}

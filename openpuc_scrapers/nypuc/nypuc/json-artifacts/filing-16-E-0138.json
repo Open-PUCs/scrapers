@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0138",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFB92667-01BE-4EA3-B56A-CD05F0985816}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0138",
+      "file_name": "374_B_16-E-0138.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments in Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76ECF435-D2CF-49DA-B87F-39DFD7C9AF74}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0138",
+      "file_name": "Comments of Con Edison.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Related Companies and Oxford Properties for Order Regarding Implementation of Standby Rate Exemption for Offset Tariff Customers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04D5A2CC-DAC4-49B6-9737-281EADDCE44B}",
+      "organization": "Oxford Properties, Related Companies",
+      "itemNo": "1",
+      "docket_id": "16-E-0138",
+      "file_name": "Hudson Yards PSC Petition re Standby Rate Exemption.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "18-M-0179",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D40905FA-0252-4C9F-9167-0289CD6B3A91}",
+      "organization": "Red-Rochester, LLC",
+      "itemNo": "2",
+      "docket_id": "18-M-0179",
+      "file_name": "RED-Rochester_PathStone Comment_filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of PathStone Corporation for a Declaratory Ruling That Rochester Gas and Electric Corporation May Provide Electric and Gas Service to a Proposed Residential Development Within the Eastman Business Park.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6F951ED-E69B-433B-8AC0-8EA3CB38B8AC}",
+      "organization": "PathStone Corporation",
+      "itemNo": "1",
+      "docket_id": "18-M-0179",
+      "file_name": "18-M-____ PathStone Petition for DR (HBROC-3340384 v1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85307ED3-39E6-42B8-A420-1D9F675DE2C5}",
+      "organization": "PathStone Corporation",
+      "itemNo": "1",
+      "docket_id": "18-M-0179",
+      "file_name": "cover letter (HBROC-3340403 v1).pdf"
+    }
+  ]
+}

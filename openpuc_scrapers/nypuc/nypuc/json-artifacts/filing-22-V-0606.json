@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0606",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39711910-AD77-4E10-BFB3-4FF150309698}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0606",
+      "file_name": "662_22-V-0606.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD2717B1-9AE8-44E2-A28D-1B715840387A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0606",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Wilson_10.27.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72F1D30D-C58C-4559-8869-40BDF6A54494}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0606",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Wilson_10.27.22 R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Wilson Request for Renewal-Certificate of Confirmation (Redacted) 10.27.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={116F88A1-54B7-4DC4-A88D-B53B09AC07F9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0606",
+      "file_name": "Charter Communications, T. Wilson Request for Renewal-Certificate of Confirmation (Redacted) 10.27.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Wilson Cover Letter Request - for Renewal, Certificate of Confirmation 10.27.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62D44736-8A5A-4BFA-8F23-7F51BD920A2D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0606",
+      "file_name": "Charter Communications, T. Wilson Cover Letter Request - for Renewal, Certificate of Confirmation 10.27.22.pdf"
+    }
+  ]
+}

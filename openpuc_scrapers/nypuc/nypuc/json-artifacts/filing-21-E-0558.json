@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0558",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "182118 Untimely Rejection McFarland 11.12.21_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55EF0E7E-FEE6-41FF-80DB-9048F8F4ACFF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0558",
+      "file_name": "182118 Untimely Rejection McFarland 11.12.21 (002)_Redacted (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "159476 Rehearing Request Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1490E5CE-C8B9-4497-9109-A12383360047}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-E-0558",
+      "file_name": "159476 Rehearing request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2021",
+      "nypuc_doctype": "Letters",
+      "name": "159476_Xiong_SMD_Final_10042021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF1947AA-0016-49D7-973E-8E375A6DEC1E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0558",
+      "file_name": "159476_Xiong_SMD_Final_10042021_Redacted.pdf"
+    }
+  ]
+}

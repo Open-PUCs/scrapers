@@ -1,0 +1,82 @@
+{
+  "case": "19-M-0350",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bill Message Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0512F617-48F2-4043-95EC-5DA6867EAD76}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "19-M-0350",
+      "file_name": "19-M-0350 Bill Message Compliance Filing December 16 2019.pdf (211 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "19-M-0350",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "19-M-0350",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9136B520-EBB7-423F-93D7-BD54D2061145}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-M-0350",
+      "file_name": "262_19-M-0350.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Comments",
+      "name": "UIU Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={276C1DC0-2334-4480-B128-4F07AF6C1283}",
+      "organization": "Utility Intervention Unit, Division of Consumer Protection, Department of State",
+      "itemNo": "2",
+      "docket_id": "19-M-0350",
+      "file_name": "Case 19-M-0350 UIU Comment.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DAA58D75-4FEE-4F7F-B5E1-D64983EB27E8}",
+      "organization": "Utility Intervention Unit, Division of Consumer Protection, Department of State",
+      "itemNo": "2",
+      "docket_id": "19-M-0350",
+      "file_name": "UIU Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/02/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation; The Brooklyn Union Gas Company d/b/a National Grid NY; and KeySpan Gas East Corp. d/b/a National Grid for Authorization to Adjust the Annual Calculation of Discount Amounts.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08E20659-17F0-4E2F-B090-9E09FFA8F583}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid, Niagara Mohawk Power Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "19-M-0350",
+      "file_name": "National Grid - Petition for Approval to Modify Discount Calculation_.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0667",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5270AEAE-77EE-4DB5-8C4A-710A75819F66}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0667",
+      "file_name": "661_17-V-0667.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A80BD3DE-8BE4-4D3A-8BF7-DB3DE459C95D}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0667",
+      "file_name": "12.5.17 T Burlington Charter updated cable franchise agreement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Burlington of Otsego County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1BEF690-54AD-4393-B745-C4EFFFA0510E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0667",
+      "file_name": "11 7 17 T Burlington Chater PSC cable franchise submission.pdf"
+    }
+  ]
+}

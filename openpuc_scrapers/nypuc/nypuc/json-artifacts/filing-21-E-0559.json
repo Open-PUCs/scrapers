@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0559",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Astoria West LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4348E1A0-1EA0-45FC-AAF4-038560E7B5C9}",
+      "organization": "Astoria West, LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0559",
+      "file_name": "Astoria West LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B78846C-7E10-4EC0-8D12-97FF2CBFBEF5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0559",
+      "file_name": "364_21-E-0559 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent of Astoria West, LLC - Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22EB477B-6B1E-4DF7-A414-A98926483B3E}",
+      "organization": "Astoria West, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0559",
+      "file_name": "Supplemental Filing_Astoria West LLC_2.8.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Notice of Intent - 30-77 Vernon Blvd",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C4AD4C6-AF43-4F13-A31C-3AFA42435C94}",
+      "organization": "Astoria West, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0559",
+      "file_name": "Submetering notice of intent - 30-77 Vernon Blvd.pdf"
+    }
+  ]
+}

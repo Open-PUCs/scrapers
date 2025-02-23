@@ -1,0 +1,104 @@
+{
+  "case": "15-E-0458",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C492159-B236-4052-ABD1-1D0E0D22B680}",
+      "organization": "Individual",
+      "itemNo": "8",
+      "docket_id": "15-E-0458",
+      "file_name": "Rakesh Kumar.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC14431F-D25D-4710-A8D2-B1619B65E28A}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "15-E-0458",
+      "file_name": "I have already given all documentary evidence to your office when I visited there.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing of appeal determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37E9BF49-9882-4E92-9DCD-C429B690B971}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-E-0458",
+      "file_name": "15-E-0458 (413044)-Gupta_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/29/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A252266-7F27-4A76-B6EB-93B9516B3937}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "15-E-0458",
+      "file_name": "From9.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={837AEA0F-9354-469B-BECF-37A468984267}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0458",
+      "file_name": "371_Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFE71571-57C7-4D2B-8723-2EC37773296B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0458",
+      "file_name": "371_ Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/05/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter acknowledging appeal of informal hearing decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={895A3090-A5CF-45A0-A6DF-D225E522D253}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0458",
+      "file_name": "Appeal Ack Ltr_Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/05/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F571D39-D0C0-4B92-AB4C-E1C40671BCAC}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "15-E-0458",
+      "file_name": "Appeal of IH Decision_Redacted.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/05/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E30CB00E-2C8A-4C01-8961-439C860F2546}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-E-0458",
+      "file_name": "Gupta.413044.IH Decision_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "22-G-0375",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240521 - Payment ($2,500) Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30D93590-0000-C617-840C-F9B2FEC2F341}",
+      "organization": "Town of Brookhaven Highway Department",
+      "itemNo": "7",
+      "docket_id": "22-G-0375",
+      "file_name": "20240521 - Payment ($2,500) Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0C8108F-0000-CD3B-8F51-90F4C76C8F22}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0375",
+      "file_name": "161-B_22-G-0375 42424 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={530B41C4-D7EA-46D7-A3BF-B29D9515F1A9}",
+      "organization": "Town of Brookhaven",
+      "itemNo": "5",
+      "docket_id": "22-G-0375",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2022",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F787D76D-37D5-4972-BEE8-78C0F645910E}",
+      "organization": "Town of Brookhaven",
+      "itemNo": "5",
+      "docket_id": "22-G-0375",
+      "file_name": "Exhibit B.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/27/2022",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C86F740C-5181-4552-A3EF-64BC47A4BEC5}",
+      "organization": "Town of Brookhaven",
+      "itemNo": "5",
+      "docket_id": "22-G-0375",
+      "file_name": "Exhibit A.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/27/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Affirmation in Support of Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8500E1E9-EE83-445C-934B-59897DEB7842}",
+      "organization": "Town of Brookhaven",
+      "itemNo": "5",
+      "docket_id": "22-G-0375",
+      "file_name": "Affirmation in Support of Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70853B63-BAE9-4901-91F8-F132DCC5A7F1}",
+      "organization": "Town of Brookhaven Highway Department",
+      "itemNo": "4",
+      "docket_id": "22-G-0375",
+      "file_name": "case # 22-G-0375.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F584C776-7127-4A49-A7CE-7377AE78B1B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0375",
+      "file_name": "162-A_22-G-0375.pdf"
+    }
+  ]
+}

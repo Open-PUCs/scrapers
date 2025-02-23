@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0600",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B319BAAC-C027-405D-87FB-03B8862E198B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0600",
+      "file_name": "667_20-V-0600 NegDec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09D7B8A4-4923-48C8-A75B-C7B56F3977FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0600",
+      "file_name": "667_20-V-0600 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "20-V-0600 T. of Tyre Map with Legend",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C7C231D-EB7F-4710-909C-BA8C24BD1351}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "20-V-0600",
+      "file_name": "20-V-0600 T. of Tyre Map with Legend.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Reports",
+      "name": "20-V-0600 Town of Tyre SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53C2A04A-C9AB-41E2-B414-8D2BD2735900}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0600",
+      "file_name": "20-V-0600 Town of Tyre SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/24/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2020.11.24 T.TYRE INITIAL FRANCHISE FILED-PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB7CFEE8-AF92-4819-865E-FCF8462BEBCB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0600",
+      "file_name": "2020.11.24 T.TYRE INITIAL FRANCHISE FILED-PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "21-W-0424",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Withdrawal of Tariff Filings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={453BD037-9F05-47BD-B8C9-FA9CC90B1A9A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-W-0424",
+      "file_name": "461_21-W-0424 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "3",
+      "docket_id": "21-W-0424",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/06/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "2",
+      "docket_id": "21-W-0424",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/02/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0424",
+      "file_name": ""
+    }
+  ]
+}

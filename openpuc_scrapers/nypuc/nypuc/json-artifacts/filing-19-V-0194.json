@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0194",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDB5FE0F-54C8-4A4B-AE0D-D7898F524D0C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0194",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Wurtsboro, Vlg Pg 8 w.correction 041619",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FBC73D5-DB64-485A-9B13-6192D8D09A96}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0194",
+      "file_name": "Wurtsboro, Vlg Pg 8 w.correction 041619.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications/Village of Wurtsboro - Pg 8 - replacement in Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9841D774-A778-408E-A464-8D6975C05E3B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0194",
+      "file_name": "V. Wurtsboro Ltr to PSC Secretary, ref Pg8, 041619.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Wurtsboro, Sullivan County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25D560CD-B88E-4E7F-8E03-24E5A2961DAB}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0194",
+      "file_name": "V WURTSBORO FRANCHISE RENEWAL TO PSC 031819.pdf"
+    }
+  ]
+}

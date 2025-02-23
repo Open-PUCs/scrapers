@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0051",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E2668E-0000-C610-8275-30083E2B10D3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0051",
+      "file_name": "662_24-V-0051 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B13C8D-0000-C15A-8D52-D0B8CEF42AAB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0051",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Springville Letter 1.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B13C8D-0000-CA18-9869-C0EAED3EBF1F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0051",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Springville Letter 1.24.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V.Springville- Request for Renewal and Certificate of Confirmation(redacted)1.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B13C8D-0000-C790-A438-8E0D4186B1F1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0051",
+      "file_name": "Charter Communications, V.Springville- Request for Renewal and Certificate of Confirmation(redacted)1.24.24 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V.Springville Cover Letter - Request for Renewal and Certificate of Confirmation 1.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B13C8D-0000-C27D-8EBB-D93922A7D3CE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0051",
+      "file_name": "Charter Communications, V.Springville Cover Letter - Request for Renewal and Certificate of Confirmation 1.24.24 .pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "20-C-0105",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/03/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-C-0105 Fusion Companies OOL.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={469BF7B7-39BE-4FA2-8A0E-E89EE77A447B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0105",
+      "file_name": "20-C-0105 Fusion Companies OOL.Signed.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Fusion Cloud Services, LLC and Fusion of New Jersey LLC for Consent to a Change in Control.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27FAEC5A-55BA-418F-853D-721D170DD225}",
+      "organization": "Fusion Cloud Services, LLC, Fusion of New Jersey LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0105",
+      "file_name": "Fusion - Application - New York 03042020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55008D72-B062-43DC-B6D1-8F0E35C2F5D0}",
+      "organization": "Fusion Cloud Services, LLC, Fusion of New Jersey LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0105",
+      "file_name": "Fusion - Appl Cov Let - NY 03042020.pdf"
+    }
+  ]
+}

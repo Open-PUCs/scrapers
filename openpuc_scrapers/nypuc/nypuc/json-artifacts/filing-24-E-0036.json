@@ -1,0 +1,115 @@
+{
+  "case": "24-E-0036",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0824B90-0000-C010-AF92-EABB11612DF1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0036",
+      "file_name": "365_24-E-0036 Order 62424final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0824B90-0000-C638-8191-0E99582FF439}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0036",
+      "file_name": "365_24-E-0036 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B02ECF8F-0000-CE12-B605-2CA8AC8C6FF6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-E-0036",
+      "file_name": "Case 24-E-0036 SEAF Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Town of Cheektowaga Section 70 Petition and Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A0FE8C-0000-CE6B-A5AB-711F307AABA2}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "24-E-0036",
+      "file_name": "Town of Cheektowaga Section 70 Petition and Schedules.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Cheektowaga Section 70 Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A0FE8C-0000-C84B-BDEE-B08F5636E5FE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "24-E-0036",
+      "file_name": "Town of Cheektowaga Section 70 Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Town of Cheektowaga RAO Section 70 Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A0FE8C-0000-C3C7-8BC5-96E905237672}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "24-E-0036",
+      "file_name": "Town of Cheektowaga RAO Section 70 Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule D Workpapers for Town of Cheektowaga",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A0FE8C-0000-C22D-8471-D8B37B0B792F}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "24-E-0036",
+      "file_name": "Schedule D Workpapers for Town of Cheektowaga.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C Workpapers for Town of Cheektowaga",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0A0FE8C-0000-CE3A-AB82-8B4590A059A3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "24-E-0036",
+      "file_name": "Schedule C Workpapers for Town of Cheektowaga.xlsx"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A0FE8C-0000-C388-8519-F871F7A18CBC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "24-E-0036",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cheektowaga Inventory - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0A0FE8C-0000-C41B-B641-D735D1FD79D0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "24-E-0036",
+      "file_name": "Cheektowaga Inventory - Redacted.pdf"
+    }
+  ]
+}

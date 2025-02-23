@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0597",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B819C43-B8FD-4E55-9634-0CD5F020D21B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0597",
+      "file_name": "661_22-V-0597.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/13/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01661 Letter to Building Owner 420 W 129",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF191DEC-DC46-46BA-8B90-D38E94815F45}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0597",
+      "file_name": "22-01661 Letter to Building Owner 420 W 129.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 420 West 129th Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5CF8A01-ABEB-4365-928A-BB1AC8288C8B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0597",
+      "file_name": "220823-5 Petition (420 W 129 ST) (Post-Survey).pdf"
+    }
+  ]
+}

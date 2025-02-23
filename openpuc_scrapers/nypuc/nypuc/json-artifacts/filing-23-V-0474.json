@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0474",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50555D8B-0000-CF15-B1E5-F42A325FC1DD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-V-0474",
+      "file_name": "662_23-V-0474 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/04/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00964 Letter to Building Owner Offering Facilitation 246 Broome St re-mail Cert and 1st Class",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1087C089-0000-CA1D-AC25-E7B1C4B8217F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-V-0474",
+      "file_name": "23-00964 Letter to Building Owner Offering Facilitation 246 Broome St remail Cert and 1st Class.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00964 Letter to Building Owner Offering Facilitation 246 Broome St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30336F89-0000-C41D-84E2-0162AD39D3E3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0474",
+      "file_name": "23-00964 Letter to Building Owner Offering Facilitation 246 Broome St.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00964 Letter to Building Owner - 246 Broome St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0AD4888-0000-CA1F-B2AD-19F7A29B6CCE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0474",
+      "file_name": "23-00964 Letter to Building Owner - 246 Broome St.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 246 Broome Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6034E287-0000-C517-868C-C0A8F61E17F3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0474",
+      "file_name": "230503-7 Petition (246 BROOME ST) (Post-Survey).pdf"
+    }
+  ]
+}

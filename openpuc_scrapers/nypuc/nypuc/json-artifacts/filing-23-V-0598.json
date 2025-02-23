@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0598",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1082928C-0000-CC10-8217-1780D4F38DD5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0598",
+      "file_name": "662_23-V-0598 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0481F8B-0000-C252-9E86-F34151074D4F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0598",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Watson 10.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0481F8B-0000-CA17-9B7B-C1ED631FF0C6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0598",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Watson 10.11.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Watson-Request for Renewal and Certificate of Confirmation(redacted) 10.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0481F8B-0000-C34A-A4B8-99F2F39E5FD1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0598",
+      "file_name": "Charter Communications, T. Watson-Request for Renewal and Certificate of Confirmation(redacted) 10.11.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Watson-Cover Letter-Request for Renewal and Certificate of Confirmation 10.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0481F8B-0000-CE28-90D6-92496BBE2AA8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0598",
+      "file_name": "Charter Communications, T. Watson-Cover Letter-Request for Renewal and Certificate of Confirmation 10.11.23.pdf"
+    }
+  ]
+}

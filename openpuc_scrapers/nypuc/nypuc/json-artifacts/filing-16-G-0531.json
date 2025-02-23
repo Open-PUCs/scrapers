@@ -1,0 +1,38 @@
+{
+  "case": "16-G-0531",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Con Edison Response to Appeal (Scarsdale)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4F9C3CC-4A66-43DC-BA7D-184B255C12FF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-G-0531",
+      "file_name": "Con Edison Response to Appeal (Scarsdale).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/13/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BEF49730-396C-43CC-8F37-2543DD915DB8}",
+      "organization": "Scarsdale Golf Club",
+      "itemNo": "2",
+      "docket_id": "16-G-0531",
+      "file_name": "Scarsdale Golf Club-333032.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E775D59-E2D6-4D61-9D01-1EB9E50C0935}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0531",
+      "file_name": "Scarsdale Golf Club vs Con Ed 333032.pdf"
+    }
+  ]
+}

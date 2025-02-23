@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0162",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B913C7B-6C58-4347-AFB2-B0E8AF56F80A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0162",
+      "file_name": "661_17-V-0162.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast, LLC for Approval of the Renewal of its Franchise with Town of Camden, Oneida County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49B934AA-1077-41E4-B667-2F49A0EBC1CF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0162",
+      "file_name": "3 15 17 T Camden PSC app.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0512",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CB30F59-6A2F-4AE2-A8F3-9D600BC10C28}",
+      "organization": "Gateway Development Group, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-E-0512",
+      "file_name": "Request for Informal Hearing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Daniel P. Duthie Esq. regarding handling of case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CF1D897-63A4-41B5-8B39-E745801FE3AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0512",
+      "file_name": "15-E-0512-Gateway Development-11-3-15.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response- With Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F604AA2-13D4-4F22-A25F-A9E4DF399730}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-E-0512",
+      "file_name": "Con Edison Response- With Exhibits.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/15/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35B26488-961B-4F31-9206-78B69CBAC640}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-E-0512",
+      "file_name": "Case 15-E-0512 Con Edison Response.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/23/2015",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F402E84-30ED-416D-A697-8090A3E88FDA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-E-0512",
+      "file_name": "15E0512 Extension Ruling.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/18/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Con Edison Request for Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1807A02-90C6-4E72-96E0-836E1EE0DA47}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0512",
+      "file_name": "Con Edison Request for Extension.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/03/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Gateway Development Group, Inc. for a Declaratory Ruling that the CECONY Must Pay for the Installation of Underground Electric Service for the VillaBXV Cooperative Project with Public Parking Garage.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6D7198E-ADE6-4681-92E9-381E65F2268F}",
+      "organization": "Gateway Development Group, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0512",
+      "file_name": "Gateway Pet for Dec Rul.pdf"
+    }
+  ]
+}

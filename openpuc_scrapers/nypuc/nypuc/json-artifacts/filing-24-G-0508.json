@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0508",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07DC492-0000-C216-B77B-80768A338A69}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "24-G-0508",
+      "file_name": "161-B_24-G-0508 - Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240910 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A04BE291-0000-C317-9FF1-48C34532DB44}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "24-G-0508",
+      "file_name": "20240910 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/16/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240815 - Training Documentation - New York 811",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10935C91-0000-CA47-90D4-2DAC99623298}",
+      "organization": "Bancker Construction Corp.",
+      "itemNo": "6",
+      "docket_id": "24-G-0508",
+      "file_name": "20240815 - Training Documentation - New York 811.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0852790-0000-C41D-A7AD-2948DA70DAD9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0508",
+      "file_name": "20240617 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240205 - Response to NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B02D7A8D-0000-C013-AD0E-DEABC5553CD8}",
+      "organization": "Bancker Construction Corp.",
+      "itemNo": "3",
+      "docket_id": "24-G-0508",
+      "file_name": "20240205 - Response to NOPV Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240126 - Response to NOPV Letter - Written",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007F558D-0000-C612-9453-BD3238A2F20A}",
+      "organization": "Bancker Construction Corp.",
+      "itemNo": "2",
+      "docket_id": "24-G-0508",
+      "file_name": "20240126 - Response to NOPV Letter - Written.pdf"
+    }
+  ]
+}

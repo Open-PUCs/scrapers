@@ -1,0 +1,104 @@
+{
+  "case": "23-E-0118",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "FirstEnergy Pennsylvania Electric Company",
+      "itemNo": "7",
+      "docket_id": "23-E-0118",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Pennsylvania Electric Company",
+      "itemNo": "6",
+      "docket_id": "23-E-0118",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40BB238D-0000-CF12-ABA9-322E16542FA5}",
+      "organization": "FirstEnergy Pennsylvania Electric Company",
+      "itemNo": "5",
+      "docket_id": "23-E-0118",
+      "file_name": "Case No. 23-E-0118 - Ltr to Secretary in PA Consolidation--FILED 1.19.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Merger Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30D61D8D-0000-C111-B5E5-5BE79922CDA4}",
+      "organization": "FirstEnergy Pennsylvania Electric Company",
+      "itemNo": "4",
+      "docket_id": "23-E-0118",
+      "file_name": "Case No. E-23-0118 - NYPSC Merger Notification Ltr FILED 1.18.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Intra-Corporate Reorganization",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703BEE8B-0000-C815-A6CA-C20C8120C02B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0118",
+      "file_name": "373_23-E-0118.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Information Request DPS-03",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B083958B-0000-C43F-B989-82DE6CAA34B1}",
+      "organization": "Pennsylvania Electric Company",
+      "itemNo": "2",
+      "docket_id": "23-E-0118",
+      "file_name": "paconsolidationirresponseDPS-03 10.25.2023 (FINAL).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B083958B-0000-CC16-B83D-6099677BF445}",
+      "organization": "Pennsylvania Electric Company",
+      "itemNo": "2",
+      "docket_id": "23-E-0118",
+      "file_name": "23-E-0118 Filing Letter re. DPS-03 (11.2.23).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "PETITION OF PENNSYLVANIA ELECTRIC COMPANY FOR AN ORDER AUTHORIZING THE PROPOSED INTRA-CORPORATE MERGER PURSUANT TO SECTION 70 OF THE NEW YORK PUBLIC SERVICE LAW",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20D0B886-0000-C538-9ACE-AD5459909BD9}",
+      "organization": "Pennsylvania Electric Company",
+      "itemNo": "1",
+      "docket_id": "23-E-0118",
+      "file_name": "Case 23-E-_____ - Penelec Petition with Attachments 03.06.23.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Penelec Petition Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20D0B886-0000-C81E-9618-FA994E327577}",
+      "organization": "Pennsylvania Electric Company",
+      "itemNo": "1",
+      "docket_id": "23-E-0118",
+      "file_name": "Case 23-E-_____ - Penelec Petition Transmittal Letter 03.06.23.pdf"
+    }
+  ]
+}

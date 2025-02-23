@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0211",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Massena Electric Department",
+      "itemNo": "6",
+      "docket_id": "18-E-0211",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18EA18F3-18AD-431F-9416-DEC674FF39FF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0211",
+      "file_name": "361_18-E-0211.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2018",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves New Cryptocurrency Electricity Rates for Upstate Utility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BC5C9B0-844D-4ED5-A6E9-A384DA2AE782}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0211",
+      "file_name": "pr18052.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Massena Electric Department Submits Letter Regarding Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85D1A4D6-B495-4B61-94BE-A8FD3F4A068E}",
+      "organization": "Massena Electric Department",
+      "itemNo": "3",
+      "docket_id": "18-E-0211",
+      "file_name": "Massena Elec. Dept. Supplemental Letter in Case 18-E-0211 - July 10, 2018.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Massena Electric Department Submits Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EAD87E9-B7EE-4823-B3F9-C03063285C98}",
+      "organization": "Massena Electric Department",
+      "itemNo": "2",
+      "docket_id": "18-E-0211",
+      "file_name": "Massena Elec. Dept. Affidavit of Newspaper Notice Publication_SC-8_Revision.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/06/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Massena Electric Department",
+      "itemNo": "1",
+      "docket_id": "18-E-0211",
+      "file_name": ""
+    }
+  ]
+}

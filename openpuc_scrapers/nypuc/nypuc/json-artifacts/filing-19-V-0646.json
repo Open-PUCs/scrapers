@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0646",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Form R2 - Town of Providence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DF96B4D-D864-481A-B381-26FAEAE849A0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0646",
+      "file_name": "R2 - Town of Providence.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={457A3C7C-0178-4695-B8E9-855A88569A7E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0646",
+      "file_name": "Charter Communications, Inc. - Letter to PSC Secretary -Franchise Information - Providence.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27829CC2-A760-4C9B-9AEF-8F1536C02EFF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0646",
+      "file_name": "661_19-V-0646.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/02/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Providence, Saratoga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0EB7A7C8-D2EF-46B1-B9A5-A8B3900CFB07}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0646",
+      "file_name": "PSC Franchise Renewal ProvidenceTown Oct2019 (003).pdf"
+    }
+  ]
+}

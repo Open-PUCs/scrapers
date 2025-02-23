@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0336",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240816 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0369A91-0000-C81E-98C7-C9451F16144F}",
+      "organization": "Skaneateles Scapes, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0336",
+      "file_name": "20240816 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C01391-0000-C314-BCEF-2E511051CE9F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-G-0336",
+      "file_name": "161-B_24-G-03368224final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90DEC68D-0000-C317-9061-240A0EA68D2C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0336",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

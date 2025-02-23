@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0712",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF72F01F-C9B7-4174-9A2B-92C906970512}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0712",
+      "file_name": "666_15v0712.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Canisteo, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E90B582F-26EB-4D35-93A2-405EA426A40B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0712",
+      "file_name": "Canisteo, Vlg - Franchise Renewal Docs to PSC, 12.14.15.pdf"
+    }
+  ]
+}

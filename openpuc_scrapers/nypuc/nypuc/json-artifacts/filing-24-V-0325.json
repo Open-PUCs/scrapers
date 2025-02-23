@@ -1,0 +1,71 @@
+{
+  "case": "24-V-0325",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60501F92-0000-CD14-A86E-604776848785}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0325",
+      "file_name": "661_24-V-0325.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Moravia Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B19890-0000-CD22-9E8D-8EE37E7DBC63}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "3",
+      "docket_id": "24-V-0325",
+      "file_name": "Village of Moravia Resolution.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Moravia Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30B19890-0000-C21F-A652-00644A9CBEF0}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "3",
+      "docket_id": "24-V-0325",
+      "file_name": "Village of Moravia Affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B19890-0000-C449-A762-700C5EB9AACA}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "3",
+      "docket_id": "24-V-0325",
+      "file_name": "Zito Cover letter Supplemental Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Application for Legal Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0461290-0000-CA1F-8C5E-542A94BDD515}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0325",
+      "file_name": "Affidavit of Application for Legal Notice.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Zito New York, LLC for Approval of the Renewal of its Franchise with the Village of Moravia, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A8C98F-0000-C915-8EDE-C089CA46A71E}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0325",
+      "file_name": "Franchise Renewal Package Village of Moravia, NY 5.22.2024.pdf"
+    }
+  ]
+}

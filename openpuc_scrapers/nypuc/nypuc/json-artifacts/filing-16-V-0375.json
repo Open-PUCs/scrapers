@@ -1,0 +1,49 @@
+{
+  "case": "16-V-0375",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73F8548A-D8DA-4C2C-9F53-88AF518883C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-V-0375",
+      "file_name": "661_16v0375.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Published Legal Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2CD937F-1232-49D3-BDE5-B49893755F29}",
+      "organization": "Charter Communications",
+      "itemNo": "3",
+      "docket_id": "16-V-0375",
+      "file_name": "Ltr to PSC re amendment to franchise 10 19 16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for Approval of Amendment to Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF066F82-C429-4CFD-A856-EBC9B087E1D0}",
+      "organization": "Time Warner Cable",
+      "itemNo": "2",
+      "docket_id": "16-V-0375",
+      "file_name": "06202016 psc submission re amendment to franchise -- fee.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment of Franchise Agreement with Time Warner Cable",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33BB979D-6A3C-43FE-BD76-B87B1B7EDBD3}",
+      "organization": "Town of Harpersfield",
+      "itemNo": "1",
+      "docket_id": "16-V-0375",
+      "file_name": "CCF05112016.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "21-C-0213",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/18/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Amendment to Eligible Telecommunications Carrier Designation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85C77A9E-9DCF-44FE-ACC6-8EB690DBE389}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-C-0213",
+      "file_name": "567_21-C-0213.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NYS-Petition-ExpandedETC-RDOF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={379B20EF-2F58-40E0-BAAA-654A4C382012}",
+      "organization": "Citizens Telecommunications Company of New York, Inc. d/b/a Frontier Communications of New York, Frontier Communications of AuSable Valley, Inc., Frontier Communications of Seneca-Gorham, Inc., Frontier Telephone of Rochester, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0213",
+      "file_name": "NYS-Petition-ExpandedETC-RDOF-1-5-21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NYS-Frontier-Petition-RDOF-ETC-ExpansionCensusBlocks-ExhibitA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82BA3AE5-82A0-4C17-BE0E-7B9CF181472C}",
+      "organization": "Citizens Telecommunications Company of New York, Inc. d/b/a Frontier Communications of New York, Frontier Communications of AuSable Valley, Inc., Frontier Communications of Seneca-Gorham, Inc., Frontier Telephone of Rochester, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0213",
+      "file_name": "Copy of NYS-Frontier-Petition-RDOF-ETC-ExpansionCensusBlocks-ExhibitA.xlsx"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "FTR-Petition-RDOF-ETC-Expansion-Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CA442CB-A05D-4FD3-B5C6-67D26255ADEF}",
+      "organization": "Citizens Telecommunications Company of New York, Inc. d/b/a Frontier Communications of New York, Frontier Communications of AuSable Valley, Inc., Frontier Communications of Seneca-Gorham, Inc., Frontier Telephone of Rochester, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0213",
+      "file_name": "FTR-Petition-RDOF-ETC-Expansion-CoverLetter-1-5-21.pdf"
+    }
+  ]
+}

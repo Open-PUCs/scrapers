@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0470",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20CC5A8C-0000-C61A-8057-ADC1E1ED2C96}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0470",
+      "file_name": "Town of Pinckney AFP Notice, Affidavit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BD5A8C-0000-CA36-901A-D52300BA1BA7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0470",
+      "file_name": "2023.12.11 T. Pinckney-Cover Letter_AFP Legal Notice,Affidavit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/02/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-V-0470 AFP T of Pinckney Approval Ltr 11.2.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0AB908B-0000-C218-82CF-F597F90E493A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0470",
+      "file_name": "23-V-0470 AFP T of Pinckney Approval Ltr 11.2.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Pinckney for a Waiver of the Requirements of 16 NYCRR, Section 894.9 Regarding Alternative Franchising Procedure to Receive Service from Spectrum Northeast, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F02C8A-0000-CF3E-9593-22C573751357}",
+      "organization": "Town of Pinckney",
+      "itemNo": "1",
+      "docket_id": "23-V-0470",
+      "file_name": "2023.08.25 Sprectrum Northeast, LLC-Request for Waiver of 16 NYCRR Sec 894 on behalf of T.Pinckney.ak.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F02C8A-0000-C716-8435-ADEE9C38C50B}",
+      "organization": "Town of Pinckney",
+      "itemNo": "1",
+      "docket_id": "23-V-0470",
+      "file_name": "2023.08.25 Sprectrum Northeast, LLC Cover Letter - Request for Waiver of 16 NYCRR Sec 894 on behalf of T.Pinckney.ak.pdf"
+    }
+  ]
+}

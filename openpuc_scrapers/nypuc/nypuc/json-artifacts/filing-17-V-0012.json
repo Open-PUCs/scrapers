@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0012",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EF9F3BC-B331-449E-A7B1-29B1EAD37DFB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0012",
+      "file_name": "661_17-V-0012.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Busti, Chautauqua, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF58457A-A63E-427B-9BC0-2E9250BFF39A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0012",
+      "file_name": "01.11.17 BUSTI, TN- RENEWAL TO PSC.pdf"
+    }
+  ]
+}

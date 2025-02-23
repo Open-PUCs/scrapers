@@ -1,0 +1,104 @@
+{
+  "case": "17-E-0666",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D44B5A20-C999-4B0C-AEE5-F5598457E752}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "8",
+      "docket_id": "17-E-0666",
+      "file_name": "2018-08-22 NYSEG Section 70 - Final JE Update (18-E-0025,17-E-0737, 17-E-0666, 17-E-0658).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1005B2C9-B1F1-4A25-8257-CB6D803F6C6E}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "8",
+      "docket_id": "17-E-0666",
+      "file_name": "2018-08-22 NYSEG SL Sales Attachment JE8 (18-E-0025,17-E-0737, 17-E-0666, 17-E-0658).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/29/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Sale Journal Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24371ACB-5FDB-4E93-BB20-BB9238C21B71}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "7",
+      "docket_id": "17-E-0666",
+      "file_name": "2018-06-29 NYSEG Section 70 - Town of Owego SL Final JEs (17-E-0666).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={447FDE95-A2A3-4050-8715-9A3C989D0B6C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0666",
+      "file_name": "17-E-0666-NYSEG-Ruling on Extension Request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Extension Request - NYSEG SL Sale Town of Owego",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={950F2663-E60D-4901-81D7-3AC8BC8FB127}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "17-E-0666",
+      "file_name": "2018-05-21 NYSEG Section 70 - Town of Owego SL Sale Extension Request(17-E-0666).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB6360D8-B4CE-410E-8A92-F5593ABB124C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0666",
+      "file_name": "369_17-E-0666 Notice of Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities to the Town of Owego",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8829BE1D-EFF3-4346-B14F-70CD974B525D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0666",
+      "file_name": "369_17-E-0666 Order.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/27/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C88ABDFB-BAAC-43D5-82E5-061EA31B5B07}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0666",
+      "file_name": "SEAF Cover Letter and Forms to Secretary Case 17-E-0666 Owego 2-27-18.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York State Electric & Gas Corporation for Authority, Pursuant to Public Service Law Section 70, to Transfer to the Town of Owego Street Lighting Facilities Installed Throughout the Town of Owego with an Original Value over $100,000.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={144803CD-9095-4D09-BC00-947606AC4FF4}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0666",
+      "file_name": "2017-11-07 NYSEG Section 70 Petition - Town of Owego SL Sale.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0712",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240210 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0050B8E-0000-C91F-A4D8-B6A43F94BFE4}",
+      "organization": "Yesod Group, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-G-0712",
+      "file_name": "20240210 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B9418D-0000-C51D-A162-1C35FB8E0D84}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0712",
+      "file_name": "161-A_23-G-0712.pdf"
+    }
+  ]
+}

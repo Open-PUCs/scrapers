@@ -1,0 +1,27 @@
+{
+  "case": "15-E-0736",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/15/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24F484CD-B80F-4170-852E-779EB2D2A984}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-E-0736",
+      "file_name": "369_15e0736 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Longhouse Cooperative to Submeter Electricity at 772 Elm Street, Extension, Ithaca, NY Located in the Territory of New York State Electric & Gas Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8380234-5DFB-4491-8978-21C643FFF03D}",
+      "organization": "Longhouse Cooperative",
+      "itemNo": "1",
+      "docket_id": "15-E-0736",
+      "file_name": "Longhouse PSC application, v4 (1).pdf"
+    }
+  ]
+}

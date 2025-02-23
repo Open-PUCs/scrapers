@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0196",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B59C3749-BA15-4960-BC0B-BBE5B8660165}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0196",
+      "file_name": "380_21-E-0196 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Generation Bridge Acquisition,LLC and NRG Energy, Inc. for a Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFDDBBE6-BCDE-487D-9784-051E8251368E}",
+      "organization": "Generation Bridge Acquisition, LLC, NRG Energy, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0196",
+      "file_name": "Petition4.5.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFDF27F1-C71B-48F0-8359-B9412356277D}",
+      "organization": "Generation Bridge Acquisition, LLC, NRG Energy, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0196",
+      "file_name": "Petitioncoverletter4.5.21.pdf"
+    }
+  ]
+}

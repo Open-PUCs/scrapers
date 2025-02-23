@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0600",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240708 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00929290-0000-C31B-8687-91D7835CE69F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0600",
+      "file_name": "20240708 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240220 - Response to NOPV Letter - Verbal Conversation with Property Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E084C78D-0000-CD1E-947B-A675AB1AE09A}",
+      "organization": "The Original Erie Fence Company LLC",
+      "itemNo": "2",
+      "docket_id": "24-G-0600",
+      "file_name": "20240220 - Response to NOPV Letter - Verbal conversation with property owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/30/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240129 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0995B8D-0000-CB11-B1B1-801485EE051E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0600",
+      "file_name": "20240129 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/30/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240129 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0995B8D-0000-C275-9634-9351A2F3E853}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0600",
+      "file_name": "20240129 - Citation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/30/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240119 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0995B8D-0000-C95A-8F5E-BC41883FAABC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0600",
+      "file_name": "20240119 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/30/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20231209 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0995B8D-0000-C838-9A25-2B3681C345B3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0600",
+      "file_name": "20231209 - Origin of Investigation.pdf"
+    }
+  ]
+}

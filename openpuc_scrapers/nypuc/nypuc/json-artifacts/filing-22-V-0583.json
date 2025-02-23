@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0583",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={854CA4FF-2C2C-4487-8412-D8BB5A6FADCB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0583",
+      "file_name": "662_22-V-0583.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5785E1F0-FCB6-44E2-ACB6-29D8316FB05A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0583",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Alden_10.14.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01BEA26-1BED-4996-8D9E-4854F4893F94}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0583",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Alden_10.14.22 R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Alden Request for Renewal, Certificate of Confirmation-REDACTED 10.14.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F8EB75A-59F8-4190-9D17-EB6A707D65A0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0583",
+      "file_name": "Charter Communications, T. Alden Request for Renewal, Certificate of Confirmation-REDACTED 10.14.2022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Alden Cover Letter Request - for Renewal, Certificate of Confirmation 10.14.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9E57778-5157-4D7B-A324-52E1C8DDEFB1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0583",
+      "file_name": "Charter Communications, T. Alden Cover Letter Request - for Renewal, Certificate of Confirmation 10.14.22.pdf"
+    }
+  ]
+}

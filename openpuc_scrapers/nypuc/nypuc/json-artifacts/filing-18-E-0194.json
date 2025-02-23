@@ -1,0 +1,104 @@
+{
+  "case": "18-E-0194",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/14/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Resident notification letters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B7A45D7-A501-40A4-B90F-8392CEC0752B}",
+      "organization": "41-45 Property Owner, LLC",
+      "itemNo": "9",
+      "docket_id": "18-E-0194",
+      "file_name": "compliance letter 2-14-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/11/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E94997E2-B04B-4C0B-8617-B6C0EA2EB22C}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "18-E-0194",
+      "file_name": "18-E-0194-41-45 PropertyOwner-QuadGraphics-Extension Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85051EA5-ECD1-45D1-A6F3-879CDC67025A}",
+      "organization": "41-45 Property Owner, LLC",
+      "itemNo": "7",
+      "docket_id": "18-E-0194",
+      "file_name": "letter 1-9-2019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/28/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Notice to Residents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85662A37-AE74-47FE-AE3B-B91DD7873C5F}",
+      "organization": "41-45 Property Owner, LLC",
+      "itemNo": "6",
+      "docket_id": "18-E-0194",
+      "file_name": "letter 12-28-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/22/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "notice letter 10-22-18",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3B27233-0098-482B-9B11-B282A23A89FC}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "18-E-0194",
+      "file_name": "notice letter 10-22-18.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3E0ECD7-BE8C-4B49-811D-B92FB75DA034}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0194",
+      "file_name": "365_18-E-0194.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECBB48C8-EF51-4EF1-9F93-AD15B8DBBD48}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "18-E-0194",
+      "file_name": "response letter 7-5-18.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 520 Park Avenue, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CEB79EFE-BB65-443A-BD54-D6979FF9A9C5}",
+      "organization": "41-45 Property Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0194",
+      "file_name": "response letter 4-9-18.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 41-45 Property Owner, LLC to Submeter Electricity at 520 Park Avenue, New York, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C43CE529-D969-47F0-A26A-2E5225239352}",
+      "organization": "41-45 Property Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0194",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "17-E-0601",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B299CD45-6349-423C-9063-A419E44B4423}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-E-0601",
+      "file_name": "374_17-E-0601.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Calpine Corporation and ECP ControlCo, LLC for a Declaratory Ruling that Public Service Law Section 70 Does Not Apply to the Proposed Transaction, or in the Alternative, for Approval of the Proposed Transaction Pursuant to Section 70 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B77131C-0216-460D-A09F-989BAA3EE5C5}",
+      "organization": "Calpine Corporation, ECP ControlCo, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0601",
+      "file_name": "Joint Petition of ECP and Calpine (NYPSC) (9-15-2017).pdf"
+    }
+  ]
+}

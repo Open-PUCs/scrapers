@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0477",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32C7BD12-CC0E-4E2F-B637-E8EDC2F030D5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0477",
+      "file_name": "663_22-V-0477.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/09/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F89F9A2-F876-4BE3-9D6E-662196951950}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0477",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Forestburgh Letter R-2 08.04.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4FE4A3F-F76F-49B7-B25B-FCCDBCD1BA6A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0477",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Forestburgh Letter R-2 08.04.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Forestburgh-Request for Renewal and Certificate of Confirmation (Redacted) 08.4.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77AFC460-B1BC-4E07-81B0-9736C19C6AE6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0477",
+      "file_name": "Charter Communications, T. Forestburgh-Request for Renewal and Certificate of Confirmation (Redacted) 08.4.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/09/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Forestburgh Cover Letter-Request for Renewal and Certificate of Confirmation 08.4.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33519BBF-7ECD-4201-A827-0C7FC8009B03}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0477",
+      "file_name": "Charter Communications, T. Forestburgh Cover Letter-Request for Renewal and Certificate of Confirmation 08.4.22.pdf"
+    }
+  ]
+}

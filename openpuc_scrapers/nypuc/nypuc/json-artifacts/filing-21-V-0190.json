@@ -1,0 +1,93 @@
+{
+  "case": "21-V-0190",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/16/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87833914-0513-4619-92BA-B01AB199EE1A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-V-0190",
+      "file_name": "668_21-V-0190 Neg Dec final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B9C346-71C7-4B74-81E7-6ABD74854458}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0190",
+      "file_name": "668_21-V-0190 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/14/2021",
+      "nypuc_doctype": "Reports",
+      "name": "21-V-0190 MTC Cable & Town of Shandaken SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD21118A-4670-487E-BA85-2EF9DCAE9957}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-V-0190",
+      "file_name": "21-V-0190 MTC Cable & Town of Shandaken SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Shandaken proof of pub",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={015A53DA-0D3B-4D10-A95E-D19B7D253783}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "21-V-0190",
+      "file_name": "Town of Shandaken proof of pub.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit Town of Shan (proof of Pub)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F1A63C4-D04B-4D0B-A5C3-B3D6F34134F2}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "21-V-0190",
+      "file_name": "Affidavit Town of Shan (proof of Pub).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/31/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of MTC Cable for a Certificate of Confirmation - Exhibit 1-8",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51D139A7-AAC8-452F-9AE7-B5D487C5CB91}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "21-V-0190",
+      "file_name": "Exhibit 1-8.PDF"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/31/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 9FCC Technical Standards (Proof of Performance) Compressed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1DAE728-7EFE-455F-B347-DEC16F55F34D}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "21-V-0190",
+      "file_name": "Exhibit 9FCC Technical Standards (Proof of Performance) Compressed.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/31/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 10",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1C5031D-04D6-4173-AAC9-994F3A000CA3}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "21-V-0190",
+      "file_name": "Exhibit 10.PDF"
+    }
+  ]
+}

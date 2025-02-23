@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0421",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/18/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Sherburne",
+      "itemNo": "5",
+      "docket_id": "19-E-0421",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments With Modification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D334AA9-5C00-48F4-AEBD-80DC5DB68F18}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0421",
+      "file_name": "371_19-E-0421.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/30/2019",
+      "nypuc_doctype": "Comments",
+      "name": "JU SIR Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90CFF915-A3BF-4C87-A52A-0AEE42D9EBB2}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-E-0421",
+      "file_name": "JU SIR Comments.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/09/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B8AF5F0-C916-4F5E-BC2E-E6E1CCDEB68B}",
+      "organization": "Village of Sherburne",
+      "itemNo": "2",
+      "docket_id": "19-E-0421",
+      "file_name": "Case 19-E-0421 Proof of Publication Aug 2019.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Sherburne",
+      "itemNo": "1",
+      "docket_id": "19-E-0421",
+      "file_name": ""
+    }
+  ]
+}

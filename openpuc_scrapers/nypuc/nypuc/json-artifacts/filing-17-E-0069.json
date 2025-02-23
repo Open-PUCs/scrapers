@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0069",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4142FFD0-40F8-43E5-954F-6966F634561A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0069",
+      "file_name": "17-E-0069 Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/14/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEC62A7E-8DD3-4F86-AE86-3637FEEDA88C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0069",
+      "file_name": "376_17-E-0069 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form - Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A15F9EB-081E-4135-A305-B0AC0E6A5239}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0069",
+      "file_name": "17E0069 EAF Parts 2+3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Alcoa Power Generating Inc. for an Order Approving the Transfer of Land Pursuant to New York State Public Service Law Section 70 and for an Order Regarding Water Plant Assets",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={659E9AA6-4E7D-43FD-8BF2-9B8C94077ECA}",
+      "organization": "Alcoa Power Generating Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0069",
+      "file_name": "ALCOA - Land Transfer Section 70 Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CB20DA2-9D8D-4E4A-BB17-65099B230340}",
+      "organization": "Alcoa Power Generating Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0069",
+      "file_name": "Cover Letter - ALCOA Land Transfer Section 70 Petition.pdf"
+    }
+  ]
+}

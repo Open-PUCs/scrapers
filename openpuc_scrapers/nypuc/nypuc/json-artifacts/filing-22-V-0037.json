@@ -1,0 +1,27 @@
+{
+  "case": "22-V-0037",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A234AACE-38AB-4A5D-9D33-2443E4085B6F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0037",
+      "file_name": "661_22-V-0037.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Northampton, Fulton County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECB9B4A1-CAB1-44F6-AEE5-50EE99C2FFAC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0037",
+      "file_name": "T. Northampton Filed with PSC.pdf"
+    }
+  ]
+}

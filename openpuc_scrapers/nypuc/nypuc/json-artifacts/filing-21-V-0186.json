@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0186",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F057D23-C502-4D29-A753-1F0FE589A7EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0186",
+      "file_name": "667_21-V-0186 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "T. STOCKBRIDGE RENEWAL FILED, PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC1C4E5B-7BCD-4C41-9168-45F678CFD7F6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0186",
+      "file_name": "2021.03.26 T. STOCKBRIDGE RENEWAL FILED, PSC.pdf"
+    }
+  ]
+}

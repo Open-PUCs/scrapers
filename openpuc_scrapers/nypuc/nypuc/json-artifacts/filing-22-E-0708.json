@@ -1,0 +1,93 @@
+{
+  "case": "22-E-0708",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0C48D8C-0000-C716-A820-0A1E17F8BFC7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0708",
+      "file_name": "378_22-E-0708.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter to post manufacturers Specification Sheet for KOR-20ER",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D3A98A-0000-CB1B-8FAA-5B232250DFE5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0708",
+      "file_name": "Cover Letter to post manufacturers Specification Sheet for KOR-20ER.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "ABB KOR-20ER Specification Sheet (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D3A98A-0000-C038-B54A-8CB66B0A645E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0708",
+      "file_name": "ABB KOR-20ER Specification Sheet (1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "VEIKI VNL 9629 KOR-20ER STC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE11839D-D6ED-4CBA-9EA5-BA07ED905495}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0708",
+      "file_name": "VEIKI VNL 9629 KOR-20ER STC.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Report for ABB KOR-20ER extended range outdoor metering Current Transformer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F195D1B2-0D7C-45C9-A05F-C1F6FCA0B8B8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0708",
+      "file_name": "Report for ABB KOR-20ER extended range outdoor metering Current Transformer.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. for Approval of ABB KOR-20ER Extended Range/High Accuracy Current Transformer.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EA2C0E2-E10E-45ED-A65A-B10F985C038A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0708",
+      "file_name": "Letter of Intent to Use KOR-20ER Instrument CT.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "IVEP 82-1753 KOR-20ER wet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31A4BA5E-7341-4158-9296-A61903CA2C24}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0708",
+      "file_name": "IVEP 82-1753 KOR-20ER wet.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "1VLR019068 KOR-20ER type test IEEE 2016",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C77D2616-36EA-4797-B624-E5A99427C86D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0708",
+      "file_name": "1VLR019068 KOR-20ER type test IEEE 2016.pdf"
+    }
+  ]
+}

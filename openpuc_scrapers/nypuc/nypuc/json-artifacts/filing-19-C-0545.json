@@ -1,0 +1,38 @@
+{
+  "case": "19-C-0545",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={951C10BB-690F-4362-ABBB-AE012EFF80C7}",
+      "organization": "GTT Americas, LLC",
+      "itemNo": "3",
+      "docket_id": "19-C-0545",
+      "file_name": "NYx1901a.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Letters",
+      "name": "19-C-0545.19-01818 Access Point Stop Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89D126EF-8615-4262-A9CF-0A8558AC3684}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-C-0545",
+      "file_name": "19-C-0545.19-01818 Access Point Stop Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of GTI Americas, LLC for Approval of the Transfer of Indirect Control of Access Point, Inc. to GTI Americas, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64F9CAA5-8B91-47A2-80C7-115139C47519}",
+      "organization": "Access Point, Inc., GTT Americas, LLC",
+      "itemNo": "1",
+      "docket_id": "19-C-0545",
+      "file_name": "NYx1902.pdf"
+    }
+  ]
+}

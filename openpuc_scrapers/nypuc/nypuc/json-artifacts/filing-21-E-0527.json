@@ -1,0 +1,82 @@
+{
+  "case": "21-E-0527",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8069D08C-0000-C015-8C2F-38A28B264BD4}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0527",
+      "file_name": "391_21-E-0527_Letter final 1324.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8069D08C-0000-C837-B33F-2D2FCC34E3CC}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0527",
+      "file_name": "391_21-E-0527_Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Mordy Sohn v Con Edison - Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE8AA976-7C77-4519-A069-66F27D5490B5}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "5",
+      "docket_id": "21-E-0527",
+      "file_name": "21-E-0527 - Mordy Sohn v Con Edison - Supplemental Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D1D8674-99FF-46D0-9B70-977F203C7DCA}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0527",
+      "file_name": "21-E-0527 Mordy Sohn - Con Edison Response to Appeal (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E2D0A71-BE0E-4B88-A9B7-054DB78DB29F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0527",
+      "file_name": "101044 Mordy Sohn Ack .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/20/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={287E142F-D0B9-467A-96B3-7F3915A73A3E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-E-0527",
+      "file_name": "Appeal 101044.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4DF5678-126C-4BF5-9DA5-211423FF594C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0527",
+      "file_name": "IR 101044.pdf"
+    }
+  ]
+}

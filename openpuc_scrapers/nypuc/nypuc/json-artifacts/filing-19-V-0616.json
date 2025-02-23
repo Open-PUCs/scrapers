@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0616",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7820309B-1A3B-45E8-9778-1374CD3D6E2F}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-V-0616",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Verizon Reactivation Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B663BAC-BF09-4F1D-B1CC-3A6C72C5DEF9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "19-V-0616",
+      "file_name": "201110 Letter re Matter 18-01358 (reactivation).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2627426E-FA8B-4764-9CEF-36A833D59426}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0616",
+      "file_name": "190520 VZ Letter re 2100 Beekman Pl (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB1354EB-A5DF-4C8D-802B-5E1A3BBEEB4B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-V-0616",
+      "file_name": "18-01358 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E317DAD0-0C71-46D4-96B2-B96BC1B9F8A2}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-V-0616",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2100 Beekman Place, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={054A2DA9-02A7-4748-B629-0D3CEFD411FF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0616",
+      "file_name": "Petition (2100 Beekman Pl).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E23B3B78-89D8-4089-AD3F-64FC981D5BAB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0616",
+      "file_name": "Exhibit 2 (2100 Beekman Pl).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81186577-970D-4AEB-9468-063E9C42243E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0616",
+      "file_name": "Exhibit 1 (2100 Beekman Pl).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "16-T-0684",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11A92093-7A2A-448C-96F5-FAA463C5EBBE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-T-0684",
+      "file_name": "16-T-0684-Part 102 ltr .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation d/b/a National Grid Concerning the Pannell-Geneva 4/4A 115 kV Maintenance Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14F66D6F-ED50-47FE-809A-DE114A8FF320}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0684",
+      "file_name": "Pannell-Geneva 4_4A Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2078F423-355E-4EEE-BA5D-4A6FF46FC2C3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0684",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

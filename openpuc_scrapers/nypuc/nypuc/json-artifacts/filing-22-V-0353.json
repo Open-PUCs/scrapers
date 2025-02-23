@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0353",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38A2AD98-824D-4F92-B1C9-C42E42F149C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0353",
+      "file_name": "661_22-V-0353.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF4E2140-2640-40BD-81FB-B75CD64117E8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0353",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. LeRay-6.15.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E51B32B1-D804-4D7F-9683-AB76273E087E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0353",
+      "file_name": "Charter Confidential Treatment Request to RAO T. LeRay-6.15.22 R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. LeRay Request- for Renewal and Certificate of Confirmation (Redacted) 6.15.22,ak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={775DB468-8A09-424B-8E51-C5BB782C73B4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0353",
+      "file_name": "Charter Communications, T. LeRay Request- for Renewal and Certificate of Confirmation (Redacted) 6.15.22,ak.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. LeRay Cover Letter Request- Renewal,Certificate of Confirmation 6.15.22,ak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB8E4884-933B-4B4C-8C20-650CE23500A7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0353",
+      "file_name": "Charter Communications, T. LeRay Cover Letter Request- Renewal,Certificate of Confirmation 6.15.22,ak.pdf"
+    }
+  ]
+}

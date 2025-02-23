@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0408",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF2E5BFF-E5BB-4D65-A4A8-87A69997329C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0408",
+      "file_name": "379_16E0408 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Updated Verification Page",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11C4A4E4-2B51-4E0F-9C61-BF0B809565B8}",
+      "organization": "730 Cricket LLC, AP Cricket Valley Holdings II Inc., APNA Holdings GmbH, ASG Frontier Holding LLC, BlackRock Financial Management, Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0408",
+      "file_name": "Executed BlackRock Verification 07-22-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A24D32E1-160A-4841-AA45-4DE48C74166C}",
+      "organization": "730 Cricket LLC, AP Cricket Valley Holdings II Inc., APNA Holdings GmbH, ASG Frontier Holding LLC, BlackRock Financial Management, Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0408",
+      "file_name": "Cover Letter - Verification Page.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings LLC, AP Cricket Valley Holdings II, Inc., APNA Holdings GmbH, 730 Cricket, LLC, BlackRock Financial Management, Inc. and ASG Frontier Holdings, LLC for a Declaratory Ruling Regarding Transfers of Upstream Ownership Interests or, in the Alternative, an Order Approving the Transfers Pursuant to Section 70 of the New York State Public Service Law and for a Declaratory Ruling that 730 Cricket, LLC, BlackRock Financial Management, Inc. and ASG Frontier Holdings, LLC Will Not Become an Electric Corporation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA608A68-0A1B-4AF8-A115-A7212010882F}",
+      "organization": "730 Cricket LLC, AP Cricket Valley Holdings II Inc., APNA Holdings GmbH, ASG Frontier Holding LLC, BlackRock Financial Management, Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0408",
+      "file_name": "Cricket Valley Petition 7-22-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9E2EBD5-6A63-4F72-8CEE-2B910259E4D3}",
+      "organization": "730 Cricket LLC, AP Cricket Valley Holdings II Inc., APNA Holdings GmbH, ASG Frontier Holding LLC, BlackRock Financial Management, Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0408",
+      "file_name": "Cover letter 7-22-16.pdf"
+    }
+  ]
+}

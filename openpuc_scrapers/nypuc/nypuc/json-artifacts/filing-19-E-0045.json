@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0045",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/12/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter re Transfer of Transmission Facility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF769EE0-0CC2-449F-8D35-4D2EE0A7BBD2}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-E-0045",
+      "file_name": "LAW1-_723677-v2-Ltr_to_PSC_Burgess_re_Transfer_of_Transmission_Facility.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/19/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CF74C7D-8823-42E1-9AD3-93B7DAC28D58}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0045",
+      "file_name": "373_19-E-0045 Notice of Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer and Accounting Treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B038C34A-EDCA-43F7-B472-8413DA2F32E8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0045",
+      "file_name": "373_19-E-0045 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cricket Valley Energy Center, LLC and Consolidated Edison Company of New York, Inc. for Approval of Transfers Pursuant to Sections 70 and 121 of the New York Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A15FBB68-3E45-4AD5-8DEE-FCF894AFBB4D}",
+      "organization": "Consolidated Edison Company of New York, Inc., Cricket Valley Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0045",
+      "file_name": "Final Petition Executed 1-17-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={606A5AEE-0453-4771-846D-2786471CCB04}",
+      "organization": "Consolidated Edison Company of New York, Inc., Cricket Valley Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0045",
+      "file_name": "Cover Letter Verified 70 121 Petition 1-17-19.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "20-E-0455",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9FF7AA7-EF93-49BC-B070-00B0E66EC9C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0455",
+      "file_name": "363_20-E-0455 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35B15E41-D0F0-48A8-BA4C-7CF157F4CE00}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0455",
+      "file_name": "363_20-E-0455 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/14/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={341406F4-9D43-43F2-B075-2B12A5B4AE58}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0455",
+      "file_name": "Appeal 966112 Boston Tremont HDFC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01E40009-DB77-4AB3-BED8-5E29BD47DAB8}",
+      "organization": "Boston Tremont Housing Development Fund Corp./Phipps Houses Services Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0455",
+      "file_name": "Appeal 966112.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/14/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDE6DD38-624F-44DF-9407-14E174FB3ADF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0455",
+      "file_name": "Case 966112 (Boston HDFC-URAC vs Con Edison) IR decision.pdf"
+    }
+  ]
+}

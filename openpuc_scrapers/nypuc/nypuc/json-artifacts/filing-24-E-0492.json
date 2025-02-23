@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0492",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/26/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Owner SMR Request 08192024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30FD8F91-0000-CA49-9868-F2278F1F447D}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0492",
+      "file_name": "Owner SMR request 08192024_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/26/2024",
+      "nypuc_doctype": "Letters",
+      "name": "265187 Smyth SMD Final 07122024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F88F91-0000-C011-B3E0-CE7ECBF58703}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0492",
+      "file_name": "265187 Smyth SMD Final 07122024_Redacted.pdf"
+    }
+  ]
+}

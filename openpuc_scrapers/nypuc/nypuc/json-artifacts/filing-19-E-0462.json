@@ -1,0 +1,38 @@
+{
+  "case": "19-E-0462",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/12/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0448ACF-0B7A-42F0-90B2-09834F7FAF4A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0462",
+      "file_name": "373_19-E-0462.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition 6-17-19",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FBE4A1B-DC08-4E0C-8B4B-84F4316E7B2A}",
+      "organization": "Idemitsu Kosan Co., Ltd., Shoseki US Capital Inc., Showa Shell Sekiyu K.K.",
+      "itemNo": "1",
+      "docket_id": "19-E-0462",
+      "file_name": "Petition 6-17-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Idemitsu Kosan Co., Ltd., Shoseki US Capital Inc., and Showa Shell Sekiyu K.K., for a Declaratory Ruling Regarding a Transfer of Ownership Interests or, Alternative, an Approval Pursuant to Section 70 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24AF2F30-8C90-4B2F-BC7A-95A5FD51B31D}",
+      "organization": "Idemitsu Kosan Co., Ltd., Shoseki US Capital Inc., Showa Shell Sekiyu K.K.",
+      "itemNo": "1",
+      "docket_id": "19-E-0462",
+      "file_name": "Cover letter 6-17-19.pdf"
+    }
+  ]
+}

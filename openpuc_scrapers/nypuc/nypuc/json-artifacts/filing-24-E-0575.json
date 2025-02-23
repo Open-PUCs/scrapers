@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0575",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D69B92-0000-CC7B-8641-E6E00783B9B9}",
+      "organization": "Village of Churchville",
+      "itemNo": "2",
+      "docket_id": "24-E-0575",
+      "file_name": "Churchville Verification CL 10.17.24(5509315.2)-C.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Churchville Petition Verification Page",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D69B92-0000-C439-90FD-4C4C9174CF75}",
+      "organization": "Village of Churchville",
+      "itemNo": "2",
+      "docket_id": "24-E-0575",
+      "file_name": "Churchville Petition Verification Page(5509126.1)-C.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of the Village of Churchville for Approval, Pursuant to Section 68 of the Public Service Law, of the Provision of Electric Service in the Town of Riga.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70793492-0000-C359-ACE0-1A62A5C43184}",
+      "organization": "Village of Churchville",
+      "itemNo": "1",
+      "docket_id": "24-E-0575",
+      "file_name": "Churchville PSC Petition 9.26.2024(5479283.1)-C.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70793492-0000-C91C-A20E-47C2C236B644}",
+      "organization": "Village of Churchville",
+      "itemNo": "1",
+      "docket_id": "24-E-0575",
+      "file_name": "Churchville Petition CL 9.26.2024(5479350.2)-C.pdf"
+    }
+  ]
+}

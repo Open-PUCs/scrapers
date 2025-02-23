@@ -1,0 +1,71 @@
+{
+  "case": "15-W-0590",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/10/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "West Branch Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B560A93-9F13-4CC8-8BC6-CD2D822ECE4E}",
+      "organization": "West Branch Acres, Inc",
+      "itemNo": "4",
+      "docket_id": "15-W-0590",
+      "file_name": "West Branch Customer Notification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/10/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "West Branch Compliance Clause 3 Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9530430E-D4A9-45DC-8DC6-977720731328}",
+      "organization": "West Branch Acres, Inc",
+      "itemNo": "4",
+      "docket_id": "15-W-0590",
+      "file_name": "West Branch Compliance Clause _ 3 Cover Lett.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/08/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "West Branch Acres, Inc",
+      "itemNo": "3",
+      "docket_id": "15-W-0590",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Surcharge",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA93BB20-93EB-40A9-BA31-CBB3621AFC41}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-W-0590",
+      "file_name": "462_15w0590.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/06/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "STAT.West Branch Acres.DRAFT.ERS.No.1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB159CDD-D3AC-4CF8-8AB1-4A42F6C5D745}",
+      "organization": "West Branch Acres, Inc",
+      "itemNo": "1",
+      "docket_id": "15-W-0590",
+      "file_name": "STAT.West Branch Acres.DRAFT.ERS.No.1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/06/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "LETT.West Branch Acres.Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C42500DC-E33F-4A13-9B4F-FE449E21A155}",
+      "organization": "West Branch Acres, Inc",
+      "itemNo": "1",
+      "docket_id": "15-W-0590",
+      "file_name": "LETT.West Branch Acres.Petition_.pdf"
+    }
+  ]
+}

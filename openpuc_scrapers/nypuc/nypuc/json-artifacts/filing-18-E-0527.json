@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0527",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0527 Diez Ack Letter 08142018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CEEEF823-B86A-44C4-A396-A7F3BFE27D93}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0527",
+      "file_name": "18-E-0527 Diez Ack Letter 08142018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0527 Diez Rehearing Request 07262018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A394B325-226B-4280-A037-D6F5ADE3DECB}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0527",
+      "file_name": "18-E-0527 Diez Rehearing Request 07262018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0527 Diez SMD Final 06132018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95DC65DD-2CE9-4B9B-B714-337F233A9B94}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0527",
+      "file_name": "18-E-0527 Diez SMD Final 06132018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/23/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Ms. M. Diez Regarding Rehearing Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CC806A-0FB3-408E-A90B-DA5688C55B13}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0527",
+      "file_name": "362 Letter_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0540",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18FA21F5-86BC-40BA-BDF7-ABF609E92985}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0540",
+      "file_name": "661_20-V-0540 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Cherry Vallley, Otsego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E7248FC-3108-45CD-9DE4-EAEE3F857ED3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0540",
+      "file_name": "2020.10.27 T. Cherry Valley - To be filed PSC.pdf"
+    }
+  ]
+}

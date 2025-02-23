@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0606",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8403F95-D023-4109-9B01-6D459F55856A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0606",
+      "file_name": "662_21-V-0606 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01842 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9AC77DA-0A92-479E-9BC0-0DA076F4C16F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0606",
+      "file_name": "21-01842 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 3430 Broadway, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94F0D12A-541E-49FB-8415-9CB476617CA4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0606",
+      "file_name": "9-210826 Petition (3430 BROADWAY) (Complete).pdf"
+    }
+  ]
+}

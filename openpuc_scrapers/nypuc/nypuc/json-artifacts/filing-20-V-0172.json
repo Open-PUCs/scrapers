@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0172",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0332096D-EBBC-4C3B-8797-8EC92D6794C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0172",
+      "file_name": "668_20-V-0172 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02872 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8004B6B9-B52D-4AA9-80A5-E15A7ED86F9A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0172",
+      "file_name": "19-02872 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Entry (MDU) - 841 - 847 St. Nicholaw Ave (BRP Development Corporation)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D0AC143-A039-4343-9A0C-AE59E7B7BAE8}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0172",
+      "file_name": "Petition for Order of Entry (MDU) - 841 - 847 St. Nicholaw Ave (BRP Development Corporation).pdf (842 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA5AD578-6914-4099-9FA6-19BB14DA9464}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0172",
+      "file_name": "Cover Letter - Petition for Order of Entry (MDU) - 841-847 St. Nicholas Ave (BRP Development Corporation).PDF (24 KB)"
+    }
+  ]
+}

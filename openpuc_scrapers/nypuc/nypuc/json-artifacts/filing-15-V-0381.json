@@ -1,0 +1,93 @@
+{
+  "case": "15-V-0381",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/02/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0857CDA-CE6B-44D5-96C6-878D11596338}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-V-0381",
+      "file_name": "662_15V0381.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/03/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "Muttontown Revised Exhibit II Submission",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3BCBD84-11BE-436F-99C2-AA9C45BEF1B0}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "3",
+      "docket_id": "15-V-0381",
+      "file_name": "Muttontown Exhibit II Updated.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication - Village of Muttontown",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={326E0E97-4232-4278-BA49-84FA92E5EDCD}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "15-V-0381",
+      "file_name": "Muttontown Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/26/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Muttontown Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35003C4B-896A-4983-93E5-BB23498D217B}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0381",
+      "file_name": "Muttontown Exhibit IV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Muttontown Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75C5092C-19B9-4A14-9187-8C0B47E3AE1C}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0381",
+      "file_name": "Muttontown Exhibit III.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/26/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Muttontown Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49C0AC96-2F2B-4AD0-961C-D9D5E1D0303B}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0381",
+      "file_name": "Muttontown Exhibit II.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/26/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Muttontown Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={739BDAA7-505D-4D3D-88AF-274474CE7438}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0381",
+      "file_name": "Muttontown Exhibit I.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/26/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Muttontown Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08396DB2-75C8-4F0F-8A70-0BA6DA8F2AF9}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0381",
+      "file_name": "Muttontown Application Cover Letter.pdf"
+    }
+  ]
+}

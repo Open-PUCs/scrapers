@@ -1,0 +1,137 @@
+{
+  "case": "23-V-0411",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1023AE8A-0000-C21C-8B9C-DC96A4019668}",
+      "organization": "Public Service Commission",
+      "itemNo": "12",
+      "docket_id": "23-V-0411",
+      "file_name": "661_23-V-0411 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-01863 Letter to Building Owner Offering Facilitation 60 E 7 St 7.7.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0713089-0000-C712-BC04-11854318A4BA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "11",
+      "docket_id": "23-V-0411",
+      "file_name": "22-01863 Letter to Building Owner Offering Facilitation 60 E 7 St 7.7.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-01863 Letter to Building Owner Offering Facilitation 60 E 7 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70FCDD88-0000-C417-B51E-767B0A35E110}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "23-V-0411",
+      "file_name": "22-01863 Letter to Building Owner Offering Facilitation 60 E 7 St.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B054DA88-0000-C71B-8175-8982781A955D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "9",
+      "docket_id": "23-V-0411",
+      "file_name": "230620_22-01863_60 E 7 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/22/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A84488-0000-CC1C-9C80-EF7F6AD44B11}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "8",
+      "docket_id": "23-V-0411",
+      "file_name": "230522_22-01863_60 E 7 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0F69F87-0000-CB13-9CF2-BB7FA71EE899}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "23-V-0411",
+      "file_name": "230420_22-01863_60 E 7 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A7FF86-0000-C216-BE85-6D91A9BCC1F4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "23-V-0411",
+      "file_name": "230320_22-01863_60 E 7 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4DDFCAC-38A8-47E4-B47B-016122D8B44C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "23-V-0411",
+      "file_name": "230221_22-01863_60 E 7 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BEDB8EB9-AE65-453D-9E5E-09EAEC9B6A83}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "23-V-0411",
+      "file_name": "230120_22-01863_60 E 7 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01863 Cooperation Letter to Verizon 60 E 7th St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={714C523E-34F3-4AF2-8C2A-2ED5AF01B586}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0411",
+      "file_name": "22-01863 Cooperation Letter to Verizon 60 E 7th St.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "10/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01863 Letter to Building Owner 10.12.22_60 E 7 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3ED5CD17-444C-40C7-8BAA-861E09FB4654}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0411",
+      "file_name": "22-01863 Letter to Building Owner 10.12.22_60 E 7 St.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 60 East 7th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07124A95-8DF4-44DA-BE63-0C1B4968FB4A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0411",
+      "file_name": "220921-9 Petition (60 E 7 ST) (Post-Survey).pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0463",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCD90A9B-C7F5-4B9D-BDDF-B87F8862C8E8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0463",
+      "file_name": "664_ 18-V-0463.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/09/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007BF3C6-999C-4D9D-9ECE-825A53AC3CC0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0463",
+      "file_name": "17-01780 Merged letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 1455 Grand Concourse, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A89B81E0-DFA8-462E-AAB3-D25E551312E1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0463",
+      "file_name": "Petition (1455 Grand Conc).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CE8EA68-6221-4A48-A0F0-FCDA579FF801}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0463",
+      "file_name": "Exhibit 2 (1455 Grand Conc).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B387B9B-4519-41C8-A1F6-104768CE22AA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0463",
+      "file_name": "Exhibit 1 (1455 Grand Conc).pdf"
+    }
+  ]
+}

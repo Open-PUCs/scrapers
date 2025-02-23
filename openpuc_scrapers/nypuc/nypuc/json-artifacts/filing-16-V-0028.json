@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0028",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D797F85-E30A-463B-8117-26148E989D1D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0028",
+      "file_name": "666_16v0028.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Willet, Cortland County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23B77A7E-D6E8-49C4-9DBC-10021104D015}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0028",
+      "file_name": "01202016 t of willet submission to psc.pdf"
+    }
+  ]
+}

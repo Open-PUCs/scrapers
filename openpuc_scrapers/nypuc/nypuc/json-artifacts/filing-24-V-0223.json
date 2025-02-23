@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0223",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60675A90-0000-C01D-9CFB-0667B53416F9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0223",
+      "file_name": "662_24-V-0223 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/08/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903ABF8E-0000-CA48-9C0F-05B3B4BE69C0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0223",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/08/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Denmark, 4.8.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={803ABF8E-0000-CA1A-B89F-E7CE9155F831}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0223",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Denmark, 4.8.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Denmark-Request for Renewal and Certificate of Confirmation(redacted) 4.8.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903ABF8E-0000-C48C-9E09-4F49CEC28CB7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0223",
+      "file_name": "Charter Communications, T. Denmark-Request for Renewal and Certificate of Confirmation(redacted) 4.8.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Denmark-Cover Letter-Request for Renewal and Certificate of Confirmation 4.8.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903ABF8E-0000-C36B-A9F1-98EF97441452}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0223",
+      "file_name": "Charter Communications, T. Denmark-Cover Letter-Request for Renewal and Certificate of Confirmation 4.8.24.pdf"
+    }
+  ]
+}

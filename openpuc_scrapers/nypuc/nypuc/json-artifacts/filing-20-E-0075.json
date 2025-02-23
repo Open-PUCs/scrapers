@@ -1,0 +1,71 @@
+{
+  "case": "20-E-0075",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8C0F349-8089-4392-B182-2965ABB5642A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0075",
+      "file_name": "371_20-E-0075 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66AA49A8-DDFE-4D6E-BBCD-B15F7E29CF42}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0075",
+      "file_name": "371_20-E-0075 Letter final_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63C51339-EC01-4CC0-8B6B-C9532BB668A7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0075",
+      "file_name": "Letter Acknowledging Appeal - 721479 King Kullen_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Exhibits Case 721479_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA02617A-5DB5-49BA-B990-78DB09F96CCC}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-E-0075",
+      "file_name": "Exhibits Case 721479_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D215A22-8ADB-4485-9097-2F710C994416}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-E-0075",
+      "file_name": "Appeal - King Kullen Case 721479_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DC2371-538D-4698-827D-0BC785307B97}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0075",
+      "file_name": "Informal Review Decision - 721479 King Kullen (IR)_Redacted.pdf"
+    }
+  ]
+}

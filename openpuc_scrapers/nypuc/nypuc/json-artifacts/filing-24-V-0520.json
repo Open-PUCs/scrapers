@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0520",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30565493-0000-C816-B397-810A3AFF91A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0520",
+      "file_name": "661_24-V-0520.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CDE291-0000-C237-AC4E-A4774EB01404}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0520",
+      "file_name": "AUSA Newspaper Cover Letter - East Hampton, Village of.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CDE291-0000-CC14-BFBA-9C484845EE44}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0520",
+      "file_name": "AUSA Newspaper Affidavit - East Hampton, Village of.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4033E291-0000-C356-89FE-B80A90791D05}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0520",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - East Hampton, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4033E291-0000-CC9E-A193-A4C9CE0A1A3F}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0520",
+      "file_name": "Exhibit IV - East Hampton, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4033E291-0000-C172-AE89-6EA03C2B103F}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0520",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4033E291-0000-CAB2-9264-B87EA4B123D8}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0520",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4033E291-0000-C838-BACF-2DBC341715FB}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0520",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4033E291-0000-CE1A-870B-1868E2D48810}",
+      "organization": "Cablevision Systems East Hampton Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0520",
+      "file_name": "Application Cover Letter - East Hampton, Village of.pdf"
+    }
+  ]
+}

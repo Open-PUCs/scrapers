@@ -1,0 +1,115 @@
+{
+  "case": "20-E-0490",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0490 - National Grid Final Journal Entries and Supporting Workpapers in Response to Ordering Clause No. 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3314E57C-0161-4F4F-9E4B-D3164C345232}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "10",
+      "docket_id": "20-E-0490",
+      "file_name": "Case 20-E-0490 - National Grid Final Journal Entries and Supporting Workpapers in Response to Ordering Clause No. 2.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={372E3CD6-BF27-4C70-91D4-C4B47668709E}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "20-E-0490",
+      "file_name": "20-E-0490 - Nat. Grid-Journal Entries-Ext. Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={157CE71E-9E18-40EE-99E6-48620B79DDB6}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "8",
+      "docket_id": "20-E-0490",
+      "file_name": "Case 20-E-0490- National Grid Trade Secret Request Letter regarding Responses to Ordering Clauses No. 5 and 6.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/26/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Case 20-E-0490 - National Grid Extension Request Regarding Ordering Clause No. 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA55DC51-64FA-464C-AE4A-F6EA7A4E4386}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "20-E-0490",
+      "file_name": "Case 20-E-0490 - National Grid Extension Request Regarding Ordering Clause No. 2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0490-National Grid's Responses to Ordering Clause Nos. 5 and 6",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B83FFD9-611C-4788-B28D-0B9BFEC20C02}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "20-E-0490",
+      "file_name": "Case 20-E-0490-National Grid's Responses to Ordering Clause Nos. 5 and 6.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/26/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "20-E-0490",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41B97C6F-2EFF-4BB1-A238-9E25C38F58A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0490",
+      "file_name": "371_20-E-0490 Notice of Neg Dec.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Property Interests",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F7AC44F-7A43-4C36-8770-24C133620E93}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0490",
+      "file_name": "371_20-E-0490 National Grid-UFHLP Transfer Order.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4ECA7748-4677-4BA5-9594-3A357F24D77C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "20-E-0490",
+      "file_name": "Case 20-E-0490 PSL Section 70 Petition - National Grid Supplemental Filing.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "10/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid Union Falls Hydro PSL Section 70 Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6BED0AD-BA7F-42AE-8CC3-62FACA360B10}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0490",
+      "file_name": "National Grid Union Falls Hydro PSL Section 70 Filing.pdf"
+    }
+  ]
+}

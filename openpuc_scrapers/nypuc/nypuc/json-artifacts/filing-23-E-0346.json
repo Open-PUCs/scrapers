@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0346",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "In-service meter test plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C4ED8F-0000-C312-86FE-79F46FFAA928}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "7",
+      "docket_id": "23-E-0346",
+      "file_name": "in-service meter test plan 6-6-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/05/2024",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={400EEA8F-0000-CA1B-A107-17A65EF7B6C1}",
+      "organization": "Flat LG LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0346",
+      "file_name": "in-service meter test plan (3).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C06AF28E-0000-C01B-92DD-6869E17BA219}",
+      "organization": "Flat LG LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0346",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80F25C8E-0000-C210-B797-89943E2E4E67}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0346",
+      "file_name": "368_23-E-0346 32024final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={104E9E8D-0000-CF1E-A446-6D75800BF477}",
+      "organization": "Flat LG LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0346",
+      "file_name": "response letter 2-12-24.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={705D4589-0000-CC18-BA57-8FC0CEAA0C1D}",
+      "organization": "Flat LG LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0346",
+      "file_name": "additional information (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Flat LG LLC to Submeter Electricity at 609 2nd Avenue, New York, Located in the Territory of Consolidated Edison Company of New York, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C059FE88-0000-C610-A494-1C06239E4C75}",
+      "organization": "Flat LG LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0346",
+      "file_name": "submetering application (21).pdf"
+    }
+  ]
+}

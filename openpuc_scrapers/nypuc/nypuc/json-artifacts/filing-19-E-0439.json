@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0439",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502AD743-8AAA-4DF2-8195-2484371A6569}",
+      "organization": "Safon Owner LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0439",
+      "file_name": "compliance letter 1-6-2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EE9B142-D021-4C29-8B92-C3F319578E1D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0439",
+      "file_name": "362_19-E-0439.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/13/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E705CD6-81DD-4FA2-910D-F0087BBCF31B}",
+      "organization": "Safon Owner LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0439",
+      "file_name": "response letter 8-12-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/02/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={552EE3E5-8E84-4465-85C6-10619A1A1298}",
+      "organization": "Safon Owner LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0439",
+      "file_name": "response letter 8-2-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Safon Owner LLC to Submeter Electricity at 2 Washington Street, New York City, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={722CAAE3-C75B-4B77-AA61-2CA5FC013C01}",
+      "organization": "Safon Owner LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0439",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

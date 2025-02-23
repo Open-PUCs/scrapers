@@ -1,0 +1,115 @@
+{
+  "case": "22-G-0135",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70050389-0000-CEB2-8892-9710D122841A}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "22-G-0135",
+      "file_name": "163_21-G-0474 6.28.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Con Ed Rehearing - Acknowledgement Letter 120222",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F12E049F-6F3F-4C53-8099-38BD61DC6E5D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "9",
+      "docket_id": "22-G-0135",
+      "file_name": "Con Ed Rehearing 21-G-0474 et al - Ack Letter 120222.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA5B6E8A-64F0-4F98-B44F-DB63B4A63217}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "22-G-0135",
+      "file_name": "2022-11-17 Con Edison Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Robinson Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A195396D-1806-4EB3-AD0C-899D321A75C4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "22-G-0135",
+      "file_name": "Robinson Compliance Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D334497-D637-43AA-9DD2-BB458B7A5072}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0135",
+      "file_name": "166_21-G-0503 et al Determination & Attachment.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B90F934-4893-4FF8-92FE-8A2E046A89F9}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0135",
+      "file_name": "166_22-G-0135 letter.Redact - Tameeka Robinson final_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C2A5130-EE5E-4E78-AA2F-B7905B19A564}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-G-0135",
+      "file_name": "Con Edison Reply.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/09/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F0C1E7F-C3FF-4611-8428-53FF3636247D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0135",
+      "file_name": "163090 Robinson ack ltr_Redacted.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/09/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD65C9D8-2D37-4068-8173-DD46B4EB458B}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-G-0135",
+      "file_name": "163090 Tameeka Robinson appeal v Con Ed 3-5-22_Redacted.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "03/09/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3758A514-2DDB-4C51-81F5-9BA8EAD1A1D1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0135",
+      "file_name": "Case 163090 - IH Request - T. Robinson - Con Ed - Gas Inspection Letter - 2.18.22 Final_Redacted.pdf"
+    }
+  ]
+}

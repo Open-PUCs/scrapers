@@ -1,0 +1,93 @@
+{
+  "case": "24-E-0633",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={102DE392-0000-C25A-8309-E09E4617FC67}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit C_REDACTED_miniQloset v1.1 application (Part 2 of 2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={102DE392-0000-C275-9A6E-E513436FE419}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "Exhibit C_REDACTED_miniQloset v1.1 application (Part 2 of 2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit C_REDACTED_miniQloset v1.1 application (Part 1 of 2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202DE392-0000-CB12-98AD-643AFA767E1E}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "Exhibit C_REDACTED_miniQloset v1.1 application (Part 1 of 2).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit B_miniQloset v1.1 application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202DE392-0000-C8B6-944B-97073563E6D6}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "Exhibit B_miniQloset v1.1 application.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit A_miniQloset v1.1 application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202DE392-0000-C29A-AECE-AD49D61ACC3D}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "Exhibit A_miniQloset v1.1 application.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Case 24-E-XXXX_Letter to RAO Requesting Protected Status",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202DE392-0000-C373-A82E-0BD50344FCE2}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "Case 24-E-XXXX_Letter to RAO Requesting Protected Status.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "24-E-XXXX_Cover Letter for miniQloset v1.1 Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202DE392-0000-C855-83A8-FDF2914043CD}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "24-E-XXXX_Cover Letter for miniQloset v1.1 Application.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Reports",
+      "name": "24-E-XXXX_Application of Quadlogic Controls Corporation for Submeter Approval_REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={102DE392-0000-C638-B3C5-FF5D93842DF2}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "1",
+      "docket_id": "24-E-0633",
+      "file_name": "24-E-XXXX_Application of Quadlogic Controls Corporation for Submeter Approval_REDACTED.pdf"
+    }
+  ]
+}

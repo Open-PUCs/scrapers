@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0731",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "19-E-0731 Sandarelli Tenant Response 11292019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE7327B7-3E8E-4951-9B31-88189F87B52E}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "19-E-0731",
+      "file_name": "19-E-0731 Sandarelli Tenant Response 11292019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0731 Sandarelli Rehearing Request 11222019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F97ECACB-4A5C-4848-BE4D-8A2DE7F3D182}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "19-E-0731",
+      "file_name": "19-E-0731 Sandarelli Rehearing Request 11222019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0731 Sandarelli SMD Final 10242019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF03D3C4-2681-4CD3-9A16-145DFC7E5ED8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0731",
+      "file_name": "19-E-0731 Sandarelli SMD Final 10242019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={992F8AE9-0416-43C5-9102-F5DCA8D94662}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0731",
+      "file_name": "367 Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petitions for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AF48948-6436-4962-A93E-EB3D05874F14}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0731",
+      "file_name": "367 Letter_Redacted.pdf"
+    }
+  ]
+}

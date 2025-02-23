@@ -1,0 +1,27 @@
+{
+  "case": "15-E-0451",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/10/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess closing case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={798F5D76-0D22-4420-8991-CFD0884725C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-E-0451",
+      "file_name": "15e0451_Ltr closing case.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/29/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 39 Plaza Housing Corporation for a Waiver of the Requirements of 16 NYCRR for Approval of Sub-Metering Installation Without Participation in a Demand Program.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F33AA932-BE9A-4254-A7B4-A111840AF6B8}",
+      "organization": "39 Plaza Housing Corporation",
+      "itemNo": "1",
+      "docket_id": "15-E-0451",
+      "file_name": "PSC Request for Waiver Ltr FINAL with Exhibits 7-29-15.pdf"
+    }
+  ]
+}

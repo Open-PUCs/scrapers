@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0463",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NYPA_MEUA Letter of Support",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B40293-0000-C716-9E5E-A64B1B8F28BD}",
+      "organization": "New York Power Authority",
+      "itemNo": "3",
+      "docket_id": "24-E-0463",
+      "file_name": "NYPA_MEUA Letter of Support_Signed_Nov 2024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "IEEP Membership List",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D01092-0000-CA1B-8551-02178CEA264F}",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "2",
+      "docket_id": "24-E-0463",
+      "file_name": "Cover - IEEP Membership List 9-20-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of the New York Municipal Power Agency to Increase Funding Mechanism of Energy Efficiency Program from One to Two Mils.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70CECB90-0000-C637-8910-FA884767BF92}",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "1",
+      "docket_id": "24-E-0463",
+      "file_name": "final- IEEP Funding Increase Petition-7-19-24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70CECB90-0000-CD11-9748-AA17728656D1}",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "1",
+      "docket_id": "24-E-0463",
+      "file_name": "Cover - IEEP Increase Petition 7-19-24.pdf"
+    }
+  ]
+}

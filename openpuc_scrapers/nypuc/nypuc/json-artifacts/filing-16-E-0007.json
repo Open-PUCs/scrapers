@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0007",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/27/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Modified Relief and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96223619-7177-42A0-B42C-51933C833E9A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0007",
+      "file_name": "375_16e0007 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/30/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cornell-DSUN Request for Extension of RNM_submittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F8133C9-991E-4A36-86D2-B9D662CE74E6}",
+      "organization": "Distributed Sun LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0007",
+      "file_name": "Cornell-DSUN Request for Extension of RNM_submittal.pdf"
+    }
+  ]
+}

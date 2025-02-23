@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0297",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00240A91-0000-CF19-9AB8-4F63466D480E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0297",
+      "file_name": "369_24-E-029773124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Acts Against 6 Distributed Energy Resource Providers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E0C690-0000-CB76-8DE3-8DD1C563C327}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0297",
+      "file_name": "pr24064.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Premier Solar Solutions LLC - Notice of Apparent Violation 24-00874",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B21B8F-0000-CA1F-B834-867F18EC5DEF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0297",
+      "file_name": "Premier Solar Solutions LLC - Notice of Apparent Violation 24-00874.pdf"
+    }
+  ]
+}

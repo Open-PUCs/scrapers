@@ -1,0 +1,38 @@
+{
+  "case": "19-E-0073",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7618E40E-4A76-4AF1-95B5-4D33B7CAD8AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0073",
+      "file_name": "364_19-E-0073.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Wells Fargo Central Pacific Holdings, Inc. and IIF Coastal Class A Holdings LLC for a Declaratory Ruling Regarding a Transfer of Ownership Interests or, in the Alternative, an Approval Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E3272E1-6F8B-442E-9BB1-8D68BA4A193B}",
+      "organization": "IIF Coastal Class A Holdings LLC, Wells Fargo Central Pacific Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0073",
+      "file_name": "Declaratory Ruling Petition 2-4-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B0B53F0-6051-4332-8870-CAD4CE1DC115}",
+      "organization": "IIF Coastal Class A Holdings LLC, Wells Fargo Central Pacific Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0073",
+      "file_name": "Cover letter 2-4-19.pdf"
+    }
+  ]
+}

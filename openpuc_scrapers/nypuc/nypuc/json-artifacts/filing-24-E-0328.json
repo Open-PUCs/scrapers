@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0328",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request For Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60AB5593-0000-CD4D-89EB-5765C75BA43D}",
+      "organization": "Village of Fairport",
+      "itemNo": "5",
+      "docket_id": "24-E-0328",
+      "file_name": "L - Phillips - Fairport Tariff Filing Extension Request 11.22.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "24-E-0328",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A00B4693-0000-C013-B96C-C93B0FECF08B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0328",
+      "file_name": "370_24-E-0328_111924final Order & attachment.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Fairport - Rate Filing Publication Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30227D92-0000-C367-A006-CA4E5AEECA2B}",
+      "organization": "Village of Fairport",
+      "itemNo": "2",
+      "docket_id": "24-E-0328",
+      "file_name": "Fairport - Rate Filing Publication Affidavit.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30227D92-0000-C44E-8245-9C05317FA785}",
+      "organization": "Village of Fairport",
+      "itemNo": "2",
+      "docket_id": "24-E-0328",
+      "file_name": "L - Phillips - Proof of Publication.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/31/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Fairport",
+      "itemNo": "1",
+      "docket_id": "24-E-0328",
+      "file_name": ""
+    }
+  ]
+}

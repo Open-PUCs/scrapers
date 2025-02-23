@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0604",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D65C990B-CDA2-413B-9591-3F2504DB423D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0604",
+      "file_name": "662_21-V-0604 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01838 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F1D1B38-99DA-4F29-9066-ACFF2720C97E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0604",
+      "file_name": "21-01838 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 121 East 12th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6D948D7-7567-45BE-BC93-A7ECB1FBCEDA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0604",
+      "file_name": "5-210826 Petition (121 E 12 ST) (Complete).pdf"
+    }
+  ]
+}

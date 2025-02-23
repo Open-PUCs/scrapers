@@ -1,0 +1,38 @@
+{
+  "case": "17-T-0356",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE3B04D1-FDFF-4F00-8989-4F20418C09E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0356",
+      "file_name": "17-T-0356 Part 102 letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Report of Niagara Mohawk Power Corporation Concerning the McIntyre-Colton #8 115 kV Transmission Line Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BA7D9E9-10C6-4814-BC86-3124ACEE2BAE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0356",
+      "file_name": "McIntyre-Colton Part 102_6122017.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903C03B0-5634-42CA-965E-32528D26E7E0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0356",
+      "file_name": "Zafonte Cover Letter for McIntyre-Colton #8 Hill.pdf"
+    }
+  ]
+}

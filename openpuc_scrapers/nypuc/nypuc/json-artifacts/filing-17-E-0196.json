@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0196",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCAF0B20-4ED4-431B-822E-72919A4C7BE5}",
+      "organization": "Maple East Residence, L.P.",
+      "itemNo": "6",
+      "docket_id": "17-E-0196",
+      "file_name": "letter 10-2-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={474C72B3-1B6F-422D-A8CE-437000A0E1AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0196",
+      "file_name": "369_17-E-0196.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 918 East New York Avenue, Brooklyn, NY 11203",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4807FA15-C371-430E-B25B-CB78E8F01702}",
+      "organization": "Maple East Residence, L.P.",
+      "itemNo": "4",
+      "docket_id": "17-E-0196",
+      "file_name": "response letter 8-1-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additonal Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24BC75C1-D5FB-4D07-845A-11A94F1BB827}",
+      "organization": "Maple East Residence, L.P.",
+      "itemNo": "3",
+      "docket_id": "17-E-0196",
+      "file_name": "Additonal Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for a Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={349A118A-F779-4B7E-9B2D-086A985F09B1}",
+      "organization": "Maple East Residence, L.P.",
+      "itemNo": "2",
+      "docket_id": "17-E-0196",
+      "file_name": "energy waiver letter 4-20-17.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Maple East Residence, L.P., to Submeter Electricity at 918 East New York Avenue, Brooklyn, NY 11203, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F4971CC-5B08-4337-B751-4AA10930D977}",
+      "organization": "Maple East Residence, L.P.",
+      "itemNo": "1",
+      "docket_id": "17-E-0196",
+      "file_name": "Submetering application 4-12-17.pdf"
+    }
+  ]
+}

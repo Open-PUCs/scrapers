@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0169",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4DDC152-3B74-4EB3-8438-D19CFC8885AA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0169",
+      "file_name": "Godette Ack Letter 611079 3 6 17_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/23/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6ED41A2-92B4-4E50-8681-AB9D5A39A81C}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0169",
+      "file_name": "Godette Appeal - 611079_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/23/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DFC94D3-0DFC-42CE-AE62-49076CDC5641}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0169",
+      "file_name": "Case 611079 Godette vs Ambit IH Decision_Redacted.pdf"
+    }
+  ]
+}

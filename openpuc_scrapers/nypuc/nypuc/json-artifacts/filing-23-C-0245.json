@@ -1,0 +1,60 @@
+{
+  "case": "23-C-0245",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Notification Documents and Proof of Mailing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={505B438B-0000-C712-96FC-663D5F83CAAD}",
+      "organization": "Germantown Telephone Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-C-0245",
+      "file_name": "Case 23-C-0245 Waiver to stop directory Distribution GTel.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0B2A98A-0000-C613-A563-D205409EBCAB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-C-0245",
+      "file_name": "562_23-C-0245_9.18.23 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Approves Requests From 4 Small Telephone Companies to Stop Distributing Directories to All Customers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={507F948A-0000-CB13-983C-D21C7E270359}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-C-0245",
+      "file_name": "pr23092.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Germantown Telephone Company, Inc. for a Waiver of the Requirements of 16 NYCRR, Section 602.10(b) Regarding Distribution of Telephone Directories.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009D0688-0000-C63E-AF24-1604E2C83FAB}",
+      "organization": "Germantown Telephone Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0245",
+      "file_name": "Germantown Directory Waiver Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009D0688-0000-C41D-80AB-E155C88037DE}",
+      "organization": "Germantown Telephone Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0245",
+      "file_name": "Directory Waiver-Secretary.pdf"
+    }
+  ]
+}

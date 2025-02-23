@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0661",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35EB464B-7A42-417A-8AC8-892AC45BB28B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0661",
+      "file_name": "664_17-V-0661.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Waterford, Saratoga County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={609A0D8D-367B-4D96-AD21-4248E4FA7A04}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0661",
+      "file_name": "10 25 17 T Waterford Charter PSC cable franchise renewal application.pdf"
+    }
+  ]
+}

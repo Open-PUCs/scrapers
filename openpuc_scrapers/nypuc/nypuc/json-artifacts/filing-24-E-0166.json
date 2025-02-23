@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0166",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0584B93-0000-C420-B718-91497BECBAC2}",
+      "organization": "West 30th Street LLC",
+      "itemNo": "5",
+      "docket_id": "24-E-0166",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05A2A92-0000-C71C-BFF1-8F80FA7D653E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0166",
+      "file_name": "378_24-E-0166_92524final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Requested information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0685191-0000-C181-80D4-829ABB9BADCC}",
+      "organization": "West 30th Street LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0166",
+      "file_name": "additioanal information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for a Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0A0A08E-0000-C212-AC65-CFC8F40F9C0B}",
+      "organization": "West 30th Street LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0166",
+      "file_name": "waiver letter (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of West 30th Street LLC to Submeter electricity at a building located at 606 West 30th Street, New York, Located in the Service Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901B578E-0000-C31A-AD3C-94BACF44CF97}",
+      "organization": "West 30th Street LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0166",
+      "file_name": "submetering application (1).pdf"
+    }
+  ]
+}

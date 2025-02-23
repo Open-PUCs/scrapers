@@ -1,0 +1,71 @@
+{
+  "case": "17-W-0062",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C5604D6-E452-4B70-A6AB-E0634DB28344}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "3",
+      "docket_id": "17-W-0062",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Copy of Pension settlement losses 22-W-0404",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9331DF06-986C-48CC-9C51-06756637382D}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "3",
+      "docket_id": "17-W-0062",
+      "file_name": "Copy of Pension settlement loss entries for 2016 2020 2021 Case 17-W-0062.xlsx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Deferral Accounting and Amortization of Pension Settlement Loss",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEA7D006-257A-4383-A498-EC7B82C617EE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-W-0062",
+      "file_name": "461_17-W-0062 et. al final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York American Water Requesting Deferral Accounting and Amortization of Pension Settlement Losses",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC6B4262-A336-4742-83DC-24A119E554E1}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-W-0062",
+      "file_name": "17-W-0--- NYAWS requesting Deferral Of Pension Losses for 2017 (002).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "EXHIBITS A&B FAS 88 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C9648C9-8E7A-4108-8C44-DB8B7E12C244}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-W-0062",
+      "file_name": "EXHIBITS A&B FAS 88 Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55122512-8D39-43FF-9829-1F3048232AF9}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-W-0062",
+      "file_name": "Cover Letter Pension Settlement Losses 1-27-2017.pdf"
+    }
+  ]
+}

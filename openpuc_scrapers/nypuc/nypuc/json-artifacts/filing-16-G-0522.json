@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0522",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/28/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76963C6E-29F7-453A-9A40-80AB134754A5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-G-0522",
+      "file_name": "165_16g0522 - 2.28.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDB1984C-D928-4C32-9E1A-22D8193C5432}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0522",
+      "file_name": "165_16g0522.pdf"
+    }
+  ]
+}

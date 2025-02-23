@@ -1,0 +1,38 @@
+{
+  "case": "15-E-0640",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Entergy Nuclear FitzPatrick",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A38FE78-3623-4647-913D-8CFD60EA35E3}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC",
+      "itemNo": "3",
+      "docket_id": "15-E-0640",
+      "file_name": "entergypscltr_20160823074450.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2015",
+      "nypuc_doctype": "Comments",
+      "name": "AGREE Comment FitzPatrick Closure with Attachment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADF442E7-9E47-49CE-B593-F41FC4E5C3E6}",
+      "organization": "Alliance for a Green Economy (AGREE)",
+      "itemNo": "2",
+      "docket_id": "15-E-0640",
+      "file_name": "AGREE Comment FitzPatrick Closure with Attachment.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/02/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent to Retire James A. FitzPatrick Nuclear Generating Facility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E2F5C80-DB65-4B72-9E79-1AA829C5A16A}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0640",
+      "file_name": "Notice of Intent to Retire James A. FitzPatrick Nuclear Generating Facility.pdf"
+    }
+  ]
+}

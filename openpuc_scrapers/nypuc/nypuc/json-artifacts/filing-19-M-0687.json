@@ -1,0 +1,49 @@
+{
+  "case": "19-M-0687",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/13/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "CHGE Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={114A07B7-6141-45B4-A3D1-660BAA6DE277}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "19-M-0687",
+      "file_name": "19-M-0687 CHGE Compliance Filing 04132020.pdf (1 MB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBE1202A-2243-4CBE-842E-6A01D55A2BE9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-M-0687",
+      "file_name": "261_19-M-0687.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "19-M-0687",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/22/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "19-M-0687",
+      "file_name": ""
+    }
+  ]
+}

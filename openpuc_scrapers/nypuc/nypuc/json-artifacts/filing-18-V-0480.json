@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0480",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35ACE4A1-45B7-4BAB-9533-49F107BBA95A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0480",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0480 V. of Cambridge - agreement mayor signature date",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={993F3F13-BD91-4E25-8F52-7B4BE281006B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0480",
+      "file_name": "18-V-0480 V. of Cambridge - agreement mayor signature date.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Cambridge, Washington County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A09EA4CA-8DA3-426C-BB7D-480515DAA5DB}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0480",
+      "file_name": "7.24.18 V Cambridge Charter PSC cable franchise renewal app.pdf"
+    }
+  ]
+}

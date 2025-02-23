@@ -1,0 +1,214 @@
+{
+  "case": "16-W-0121",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/05/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FAE22E4-7F79-4B0F-B5F6-C8AEFB38C872}",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "18",
+      "docket_id": "16-W-0121",
+      "file_name": "16-W-0121 Rolling Meadows Water Corporation, Transmittal Letter with Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "17",
+      "docket_id": "16-W-0121",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/07/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Rehearing, In Part",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7F9B34F-2C22-4A89-A1F2-2F3B833D9183}",
+      "organization": "Public Service Commission",
+      "itemNo": "16",
+      "docket_id": "16-W-0121",
+      "file_name": "464_16-W-0121.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9E16078-FD2E-4685-B9C1-BD8D2C8AE100}",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "15",
+      "docket_id": "16-W-0121",
+      "file_name": "Transmittal Letter with Affidavit of Publication in Case 16-W-0121, 170515.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/23/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66F3ECAF-A652-420A-95A7-74ADB73D2619}",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "14",
+      "docket_id": "16-W-0121",
+      "file_name": "RMWC Petition for Rehearing 170323.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/23/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={042D1013-515C-4C3F-9B96-750FF2918640}",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "14",
+      "docket_id": "16-W-0121",
+      "file_name": "RMWC Petition for Rehearing, Letter of trnsmittal 170323.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/28/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "13",
+      "docket_id": "16-W-0121",
+      "file_name": ""
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Rates and Eliminating Surcharge",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4EF1D3E-41E2-4FDB-B699-EF60342A53E1}",
+      "organization": "Public Service Commission",
+      "itemNo": "12",
+      "docket_id": "16-W-0121",
+      "file_name": "464_16-W-0121.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/09/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDC8CBB8-9239-4E97-BF53-6C9BCD5DB0ED}",
+      "organization": "Public Service Commission",
+      "itemNo": "11",
+      "docket_id": "16-W-0121",
+      "file_name": "16-W-0121 Postponement.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/06/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "10",
+      "docket_id": "16-W-0121",
+      "file_name": ""
+    },
+    {
+      "serial": "11",
+      "date_filed": "01/04/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Impending Settlement Negotiations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1503D6B-D10B-4FC3-AF4D-579F0DCF7299}",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "9",
+      "docket_id": "16-W-0121",
+      "file_name": "Rolling Meadows, Notice of Impending Settlement Negotiations.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "8",
+      "docket_id": "16-W-0121",
+      "file_name": ""
+    },
+    {
+      "serial": "13",
+      "date_filed": "09/15/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Suspending Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99105A71-256A-49A1-AE20-5B1F199C5AEC}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-W-0121",
+      "file_name": "463_16w0121.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Rate Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44B3D248-E097-433D-AF1E-D5F964CBF1BB}",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "6",
+      "docket_id": "16-W-0121",
+      "file_name": "160816 Burgess Letter re Further Postponement.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "06/01/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Further Postponement of Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81A38F27-7BE8-4F45-A85F-F2F752EDDD7E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-W-0121",
+      "file_name": "16W0121 Further Postponement.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "05/24/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "4",
+      "docket_id": "16-W-0121",
+      "file_name": ""
+    },
+    {
+      "serial": "17",
+      "date_filed": "04/27/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03AFAD9A-4162-4630-BDBB-995446EA0D70}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-W-0121",
+      "file_name": "16w0121 Postponement.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "04/22/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "2",
+      "docket_id": "16-W-0121",
+      "file_name": ""
+    },
+    {
+      "serial": "19",
+      "date_filed": "02/23/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rolling Meadows Water Corporation",
+      "itemNo": "1",
+      "docket_id": "16-W-0121",
+      "file_name": ""
+    }
+  ]
+}

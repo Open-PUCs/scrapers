@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0285",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments and Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48D0C144-B7E2-4CAE-B2A1-7F8F8512B9DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0285",
+      "file_name": "365_22-E-0285 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0285",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/01/2022",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT - Central Hudson P.S.C. No. 15, to Adjust the Costs of Conduit Installations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E738618-A719-4364-9492-1E46689BD4E7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0285",
+      "file_name": "22-E-0285.Central Hudson. URD Cost PP.SIGNED.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/26/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "22-E-0285",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/05/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for a Waiver of Newspaper Publication Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED6FA6E2-2AAB-4DCB-BC3D-D01EBAD9F7F9}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "22-E-0285",
+      "file_name": "LETTURD.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/29/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "22-E-0285",
+      "file_name": ""
+    }
+  ]
+}

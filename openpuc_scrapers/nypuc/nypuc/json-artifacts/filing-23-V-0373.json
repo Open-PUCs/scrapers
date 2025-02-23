@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0373",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B054238A-0000-C811-88BC-FAFCBD568DC2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0373",
+      "file_name": "662_23-V-0373 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00967 Letter to Building Owner - 502 W 151 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B14888-0000-C91E-B4AC-4C33ECA7F6D3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0373",
+      "file_name": "23-00967 Letter to Building Owner - 502 W 151 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 502 West 151st Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1038E287-0000-CB19-AA42-B90D03D68B3B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0373",
+      "file_name": "230503-10 Petition (502 W 151 ST) (Post-Survey).pdf"
+    }
+  ]
+}

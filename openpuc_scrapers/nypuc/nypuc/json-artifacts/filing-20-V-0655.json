@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0655",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDAF4E35-858E-4F17-AC92-DDBA3A41CB1E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0655",
+      "file_name": "668_20-V-0655.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/15/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Barrington, Yates County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C682C9FF-6E9C-47B6-836E-99CD41E39BFF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0655",
+      "file_name": "2020.12.15 - T. BARRINGTON RENEWAL TO PSC.pdf"
+    }
+  ]
+}

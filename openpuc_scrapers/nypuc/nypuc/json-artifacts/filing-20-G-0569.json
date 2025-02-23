@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0569",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19CC355C-7A9A-4CEC-BAE5-3832A27A02E8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0569",
+      "file_name": "162-C_20-G-0569 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter- JM Contractors Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9F8A543-6766-48E9-96CF-46C2D1646B77}",
+      "organization": "Not Identified",
+      "itemNo": "4",
+      "docket_id": "20-G-0569",
+      "file_name": "JM Contractors.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E21109B0-5C2D-439B-8C63-9FE5B15E6FC4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0569",
+      "file_name": "163-A_20-G-0569 final.pdf"
+    }
+  ]
+}

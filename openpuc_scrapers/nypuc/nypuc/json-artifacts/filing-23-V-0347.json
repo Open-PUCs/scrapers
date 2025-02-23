@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0347",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0050238A-0000-C011-93DE-B4FBA6E353A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0347",
+      "file_name": "661_23-V-0347 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A60289-0000-C53B-B2EA-2FC5C47F9EEE}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0347",
+      "file_name": "AUSA Newspaper Cover Letter - Bellport, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Bellport, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A60289-0000-C91D-A6CB-1DB8E367ACD3}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0347",
+      "file_name": "AUSA Newspaper Affidavit - Bellport, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D01C0289-0000-C858-82C2-CFBA5FFE1D19}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0347",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Bellport, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D01C0289-0000-C191-BEEC-20F6B29E7936}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0347",
+      "file_name": "Exhibit IV - Bellport, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D01C0289-0000-CC75-87CC-F93E78B03E08}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0347",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D01C0289-0000-CCB1-9CE1-26B400F5A973}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0347",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D01C0289-0000-CF3D-95F3-F8E72A5DE83B}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0347",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D01C0289-0000-C01A-B7BE-26679CFDD447}",
+      "organization": "Cablevision of Brookhaven, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0347",
+      "file_name": "Application Cover Letter - Bellport, V..pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0525",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/04/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70CED58C-0000-C43A-9618-AB078E34A50B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0525",
+      "file_name": "382_23-E-0525_final 1424.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00EC3E8B-0000-CE1B-9FA5-2833E84B45C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0525",
+      "file_name": "372_23-E-0525 101723.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Initiates Enforcement Actions Against Distributed Energy Resource Providers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B6258B-0000-CD7F-B621-15D7B449C880}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "23-E-0525",
+      "file_name": "pr23111.pdf"
+    }
+  ]
+}

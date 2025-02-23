@@ -1,0 +1,104 @@
+{
+  "case": "23-E-0405",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/05/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Final Accounting for Ramapo 2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F6E88F-0000-CB13-8B90-F173F9AD3753}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "6",
+      "docket_id": "23-E-0405",
+      "file_name": "Final Accounting for Ramapo 2024.xlsx"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/05/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0F6E88F-0000-C21B-9C15-6226BF5F3AE5}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "6",
+      "docket_id": "23-E-0405",
+      "file_name": "Ramap UG 23-E-0405 - JE 6.5.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C095968F-0000-C811-8E7E-6DFE1FFC7536}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0405",
+      "file_name": "23-E-0405-Con Edison-Streetlighting-Town of Ramapo-Ext. Ruling.5.20.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E03C888F-0000-CD13-B1A0-7AEA20A65143}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-E-0405",
+      "file_name": "Request for Extension - Ramapo 5.17.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C06A838C-0000-C116-8769-D19C3286A073}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0405",
+      "file_name": "379_23-E-0405 Order.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06A838C-0000-CF13-97B5-6D961399A148}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0405",
+      "file_name": "379_23-E-0405 Neg Dec.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Short Environmental Assessment Form Parts 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AD6E8C-0000-C436-BA58-F3850E2CC3AF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0405",
+      "file_name": "Case 23-E-0405 Short Environmental Assessment Form Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AD6E8C-0000-C81D-A32F-B74E42ED4294}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0405",
+      "file_name": "Case 23-E-0405 SEAF Part 2 & 3 Cover Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "ORU Section 70 Petition - Ramapo UG 072523",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00878E89-0000-C011-BCB9-2049599D9F77}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0405",
+      "file_name": "ORU Section 70 Petition - Ramapo UG 072523.pdf"
+    }
+  ]
+}

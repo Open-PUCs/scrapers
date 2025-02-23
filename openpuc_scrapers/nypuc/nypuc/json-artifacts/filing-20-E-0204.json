@@ -1,0 +1,82 @@
+{
+  "case": "20-E-0204",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Transfer Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D47C5E27-7B11-43BB-BD53-9FDD59C7E238}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0204",
+      "file_name": "373_20-E-0204 Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Transaction Org Chart Terraform PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={909B747F-1296-451E-8A9E-363A70B7B9BD}",
+      "organization": "Canandaigua Power Partners II, LLC, Canandaigua Power Partners, LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0204",
+      "file_name": "Transaction Org Chart Terraform PSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F52C06E-DAE4-4FAC-95E5-BC6018A97D76}",
+      "organization": "Canandaigua Power Partners II, LLC, Canandaigua Power Partners, LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0204",
+      "file_name": "Cover letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/01/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Canandaigua Power Partners, LLC and Canandaigua Power Partners II, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76FCA64A-22E4-4F37-9098-DDEC88F0B3F0}",
+      "organization": "Canandaigua Power Partners II, LLC, Canandaigua Power Partners, LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0204",
+      "file_name": "PSC Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2020",
+      "nypuc_doctype": "Motions",
+      "name": "TerraForm Power Letter to PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0241C2A-A026-4F04-AE51-C9B8174AEEC8}",
+      "organization": "TerraForm Power, LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0204",
+      "file_name": "TerraForm Power Letter to PSC.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Canandaigua Power Partners, LLC and Canandaigua Power Partners II, LLC for a Declaratory Ruling Regarding Corporate Restructuring and Transferof Stock, or, in the Alternative, an Approval Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58C52FEE-F010-4CB5-99D9-E5309D2B25C3}",
+      "organization": "Canandaigua Power Partners II, LLC, Canandaigua Power Partners, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0204",
+      "file_name": "Canandaigua Power Partners Section 70 Petition 05-4-20.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49AF6D00-BD31-4672-9E2D-EFD55A188EBD}",
+      "organization": "Canandaigua Power Partners II, LLC, Canandaigua Power Partners, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0204",
+      "file_name": "Cover letter 5-4-20.pdf"
+    }
+  ]
+}

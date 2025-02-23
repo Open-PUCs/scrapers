@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0333",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E4EDD22-6EFE-4D04-889D-DD62BE7C4030}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0333",
+      "file_name": "369_18-E-0333.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cassadaga Wind LLC, Trireme Energy Development LLC, and Innogy Renewables US LLC for a Declaratory Ruling That Public Service Law Section 70 Does Not Apply to a Proposed Acquisition or, That No Further Review of the Acquisition is Required.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06AF8A78-7958-4EFD-92AC-AD21CA6FE69D}",
+      "organization": "Cassadaga Wind LLC, Innogy Renewables US LLC, Trireme Energy Development LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0333",
+      "file_name": "Joint Petition for Declaratory Ruling (HBROC-3425508 v1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1551FD24-86CE-44C2-AFE3-7412635B710D}",
+      "organization": "Cassadaga Wind LLC, Innogy Renewables US LLC, Trireme Energy Development LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0333",
+      "file_name": "Innogy_Trireme_Cover_Letter.pdf"
+    }
+  ]
+}

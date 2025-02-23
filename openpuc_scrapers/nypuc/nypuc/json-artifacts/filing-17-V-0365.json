@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0365",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCEF1664-6983-42BC-A2DB-BE9A91B25AC0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0365",
+      "file_name": "661_17-V-0365.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Pharsalia, County of Chenango, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={448C1405-E783-4732-ABE6-AF536E014973}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0365",
+      "file_name": "06.26.17 - TN. PHARSALIA RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

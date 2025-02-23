@@ -1,0 +1,38 @@
+{
+  "case": "19-C-0011",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={344372AF-68D1-4842-B566-06595966010B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-C-0011",
+      "file_name": "19-C-0011 Compliance Filing.pdf (70 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Retention of Property Tax Refunds Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C342E22-F201-4514-96F5-16D593861F0D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-C-0011",
+      "file_name": "563_19-C-0011.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval Pursuant to Public Service Law Section 113(2) of a Proposed Allocation and Disposition of Certain Tax Refunds from the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69AC1FC8-3FEE-4A67-A25D-9BFB76E6F7CF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0011",
+      "file_name": "190108 NYC Tax Refund Notification.pdf"
+    }
+  ]
+}

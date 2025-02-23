@@ -1,0 +1,27 @@
+{
+  "case": "23-E-0606",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E4C78D-0000-C717-8F1D-1B925BE76DE5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0606",
+      "file_name": "378_23-E-0606 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0606",
+      "file_name": ""
+    }
+  ]
+}

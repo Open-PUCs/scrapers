@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0319",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10000F91-0000-CBB9-BCBE-E7F6330E48AD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0319",
+      "file_name": "662_24-V-0319 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309EA68F-0000-CD2B-B977-E6F7C0F91F6D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0319",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Croghan 5.23.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009EA68F-0000-C713-A37F-104F966EDD95}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0319",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Croghan 5.23.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Croghan-Request for Renewal and Certificate of Confirmation(redacted) 5.23.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309EA68F-0000-CA6E-A9D5-49B2D21B43DF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0319",
+      "file_name": "Charter Communications, T. Croghan-Request for Renewal and Certificate of Confirmation(redacted) 5.23.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Croghan-Cover Letter-Request for Renewal and Certificate of Confirmation 5.23.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309EA68F-0000-CE48-A9F7-29EC1DB2E1CB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0319",
+      "file_name": "Charter Communications, T. Croghan-Cover Letter-Request for Renewal and Certificate of Confirmation 5.23.24.pdf"
+    }
+  ]
+}

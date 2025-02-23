@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0544",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "In-service meter test plan for 55 Suffolk Street.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0A76A89-0000-C317-9023-2CEF4B490A74}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "21-E-0544",
+      "file_name": "in-service meter test plan 21-E-0544.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter for 55 Suffolk Street, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E63CF65-DF2B-43D1-A8F8-6D5B7A9EBBBD}",
+      "organization": "GO Broome LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0544",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A141667B-D812-47BC-867E-8D075C6E9116}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0544",
+      "file_name": "365_21-E-0544.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2022",
+      "nypuc_doctype": "Reports",
+      "name": "GO Broome LLC Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CF7C6DD-2D87-4526-9404-B35E9A7BB7B0}",
+      "organization": "GO Broome LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0544",
+      "file_name": "GO Broome LLC Response Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/03/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of GO Broome LLC to Submeter Electricity at 55 Suffolk Street, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B956684F-C0B9-4B66-9A80-4C9F15AB9D46}",
+      "organization": "GO Broome LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0544",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

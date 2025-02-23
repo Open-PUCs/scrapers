@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0550",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0550 Alawaqi Ack Letter 08212018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16483325-7ED3-48AA-9219-3CD04D715254}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0550",
+      "file_name": "18-E-0550 Alawaqi Ack Letter 08212018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0550 Alawaqi Rehearing Request 08172018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9A98BDE-4896-4621-A1C3-A5D3EE009C11}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0550",
+      "file_name": "18-E-0550 Alawaqi Rehearing Request 08172018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0550 Alawaqi SMD Final 07242018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA92C950-7DD4-4AF3-A64F-6693FE56AF24}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0550",
+      "file_name": "18-E-0550 Alawaqi SMD Final 07242018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/23/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Mr. Alawlaqi and Hadi for Rehearing Determination.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B4D122D-DAFE-45C1-B304-81FD56F563AF}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0550",
+      "file_name": "361 Letter_Redacted.pdf"
+    }
+  ]
+}

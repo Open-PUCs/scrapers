@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0303",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51F5CAFC-6FBB-4932-8590-446359D05DB0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0303",
+      "file_name": "662_22-V-0303.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2725905-AC61-4F4F-98BA-19F7139A5447}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0303",
+      "file_name": "AUSA Newspaper Cover Letter - Greenville, T..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "AUSA Newspaper Affidavit - Greenville, T.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E9CBEF8-6C86-4260-A39C-C37335E5C7D6}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0303",
+      "file_name": "AUSA Newspaper Affidavit - Greenville, T..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A3F7347-B0F6-4565-969E-57B823B29CD9}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0303",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Greenville,T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2F6A8DA-16D6-4C75-9D31-B9FC6213EFC0}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0303",
+      "file_name": "Exhibit IV - Greenville,T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AE69C7D-35E5-40AB-9F0A-CB8D928E0194}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0303",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05F99C5-46EF-4DE8-A769-7C9FA7AEBC84}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0303",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52709927-3248-4879-BC04-60AE73E03BB2}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0303",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D5DBFAE-100F-4818-AF18-88818A3C05F7}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0303",
+      "file_name": "Application Cover Letter - Greenville, T..pdf"
+    }
+  ]
+}

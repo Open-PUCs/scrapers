@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0621",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69BEFEE2-37C8-4732-9011-56A08DF0694B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0621",
+      "file_name": "374_18-E-0621.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Hudson Transmission Partners, LLC, AEIF Hudson Holdings, LLC, Starwood Energy Hudson Investors Holdco, LLC, and AMF Oratam Investments LLC for a Declaratory Ruling Regarding Transfer of Upstream Ownership Interests or, in the Alternative, an Order Approving the Transfer Pursuant to \u00a7 70 of the New York State Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5288AF6D-AFB8-4165-86A4-81723FB9725E}",
+      "organization": "AEIF Hudson Holdings, LLC, AMF Oratam Investments, LLC, Hudson Transmission Partners, LLC, Starwood Energy Hudson Investors Holdco, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0621",
+      "file_name": "Hudson Transmission Project Section 70 Declaratory Ruling Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter -",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74CE3ABF-9DD7-43BD-87BC-1FE0E5525A8B}",
+      "organization": "AEIF Hudson Holdings, LLC, AMF Oratam Investments, LLC, Hudson Transmission Partners, LLC, Starwood Energy Hudson Investors Holdco, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0621",
+      "file_name": "Burgess Cover Letter - Hudson Section 70 Petition.pdf"
+    }
+  ]
+}

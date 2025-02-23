@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0479",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance of Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DECDF6D0-494C-4E44-9973-17660341C837}",
+      "organization": "Landing A Associates LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0479",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/13/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E206438-D3C7-451B-ACEE-94FEF60C3D94}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0479",
+      "file_name": "362_18-E-0479.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B859E7DE-1DB4-418C-843F-C49554A42C22}",
+      "organization": "Landing A Associates LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0479",
+      "file_name": "response letter 11-26-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/24/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application (3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={065CFD6E-F6F5-486B-8D91-17F5AD5B7532}",
+      "organization": "Landing A Associates LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0479",
+      "file_name": "submetering application (3).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/24/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application (2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={055205CD-7942-4D2C-AA44-17528C98EF12}",
+      "organization": "Landing A Associates LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0479",
+      "file_name": "submetering application (2).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/24/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Landing A Associates LLC to Submeter Electricity at 50 Bridge Park Drive, Brooklyn, NY in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32F76DF9-FECD-4499-A3B7-7A11D4D68106}",
+      "organization": "Landing A Associates LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0479",
+      "file_name": "submetering application (1).pdf"
+    }
+  ]
+}

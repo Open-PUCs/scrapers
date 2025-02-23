@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0285",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80C98889-0000-C01A-9197-3E5C644DF5C1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0285",
+      "file_name": "661_23-V-0285 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0594A88-0000-C157-A116-9A8643E2055A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0285",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Motions",
+      "name": "2023.05.23 Charter Confidential Treatment Request to RAO T.Vernon",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0594A88-0000-C01A-B593-A0E8F19626C3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0285",
+      "file_name": "2023.05.23 Charter Confidential Treatment Request to RAO T.Vernon.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "2023.05.23 Charter Communications, T. Vernon-Cover Letter-Request for Renewal and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0594A88-0000-C976-BD93-95AFED495DB0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0285",
+      "file_name": "2023.05.23 Charter Communications, T. Vernon-Cover Letter-Request for Renewal and Certificate of Confirmation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "2023.05.23 Charter Communications -T. Vernon Request for Renewal and Certificate of Confirmation (redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0594A88-0000-C19E-BE81-CB1BF1BD683F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0285",
+      "file_name": "2023.05.23 Charter Communications -T. Vernon Request for Renewal and Certificate of Confirmation (redacted).pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0367",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD1FBDC1-6376-433E-94FB-AA9BD03B458B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0367",
+      "file_name": "661_21-V-0367.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/30/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Mendon, Monroe County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8E15A1B-DBD7-4A51-BB63-F5E6924A743F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0367",
+      "file_name": "2021.06.29 T. MENDON RENEWAL TO PSC lk.pdf"
+    }
+  ]
+}

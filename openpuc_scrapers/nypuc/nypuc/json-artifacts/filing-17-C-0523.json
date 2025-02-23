@@ -1,0 +1,38 @@
+{
+  "case": "17-C-0523",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Acquisition and Contact Info Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73ABFA80-BA8E-4484-983F-5782264162D8}",
+      "organization": "Motorola Solutions, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-C-0523",
+      "file_name": "NY Acquisition and Contact Info Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Approval of the Petition Pursuant to Section 100 of the PSL.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C58B240-7774-4D12-AA94-401CEB2C3418}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-C-0523",
+      "file_name": "17-01811 Motorola Airbus.Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Airbus DS Communications, Inc., Plant Holdings, Inc. and Motorola Solutions, Inc. for Approval to Transfer Indirect Control of Airbus DS Communications, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82C92B71-0817-42FD-8183-13F52466338F}",
+      "organization": "Airbus DS Communications, Inc., Motorola Solutions, Inc., Plant Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0523",
+      "file_name": "Petition for Authority to Transfer Control.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "23-W-0410",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Close the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C2C492-0000-C927-BA6C-224B507D2A22}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-W-0410",
+      "file_name": "241025 to Phillips to Close Proceeding after Sale 23-W-0410 (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60C88D8C-0000-CF1F-99E8-0A9EAFA480C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-W-0410",
+      "file_name": "461_23-W-0410.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-View at 182, to Phillips, Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00BE9889-0000-CA2F-B22A-9A2D9A0FBEE0}",
+      "organization": "Saratoga Water Services, Inc., View at 182, LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0410",
+      "file_name": "SWS-View at 182, to Phillips, Letter of Transmittal 230727.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-View at 182 Ptn to Extn Serv Area w Attachments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0BD9889-0000-C21B-A958-9861C6A0B9B0}",
+      "organization": "Saratoga Water Services, Inc., View at 182, LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0410",
+      "file_name": "SWS-View at 182 Ptn to Extn Serv Area w Attachments, 230727.pdf"
+    }
+  ]
+}

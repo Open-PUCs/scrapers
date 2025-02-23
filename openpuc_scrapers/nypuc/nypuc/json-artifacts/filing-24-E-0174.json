@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0174",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={402B4B93-0000-C118-AC15-4E284BED464D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0174",
+      "file_name": "362_24-E-0174_112024final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Takes Action Against Three ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={208F2B93-0000-CF18-8162-641D0D40E30C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0174",
+      "file_name": "pr 24099 ESCOs.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107E4B90-0000-C311-B107-F0C093FA8F6E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0174",
+      "file_name": "362_24-E-0174 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Clear Green Energy LLC NOAV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F7098E-0000-C513-8EE8-A805B8D0DED6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0174",
+      "file_name": "Clear Green Energy LLC NOAV 3.4.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Attachment 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F7098E-0000-C05F-8CA9-3D2A0AF8AC77}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0174",
+      "file_name": "Overdue Annual Compliance - Clear Green Energy LLC.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Attachment 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F7098E-0000-CA33-A847-7AEE11B8914D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0174",
+      "file_name": "ESCO Annual Compliance Reminder 15605CL - Clear Green Energy LLC (Display Name_ Clear Green Energy LLC) _ Msg. Tracking No _90.pdf"
+    }
+  ]
+}

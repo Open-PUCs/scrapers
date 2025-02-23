@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0720",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Order Certifications - 26-38 Jackson Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={404EE992-0000-C21F-8F0C-3A8629D51E60}",
+      "organization": "Italic Realty, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0720",
+      "file_name": "Italic Realty LLC - Order Certifications - 26-38 Jackson Avenue.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4060BA92-0000-CC1B-A0F4-10ED9F9BEB56}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0720",
+      "file_name": "366_23-E-0720 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - Italic Realty LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={501D5690-0000-CF1B-BDB1-E252C1D63393}",
+      "organization": "Italic Realty, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0720",
+      "file_name": "Supplemental Filing - Italic Realty LLC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/12/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Italic Realty, LLC to Submeter Electricity at 26-38 Jackson Avenue, Long Island City, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50AE5F8C-0000-CB11-BF74-67522505C438}",
+      "organization": "Italic Realty, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0720",
+      "file_name": "Italic Realty LLC - Notice of Intent to Submeter - 26-38 Jackson Avenue.pdf"
+    }
+  ]
+}

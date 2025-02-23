@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0435",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Gas Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37709524-0921-4F7F-B7E6-F86B9C1D06A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0435",
+      "file_name": "162_20-G-0435.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of National Fuel Gas Distribution Corporation for Approval of the Romet RMT1000-RMT23000 Family of Meters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={103B1D4C-43E2-49E9-A2BD-D3C30916ED66}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "20-G-0435",
+      "file_name": "RMT NYS Petition letter RMT1000-23000 - final (002).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={794C0B8A-7543-4DA2-AC08-3DC4DA4A0CEA}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "20-G-0435",
+      "file_name": "Cover Letter 20200901.pdf"
+    }
+  ]
+}

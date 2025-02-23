@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0256",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22167C17-DF9F-4281-A2A3-B8FDC941A571}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0256",
+      "file_name": "374_18-E-0256.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Calpine Corporation and CPPIB Calpine Canada Inc. for a Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7091A72F-72F9-42EA-B55E-033A86020F75}",
+      "organization": "CPPIB Calpine Canada Inc., Calpine Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0256",
+      "file_name": "CPPIB NYPSC Petition (4-23-2018).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BFC511F-BD3B-4BDE-A850-D6A5E5165F5E}",
+      "organization": "CPPIB Calpine Canada Inc., Calpine Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0256",
+      "file_name": "CPPIB NYPSC Cover Letter.pdf"
+    }
+  ]
+}

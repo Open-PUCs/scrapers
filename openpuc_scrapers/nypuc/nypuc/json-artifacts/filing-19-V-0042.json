@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0042",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58280275-E424-4D2D-AB95-D60B576B2DB3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0042",
+      "file_name": "662_19-V-0042.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/14/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Esopus - Affidavit of Newspaper Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E203EC39-6BB7-49EE-A4FE-17C85570F102}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0042",
+      "file_name": "Esopus - Affidavit of Newspaper Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision of Wappingers Falls, Inc. for Approval of the Renewal of its Franchise with the Town of Esopus, Ulster County, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F95BA9B-D7CB-4B32-AC1A-FD0ECFBD9805}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0042",
+      "file_name": "Esopus - Application Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/14/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit IV - Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E140A7C9-C5CF-42B6-811E-50B433C35E63}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0042",
+      "file_name": "Exhibit IV - Franchise.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/14/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit III - Esopus Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={294F6DA6-EBF1-4611-9344-9B902D4F72E2}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0042",
+      "file_name": "Exhibit III - Esopus Resolution.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/14/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit II - Esopus Aff of Pub and PH",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49641350-92CC-4576-934B-578201CD4525}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0042",
+      "file_name": "Exhibit II - Esopus Aff of Pub and PH.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/14/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit I - Esopus R2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B6513CF-982B-459C-969F-87A29BBECC84}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0042",
+      "file_name": "Exhibit I - Esopus R2.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Esopus Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B3A6E42-FBE3-486C-ACFC-1A3A525BDCD0}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0042",
+      "file_name": "Esopus Proof of Performance.pdf"
+    }
+  ]
+}

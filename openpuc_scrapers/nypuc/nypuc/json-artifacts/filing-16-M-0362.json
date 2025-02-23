@@ -1,0 +1,49 @@
+{
+  "case": "16-M-0362",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition Regarding Property Tax Benefits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC500A04-018C-4CC5-AE45-ED7A7D26A00C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-M-0362",
+      "file_name": "262_16-M-0362.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Postponing Evidentiary Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={138984F3-7887-4EA9-B4C8-56000F2DF20D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-M-0362",
+      "file_name": "16m0300 et al Notice Postponing Evidentiary Hearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Orange and Rockland Utilities, Inc. Regarding Disposition of Property Tax Benefits from the Towns of Clarkstown and Orangetown",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70881471-0AB0-485B-A664-097EE909BEAD}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-M-0362",
+      "file_name": "PETITION.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1BB796F-7D5A-434F-A7D0-9232BB161A3E}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-M-0362",
+      "file_name": "Cover Letter Clarkstown and Orangetown.pdf"
+    }
+  ]
+}

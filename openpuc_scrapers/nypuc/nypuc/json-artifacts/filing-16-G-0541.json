@@ -1,0 +1,82 @@
+{
+  "case": "16-G-0541",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Elster-American AT210TC GAs Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0EA10AF-94DB-45D5-BA6B-749923E60681}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-G-0541",
+      "file_name": "168_16-G-0541.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65DD8694-2F50-42BD-8AE8-29A8DC327DA8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0541",
+      "file_name": "Case 16-G-0541 - CE Accuracy and Accelerated Life Tests AT210TC.XLSX"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E3C3C60-BFCF-4039-97D3-DEB07379EE8E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0541",
+      "file_name": "Case 16-G-0541 - Clarification to Petition Letter Filed on 09-21-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54FA24B6-A73B-4B0F-B648-19E95226F56F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0541",
+      "file_name": "CE Request for Approval of Elster American AT210TC.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment C - CE Accuracy and Accelerated Life Tests AT210TC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA687DCD-B636-4EA7-855A-9F0ED9CCBDBF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0541",
+      "file_name": "Attachment C - CE Accuracy and Accelerated Life Tests AT210TC.xlsx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment B - PSC Similarity Approval Leeter for AT210TC Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62368A1A-5382-455B-A55B-A6DA9063129E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0541",
+      "file_name": "Attachment B - PSC Similarity Approval Leeter for AT210TC Meter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment A -Elster American Similarity Letter for AT210TC Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55D93041-D0EC-4A7C-A56B-63F6EE9D1FFB}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0541",
+      "file_name": "Attachment A -Elster American Similarity Letter for AT210TC Meter.pdf"
+    }
+  ]
+}

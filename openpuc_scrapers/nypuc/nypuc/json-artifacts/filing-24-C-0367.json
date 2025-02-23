@@ -1,0 +1,60 @@
+{
+  "case": "24-C-0367",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A01A2592-0000-CA13-9B8E-FC61FD5BC6BC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-C-0367",
+      "file_name": "561_24-C-0367_92424final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-C-0367 Windstream Transfer StoptheClock",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70BE5090-0000-C611-82ED-D013F541279F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-C-0367",
+      "file_name": "24-C-0367 Windstream Transfer StoptheClock.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Windstream Reorganization Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D42790-0000-CD49-990D-E69C57081946}",
+      "organization": "American Telephone Company LLC, Broadview Networks, Inc., Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, Eureka Telecom, Inc., Intellifiber Networks, LLC, LDMI Telecommunications, Inc., MassComm, LLC, McLeodUSA Telecommunications Services, LLC, PAETEC Communications, LLC, Talk America, LLC, US LEC Communications, LLC, Windstream Communications, LLC, Windstream FiberNet, LLC, Windstream NTI, LLC, Windstream New Edge, LLC, Windstream New York, Inc., Windstream Norlight, LLC, Windstream Services, LLC",
+      "itemNo": "1",
+      "docket_id": "24-C-0367",
+      "file_name": "Windstream Reorganization Application (NY PSC).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D42790-0000-CD2B-A049-E257AA621033}",
+      "organization": "American Telephone Company LLC, Broadview Networks, Inc., Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, Eureka Telecom, Inc., Intellifiber Networks, LLC, LDMI Telecommunications, Inc., MassComm, LLC, McLeodUSA Telecommunications Services, LLC, PAETEC Communications, LLC, Talk America, LLC, US LEC Communications, LLC, Windstream Communications, LLC, Windstream FiberNet, LLC, Windstream NTI, LLC, Windstream New Edge, LLC, Windstream New York, Inc., Windstream Norlight, LLC, Windstream Services, LLC",
+      "itemNo": "1",
+      "docket_id": "24-C-0367",
+      "file_name": "Cover Letter (Reorg Application) 6-17-24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Application Signature Page",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D42790-0000-C31E-A051-B58BA85FA9E9}",
+      "organization": "American Telephone Company LLC, Broadview Networks, Inc., Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, Eureka Telecom, Inc., Intellifiber Networks, LLC, LDMI Telecommunications, Inc., MassComm, LLC, McLeodUSA Telecommunications Services, LLC, PAETEC Communications, LLC, Talk America, LLC, US LEC Communications, LLC, Windstream Communications, LLC, Windstream FiberNet, LLC, Windstream NTI, LLC, Windstream New Edge, LLC, Windstream New York, Inc., Windstream Norlight, LLC, Windstream Services, LLC",
+      "itemNo": "1",
+      "docket_id": "24-C-0367",
+      "file_name": "Application Signature Page 6-17-24.pdf"
+    }
+  ]
+}

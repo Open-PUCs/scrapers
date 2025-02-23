@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0714",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FB1CD09-7B2B-433D-8627-3B9728A9BACD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0714",
+      "file_name": "666_15v0714.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Alma, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EABE099F-E6A6-4F2A-AD2A-FFECD5E11818}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0714",
+      "file_name": "Alma, Town Franchise Renewal Docs to PSC, 12.14.15.pdf"
+    }
+  ]
+}

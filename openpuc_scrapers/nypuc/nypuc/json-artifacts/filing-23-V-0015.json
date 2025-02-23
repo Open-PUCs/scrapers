@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0015",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41AD5E46-DF51-4FB9-8D25-F44B8969C9BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0015",
+      "file_name": "662_23-V-0015 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB6D9FAC-3A45-4988-A827-8D6546DE73D4}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0015",
+      "file_name": "AUSA Newspaper Cover Letter - Tuckahoe, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Tuckahoe, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12FB96E8-8D19-4660-BD42-CBAF6F5E3077}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0015",
+      "file_name": "AUSA Newspaper Affidavit - Tuckahoe, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB4183E6-94C1-4314-BE23-8D373774AABC}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0015",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Tuckahoe, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D9A6DF8-A67D-4E25-927C-A8A4998BDA6B}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0015",
+      "file_name": "Exhibit IV - Tuckahoe, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF09535A-171D-4F53-B85D-0C2EFE1A1E46}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0015",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00B3C0C-A126-4F08-9746-A07A5AA0DE57}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0015",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13824F69-2FBD-48EF-867C-0A0C1F915EBE}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0015",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B816E031-9C9B-4478-9D70-D7016F8B4006}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0015",
+      "file_name": "Application Cover Letter - Tuckahoe, V..pdf"
+    }
+  ]
+}

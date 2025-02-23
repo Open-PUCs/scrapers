@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0679",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BDD18D-0000-CB12-AAEB-E43CCCA3280A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0679",
+      "file_name": "661_23-V-0679 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4015DA8B-0000-C13B-AAC0-A5F073D1C738}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0679",
+      "file_name": "AUSA Newspaper Cover Letter - Dering Harbor, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Dering Harbor, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4015DA8B-0000-CE1E-8291-8E647DF6C620}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0679",
+      "file_name": "AUSA Newspaper Affidavit - Dering Harbor, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F9D88B-0000-CF5B-9305-5C1418541E6C}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0679",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Dering Harbor, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5051D98B-0000-CE1C-A2ED-B77C736FB4B7}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0679",
+      "file_name": "Exhibit IV - Dering Harbor, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F9D88B-0000-C629-9746-50BAE0E07D5B}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0679",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F9D88B-0000-C66B-AB30-E32ADF875969}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0679",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F9D88B-0000-CF32-92F8-627F809E1005}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0679",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F9D88B-0000-C71B-B926-EBC39051BB46}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0679",
+      "file_name": "Application Cover Letter - Dering Harbor, V..pdf"
+    }
+  ]
+}

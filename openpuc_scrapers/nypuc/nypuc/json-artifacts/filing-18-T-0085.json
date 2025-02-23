@@ -1,0 +1,71 @@
+{
+  "case": "18-T-0085",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/03/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FBFF867-44DB-495D-A67E-13287ECDE269}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0085",
+      "file_name": "18-T-0085-NYSEG-Saranac-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2018",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG Line 911 Part 102 Report Figures",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9936FF54-B79E-4221-80DF-CA1D0D11E31E}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0085",
+      "file_name": "2018-02-08 NYSEG Line 911 Part 102 Report Figures.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2018",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG Line 911 Part 102 Report Appendices",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78267685-0D4B-458D-87BB-AA485A0D787B}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0085",
+      "file_name": "2018-02-08 NYSEG Line 911 Part 102 Report Appendices.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/08/2018",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG Line 911 Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DA017A3-8756-43C9-A7B7-FAC3A3CC8679}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0085",
+      "file_name": "2018-02-08 NYSEG Line 911 Part 102 Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/08/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Line 911 Part 102 EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCB5C98D-298F-4CA2-89CF-78AB808A252E}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0085",
+      "file_name": "2018-02-08 NYSEG Line 911 Part 102 EAF.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/08/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of New York State Electric & Gas Corporation concerning the proposed construction of an additional structure to the existing 115kV overhead electric transmission line located in the Town of Saranac, Clinton County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E37A522-5B46-4702-9108-12B08F192851}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0085",
+      "file_name": "2018-02-08 NYSEG Line 911 Part 102 - Cover Letter.pdf"
+    }
+  ]
+}

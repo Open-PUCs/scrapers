@@ -1,0 +1,93 @@
+{
+  "case": "23-V-0476",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00585D8B-0000-C810-A79E-509E04229635}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0476",
+      "file_name": "662_23-V-0476 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01222 20-Day Letter to Building Owner-211 W 29 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0AF6989-0000-C313-8A0A-D5F9AC785D39}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0476",
+      "file_name": "23-01222 20-Day Letter to Building Owner-211 W 29 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter - Notice of Intent -211 W 29th St.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00126589-0000-C73E-85A6-3CCEBE9858B5}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0476",
+      "file_name": "Cover Letter - Notice of Intent -211 W 29th St..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "211 W 29th St. - Landowner Notices of Intent to Access_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00126589-0000-C519-8C4D-D856F534E2B9}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0476",
+      "file_name": "211 W 29th St. - Landowner Notices of Intent to Access_.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition - 211 W 29th St_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E9A088-0000-C744-84A4-5BEDAB41D5D9}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0476",
+      "file_name": "Petition - 211 W 29th St_.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 211 W 29th",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E9A088-0000-C01C-BEE2-4088B12B5E9B}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0476",
+      "file_name": "Exhibit 2 - 211 W 29th.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - 211 W 29th SOW",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E9A088-0000-CC31-A8F6-098B5EF129CB}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0476",
+      "file_name": "Exhibit 1 - 211 W 29th SOW.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E9A088-0000-C52D-A5C4-D76F71633162}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0476",
+      "file_name": "Cover Letter - 211 West 29th St.pdf"
+    }
+  ]
+}

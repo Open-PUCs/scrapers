@@ -1,0 +1,82 @@
+{
+  "case": "20-G-0385",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/19/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Closing Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={038C2391-C07D-430E-BB19-473AAD912B59}",
+      "organization": "Alliance Energy Group, LLC, Alliance Energy Transmissions - Syracuse, LLC, Alliance Energy Transmissions, LLC",
+      "itemNo": "5",
+      "docket_id": "20-G-0385",
+      "file_name": "2021 02 19 Closing Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/18/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F19D7E1-95FB-43A1-8DF2-07A676E4A710}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-G-0385",
+      "file_name": "166_20-G-0385 Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E243D0EA-BCCC-46DC-896F-8A524CC2C781}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0385",
+      "file_name": "166_20-G-0385 Order final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61BFE95B-9103-4B2F-BFF8-949BC8AD7144}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-G-0385",
+      "file_name": "20-G-0385 EAF Part 2&3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={073040CF-23AA-4FC8-A355-B76E8ECDB263}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-G-0385",
+      "file_name": "20-G-0385 (Alliance Energy EAF - Cover Letter).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/31/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval of Transfers of AET and AET Syracuse",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B137ABF-BF99-453C-BBBA-0E986E277C11}",
+      "organization": "Alliance Energy Group, LLC, Alliance Energy Transmissions - Syracuse, LLC",
+      "itemNo": "1",
+      "docket_id": "20-G-0385",
+      "file_name": "2020 07 31 Petition for Approval of Transfers of AET and AET Syracuse.pdf (839 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/31/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E371F41B-F7D5-4FB6-96F7-9BC7410CF3CA}",
+      "organization": "Alliance Energy Group, LLC, Alliance Energy Transmissions - Syracuse, LLC",
+      "itemNo": "1",
+      "docket_id": "20-G-0385",
+      "file_name": "2020 07 31 Cover Letter.pdf (105 KB)"
+    }
+  ]
+}

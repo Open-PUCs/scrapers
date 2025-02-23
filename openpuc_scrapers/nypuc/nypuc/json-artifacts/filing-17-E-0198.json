@@ -1,0 +1,82 @@
+{
+  "case": "17-E-0198",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/11/2018",
+      "nypuc_doctype": "Reports",
+      "name": "60 S 2nd Submetering Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D9E9B90-F7FF-4650-8806-15C4DE0FFC69}",
+      "organization": "FreeWythe, LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0198",
+      "file_name": "60 S 2nd Submetering Meter Test Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Acceptance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B546F674-071F-4E9E-84D4-C10D35ACCDCB}",
+      "organization": "FreeWythe, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0198",
+      "file_name": "11-E-0198 Letter of Acceptance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64381B37-5175-4595-A282-8BB32A92F4DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0198",
+      "file_name": "368_17-E-0198 Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to request for additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D5BCD2F-8066-4449-856D-91D6ED96EB4E}",
+      "organization": "RWP Engineering, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0198",
+      "file_name": "2017-08-07 Response to Request for Additional Info.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEF9C545-5438-49A4-9A7A-371E6607C803}",
+      "organization": "RWP Engineering, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0198",
+      "file_name": "2017-08-07 Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "15700-1 Mitsubishi VRF System Wythe 1 (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4D8AEC7-EAE6-4AF8-83FF-20B039E008FA}",
+      "organization": "RWP Engineering, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0198",
+      "file_name": "15700-1 Mitsubishi VRF System Wythe 1 (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of FreeWythe, LLC to Submeter Electricity at 60 South 2nd Street, Brooklyn, New York 11249, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CB4C9CF-5B14-4F36-BD76-2C233BF0C30D}",
+      "organization": "FreeWythe, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0198",
+      "file_name": "2017-04-18 NYPSC Residential Submetering Filing.pdf"
+    }
+  ]
+}

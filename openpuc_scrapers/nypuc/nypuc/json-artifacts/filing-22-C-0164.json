@@ -1,0 +1,38 @@
+{
+  "case": "22-C-0164",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation for the Petition of Everstream Solutions LLC for Approval of a Pro Forma Change in Indirect Ownership.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2A1D991-3522-4A18-AC98-54DFD780D6FB}",
+      "organization": "Everstream Solutions LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0164",
+      "file_name": "Everstream Solutions LLC New York (NY) Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00653 Everstream Solutions OOL Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18F32DF7-C4DB-42E6-A405-FB1349765778}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0164",
+      "file_name": "22-00653 Everstream Solutions OOL Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Everstream Solutions LLC New York Change in Indirect Ownership Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6296416-542D-494D-BF0B-A1DE7A394A31}",
+      "organization": "Everstream Solutions LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0164",
+      "file_name": "Everstream Solutions LLC New York Change in Indirect Ownership Petition.pdf"
+    }
+  ]
+}

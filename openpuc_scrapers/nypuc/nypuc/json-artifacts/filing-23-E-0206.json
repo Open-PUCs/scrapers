@@ -1,0 +1,93 @@
+{
+  "case": "23-E-0206",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Final Accounting Entries Town of Cornwall",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={905B5D8E-0000-C612-9A53-AD7685F81DC7}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "23-E-0206",
+      "file_name": "23-E-0206 Final Accounting Entries Town of Cornwall.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A05B5D8E-0000-CA12-B790-4D09A98BCBD8}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "23-E-0206",
+      "file_name": "23-E-0206 Filing Ltr-Final Acctg Entries.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={203D888C-0000-C83A-8DBB-3A4A1F8D6FA3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-E-0206",
+      "file_name": "Case 23-E-0206 SEAF Parts 2 and 3 CHGE & Town of Cornwall.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={203D888C-0000-CB19-A511-371CA82AA96F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-E-0206",
+      "file_name": "23-E-0206 CHGE Town of Cornwall SEAF Cover Letter 12.20.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/18/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4066A98A-0000-C210-8DF3-8E1382B0A513}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0206",
+      "file_name": "363_23-E-0206 Neg Dec.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5063A98A-0000-C511-BF79-0C5B020B0019}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0206",
+      "file_name": "363_23-E-0206 .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Cornwall Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1056A087-0000-C13A-8E2A-BFE990C8E69C}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0206",
+      "file_name": "Town of Cornwall Short Environmental Assessment Form.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "CHGE Town of Cornwall Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1056A087-0000-CD1A-99BA-8516718A02D9}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0206",
+      "file_name": "CHGE Town of Cornwall Section 70 Petition-Filed.pdf"
+    }
+  ]
+}

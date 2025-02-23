@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0665",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9543D311-D0C7-4672-8309-405D76BBACCC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0665",
+      "file_name": "661_17-V-0665.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of York, County of Livingston.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62B5569D-C585-4CBD-B8F5-F6D288AA8154}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0665",
+      "file_name": "11.07.17 T. YORK FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

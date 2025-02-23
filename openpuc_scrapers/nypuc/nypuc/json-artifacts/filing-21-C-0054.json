@@ -1,0 +1,60 @@
+{
+  "case": "21-C-0054",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pattersonville Telephone Company\u00bfs additional response for a waiver regarding distribution of telephone directories",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1950DBAC-F16F-477B-8B71-496CF192F864}",
+      "organization": "Pattersonville Telephone Company",
+      "itemNo": "4",
+      "docket_id": "21-C-0054",
+      "file_name": "21-C-0054 Pattersonville Telephone Co additional response.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pattersonville Telephone Company\u00bfs response for a waiver regarding distribution of telephone directories",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F84440B-5871-4BBF-AF26-17C44E9398DC}",
+      "organization": "Pattersonville Telephone Company",
+      "itemNo": "3",
+      "docket_id": "21-C-0054",
+      "file_name": "21-C-0054 Pattersonville Telephone Co response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06498D2-931A-4A74-841D-E2FE785084B0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-C-0054",
+      "file_name": "564_21-C-0054 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Pattersonville - Directory Waiver - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A136BA5F-92E3-4622-AD13-017BC3F6C320}",
+      "organization": "Pattersonville Telephone Company",
+      "itemNo": "1",
+      "docket_id": "21-C-0054",
+      "file_name": "Pattersonville - Directory Waiver - Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "PSC - enclosed Pattersonville Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DAA077D-CA0E-40B7-9795-38ED57713A0F}",
+      "organization": "Pattersonville Telephone Company",
+      "itemNo": "1",
+      "docket_id": "21-C-0054",
+      "file_name": "PSC - enclosed Pattersonville Petition.pdf"
+    }
+  ]
+}

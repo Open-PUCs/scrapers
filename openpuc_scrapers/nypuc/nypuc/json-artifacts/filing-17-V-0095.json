@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0095",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01CABA5D-BB9B-4166-B00C-7642D3041E7A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0095",
+      "file_name": "661_17-V-0095.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Nassau, Rensselaer County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A49003E9-29C7-44AD-8043-204BB6421472}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0095",
+      "file_name": "V Nassau PSC submission docs 2 13 17.pdf"
+    }
+  ]
+}

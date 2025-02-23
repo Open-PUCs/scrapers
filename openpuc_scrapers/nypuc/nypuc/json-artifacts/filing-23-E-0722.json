@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0722",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/04/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Meter Test Plan for 589 Fulton Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309F5792-0000-C118-8B2F-7E919825855C}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "23-E-0722",
+      "file_name": "in-service meter test plan (2).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "compliance letter (3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A9B891-0000-CD19-96E7-3D57DAE41B2E}",
+      "organization": "Brook NY Residential LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0722",
+      "file_name": "compliance letter (3).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0180A91-0000-C51C-94B5-BD9415993901}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0722",
+      "file_name": "361_23-E-0722 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Withdrawal of Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90EF378E-0000-C717-8A16-FEB95F849460}",
+      "organization": "Brook NY Residential LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0722",
+      "file_name": "withdrawal of waiver letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Brook NY Residential LLC to Sub-meter electricity at 589 Fulton Street, Brooklyn. Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A04C698C-0000-CE12-8B01-B45D5F1864CF}",
+      "organization": "Brook NY Residential LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0722",
+      "file_name": "submetering application (29).pdf"
+    }
+  ]
+}

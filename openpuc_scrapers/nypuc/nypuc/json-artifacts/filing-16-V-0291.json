@@ -1,0 +1,93 @@
+{
+  "case": "16-V-0291",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C125F7E8-3E3E-4DB2-A660-2A6943E804EC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-V-0291",
+      "file_name": "663_16-V-0291.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304B14ED-B76F-4171-80CB-9EEA7FBD4A0E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-V-0291",
+      "file_name": "16-V-0291 Signed EAF.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0ED7E851-23B0-42FA-967A-58B202226CC3}",
+      "organization": "Town of Harpersfield",
+      "itemNo": "3",
+      "docket_id": "16-V-0291",
+      "file_name": "haarp proof of pub.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Performance - Part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C63172B2-CCC5-4A0B-8392-FC975599CBFC}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "16-V-0291",
+      "file_name": "PROOF OF PERF PART 2.PDF"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Performance - Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E4A9905-598F-4EB5-8C69-935BB996B5B8}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "16-V-0291",
+      "file_name": "MTC PROOF OF PERFORMANCE.PDF"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF7E5C26-F6E7-4FDD-948A-352F9D29AC9A}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "16-V-0291",
+      "file_name": "harp.PDF"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "SEQR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E0100A4-1511-4B96-A8EE-A38443CC966E}",
+      "organization": "Heart of the Catskills Communications Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0291",
+      "file_name": "DOC harp seqr.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Heart of the Catskills Communications Inc. d/b/a MTC Cable for a Certificate of Confirmation for its Franchise with the Town of Harpersfield, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BA772F7-107E-4E44-9807-3AE52680EC5E}",
+      "organization": "Heart of the Catskills Communications Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0291",
+      "file_name": "harp 1-6.pdf"
+    }
+  ]
+}

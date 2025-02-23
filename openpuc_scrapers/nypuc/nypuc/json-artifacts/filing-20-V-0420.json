@@ -1,0 +1,104 @@
+{
+  "case": "20-V-0420",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A0687DB-D23A-4FC8-8B23-686DBE30B3E7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0420",
+      "file_name": "663_20-V-0420 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={795848DA-DE87-4575-8943-F2170099D240}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "20-V-0420",
+      "file_name": "PSC Cvr Lt - Aff of Publication.pdf (110 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64BEE868-F773-41EB-99A4-F8F3926E8688}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "20-V-0420",
+      "file_name": "Altice Newspaper aff.pdf (271 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Wappinger Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5A6C753-27DC-47D2-9311-B6717C1481E7}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0420",
+      "file_name": "Wappinger Proof of Performance.pdf (220 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82485407-13EE-40B0-9D19-41467D4ED987}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0420",
+      "file_name": "Exhibit IV - Franchise.pdf (738 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Certified Record of Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55387B26-FF1B-429F-96F0-3E6DA8636781}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0420",
+      "file_name": "Exhibit III - Certified Record of Approval.pdf (285 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Muni Affidavit of Pub.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDEA96CE-8266-46E7-9507-B804B052FDA1}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0420",
+      "file_name": "Exhibit II - Muni Affidavit of Pub..pdf (425 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9913B605-DBA2-4894-958E-5FF4CC111EFF}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0420",
+      "file_name": "Exhibit I - R-2..pdf (324 KB)"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2164022E-763D-4422-9FCD-E4316F927C3C}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0420",
+      "file_name": "Application Cover Letter - Wappinger 1.pdf (104 KB)"
+    }
+  ]
+}

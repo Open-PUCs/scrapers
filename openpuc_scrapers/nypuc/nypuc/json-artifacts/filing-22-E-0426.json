@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0426",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202F8087-0000-CD1E-B5F7-C9E4448DF3B6}",
+      "organization": "Ryan Main, LLC dba Meadowbrook Commons",
+      "itemNo": "6",
+      "docket_id": "22-E-0426",
+      "file_name": "CASE 22-E-0426 ORDER ACCEPTANCE LETTER.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D91BBA57-5997-4285-9383-A41BDBEB99D9}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0426",
+      "file_name": "368_22-E-0426 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/31/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8627BDA4-0276-460A-A125-CB24B982EFD5}",
+      "organization": "Ryan Main, LLC dba Meadowbrook Commons",
+      "itemNo": "4",
+      "docket_id": "22-E-0426",
+      "file_name": "MEADOWNBROOK. UPDATE TO ADDITIONAL INFORMATION. SUBMETERING PETITION.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/03/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8D67527-D8B3-4220-8AEB-C70078366D7E}",
+      "organization": "Ryan Main, LLC dba Meadowbrook Commons",
+      "itemNo": "3",
+      "docket_id": "22-E-0426",
+      "file_name": "MEADOWNBROOK. ADDITIONAL INFORMATION. SUBMETERING PETITION. 22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Ryan Main, LLC dba Meadowbrook Commons to Submeter Electricity at 3195 Main Street, 1-35 Pondview Blvd, and 35-56 Jesmeral Court, Mohegan Lake, Located in the Territory of Consolidated Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E47F0B9-65BF-418F-B50A-55008A849F34}",
+      "organization": "Ryan Main, LLC dba Meadowbrook Commons",
+      "itemNo": "1",
+      "docket_id": "22-E-0426",
+      "file_name": "Petition For Submetering Executive Summary 2022. MEADOWBROOK COMMONS, MOHEGAN LAKE NY.pdf"
+    }
+  ]
+}

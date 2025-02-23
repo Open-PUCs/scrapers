@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0452",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4ADD3EBE-E869-48AF-A295-A7E926759261}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0452",
+      "file_name": "661_20-V-0452 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2020.09.10 T. Callicoon - PSC Renewal.3 - Filed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53D95BA0-769A-4787-9497-BFF6628ADAA6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0452",
+      "file_name": "2020.09.10 T. Callicoon - PSC Renewal.3 - Filed.pdf"
+    }
+  ]
+}

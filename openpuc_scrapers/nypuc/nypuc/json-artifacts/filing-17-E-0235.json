@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0235",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0CFC5C6-B71A-4107-A94F-12C9C351EAE1}",
+      "organization": "522-528 LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0235",
+      "file_name": "response letter 1-15-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1CB3C93-FADC-40F8-8837-F5B0EA24C38D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0235",
+      "file_name": "372_17-E-0235 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 509 Pacific Street, Brooklyn, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3C1FF94-0203-430E-8BA6-FB62B607B2AE}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "17-E-0235",
+      "file_name": "response letter 9-11-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/05/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD08499B-E9C3-4BF6-9DF9-3D640A5817EB}",
+      "organization": "522-528 LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0235",
+      "file_name": "response letter 5-5-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 522-528 LLC to Submeter Electricity at 509 Pacific Street, Brooklyn, NY in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29523AA8-7CCF-45EB-BFB9-C006DF333542}",
+      "organization": "522-528 LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0235",
+      "file_name": "submetering application 4-25-17.pdf"
+    }
+  ]
+}

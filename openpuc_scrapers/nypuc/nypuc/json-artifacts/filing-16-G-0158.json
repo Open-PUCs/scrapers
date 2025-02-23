@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0158",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20160305 - Training (7 - NY 811)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5002E690-0000-CB1C-B915-476C7E1DCD79}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-G-0158",
+      "file_name": "20160305 - Training (7 - NY 811).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/02/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={854A900F-0162-4588-A2C7-A21EFD9F377D}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0158",
+      "file_name": "162c_16g0158.pdf"
+    }
+  ]
+}

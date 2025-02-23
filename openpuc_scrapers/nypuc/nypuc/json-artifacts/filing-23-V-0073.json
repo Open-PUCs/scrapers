@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0073",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E019B987-0000-C513-8566-387283D3B0B9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0073",
+      "file_name": "662_23-V-0073.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A442CB90-6E5D-43A3-8DAD-5DDF04208DAA}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0073",
+      "file_name": "AUSA Newspaper Cover Letter - Brookville, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Brookville, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FFC6F3B-7CD6-4B83-AA5A-DB9D9A7E3D2F}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0073",
+      "file_name": "AUSA Newspaper Affidavit - Brookville, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1B1388D-E57D-4726-92F1-B17BD6915C2B}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0073",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Long Island Corporation for Approval of the Renewal of its Franchise with the Village of Brookville, Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07089834-AA07-4B58-A4DA-082F58A89CF1}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0073",
+      "file_name": "Application Cover Letter - Brookville, V..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Brookville, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6A13AAB-F734-452A-8C92-D464BC453198}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0073",
+      "file_name": "Exhibit IV - Brookville, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63159FB8-D216-4705-B020-6308EBB28582}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0073",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02DCA289-3062-4FCF-82C7-5655BFB038CC}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0073",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7F2BD87-7AB7-4653-918B-19E79BBF8497}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0073",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

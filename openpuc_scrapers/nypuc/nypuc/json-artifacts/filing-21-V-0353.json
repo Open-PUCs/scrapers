@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0353",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A012A629-C771-495D-A8BC-99230C94687E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0353",
+      "file_name": "661_21-V-0353.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Greig, Lewis County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C09AAA1-5D2D-4E0E-AF03-3F6C769401E3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0353",
+      "file_name": "2021.06.23 T. GREIG RENEWAL TO PSC_ak.pdf"
+    }
+  ]
+}

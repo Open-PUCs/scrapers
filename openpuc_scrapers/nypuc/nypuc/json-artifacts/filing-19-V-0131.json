@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0131",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Acknowledging Withdrawal and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98704D7D-F9BD-4C5B-B512-56FC15D3441A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0131",
+      "file_name": "19-V-0131-Stephentown-Approval Ltr. to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CF41829-6DE1-4DFC-B165-B3F38516E4D9}",
+      "organization": "Town of Stephentown",
+      "itemNo": "2",
+      "docket_id": "19-V-0131",
+      "file_name": "New Waiver Request 04-17-2019 (002).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Stephentown for a Waiver of the Requirements of 16 NYCRR, Section 5894.9(a).",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={352F2EEE-D002-4FF1-8E14-6ECB7C391D17}",
+      "organization": "Town of Stephentown",
+      "itemNo": "1",
+      "docket_id": "19-V-0131",
+      "file_name": "Waiver Request.pdf"
+    }
+  ]
+}

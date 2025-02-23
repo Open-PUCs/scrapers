@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0448",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC382681-3414-4A32-8FB8-5F0FE10B960C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0448",
+      "file_name": "661_21-V-0448.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Laurens, Otsego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D868B25-F8A6-46D4-B88F-68D6BBB296D0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0448",
+      "file_name": "V. Laurens to be Filed with PSC.pdf"
+    }
+  ]
+}

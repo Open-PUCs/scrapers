@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0320",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={844D5C0A-8448-4F54-A2BA-C4D39E157B83}",
+      "organization": "QPS 23-10 Development LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0320",
+      "file_name": "submetering ID form 7-20-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated submetering ID Form for 23-01 42nd Road, Long Island City, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC4DBED8-CEF0-47FE-B8AC-D23537D93938}",
+      "organization": "QPS 23-10 Development LLC",
+      "itemNo": "4",
+      "docket_id": "16-E-0320",
+      "file_name": "updated submetering ID Form.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88327E08-8C7F-4A12-9628-38CAC19C1D6E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0320",
+      "file_name": "365_16-E-0320.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/15/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to information requested for 23-01 42nd Street, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={637AB2F0-1A41-4863-9F0D-831DB0854040}",
+      "organization": "QPS 23-10 Development LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0320",
+      "file_name": "letter 9-14-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of lntent to sub-meter electricity at 23-01 42nd Street, Long lsland City, NY 11101 in the territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23771352-4642-4BBB-9981-A2053C8504D6}",
+      "organization": "QPS 23-10 Development LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0320",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

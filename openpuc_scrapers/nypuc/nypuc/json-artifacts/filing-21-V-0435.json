@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0435",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CAE7380-2865-4ED2-9CB0-D0C1FFA000D5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0435",
+      "file_name": "661_21-V-0435.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Orangeville, Wyoming County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9697B407-AC60-47A5-BC43-1BF78CC2237C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0435",
+      "file_name": "2021.08.10 T. ORANGEVILLE FRANCHISE RENEWAL PETITION.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "16-M-0395",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2016",
+      "nypuc_doctype": "Comments",
+      "name": "NYPA CEF Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D1D7638-8B1E-4CFB-AB98-24DD3C738901}",
+      "organization": "New York Power Authority",
+      "itemNo": "6",
+      "docket_id": "16-M-0395",
+      "file_name": "NYPA CEF Response Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Joint Utilites' Reply Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72D480EB-131B-42D9-B1F4-3E3F26584A16}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-M-0395",
+      "file_name": "Joint Utilities' CEF-Opt-In-Reply-Comments.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D878B5B2-8293-48C5-9796-552BA5BB3F2B}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-M-0395",
+      "file_name": "Joint Utilites' Reply Comments.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2016",
+      "nypuc_doctype": "Comments",
+      "name": "NYC NYPA Opt-In Comments FINAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={084CB7B4-4667-4176-8EBB-561EB30273A8}",
+      "organization": "City of New York",
+      "itemNo": "4",
+      "docket_id": "16-M-0395",
+      "file_name": "NYC NYPA Opt-In Comments FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/06/2016",
+      "nypuc_doctype": "Comments",
+      "name": "New York Power Authority\u00bfs comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABAB8DCC-9C88-43BC-B732-05C50439071F}",
+      "organization": "New York Power Authority",
+      "itemNo": "3",
+      "docket_id": "16-M-0395",
+      "file_name": "FINAL NYPA Comments JU Proposal.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/06/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of National Fuel Gas Distribution Corporation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3100BD55-3F60-466B-B2A5-705719D1CC54}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "16-M-0395",
+      "file_name": "Initial Comments of National Fuel Gas Distribution Corporation.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/12/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Concerning New Case Number",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AAA8A8A6-FF3A-4E8E-A543-AB51BC0BB088}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-M-0395",
+      "file_name": "16m0395 et al Notice NYPA Opt In Proposal.pdf"
+    }
+  ]
+}

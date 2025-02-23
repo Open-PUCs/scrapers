@@ -1,0 +1,115 @@
+{
+  "case": "19-E-0680",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/25/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3833D45-E0CB-42A1-BAE8-4586E9D23EE7}",
+      "organization": "GO HPS LLC",
+      "itemNo": "8",
+      "docket_id": "19-E-0680",
+      "file_name": "Notice of Intent of GO HPS LLC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C25FC526-2F11-4FFB-A3BA-0620E10523D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0680",
+      "file_name": "362_19-E-0680_Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "GO HPS LLC Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8F82FC8-801F-414D-A72D-55EB8B13F4BE}",
+      "organization": "GO HPS LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0680",
+      "file_name": "GO HPS LLC Response Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3A7A857-BB40-4719-9160-7EA0A89EAA75}",
+      "organization": "GO HPS LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0680",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90DEA99C-9677-4838-8EEC-970D01683230}",
+      "organization": "GO HPS LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0680",
+      "file_name": "response letter 8-15-20.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/19/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73036F56-79DA-4DA2-AB2F-B8B1AD54808A}",
+      "organization": "GO HPS LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0680",
+      "file_name": "Submetering Lease Rider.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/19/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BD5DA43-06B3-4DBC-A54B-EE4C7AB07DF4}",
+      "organization": "GO HPS LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0680",
+      "file_name": "Revised Cover Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/19/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCE461B4-6534-44D7-97E0-EE79BBF349C7}",
+      "organization": "GO HPS LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0680",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/07/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information 2-6-2020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB2C7BED-FADC-40D3-8957-AE38805F3F0B}",
+      "organization": "GO HPS LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0680",
+      "file_name": "additional information 2-6-2020.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of GO HPS LLC to Submeter Electricity at 57-28 2nd Street, Queens, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA0BA98C-5DE4-4089-A66B-65806762C5A6}",
+      "organization": "GO HPS LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0680",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

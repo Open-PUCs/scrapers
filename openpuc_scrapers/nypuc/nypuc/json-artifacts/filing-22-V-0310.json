@@ -1,0 +1,82 @@
+{
+  "case": "22-V-0310",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2EBEFD3-9497-4E70-8B52-9522508B6549}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "22-V-0310",
+      "file_name": "661_22-V-0310.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02038 Letter to Building Owner Offering Facilitation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7B24D9D-FF6C-4654-8FA4-7B018BA9E71C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "22-V-0310",
+      "file_name": "21-02038 Letter to Building Owner Offering Facilitation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2E9BDB4-81A2-46A0-B2C7-EA3B378518D1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0310",
+      "file_name": "220222_21-02038_166 NORFOLK ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54820617-8B0D-4715-86F0-9F3022DDC463}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0310",
+      "file_name": "220120_21-02038_166 NORFOLK ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02038 Letter to Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB9C65F0-EBEC-4B37-942E-4D8957C064A9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0310",
+      "file_name": "21-02038 Letter to Verizon New York Inc..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02038 Letter to Building Owner 10.13.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A38D068-BA26-4239-B920-4305E117D2F4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0310",
+      "file_name": "21-02038 Letter to Building Owner 10.13.21.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 166 Norfolk Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFF5E4F0-0E19-4D50-A314-06682181196D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0310",
+      "file_name": "5-210923 Petition (166 NORFOLK ST) (Complete).pdf"
+    }
+  ]
+}

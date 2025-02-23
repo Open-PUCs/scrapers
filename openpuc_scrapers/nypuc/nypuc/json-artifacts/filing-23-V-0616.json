@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0616",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309E378D-0000-C412-BCA9-CE27B5B97CBE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0616",
+      "file_name": "661_23-V-0616 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00D6C8B-0000-CE3A-99CC-466FF650CB8F}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0616",
+      "file_name": "AUSA Newspaper Cover Letter - Roslyn Harbor, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Roslyn Harbor, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00D6C8B-0000-C212-99AF-DC8709E6C611}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0616",
+      "file_name": "AUSA Newspaper Affidavit - Roslyn Harbor, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={704A688B-0000-CB53-9FB8-00DD2D4195AF}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0616",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Roslyn Harbor, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={804A688B-0000-CA3C-96C0-3B9EE5576CA7}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0616",
+      "file_name": "Exhibit IV - Roslyn Harbor, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={804A688B-0000-CC10-8C33-27383D8C11E7}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0616",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={804A688B-0000-C85C-BA48-482C1CE87760}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0616",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={704A688B-0000-C33C-9845-7C2B2756CCF5}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0616",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={704A688B-0000-C013-BD8C-07553336325E}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0616",
+      "file_name": "Application Cover Letter - Roslyn Harbor, V..pdf"
+    }
+  ]
+}

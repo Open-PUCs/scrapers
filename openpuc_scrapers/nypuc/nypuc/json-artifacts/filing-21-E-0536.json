@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0536",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Compliance Filings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF0F9BFB-EEBF-4F0E-9A18-35E4FC4D57C4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0536",
+      "file_name": "369_19-E-0566 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/14/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Modifying Standardized Interconnection Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={479EF670-9C2F-46C9-8FC8-CED8AFD71867}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0536",
+      "file_name": "369_21-E-0536_final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of the IPWG/ITWG Members Seeking Certain Minor Amendments to the New York State Standardized Interconnection Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D85695A-5450-472C-AD04-51C21DEC7EE8}",
+      "organization": "Interconnection Policy Working Group, Interconnection Technical Working Group",
+      "itemNo": "1",
+      "docket_id": "21-E-0536",
+      "file_name": "Case 21-E-____ Petition of IPWG and ITWG Members Seeking Certain Minor Amendments to the SIR.pdf"
+    }
+  ]
+}

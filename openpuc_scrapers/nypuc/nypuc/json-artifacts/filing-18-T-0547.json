@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0547",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B7A802D-DAEF-4F4D-A31B-FF7D40F33A8E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0547",
+      "file_name": "18-T-0547-NiagaraMohawk-AlabamaTelegraph-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/22/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the Alabama Telegraph 115kV Asset Condition Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={911CC462-12F8-4429-98B1-D59CDE60554B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0547",
+      "file_name": "NG Alabama Telegraph Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/22/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={417E28FE-A287-4213-974C-EBDE92141ED9}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0547",
+      "file_name": "Alabama Telegraph Part 102 -- Zafonte Cover Letter.pdf"
+    }
+  ]
+}

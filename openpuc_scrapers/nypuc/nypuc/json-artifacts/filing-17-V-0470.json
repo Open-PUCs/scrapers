@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0470",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9B95893-A2EE-49F3-BC88-243E09E962AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0470",
+      "file_name": "663_17-V-0470.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Watertown, Jefferson County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA587714-B089-49AE-942E-C47120A95D92}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0470",
+      "file_name": "8 2 17 T Watertown Charter PSC application (1).pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0487",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0562B93-0000-C31C-B728-2A46B1EE48FF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0487",
+      "file_name": "24-E-0487.Penn Yan.Voltage Update.PP Notice111424.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B51D93-0000-C43A-8DC2-D672A6302F98}",
+      "organization": "Penn Yan Municipal Utilities Board, Village of Penn Yan",
+      "itemNo": "3",
+      "docket_id": "24-E-0487",
+      "file_name": "Letter to Secretary - Penn Yan Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Posting",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B51D93-0000-CE1D-B744-506FF16AC8EC}",
+      "organization": "Penn Yan Municipal Utilities Board, Village of Penn Yan",
+      "itemNo": "3",
+      "docket_id": "24-E-0487",
+      "file_name": "Penn Yan Case 24-E-0487 Affidavit of Posting.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/28/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Penn Yan Municipal Utilities Board",
+      "itemNo": "2",
+      "docket_id": "24-E-0487",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Penn Yan Municipal Utilities Board",
+      "itemNo": "1",
+      "docket_id": "24-E-0487",
+      "file_name": ""
+    }
+  ]
+}

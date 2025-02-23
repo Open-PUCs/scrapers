@@ -1,0 +1,60 @@
+{
+  "case": "21-C-0201",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB804881-05BB-4C6E-BF40-1EB3AAFCCA7A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-C-0201",
+      "file_name": "563_21-C-0201 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY TOC Supplement Ltr Emailed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={142141DB-D660-462C-9532-C2F3FFD852CE}",
+      "organization": "Alliance Global Networks LLC, Velocity, A Managed Services Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-C-0201",
+      "file_name": "NY TOC Supplement Ltr Emailed 6.29.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-C-0201 Alliance Global Stop Clock Letter - Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D02C2486-C178-47E2-B79E-D85B03F9BA63}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-C-0201",
+      "file_name": "21-C-0201 Alliance Global Stop Clock Letter - Signed.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Alliance Global Networks LLC and Velocity, A Managed Services Company, Inc. for Approval of Transfer of Control of Alliance Global Networks, LLC to Velocity, A Managed Services Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71F30DD2-FEF8-46C8-8EEC-9C88628AC108}",
+      "organization": "Alliance Global Networks LLC, Velocity, A Managed Services Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0201",
+      "file_name": "NY TOC Application EMail Filing 4.1.21.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88F6E7CF-41F2-4B72-ABA8-85530EA6828E}",
+      "organization": "Alliance Global Networks LLC, Velocity, A Managed Services Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0201",
+      "file_name": "NY TOC Letter EMail Filing 4.1.21.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0341",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60B7C92C-B392-4BD7-969A-7C9039AE0234}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0341",
+      "file_name": "661_22-V-0341.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/03/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C857C62-79C8-4F55-BD90-EA2F5DF87240}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0341",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/03/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Gilbertsville Letter R-2 06.03.22 ke",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A236600F-4BBE-4DE3-9917-FC68FFC643F0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0341",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Gilbertsville Letter R-2 06.03.22 ke.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/03/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications V. Gilbertsville Request for Renewal-Certificate of Confirmation REDACTED 06.03.22,ke",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7FBD872-248B-4897-B3F9-66FA18DBE25B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0341",
+      "file_name": "Charter Communications V. Gilbertsville Request for Renewal-Certificate of Confirmation REDACTED 06.03.22,ke.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/03/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications V. Gilbertsville Cover Letter Request for Renewal Certificate of Confirmation 06.03.22,ke",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5497E503-9B3E-4073-B59D-1E581D58A97A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0341",
+      "file_name": "Charter Communications V. Gilbertsville Cover Letter Request for Renewal Certificate of Confirmation 06.03.22,ke.pdf"
+    }
+  ]
+}

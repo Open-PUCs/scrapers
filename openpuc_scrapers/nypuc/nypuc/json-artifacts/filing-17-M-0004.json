@@ -1,0 +1,104 @@
+{
+  "case": "17-M-0004",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing of a Commission decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D264CD32-C1E0-4DED-82EC-9D783DAB00DF}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "17-M-0004",
+      "file_name": "266 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA86C1EC-3F33-4A02-BAB0-0A886F9CEDED}",
+      "organization": "S.J. ENERGY PARTNERS, INC.",
+      "itemNo": "7",
+      "docket_id": "17-M-0004",
+      "file_name": "Response to the Decision.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Request for Rehearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B87FC25-CA46-4891-8EB2-A4D070CCCD29}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "17-M-0004",
+      "file_name": "Chung Rehearing Ack Letter 417825 final_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C26E22-C05B-48D2-A510-B33E434CC5AE}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "17-M-0004",
+      "file_name": "Case 471825 Petition for Rehearing_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/17/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDDCF7B8-1280-4E5A-8333-1E0B25DC6D91}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-M-0004",
+      "file_name": "264_17-M-0004 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/17/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A29CDD0F-D507-42CE-BC25-925856AD64C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-M-0004",
+      "file_name": "264_17-M-0004Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/12/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B96C918-D97F-4F2F-B8AF-756923B25FE4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-M-0004",
+      "file_name": "417825 Ack Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision _ Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C9A1265-A422-49D3-8574-37B978409F79}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-M-0004",
+      "file_name": "417825appeal (002)_Redacted.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision _ Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D93349B-9EC9-4942-B6E2-C2C9BB5D3EEC}",
+      "organization": "Individual",
+      "itemNo": "1",
+      "docket_id": "17-M-0004",
+      "file_name": "Case 417825 - Chung vs SJ Energy Partners - Slamming (002)_Redacted.pdf"
+    }
+  ]
+}

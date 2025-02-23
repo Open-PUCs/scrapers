@@ -1,0 +1,49 @@
+{
+  "case": "16-G-0638",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01DCED3E-EFD2-47BB-A3CF-01D6EBEBA1E5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-G-0638",
+      "file_name": "161_16-G-0638 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D25CD62C-E943-4057-9A17-56C92E3C1CD9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0638",
+      "file_name": "Acknowledgement Letter 326096_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CB1FFAD-6D97-4CA9-B33E-971ECB47841C}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "16-G-0638",
+      "file_name": "Appeal 326096 (002)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/10/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={710E187A-9DF0-408F-B804-D2CC748FEE90}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0638",
+      "file_name": "Informal Decision 326096 (002)_Redacted.pdf"
+    }
+  ]
+}

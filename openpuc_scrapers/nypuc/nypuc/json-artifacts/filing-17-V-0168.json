@@ -1,0 +1,71 @@
+{
+  "case": "17-V-0168",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/23/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1C15560-067D-4ABB-A27D-93B4893DFF22}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0168",
+      "file_name": "663_17-V-0168.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Form R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9816555E-3D49-4A3B-BDF3-C16F85BA56C9}",
+      "organization": "MTC Cable",
+      "itemNo": "3",
+      "docket_id": "17-V-0168",
+      "file_name": "R2 V0M.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F316489B-9876-436A-B6F4-3CCB3A3A6390}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "17-V-0168",
+      "file_name": "Proof of Pub VOM.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={199241D2-94A0-42A3-A1D9-8A06D915844D}",
+      "organization": "MTC Cable",
+      "itemNo": "1",
+      "docket_id": "17-V-0168",
+      "file_name": "Proof of Performance part 2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/22/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Perforamance part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF6D6BB8-3A0B-435E-816C-333ED2156547}",
+      "organization": "MTC Cable",
+      "itemNo": "1",
+      "docket_id": "17-V-0168",
+      "file_name": "Proof of Perforamance part 1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/22/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of MTC Cable for Approval of the Renewal of its Franchise with Village of Margaretville, of Delaware County, New York .",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20FBA3CE-A8DC-4B5C-84E4-097D99826674}",
+      "organization": "MTC Cable",
+      "itemNo": "1",
+      "docket_id": "17-V-0168",
+      "file_name": "Village of Margaretville Franchise Renewal.pdf"
+    }
+  ]
+}

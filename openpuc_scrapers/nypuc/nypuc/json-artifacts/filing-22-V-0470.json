@@ -1,0 +1,71 @@
+{
+  "case": "22-V-0470",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB874BDC-B15D-488D-A5A4-0FC4F63AE1F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0470",
+      "file_name": "663_22-V-0470.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC4D2455-1EB1-4EB7-AE6F-CB4A4D3CEBEA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0470",
+      "file_name": "Charter Communications, T. Kingston Cover Letter and Affidavit of Legal Notice 08.05.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/04/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05D029D6-41B5-4011-A7EC-9E4B4357DE88}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0470",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/04/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Kingston Letter R-2 08.01.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1C0BBDB-5209-4EA8-B8BF-FD6F309F6CB5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0470",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Kingston Letter R-2 08.01.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Kingston Cover Letter-Request for Renewal and Certificate of Confirmation 08.01.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D646C851-10E7-4A9A-9CBF-0AA3E7143A1E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0470",
+      "file_name": "Charter Communications, T. Kingston Cover Letter-Request for Renewal and Certificate of Confirmation 08.01.22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "2022.08.01 Charter Communications, T. Kingston -Request for Renewal and Certificate of Confirmation 08.01.22 (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCCEAFD9-D4E3-49D5-9DBF-E3D82087B02E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0470",
+      "file_name": "2022.08.01 Charter Communications, T. Kingston -Request for Renewal and Certificate of Confirmation 08.01.22 (Redacted).pdf"
+    }
+  ]
+}

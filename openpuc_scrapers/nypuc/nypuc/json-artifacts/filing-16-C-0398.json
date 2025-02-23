@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0398",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56CAE1C1-3E06-42E8-AED6-0868C3C29C76}",
+      "organization": "Inmate Calling Solutions, LLC d/b/a ICSolutions",
+      "itemNo": "3",
+      "docket_id": "16-C-0398",
+      "file_name": "NY Completion Notice ICS 16-C-0398.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EEBE3D6-D04A-4D90-AF22-7940C9340A82}",
+      "organization": "Inmate Calling Solutions, LLC d/b/a ICSolutions",
+      "itemNo": "2",
+      "docket_id": "16-C-0398",
+      "file_name": "Cover Letter ICS NYx1603a.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Inmate Calling Solutions, LLC d/b/a ICSolutions for Approval of Certain Financing Arrangements.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFCF7FF2-621D-47DC-B2D5-07BE641D5068}",
+      "organization": "Inmate Calling Solutions, LLC d/b/a ICSolutions",
+      "itemNo": "1",
+      "docket_id": "16-C-0398",
+      "file_name": "REDACTED - Cover Letter Inmate Calling Solutions NY.pdf"
+    }
+  ]
+}

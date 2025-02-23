@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0717",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Fishers Island Electric Corporation for Authority to Defer Incremental Expense Related to a Cost-of-Service Study.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A09A208B-0000-C85C-ADFB-9BB51EB3DCD6}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0717",
+      "file_name": "Request to Defer Cost of Cost-of-Service Study.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A. COS Study Proposal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A09A208B-0000-CB33-8943-B504422636DD}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0717",
+      "file_name": "Exhibit A. COS Study Proposal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A09A208B-0000-C613-BB83-BE3D1BC69E16}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0717",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0067",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F29B7797-7A92-4B4F-B53C-96F0AF21C13A}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-V-0067",
+      "file_name": "666_16v0067.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Putnam Valley\u00bfs public notice of hearing regarding rollover of Cablevision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={699BDB5D-9742-4882-9AD1-9B6A64711C5A}",
+      "organization": "Town of Putnam Valley",
+      "itemNo": "6",
+      "docket_id": "16-V-0067",
+      "file_name": "Public Notice- Cablevision Contract.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "The Town Of Putnam Valley Public Notice Of Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C19231E-21FB-4094-B201-EAF41F9FA76E}",
+      "organization": "Town of Putnam Valley",
+      "itemNo": "5",
+      "docket_id": "16-V-0067",
+      "file_name": "Correpondence From The Town Of Putnam Valley.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65B10D12-70C8-4B89-9DC8-DBC0583A1ED9}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "4",
+      "docket_id": "16-V-0067",
+      "file_name": "Comcast.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/10/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Comcast Putnam Valley Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59563785-4B4F-4F90-85FB-F69A64F625A2}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "3",
+      "docket_id": "16-V-0067",
+      "file_name": "Comcast Putnam Valley Affidavit of Publication 16-V-0067.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/08/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4A2B583-1ACF-4AE8-8A74-01E19AA24B28}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0067",
+      "file_name": "16-V-0067 Cover letter .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/08/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast of New York, LLC for Approval of the Renewal of its Franchise with the Town of Putnam Valley, Putnam County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87338080-05DD-4F62-8F55-3F640EC8DDE2}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0067",
+      "file_name": "Comcast of New York, LLC_Putnam Valley.pdf"
+    }
+  ]
+}

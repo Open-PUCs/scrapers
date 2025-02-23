@@ -1,0 +1,60 @@
+{
+  "case": "20-G-0610",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/19/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B64D3BB-0674-44EA-90C2-0592443BF843}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0610",
+      "file_name": "162_ 20-G-0610 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FB3E9B6-6CB0-4FCE-AA55-D2844B2A1DF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-G-0610",
+      "file_name": "162_20-G-0610 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/03/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E3B2C35-176A-419B-BE9B-6AD4ED625DCB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-G-0610",
+      "file_name": "Appeal 023048 Ack letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/03/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={444BACF3-FCFF-4904-9E35-393FBB22B562}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-G-0610",
+      "file_name": "Con Edison Appeal of Informal Review Decision.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/03/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E399D852-7BF4-46A9-BBF9-7976769469AB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-G-0610",
+      "file_name": "023048- 3720 Homes, INC. - Robert E. Hill, INC. vs. Con Edison.pdf"
+    }
+  ]
+}

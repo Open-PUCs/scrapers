@@ -1,0 +1,60 @@
+{
+  "case": "19-M-0494",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-M-0494 Zussman Rehearing Request 06182019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D50ACD07-8200-4178-A87C-4AE6EAE13A3E}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "19-M-0494",
+      "file_name": "19-M-0494 Zussman Rehearing Request 06182019_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-M-0494 Zussman Rehearing Request 06172019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4EA0128-B042-4D57-98E1-9C5435A88651}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "19-M-0494",
+      "file_name": "19-M-0494 Zussman Rehearing Request 06172019_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0494 Zussman SMD Final 05162019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31C71638-71FB-4307-8AEF-2C6008839BE2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-M-0494",
+      "file_name": "19-M-0494 Zussman SMD Final 05162019_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD9C5E2A-6761-45BC-90D0-6546B12A60D0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-M-0494",
+      "file_name": "263 Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96E079BB-291D-4BCE-A11D-B951CC850ABD}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0494",
+      "file_name": "263 Letter_Redacted.pdf"
+    }
+  ]
+}

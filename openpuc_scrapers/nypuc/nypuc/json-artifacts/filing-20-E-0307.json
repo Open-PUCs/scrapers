@@ -1,0 +1,93 @@
+{
+  "case": "20-E-0307",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/19/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0720BEA8-1815-41B8-9EE8-A788BDD366E4}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "20-E-0307",
+      "file_name": "368_20-E-0307 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2524DD2B-881A-4371-97C7-1B201A2A7BB3}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "20-E-0307",
+      "file_name": "368_20-E-0307 Letter Redact final_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/23/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07E551CF-71BC-4D6F-B9D7-53EC47788200}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0307",
+      "file_name": "Con Edison Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFBEB190-B32D-4B5E-BC20-4412A2577C2C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "20-E-0307",
+      "file_name": "510348 Bashirov Ack FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9DA8459-1D84-4933-A519-BD49A4FFDA61}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "20-E-0307",
+      "file_name": "Appeal 510348.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B16D17AF-0A0E-46A1-8DF6-AD63830721AB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0307",
+      "file_name": "510348 Bashirov FINAL.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0FED074-E35A-4BBC-AFC2-8633AC71940E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-E-0307",
+      "file_name": "510348 Ext request.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C891963-1BAF-4821-91D1-6FB3BBCA0F37}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0307",
+      "file_name": "510348 Bashirov-ConEdison IR decision.pdf"
+    }
+  ]
+}

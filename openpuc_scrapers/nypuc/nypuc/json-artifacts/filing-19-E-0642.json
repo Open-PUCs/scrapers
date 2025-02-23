@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0642",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0642 Bond Ack Letter 10012019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C932C034-2A77-4932-9348-965AC3E98793}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-E-0642",
+      "file_name": "19-E-0642 Bond Ack Letter 10012019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0642 Bond Rehearing Request 09272019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E995355-CE4F-4A9C-AE4D-C1C90239DB01}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-E-0642",
+      "file_name": "19-E-0642 Bond Rehearing Request 09272019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0642 Bond SMD Final 08282019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAD580AD-4282-4A3D-A759-233C8A14DAAD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-E-0642",
+      "file_name": "19-E-0642 Bond SMD Final 08282019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter From Secretary Phillips Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79C0594C-3D6E-4F58-995E-01E1EB421B89}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0642",
+      "file_name": "363 Letter_Redacted.pdf"
+    }
+  ]
+}

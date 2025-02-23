@@ -1,0 +1,27 @@
+{
+  "case": "18-C-0314",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/12/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DF1B883-E511-4530-8ED5-40213BA72DFD}",
+      "organization": "Mitel Cloud Services, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-C-0314",
+      "file_name": "New York Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of MLN TopCo Ltd., Mitel Networks Corporation, and Mitel Cloud Services, Inc. f/k/a Mitel NetSolutions, Inc. for Approval (1) of the Transfer of Control of Mitel Cloud Services, Inc. to MLN TopCo Ltd. and (2) for Mitel Cloud Services, Inc. to Participate in Certain Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB3782FB-FBBF-4B93-8D6F-3E1D213D7F1B}",
+      "organization": "Mitel Cloud Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0314",
+      "file_name": "NY PSC TOC and Financing Petition.pdf"
+    }
+  ]
+}

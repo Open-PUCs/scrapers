@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0235",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0235 Miller Withdrawal Letter 07152020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C72D1C42-4366-4BCB-AF6A-D6BD537AA807}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0235",
+      "file_name": "20-E-0235 Miller Withdral Letter 07152020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0235 Miller Ack Letter 05152020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E9AE08D-5E1F-4CDA-8FF4-FA4E374846EB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0235",
+      "file_name": "20-E-0235 Miller Ack Letter 05152020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0235 Miller Rehearing Request 05072020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={764269BE-2D84-4723-8024-2EA82370C3D8}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-E-0235",
+      "file_name": "20-E-0235 Miller Rehearing Request 05072020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0235 Miller SMD Final 04172020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF211E20-F338-4E12-8703-9BEB7D3690EE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0235",
+      "file_name": "20-E-0235 Miller SMD Final 04172020.pdf"
+    }
+  ]
+}

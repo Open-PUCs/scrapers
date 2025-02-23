@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0366",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F8A023D-048F-4CFF-9B04-9F60927507A3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0366",
+      "file_name": "661_20-V-0366 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Exeter, Otsego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10659E5C-1A86-44FA-9FFE-E1C8B822706F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0366",
+      "file_name": "2020.07.22 T. EXETER, NY FRANCHISE RENEWAL E-Filed PSC, KE .pdf (3 MB)"
+    }
+  ]
+}

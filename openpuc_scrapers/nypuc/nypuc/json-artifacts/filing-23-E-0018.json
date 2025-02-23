@@ -1,0 +1,137 @@
+{
+  "case": "23-E-0018",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C City of Batavia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4057FF8C-0000-C018-9020-FE3468F589FC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "23-E-0018",
+      "file_name": "Schedule C City of Batavia.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4057FF8C-0000-CD34-A6DF-597058071B53}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "23-E-0018",
+      "file_name": "City of Batavia Journal Entry Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80073588-0000-C01B-8DE0-AAF60F6DE841}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0018",
+      "file_name": "361_23-E-0018 Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20063588-0000-CF17-BB97-6AF63B359873}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0018",
+      "file_name": "361_23-E-0018_Order 5.19.23final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/11/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Forms 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90570B88-0000-CB1C-9112-E91D16622B52}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0018",
+      "file_name": "23-E-0018 SEAF Forms 2 and 3 with Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Workpaper for City of Batavia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1988DF80-434B-47B3-A34B-6867A0C37524}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0018",
+      "file_name": "Schedule D Workpaper for City of Batavia.xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule C Workpaper for City of Batavia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14A647C8-D2FA-4BC6-95AB-B5E4B9E68898}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0018",
+      "file_name": "Schedule C Workpaper for City of Batavia.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66F79F5E-5218-411D-AFC4-68A36F9C42DB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0018",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "City of Batavia Section 70 Petition and Attachments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E016B52-FB30-40BF-BD8B-A1700D34DDF5}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0018",
+      "file_name": "City of Batavia Section 70 Petition and Attachments.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "City of Batavia Section 70 Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF10067B-985C-4ECA-B199-83049F722B0B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0018",
+      "file_name": "City of Batavia Section 70 Cover Letter.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "City of Batavia RAO Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={881487EC-D946-4B5D-8148-81788078B6BA}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0018",
+      "file_name": "City of Batavia RAO Letter.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Batavia, City of - Inventory Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB76ABEC-CFDE-4531-8AB1-A25FC864879C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0018",
+      "file_name": "Batavia, City of - Inventory Redacted.pdf"
+    }
+  ]
+}

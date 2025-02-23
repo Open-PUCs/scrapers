@@ -1,0 +1,60 @@
+{
+  "case": "17-W-0476",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8F449C4-5B6C-4C15-B01B-2A635BB42DB1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-W-0476",
+      "file_name": "462 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C96AF50-030A-496A-8D70-8055B68A759B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-W-0476",
+      "file_name": "462 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD42A911-3C04-46F8-93D4-514A0CF75117}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-W-0476",
+      "file_name": "559116 L Williams (002)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3A9EA12-473A-476A-8303-5FA8AE299E6B}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-W-0476",
+      "file_name": "Lachone Williams Appeal (002)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76641407-4AD8-47F7-B394-08B33EE10E90}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-W-0476",
+      "file_name": "Lachonne Williams vs UWW case 539116 (002)_Redacted.pdf"
+    }
+  ]
+}

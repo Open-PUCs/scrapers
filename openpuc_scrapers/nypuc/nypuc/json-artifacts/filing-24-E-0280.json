@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0280",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50552693-0000-CD3F-A2FA-1D7C23F72719}",
+      "organization": "200 East 20th LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0280",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60B3588F-0000-CD17-9C51-4829DB495814}",
+      "organization": "200 East 20th LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0280",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

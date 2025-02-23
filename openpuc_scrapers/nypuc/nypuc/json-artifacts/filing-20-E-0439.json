@@ -1,0 +1,38 @@
+{
+  "case": "20-E-0439",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waivers and Extending Development Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBA61517-4C21-40D4-A0A8-100AA9EA7DE0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0439",
+      "file_name": "361_20-E-0439 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Niagara Mohawk Power Corporation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78677D20-2F8E-4302-A68E-0BE87B1A30CC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "20-E-0439",
+      "file_name": "Cimato Petition Response 10.13.20.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cimato Enterprises Inc. for a Waiver of the Requirements of Niagara Mohawk's Tariff Rule 16.6.2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F6160B4-2BE5-4F9F-AE38-A7CE6369F0A0}",
+      "organization": "Cimato Enterprises Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0439",
+      "file_name": "Petition of Cimato Enterprises Inc. for a Waiver of the Requirements of Niagara Mohawk's Tariff Rule 16.6.2.pdf"
+    }
+  ]
+}

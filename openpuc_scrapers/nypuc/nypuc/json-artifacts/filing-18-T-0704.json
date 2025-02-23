@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0704",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/11/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={866FD570-45AF-4BCE-9385-F3BA724CF16A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0704",
+      "file_name": "18-T-0704-Nat Grid-Teall-Dewitt-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Teall-Dewitt #4 115kV Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72E8D685-ECBA-44B7-8D3A-B86C09471113}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0704",
+      "file_name": "National Grid -- Teall-Dewitt _4 CCR Project -- Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC93750E-A31D-446C-BD60-97E28C183DE4}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0704",
+      "file_name": "National Grid -- Teall-Dewitt CCR Part 102 -- Filing Letter from L. Zafo....pdf"
+    }
+  ]
+}

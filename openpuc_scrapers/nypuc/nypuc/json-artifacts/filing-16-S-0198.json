@@ -1,0 +1,93 @@
+{
+  "case": "16-S-0198",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1453D8C2-B3F5-4E1A-A4E6-1B6E196A67FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-S-0198",
+      "file_name": "261 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DA439A4-81C9-4506-85A8-6E492F2793E9}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-S-0198",
+      "file_name": "261 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5930EA6-6A8F-47A4-9189-72ADD0DAFAB8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "16-S-0198",
+      "file_name": "16-S-0198_response to appeal ack let.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Utility Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B68BE165-987C-419C-B529-7A36F8F1B09C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-S-0198",
+      "file_name": "16-S-0198_CE response to appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0759C16-61E0-48AF-8474-96C07EDF688B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-S-0198",
+      "file_name": "515088 Acknowledgement Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/13/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Evidence for Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F7A3FB4-F770-4BF1-95FE-D714FDE00859}",
+      "organization": "Royal Sutton Cleaners, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-S-0198",
+      "file_name": "515088_evidence.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/11/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA4B8E2A-FE4B-4A67-87E2-FD36C92D4C50}",
+      "organization": "Royal Sutton Cleaners, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-S-0198",
+      "file_name": "515088_appeal.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/11/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD8322F5-212A-467D-BCEA-B9C490CCB951}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-S-0198",
+      "file_name": "Royal Sutton Cleaners Inc. vs Con Ed 515088.pdf"
+    }
+  ]
+}

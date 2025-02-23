@@ -1,0 +1,93 @@
+{
+  "case": "24-W-0356",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A00F2193-0000-CB28-83A6-0EF3A5739AF4}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "24-W-0356",
+      "file_name": "Public Service Commission.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F5AF92-0000-C71C-99E0-DA611B940DFD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-W-0356",
+      "file_name": "462_24-W-0356 Letter102124final_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F5AF92-0000-C53B-8212-04C73373D9ED}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-W-0356",
+      "file_name": "462_24-W-0356 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Kreisner (The Bagel Gourmet) v. Liberty Utilities LU Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60EB9390-0000-CA11-977F-EFCDA43AC4E8}",
+      "organization": "Liberty Utilities Co.",
+      "itemNo": "4",
+      "docket_id": "24-W-0356",
+      "file_name": "Case No. 32008_Kreisner (The Bagel Gourmet) v. Liberty Utilities_LU Response 07082024 (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 06 07 Acknowledgement Scheduling Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107BF48F-0000-C730-B8B2-DE425558431B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-W-0356",
+      "file_name": "2024 06 07 Acknowledgement Scheduling Letter #320080_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 05 14 Kresiner appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C078F48F-0000-C87D-A6E3-AA5AD295B7DE}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-W-0356",
+      "file_name": "2024 05 14 Kresiner appeal_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 05 14 Appeal Request to Michelle L. Phillips_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C078F48F-0000-C337-A4ED-DED749319646}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-W-0356",
+      "file_name": "2024 05 14 Appeal Request to Michelle L. Phillips_Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 05 06 Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F073F48F-0000-C639-BEE4-7DFE5C164D9C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-W-0356",
+      "file_name": "2024 05 06_(Bagel_Gourmet_vs_Liberty_Utilities)_Informal_hearing_decision_Redacted.pdf"
+    }
+  ]
+}

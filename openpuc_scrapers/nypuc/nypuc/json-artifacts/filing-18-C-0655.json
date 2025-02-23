@@ -1,0 +1,126 @@
+{
+  "case": "18-C-0655",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Issuing Certificate of Public Convenience and Necessity",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C59442E9-BB2F-405E-9905-C76DA0A30337}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "18-C-0655",
+      "file_name": "562_18-C-0655.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised CSG Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19C24F7B-96D5-4926-B560-D3E328D90B1D}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "5",
+      "docket_id": "18-C-0655",
+      "file_name": "Revised CSG Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised CSG",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5112743B-DEAB-4510-9FFD-D746CE63CA9E}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "5",
+      "docket_id": "18-C-0655",
+      "file_name": "Revised CSG.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/31/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "6",
+      "docket_id": "18-C-0655",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised CPCN Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D4D4E12-411C-44A5-AE8F-A3215D4F8A52}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "4",
+      "docket_id": "18-C-0655",
+      "file_name": "EFN_CPCN_20180829 (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03A8BEF0-B5ED-4717-B997-B2A4C3A9B8C2}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "4",
+      "docket_id": "18-C-0655",
+      "file_name": "LETT_EFN_CPCN_20180829.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Customer Service Guide",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6102ACD-0017-4F40-8211-5B084268488A}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "3",
+      "docket_id": "18-C-0655",
+      "file_name": "EFN_CPCN_20180829.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={761396DA-E360-4B8E-9A32-0D3C5BC5014E}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "3",
+      "docket_id": "18-C-0655",
+      "file_name": "LETT_EFN_CSG_20180829.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/27/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-00329 Edge Fibernet Inc. CPCN STC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={018691C6-21E1-49C7-B05B-450D7E23BDBF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-C-0655",
+      "file_name": "18-00329 Edge Fibernet Inc. CPCN STC.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/31/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Edge Fibernet, Inc. for an Original Certificate of Public Convenience and Necessity.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E58F2E18-CA4E-4CF7-9A50-A3316179E313}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0655",
+      "file_name": "edgeCPCN1.31.18.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "01/31/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={835C5FC9-3C31-4D45-869F-5ACB1C6BEC36}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0655",
+      "file_name": "edge coverletter for clec 1.31.18.pdf"
+    }
+  ]
+}

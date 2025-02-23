@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0005",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D48B8CA4-2093-4214-A519-CCBE1E1D9AED}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0005",
+      "file_name": "661_22-V-0005.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01941 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF8D7989-138D-41C0-BDE3-4CEADBDFF0E9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0005",
+      "file_name": "21-01941 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 229 East 13th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E1EA306-BBFD-43C9-85C1-B81BF72B156A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0005",
+      "file_name": "10-210909 Petition (229 E 13 ST) (Complete).pdf"
+    }
+  ]
+}

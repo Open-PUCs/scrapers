@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0428",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B02A95C6-74A2-427E-9BDA-C0AA3449BCC6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0428",
+      "file_name": "661_21-V-0428.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={399E4192-ED54-4E55-8909-184B4B21BA12}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "21-V-0428",
+      "file_name": "Rockville Centre Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Rockville Centre, New York Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={286CF958-E86F-4EBB-8C11-8BB49D0270DF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0428",
+      "file_name": "Rockville Centre Renewal Petition (Complete).pdf"
+    }
+  ]
+}

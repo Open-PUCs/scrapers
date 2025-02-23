@@ -1,0 +1,93 @@
+{
+  "case": "22-E-0114",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/13/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan for 150 East 23rd Street, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00FB688-0000-C810-AB95-18FC996E504C}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "9",
+      "docket_id": "22-E-0114",
+      "file_name": "in-service meter test planpdf.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0516BEE-BDC7-4CE5-9516-7561138B6004}",
+      "organization": "150 East 23rd Street Condominium",
+      "itemNo": "8",
+      "docket_id": "22-E-0114",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69879D1C-9AA2-42F7-988D-26AFA0D8DF2A}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "22-E-0114",
+      "file_name": "367_22-E-0114 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/23/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BA4F198-9733-4BE8-980E-8F81B70A7F58}",
+      "organization": "150 East 23rd Street Condominium",
+      "itemNo": "6",
+      "docket_id": "22-E-0114",
+      "file_name": "response letter 6-22-22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65C4F236-7F1E-4D55-8219-8CE64B68D18F}",
+      "organization": "150 East 23rd Street Condominium",
+      "itemNo": "5",
+      "docket_id": "22-E-0114",
+      "file_name": "response letter 6-21-22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/27/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={765E4916-E20C-420C-A371-592F1CA65434}",
+      "organization": "150 East 23rd Street Condominium",
+      "itemNo": "4",
+      "docket_id": "22-E-0114",
+      "file_name": "response letter 4-27-22 (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72FBA36A-2668-4232-A597-6E7320609E1F}",
+      "organization": "150 East 23rd Street Condominium",
+      "itemNo": "3",
+      "docket_id": "22-E-0114",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={281B5E29-3F61-4746-8D70-E2886F71D653}",
+      "organization": "150 East 23rd Street Condominium",
+      "itemNo": "1",
+      "docket_id": "22-E-0114",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

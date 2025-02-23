@@ -1,0 +1,27 @@
+{
+  "case": "20-G-0414",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request to Allow Terry to Respond",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02A5E4E8-7E4D-4BD6-963F-402DB6A7E01F}",
+      "organization": "Terry Contracting & Materials, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-G-0414",
+      "file_name": "TERRY CONTRACTING LETTER.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFF3A613-E705-40E7-9F5D-69D7AE50FB31}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0414",
+      "file_name": "162-A_20-G-0414 final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "16-M-0083",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/15/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Section 70 Helicopter Sale - Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F884B91C-3670-45B1-9DE9-786D03E864C5}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "16-M-0083",
+      "file_name": "Section 70 Helicopter Sale Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/16/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Authority to Transfer a 1985 206L-3 Helicopter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={998EAB0F-5313-4835-B58D-A0052D990A75}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-M-0083",
+      "file_name": "262_15m0083 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B817BD48-9921-4AEC-949C-7F1AB88AE6FD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-M-0083",
+      "file_name": "16-M-0083 Signed EAF.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2016",
+      "nypuc_doctype": "Workpapers",
+      "name": "Part 1 of the Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B712AC6-6A9A-4480-BA59-632D40605628}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "16-M-0083",
+      "file_name": "Section 70 Helicopter Sale - EAF.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/19/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verification Page",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA64E1F6-1C93-4168-8FD8-E8B07307AF4D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "16-M-0083",
+      "file_name": "Verification Page.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Section 70 Petition - NIMO Helicopter Sale (FINAL)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={623950C7-EE82-4875-9141-7DC5CF90EE50}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-M-0083",
+      "file_name": "Section 70 Petition - NIMO Helicopter Sale (FINAL).pdf"
+    }
+  ]
+}

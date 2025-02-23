@@ -1,0 +1,93 @@
+{
+  "case": "24-V-0215",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60C54B90-0000-C013-8B59-E3B4C383671B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0215",
+      "file_name": "661_24-V-0215 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60C54B90-0000-CE39-8443-7AC3F2FD6101}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0215",
+      "file_name": "661_24-V-0215 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/14/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-V-0215 Letter to Secretary and SEQRA Part 2&3 Spectrum-T of Pinckney",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908E788F-0000-CA11-B3AA-8E4CE2BF45DE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0215",
+      "file_name": "24-V-0215 Letter to Secretary and SEQRA Part 2&3 Spectrum-T of Pinckney.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Legal Affidavit for Cert.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9043108F-0000-C82A-B550-E15385F7E507}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0215",
+      "file_name": "2024.04.24 Sprectrum Northeast, LLC Cover Letter - Filing w. Legal Affidavit for Cert..pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Spectrum Northeast, LLC-Town of Pinckney Request for Cert.of Confirmation of Initial Franchise (redacted) 4.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3081AE8E-0000-C566-A706-7150780E6D5C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0215",
+      "file_name": "Spectrum Northeast, LLC-Town of Pinckney Request for Cert.of Confirmation of Initial Franchise (redacted) 4.5.24.PDF"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Spectrum Northeast, LLC- Town of Pinckney - Cover Letter Request for Cert.of Confirmation of Initial Franchise 4.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3081AE8E-0000-CF41-BB46-717576A681A5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0215",
+      "file_name": "Spectrum Northeast, LLC- Town of Pinckney - Cover Letter Request for Cert.of Confirmation of Initial Franchise 4.5.24.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3081AE8E-0000-C924-BD3F-DF531F11217A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0215",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO - T. Pinckney-4.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2081AE8E-0000-C71C-B8AE-676876E2C762}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0215",
+      "file_name": "Charter Confidential Treatment Request to RAO - T. Pinckney-4.5.24.pdf"
+    }
+  ]
+}

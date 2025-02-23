@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0498",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "2",
+      "docket_id": "24-E-0498",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/04/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "1",
+      "docket_id": "24-E-0498",
+      "file_name": ""
+    }
+  ]
+}

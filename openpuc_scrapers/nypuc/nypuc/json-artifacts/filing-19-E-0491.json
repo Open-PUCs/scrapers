@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0491",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/19/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFFBD91A-181F-47D1-BF43-DDCA234AB34A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0491",
+      "file_name": "362 Letter Final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/02/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Request - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C06BE6A-D14A-45C6-8DA1-658006E48490}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0491",
+      "file_name": "Letter Acknowledging Appeal of Informal Hearing Request - Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/02/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Request Denial - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73D3626D-DEFC-4A81-BE84-42E7863DAC06}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-E-0491",
+      "file_name": "Appeal of Informal Hearing Request Denial - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/02/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for an Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC427DB3-1F51-4C06-8033-D59BC64E52EA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0491",
+      "file_name": "948302 Pinkowski final redacted.pdf"
+    }
+  ]
+}

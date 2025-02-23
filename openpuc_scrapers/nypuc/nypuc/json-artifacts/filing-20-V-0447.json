@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0447",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C5D4294-CB31-4CD9-94D2-821F9ECA4EF4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0447",
+      "file_name": "661_20-V-0447 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Marcellus, Onondaga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED85EE80-D715-424F-ABEA-FFC482C18589}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0447",
+      "file_name": "2020.09.10 V. MARCELLUS RENEWAL FILED-PSC ak.pdf"
+    }
+  ]
+}

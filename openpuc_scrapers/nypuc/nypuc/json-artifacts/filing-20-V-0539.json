@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0539",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7192638-3227-41B6-9DCF-4B2D4724B8C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0539",
+      "file_name": "661_20-V-0539 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Pittstown, Rensselaer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA70D263-D18F-4BC0-B45F-DAC74AD67A51}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0539",
+      "file_name": "2020.10.27.T. Pittstown - To Be Filed with PSC (2).pdf"
+    }
+  ]
+}

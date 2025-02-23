@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0113",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Interconnection Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={591F310E-FACD-4ACA-8ACD-829CBDF9883D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-C-0113",
+      "file_name": "562_16c0133.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Expedited Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B08188F-85F3-4660-AE9E-D58E30F18BEC}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-C-0113",
+      "file_name": "Request for Expedited Approval.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/07/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Citizens Telecommunications Company of New York, Inc. and Slic Network Solutions Inc. for Approval of an Interconnection Agreement.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9FA858B-D3B2-4EA5-B630-8A5C08A8F41F}",
+      "organization": "Citizens Telecommunications Company of New York, Inc. d/b/a Frontier Communications of New York",
+      "itemNo": "1",
+      "docket_id": "16-C-0113",
+      "file_name": "CTC-NY_SLIC Network Solutions Tel ICA_12-31-2016.pdf"
+    }
+  ]
+}

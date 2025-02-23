@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0578",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C413D91-9795-41B5-B6F1-A44B1409000F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0578",
+      "file_name": "663_21-V-0578.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of New Haven, Oswego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E92E6B9-C615-442D-BC9D-EE41B4A1128E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0578",
+      "file_name": "T. New Haven to be Filed with PSC.pdf"
+    }
+  ]
+}

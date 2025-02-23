@@ -1,0 +1,27 @@
+{
+  "case": "18-C-0715",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2018",
+      "nypuc_doctype": "Motions",
+      "name": "TradeSecretLtr-Non-Pub",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96B797B2-62FD-44D7-A746-6489BD817835}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "18-C-0715",
+      "file_name": "TradeSecretLtr-Non-Pub.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0715",
+      "file_name": ""
+    }
+  ]
+}

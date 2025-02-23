@@ -1,0 +1,38 @@
+{
+  "case": "19-M-0281",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7A1E9A6-922A-49A3-8A6D-C806DBAE1C29}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-M-0281",
+      "file_name": "263_19-M-0281.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/14/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={642A8BF3-32E7-4361-A65A-5918CDA13322}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-M-0281",
+      "file_name": "261_19-M-0281.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Issues Show Cause Enforcement Orders Against Five ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3116DAAD-58D3-4FA0-8756-3CBC1AD832D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0281",
+      "file_name": "pr19053R.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0329",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E9AF92-0000-CC1C-A039-ED8DFD2E84F2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0329",
+      "file_name": "383_24-E-0329 and 24-E-0495 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to DPS Questions on Financing Issues",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06A4492-0000-C818-9CA8-72E44A64E957}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0329",
+      "file_name": "Response to DPS Questions on Finanicng Issues 9-30-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06A4492-0000-C928-AA30-D93151DC8CA7}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0329",
+      "file_name": "EOW Financing - Cover Letter - 9-30-24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Offshore Wind LLC for Approval of Financing Under Lightened Regulation Pursuant to Section 69 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9057DF8F-0000-C61F-A43A-DC1662ED2F39}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0329",
+      "file_name": "Section 69 Petition 6.3.2024.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F041E08F-0000-C11E-A1DD-43AC29164871}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0329",
+      "file_name": "Cover Letter - Section 69 Petition.pdf"
+    }
+  ]
+}

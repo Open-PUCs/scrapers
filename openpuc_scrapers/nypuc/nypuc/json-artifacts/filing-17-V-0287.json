@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0287",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B340BEC8-68C3-42DE-A847-AB724FED99D9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0287",
+      "file_name": "661_17-V-0287.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Covert, Seneca County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAECE451-04AE-4EDB-AC4C-5BC3F7FA30A9}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0287",
+      "file_name": "COVERT, TOWN RENEWAL DOCS SUBMITTED TO PSC, 05.19.17 (1).pdf"
+    }
+  ]
+}

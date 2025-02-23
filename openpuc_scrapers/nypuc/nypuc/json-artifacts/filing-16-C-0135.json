@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0135",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Notice of Consummation of Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E9212F6-AEAB-416A-B27B-AD002EF2A894}",
+      "organization": "Maryland NextGen Communications, TeleCommunication Systems, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-C-0135",
+      "file_name": "NY Notice of Consummation of Transaction (05 03 16).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Merger and Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33616F57-48E8-4D1F-A224-791708F6A7AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0135",
+      "file_name": "563_16c0135.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of TeleCommunication Systems, Inc.; Maryland NextGen Communications for Approval of an Agreement and Plan of Merger.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={845F6895-071E-4A26-9771-EB07657C9CDE}",
+      "organization": "NextGen Communications, Inc. DBA Maryland NextGen Communications, TeleCommunication Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-C-0135",
+      "file_name": "Comtech NY Petition 02 10 16 F.pdf"
+    }
+  ]
+}

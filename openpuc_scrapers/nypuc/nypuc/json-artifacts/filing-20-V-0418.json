@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0418",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6748722-6C20-4CB6-9FC4-46C815959F39}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0418",
+      "file_name": "663_20-V-0418 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Ridgeway, Orleans County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29A9E162-4A8F-453A-B816-9F9189CE0930}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0418",
+      "file_name": "2020.08.17-T. RIDGEWAY RENEWAL FILED_PSC.pdf"
+    }
+  ]
+}

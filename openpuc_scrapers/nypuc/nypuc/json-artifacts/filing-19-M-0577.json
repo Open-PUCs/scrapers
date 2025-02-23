@@ -1,0 +1,82 @@
+{
+  "case": "19-M-0577",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={027747D5-2F40-4DC9-92BB-BFC8B79979C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-M-0577",
+      "file_name": "264_19-M-0577 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B27EACB8-DF34-4083-9C69-B57F944F6BB9}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "5",
+      "docket_id": "19-M-0577",
+      "file_name": "Case 19-M-0577 - National Grid Response to Petition for Rehearing 11-1-2019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={654791A4-9B74-483C-8E55-C05E6579CB70}",
+      "organization": "Urac Corp",
+      "itemNo": "4",
+      "docket_id": "19-M-0577",
+      "file_name": "19-M-0577 Rehearing Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7C331BE-037C-4C34-9E0C-2A385C595D91}",
+      "organization": "Urac Corp",
+      "itemNo": "4",
+      "docket_id": "19-M-0577",
+      "file_name": "19-M-0577 Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/22/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Acting Secretary Phillips Regarding Request for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02AC4D5C-211B-484F-B9DD-944615ECBB6E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-M-0577",
+      "file_name": "265_19-M-0577 Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/23/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to URAC's Petition for Declaratory Judgement from National Grid",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F56579E-B406-4ED9-A4F4-BCDDEFED93E3}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "2",
+      "docket_id": "19-M-0577",
+      "file_name": "19-M-0577 Response to URAC Petition for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utility Rate Analysis Consultants for a Declaratory Ruling Concerning National Grid Response to Consumer Complaints.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6942C2EC-96E9-4BFF-B20F-7401F4D6F318}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "19-M-0577",
+      "file_name": "Petition for Declaratory Ruling - Violation by National Grid and Office of Consumer Service of due process rights.pdf"
+    }
+  ]
+}

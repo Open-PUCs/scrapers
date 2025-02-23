@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0499",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90525493-0000-CE11-8BE0-74D85A11A542}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0499",
+      "file_name": "661_24-V-0499.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F8C391-0000-CF3A-8F33-BFC9A7647D91}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0499",
+      "file_name": "AUSA Newspaper Cover Letter - Orangetown, Town of.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Town of Orangetown",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F8C391-0000-CC14-B060-9D1473320A4C}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0499",
+      "file_name": "AUSA Newspaper Affidavit - Orangetown, Town of.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DEC391-0000-C65B-A49F-210BB78BFDFB}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0499",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Orangetown, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DEC391-0000-C49E-9903-969D08CB4EDB}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0499",
+      "file_name": "Exhibit IV - Orangetown, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DEC391-0000-C372-99DB-87AE57B99571}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0499",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DEC391-0000-CAB6-97BB-583C87601C6B}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0499",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DEC391-0000-CE3B-8C96-DB04AF152E9D}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0499",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DEC391-0000-C51C-A4C1-5C91CD61B286}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0499",
+      "file_name": "Application Cover Letter - Orangetown, Town of.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0631",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Order Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A470D240-F95D-4367-A73D-DBA6EBA86DC2}",
+      "organization": "Prospect Seeley Housing Corp",
+      "itemNo": "4",
+      "docket_id": "21-E-0631",
+      "file_name": "CASE 21-E-0631 ORDER ACCEPTANCE LETTER.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCAD8967-6E05-462C-9F76-A000B7C6C924}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0631",
+      "file_name": "362_21-E-0631.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "PSHC. ADDITIONAL INFORMATION. SUBMETERING PETITION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6CE48B7-47D4-4816-B4B7-F406CD440A94}",
+      "organization": "Prospect Seeley Housing Corp",
+      "itemNo": "2",
+      "docket_id": "21-E-0631",
+      "file_name": "PSHC. ADDITIONAL INFORMATION. SUBMETERING PETITION.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition For Submetering Executive Summary3. Prospect Seeley Housing Corp. Brooklyn NY 11218",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63C08606-8CAF-4420-B8E4-73125FBFC386}",
+      "organization": "Prospect Seeley Housing Corp",
+      "itemNo": "1",
+      "docket_id": "21-E-0631",
+      "file_name": "Petition For Submetering Executive Summary3. Prospect Seeley Housing Corp. Brooklyn NY 11218.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73164F06-97CF-4240-81D2-CEA5BC359938}",
+      "organization": "Prospect Seeley Housing Corp",
+      "itemNo": "1",
+      "docket_id": "21-E-0631",
+      "file_name": "COVER LETTER. PETITION TO SUBMETER. PSHC (1).pdf"
+    }
+  ]
+}

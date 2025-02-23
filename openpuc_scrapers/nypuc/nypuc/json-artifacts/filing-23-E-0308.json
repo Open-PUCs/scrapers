@@ -1,0 +1,115 @@
+{
+  "case": "23-E-0308",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "RG&E Town of Henrietta Final JEs Attachment 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0359A8E-0000-C77A-84AD-31B4DC9894D0}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "23-E-0308",
+      "file_name": "2024-04-01 RG&E T Henrietta Final JEs Attachment 1 (23-E-0308).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "RG&E Town of Henrietta - Workpapers Attachment 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0359A8E-0000-C251-A1B4-F07FD95CB8A9}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "23-E-0308",
+      "file_name": "2024-04-01 RG&E T Henrietta FINAL Workpapers Attachment 1 (23-E-0308).xlsx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "RG&E Town of Henrietta - Pole Attachment Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0359A8E-0000-C23E-A63F-3CA40E1F8E55}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "23-E-0308",
+      "file_name": "2024-04-01 RG&E Town of Henrietta PAA Attachment 2 (23-E-0308).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0359A8E-0000-C119-A202-6922B2257D16}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "23-E-0308",
+      "file_name": "2024-04-01 RG&E T Henrietta Final JE and PAA- Cover Letter (23-E-0308).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/16/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10AA398B-0000-C415-B5F3-31298ECE14EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0308",
+      "file_name": "375_23-E-0308_Order101623.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/16/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10AA398B-0000-C431-BA2C-CCDA3E0DE117}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0308",
+      "file_name": "375_23-E-0308 Neg Dec.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40DFFA8A-0000-CC1D-B420-1B8348A4ADEF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0308",
+      "file_name": "23-E-0308 SEAF Forms 2 and 3 with Cover Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D067A188-0000-C710-A1C2-4FFBF6B53FC5}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0308",
+      "file_name": "2023-06-09 RGE & Town of Henrietta Section 70 Petition - Cover Lettter (23-xxxx).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "2023-06-09 RGE & Town of Henrietta Section 70 Petition - Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D067A188-0000-CF32-8348-FCE04351C478}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0308",
+      "file_name": "2023-06-09 RGE & Town of Henrietta Section 70 Petition - Schedules (23-xxxx).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "2023-06-09 RGE & Town of Henrietta Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D067A188-0000-C65E-8D0B-1C4D4FCFAE93}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0308",
+      "file_name": "2023-06-09 RGE & Town of Henrietta Section 70 Petition (23-xxxx).pdf"
+    }
+  ]
+}

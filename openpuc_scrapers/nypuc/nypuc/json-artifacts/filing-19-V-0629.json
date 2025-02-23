@@ -1,0 +1,115 @@
+{
+  "case": "19-V-0629",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/09/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D03E6A9-B221-4121-941C-4BE68BCDD68F}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-V-0629",
+      "file_name": "19-V-0629 Secretary Ltr. Closing Case 12.9.2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48FA5BF5-A9E4-4B35-8A2D-F69120152F63}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "19-V-0629",
+      "file_name": "200916 Letter re 71 W 71 St (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FA477C5-91C1-454E-AAAF-617AE4CC6824}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0629",
+      "file_name": "190520 VZ Letter re 71 W 71 St (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5410D0A7-D1FA-4DFF-AF5C-9CC0D1079D7F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-V-0629",
+      "file_name": "18-03039 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "VERIZON FIOS 9405730_71 W 71 ST_Verizon FiOS CODA Package_Unsigned-signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B6FC1A2-785B-4204-977C-54A4CBD7789B}",
+      "organization": "71st Realty Associates LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0629",
+      "file_name": "VERIZON FIOS 9405730_71 W 71 ST_Verizon FiOS CODA Package_Unsigned-signed.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F108E829-B9B8-477D-B595-4598CD58EEB8}",
+      "organization": "71st Realty Associates LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0629",
+      "file_name": "Response to the Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "9405730_1 71 W 71st Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F3574CB-BC29-48A7-94CF-81E0F2A28177}",
+      "organization": "71st Realty Associates LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0629",
+      "file_name": "9405730_1 71 W 71st Street.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 71 West 71st Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F5C70D7-2C6F-4C64-8F82-AE69EA546C55}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0629",
+      "file_name": "Petition (71 W 71 ST).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC1E9EFB-CF28-4538-AB8F-7424236AC657}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0629",
+      "file_name": "Exhibit 2 (71 W 71 ST).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={513E5EAC-D253-4996-8999-2856FFB70A6C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0629",
+      "file_name": "Exhibit 1 (71 W 71 ST).pdf"
+    }
+  ]
+}

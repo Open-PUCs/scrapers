@@ -1,0 +1,60 @@
+{
+  "case": "23-W-0113",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9037A98E-0000-C933-86B5-16538CE633EF}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-W-0113",
+      "file_name": "23-W-0113 Compliance Cover Ltr to Phillips w permit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Attachment, DEC Letter and Permit SWS - Halfmoon Commons 240319",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9037A98E-0000-C113-823B-1C6479E2A0F2}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-W-0113",
+      "file_name": "23-W-0113 Compliance Attachment, DEC Ltr and Permit SWS - Halfmoon Commons 240319.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0ECF888-0000-C310-8DFE-0721EFBC87A5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-W-0113",
+      "file_name": "465_23-W-0113.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-Halfmoon, to Phillips, Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304FB786-0000-CE31-B7EC-F35ECD706B22}",
+      "organization": "Halfmoon Commons LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0113",
+      "file_name": "SWS-Halfmoon, to Phillips, Letter of Transmittal 230303.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-Halfmoon Petition to Extn Serv Area 230215 w Appendix & Verifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304FB786-0000-CD15-95F2-1A1AEBEECF87}",
+      "organization": "Halfmoon Commons LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0113",
+      "file_name": "SWS-Halfmoon Petition to Extn Serv Area 230215 w Appendix & Verifications.pdf"
+    }
+  ]
+}

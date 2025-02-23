@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0035",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Adam Wenner and Kayla Grant Granting Request to Withdraw Petition and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B9F88B-0000-CA31-802F-51ED7A3896E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0035",
+      "file_name": "23-E-0035 Sec Letter Granting Withdrawal and Closing Proceeding.11.22.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition and Close Matter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60ACB08B-0000-CA1D-8786-42BBDDCBD954}",
+      "organization": "The Port Authority of NY & NJ",
+      "itemNo": "2",
+      "docket_id": "23-E-0035",
+      "file_name": "Withdrawal of Petition for Exemption - Filing Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Exemption from Electric Corporation Regulation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03203C19-EAC1-4776-9A02-1D3248256323}",
+      "organization": "The Port Authority of NY & NJ",
+      "itemNo": "1",
+      "docket_id": "23-E-0035",
+      "file_name": "Petition for Exemption from Electric Corporation Regulation - Final 12.23.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66120686-5CD9-4707-87BA-25CE042866AB}",
+      "organization": "The Port Authority of NY & NJ",
+      "itemNo": "1",
+      "docket_id": "23-E-0035",
+      "file_name": "Petition for Exemption - Filing Letter.pdf"
+    }
+  ]
+}

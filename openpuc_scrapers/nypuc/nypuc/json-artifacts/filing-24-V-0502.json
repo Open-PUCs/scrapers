@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0502",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20545493-0000-C317-813C-86BD23BE9B4D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0502",
+      "file_name": "661_24-V-0502.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A086C791-0000-CC2D-99E8-6BA0E59338E2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0502",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Troupsburg 9.6.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9086C791-0000-CB1E-87BA-EF29BB9FEA36}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0502",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Troupsburg 9.6.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications -T. Troupsburg-Request for Renewal and Certificate of Confirmation(redacted) 9.6.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A086C791-0000-CF64-A7DD-8F156AD57179}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0502",
+      "file_name": "Charter Communications -T. Troupsburg-Request for Renewal and Certificate of Confirmation(redacted) 9.6.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications -T. Troupsburg-Cover Letter-Request for Renewal and Certificate of Confirmation 9.6.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A086C791-0000-CD4E-9D96-F8D4558EB635}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0502",
+      "file_name": "Charter Communications -T. Troupsburg-Cover Letter-Request for Renewal and Certificate of Confirmation 9.6.24.pdf"
+    }
+  ]
+}

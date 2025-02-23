@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0253",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C502B8B7-C0EC-4E9F-9A42-C51D79BF075C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0253",
+      "file_name": "363_21-E-0253 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E121232-A57A-4802-BE89-23914A818926}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0253",
+      "file_name": "363_21-E-0253 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C5B154B-81B3-44F7-A82B-53A07E615CF3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0253",
+      "file_name": "Case 21-E-0253 Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4527A23A-A93E-440A-90FE-1269ECBD7A67}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0253",
+      "file_name": "019644 Tiffany St Associates Ack .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/27/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D018A562-B1F3-4621-BB8E-61E0FF302B9D}",
+      "organization": "Tiffany Street Associates/Wavecrest Management #G192",
+      "itemNo": "2",
+      "docket_id": "21-E-0253",
+      "file_name": "Appeal 019644.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2984B0F5-E42C-41D3-9C69-FB32EC1E09D2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0253",
+      "file_name": "Informal Review Decision.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0108",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "312 Coney Island Ave LLC - Updated Submeter Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0321092-0000-C415-B5F7-453D4D8F959A}",
+      "organization": "312 Coney Island Ave, LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0108",
+      "file_name": "312 Coney Island Ave LLC - Updated Submeter Identification Form - Cover Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2024",
+      "nypuc_doctype": "Reports",
+      "name": "312 Coney Island Ave LLC - Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1040418D-0000-C81E-9F2F-0938F026A0B4}",
+      "organization": "312 Coney Island Ave, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0108",
+      "file_name": "312 Coney Island Ave LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00E128C-0000-C61E-A253-7159FD9D83DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0108",
+      "file_name": "365_23-E-0108 112723 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - 312 Coney Island Avenue - 6.21.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06CDE88-0000-C931-9491-A7D1E82D02AD}",
+      "organization": "312 Coney Island Ave, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0108",
+      "file_name": "Supplemental Filing - 312 Coney Island Avenue - 6.21.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/01/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 312 Coney Island Ave, LLC to Submeter Electricity at 312 Coney Island Avenue, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30D49E86-0000-CC13-A002-1EE93A43C1FE}",
+      "organization": "312 Coney Island Ave, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0108",
+      "file_name": "Submetering Petition - 312 Coney Island Ave.pdf"
+    }
+  ]
+}

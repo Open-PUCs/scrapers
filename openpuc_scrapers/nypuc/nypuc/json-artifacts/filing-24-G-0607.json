@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0607",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240828 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={501F9A91-0000-C121-B4F1-6D124C85A6FB}",
+      "organization": "Almi Construction Inc.",
+      "itemNo": "2",
+      "docket_id": "24-G-0607",
+      "file_name": "20240828 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240827 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={501F9A91-0000-C955-B52E-D8FC90545A62}",
+      "organization": "Almi Construction Inc.",
+      "itemNo": "2",
+      "docket_id": "24-G-0607",
+      "file_name": "20240827 - Staff Investigative Report.pdf"
+    }
+  ]
+}

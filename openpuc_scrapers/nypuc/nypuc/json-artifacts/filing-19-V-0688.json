@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0688",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EC14A6B-7670-4063-A69E-538B03DE3147}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0688",
+      "file_name": "661_19-V-0688.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of North Collins, County of Erie.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F6B5886-DF0D-4CA8-8254-9362B06E13B0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0688",
+      "file_name": "10.22.19 - T. NORTH COLLINS RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

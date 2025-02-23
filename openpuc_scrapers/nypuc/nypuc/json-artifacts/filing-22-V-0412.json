@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0412",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AD64D16-C5CE-47E5-B2E6-0D9BE8731905}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0412",
+      "file_name": "663_22-V-0412 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00966 Letter to Building Owner 3485 Broadway",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12D4D58C-5FB3-4367-AFCD-0EA44FEAF419}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0412",
+      "file_name": "22-00966 Letter to Building Owner 3485 Broadway.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 3485 Broadway, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73C3A099-B718-4123-92A7-AE914321368E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0412",
+      "file_name": "220504-15 Petition (3485 BROADWAY) (Post-Survey).pdf"
+    }
+  ]
+}

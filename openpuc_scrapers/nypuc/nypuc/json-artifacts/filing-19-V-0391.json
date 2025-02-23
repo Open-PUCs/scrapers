@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0391",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw the Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61F9495D-793D-4B5C-BA85-FFFA273992CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0391",
+      "file_name": "19-V-0391 Secretary Ltr. Closing Matter.2.23.21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7E88A4E-A3C4-473F-8316-A11FF3541222}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0391",
+      "file_name": "190520 VZ Letter re 40 E 94 St (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/23/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6845ACBB-C945-4A59-B5CA-DF05DDC127FE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0391",
+      "file_name": "17-02709 Merged Letters.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 40 East 94th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FF2C368-70B4-4AF7-96C3-D40A97826E03}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0391",
+      "file_name": "Petition (40 E 94 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D67A4E0B-2C6B-4196-AD27-82B9E39F0E80}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0391",
+      "file_name": "Exhibit 2 (40 E 94 St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B46784AF-18BC-44B7-ADA7-B15CE0D9D95E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0391",
+      "file_name": "Exhibit 1 (40 E 94 St).pdf"
+    }
+  ]
+}

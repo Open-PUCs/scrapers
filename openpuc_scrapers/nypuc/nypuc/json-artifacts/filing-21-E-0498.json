@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0498",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan 21-E-0498",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={509D5687-0000-CE16-93CB-884EC48A61D4}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "7",
+      "docket_id": "21-E-0498",
+      "file_name": "in-service meter test plan 21-E-0498.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B85374F-471B-4334-AB21-D830329C7B04}",
+      "organization": "JELB Webster Senior LLC",
+      "itemNo": "6",
+      "docket_id": "21-E-0498",
+      "file_name": "complaince letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E44BA83E-4F15-467B-9245-EAF1B5403425}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0498",
+      "file_name": "364_21-E-0498.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/15/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2838721-3033-4281-BF46-793AA770E124}",
+      "organization": "JELB Webster Senior LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0498",
+      "file_name": "additional information 3-15-22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32CB90F9-BCDE-47FD-8875-F425285476F5}",
+      "organization": "JELB Webster Senior LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0498",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/08/2022",
+      "nypuc_doctype": "Reports",
+      "name": "additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A8F9EB9-4B70-45A1-B41D-CB9F16AFF33D}",
+      "organization": "JELB Webster Senior LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0498",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of JELB Webster Senior LLC to Submeter Electricity at 2850 Webster Avenue, Bronx, NY Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86BE0FF6-E7DF-47AE-95D8-252659BA1014}",
+      "organization": "JELB Webster Senior LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0498",
+      "file_name": "submetering application.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85A06396-6543-4E6B-9793-DDF5DEDDA713}",
+      "organization": "JELB Webster Senior LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0498",
+      "file_name": "cover letter 9-22-21.pdf"
+    }
+  ]
+}

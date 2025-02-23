@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0186",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19E48B99-D98C-49C8-86C9-3D7796AD31D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0186",
+      "file_name": "368 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDF6B8C1-AE9F-4D94-A44E-692509D05678}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0186",
+      "file_name": "546074 Stark_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of an Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={947F33E2-D99A-4B7A-B77C-4C63CF0A992A}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-E-0186",
+      "file_name": "Stark Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73406B37-BF64-4527-AC4A-30AF1403F4B3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0186",
+      "file_name": "Stark IHD_Redacted.pdf"
+    }
+  ]
+}

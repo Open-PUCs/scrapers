@@ -1,0 +1,82 @@
+{
+  "case": "19-W-0644",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Escrow Account With Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F39653-94C5-4B50-95BD-B2D0E1F6FE68}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-W-0644",
+      "file_name": "461_19-W-0460 19-W-0644.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "River Road Water Supply Initial Rate Letter 12.18.2018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7207A7E7-E722-4274-B9C9-0C1729F8EF42}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-W-0644",
+      "file_name": "River Road Water Supply Initial Rate Letter 12.18.2018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "River Road Water District 2.15.2019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00A140FB-DD1D-430E-857C-0301668EC894}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-W-0644",
+      "file_name": "River Road Water District 2.15.2019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5776F6D4-B366-4526-BE3F-ABCA9F15D4FB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-W-0644",
+      "file_name": "Matter 19-01303 Staff Filing Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Att. 3 to 2.15.2019 letter - Guide to Filing Complaints",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3672D047-8BA8-4E67-B334-8512788CE68F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-W-0644",
+      "file_name": "Att. 3 to 2.15.2019 letter - Guide to Filing Complaints.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Att. 2 to 2.15.2019 Letter - River Road Water District Tariff",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA1FA92B-8899-4B7B-A7EA-42BD29A25838}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-W-0644",
+      "file_name": "Att. 2 to 2.15.2019 letter - River Road Water District Tariff.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Att. 1 to 2.15.2019 Letter - 1996 Rate Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209D2B19-51D9-4E01-8544-9E7E1B68A131}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-W-0644",
+      "file_name": "Att. 1 to 2.15.2019 letter - 1996 Rate Order.pdf"
+    }
+  ]
+}

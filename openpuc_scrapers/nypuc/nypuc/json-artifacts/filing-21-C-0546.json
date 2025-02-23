@@ -1,0 +1,38 @@
+{
+  "case": "21-C-0546",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/04/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C35550EA-39CC-4120-A2F7-F25494340809}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "2",
+      "docket_id": "21-C-0546",
+      "file_name": "Request for Confidential Treatment.PDF"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Long Distance Corporation d/b/a Empire Access to Issue Long Term Debt Pursuant to Public Service Law Section 101.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D631FEB-C57A-46C6-83F4-8793ED5F147E}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "21-C-0546",
+      "file_name": "2021 Financing - 101 Petition (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={288DFA6A-512B-43F6-AEF3-41C2BEC9BD09}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "21-C-0546",
+      "file_name": "Letter to Hon. Michelle Phillips (11-4-2021).pdf"
+    }
+  ]
+}

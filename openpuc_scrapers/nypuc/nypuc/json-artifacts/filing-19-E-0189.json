@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0189",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17F31F50-5418-456F-BA62-7A3A68B35F69}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0189",
+      "file_name": "369_19-E-0189.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE4C0B70-57DF-4649-B770-17AE9E123BE3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0189",
+      "file_name": "Con Edison Filing Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison's Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={431C49F2-F7C4-44D4-BB42-59EC0DCE5319}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0189",
+      "file_name": "Con Edison Response to Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Remedy Certain Actions and Practices.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={731609E7-D58B-4AAA-963E-FF19D3BECBD6}",
+      "organization": "Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "19-E-0189",
+      "file_name": "PSC CHP Petition 2.26.19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "PSC CHP Petition Weinstein Aff EXHIBIT 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD4F491A-B3B4-41F8-BF8F-148096038852}",
+      "organization": "Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "19-E-0189",
+      "file_name": "PSC CHP Petition Weinstein Aff EXHIBIT 3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "PSC CHP Petition Burrell Aff EXHIBIT 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C1C3CDA-26F7-495A-8782-FD0FBA6C73B1}",
+      "organization": "Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "19-E-0189",
+      "file_name": "PSC CHP Petition Burrell Aff EXHIBIT 2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "PSC CHP Derby Aff EXHIBIT 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81C2970D-9C0F-45B3-9525-7EE79E211FCC}",
+      "organization": "Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "19-E-0189",
+      "file_name": "PSC CHP Derby Aff EXHIBIT 1.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45F9E622-BCE3-4C97-B939-EE5584F21D29}",
+      "organization": "Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "19-E-0189",
+      "file_name": "PSC CHP Petition Cover Letter 2.26.19.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "17-G-0136",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9FCD93E-E88E-4DAE-B72C-1B9CF3B841F0}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-G-0136",
+      "file_name": "162_17g0136 - 10.30.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Violation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A9F89A6-CB4C-4CCB-ABF0-A36444BE9C1A}",
+      "organization": "TDL Construction Inc.",
+      "itemNo": "4",
+      "docket_id": "17-G-0136",
+      "file_name": "TDL Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4518D705-F73D-4938-83B6-9EF3BB27F396}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0136",
+      "file_name": "164_17g0136.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={417425F2-23E9-46B4-8B55-25497331C91F}",
+      "organization": "TDL Construction Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0136",
+      "file_name": "Notification Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/01/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7252FA3F-346F-4EAB-B330-A33B6939D4BD}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0136",
+      "file_name": "165_17g0136 - 5.1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-C-0556",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY - Spectrotel Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A184E937-5D34-4EBB-864E-682486074EE8}",
+      "organization": "Spectrotel Ultimate Holdings, LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0556",
+      "file_name": "NY - Spectrotel Consummation Notice (02.07.23).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-01998 Spectrotel PSL 99 100 101 OOL Approval Letter Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36B41FA2-DB1F-499C-8D25-124964B676CE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0556",
+      "file_name": "22-01998 Spectrotel PSL 99 100 101 OOL Approval Letter Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Spectrotel-Grain - NY PSC ToC and Financing Petition (10.11.22)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0016D44-516B-4C27-B14E-350AA72D3691}",
+      "organization": "Spectrotel of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0556",
+      "file_name": "Spectrotel-Grain - NY PSC ToC and Financing Petition (10.10.22).pdf"
+    }
+  ]
+}

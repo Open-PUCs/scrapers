@@ -1,0 +1,49 @@
+{
+  "case": "18-G-0768",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0768 Letscher Ack Letter 12172018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F0339EE-128C-4568-AC4D-FE6A0BB8EF1D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-G-0768",
+      "file_name": "18-G-0768 Letscher Ack Letter 12172018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-G-0768 Letscher Rehearing Request 12142018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C0C6ED4-8714-4AB1-8B93-1E73F33D8D4B}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-G-0768",
+      "file_name": "18-G-0768 Letscher Rehearing Request 12142018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0768 Letcscher SMD Final 11152018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={029B7F35-033D-43E9-9A57-D41E7AA00E52}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-G-0768",
+      "file_name": "18-G-0768 Letcscher SMD Final 11152018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding A Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6CF7315-4596-4796-AFAC-DE4178A1600D}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0768",
+      "file_name": "162 Letter_Redacted.pdf"
+    }
+  ]
+}

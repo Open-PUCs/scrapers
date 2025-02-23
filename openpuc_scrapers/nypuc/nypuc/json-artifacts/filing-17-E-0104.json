@@ -1,0 +1,82 @@
+{
+  "case": "17-E-0104",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "17-E-0104",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2017",
+      "nypuc_doctype": "Press Releases",
+      "name": "Commission Approves Battery Storage Innovation for New York City, Other Utilities Will Study Similar Systems throughout New York State",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E4E24BC-2B48-4987-8F8D-13BB86D171E4}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0104",
+      "file_name": "pr17038.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/18/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Subject to Modifications Tariff Amendment for Battery Discharge in Brooklyn/Queens Demand Management Program and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B425BB35-CC49-4164-B71F-B0310E771B5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0104",
+      "file_name": "369_17-E-0104.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/02/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Tesla Comments on Con Ed Tariff Revision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EDE8E2B-DDB1-4F60-B858-F3D963D41171}",
+      "organization": "Tesla, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-E-0104",
+      "file_name": "Tesla Comments on Con Ed Tariff Revision.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/02/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE3A74EB-D90E-44EE-97CB-E55EDDF562A0}",
+      "organization": "Tesla, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-E-0104",
+      "file_name": "Tesla Cover Letter on Con Ed Tariff Revision.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/30/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FFA156A-E31B-423B-8B7E-77F306A4E758}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0104",
+      "file_name": "CE Elec BQDM legal notice.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/22/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0104",
+      "file_name": ""
+    }
+  ]
+}

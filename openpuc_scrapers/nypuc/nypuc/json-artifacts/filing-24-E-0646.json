@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0646",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Hecate-Repsol - Swiftsure Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0AE3193-0000-C93C-8D1C-CFD8F0ABDA0F}",
+      "organization": "Hecate Energy Group LLC, Hecate Grid Swiftsure LLC, Hecate Holdings LLC, Repsol Renewables North America, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0646",
+      "file_name": "Hecate-Repsol - Swiftsure Section 70 Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0AE3193-0000-C81C-82C1-CA79036B890D}",
+      "organization": "Hecate Energy Group LLC, Hecate Grid Swiftsure LLC, Hecate Holdings LLC, Repsol Renewables North America, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0646",
+      "file_name": "Hecate-Repsol - Swiftsure Section 70 Petition - Filing Letter.pdf"
+    }
+  ]
+}

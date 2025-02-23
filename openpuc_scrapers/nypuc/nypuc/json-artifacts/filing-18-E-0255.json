@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0255",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0255 Farino Ack Letter 04232018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4072F9DA-56EF-4246-841A-990B75E253D2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0255",
+      "file_name": "18-E-0255 Farino Ack Letter 04232018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0255 Farino Rehearing Request 04172018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38D4712C-F941-4E49-84C0-74B238AEADBE}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0255",
+      "file_name": "18-E-0255 Farino Rehearing Request 04172018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0255 Farino SMD Final 03142018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A36FAD68-AF94-489F-A023-FC34D145870E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0255",
+      "file_name": "18-E-0255 Farino SMD Final 03142018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC1AC9AA-9026-4C53-BC7B-1BB8295E61E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0255",
+      "file_name": "365 Letter_Redacted.pdf"
+    }
+  ]
+}

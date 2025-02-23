@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0646",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B122C087-324E-4D5B-92F4-D78019A25070}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "20-G-0646",
+      "file_name": "164-C_20-G-0646 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter concerning the Order issued Janaury 28",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D9B0DE6-53D9-4F89-8BB4-C2C7A5D90E2B}",
+      "organization": "Peter Luizzi & Bros Contracting, Inc.",
+      "itemNo": "5",
+      "docket_id": "20-G-0646",
+      "file_name": "2021-02-08 Beck to DPS re NOPV 8062.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/28/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C14C72B-7D0D-41D6-B498-6D172C001EA0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0646",
+      "file_name": "162-A_20-G-0646 final.pdf"
+    }
+  ]
+}

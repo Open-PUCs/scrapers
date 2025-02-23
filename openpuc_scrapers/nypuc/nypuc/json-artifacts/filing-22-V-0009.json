@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0009",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={021793CA-243C-417E-868C-3DC1BBC2FBB2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0009",
+      "file_name": "661_22-V-0009.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01946 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB2984BB-9CF1-4486-9B32-5E31AC214556}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0009",
+      "file_name": "21-01946 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 470 West 146th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96B08F59-591A-4F28-B6A5-5546BC332C93}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0009",
+      "file_name": "15-210909 Petition (470 W 146 ST) (Complete).pdf"
+    }
+  ]
+}

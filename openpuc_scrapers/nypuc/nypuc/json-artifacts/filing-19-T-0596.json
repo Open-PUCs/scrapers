@@ -1,0 +1,38 @@
+{
+  "case": "19-T-0596",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Acting Secretary Phillips to Lisa M. Zafonte, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1ED5E33D-2D19-4D15-8C4A-5CDEF4BF2B97}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-T-0596",
+      "file_name": "19-T-0596-National Grid-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Oneida-Yahnundasis- Porter Line Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4557C735-8CD7-4A1F-B072-A662E79352B1}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0596",
+      "file_name": "Oneida- Yahnundasis_ Yahnundasis- Porter Line Part 102.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Niagara Mohawk Power Corporation d/b/a National Grid Oneida-Yahnundasis #6 / Yahnundasis-Porter #3 115kV Disconnect Switch Project- Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6FCE3E2-2C0F-4CB6-BFDB-6049889C619A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0596",
+      "file_name": "Yahnundasis Part 102 Cover Letter.pdf"
+    }
+  ]
+}

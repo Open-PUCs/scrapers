@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0246",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-G-0246 Cruzcolon Ack Letter 04212021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3C249D2-3A96-40CC-A396-8C1340584AA4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-G-0246",
+      "file_name": "21-G-0246 Cruzcolon Ack Letter 04212021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-G-0246 Cruzcolon Rehearing Request 04132021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD940B9F-458F-488C-8570-AF58939EFC6F}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-G-0246",
+      "file_name": "21-G-0246 Cruzcolon Rehearing Request 04132021.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-G-0246 Cruzcolon SMD Final 03252021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39C50BA8-D1F3-4ACB-A454-512C8D30574B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-G-0246",
+      "file_name": "21-G-0246 Cruzcolon SMD Final 03252021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA1F69E3-8348-42F0-990A-AA0811463857}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-G-0246",
+      "file_name": "163_21-G-0246 Letter final_Redacted.pdf"
+    }
+  ]
+}

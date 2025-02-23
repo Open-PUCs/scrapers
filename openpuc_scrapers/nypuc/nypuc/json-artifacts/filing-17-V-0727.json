@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0727",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17261991-569B-4F5E-9328-C62A7F874AB4}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0727",
+      "file_name": "17-V-0727-Verizon-Case Closure Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77F1830A-930F-4F44-AE0A-A627E1D95231}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0727",
+      "file_name": "210415 VZ Letter re Matter 17-01006.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA447BA8-9531-461A-B848-D1D199646E3A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "17-V-0727",
+      "file_name": "201110 Letter re Matter 17-01006 (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FFC462A-1D35-4C91-9CE1-44C22AC24D9C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0727",
+      "file_name": "17-01006 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 3425 Kingsbridge Av, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12F5134B-B9AA-4AB7-920E-E6E2FF7668A1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0727",
+      "file_name": "170510 Petition re 3425 Kingsbridge Av.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E50510A-4315-4BB6-ADE7-C1D6C491C62D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0727",
+      "file_name": "Exhibit 2 (3425 Kingsbridge Av).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8CA8B8E-45AE-48CB-8ABA-056E9F17D731}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0727",
+      "file_name": "Exhibit 1 (3425 Kingsbridge Av).pdf"
+    }
+  ]
+}

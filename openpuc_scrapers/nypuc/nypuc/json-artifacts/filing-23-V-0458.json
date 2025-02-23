@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0458",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C34D8B-0000-C018-B0F4-F865E4DE38EB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0458",
+      "file_name": "661_23-V-0458 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Corinth (Redacted) Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00E048A-0000-C59A-9459-D0E38EAFE805}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0458",
+      "file_name": "T. Corinth (Redacted) Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00E048A-0000-C45D-9CB5-97075DDFD0C3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0458",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Corinth 8.17.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00E048A-0000-C71D-BE11-100CCCBEED2A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0458",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Corinth 8.17.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications T. Corinth-Cover Letter Request for Renewal and Certificate of Confirmation 8.17.23 SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00E048A-0000-CA74-84BA-88DB308C91E9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0458",
+      "file_name": "Charter Communications T. Corinth-Cover Letter Request for Renewal and Certificate of Confirmation 8.17.23 SP.pdf"
+    }
+  ]
+}

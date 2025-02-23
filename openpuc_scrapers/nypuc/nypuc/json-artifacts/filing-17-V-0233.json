@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0233",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/23/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81F94001-3E04-4A14-8848-31B13201D358}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0233",
+      "file_name": "663_17-V-0233.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Albion, County of Orleans, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DCF7C06-3800-48BF-9C4E-D027E82CDB71}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0233",
+      "file_name": "VILLAGE OF ALBION RENEWAL SUBMITTED TO PSC, 04.24.17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0292",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 1 Java Owner LLC to Submeter Electricity at 18 India Street, Brooklyn, Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C04E738F-0000-C214-AFE6-F34DDBB0BE48}",
+      "organization": "1 Java Owner LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0292",
+      "file_name": "1 Java Owner LLC - Final Submetering Application.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C04E738F-0000-C834-877F-6A79A8BE31A7}",
+      "organization": "1 Java Owner LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0292",
+      "file_name": "1 Java Owner LLC - Notice of Intent to Submeter - Cover Letter.pdf"
+    }
+  ]
+}

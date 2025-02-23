@@ -1,0 +1,71 @@
+{
+  "case": "22-G-0513",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0439E86-0000-C83F-A893-D16038C39781}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "22-G-0513",
+      "file_name": "Case 22-G-0153.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33D57791-A99A-4E81-A312-C14229A29A02}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0513",
+      "file_name": "163_22-G-0513 Determination_final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/21/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C4B47C4-7356-4F18-9867-74F94C940819}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0513",
+      "file_name": "163_22-G-0513 Letter final_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "219208 Mancino SMR Ack 09062022_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6194C4FE-22FF-4352-B54F-481D46FC929D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0513",
+      "file_name": "219208 Mancino SMR Ack 09062022_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "219208 SMR Request 09032022 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B6049ED-C877-4C54-8994-112796398315}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-G-0513",
+      "file_name": "219208 SMR Request 09032022_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "219208_Mancino_SMD_Final_08032022 (1)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={820393AA-B4F4-4E40-AF75-7BFA1B83FE68}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0513",
+      "file_name": "219208_Mancino_SMD_Final_08032022 (1)_Redacted.pdf"
+    }
+  ]
+}

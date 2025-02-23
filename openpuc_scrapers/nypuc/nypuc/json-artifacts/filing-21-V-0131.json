@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0131",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34088500-281B-4BDD-9DA4-881E63D83879}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0131",
+      "file_name": "662_21-V-0131 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "2021.03.01 V. LEICESTER RENEWAL FILED- PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35B86B07-7AD6-41A0-9CB0-FE3C7721916B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0131",
+      "file_name": "2021.03.01 V. LEICESTER RENEWAL FILED- PSC.pdf"
+    }
+  ]
+}

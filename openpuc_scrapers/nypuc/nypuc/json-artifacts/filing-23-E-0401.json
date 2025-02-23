@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0401",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Perennial - Supplemental Filing - Average Electricity Costs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80845493-0000-C51E-8AE9-033076170680}",
+      "organization": "Pavilion Saratoga Owner, LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0401",
+      "file_name": "Perennial - Supplemental Filing - Average Electricity Costs.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Perennial - Supplemental Filing - PSC Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0220D93-0000-CE19-BCB1-350C336B32E9}",
+      "organization": "Pavilion Saratoga Owner, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0401",
+      "file_name": "Perennial - Supplemental Filing - PSC Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/26/2024",
+      "nypuc_doctype": "Comments",
+      "name": "Perennial - Response to Tenant Comment (Stirpe)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703C468D-0000-C91B-8C1A-C708C99C6D8F}",
+      "organization": "Pavilion Saratoga Owner, LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0401",
+      "file_name": "Perennial - Response to Tenant Comment (Stirpe) - 1.26.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pavilion Saratoga Owner LLC - Public Comment Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60BDED8B-0000-C311-899D-CB7141162F58}",
+      "organization": "Pavilion Saratoga Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0401",
+      "file_name": "Pavilion Saratoga Owner LLC - Public Comment Certification - 11.20.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition and Waiver Request of Pavilion Saratoga Owner LLC to Submeter Electricity at 30 Lake Avenue, Saratoga Springs, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00368889-0000-C119-9C7B-80A4816DFCC2}",
+      "organization": "Pavilion Saratoga Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0401",
+      "file_name": "Submetering Petition - Pavilion Saratoga Owner LLC - as filed.pdf"
+    }
+  ]
+}

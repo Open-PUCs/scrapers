@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0650",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86B51968-E673-41CD-97C5-2DF4329BD19B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0650",
+      "file_name": "661_19-V-0650.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Richland, Oswego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05FECFD0-55BD-405E-BE47-D3E14EF03782}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0650",
+      "file_name": "T. RICHLAND PSC RENEWAL SUBMISSION 10.07.19.pdf"
+    }
+  ]
+}

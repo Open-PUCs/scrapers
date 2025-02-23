@@ -1,0 +1,38 @@
+{
+  "case": "22-E-0183",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD799BC2-B937-4033-8289-656D7344AA88}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0183",
+      "file_name": "373_22-E-0183 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/31/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Flint Mine Solar LLC and DESRI Flint Mine Development, L.L.C. for an Order Approving Financing Pursuant to Section 69 of the New York State Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BC8C3E5-6DFF-4128-A135-3B4F4697DC55}",
+      "organization": "Flint Mine Solar LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0183",
+      "file_name": "Final Section 69 Petition For Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/31/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE092D0B-F1F2-4D26-8093-402B9421431D}",
+      "organization": "Flint Mine Solar LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0183",
+      "file_name": "220330 Ltr to Secretary filing Verified Petition Under Section 69.pdf"
+    }
+  ]
+}

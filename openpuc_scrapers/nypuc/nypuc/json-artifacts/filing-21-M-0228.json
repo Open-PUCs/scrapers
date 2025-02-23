@@ -1,0 +1,38 @@
+{
+  "case": "21-M-0228",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/30/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A9BCD8B-B033-4F62-90E1-C56570E2A22C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-M-0228",
+      "file_name": "Case 21-M-0228 Con Edison Response to Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for a Declaratory Ruling_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7646FF86-C91B-41BE-999C-B15C800F7484}",
+      "organization": "UtiliSave, LLC.",
+      "itemNo": "1",
+      "docket_id": "21-M-0228",
+      "file_name": "Petition for Declaratory Ruling_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6BCCDD1-A941-48C5-B6AB-7F599491382D}",
+      "organization": "UtiliSave, LLC.",
+      "itemNo": "1",
+      "docket_id": "21-M-0228",
+      "file_name": "Records Retention- Petition for Declaratory Ruling Cover Letter.pdf"
+    }
+  ]
+}

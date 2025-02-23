@@ -1,0 +1,192 @@
+{
+  "case": "24-E-0140",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "In the Matter of 2023 Electric Reliability Performance in New York State",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70923690-0000-C613-BF9E-41B85AAB90B2}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-E-0140",
+      "file_name": "303_24-E-0140.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Receives Update on Utility Electric Reliability and Gas Safety Standards",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70863690-0000-C418-81DD-ABA9331BA77E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-E-0140",
+      "file_name": "pr24052.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0299B8E-0000-CA3F-9C22-6CE1580A9EA1}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-E-0140",
+      "file_name": "Cover Letter OUR Service Reliability Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "2023 ORU Annual Service Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0299B8E-0000-C319-BEB0-7AAA459F90FB}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-E-0140",
+      "file_name": "2023 ORU Annual Service Performance Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "RGE Annual Report 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00C18B8E-0000-C286-A543-4DF4358EABC6}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "24-E-0140",
+      "file_name": "2024-03-29 RGE Annual Report 2023 (24-E-0140).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG Annual Report 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00C18B8E-0000-C649-9C49-A2AA6832FE5E}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "24-E-0140",
+      "file_name": "2024-03-29 NYSEG Annual Report 2023 (24-E-0140).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00C18B8E-0000-C86C-8AFF-22490E2AD12F}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "24-E-0140",
+      "file_name": "2024-03-29 NYSEG-RGE Annual Report 2023 Cover Letter (24-E-0140).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "NMPC 2023 Annual Power Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60918B8E-0000-CA59-AA70-FD0AE8ED7AFE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "24-E-0140",
+      "file_name": "NMPC 2023 Annual Power Quality Report.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "NMPC 2023 Annual Electric Reliability Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60918B8E-0000-C436-8DC9-ABA01A82FC75}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "24-E-0140",
+      "file_name": "NMPC 2023 Annual Electric Reliability Report.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60918B8E-0000-C41C-BD0E-B05CEE4D1F38}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "24-E-0140",
+      "file_name": "National Grid 2023 Electric Reliability & Power Quality Reports - Cover Letter.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9093818E-0000-C46E-81ED-9C1D7F3ABC62}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0140",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Confidential Treatment, 03-27-2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8093818E-0000-C533-8557-261BA2D0DEA5}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0140",
+      "file_name": "Request for Confidential Treatment, 03-27-2024.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter, 03-27-2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8093818E-0000-CC1A-9F6E-6E98D7C70101}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0140",
+      "file_name": "Filing Letter, 03-27-2024.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Attachment #3 - Utility Distribution Substation List, 03-27-2024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9093818E-0000-C1EF-B4BA-BBB2D96E32E6}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0140",
+      "file_name": "Attachment #3 - Utility Distribution Substation List, 03-27-2024_Redacted.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Attachment #2 - Overview Form, 03-27-2024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9093818E-0000-CCC7-B882-1311ACAAA43A}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0140",
+      "file_name": "Attachment #2 - Overview Form, 03-27-2024_Redacted.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Attachment #1 - 2023 Worst Performing Circuits, 03-27-2024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9093818E-0000-C8A1-9D49-5692A30778FF}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0140",
+      "file_name": "Attachment #1 - 2023 Worst Performing Circuits, 03-27-2024_Redacted.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Reports",
+      "name": "2023 Annual Electric Reliability Report, 03-27-2024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9093818E-0000-CF8B-BB33-1BA47367A19F}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0140",
+      "file_name": "2023 Annual Electric Reliability Report, 03-27-2024_Redacted.pdf"
+    }
+  ]
+}

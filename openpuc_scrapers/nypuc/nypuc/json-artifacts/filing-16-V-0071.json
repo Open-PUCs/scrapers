@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0071",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82F6C7C9-90D1-43B6-A414-EB2C80D97713}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0071",
+      "file_name": "663_16v0071.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Minden, Montgomery County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E0A5529-CB7B-41E4-A436-F06660E4E268}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0071",
+      "file_name": "02092016 submission to psc t of minden.pdf"
+    }
+  ]
+}

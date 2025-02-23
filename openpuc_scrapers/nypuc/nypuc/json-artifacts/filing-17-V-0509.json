@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0509",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={573A1F21-FB9D-4152-A155-FF28AA758DC3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0509",
+      "file_name": "661_17-V-0509.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "TPetition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of DeKalb, County of St .Lawrence New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C902F42-F9E0-4C11-B716-30468A556DCD}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0509",
+      "file_name": "T DeKalb Charter PSC cable franchise application.pdf"
+    }
+  ]
+}

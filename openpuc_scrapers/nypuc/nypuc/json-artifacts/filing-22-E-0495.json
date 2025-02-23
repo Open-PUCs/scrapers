@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0495",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4085C488-0000-C117-9276-A5349C8F99C5}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "22-E-0495",
+      "file_name": "2023-06-16 NYSEG Town of Macedon Street Light Section 70 Final JE Cover Letter (22-E-0495).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Reports",
+      "name": "2023-06-16 NYSEG Town of Macedon Street Light Section 70 Final JE Attachment 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5085C488-0000-C429-946A-BF248AB9634F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "22-E-0495",
+      "file_name": "2023-06-16 NYSEG Town of Macedon Street Light Section 70 Final JE Attachment 2 (22-E-0495).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Reports",
+      "name": "2023-06-16 NYSEG Town of Macedon Street Light Section 70 Final JE Attachment 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5085C488-0000-C74F-B3E4-18B4D464E92A}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "22-E-0495",
+      "file_name": "2023-06-16 NYSEG Town of Macedon Street Light Section 70 Final JE Attachment 1 (22-E-0495).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C200FB76-4434-4D36-9311-3FB9380B37D4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0495",
+      "file_name": "369_ 22-E-0495 Neg Dec.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E08FBA4-8154-4CF7-BAB1-2135A6E10B0A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0495",
+      "file_name": "369_22-E-0495.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/26/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Town of Macedon Street Light Section 70 Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A84B7866-510C-4E0C-8B75-0A41EB1E7F0C}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "22-E-0495",
+      "file_name": "2022-08-26 NYSEG Town of Macedon Street Light Section 70 Filing.pdf"
+    }
+  ]
+}

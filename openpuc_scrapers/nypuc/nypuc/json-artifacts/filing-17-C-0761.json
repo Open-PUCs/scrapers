@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0761",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Completed Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81CE4118-75C9-4FC5-A436-1E287CDEB367}",
+      "organization": "B. Riley Financial, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-C-0761",
+      "file_name": "B. Riley Financial.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Approval of Indirect Transfer of Control Pursuant to PSL Section 100",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD9FBEAB-070E-4BEE-883A-34C2E40A4E62}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-C-0761",
+      "file_name": "17-C-0761magicJack MOL.Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/03/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Part of Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61A33154-783B-42B6-906F-1DD18D388D7C}",
+      "organization": "B. Riley Financial, Inc., magicJack VocalTec Ltd.",
+      "itemNo": "2",
+      "docket_id": "17-C-0761",
+      "file_name": "Petition to Withdraw Part of Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of magicJack VocalTec Ltd. and B. Riley Financial, Inc. for Approval of the Indirect Transfer of Control of YMax Communications Corp.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67FFA3D1-0430-4B04-98A4-A32A426DEF5B}",
+      "organization": "B. Riley Financial, Inc., magicJack VocalTec Ltd.",
+      "itemNo": "1",
+      "docket_id": "17-C-0761",
+      "file_name": "Petition for Approval of the Indirect Tranfer of Control.pdf"
+    }
+  ]
+}

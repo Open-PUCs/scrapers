@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0773",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "19-E-0773 Farrington Tenant Response 12302019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEFB56F9-85E8-47BB-8AE7-6B55FE3C07DD}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "19-E-0773",
+      "file_name": "19-E-0773 Farrington Tenant Response 12302019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0773 Farrington SMD Final 12192019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE2EE6BE-23D3-452C-B8CF-B01A2CA57388}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-E-0773",
+      "file_name": "19-E-0773 Farrington SMD Final 12192019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0773 Farrington Rehearing Request 12112019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57EA3666-8F38-47C2-A111-91BB1871BD82}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-E-0773",
+      "file_name": "19-E-0773 Farrington Rehearing Request 12112019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0773 Farrington SMD Final 11142019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04F807BF-CE3F-4E69-B574-3652E9542D5B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-E-0773",
+      "file_name": "19-E-0773 Farrington SMD Final 11142019.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/16/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C38002B-C34F-46C3-951B-3563FA740C04}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0773",
+      "file_name": "361 Letter final_Redacted.pdf"
+    }
+  ]
+}

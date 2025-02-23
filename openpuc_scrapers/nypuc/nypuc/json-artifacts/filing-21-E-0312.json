@@ -1,0 +1,27 @@
+{
+  "case": "21-E-0312",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/08/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={487C72B6-9DF4-4A44-8B91-03D98A0B1789}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0312",
+      "file_name": "371_21-E-0312 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/03/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "21-E-0312",
+      "file_name": ""
+    }
+  ]
+}

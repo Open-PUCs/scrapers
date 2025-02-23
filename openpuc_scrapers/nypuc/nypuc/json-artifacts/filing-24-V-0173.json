@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0173",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80799C8F-0000-C63A-B63E-1A905D400AD2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0173",
+      "file_name": "663_24-V-0173_52124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Root Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1069778E-0000-C136-BEC5-4F2EA6031617}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0173",
+      "file_name": "T. Root Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Root Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 03.25.24 SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1069778E-0000-CD15-95A6-D89CED203A67}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0173",
+      "file_name": "T. Root Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 03.25.24 SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0069778E-0000-C453-AA4A-9E4204A5F264}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0173",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Root 03.25.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0069778E-0000-CA13-8FF3-0DA50263EC86}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0173",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Root 03.25.24.pdf"
+    }
+  ]
+}

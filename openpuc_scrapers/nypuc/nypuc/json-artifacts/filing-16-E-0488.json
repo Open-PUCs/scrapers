@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0488",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Cancellation of Tariff Leaves Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={660F834A-23A0-43BC-B889-6BFD0EC3C4D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0488",
+      "file_name": "361_16-E-0488.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/06/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0488",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABF34A13-49CE-44B0-B599-D9C0F2BF438B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0488",
+      "file_name": "16-E-0488 Postponement of Minor Rate Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/16/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0488",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C1AAA22-A619-4E36-828A-A9542E3CF3BA}",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0488",
+      "file_name": "img-161027113353.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/31/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Mohawk Municipal Commission",
+      "itemNo": "1",
+      "docket_id": "16-E-0488",
+      "file_name": ""
+    }
+  ]
+}

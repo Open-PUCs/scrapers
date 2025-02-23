@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0195",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of a informal hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB583AA5-5684-4AC7-A4AC-4C84F6E6BACD}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0195",
+      "file_name": "373 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/11/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={183F20F2-8ADC-4C34-99D7-61067F89F31E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0195",
+      "file_name": "Thomas Ack Letter 711535_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/11/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Request for an Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A2DB37F-5ADC-44D7-B489-9B13B1BABD47}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0195",
+      "file_name": "711535 Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/11/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Response to Request for an Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13CAE9FF-2764-44F9-8D6D-ACA4BE7B1DF6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0195",
+      "file_name": "Case #711535 Monique Thomas IH Denial (002)_Redacted.pdf"
+    }
+  ]
+}

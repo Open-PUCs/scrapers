@@ -1,0 +1,38 @@
+{
+  "case": "20-V-0599",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D0F8C66-02C3-4F1E-BED0-EDB788D351B1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0599",
+      "file_name": "661_20-V-0599 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Correct Error",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8293534-AD58-46B0-A348-EE95E0F5171C}",
+      "organization": "Town of Essex",
+      "itemNo": "2",
+      "docket_id": "20-V-0599",
+      "file_name": "Case _ 20-V-0559.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cable Communications of Willsboro, Inc. for the Renewal of its Certificate of Confirmation and Cable Television Franchise in the Town of Willsboro, Essex County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B74E032-867A-4D27-9620-FC62C80A00E4}",
+      "organization": "Cable Communications of Willsboro, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0599",
+      "file_name": "Town of Essex Petition.pdf"
+    }
+  ]
+}

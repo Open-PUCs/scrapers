@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0757",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83FC79FD-0A34-42A8-A9B0-6C7067557017}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-V-0757",
+      "file_name": "664_18-V-0757 Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FB3809A-E010-48D7-8D40-77C133F762AB}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-V-0757",
+      "file_name": "664_18-V-0757 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57E78331-77A3-4DDF-A930-11CCB2986256}",
+      "organization": "MTC Cable",
+      "itemNo": "4",
+      "docket_id": "18-V-0757",
+      "file_name": "psc3 bovina.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Reports",
+      "name": "18-V-0757 SEAF Parts 2 & 3 signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E76E4F6F-3C5A-4016-8266-2949667463BC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-V-0757",
+      "file_name": "18-V-0757 SEAF Parts 2 & 3 signed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/28/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D178BF51-CABA-46B6-AF88-57F78195502E}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "18-V-0757",
+      "file_name": "psc bovina 2.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Heart of the Catskills Communications, Inc. dba MTC Cable for a Certificate of Confirmation for its Franchise with the Town of Bovina, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E750EE9F-B823-4F16-8854-DCCD71779F88}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "18-V-0757",
+      "file_name": "psc bovina sub 1.pdf"
+    }
+  ]
+}

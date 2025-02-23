@@ -1,0 +1,60 @@
+{
+  "case": "18-G-0200",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0200 Shah Ack Letter 03292018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD43A359-854D-4903-88B9-8ADB5888B0FD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "18-G-0200",
+      "file_name": "18-G-0200 Shah Ack Letter 03292018_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-G-0200 Shah Supplemental Request 03282018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95AAA4DC-A06A-4027-8C40-B154BB6B78E6}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "18-G-0200",
+      "file_name": "18-G-0200 Shah Supplemental Request 03282018_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-G-0200 Shah Rehearing Request 03262018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64AC073D-6A44-44AB-BCD5-5F742D09D718}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-G-0200",
+      "file_name": "18-G-0200 Shah Rehearing Request 03262018_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0200 Shah SMD Final 10102017 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B70577C0-C598-404E-ABC7-7C89747CDC26}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-G-0200",
+      "file_name": "18-G-0200 Shah SMD Final 10102017 Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47E1D4C3-DA96-43C3-9B77-B893D3DE4410}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0200",
+      "file_name": "163 Letter_Redacted.pdf"
+    }
+  ]
+}

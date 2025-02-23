@@ -1,0 +1,71 @@
+{
+  "case": "19-G-0374",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "6",
+      "docket_id": "19-G-0374",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filings with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0C83943-1083-49C8-9F76-85EFAB47D1B7}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-G-0374",
+      "file_name": "264_19-G-0374 et al.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/03/2019",
+      "nypuc_doctype": "Comments",
+      "name": "GRT Petition Reply Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA39377F-66DA-46F9-8913-09E25F31C6BA}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "19-G-0374",
+      "file_name": "GRT Petition Reply Comments (19-G-0374, 19-E-0375, 19-G-0376, 19-E-0377).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/06/2019",
+      "nypuc_doctype": "Comments",
+      "name": "NYCOM Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={037D761E-5624-4C48-AA1C-31FC95DBB9E9}",
+      "organization": "New York State Conference of Mayors and Municipal Officials",
+      "itemNo": "3",
+      "docket_id": "19-G-0374",
+      "file_name": "Avangrid_NYCOM_Comments_Tariff_Updates_8_6_19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/05/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Computel Consultants",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={888B67B9-C713-4F4F-8062-3FE8AB63E017}",
+      "organization": "Computel Consultants",
+      "itemNo": "2",
+      "docket_id": "19-G-0374",
+      "file_name": "Computel Comments - Avangrid GRT - Case 19-G-0374.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/17/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "19-G-0374",
+      "file_name": ""
+    }
+  ]
+}

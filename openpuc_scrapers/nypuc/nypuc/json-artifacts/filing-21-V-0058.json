@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0058",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={458B17AF-C7A0-4392-B085-4A47D5671C4B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0058",
+      "file_name": "663_21-V-0058 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Glen, Montgomery County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D58DB73-4E36-40BE-B1F4-786F6D7B70C3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0058",
+      "file_name": "T. Glen to be filed with PSC.pdf"
+    }
+  ]
+}

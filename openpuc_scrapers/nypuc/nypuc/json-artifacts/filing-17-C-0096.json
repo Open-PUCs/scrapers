@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0096",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Legacy Long Distance International, Inc. and Jail Education Solutions, Inc. d/b/a Edovo - Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A356403-640F-46AE-A270-9FB8CD3C17DF}",
+      "organization": "Jail Education Solutions Inc. d/b/a Edovo, Legacy Long Distance International, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-C-0096",
+      "file_name": "NYx1701b.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/15/2017",
+      "nypuc_doctype": "Letters",
+      "name": "17-00324 approval of transfer of control ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9183A5CC-A883-4C19-AA73-0737742E118B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-C-0096",
+      "file_name": "17-00324 approval of transfer of control ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment to Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2151AD4B-77E0-405E-9E53-2DAFBD9ADE6E}",
+      "organization": "Legacy Long Distance International, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0096",
+      "file_name": "Amendment to Joint Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of the Joint Petition of Legacy Long Distance International, Inc. and Jail Education Solutions, Inc. d/b/a Edovo For Approval of Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBCD2CB5-2C30-4E46-A9A2-9996F34A05F4}",
+      "organization": "Jail Education Solutions Inc. d/b/a Edovo, Legacy Long Distance International, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0096",
+      "file_name": "NY Transfer of Control (Final as Filed).pdf"
+    }
+  ]
+}

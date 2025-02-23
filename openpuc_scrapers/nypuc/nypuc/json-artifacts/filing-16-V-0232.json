@@ -1,0 +1,71 @@
+{
+  "case": "16-V-0232",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/04/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={694CF0F3-8542-47B3-BB24-8CF2BB2EA5B3}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-V-0232",
+      "file_name": "663_16v0232.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/01/2016",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves Expansion of Cable Service in Town of Horseheads",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37CDA998-0524-4D68-96B0-2766EB2D0D2E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-V-0232",
+      "file_name": "pr16053.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Proof of Resolutions/Minutes",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33531EE6-9AEA-4E7A-8E43-C4333A991CEE}",
+      "organization": "Town of Horseheads",
+      "itemNo": "4",
+      "docket_id": "16-V-0232",
+      "file_name": "Proof of Resolutions Minutes.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/15/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF-Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7CD9DBA-F7AB-40BC-AF07-BF753D8CC7A7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-V-0232",
+      "file_name": "Signed EAF-Part 2 & 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/13/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E7D2C93-7B7C-438F-A3BC-475E6626167D}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0232",
+      "file_name": "Supplemental Filing 16-V-0232 Proof of Notice EVSC Certificate of Confirmation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Town of Horseheads, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0712C9CE-0DBF-4DC0-8FDD-0DF378B8DE05}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0232",
+      "file_name": "EVSC - Town of Horseheads Certificate of Confirmation Application.pdf"
+    }
+  ]
+}

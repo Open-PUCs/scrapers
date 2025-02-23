@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0074",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering ID",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C7BA88-0000-C211-983E-1D83F70C104D}",
+      "organization": "Davidson Equities, LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0074",
+      "file_name": "Submetering ID_Vordonia (6.14.23).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "compliance letter for 34-46 Vernon Blvd., Long Island City, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2874E8A-FF7E-4779-9C55-8C8EDB5594F4}",
+      "organization": "Davidson Equities, LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0074",
+      "file_name": "compliance letter 8-8-2019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95CC3A15-4A79-4E15-9634-9875863583C4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0074",
+      "file_name": "374_19-E-0074.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/02/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 34-46 Vernon Blvd., Long Island City, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5C56ED2-C004-4BBF-90FA-1C9CB317313D}",
+      "organization": "Davidson Equities, LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0074",
+      "file_name": "response letter 5-2-19 (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information for the submetering application for 34-46 Vernon Boulevard, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8AFA8A5-62F7-4489-93C4-C04D2414E695}",
+      "organization": "Davidson Equities, LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0074",
+      "file_name": "additional information 2-5-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6248D14F-83BD-4403-A540-544A108AB677}",
+      "organization": "Davidson Equities, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0074",
+      "file_name": "submetering application -2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Davidson Equities, LLC to Submeter Electricity at 34-46 Vernon Boulevard, Long Island City, New York 11106, Located in the Territory of Consolidated Edison Company, lnc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45370756-D373-47D2-9693-26D22E90858F}",
+      "organization": "Davidson Equities, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0074",
+      "file_name": "submetering application -1.pdf"
+    }
+  ]
+}

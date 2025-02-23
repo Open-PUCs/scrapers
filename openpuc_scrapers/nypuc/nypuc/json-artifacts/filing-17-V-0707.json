@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0707",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F034D08-D29D-4CFD-A30C-080D6511641C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0707",
+      "file_name": "661_17-V-0707.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Morris, Otsego County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F9EFB54-A443-49C5-8085-7CDBAD316377}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0707",
+      "file_name": "11.16.17 V Morris Charter PSC cable franchise application.pdf"
+    }
+  ]
+}

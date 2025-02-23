@@ -1,0 +1,38 @@
+{
+  "case": "24-M-0481",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Withdrawal of Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D5C891-0000-CA12-9ABB-48A988CA1FF0}",
+      "organization": "Hodgson Russ LLP",
+      "itemNo": "2",
+      "docket_id": "24-M-0481",
+      "file_name": "24-M-0481 CVE - Cover Letter re Withdrawal of Complaint - 08.06.24 FINAL.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E35C91-0000-C313-9344-73721C63A69D}",
+      "organization": "CVE North America, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-M-0481",
+      "file_name": "CVE - Cover Ltr. to PSC re Billing Dispute - 08.15.24 - signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/16/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint regarding a billing dispute in relation to the Standardized Interconnection Contract.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E35C91-0000-CF17-986A-3A1FC6BF5BB2}",
+      "organization": "CVE North America, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-M-0481",
+      "file_name": "CVE - Ltr. to PSC re Billing Dispute - 08.15.24 - signed.pdf"
+    }
+  ]
+}

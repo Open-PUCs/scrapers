@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0133",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={545FB84B-A95E-4B7C-86EE-8421B0CF7C4C}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-V-0133",
+      "file_name": "663_22-V-0133 NegDec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={780F9275-6E49-4AFE-9FB2-6EFDEDD8AEDD}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-V-0133",
+      "file_name": "663_22-V-0133.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "22-V-0133 Cover Ltr and SEAF Part 2 & 3 Empire Video - C of Canandaigua 4.20.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D200709-DFE9-40C7-B547-94397B312E34}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0133",
+      "file_name": "22-V-0133 Cover Ltr and SEAF Part 2 & 3 Empire Video - C of Canandaigua 4.20.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B52FEF2-0DA3-4A2F-8698-1E57C0E30A94}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "22-V-0133",
+      "file_name": "Affidavit of the Proof of Publication Case 22-V-0133.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the City of Canandaigua, Ontario County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={843422A1-E2B0-4950-91D5-3DD0C199E82F}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0133",
+      "file_name": "City of Canandaigua TV Franchise PSC Packet 3_7_2022.pdf"
+    }
+  ]
+}

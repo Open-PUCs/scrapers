@@ -1,0 +1,93 @@
+{
+  "case": "18-E-0657",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={120C616E-A80C-4E6D-9834-36A9E568BE37}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "18-E-0657",
+      "file_name": "365 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C75E4F92-3A43-406E-9666-F3079CE8E9AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "18-E-0657",
+      "file_name": "365 Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/07/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Motion to Strike Untimely Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9289CF4F-252D-4918-A74D-2485374DEF9A}",
+      "organization": "Triad Recycling and Energy",
+      "itemNo": "6",
+      "docket_id": "18-E-0657",
+      "file_name": "IMG_20190107_0001.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/07/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={337249B6-4A48-426C-B42B-5246EC515B2E}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "18-E-0657",
+      "file_name": "Case 810939 - National Grid Trade Secret Request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/07/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Response to the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4547CEA4-2D10-48A6-B0A0-4AA8C75E482C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "18-E-0657",
+      "file_name": "Case 810939 - National Grid Response.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/16/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AB7AD11-3F43-4F3F-8978-3F381D531A87}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0657",
+      "file_name": "810939 Triad.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/16/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A58EC378-3461-4419-8B60-C7D2549B8413}",
+      "organization": "Triad Recycling and Energy",
+      "itemNo": "2",
+      "docket_id": "18-E-0657",
+      "file_name": "Triad Appeal PSC case no. 810939 .pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/16/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0558BFAA-EF78-4B61-B532-CC22C2FEAE33}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0657",
+      "file_name": "Image-1.pdf"
+    }
+  ]
+}

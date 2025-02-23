@@ -1,0 +1,93 @@
+{
+  "case": "22-E-0647",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A2148E-0000-CE1C-B777-EC3FCD1D2107}",
+      "organization": "111 Willoughby Owner LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0647",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01CCD8D-0000-CE1A-A845-03B55F4F5660}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0647",
+      "file_name": "377_22-E-0647 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/31/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B041608D-0000-C11B-8670-3E530863BC54}",
+      "organization": "111 Willoughby Owner LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0647",
+      "file_name": "additonal information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C0D68A-0000-C011-9FAF-228C72203BDD}",
+      "organization": "111 Willoughby Owner LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0647",
+      "file_name": "additional information 9-26.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Withdrawal of Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FF8E8A-0000-C110-92EE-4B19D71251FB}",
+      "organization": "111 Willoughby Owner LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0647",
+      "file_name": "withdrawal waiver letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 111 Willoughby Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0F3048A-0000-C416-86A3-72ED4106CBDA}",
+      "organization": "111 Willoughby Owner LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0647",
+      "file_name": "additional information (5).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/15/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 111 Willoughby Owner LLC to Submeter Electricity at 107-111 Willoughby Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D048755C-5633-49EB-8125-3AAEB2C8AEB1}",
+      "organization": "111 Willoughby Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0647",
+      "file_name": "submetering application.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/15/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7003BDCD-B677-4B14-A9D3-0E5C259BCCD5}",
+      "organization": "111 Willoughby Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0647",
+      "file_name": "cover Letter for application.pdf"
+    }
+  ]
+}

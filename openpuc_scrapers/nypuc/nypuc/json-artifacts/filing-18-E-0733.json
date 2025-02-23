@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0733",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B79AEB65-398D-4325-914F-11415F826152}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0733",
+      "file_name": "364_18-E-0733.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of JPM Capital Corporation for a Declaratory Ruling Regarding a Transfer of Ownership or Interests.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={611BECCF-3BB8-4BAD-85D5-3043634B88E9}",
+      "organization": "IIF Coastal Class A Holdings LLC, JPM Capital Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0733",
+      "file_name": "Declaratory Ruling Petition 11-30-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CC0B501-0CD6-442B-9C51-8D4CDC9A43AC}",
+      "organization": "IIF Coastal Class A Holdings LLC, JPM Capital Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0733",
+      "file_name": "Cover letter 11-30-18.pdf"
+    }
+  ]
+}

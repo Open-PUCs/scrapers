@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0192",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering ID_2 Blue Slip (8.15.23)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C8FF89-0000-C617-98EF-19073372AB27}",
+      "organization": "Brookfield Properties Mutlifamily LLC",
+      "itemNo": "6",
+      "docket_id": "18-E-0192",
+      "file_name": "Submetering ID_2 Blue Slip (8.15.23).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 41 Blue Slip, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E7BA444-E403-4F80-966D-7955A4AAEE7D}",
+      "organization": "BOP Greenpoint F LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0192",
+      "file_name": "compliance letter 3-14-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80F61712-CDF7-4038-B274-9E84A1E1021E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0192",
+      "file_name": "363_18-E-0192.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={867B03B1-AA59-46B7-B51F-6E79CFFFE301}",
+      "organization": "BOP Greenpoint F LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0192",
+      "file_name": "response letter 7-27-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73A44C11-500A-4DE8-AE84-933C932E4BEE}",
+      "organization": "BOP Greenpoint F LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0192",
+      "file_name": "revised submetering application 5-10-18.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BOP Greenpoint F to Submeter Electricity at 41 Blue Slip, Brooklyn, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A60D8CCA-3FCB-485C-992C-26D29F046568}",
+      "organization": "BOP Greenpoint F LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0192",
+      "file_name": "41 Blue slip.pdf"
+    }
+  ]
+}

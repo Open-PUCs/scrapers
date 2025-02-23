@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0686",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B66E20A-BABE-4342-AAD9-CCFD25576F04}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0686",
+      "file_name": "661_19-V-0686.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Entity Name Change",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3011CF02-3804-4A65-B53E-DF95E18E8091}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0686",
+      "file_name": "10.21.19 - T. Ellery Renewal Petition Cover Letter to PSC Secretary.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Ellery, County of Chautauqua.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C533858-FCF6-4617-B260-5041EAC62756}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0686",
+      "file_name": "10.21.19- T. ELLERY FRANCHISE RENEWAL TO PSC.pdf"
+    }
+  ]
+}

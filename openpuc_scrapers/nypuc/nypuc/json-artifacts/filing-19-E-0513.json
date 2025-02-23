@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0513",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Regarding Project Compensation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C310759D-BD01-4818-9D8E-EE29E5E4423B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0513",
+      "file_name": "374_19-E-0513.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Reply to the Joint Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCA45CCD-299B-4396-B498-9374A1C058E4}",
+      "organization": "1115 Solar Development, LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0513",
+      "file_name": "Reply to the Joint Utilities 19-E-0531 (2) .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/31/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8BFC110-0EC5-4B36-BA1C-05EC29040E84}",
+      "organization": "1115 Solar Development, LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0513",
+      "file_name": "Reply to Joint Utilities Cover Letter_ 19-E-0531.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "JU Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DF81386-C2DE-4D16-9E77-9C7226C03E47}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-E-0513",
+      "file_name": "JU Response to Borrego.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E85D9D2-2D15-40E8-945B-F1750695782A}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-E-0513",
+      "file_name": "Response to Borrego Cvr Ltr.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/19/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F545644-B45F-4151-B83B-E9BE803D04D0}",
+      "organization": "1115 Solar Development, LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0513",
+      "file_name": "15_E_0751_1115 Solar Development Petition_Confidential_Cover Letter .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 1115 Solar Development, LLC for Compensation According to the Alternative 2 Capacity Value Calculation set forth in the VDER Transition Order - PUBLIC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={947B2C95-5680-476E-9386-F698E8BBE362}",
+      "organization": "1115 Solar Development, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0513",
+      "file_name": "15_E_0751_1115 Solar Development Petition_PUBLIC.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5BAF5E5-42B3-4F2E-868D-9D8B1D10334D}",
+      "organization": "1115 Solar Development, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0513",
+      "file_name": "15_E_0751_1115 Solar Development Petition_Public_Cover Letter .pdf"
+    }
+  ]
+}

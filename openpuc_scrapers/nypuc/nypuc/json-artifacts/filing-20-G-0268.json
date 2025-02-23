@@ -1,0 +1,27 @@
+{
+  "case": "20-G-0268",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7B538FD-79E0-4291-970F-D8E12661A4E0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0268",
+      "file_name": "165_20-G-0268 Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/08/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "20-G-0268",
+      "file_name": ""
+    }
+  ]
+}

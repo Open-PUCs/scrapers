@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0089",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6590DAE-EC1E-40D9-B1C4-921A64263EEE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0089",
+      "file_name": "661_17-V-0089.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Chester, Warren County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7024D4BE-1891-43CB-966D-416792C1546C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0089",
+      "file_name": "T Chester PSC Submission docs 2 7 17.pdf"
+    }
+  ]
+}

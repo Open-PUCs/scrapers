@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0645",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Form R2 - Village of Castleton",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFC0409D-535C-4653-9CF7-3D7C73035199}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0645",
+      "file_name": "R2 - Village of Castleton.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5056A34D-F16E-4848-AC0C-63F97AA4605F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0645",
+      "file_name": "Charter Communications, Inc. - Letter to PSC Secretary -Franchise Information - Castleton.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08FEF876-BC9E-4C65-90BD-CC1EF43530C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0645",
+      "file_name": "661_19-V-0645.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/02/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Castleton, Rensselaer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD29DFD9-46A7-4952-AC73-3D28F96B3667}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0645",
+      "file_name": "PSC VCastletonNY Franchise Renewal..pdf"
+    }
+  ]
+}

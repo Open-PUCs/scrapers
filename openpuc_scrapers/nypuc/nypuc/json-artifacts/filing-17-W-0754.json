@@ -1,0 +1,93 @@
+{
+  "case": "17-W-0754",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/18/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water Owego-Nichols Inc.",
+      "itemNo": "10",
+      "docket_id": "17-W-0754",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Establishing Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82CCB674-3FBD-40C2-A022-7740FDC6B6EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "17-W-0754",
+      "file_name": "464_17-W-0754 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "SWON Forest Park Proof of Publication - Notice of Proposed Rate Increase",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98BAD319-FE00-4E70-B1D3-C58302A05F81}",
+      "organization": "United Water Owego-Nichols Inc.",
+      "itemNo": "8",
+      "docket_id": "17-W-0754",
+      "file_name": "SWON Forest Park Proof of Publication - Notice of Proposed Rate Increase.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/06/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2983C536-8439-47BB-86BF-21E9946A4B58}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-W-0754",
+      "file_name": "17-W-0754 Postponement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/03/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water Owego-Nichols Inc.",
+      "itemNo": "4",
+      "docket_id": "17-W-0754",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Withdrawal of Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57C68CA6-B129-4239-9210-33739F39D19D}",
+      "organization": "United Water Owego-Nichols Inc.",
+      "itemNo": "3",
+      "docket_id": "17-W-0754",
+      "file_name": "SWON Forest Park, et al 17-W-0754 Waiver Request 12.14.17.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Workpapers",
+      "name": "Workpapers to Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E02DD86-F685-46DE-BA84-B249283E4064}",
+      "organization": "United Water Owego-Nichols Inc.",
+      "itemNo": "2",
+      "docket_id": "17-W-0754",
+      "file_name": "SWON Forest Park, et al. 16-W-0017 Minor Rate Filing 12.7.17 OCR.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water Owego-Nichols Inc.",
+      "itemNo": "1",
+      "docket_id": "17-W-0754",
+      "file_name": ""
+    }
+  ]
+}

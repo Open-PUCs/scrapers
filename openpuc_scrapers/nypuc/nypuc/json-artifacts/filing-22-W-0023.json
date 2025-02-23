@@ -1,0 +1,82 @@
+{
+  "case": "22-W-0023",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "DEC Permit SWS.Ren 0 Mod 19.Catskill Hudson Bank.Permit.221027",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={416922A5-D3BE-4DF2-A615-A7DF63452874}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-W-0023",
+      "file_name": "DEC Permit SWS.Ren 0 Mod 19.Catskill Hudson Bank.Permit.221027.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "22-W-0023 Compliance Cover Ltr to Phillips 221122",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E532B19-F91C-45C9-9622-F7D72208C893}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-W-0023",
+      "file_name": "22-W-0023 Compliance Cover Ltr to Phillips 221122.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E524658-1A8D-47E0-9565-3B6C46A7D638}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-W-0023",
+      "file_name": "462_22-W-0023 Neg Dec final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FC3B8C1-65AA-4E8D-84CC-C5E77CA0D932}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-W-0023",
+      "file_name": "462_22-W-0023 final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "SWS-CHB Letter to Secrretary re Error in Name of Bank",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37C7B1F5-1993-4E2E-8C14-AC01E1D8F563}",
+      "organization": "Catskill Hudson Bancorp, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-W-0023",
+      "file_name": "22-W-0023 SWS-CHB Letter to Secrretary re Error in Name of Bank .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-CHB Letter of Transmittal 220110",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C5BB3F3-7EA5-4062-A8FD-2E71ED7CCDE1}",
+      "organization": "Catskill Hudson Bancorp, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-W-0023",
+      "file_name": "SWS-CHB Letter of Transmittal 220110.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition by Saratoga Water Services and Catskill Hudson Bankcorp, Inc., for Approval of an Extension Agreement and Waivers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAB690D9-9A60-4306-A67B-4A6CF16AA70A}",
+      "organization": "Catskill Hudson Bancorp, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-W-0023",
+      "file_name": "SWS-CHB Petition to Extn Serv Area 220110.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0446",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0C24D8B-0000-CA1E-AFCE-3E1E454ED1A5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0446",
+      "file_name": "661_23-V-0446 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A079E589-0000-CD52-9409-19D00D5E3BD5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0446",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Leicester Letter 08.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A079E589-0000-C916-AC25-254C8C5AB993}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0446",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Leicester Letter 08.11.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Leicester Cover Letter- Request for Renewal and Certificate of Confirmation 08.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A079E589-0000-C87D-B271-385D85F633F5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0446",
+      "file_name": "Charter Communications, T. Leicester Cover Letter- Request for Renewal and Certificate of Confirmation 08.11.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Leicester - Request for Renewal and Certificate of Confirmation(redacted) 08.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B079E589-0000-CD14-AD24-25315121C207}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0446",
+      "file_name": "Charter Communications, T. Leicester - Request for Renewal and Certificate of Confirmation(redacted) 08.11.23.pdf"
+    }
+  ]
+}

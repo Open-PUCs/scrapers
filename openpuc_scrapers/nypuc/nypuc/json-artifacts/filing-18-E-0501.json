@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0501",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BF4A057-27CD-496E-833A-201256E8D02C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0501",
+      "file_name": "372_18-E-0501.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Bayonne Energy Center, LLC, MIC Thermal Power Holdings, LLC and NHIP II Bayonne Holdings LLC for a Declaratory Ruling Regarding Transfer of Upstream Ownership Interests or, in the Alternative, an Order Approving the Transfer Pursuant to Section 70 of the New York State Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1DD92C2-13B4-4816-981E-9A62B8C4FB03}",
+      "organization": "Bayonne Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0501",
+      "file_name": "Bayonne Section 70 Declaratory Ruling Petition with Exhibits.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67BC009A-A985-4AB8-9637-4DE77A1E53A8}",
+      "organization": "Bayonne Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0501",
+      "file_name": "Burgess Letter - PSL Section 70 Filing.pdf"
+    }
+  ]
+}

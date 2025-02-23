@@ -1,0 +1,93 @@
+{
+  "case": "20-E-0112",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Errata Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F17FE726-3D2A-44C6-AAEE-700972D25A58}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "20-E-0112",
+      "file_name": "18-E-0130 et al._Errata Notice Regarding DLM Programs.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "20-E-0112",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Establishing Term-Dynamic Load Management and Auto-Dynamic Load Management Program Procurements and Associated Cost-Recovery",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABEB56EC-176A-497F-98E2-5C44CAC0FEE7}",
+      "organization": "     Errata Notice - 09/22/2020",
+      "itemNo": "Public Service Commission",
+      "docket_id": "20-E-0112",
+      "file_name": "6"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Electric and PASNY Tariff Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D483665F-1B09-40EC-A673-CD3B7C754A69}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0112",
+      "file_name": "e.20-E-0112.ConEdison.pp1.7.1.20.FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-E-0112",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0112",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "CE Elec auto-DLM Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09C80B3C-E660-4964-88EF-F071943123C2}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0112",
+      "file_name": "CE Elec auto-DLM Proof of Publication.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/06/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0112",
+      "file_name": ""
+    }
+  ]
+}

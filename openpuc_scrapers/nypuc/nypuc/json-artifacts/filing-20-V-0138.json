@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0138",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E7C57F7-FCC0-4040-86AE-4E46C0AF4BD1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0138",
+      "file_name": "665_20-V-0138 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-00274 Letter To Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79DF5C41-853D-4697-88D3-43BB3681B4C9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0138",
+      "file_name": "20-00274 Letter To Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/30/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Entry (MDU) at 131-11 Fowler Ave., Flushing, NY 11355 (W & L Group)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D32B659-5475-4DCC-80B1-8D68E060ED24}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0138",
+      "file_name": "Petition for Order of Entry (MDU) at 131-11 Fowler Ave., Flushing, NY 11355 (W & L Group).pdf (1 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/30/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCB89034-864F-4ACC-B9D8-91F12137D207}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0138",
+      "file_name": "Cover Letter - Petition for Order of Entry (MDU) - W & L Group.pdf (24 KB)"
+    }
+  ]
+}

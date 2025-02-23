@@ -1,0 +1,60 @@
+{
+  "case": "15-G-0643",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Status Update Letter - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F394FD7-3329-41CC-A9CF-F0B6173650AC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "15-G-0643",
+      "file_name": "15-G-0643_Status_Update_Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C9E3CC-D87A-4FAC-A8FC-90BBB6AEC0B3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-G-0643",
+      "file_name": "218351_AckLetter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Attachments to Appeal of Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6B7E72A-B2FA-4C7A-BBC2-82F408E5AB72}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "15-G-0643",
+      "file_name": "218351_attachments (00000002)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C669907B-AEFB-4AAA-9D5E-812526A47A6E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "15-G-0643",
+      "file_name": "218351_appeal_petition (00000002)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B0CB737-EB8B-46FE-9068-CB05D993000E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-G-0643",
+      "file_name": "218351_IH (00000002)_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "23-W-0689",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Veolia Water New York Letter Petition for Approval of MACH 10 Meter for Residential Customers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05C1C8C-0000-CA17-B211-BC3010C0CF22}",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0689",
+      "file_name": "Veolia Water New York Letter Petition for Approval of MACH 10 Meter for Residential Customers.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendices to MACH 10 Application (Residential)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C71C8C-0000-C418-B6C8-E0D2AA12DA58}",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0689",
+      "file_name": "Appendices to MACH 10 Application (Residential) (1).pdf"
+    }
+  ]
+}

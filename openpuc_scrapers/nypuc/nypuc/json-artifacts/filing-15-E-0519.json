@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0519",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E6ED34F-F920-4642-B2F3-B17E382C3C26}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0519",
+      "file_name": "362_15e0518 15e0519.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/23/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-E-0519",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/22/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={509BDB16-8E16-4760-84A6-6911FCBBE538}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0519",
+      "file_name": "15E0519 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/16/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-E-0519",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/23/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavits of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BCC26BB-8680-41B5-BBBF-552B57608F23}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0519",
+      "file_name": "Affidavits of Publication.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/10/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0519",
+      "file_name": ""
+    }
+  ]
+}

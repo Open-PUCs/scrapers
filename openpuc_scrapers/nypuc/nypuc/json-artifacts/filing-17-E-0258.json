@@ -1,0 +1,27 @@
+{
+  "case": "17-E-0258",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response information for 1066-1070 Myrtle Avenue, Brooklyn, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1303F1ED-E709-4D67-AC9E-AC5E949FA0F9}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "17-E-0258",
+      "file_name": "response letter 5-24-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Myrtle Avenue Apartments, GP to Submeter Electricity at 1066-1070 Myrtle Avenue, Brooklyn, New York 11206, Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={411F6C07-165C-4232-903B-28B9444237DD}",
+      "organization": "Myrtle Avenue Apartments, GP",
+      "itemNo": "1",
+      "docket_id": "17-E-0258",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

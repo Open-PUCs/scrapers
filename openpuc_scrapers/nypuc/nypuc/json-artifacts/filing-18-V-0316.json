@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0316",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73803722-D6CE-4143-A410-9629B911F0B7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0316",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02E0639D-753A-4839-B4A3-75A9A1627C3D}",
+      "organization": "Charter Communications",
+      "itemNo": "2",
+      "docket_id": "18-V-0316",
+      "file_name": "11.01.18, Case 18-V-0316 - Addition to Application on File-T.Caton Legal Notice-Ad Copy.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Caton, County of Steuben.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={143689F9-2876-4197-ABFB-37CD736AC538}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0316",
+      "file_name": "051818 TN CATON, NY FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

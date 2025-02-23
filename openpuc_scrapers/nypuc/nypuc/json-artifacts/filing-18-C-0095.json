@@ -1,0 +1,27 @@
+{
+  "case": "18-C-0095",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-00433 MCI XO Final.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48B5FCF2-99DB-4D1F-BE16-921C35B3B51A}",
+      "organization": "MCI Communications Services, Inc., XO Communications Services, LLC",
+      "itemNo": "2",
+      "docket_id": "18-C-0095",
+      "file_name": "18-00433 MCI XO Final.Signed.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of MCI Communications Services, Inc. and XO Communications Services, LLC for Approval of a Transfer of Ownership Pursuant to \u00a7 100 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7AE74A75-700D-458E-BFC1-E2CFBCD36B5F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0095",
+      "file_name": "180216 Petition for Approval of XO Transaction.pdf"
+    }
+  ]
+}

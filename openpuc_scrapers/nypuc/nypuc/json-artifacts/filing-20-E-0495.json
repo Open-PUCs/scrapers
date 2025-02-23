@@ -1,0 +1,115 @@
+{
+  "case": "20-E-0495",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/02/2022",
+      "nypuc_doctype": "Reports",
+      "name": "ISMTF_La Central Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB8681F3-21C3-4731-AB0C-A4B2851FBB08}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0495",
+      "file_name": "ISMTF_La Central (20-E-0495).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24364A1B-BD5A-4C2E-9ACF-D1E821B68EA9}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0495",
+      "file_name": "Case 11-M-0710_Cover Letter filing ISMTF (20-E-0495).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/17/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0495 - Submetering ID Form - Updated",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F92346BA-9C3C-472E-9122-62B23CE1CB37}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0495",
+      "file_name": "Case 20-E-0495 - Submetering ID Form - Updated.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/17/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0495 - Letter to Secretary with Updated Documents and Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83F18295-F00C-4E05-A6AB-91752BBDAC8E}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0495",
+      "file_name": "Case 20-E-0495 - Letter to Secretary with Updated Documents and Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/17/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0495 - Lease Riders - Updated (556 and 600 Bergen Avenue)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={418CADB2-40BB-4D65-A04F-572095374DF9}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0495",
+      "file_name": "Case 20-E-0495 - Lease Riders - Updated (556 and 600 Bergen Avenue).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/17/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0495 - HEFPA Plan - Updated",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={713ADA68-8E4E-463E-B510-9203E0771755}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0495",
+      "file_name": "Case 20-E-0495 - HEFPA Plan - Updated.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/17/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 20-E-0495 - Certificate of Compliance - Executed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CAB4D5B-9472-46DE-BBAD-7BCE527ED71D}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0495",
+      "file_name": "Case 20-E-0495 - Certificate of Compliance - Executed.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/02/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70856D7D-5E98-49A8-B56E-E266A297D7D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-E-0495",
+      "file_name": "392_20-E-0495 final.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AD65AFE-7F1A-477A-B90B-CD92E47A8CA1}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0495",
+      "file_name": "La_Central_Owner_LLC_-_Notice_of_Intent_to_Submeter_Filing_Package.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "10/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92360F69-C789-4D77-AEF3-7D22B6839EC0}",
+      "organization": "La Central Owner LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0495",
+      "file_name": "La Central Owner LLC - Cover Letter Filing Notice of Intent to Submeter 4848-1596-9463 v.1.pdf"
+    }
+  ]
+}

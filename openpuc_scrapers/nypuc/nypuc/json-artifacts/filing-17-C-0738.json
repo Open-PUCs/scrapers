@@ -1,0 +1,104 @@
+{
+  "case": "17-C-0738",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73D27810-2FDA-42C3-9A7A-61391518ED5E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "17-C-0738",
+      "file_name": "190306 Confidentiality Request.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E462E47-A594-4E43-A04F-6D05C44F00D9}",
+      "organization": "Bevan, Mosca, & Giuditta, P.C.",
+      "itemNo": "4",
+      "docket_id": "17-C-0738",
+      "file_name": "OCG Trade Secret Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5621537-293D-45D3-93E9-8FA9E01B7935}",
+      "organization": "Bevan, Mosca, & Giuditta, P.C.",
+      "itemNo": "4",
+      "docket_id": "17-C-0738",
+      "file_name": "OCG Filing Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Customer List - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51A34D0F-AF9F-43DB-93B2-5D194A5E510A}",
+      "organization": "Bevan, Mosca, & Giuditta, P.C.",
+      "itemNo": "4",
+      "docket_id": "17-C-0738",
+      "file_name": "Customer List - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon's Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D9069CB-767F-445A-81A8-0191649BCF47}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0738",
+      "file_name": "170616 Response to Petition (REDACTED).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25A9ADA6-7E60-4AC0-A538-F3B66242B3AC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0738",
+      "file_name": "170616 Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Termination Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009B8EF7-CDEE-4B72-B44E-8EC3CA751F95}",
+      "organization": "Optical Communications Group Inc.",
+      "itemNo": "5",
+      "docket_id": "17-C-0738",
+      "file_name": "OCG Termination Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Optical Communications Group, Inc. to Resolve a Dispute Pursuant to a Conduit Occupancy Agreement with Verizon Services Corporation and to Stay Unilateral Action",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={131588E5-8EDC-421D-9AE7-1956EC202E18}",
+      "organization": "Optical Communications Group Inc.",
+      "itemNo": "5",
+      "docket_id": "17-C-0738",
+      "file_name": "Opticom Petition.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69798BD8-6D1A-4B3F-A80C-46AA6B946D53}",
+      "organization": "Optical Communications Group Inc.",
+      "itemNo": "5",
+      "docket_id": "17-C-0738",
+      "file_name": "Opticom Cover Letter.pdf"
+    }
+  ]
+}

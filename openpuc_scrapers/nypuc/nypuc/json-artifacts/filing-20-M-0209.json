@@ -1,0 +1,38 @@
+{
+  "case": "20-M-0209",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waivers and Extending Development Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BA3264B-BF17-4DB9-BFD2-0A79FF513027}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-M-0209",
+      "file_name": "262_20-M-0209.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/12/2020",
+      "nypuc_doctype": "Comments",
+      "name": "National Grid Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C39811A3-4F31-40A2-9428-46EE2CC7A98A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "20-M-0209",
+      "file_name": "National Grid Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Pigliavento Builders d/b/a Brookview Court, Inc. Request for an Extension on Letters of Credit.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C630092-42AC-4B69-943C-F2BA058406A8}",
+      "organization": "Pigliavento Builders d/b/a Brookview Court, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-M-0209",
+      "file_name": "LOC Extension Request 4-20-20.pdf"
+    }
+  ]
+}

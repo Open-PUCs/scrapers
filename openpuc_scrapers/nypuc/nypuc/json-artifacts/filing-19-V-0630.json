@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0630",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/09/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB65EF74-00CE-4FC1-A874-67274EAFA6C4}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-V-0630",
+      "file_name": "19-V-0630 Secretary Ltr. Closing Case 12.9.2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AFBE973-679C-4D50-BC8E-0582425B0787}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "19-V-0630",
+      "file_name": "200916 Letter re 925 Prospect Pl (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3505EF31-2361-48D1-81EA-3D53980D7D2A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0630",
+      "file_name": "190520 VZ Letter re 925 Prospect Pl (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3831E9EF-975F-41A2-9B8B-8821012FC767}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-V-0630",
+      "file_name": "18-03041 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BBD2716-87F6-4A25-936B-A619CA63CAAC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0630",
+      "file_name": "Good morning Ms.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 925 Prospect Place, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BB019AE-7945-4FFB-B68F-1E6E70E1C9C2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0630",
+      "file_name": "Petition (925 Prospect Pl).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5DCD6A4-C77F-41BF-9935-A45E4089D6EE}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0630",
+      "file_name": "Exhibit 2 (925 Prospect Pl).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70B0D048-CF25-405D-8389-2553DB54EC0C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0630",
+      "file_name": "Exhibit 1 (925 Prospect Pl).pdf"
+    }
+  ]
+}

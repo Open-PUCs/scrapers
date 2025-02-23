@@ -1,0 +1,71 @@
+{
+  "case": "20-C-0127",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/03/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Nicholville - letter to PSC re directory waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB3F32A7-9B4A-4E09-9EE7-AA9546152584}",
+      "organization": "Nicholville Telephone Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-C-0127",
+      "file_name": "Nicholville - letter to PSC re directory waiver.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/03/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Nicholville - attachments to PSC directory waiver letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8A43701-16E2-4EF8-B051-8F08F0F9E044}",
+      "organization": "Nicholville Telephone Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-C-0127",
+      "file_name": "Nicholville - attachments to PSC directory waiver letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91BA6174-E4BC-4DE0-AC5D-05EC7B7AD581}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-C-0127",
+      "file_name": "563_20-C-0127 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter re Request for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3A6E3F2-8351-4BD6-9A2D-FD7A5A1ABD57}",
+      "organization": "Nicholville Telco LLC d/b/a Nicholville Telephone Company",
+      "itemNo": "2",
+      "docket_id": "20-C-0127",
+      "file_name": "PSC - Nicholville - Letter re request for waiver.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Nicholville Telco LLC d/b/a Nicholville Telephone Company for a Waiver of the Requirements of 16 NYCRR, Section 602.10(b) Regarding Distribution of Telephone Directories.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79F2AC06-141B-4E10-A8DB-383B17086575}",
+      "organization": "Nicholville Telco LLC d/b/a Nicholville Telephone Company",
+      "itemNo": "1",
+      "docket_id": "20-C-0127",
+      "file_name": "Nicholville - Petition for Waiver Regarding Dist of Telephone Directories.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F767E9B5-D1F9-46B9-9FC0-DB75EC1B95FB}",
+      "organization": "Nicholville Telco LLC d/b/a Nicholville Telephone Company",
+      "itemNo": "1",
+      "docket_id": "20-C-0127",
+      "file_name": "PSC - enclosed Nicholville Petition.pdf"
+    }
+  ]
+}

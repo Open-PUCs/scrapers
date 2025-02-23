@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0181",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70799C8F-0000-C630-B61F-BAEAC6097C27}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0181",
+      "file_name": "663_24-V-0181_52124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "V. Cooperstown Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500B858E-0000-C497-B17A-750413D64D69}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0181",
+      "file_name": "V. Cooperstown Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/28/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "V. Cooperstown Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 03.28.24 SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500B858E-0000-C775-BC21-298D91F38825}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0181",
+      "file_name": "V. Cooperstown Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 03.28.24 SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/28/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500B858E-0000-CC5B-A0D2-C28C7E4CE0A4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0181",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/28/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Cooperstown 03.28.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500B858E-0000-CC18-86A4-C4269C7FE0A7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0181",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Cooperstown 03.28.24.pdf"
+    }
+  ]
+}

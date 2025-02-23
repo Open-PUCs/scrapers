@@ -1,0 +1,93 @@
+{
+  "case": "20-E-0044",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to DPS re N Tonawanda crypto plant",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68FF6398-D358-495F-8934-948ECD08C7DE}",
+      "organization": "Earthjustice, Sierra Club Atlantic Chapter",
+      "itemNo": "5",
+      "docket_id": "20-E-0044",
+      "file_name": "2021.05.04 Letter to DPS re N Tonawanda crypto plant.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to DEC re N Tonawanda crypto plant",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBE315FE-5BBD-4460-9211-BFB90CB9EAA7}",
+      "organization": "Earthjustice, Sierra Club Atlantic Chapter",
+      "itemNo": "5",
+      "docket_id": "20-E-0044",
+      "file_name": "2021.05.04 Letter to DEC re N Tonawanda crypto plant.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to DEC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4ADFF411-2B65-4D1F-9158-6F3AA2749A2E}",
+      "organization": "Earthjustice, Sierra Club Atlantic Chapter",
+      "itemNo": "4",
+      "docket_id": "20-E-0044",
+      "file_name": "2021.04.06 Letter to DEC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F921B0BA-2F78-406F-9506-A7C3BD14F132}",
+      "organization": "Earthjustice, Sierra Club Atlantic Chapter",
+      "itemNo": "4",
+      "docket_id": "20-E-0044",
+      "file_name": "2021.04.06 Letter to DPS.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/11/2020",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Proposed On-Site Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8072A25-3DAF-4139-BA7D-EBE5E40D1573}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0044",
+      "file_name": "372_19-E-0718 and 20-E-0044 Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2300F7D-A250-425A-A6F9-00DB1C88206A}",
+      "organization": "Greenidge Generation LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0044",
+      "file_name": "Supplement to Petitions 5-20-2020(1).pdf (422 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Of Greenidge Generation LLC For A Declaratory Ruling Concerning The Furnishing And/Or Sale Of Unmetered Electric Power To Tenants Leasing Space At The Greenidge Site And Alternate Petition For Amendment Of Its Section 68 Certificate To Permit Such Furnishing And/Or Sales.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA0FACB4-DD9E-4FC6-9138-1CE4046C912E}",
+      "organization": "Greenidge Generation LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0044",
+      "file_name": "BTMG PSC Petition 1-28-2020.pdf (540 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB806997-409F-4C00-B073-04F4FBDF6658}",
+      "organization": "Greenidge Generation LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0044",
+      "file_name": "Greenidge Petition CovLet 1-28-2020.pdf"
+    }
+  ]
+}

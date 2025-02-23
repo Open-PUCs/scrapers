@@ -1,0 +1,60 @@
+{
+  "case": "19-C-0193",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2019",
+      "nypuc_doctype": "Letters",
+      "name": "19-00720.19-C-0193.Windstream MOL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BA6ADF9-B0D2-41DD-A3BF-79EE47BE3028}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-C-0193",
+      "file_name": "19-00720.19-C-0193.Windstream MOL.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8ACD9AC-324F-468D-8E0B-FA9CB88619D7}",
+      "organization": "Windstream Holdings, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-C-0193",
+      "file_name": "19-00720 COVER LETTER (Clarification).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={419499D7-A96A-46FE-90C9-C6CFE5826DCB}",
+      "organization": "Windstream Holdings, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-C-0193",
+      "file_name": "19-00720 Clarification.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/15/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval of the Co Consolidation Application of Windstream Holdings, Inc. Pursuant to Section 100 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D43BCC5-EA1E-47A9-A1DB-33BFEFCC434A}",
+      "organization": "Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0193",
+      "file_name": "Windstream Co Consolidation Application (NY).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/15/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78537292-5F26-4B78-B9D4-F578FF43C57B}",
+      "organization": "Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0193",
+      "file_name": "Cover Letter - Co Consolidation Application 31419.pdf"
+    }
+  ]
+}

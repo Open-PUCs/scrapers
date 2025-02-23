@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0437",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86956CE0-C34C-4362-8F61-EB870130ABF1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0437",
+      "file_name": "18-T-0437-Nat.Grid-Gardenville-Five Mile-App.Completeness ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Gardenville-Five Mile #152, Gardenville-Arcade #151 and Arcade-Five Mile #167 115kV Conductor Clearance Refurbishment and Damage Failure Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38F01F36-EA26-47AD-8E67-219B4E2A0CC9}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0437",
+      "file_name": "National Grid - Arcade Bundle Part 102 Project.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA8B4068-77DE-4BB2-A495-E6BB1F2A539A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0437",
+      "file_name": "National Grid Cover Letter for Arcade Bundle CCR Part 102.pdf"
+    }
+  ]
+}

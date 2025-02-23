@@ -1,0 +1,60 @@
+{
+  "case": "16-W-0550",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Action on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F3D2C12-A0EA-45AA-91C2-A2E1E4AD3C7A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-W-0550",
+      "file_name": "464_16w0550.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCB12E99-4CB8-4E59-98A2-30276CEF18BF}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-W-0550",
+      "file_name": "2016.11.07_NYAW Compliance Filing_Customer Notification_16-W-0550.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/13/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DCBF029-D361-4018-B98D-58FA0AF71890}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-W-0550",
+      "file_name": "464_16w0550 Confirming Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/30/2016",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Appointing Operator on an Emergency Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BAAE28F-9D51-460F-904D-AC51CA4B97AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-W-0550",
+      "file_name": "16-W-0550 OCO.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/27/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Emergency Approval of Operations, Maintenance and Management Agreement by and Between New York American Water Company, Inc. and the Estate of Edwin D. Silvers (Phyllis D. Silvers, Executrix) under Public Service Law Section 89-c.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB83B253-6A80-4A07-82BB-A0AFC3FF9ED7}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0550",
+      "file_name": "2016.09.27_NYAW Petition for Emergent Approval of WF-NV O&M Agreement.pdf"
+    }
+  ]
+}

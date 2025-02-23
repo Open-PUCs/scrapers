@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0460",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition Deficiency",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4041958A-0000-C81A-B8A4-76FA87E6D86B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0460",
+      "file_name": "23-E-0460 Letter Regarding Petition Deficiency 9-14-23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Garnet Energy Center, LLC for Order Granting a Certificate of Public Convenience and Necessity and Establishing a Lightened Regulatory Regime.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B2048A-0000-CE3F-86C0-391881D16B02}",
+      "organization": "Garnet Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0460",
+      "file_name": "(218909392 \u00bf 1) - The Effects of COVID-19 on Retail Energy Suppliers by Aggressive Energy.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "L-Garnet Energy Center LLC CPCN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B2048A-0000-C91D-9F92-0F041E85D3D4}",
+      "organization": "Garnet Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0460",
+      "file_name": "L-Garnet Energy Center LLC CPCN 8-17-23 (1).pdf"
+    }
+  ]
+}

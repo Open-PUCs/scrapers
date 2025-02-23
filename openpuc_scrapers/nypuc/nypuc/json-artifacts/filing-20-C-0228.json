@@ -1,0 +1,49 @@
+{
+  "case": "20-C-0228",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7688EA0A-41C2-4D9B-8365-DFFA72400A83}",
+      "organization": "ExteNet Telecom Solutions, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-C-0228",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-01075 ExteNet OOL Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22E268CC-2C42-4346-932E-B1702AD50731}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0228",
+      "file_name": "20-01075 ExteNet OOL Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of ExteNet Systems (New York), Inc. and Hudson Fiber Network, Inc. for Approval to Complete a Pro Forma Internal Consolidation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D88C6C1-4DD4-4129-AD62-5CCC443F162D}",
+      "organization": "ExteNet Systems (New York), Inc., Hudson Fiber Network, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-C-0228",
+      "file_name": "Consolidation Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={529E2555-8E4B-4FBA-ABDD-4F90423FBB25}",
+      "organization": "ExteNet Systems (New York), Inc., Hudson Fiber Network, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-C-0228",
+      "file_name": "Transmittal Letter.pdf"
+    }
+  ]
+}

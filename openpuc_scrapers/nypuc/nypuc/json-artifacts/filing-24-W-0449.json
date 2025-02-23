@@ -1,0 +1,49 @@
+{
+  "case": "24-W-0449",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241007 - Payment - $4,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600C9C92-0000-C010-8A6A-13CFFC361579}",
+      "organization": "Pro Septic LLC",
+      "itemNo": "6",
+      "docket_id": "24-W-0449",
+      "file_name": "20241007 - Payment - $4,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70693492-0000-C616-BDD3-E180615B684F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-W-0449",
+      "file_name": "461_24-W-0449.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240311 - Payment ($7,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70735D8E-0000-CC1E-8B74-5591182DC54C}",
+      "organization": "Pro Septic LLC",
+      "itemNo": "4",
+      "docket_id": "24-W-0449",
+      "file_name": "20240311 - Payment ($7,500) - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D04FCC8D-0000-CB15-8EFA-B072979A86D5}",
+      "organization": "Pro Septic LLC",
+      "itemNo": "3",
+      "docket_id": "24-W-0449",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0345",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={549FEC84-3DBB-490D-9B78-5CA0DB4A6F89}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0345",
+      "file_name": "661_18-V-0345.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/07/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0345 Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94B4FDA1-69EA-4354-B281-47422F2A4C97}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0345",
+      "file_name": "18-V-0345 Proof of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Adams CATV, Inc. for Approval of the Renewal of its Franchise with the Town of Colesville, Broome County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B27538F0-15C7-4CF7-BFD1-01A8F20FDF88}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0345",
+      "file_name": "Renewal Franchise Agreement.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0163",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C824F133-23A6-41CC-9D1E-47C785193736}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0163",
+      "file_name": "375_21-E-0163 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48B09127-4EBA-45D3-8A80-500E15899B07}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0163",
+      "file_name": "375_21-E-0163 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={411A7DC4-D30C-424D-8B0F-8B18590A77F4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0163",
+      "file_name": "Case 21-E-0163 Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={861884C4-F9AB-421B-A919-2DCDEAC85BC3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0163",
+      "file_name": "019862 Morris Ave Owner Ack .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE023154-A1BF-4EE9-99FD-C79AC5290AB8}",
+      "organization": "Morris Avenue Owners/Wavecrest Management G590",
+      "itemNo": "2",
+      "docket_id": "21-E-0163",
+      "file_name": "019862 - Morris Avenue Owners v Con Edison - Appeal of InformalDecision.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D80FA171-2736-47CA-98AD-A2556A66BBA5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0163",
+      "file_name": "019862-_Morris_Avenue_Owners-_Wavecrest_Management_G590.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "18-W-0302",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYAW Compliance Filing regarding Customer Notification - Painted Apron Water Co.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FDEAA6A-29E1-4559-97B1-506C3704647B}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-W-0302",
+      "file_name": "2018.12.27_NYAW Compliance Filing re Customer Notification_Painted Apron.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Appointing A New Temporary Operator",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={146E2E68-1F95-4A26-ABC3-C9EB480ED725}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-W-0302",
+      "file_name": "461_18-W-0302.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0083",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Completion of Proposed Transaction - Ordering Clause No. 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7081AA8E-0000-C81D-8BD7-EB81BC4F25C4}",
+      "organization": "Equinor Wind US LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0083",
+      "file_name": "Case 24-E-0083 - Ordering Clause No. 2 Notice - 04.04.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90EB578E-0000-C51B-8F43-BF66A969E24A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0083",
+      "file_name": "377_24-E-0083_31924final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/31/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Equinor Wind US LLC for a Declaratory Ruling Concerning Approval Under Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0FE5F8D-0000-C433-99E1-94A52E7DA6B6}",
+      "organization": "Equinor Wind US LLC, bp Wind Energy Beacon Holding LLC, bp Wind Energy Empire Holding LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0083",
+      "file_name": "Empire & bp - Section 70 - Joint Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/31/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0FE5F8D-0000-C719-BC9C-08BC47DB3E7B}",
+      "organization": "Equinor Wind US LLC, bp Wind Energy Beacon Holding LLC, bp Wind Energy Empire Holding LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0083",
+      "file_name": "Empire & bp - Section 70 - Cover Letter.pdf"
+    }
+  ]
+}

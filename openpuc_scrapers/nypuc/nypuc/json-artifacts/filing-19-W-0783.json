@@ -1,0 +1,104 @@
+{
+  "case": "19-W-0783",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/07/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={711B4692-5710-4DBF-B5B0-F16719AE6CA6}",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "19-W-0783",
+      "file_name": "Customer Notification of Commission Decision.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9AE1A4A6-74CC-48FB-9B9B-0B80E207A14E}",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "19-W-0783",
+      "file_name": "Customer Notification Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "19-W-0783",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Deferral and Establishing Escrow Accounts",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3C3F9D9-7B75-43A6-A487-184E9D90C6F7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-W-0783",
+      "file_name": "462_19-W-0783 Order final w appendices.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/14/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification of Proposed Escrow Account",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={444C6E26-43AF-4C4F-8F4E-01BC15CC74CC}",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-W-0783",
+      "file_name": "Notice for 19-w-0783.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/14/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF45192A-3FF3-4AD1-ACC5-AABF6D18E53C}",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-W-0783",
+      "file_name": "EGLLM - 18-W-0576 Cover.Notice of Commission Decision.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verification for Petition by Kenneth Herfield, President EGLLMWC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59EAA9CE-2073-49D7-9F49-28C34B40FD7A}",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-W-0783",
+      "file_name": "Verification for Petition by Kenneth Herfield, President EGLLMWC.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dear Secretary Phillips",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={197421FC-7583-4304-AD5D-7622A4767BBC}",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-W-0783",
+      "file_name": "Dear Secretary Phillips.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/31/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Emerald Green Lake Louise Marie Water Company, Inc. for Approval to Defer and Surcharge its Customers to Recover Extraordinary Emergency Repairs.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAA787F0-18C6-476B-8B55-F08CEE95D53F}",
+      "organization": "Emerald Green Lake Louise Marie Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0783",
+      "file_name": "PSC Letter re Permission to Charge Customers for Emergency Repairs w Attachment 191231 (1).pdf"
+    }
+  ]
+}

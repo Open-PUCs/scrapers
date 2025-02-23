@@ -1,0 +1,104 @@
+{
+  "case": "18-E-0328",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9C80336-3B39-4DB2-9C4D-8288CD4B3BB7}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "9",
+      "docket_id": "18-E-0328",
+      "file_name": "compliance letter 4-11-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "REVISED compliance letter for 2 Park Place, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74E5E2F0-5079-46E1-9F31-6E092F04C36E}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "8",
+      "docket_id": "18-E-0328",
+      "file_name": "complaince letter revised.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Compliance with the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEE3E3F9-EA74-4FF7-82B3-3077C1925F79}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "7",
+      "docket_id": "18-E-0328",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21758215-536C-4145-83A6-E4F9DE3425FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-E-0328",
+      "file_name": "362_18-E-0328.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0E9F529-2050-4053-9EDA-E6DC25193463}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0328",
+      "file_name": "response letter. 11-21-18.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BABD3248-2AC7-43E3-BDDC-97AE4B7FA02F}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0328",
+      "file_name": "response letter 10-19-18.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CC048BD-DE8C-4855-AAD6-E00DF7E415EF}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0328",
+      "file_name": "response letter 9-24-18.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/29/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Residential notification letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50CD0853-CA58-47A5-B007-02D6849E65E0}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0328",
+      "file_name": "resident letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Woolworth 100 Owner LLC to Submeter Electricity at 2 Park Place, New York, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60C7FB51-3799-4C13-AAAE-00FE7671D929}",
+      "organization": "Woolworth 100 Owner LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0328",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

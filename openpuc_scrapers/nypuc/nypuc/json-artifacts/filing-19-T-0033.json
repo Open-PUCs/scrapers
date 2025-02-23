@@ -1,0 +1,38 @@
+{
+  "case": "19-T-0033",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/08/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECB08DFB-2BB0-4E92-8E6C-2956508D5EE7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-T-0033",
+      "file_name": "19-T-0033-NiagaraMohawk-Huntley-Lockport-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2019",
+      "nypuc_doctype": "Reports",
+      "name": "NG Huntley Lockport 36-37 Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5F91243-2577-4A48-AB53-78D40D5E8E50}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0033",
+      "file_name": "NG Huntley Lockport 36-37 Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/08/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7674A31-1AC4-41DF-B8FF-E3A9324DE7D2}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0033",
+      "file_name": "NG Filing Ltr for Huntley Lockport 36-37 Part 102.pdf"
+    }
+  ]
+}

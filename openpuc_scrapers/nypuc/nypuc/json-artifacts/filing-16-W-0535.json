@@ -1,0 +1,104 @@
+{
+  "case": "16-W-0535",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AADE3063-C4F1-4C5C-8B5A-0C1322333FB2}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "8",
+      "docket_id": "16-W-0535",
+      "file_name": "Letter to Secretary.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/19/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59F67F2D-2CA6-4067-B8A2-DBB494EE1354}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-W-0535",
+      "file_name": "463 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8115A48-4F72-4C65-8762-29B8AF44908D}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-W-0535",
+      "file_name": "463 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Ms. Bailey's email regarding the fire protection service and Saratoga Water Services, Inc's (SWS) tariff",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6217770C-E836-4476-B683-B85016431A0B}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "6",
+      "docket_id": "16-W-0535",
+      "file_name": "Response to PSC Racemark nov 3 2016.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Receipt of Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60EA8500-56F6-4DE4-8E61-D40D74B9D28A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "16-W-0535",
+      "file_name": "16-W-0535_AckLetter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4294F32B-DB30-4C3C-BB3E-357F80A87D4B}",
+      "organization": "Racemark International",
+      "itemNo": "4",
+      "docket_id": "16-W-0535",
+      "file_name": "Racemark10.17.16.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CED919CB-E4FE-46B2-A4EF-7628474C4F21}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-W-0535",
+      "file_name": "526701 Acknowledgement Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5770BC70-B6E2-48D6-A292-AB80BFEB05E8}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0535",
+      "file_name": "526701appeal.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8290ACF1-5231-4E6A-8E4F-B5DA07E36809}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-W-0535",
+      "file_name": "Racemark vs Saratoga Water FINAL.pdf"
+    }
+  ]
+}

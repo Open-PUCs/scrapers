@@ -1,0 +1,49 @@
+{
+  "case": "23-C-0448",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={300AF38B-0000-CB16-8269-3A07F89B0D37}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-C-0448",
+      "file_name": "562_23-C-0448 112123 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "ETC Application EDGE FIBERNET",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F09BFA89-0000-C83C-A7BD-30EF45E9EAE2}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0448",
+      "file_name": "ETC Application EDGE FIBERNET 8.15.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "EDGE FiberNet ETC Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F09BFA89-0000-CB13-8E45-69AEE12C4FC5}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0448",
+      "file_name": "EDGE FiberNet ETC Cover Letter 8.15.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "EDGE FiberNet Certif of Public Nec_Conv",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F09BFA89-0000-CD51-8DD2-88D0056FC70C}",
+      "organization": "EDGE FiberNet Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0448",
+      "file_name": "EDGE FiberNet Certif of Public Nec_Conv 11.18.pdf"
+    }
+  ]
+}

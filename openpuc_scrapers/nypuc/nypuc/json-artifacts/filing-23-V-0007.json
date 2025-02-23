@@ -1,0 +1,49 @@
+{
+  "case": "23-V-0007",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/14/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Close the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A8330C1-2BE2-419A-AE8C-9293FD059124}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0007",
+      "file_name": "22-02048, 22-02058, 22-02065 Sec Letter Closing Matters.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71FEB344-F303-487B-A970-D5225D15A0F0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "23-V-0007",
+      "file_name": "230208 Withdrawal Letter re Matter 22-02058.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02058 Letter to Building Owner_100 Convent Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A48E446-73EB-4F88-9868-E8B6FC3E5DE2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0007",
+      "file_name": "22-02058 Letter to Building Owner_100 Convent Ave.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 100 Convent Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18329D23-3128-46E6-8F22-6EA26729DCE2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0007",
+      "file_name": "221019-13 Petition (100 CONVENT AV) (Post-Survey).pdf"
+    }
+  ]
+}

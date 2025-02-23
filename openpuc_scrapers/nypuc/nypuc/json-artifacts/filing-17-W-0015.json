@@ -1,0 +1,71 @@
+{
+  "case": "17-W-0015",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/03/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D949564-D1BD-4216-8330-B89EA3DD046A}",
+      "organization": "Great Expectations LLC",
+      "itemNo": "5",
+      "docket_id": "17-W-0015",
+      "file_name": "Petition for Great Expectations_searchable.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Great Expectations LLC",
+      "itemNo": "4",
+      "docket_id": "17-W-0015",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendments to Loan Repayment Timeframe",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FE44BC6-D08C-4D66-942B-53B7CD9B9978}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-W-0015",
+      "file_name": "464_17-W-0015.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "REVISED Great Expectations Escrow Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F841529-AEFC-4809-87EB-93B0AA12D9A0}",
+      "organization": "Great Expectations LLC",
+      "itemNo": "2",
+      "docket_id": "17-W-0015",
+      "file_name": "17-W-0015.REVISED Great Expectations Escrow Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "REVISED Great Expectations Draft Escrow Statement No 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={880774A6-8B9A-4591-BE73-83FC525F52B9}",
+      "organization": "Great Expectations LLC",
+      "itemNo": "2",
+      "docket_id": "17-W-0015",
+      "file_name": "17-W-0015.REVISED.Great Expectations Draft Escrow Statement No 3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Great Expectations LLC to Amend the Repayment Timeframe.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={012A9EB1-3B0B-4137-857E-464682780090}",
+      "organization": "Great Expectations LLC",
+      "itemNo": "1",
+      "docket_id": "17-W-0015",
+      "file_name": "Great Expectations Escrow Tariff Documents.pdf"
+    }
+  ]
+}

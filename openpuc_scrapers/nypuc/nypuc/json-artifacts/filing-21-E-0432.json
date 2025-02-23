@@ -1,0 +1,115 @@
+{
+  "case": "21-E-0432",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Con Edison's Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F029BE8A-0000-CC31-91B8-43ADBDBBD75B}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "7",
+      "docket_id": "21-E-0432",
+      "file_name": "21-E-0432 et al - Response to Con Edison's filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F029BE8A-0000-C01E-AD1D-DBD02899058C}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "7",
+      "docket_id": "21-E-0432",
+      "file_name": "21-E-0432 et al - Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0B6AE8A-0000-C419-8629-7F000DE1A686}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-E-0432",
+      "file_name": "2023-09-19 CECONY Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "2023-09-19 CECONY Petition for Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B6AE8A-0000-C329-BB06-27E7941552F6}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-E-0432",
+      "file_name": "2023-09-19 CECONY Petition for Clarification.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80161E8A-0000-C413-BA87-583467DB661B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0432",
+      "file_name": "265_21-E-0432 et. al_Letter 8.22.23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80161E8A-0000-C539-839C-0590C31BDC10}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0432",
+      "file_name": "265_21-E-0432 et. al_Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AE5C3BD-B8E9-4396-AC29-875D823D6336}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0432",
+      "file_name": "Case 21-E-0432 Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={187D9A98-3BF9-41D4-8E4C-0A46C0F3D9D8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0432",
+      "file_name": "020242 Miguel Sosa Estates Ack.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43E6CE13-6A36-4AD6-95DC-277C0EC20C5C}",
+      "organization": "Miguel Sosa Estates, L.P./GRC Management",
+      "itemNo": "2",
+      "docket_id": "21-E-0432",
+      "file_name": "Appeal 020242.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0AE381A-97FE-4E4F-88BD-305F5C7E24F2}",
+      "organization": "Miguel Sosa Estates, L.P./GRC Management",
+      "itemNo": "1",
+      "docket_id": "21-E-0432",
+      "file_name": "IR 020240.pdf"
+    }
+  ]
+}

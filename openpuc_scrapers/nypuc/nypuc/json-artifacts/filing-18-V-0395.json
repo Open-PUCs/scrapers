@@ -1,0 +1,82 @@
+{
+  "case": "18-V-0395",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Motion to Compel",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5726AA01-A057-4663-94B9-9FD4AAD98085}",
+      "organization": "Town of Niskayuna",
+      "itemNo": "5",
+      "docket_id": "18-V-0395",
+      "file_name": "7.19.21 to NYSPSC re Town of Niskayuna v Charter Comm (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB15A898-BB97-4D11-84EA-A625C8B5BBDE}",
+      "organization": "Town of Niskayuna",
+      "itemNo": "4",
+      "docket_id": "18-V-0395",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Audit Exposure Calculation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={365EE20D-9DA2-46E7-A02D-EC754F3CA862}",
+      "organization": "Town of Niskayuna",
+      "itemNo": "4",
+      "docket_id": "18-V-0395",
+      "file_name": "Copy of T Niskayuna Audit Exposure Calculation.xlsx"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/07/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response regarding the Town of Niskayuna",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={612600BE-AFED-4D1A-B342-00CEA0398BF2}",
+      "organization": "Town of Niskayuna",
+      "itemNo": "3",
+      "docket_id": "18-V-0395",
+      "file_name": "8-7-18 Cover Letter to NYSPSC.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/07/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Niskayuna Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={328A0D2B-E9FD-48A1-B55A-48B7A3474F6F}",
+      "organization": "Town of Niskayuna",
+      "itemNo": "3",
+      "docket_id": "18-V-0395",
+      "file_name": "8-7-18 Niskayuna Response.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/30/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Response to Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C8741F0-C767-465F-B9E9-8FCAAF5A580A}",
+      "organization": "Charter Communications",
+      "itemNo": "2",
+      "docket_id": "18-V-0395",
+      "file_name": "Town of Niskayuna, NY - Cable Franchise Fee Agreement PDF Searchable.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/03/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint of Town of Niskayuna Against Time Warner Cable Concerning Cable Franchise Fee Agreement.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59C629FD-C183-4E39-ADF6-81F30C6D5BA5}",
+      "organization": "Town of Niskayuna",
+      "itemNo": "1",
+      "docket_id": "18-V-0395",
+      "file_name": "Complaint.pdf"
+    }
+  ]
+}

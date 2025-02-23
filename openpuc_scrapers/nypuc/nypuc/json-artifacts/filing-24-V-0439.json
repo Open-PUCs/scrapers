@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0439",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2080B592-0000-C61B-B84B-CCECBD721AA7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0439",
+      "file_name": "661_24-V-0439.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DFE590-0000-C494-89CA-07C385FD330C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0439",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Candor 7.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DFE590-0000-C617-8A4D-A597F94E20D1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0439",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Candor 7.24.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Candor-Request for Renewal and Certificate of Confirmation(redacted) 7.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DFE590-0000-CB5E-A931-6A65BE1CB042}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0439",
+      "file_name": "Charter Communications, T. Candor-Request for Renewal and Certificate of Confirmation(redacted) 7.24.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Candor Cover letter-Request for Renewal and Certificate of Confirmation 7.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DFE590-0000-C030-9317-5F5012B51F79}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0439",
+      "file_name": "Charter Communications, T. Candor Cover letter-Request for Renewal and Certificate of Confirmation 7.24.24.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0360",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FC9DC20-114E-4A8F-A8C7-CFFA7BC008A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0360",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Page 15",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDA9AE0C-C841-400A-8627-D1896DD55269}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0360",
+      "file_name": "NY.Red Creek Village FA Sig Pg 060719.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF12CEF4-96BD-48C6-89F5-2F76913E555C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0360",
+      "file_name": "060719 - V.Red Creek signature page w.visible sig filed w.PSC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Red Creek, Wayne County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AB1903B-0D11-4F99-A905-73195E857D5F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0360",
+      "file_name": "050719 - V. RED CREEK RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

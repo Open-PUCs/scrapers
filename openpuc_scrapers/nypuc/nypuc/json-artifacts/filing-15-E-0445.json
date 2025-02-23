@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0445",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "332731 Chau Ack Letter 07282015_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D07792DA-B315-434E-A519-EB2BA09C1CFC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "15-E-0445",
+      "file_name": "332731 Chau Ack Letter 07282015_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "332731 Chau Rehearing Request 07202015_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA9D887E-1478-4B1D-9EC0-F31A565B5A10}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "15-E-0445",
+      "file_name": "332731 Chau Rehearing Request 07202015_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "332731 Chau SMD Final 06162015_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AC988F-9ED9-4066-88A9-3508061AF020}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0445",
+      "file_name": "332731 Chau SMD Final 06162015_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F81BD828-553B-4BE8-9B52-3EDF68A31739}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0445",
+      "file_name": "332731 15-E-0445.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a rehearing petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26DA0CA1-37E7-4572-87CE-C161E1C89352}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "15-E-0445",
+      "file_name": "382_15-E-0445 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC70F850-96F6-40BD-999A-E7D5B58D7B94}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "15-E-0445",
+      "file_name": "382_15-E-0445 Determination.pdf"
+    }
+  ]
+}

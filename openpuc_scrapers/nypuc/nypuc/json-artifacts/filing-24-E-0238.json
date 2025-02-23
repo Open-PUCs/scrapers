@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0238",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "2023 Electric Safety Standards Performance Reports",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20913690-0000-C91D-8FB0-421767B5F8AD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0238",
+      "file_name": "301_24-E-0238 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Receives Update on Utility Electric Reliability and Gas Safety Standards",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0853690-0000-C918-BB11-B7A2EF1D3805}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-E-0238",
+      "file_name": "pr24052.pdf"
+    }
+  ]
+}

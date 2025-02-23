@@ -1,0 +1,27 @@
+{
+  "case": "23-M-0658",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2024",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "National Grid Updated AMI Bill Estimating Procedure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={608B5C91-0000-C41C-A17D-736E0271EDB4}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-M-0658",
+      "file_name": "08.16.24 National Grid Updated AMI Bill Estimating Procedure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation d/b/a National Grid for Approval of Advanced Metering Infrastructure Bill Estimation Procedures.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B088688B-0000-C41B-9939-4150CEA2B24B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-M-0658",
+      "file_name": "23-M-____ - National Grid AMI Bill Estimation Procedures.pdf"
+    }
+  ]
+}

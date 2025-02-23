@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0637",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CE472F3-20E7-45F0-9AF7-DE7EF496D93F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0637",
+      "file_name": "662_22-V-0637.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B0E63C4-CF7E-452E-85EA-77B443C73A10}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0637",
+      "file_name": "AUSA Newspaper Cover Letter - Union Vale, T..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Union Vale, T.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8ECAA8A0-0370-4C48-9DF5-35B58A3850F5}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0637",
+      "file_name": "AUSA Newspaper Affidavit - Union Vale, T..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57C61B99-78D1-46E9-8A9F-8627F667E28D}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0637",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Union Vale, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92E0F5A5-5A0E-48E6-B762-0C28B4DC19F6}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0637",
+      "file_name": "Exhibit IV - Union Vale, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD05B035-0BBD-4816-8904-666F2676F037}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0637",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD7664EB-394A-418D-9ED3-D3D4E8622D07}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0637",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05477BEC-1305-4A29-AECB-E07866D787A1}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0637",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={219EF945-DA8A-424C-BD68-E58C50FC01E6}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0637",
+      "file_name": "Application Cover Letter - Union Vale, T..pdf"
+    }
+  ]
+}

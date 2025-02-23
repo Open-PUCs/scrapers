@@ -1,0 +1,82 @@
+{
+  "case": "19-V-0390",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D06A701-77C3-41B3-A07B-0FD96AA0E641}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-V-0390",
+      "file_name": "19-V-0390 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BF72111-6E42-4DA3-A12E-EC615763B20B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0390",
+      "file_name": "201110 Letter re Matter 17-02708 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Verizon Suspension Request Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4505DB1A-3B0D-4FA0-A3B3-F06B2D230B9B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0390",
+      "file_name": "191007 VZ Letter re 28 Jefferson Av (suspension).pdf (54 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/23/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65DAF6F5-0E82-41E1-BB6E-E2623BB7A713}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0390",
+      "file_name": "17-02708 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 28 Jefferson Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={054A5394-9A0C-48B1-AD8F-E0051B2B13D2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0390",
+      "file_name": "Petition (28 Jefferson Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9B88641-79D1-49BA-914B-693D62424319}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0390",
+      "file_name": "Exhibit 2 (28 Jefferson Av).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9A3F631-4657-4554-8E14-85F1574C6481}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0390",
+      "file_name": "Exhibit 1 (28 Jefferson Av).pdf"
+    }
+  ]
+}

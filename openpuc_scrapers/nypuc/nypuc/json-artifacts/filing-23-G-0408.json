@@ -1,0 +1,71 @@
+{
+  "case": "23-G-0408",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={801AD08C-0000-C016-914A-EF85AAC14FD7}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0408",
+      "file_name": "166_23-G-0408_Letter final1324.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={801AD08C-0000-C53A-9C9F-5BF7EAFDA420}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0408",
+      "file_name": "166_23-G-0408_Determination_final1324.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Kendall Hall Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B39D89-0000-CB3D-A66A-81ADD1F5E021}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-G-0408",
+      "file_name": "23-G-0408 Con Edison Response to Kendall Hall Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/26/2023",
+      "nypuc_doctype": "Letters",
+      "name": "2023 06 30 Acknowledgement Letter Kendall Hall v Con Edison #144904",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50849389-0000-C619-A28D-88ACE8B7CED8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0408",
+      "file_name": "2023 06 30 Acknowledgement Letter Kendall Hall v Con Edison #144904.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/26/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "2023 06 27 Appeal of Informal Decision #144904",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20839389-0000-CC1A-80AD-CB3A3CA194BC}",
+      "organization": "Kendall Hall/Revona Properties",
+      "itemNo": "2",
+      "docket_id": "23-G-0408",
+      "file_name": "2023 06 27 Appeal of Informal Decision #144904.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/26/2023",
+      "nypuc_doctype": "Letters",
+      "name": "2023 06 27 Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20819389-0000-C610-9D6B-E739BE115048}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0408",
+      "file_name": "2023 06 27 Kendall_Hall-_Revona_Properties-URAC_vs_Con_Ed_Case_144904.pdf"
+    }
+  ]
+}

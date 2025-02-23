@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0553",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Request to Resolve Franchise Fee Dispute",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40600087-0000-C418-BFA4-1FE9F862AA49}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-V-0553",
+      "file_name": "661_22-V-0553 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correspondence re Pricing Changes for Fios Services",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFD93E73-42D1-4463-95F9-31467B220C18}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0553",
+      "file_name": "230125 Letter re Fios Pricing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/24/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Reply of Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CDBD837-D574-4477-AE6D-1580010E3D17}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "22-V-0553",
+      "file_name": "220824 Reply in Support of Oyster Bay Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/24/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment to Reply of Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E088F63A-629F-4C35-9572-4A03DFB6B356}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "22-V-0553",
+      "file_name": "Attachment.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Response of the Town of Oyster Bay New York to the Petition Complaint of Verizon New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19E37B96-1948-4BA0-B1EF-D9BE5906A2D7}",
+      "organization": "Town of Oyster Bay",
+      "itemNo": "2",
+      "docket_id": "22-V-0553",
+      "file_name": "Response of the Town of Oyster Bay New York to the Petition Complaint of Verizon New York.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. to Resolve a Dispute Concerning the Payment of Franchise Fees Pursuant to its Cable Television Franchise Agreement with the Town of Oyster Bay, New York. Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AF971EF-B0A0-447A-A504-13D61C5571AD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0553",
+      "file_name": "220712 Oyster Bay Petition (Exhibit B).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. to Resolve a Dispute Concerning the Payment of Franchise Fees Pursuant to its Cable Television Franchise Agreement with the Town of Oyster Bay, New York .Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={682DBB40-5010-415C-9E24-6A6C59C24E89}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0553",
+      "file_name": "220712 Oyster Bay Petition (Exhibit A).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500D21C1-D887-4FEB-B08E-62337AC3EC8B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0553",
+      "file_name": "220712 Oyster Bay Petition.pdf"
+    }
+  ]
+}

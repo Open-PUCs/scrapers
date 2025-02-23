@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0460",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5129A22-8D62-4F34-A62D-C0EA54DE9748}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0460",
+      "file_name": "663_21-V-0460.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00599 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={690467B6-AC07-4E58-BC03-9CE2041C5B4A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0460",
+      "file_name": "21-00599 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 255 4th Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={439EBEA8-2B9A-4FB5-9C57-17A2ACB09A0E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0460",
+      "file_name": "6-Petition (255 4 AV) (Complete).pdf"
+    }
+  ]
+}

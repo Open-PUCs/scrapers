@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0024",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Imposing Consequences",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CD79365-0B2B-42D9-8FFC-537B7C933179}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0024",
+      "file_name": "361_22-E-0024 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Notice of License Relinquishment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC5E7E7E-31BD-4758-9641-9494877A0321}",
+      "organization": "Liberty Power Holdings LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0024",
+      "file_name": "NY Notice of License Relinquishment.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF0519AC-AC63-4DCB-A019-5554B1267B7B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0024",
+      "file_name": "365_22-E-0024 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/16/2022",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Takes Action Against Four ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C086D18A-F5A0-4AF8-9331-AA8E36D07EF4}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "22-E-0024",
+      "file_name": "pr22024_esco action.pdf"
+    }
+  ]
+}

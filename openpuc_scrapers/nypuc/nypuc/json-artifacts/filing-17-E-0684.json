@@ -1,0 +1,126 @@
+{
+  "case": "17-E-0684",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52706685-8E24-46A9-84AB-164F6C38FB96}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0684",
+      "file_name": "17-E-0684-BrunsAssoc.LLC-Extension Ruling-11-21-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CF9D8CC-868A-4F4A-B138-2F9734AB8DFA}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0684",
+      "file_name": "Case 17-E-0684_Letter to Secretary re extension request of in-service meter test form filing deadline.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCC01056-8356-4A48-ACA7-B326F9BF7A74}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0684",
+      "file_name": "Case 17-E-0684_Updated Submetering ID Form.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated Lease Rider 4852-4593-9050 v.1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02552D13-6265-4CE4-907D-7AA25FB2120F}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0684",
+      "file_name": "Case 17-E-0684_Updated Lease Rider 4852-4593-9050 v.1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated HEFPA Plan 4847-4196-7210 v.1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A590268A-D9BA-41E2-A446-17C71A7F3E8D}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0684",
+      "file_name": "Case 17-E-0684_Updated HEFPA Plan 4847-4196-7210 v.1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D563883-49BA-4C44-A702-2894B3AA7793}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0684",
+      "file_name": "Case 17-E-0684_Letter to Secretary Filing Updated Documents and Satisfiying Ordering Clause.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={305BD463-E403-4F01-8DC1-303144F515FE}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0684",
+      "file_name": "Case 17-E-0684_Certificate of Compliance-signed.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BFFEA1D-282C-4B00-AF17-C56B7F67D263}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0684",
+      "file_name": "366_ 17-E-0684.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7014A913-9EC6-47E9-9CF3-EDDCF2D7FC04}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0684",
+      "file_name": "Case_17-E-0684_Letter_to_Secretary_re__additional_information.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Bruns Associates, LLC to Submeter Electricity at 291 North Thompson Street, Rotterdam, Located in the Territory of Niagara Mohawk Power Corporation d/b/a National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D3A47B7-1510-482C-BBDD-911F471553F9}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0684",
+      "file_name": "Case 17-E-____ - Petition of Bruns Associates, LLC to Submeter Electricity at 291 N. Thompson St., Rotterdam, New York .pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1898A8F-5B27-4D23-A930-88DAE90652E7}",
+      "organization": "Bruns Associates, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0684",
+      "file_name": "Case_17-E-_____-_Cover_Letter_to_Secretary_Filing_Petition.pdf"
+    }
+  ]
+}

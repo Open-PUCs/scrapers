@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0249",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EED3388-D121-4AD5-9769-00CCF520C53F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0249",
+      "file_name": "667_21-V-0249 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Hornby Resolution to PSC-Corrected",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A48F9D2-E166-4270-8D0B-205E814AF62E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0249",
+      "file_name": "2021.06.15 Case 21-V-0249 Hornby Resolution to PSC-corrected.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Hornby, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC45F3A5-8F3B-4E02-AD37-6BCBC497010A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0249",
+      "file_name": "2021.04.22 T. HORNBY RENEWAL PSC FILED.pdf"
+    }
+  ]
+}

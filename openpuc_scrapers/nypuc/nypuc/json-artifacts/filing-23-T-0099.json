@@ -1,0 +1,71 @@
+{
+  "case": "23-T-0099",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Michael Kopansky, PWS, CE Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={705E1B8B-0000-C610-BA14-ECA4C0F6997A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-T-0099",
+      "file_name": "23-T-0099 - NYSEG Part 102 Letter.10.10.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Line 945 Part 102 Deficiency Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7029E689-0000-CC1B-8A2E-B6606A21560A}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "23-T-0099",
+      "file_name": "Case 23_T_0099 NYSEG Line 945 Part 102 Deficiency Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/24/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Michael Kopansky, PWS, CE Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00121587-0000-CA1E-ABDE-FE71D581C516}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-T-0099",
+      "file_name": "23-T-0099 - NYSEG - Deficiency Letter 3.24.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "L945 - Part 102 Final 1.25.23 - 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE209F9E-54EF-498F-AA1D-208F7AD3DDE6}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "23-T-0099",
+      "file_name": "L945 - Part 102_Final_1.25.23__2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "L945 - Part 102 Final 1.25.23 - 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C543929-5A0B-4C8A-B945-4BB86C5C8CA2}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "23-T-0099",
+      "file_name": "L945 - Part 102_Final_1.25.23__1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of New York State Electric & Gas Corporation Concerning the Proposed Construction of the Line 945 Electric Transmission Structure Replacement Project in Tompkins, Cortland, and Chenango Counties.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A69C098-FE4D-4CF4-8310-1700B9182AF9}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "23-T-0099",
+      "file_name": "NYSEG Line 945 Part 102 Cover Letter.pdf"
+    }
+  ]
+}

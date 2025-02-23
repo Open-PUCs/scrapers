@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0241",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/23/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64D7BAD1-3D44-407C-8FE5-49A1D5F4777E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0241",
+      "file_name": "663_17-V-0241.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Fenner, Madison County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4DE7D69-85C7-40F9-929A-E58C2224EC93}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0241",
+      "file_name": "FENNER, TOWN - RENEWAL DOCS SUBMITTED TO PSC, 05.01.17.pdf"
+    }
+  ]
+}

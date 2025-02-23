@@ -1,0 +1,27 @@
+{
+  "case": "18-E-0340",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED6B20A2-6BFD-4C31-A16C-40375DE0A035}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0340",
+      "file_name": "376_18-E-0340.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Greystone Realty Spring LLC to Submeter Electricity at 75 Spring Street, Located in the Territory of Consolidated Edison.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9097E49F-1BBD-426F-B03E-22DBACC03FD0}",
+      "organization": "Greystone Realty Spring LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0340",
+      "file_name": "75 Spring St_Petition to Submeter to PSC_6-5-18.pdf"
+    }
+  ]
+}

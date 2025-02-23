@@ -1,0 +1,71 @@
+{
+  "case": "22-G-0123",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Confirmation of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB3E4563-B57E-4968-A10D-36B0228B43B4}",
+      "organization": "The Brooklyn Union Gas Company",
+      "itemNo": "6",
+      "docket_id": "22-G-0123",
+      "file_name": "Case 22-G-0123 - Confirmation of Compliance - The Brooklyn Union Gas Company DBA National Grid.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE4F9BE4-4D0B-4EAD-AE5A-75626F3CC719}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0123",
+      "file_name": "165_22-G-0123 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D9868FE-90AF-4179-AB8B-EB257A388E05}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0123",
+      "file_name": "165_22-G-0123 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "163730 SMR ACK Letter Samuel 1_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={850234A9-80C7-48E5-9846-E26320EF4C7B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0123",
+      "file_name": "163730 SMR ACK Letter Samuel 1_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/01/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "163730 SMR Request Samuel_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6920F191-A902-4E19-A2C5-8AD61B7CF09D}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-G-0123",
+      "file_name": "163730 SMR Request Samuel_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "163730_Samuel_SMD_Final_01312022_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC6C6416-4AEB-46D2-953E-258DABA0A2B3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0123",
+      "file_name": "163730_Samuel_SMD_Final_01312022 (2)_Redacted.pdf"
+    }
+  ]
+}

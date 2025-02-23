@@ -1,0 +1,49 @@
+{
+  "case": "24-G-0068",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing and Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E92F92-0000-C43F-8F60-894A1E095E1D}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-G-0068",
+      "file_name": "161-C_24-G-0068.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/07/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240807 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E72D91-0000-C75F-A854-663BFB2A2069}",
+      "organization": "New York State Department of Public Service, Village of Mount Kisco Department of Public Works",
+      "itemNo": "5",
+      "docket_id": "24-G-0068",
+      "file_name": "20240807 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240405 - Petition for Rehearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0006AF8E-0000-CE13-A79E-FA39954D1C9E}",
+      "organization": "Village of Mount Kisco Department of Public Works",
+      "itemNo": "4",
+      "docket_id": "24-G-0068",
+      "file_name": "20240405 - Petition for Rehearing - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3031768E-0000-C31C-8C67-17ABD52F9525}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-G-0068",
+      "file_name": "161_24-G-0068.pdf"
+    }
+  ]
+}

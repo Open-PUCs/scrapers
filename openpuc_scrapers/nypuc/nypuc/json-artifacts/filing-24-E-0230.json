@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0230",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1002EC91-0000-CC1F-8D7E-906671977E47}",
+      "organization": "118 West 13th Street Owner LLC",
+      "itemNo": "4",
+      "docket_id": "24-E-0230",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60177691-0000-C511-B3CD-CFDC495E77A0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0230",
+      "file_name": "379_24-E-0230 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 118 West 13th Street, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80929790-0000-C31D-AE70-F7825FEEC45E}",
+      "organization": "118 West 13th Street Owner LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0230",
+      "file_name": "additional information (1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 118 West 13th Street Owner LLC to Submeter Electricity at 118 West 13th Street, New York, Located in the Service Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B03EE78E-0000-C91F-A8E2-0D03D8639AEF}",
+      "organization": "118 West 13th Street Owner LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0230",
+      "file_name": "submetering application (6).pdf"
+    }
+  ]
+}

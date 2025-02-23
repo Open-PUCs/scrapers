@@ -1,0 +1,71 @@
+{
+  "case": "22-G-0655",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Con Edison Residential Customer Payment and Meter Access Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CD5B8D-0000-C032-B3B6-6A8AB44C1624}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-G-0655",
+      "file_name": "Con Edison Residential Customer Payment an.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8095488B-0000-C91E-B931-2FA1C6077250}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0655",
+      "file_name": "162 - 22-G-0655 - Letter 101923.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8095488B-0000-C53F-8474-4755D94AAFD5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0655",
+      "file_name": "162 - 22-G-0655 - Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59DFC1E5-7735-4E4D-9A18-F5869EA16D75}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0655",
+      "file_name": "837452 Wycoff Medical Center ACK.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42702D82-3FEB-4007-982A-AB0FAEA26BB5}",
+      "organization": "Wycoff Heights Medical Center",
+      "itemNo": "2",
+      "docket_id": "22-G-0655",
+      "file_name": "837452-cust letter 7-30-22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6A03EAD-A614-4AFA-ABE2-78D1ED0BBA52}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0655",
+      "file_name": "837452 CLOSING LETTER (002).pdf"
+    }
+  ]
+}

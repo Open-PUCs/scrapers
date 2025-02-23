@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0036",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29F0E0F7-C3C6-468B-BF40-004CF05DBB7B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0036",
+      "file_name": "662_19-V-0036.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADC588A2-BC24-4072-B506-CDBF77A6F897}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0036",
+      "file_name": "New Castle Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Town of North Castle, Westchester County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={237C1C15-80E4-4E94-8FFD-66CF4D286750}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0036",
+      "file_name": "North Castle Renewal Petition (Complete).pdf"
+    }
+  ]
+}

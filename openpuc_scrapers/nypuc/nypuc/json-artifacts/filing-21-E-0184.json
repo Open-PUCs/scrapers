@@ -1,0 +1,115 @@
+{
+  "case": "21-E-0184",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C Village of Lowville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B92CBFFF-5ECB-4C00-8782-1271AB2FF3FA}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "21-E-0184",
+      "file_name": "Schedule C Village of Lowville.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/16/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A5B4281-92CF-4C41-A767-9E8A88363283}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "21-E-0184",
+      "file_name": "Village of Lowville Journal Entry Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FE962FD-4547-4B9F-B352-82B378B8D4CD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0184",
+      "file_name": "375_21-E-0184-Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58434EB6-09F8-4243-8E6C-212761719B60}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0184",
+      "file_name": "375 - 21-E-0184 - Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "SEAF Forms 2 and 3 with Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34D91690-F118-49DE-8A97-BD84167C51C2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0184",
+      "file_name": "21-E-0184 SEAF Forms 2 and 3 with Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6CA2ED17-E9C7-4DBC-882E-C37987217151}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-E-0184",
+      "file_name": "Lowville letter requesting confidentiality.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Lowville - Schedule C Workpaper",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07E4260B-823C-4A76-9BE5-F28EC373F77D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0184",
+      "file_name": "Village of Lowville - Schedule C Workpaper.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Work Papers for Village of Lowville Street Light Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8E32A4C-DC69-4EAE-80ED-F11F92EC0C5D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0184",
+      "file_name": "Schedule D Work Papers for Village of Lowville Street Light Sale.xlsx"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Lowville Section 70 Petition and Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A7418A1-3B6C-440B-88BF-7EF4C3E63065}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0184",
+      "file_name": "Lowville Section 70 Petition and Schedules.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4462E5CD-71BE-4322-8309-C0E96BB23720}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0184",
+      "file_name": "Lowville Section 70 cover letter.pdf"
+    }
+  ]
+}

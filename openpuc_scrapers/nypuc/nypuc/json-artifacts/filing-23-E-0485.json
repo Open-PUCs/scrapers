@@ -1,0 +1,104 @@
+{
+  "case": "23-E-0485",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9010878F-0000-C111-BA62-9B7F32E223D2}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0485",
+      "file_name": "440 Hamilton Developer LLC - Certificate of Compliance & Updated Documents Cover Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "440 Hamilton - Updated Submeterer Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9010878F-0000-C354-B179-023F3D92327C}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0485",
+      "file_name": "440 Hamilton - Updated Submeterer Identification Form.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "440 Hamilton - Updated Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9010878F-0000-CF79-B1E0-1D2153F00885}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0485",
+      "file_name": "440 Hamilton - Updated Lease Rider.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "440 Hamilton - Updated HEFPA Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9010878F-0000-C192-A8EE-8FC7A972D92A}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0485",
+      "file_name": "440 Hamilton - Updated HEFPA Plan.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "440 Hamilton - Certificate of Complaince",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9010878F-0000-CF39-9DAE-0020E3CDBDFA}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0485",
+      "file_name": "440 Hamilton - Certificate of Complaince.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70095D8E-0000-CB10-8D65-1C321BBE245F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0485",
+      "file_name": "375_23-E-0485 .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "440 Hamilton Avenue - Function Satisfaction Request Withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A07ECC8D-0000-CF1F-9BC3-3ED79C04CA79}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0485",
+      "file_name": "440 Hamilton Avenue - Function Satisfaction Request Withdrawal.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D072428A-0000-C331-B9D7-9CAA435852B7}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0485",
+      "file_name": "Petition to Submeter Cover Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "440 Hamilton - Petition to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D072428A-0000-C015-8A34-AD218CD235B6}",
+      "organization": "440 Hamilton Developer LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0485",
+      "file_name": "440 Hamilton - Petition to Submeter (4880-0972-6332 1) (002).pdf"
+    }
+  ]
+}

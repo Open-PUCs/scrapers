@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0196",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E317687F-64B2-412F-B610-850FDAFBDEE4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0196",
+      "file_name": "662_22-V-0196.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00242 Letter to Building Owner 2.17.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3114C9D5-A98A-42F0-9F30-F47A7ED9622D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0196",
+      "file_name": "22-00242 Letter to Building Owner 2.17.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 572 West 141st Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D640F3A0-0185-4B9A-8F78-BE51B393EFFF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0196",
+      "file_name": "220128-13 Petition (572 W 141 ST) (Post-Survey).pdf"
+    }
+  ]
+}

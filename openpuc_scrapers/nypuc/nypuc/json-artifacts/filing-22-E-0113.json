@@ -1,0 +1,38 @@
+{
+  "case": "22-E-0113",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Certificate of Public Convenience and Necessity, Providing for Lightened Regulation, and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7AAC991C-FC45-416B-9E33-7900F586D601}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0113",
+      "file_name": "376_21-E-0502 et. al final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Amber US Investments Holdings, LLC, Hudson Energy Enterprises LLC, and DESRI Flint Mine Development, L.L.C., for a Declaratory Ruling that No Further Review of Upstream Ownership Transfer is Required or For Approval Under Public Service Law Section 70.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A02879F-D828-4845-AF2F-3370830CD3BB}",
+      "organization": "Amber US Investments Holdings, LLC, DESRI Flint Mine Development, L.L.C., Hudson Energy Enterprises LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0113",
+      "file_name": "Final Joint Petition for Section 70 DR or Approval.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={373F4871-4569-44CC-982A-AACC2799B32D}",
+      "organization": "Amber US Investments Holdings, LLC, DESRI Flint Mine Development, L.L.C., Hudson Energy Enterprises LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0113",
+      "file_name": "220222 Ltr to Secretary filing Joint Petition for DR.pdf"
+    }
+  ]
+}

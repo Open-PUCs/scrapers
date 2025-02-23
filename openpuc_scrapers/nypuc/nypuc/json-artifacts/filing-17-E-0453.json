@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0453",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering ID_1 Blue Slip (8.18.23)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D7098A-0000-CB18-A15B-E5E0B60FA908}",
+      "organization": "BOP Greenpoint G LLC",
+      "itemNo": "6",
+      "docket_id": "17-E-0453",
+      "file_name": "Submetering ID_1 Blue Slip (8.18.23).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5C85865-02D7-4EE6-8EBA-9CC4F88C8ABD}",
+      "organization": "BOP Greenpoint G LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0453",
+      "file_name": "compliance letter 5-16-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C7870D2-5C6C-4D5A-918A-827B9D231C96}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0453",
+      "file_name": "367_17-E-0453.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={805CEC96-6351-4F52-914B-498E10E4F980}",
+      "organization": "BOP Greenpoint G LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0453",
+      "file_name": "response letter 11-6-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/27/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA016A56-F39A-40F0-BC29-E464C98CBFBB}",
+      "organization": "BOP Greenpoint G LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0453",
+      "file_name": "response letter 7-27-17.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of BOP Greenpoint G LLC to Sub-Meter Electricity at 37 Blue Slip, Brooklyn, New York 11222, Located in the Territory of Consolidated Edison.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={546D96A1-0D64-4D8E-A1FB-E3C1DC7FEBF8}",
+      "organization": "BOP Greenpoint G LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0453",
+      "file_name": "submetering application 7-24-17.pdf"
+    }
+  ]
+}

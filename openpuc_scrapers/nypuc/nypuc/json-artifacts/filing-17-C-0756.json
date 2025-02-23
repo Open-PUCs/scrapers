@@ -1,0 +1,38 @@
+{
+  "case": "17-C-0756",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "ConvergeOne - New York Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98232893-DA3C-4BF7-AB3E-3DDEAB8E756E}",
+      "organization": "ConvergeOne, Inc., RGT Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-C-0756",
+      "file_name": "ConvergeOne - New York Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/18/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0AC501A-2C39-480C-9BAF-6BC225C898C8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-C-0756",
+      "file_name": "561_17-C-0756.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of RGT Utilities, Inc. for Approval of a Pro Forma Change in its Indirect Ownership.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E9E37AC-F107-4CA4-ACCE-AB2E3846645A}",
+      "organization": "RGT Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0756",
+      "file_name": "RGT Utilities Petition_12_1_2017.pdf"
+    }
+  ]
+}

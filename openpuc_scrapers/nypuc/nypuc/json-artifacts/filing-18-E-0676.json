@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0676",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0676 Blakeman Ack Letter 11022018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65004DB2-8724-40EF-BE19-A4EAB9BEBDCF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0676",
+      "file_name": "18-E-0676 Blakeman Ack Letter 11022018_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0676 Blakeman Rehearing Request 11012018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF97A5EB-B081-4713-B99C-0F1F6781AFEB}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0676",
+      "file_name": "18-E-0676 Blakeman Rehearing Request 11012018_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0676 Blakeman SMD Final 10052018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDEFDEBA-23AE-4454-8F4D-0424581E7937}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0676",
+      "file_name": "18-E-0676 Blakeman SMD Final 10052018_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F912FBFF-E760-45EB-9340-766AAD83E55E}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0676",
+      "file_name": "365 Letter_Redacted.pdf"
+    }
+  ]
+}

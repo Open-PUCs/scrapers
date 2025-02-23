@@ -1,0 +1,38 @@
+{
+  "case": "22-C-0437",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/30/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "BAI-ZenFi - New York PSC Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4D0901D-05E6-431C-A41C-0AFA85F0C82A}",
+      "organization": "BAI Communications US Holdings II LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0437",
+      "file_name": "BAI-ZenFi - New York PSC Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01508 ZenFi Networks OOL Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CAAF0D4-8206-4C87-8C43-B02A71150B5B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0437",
+      "file_name": "22-01508 ZenFi Networks OOL Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of ZenFi Networks, LLC and BAI Communications US Holdings II LLC for Authority for a Change of Control of ZenFi Networks, LLC and Cross River Fiber LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={353F822A-E443-47BC-BD72-741778365500}",
+      "organization": "BAI Communications US Holdings II LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0437",
+      "file_name": "BAI-ZenFi - New York PSC Petition.pdf"
+    }
+  ]
+}

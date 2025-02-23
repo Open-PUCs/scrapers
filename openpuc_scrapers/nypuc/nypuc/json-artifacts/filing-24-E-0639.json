@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0639",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgment Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0713093-0000-CE15-A339-EA090BDF50B7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0639",
+      "file_name": "24-E-0639 Acknowledgment Letter Central Hudson v Fredrick_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Attachment 1 11 10 2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50312693-0000-C43A-964D-55402CD7DA94}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0639",
+      "file_name": "Attachment 1 11 10 2024.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Decision 11 10 2024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50312693-0000-C324-8899-5E772DB83950}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0639",
+      "file_name": "Appeal of Decision 11 10 2024_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Letters",
+      "name": "415816_Informal_Review_Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B02D2693-0000-CF19-A529-F17EF0F856EB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0639",
+      "file_name": "415816_Informal_Review_Decision_Redacted.pdf"
+    }
+  ]
+}

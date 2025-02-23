@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0062",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73BB8FC7-D89A-43D0-B72A-557D4B0AB7AB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0062",
+      "file_name": "364_20-E-0062 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter in Support of the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B46CEA6-5A94-4B1A-AEF5-2E7849D30450}",
+      "organization": "Multiple Intervenors",
+      "itemNo": "2",
+      "docket_id": "20-E-0062",
+      "file_name": "Case 20-E-0062 - MI FTM Support Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "SAPA Form of Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84424574-B727-4FD6-A33C-D4184D57364A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0062",
+      "file_name": "SAPA Form of Notice_waiver petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation d/b/a National Grid for a Waiver of the Requirements of Section 6.2.2 of the Tariff and Flex Rate Order.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EFF6D7F-009A-4F3F-BEC8-D3A6B62D8A5C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0062",
+      "file_name": "Petition_Waiver_NG 2.5.2020.pdf"
+    }
+  ]
+}

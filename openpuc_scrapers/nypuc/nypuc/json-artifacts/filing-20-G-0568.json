@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0568",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B21A8E60-EB18-480F-B73E-4DC140277E8C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-G-0568",
+      "file_name": "165-B_20-G-0568.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F3DCF3-AE5B-440D-842B-C210CFAE0C80}",
+      "organization": "Alba Services Inc.",
+      "itemNo": "5",
+      "docket_id": "20-G-0568",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508F968E-2E9A-495E-8050-F1E8AA1FD1AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0568",
+      "file_name": "163-A_20-G-0568 final.pdf"
+    }
+  ]
+}

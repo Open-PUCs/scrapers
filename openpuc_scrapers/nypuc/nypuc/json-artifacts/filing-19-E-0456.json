@@ -1,0 +1,38 @@
+{
+  "case": "19-E-0456",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EB63654-DC59-4DD6-B634-9C20AF2AC0AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0456",
+      "file_name": "362_19-E-0456 19-E-0457.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/12/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavits of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81DCB020-77A8-42B9-A79B-1F92995CE80F}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0456",
+      "file_name": "OR Smart Home Rates Affidavits of Publication 081219.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0456",
+      "file_name": ""
+    }
+  ]
+}

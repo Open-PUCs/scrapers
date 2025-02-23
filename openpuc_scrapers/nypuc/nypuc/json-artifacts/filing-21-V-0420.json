@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0420",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EEF632F-F317-4C66-BDCE-32480E751EC9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0420",
+      "file_name": "665_21-V-0420 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00293 Letter to Building Owner Property at 545 Warren Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F5EB20B-473B-450A-BFFA-74AD3B0895F3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0420",
+      "file_name": "21-00293 Letter to Building Owner Property at 545 Warren Street.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 545 Warren Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95839ECE-FD52-4ECD-B066-2E06CDEEA57B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0420",
+      "file_name": "10-Petition (545 WARREN ST) (Complete).pdf"
+    }
+  ]
+}

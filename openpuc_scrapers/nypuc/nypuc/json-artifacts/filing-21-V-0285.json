@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0285",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97202C74-32D4-40F9-804F-4E45F500985A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0285",
+      "file_name": "667_21-V-0285 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/10/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Brocton, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B78F8D4A-8EB9-469A-8C1F-152E8A0FAF34}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0285",
+      "file_name": "2021.05.10 V. BROCTON PSC RENEWAL FILING.pdf"
+    }
+  ]
+}

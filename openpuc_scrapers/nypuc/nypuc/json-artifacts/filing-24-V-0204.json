@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0204",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90799C8F-0000-CD38-83C5-FC77AC22C943}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0204",
+      "file_name": "663_24-V-0204_52124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E2A48E-0000-C536-82F3-20DCE362F6CA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0204",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Nichols Letter 4.3.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10E2A48E-0000-C017-8C93-6398A4CC0968}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0204",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Nichols Letter 4.3.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Nichols Cover Letter- Request for Renewal and Certificate of Confirmation 4.3.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E2A48E-0000-CA50-9F30-8BC511785263}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0204",
+      "file_name": "Charter Communications, T. Nichols Cover Letter- Request for Renewal and Certificate of Confirmation 4.3.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Nichols - Request for Renewal and Certificate of Confirmation(redacted) 4.3.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E2A48E-0000-C072-B600-EA191CC2004B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0204",
+      "file_name": "Charter Communications, T. Nichols - Request for Renewal and Certificate of Confirmation(redacted) 4.3.24.pdf"
+    }
+  ]
+}

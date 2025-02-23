@@ -1,0 +1,115 @@
+{
+  "case": "22-V-0355",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C99D68F-E956-44CD-AEE7-1B03AC931FC9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-V-0355",
+      "file_name": "662_22-V-0355 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/27/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E14AFB80-B224-45D5-9064-7C3927E30E25}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "22-V-0355",
+      "file_name": "Correction Items Town of Windsor 2022 NYPSC Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Windsor Town Revised Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C07CC60-8516-4D7F-908A-1934BB222EEB}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "22-V-0355",
+      "file_name": "Windsor Town Revised Resolution 20220623.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Windsor Town Legal Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E311698-23EC-4145-9EA6-DE7817B6643F}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "22-V-0355",
+      "file_name": "Windsor Town Legal Notice 20220720.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/27/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AE967B1-A2C9-4BCA-8945-0584AB810AD2}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "2",
+      "docket_id": "22-V-0355",
+      "file_name": "Adams CATV, Inc..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Windsor Town Legal Notice 20220525",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D620D2D-F7E8-4C90-A8A6-88A9051FBA72}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0355",
+      "file_name": "Windsor Town Legal Notice 20220525.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Windsor Town Legal Notice 20220330",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B178706B-270F-403B-83F5-E33ADEED031D}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0355",
+      "file_name": "Windsor Town Legal Notice 20220330.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Windsor Resolution 2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7510823-A33F-4EC6-B87E-07C5E3F0EE7A}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0355",
+      "file_name": "Town of Windsor Resolution 2022.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Windsor Franchise Agmt Signed 2022-compressed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7D4BFF3-4E30-47B9-A4CE-639376A55117}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0355",
+      "file_name": "Town of Windsor Franchise Agmt Signed 2022-compressed.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Windsor 2022 NYPSC Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DF45370-C748-4DEA-8E44-993BCAE43B0C}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0355",
+      "file_name": "Town of Windsor 2022 NYPSC Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "22-C-0138",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7C71C9C-939A-4975-9466-7BC674533072}",
+      "organization": "Greenlight Intermediate II, Inc.",
+      "itemNo": "3",
+      "docket_id": "22-C-0138",
+      "file_name": "Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Indirect Control and Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C88E6298-F49B-4412-ADD1-4CA708C51262}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-C-0138",
+      "file_name": "563_22-C-0138.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "NY Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EE84852-DEDF-4DBD-A615-8E9BCD32BF84}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Intermediate II, Inc., Greenlight Networks, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0138",
+      "file_name": "NY Transmittal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "NY Transfer & Financing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79BC305A-1675-4170-95B8-58EFCCF682EB}",
+      "organization": "Grand Oaks GLN, LLC, Greenlight Intermediate II, Inc., Greenlight Networks, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0138",
+      "file_name": "NY Transfer & Financing Petition.pdf"
+    }
+  ]
+}

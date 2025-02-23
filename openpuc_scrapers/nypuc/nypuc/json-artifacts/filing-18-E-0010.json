@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0010",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0544CCA6-D85D-4273-B574-F13CD5A447DE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0010",
+      "file_name": "376_18-E-0010 Confirming Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Transfer on an Emergency Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5EEA5B8-2F56-436B-8E56-CD5EF6B7CC81}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0010",
+      "file_name": "18-E-0010 OCO on Transfer.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3990BCB-0A1C-4FF7-B440-0D94AC6C6267}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0010",
+      "file_name": "SEAF.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Orange and Rockland Utilities, Inc. for Sale of Transformers to Nobel Supply & Logistics in Connection with the Puerto Rico Relief Effort and for Expedited Relief.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06FA802-1306-4FD0-9946-7F1259EAB82D}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0010",
+      "file_name": "Section 70 Puerto Ricl 14.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Emergency SAPA Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F941DC8-99E5-4539-89A4-6E9CEAEF6E85}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0010",
+      "file_name": "Emergency SAPA Notice (2).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Draft Sales Agreement--PR Transformers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9325142A-D2AA-4B13-B4DF-FECE3FF0BB14}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0010",
+      "file_name": "Draft Sales Agreement--PR Transformers.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0445",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23FE737F-486D-4CB1-8359-B8D609F2D120}",
+      "organization": "417 East Realty Limited Partnership",
+      "itemNo": "2",
+      "docket_id": "21-E-0445",
+      "file_name": "Letter of Withdrawal- 417 East 57th Street.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Submeter Electricity",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1951A143-A3A9-495E-9945-233DE288AE2F}",
+      "organization": "417 East Realty Limited Partnership",
+      "itemNo": "1",
+      "docket_id": "21-E-0445",
+      "file_name": "Petition to Submeter Electricity.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibits to 417 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE52FA9B-FD60-4AE3-9CE9-43A17D862F66}",
+      "organization": "417 East Realty Limited Partnership",
+      "itemNo": "1",
+      "docket_id": "21-E-0445",
+      "file_name": "Exhibits to 417 Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={520BE909-9626-4022-81FC-A5DB304FE8A6}",
+      "organization": "417 East Realty Limited Partnership",
+      "itemNo": "1",
+      "docket_id": "21-E-0445",
+      "file_name": "Cover letter.pdf"
+    }
+  ]
+}

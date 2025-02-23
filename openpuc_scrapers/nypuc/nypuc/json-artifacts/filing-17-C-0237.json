@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0237",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2017",
+      "nypuc_doctype": "Letters",
+      "name": "17-00883.Broadview.Letter Only",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE522FEC-7AF4-4C23-9A37-53876916492E}",
+      "organization": "Broadview NP Acquisition Corp. d/b/a Broadview Net Plus",
+      "itemNo": "3",
+      "docket_id": "17-C-0237",
+      "file_name": "17-00883.Broadview.Letter Only.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={885FE9C7-BE7E-4704-8349-9664548342DE}",
+      "organization": "Broadview NP Acquisition Corp. d/b/a Broadview Net Plus, Broadview Networks Holdings, Inc., Broadview Networks, Inc., Windstream Holdings, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0237",
+      "file_name": "Windstream-Broadview.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Windstream-Broadview Joint Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD899931-CA72-48B5-ACA1-4D9D9E0DC4A5}",
+      "organization": "A.R.C. Networks, Inc., ATX Licensing, Inc., Bridgecom International, Inc., Broadview NP Acquisition Corp. d/b/a Broadview Net Plus, Broadview Networks Holdings, Inc., Broadview Networks, Inc., Eureka Telecom, Inc., TruCom Corporation, Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0237",
+      "file_name": "Windstream-Broadview_Joint Application042617.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of the Joint Application of Broadview Networks Holdings, Inc., and Broadview Networks, Inc., Broadview NP Acquisition Corp., BridgeCom International, Inc., ATX Licensing, Inc., A.R.C. Networks, Inc., Eureka Telecom, Inc., and TruCom Corporation, and Windstream Holdings, Inc. for Approval to Transfer Indirect Control of Broadview Licensees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D6222E6-12F3-4263-8643-3008DB3EA8ED}",
+      "organization": "A.R.C. Networks, Inc., ATX Licensing, Inc., Bridgecom International, Inc., Broadview NP Acquisition Corp. d/b/a Broadview Net Plus, Broadview Networks Holdings, Inc., Broadview Networks, Inc., Eureka Telecom, Inc., TruCom Corporation, Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0237",
+      "file_name": "NYPSC Cover Letter_04272017.pdf"
+    }
+  ]
+}

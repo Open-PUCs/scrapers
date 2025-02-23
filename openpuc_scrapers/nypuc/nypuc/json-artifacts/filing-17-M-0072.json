@@ -1,0 +1,60 @@
+{
+  "case": "17-M-0072",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/13/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Intra-Corporate Reorganization",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71A698D8-E4DE-4255-B8DC-D978E5887704}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-M-0072",
+      "file_name": "268_17-M-0072.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/03/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={910A536D-9AF8-42EF-83D8-650E787C1EBE}",
+      "organization": "Phillips Lytle LLP",
+      "itemNo": "2",
+      "docket_id": "17-M-0072",
+      "file_name": "#112564-v1-Filing Letter - Affidavit of Service 2.3.2017-C2.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/03/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3CBA9B3-1C58-4EB2-8A6D-444321A67F55}",
+      "organization": "Phillips Lytle LLP",
+      "itemNo": "2",
+      "docket_id": "17-M-0072",
+      "file_name": "#112563-v1-Affidavit of Service-C2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Red-Rochester, LLC, RED Investment, LLC, and Ironclad Energy Partners LLC for a Declaratory Ruling Regarding an Intra-Corporate Restructuring.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DB8EC06-1C49-422E-88D8-B63F2C00BB12}",
+      "organization": "Ironclad Energy Partners LLC, RED Investment, LLC, Red-Rochester, LLC",
+      "itemNo": "1",
+      "docket_id": "17-M-0072",
+      "file_name": "Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={183D3285-1C9C-4D2B-A8F4-1472161A98D1}",
+      "organization": "Ironclad Energy Partners LLC, RED Investment, LLC, Red-Rochester, LLC",
+      "itemNo": "1",
+      "docket_id": "17-M-0072",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

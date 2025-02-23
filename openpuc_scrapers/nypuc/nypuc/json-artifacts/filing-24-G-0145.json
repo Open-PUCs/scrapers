@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0145",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "2023 Pipeline Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={108E3690-0000-CE1F-9B20-DFAC3C79242C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0145",
+      "file_name": "101_24-G-0145 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Receives Update on Utility Electric Reliability and Gas Safety Standards",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80863690-0000-CF3C-8CAC-FBCDE53475AD}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-G-0145",
+      "file_name": "pr24052.pdf"
+    }
+  ]
+}

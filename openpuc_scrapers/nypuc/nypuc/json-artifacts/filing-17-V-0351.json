@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0351",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C743CF5-2428-4542-BB08-96E5CDAA1528}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0351",
+      "file_name": "661_17-V-0351.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Black River, County of Jefferson, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9573ACD-3CAF-4507-9B30-7EE2E2A019B1}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0351",
+      "file_name": "6 16 17 V Black River_Charter PSC Cable Franchise Application.pdf"
+    }
+  ]
+}

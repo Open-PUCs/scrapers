@@ -1,0 +1,115 @@
+{
+  "case": "16-G-0203",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/16/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Certificates of Public Convenience and Necessity",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={741EB4BB-E24D-4C2B-86BC-B16453C568D0}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "16-G-0203",
+      "file_name": "161_16g0203.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/09/2016",
+      "nypuc_doctype": "Transcripts",
+      "name": "16-G-0203 16-G-0256 Proc Conf 5.19.16 Canton 7 pm",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6BAAD8B-21CA-4C42-9212-620E3A48B137}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "16-G-0203",
+      "file_name": "16-G-0203 16-G-0256 Proc Conf 5.19.16 Canton 7 pm.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/09/2016",
+      "nypuc_doctype": "Transcripts",
+      "name": "16-G-0203 16-G-0256 PSH Transcript 5.19.16 Canton 615 pm",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5924D83-6665-4DAA-9881-86AAE77CD870}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "16-G-0203",
+      "file_name": "16-G-0203 16-G-0256 PSH Transcript 5.19.16 Canton 615 pm.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/24/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Procedural Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={051D9A11-4D33-4845-80E8-7F56FE242AE8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-G-0203",
+      "file_name": "16g0203 16g0256 Procedural Ruling.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dekalb Supplement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AC561CF-0A90-4CD3-BBD9-45D5CD0F89F3}",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-G-0203",
+      "file_name": "Dekalb Supplement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "DeKalb Signed Affidavit Grant & Ferrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67180901-786A-46FB-AEC0-B6A7A3DAB60C}",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-G-0203",
+      "file_name": "DeKalb Signed Affidavit_GrantFerrier.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/27/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Public Statement Hearing and Procedural Conference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F2E76B3-4269-45EE-8AEF-CCBCCDCFCD87}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-G-0203",
+      "file_name": "16g0203_Notice of Public Statement Hearing and Procedural Conference.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/20/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Deficiency Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E2FE7A2-476E-4F2F-8908-8F497707FC50}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-G-0203",
+      "file_name": "16-G-0203 Deficiency Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of St. Lawrence Gas Company, Inc. under Section 68 of the Public Service Law to Renew a Gas Franchise with the Town of Dekalb, St. Lawrence County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A8BE803-1BC9-4BAE-B612-39870A80DA6D}",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0203",
+      "file_name": "PSC - Town of DeKalb.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={900AC608-4455-4607-9A5F-2AD5954A8D16}",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0203",
+      "file_name": "Burgess Franchise ltr.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0267",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additoanal information 10-31-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907FE392-0000-CC2D-90EA-6B45F5A3E5E7}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0267",
+      "file_name": "Additoanal information 10-31-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 498 Sackett Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0520B8E-0000-CC1F-B70E-15275A47226C}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0267",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80C28D8C-0000-C713-AAD3-D28B681FBB07}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0267",
+      "file_name": "369_23-E-0267_122123 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/01/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0A3B289-0000-CB13-AAA7-0681F1EE1EE1}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0267",
+      "file_name": "additional information requested.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0F2E888-0000-C410-B5E6-4AB96E86B4F1}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0267",
+      "file_name": "additional information 6-23-23 (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application (16)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301D2588-0000-CF13-91C6-7A71229F44FD}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0267",
+      "file_name": "submetering application (16).pdf"
+    }
+  ]
+}

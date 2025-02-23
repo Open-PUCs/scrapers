@@ -1,0 +1,60 @@
+{
+  "case": "17-V-0719",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB32FD94-17E7-484C-B373-3A3F24FFBF8E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0719",
+      "file_name": "661_17-V-0719.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F957AB9E-F352-449B-A8C1-F1066D810A89}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0719",
+      "file_name": "17-00793 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 248 Audubon Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECB480BC-717F-44E2-B436-3091A964545C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0719",
+      "file_name": "170420 Petition re 248 Audubon Av.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45AE7B6D-21F9-40E2-9BF6-0B56C8C3B881}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0719",
+      "file_name": "Exhibit 2 (248 Audubon Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D2AFA27-F8DB-439E-93F1-9EBB74B66F5B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0719",
+      "file_name": "Exhibit 1 (248 Audubon Av).pdf"
+    }
+  ]
+}

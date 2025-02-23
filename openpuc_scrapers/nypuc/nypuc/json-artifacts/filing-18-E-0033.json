@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0033",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0033 Calderone Ack Letter 01182018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07AFA13F-55B7-456A-A411-447331A25962}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0033",
+      "file_name": "18-E-0033 Calderone Ack Letter 01182018_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0033 Calderone Rehearing Request 01162018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDFF09E3-3207-4D10-826C-619DAE592FA3}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0033",
+      "file_name": "18-E-0033 Calderone Rehearing Request 01162018_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0033 Martinez SMD Final 12202017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A71E069-410C-4944-9722-264250464A84}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0033",
+      "file_name": "18-E-0033 Martinez SMD Final 12202017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={866940F0-CC40-4644-A48E-1A67D0284A64}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0033",
+      "file_name": "362 Letter_Redacted.pdf"
+    }
+  ]
+}

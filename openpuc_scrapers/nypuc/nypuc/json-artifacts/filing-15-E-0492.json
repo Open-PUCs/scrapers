@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0492",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD178ACC-2A7E-4D32-8513-62A077420368}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0492",
+      "file_name": "366_15-E-0492 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/17/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7D7F0F4-9226-4ADC-9C11-36E71DAF4C49}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0492",
+      "file_name": "366_15-E-0492 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Request for ext to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CDB907D-7A88-41F4-BAC3-DA7847C0D3FB}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-E-0492",
+      "file_name": "Request for ext to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={258B3C85-ABD3-4964-89AF-EF0D4F4C53E5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "15-E-0492",
+      "file_name": "Informal Review Decision.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A37017CC-B28F-4A5C-AC54-7B87F4553F1C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0492",
+      "file_name": "Letter Granting Extension.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Letters",
+      "name": "CE vs Grenadier et al. Appeal Ack Ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDC78961-7881-4F89-A9F4-94E29E2126B0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-E-0492",
+      "file_name": "CE vs Grenadier et al. Appeal Ack Ltr.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of IR decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C652B706-CC08-4D19-A585-FC6C1E3810AC}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0492",
+      "file_name": "Appeal of IR decision.pdf"
+    }
+  ]
+}

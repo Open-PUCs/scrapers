@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0284",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C0B3D1C-B827-42BF-930A-A6C5E2678405}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0284",
+      "file_name": "663_20-V-0284 Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Brushton, Franklin County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98B7C472-4E7A-4371-B34F-F7453638FBF7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0284",
+      "file_name": "06.11.20 BRUSHTON VLG RENEWAL SUBMISSION TO PSCke.pdf (6 MB)"
+    }
+  ]
+}

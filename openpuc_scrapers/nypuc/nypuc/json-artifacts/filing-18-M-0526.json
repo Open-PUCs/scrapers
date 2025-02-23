@@ -1,0 +1,27 @@
+{
+  "case": "18-M-0526",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/04/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28129373-61B0-4F8F-BA5B-DDE753D90AA1}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-M-0526",
+      "file_name": "Case 18-M-0526 Con Edison Response.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utility Rate Analysis Consultants for a Declaratory Ruling Concerning Proper Implementation of the Consumer Complaint Process as it Relates to 16 NYCRR 12.7 (b) (3).",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9D69BCF-B222-483B-94E7-1C6F3D4AA791}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "18-M-0526",
+      "file_name": "PetitionDeclaratoryRulingCopyInformalSubmissions.pdf"
+    }
+  ]
+}

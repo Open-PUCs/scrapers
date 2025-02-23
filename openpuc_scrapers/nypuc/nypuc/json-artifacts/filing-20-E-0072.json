@@ -1,0 +1,71 @@
+{
+  "case": "20-E-0072",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F611A8CB-13B1-4D8F-93AB-674745F77ACA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0072",
+      "file_name": "363_20-E-0072 Letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/06/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44DD31D7-A793-46D8-8136-FD556AF6F040}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-E-0072",
+      "file_name": "Case 20-E-0072 Con Edison Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7284CA50-1D3C-49B3-96D5-D70A16B9BE1A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0072",
+      "file_name": "969274 383-391 E 12 St LLC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DF42C5B-C564-44DE-A017-F5737D23E663}",
+      "organization": "383-391 E 12 Street LLC / Brown Harris Stevens",
+      "itemNo": "2",
+      "docket_id": "20-E-0072",
+      "file_name": "CoverLetterDeniedInformalAppeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D730FE9-4634-408A-B48C-779E6CEFDBBE}",
+      "organization": "383-391 E 12 Street LLC / Brown Harris Stevens",
+      "itemNo": "2",
+      "docket_id": "20-E-0072",
+      "file_name": "969274 383-391 W 12 Street LLC v Consolidated Edison Company Appeal of Denial of Informal Review .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={451C05D5-39FE-442E-9EE8-AE49C002A301}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0072",
+      "file_name": "969274 383-391 W 12 St IH denial.pdf"
+    }
+  ]
+}

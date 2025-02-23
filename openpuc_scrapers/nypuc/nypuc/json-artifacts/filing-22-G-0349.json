@@ -1,0 +1,71 @@
+{
+  "case": "22-G-0349",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/03/2023",
+      "nypuc_doctype": "Workpapers",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56B1C92E-C00D-4A4E-8A19-DA257216B9BC}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "22-G-0349",
+      "file_name": "87 Community Road Compliance Filing - Filing Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/03/2023",
+      "nypuc_doctype": "Workpapers",
+      "name": "87 Community Road Journal Entries and Workpapers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8EB9C4E-5114-4BE9-A21B-46F4729F835D}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "22-G-0349",
+      "file_name": "87 Community Road Journal Entries and Workpapers .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CDFB39F-9F2F-4639-BA02-172043085362}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0349",
+      "file_name": "162_22-G-0349 Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Real Property",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0072556D-805D-427E-82BD-E44FD14EB696}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0349",
+      "file_name": "162_22-G-0349.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Petition of KeySpan Gas East Corporation d/b/a National Grid for Approval, Pursuant to New York State Public Service LawSection 70, for the Transfer of Certain Property Located at 87 Community Road, Bay Shore, New York to Michael Murtha.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65B832DD-CD35-48DF-A860-914A1E108BD0}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-G-0349",
+      "file_name": "Petition and Exhibits_87 Community Road.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09626F86-C89D-4A56-B473-A3650AB35903}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-G-0349",
+      "file_name": "87 Community Road Filing Letter.pdf"
+    }
+  ]
+}

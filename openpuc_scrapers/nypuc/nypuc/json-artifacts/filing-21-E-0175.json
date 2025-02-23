@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0175",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Nazinitsky Ack Letter 03172021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65ABB248-D50C-4045-9643-A8FC560EC31D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-E-0175",
+      "file_name": "21-E-0175 Nazinitsky Ack Letter 03172021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Nazinitsky Rehearing Request 03162021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7AEEA038-FF2B-4627-8282-60CDB4841570}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-E-0175",
+      "file_name": "21-E-0175 Nazinitsky Rehearing Request 03162021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Nazinitsky SMD Final 03012021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B524925-08B7-4C2F-B8BC-8F90EE10F8FD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-E-0175",
+      "file_name": "21-E-0175 Nazinitsky SMD Final 03012021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C76B9FF-8C1E-49EC-BB4B-E4E246EC5CCD}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0175",
+      "file_name": "370_21-E-0175 Letter final_Redacted.pdf"
+    }
+  ]
+}

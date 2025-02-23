@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0035",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/13/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4AD7820-4007-424A-B2D3-83AA24243245}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0035",
+      "file_name": "161_22-G-0035 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E76C4FB0-155C-4919-95D0-F8B1B7B335FC}",
+      "organization": "AAA ESCO LLC",
+      "itemNo": "2",
+      "docket_id": "22-G-0035",
+      "file_name": "NYS PSC Submission.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BEACFEF-225A-4B88-A1C1-AB17BAD609A3}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "22-G-0035",
+      "file_name": "164_22-G-0035 final.pdf"
+    }
+  ]
+}

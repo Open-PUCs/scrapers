@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0457",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99847730-7203-4614-B178-82AD3282F5EA}",
+      "organization": "The Heritage Dean Street, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0457",
+      "file_name": "compliance letter 4-5-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={849D5DF9-46EC-4D0A-A874-2A3361B460B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0457",
+      "file_name": "370_17-E-0457.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3859DB3C-9A38-47B0-8DBE-3E5262FA153B}",
+      "organization": "The Heritage Dean Street, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0457",
+      "file_name": "response letter 11-6-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at the Building Located at 470 Dean Street, Brooklyn, New York 11217, Located in the Territory of Consolidated Edison Company of New York, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A07E6939-61ED-4101-8AEB-62DCB17E8D60}",
+      "organization": "The Heritage Dean Street, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0457",
+      "file_name": "submetering application 7-27-17.pdf"
+    }
+  ]
+}

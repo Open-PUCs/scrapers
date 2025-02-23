@@ -1,0 +1,60 @@
+{
+  "case": "15-E-0471",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG JE for Village of Horseheads SL Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8A9B23C-134F-481B-AE70-CBD16C17D7EC}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "15-E-0471",
+      "file_name": "NYSEG JE for Village of Horseheads SL Sale.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving the Sale of Certain Street Lighting Facilities to the Village of Horseheads",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4C70C99-10BD-485E-9737-14962B7C8E21}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0471",
+      "file_name": "363_15E0471.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/05/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5917F88-4E46-4AB3-93CF-7FE831FC6B3A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0471",
+      "file_name": "Signed EAF.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/24/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Request for Expedited Treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95D52D37-1654-4E4D-A98B-CACC37A2BE5F}",
+      "organization": "Village of Horseheads",
+      "itemNo": "2",
+      "docket_id": "15-E-0471",
+      "file_name": "Request for Expedited Treatment.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/14/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York State Electric & Gas Corporation for Approval of a Transfer or Lease of Property with an Original Cost of Over $100,000.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5103841-1568-488C-B56E-E7DC8D0A3043}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "15-E-0471",
+      "file_name": "Village of Horseheads Petition.pdf"
+    }
+  ]
+}

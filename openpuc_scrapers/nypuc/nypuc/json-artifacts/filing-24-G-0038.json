@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0038",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6077E68D-0000-CC14-9E7E-9E8FC18640EC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-G-0038",
+      "file_name": "162-A_24-G-0038.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20231011 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F014D08C-0000-C41B-8FF8-D0FF74568AB9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0038",
+      "file_name": "20231011 - Consent Offer Letter.pdf"
+    }
+  ]
+}

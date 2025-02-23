@@ -1,0 +1,82 @@
+{
+  "case": "19-V-0614",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/09/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB778735-AD7F-40B7-9092-5029CB86BB28}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-V-0614",
+      "file_name": "19-V-0614 Secretary Ltr. Closing Case 12.9.2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E1410BF-3B0D-47EF-BD56-753857380CF4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0614",
+      "file_name": "200916 Letter re 200 W 109 St (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Verizon Suspension Request Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33CAB4F4-C786-4AEC-880A-ACFF5F46B394}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0614",
+      "file_name": "191007 VZ Letter re 200 W 109 St (suspension).pdf (54 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5E4BBF9-C207-4497-BF57-3017CF3C1975}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0614",
+      "file_name": "18-01338 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 200 West 109th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A01D37B1-BE90-465F-BD2E-3912FA75D0E1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0614",
+      "file_name": "Petition (200 W 109 St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A8EF31A-24A3-4A89-A2D1-CCB5F93AB907}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0614",
+      "file_name": "Exhibit 2 (200 W 109 St).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C64A297E-7276-452B-B961-5591835F2E0B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0614",
+      "file_name": "Exhibit 1 (200 W 109 St).pdf"
+    }
+  ]
+}

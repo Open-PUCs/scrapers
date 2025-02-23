@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0350",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing/Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7452CC2B-C410-40B9-AC65-354201070180}",
+      "organization": "Cunningham Excavation, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-G-0350",
+      "file_name": "Citation No. 7971 Dispute Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C37B45-45F5-4099-871B-47D2A26AA424}",
+      "organization": "Cunningham Excavation, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-G-0350",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A87F6634-0496-42A8-BFFE-F9E13B5230AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0350",
+      "file_name": "164-A_20-G-0350 final.pdf"
+    }
+  ]
+}

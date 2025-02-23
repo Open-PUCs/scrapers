@@ -1,0 +1,49 @@
+{
+  "case": "16-M-0719",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08B46E40-2869-44BD-908E-117127FCE80C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-M-0719",
+      "file_name": "16-M-0719 Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Authority to Grant an Environmental Easement to the People of the State of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC611212-E6D2-4B34-B008-42F9CA83A2FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-M-0719",
+      "file_name": "262_16-M-0719 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Signed Letter and SEAF Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74953A2D-0B7F-4EDF-9A13-EA0C6D90B5FD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-M-0719",
+      "file_name": "16M0719 Signed Letter and SEAF Part 2 and 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Rochester Gas and Electric Corporation for Approval to Grant an Environmental Easement.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E3B408F-193F-4F85-9AFF-55CDACA7C818}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "16-M-0719",
+      "file_name": "Petition of Rochester Gas and Electric Corporation.pdf"
+    }
+  ]
+}

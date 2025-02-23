@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0356",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0356 LaGuidice Rehearing Request 05282019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79F5BA45-6CF1-468C-B7DB-013485062774}",
+      "organization": "Individual",
+      "itemNo": "7",
+      "docket_id": "19-E-0356",
+      "file_name": "19-E-0356 LaGuidice Rehearing Request 05282019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "19-E-0356 LaGuidice Tenant Repsonse 05142019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66F01BA7-56D1-4A8A-B43D-792D8DA7A00E}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "19-E-0356",
+      "file_name": "19-E-0356 LaGuidice Tenant Repsonse 05142019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0356 LaGuidice Ack LEtter 05032019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E56CEA77-AD5A-40F0-82B1-D56F069ED6E8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-E-0356",
+      "file_name": "19-E-0356 LaGuidice Ack LEtter 05032019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0356 LaGuidice Rehearing Request 04282019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CF5A36F-6CB3-4963-AD1D-CD8272191CE9}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "19-E-0356",
+      "file_name": "19-E-0356 LaGuidice Rehearing Request 04282019.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0356 LaGuidice SMD Final 04182019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AFE5951-F6DB-45DB-9185-3CD43B929AA5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0356",
+      "file_name": "19-E-0356 LaGuidice SMD Final 04182019.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/13/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5D51A14-F6BE-437E-9E0E-56BD815819BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0356",
+      "file_name": "367 Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/13/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={388D51E2-CDC2-4426-B9BD-A47674AD8CCB}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0356",
+      "file_name": "367 Letter_Redacted.pdf"
+    }
+  ]
+}

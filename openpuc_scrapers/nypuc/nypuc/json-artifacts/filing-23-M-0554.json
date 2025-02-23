@@ -1,0 +1,38 @@
+{
+  "case": "23-M-0554",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0A7D18D-0000-C01C-BC26-EAE178351EC3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-M-0554",
+      "file_name": "261_23-M-0554_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F1118C-0000-C61B-87DC-00DE629BC953}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-M-0554",
+      "file_name": "262_23-M-0554_11.27.23 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/08/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Astral Energy LLC NOAV 9.8.23 with Attachments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E023758A-0000-C514-A736-89B14EFB3E70}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-M-0554",
+      "file_name": "Astral Energy LLC NOAV 9.8.23 with Attachments.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0436",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC00A9A7-B90E-4EE7-A567-6E1084508D29}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0436",
+      "file_name": "661_21-V-0436.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Union Springs, Cayuga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CA8EC37-AFC7-4067-85FD-A76C9D761907}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0436",
+      "file_name": "2021.08.11 V. UNION SPRINGS FRANCHISE RENEWAL FILED.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "22-M-0552",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600F1C8C-0000-CD1B-A74F-2BDC32CDEB37}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-M-0552",
+      "file_name": "261 - 22-M-0552 - Letter 112923 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600F1C8C-0000-C63A-B024-C5018760127D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-M-0552",
+      "file_name": "261_22-M-0552_Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/02/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Reply to Complainants' Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41CA64C4-BABE-44D6-8465-4831A8BA7A44}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-M-0552",
+      "file_name": "Cases 011381 and 973100_Con Edison Reply to Complainants' Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/07/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={929A9D54-B7D7-40D6-A3F3-6EFD39735B59}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-M-0552",
+      "file_name": "Ack Letter 011381 and 973100.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/07/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={158171ED-0C92-44F9-8A9C-496AD3933AD7}",
+      "organization": "The Pandering Pig Restaurant Inc.",
+      "itemNo": "2",
+      "docket_id": "22-M-0552",
+      "file_name": "Department of Public Service - Apeal of Determination 011381 and 973100.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/07/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0502734D-894F-46E1-B6DA-BCBFD0189419}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-M-0552",
+      "file_name": "The_Pandering_Pig_vs_Con_Edison_Case_011381.pdf"
+    }
+  ]
+}

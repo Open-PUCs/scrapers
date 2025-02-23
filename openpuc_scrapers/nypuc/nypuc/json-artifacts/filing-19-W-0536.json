@@ -1,0 +1,126 @@
+{
+  "case": "19-W-0536",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/04/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Hopewell Service Corporation",
+      "itemNo": "8",
+      "docket_id": "19-W-0536",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hopewell Service Deed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={027090A7-1AB7-4F91-BA47-DD5E6144F025}",
+      "organization": "Hopewell Service Corporation",
+      "itemNo": "7",
+      "docket_id": "19-W-0536",
+      "file_name": "Hopewell Service Deed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "HSC2EF Bill of Sale and Assignment MX",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={372FD91B-EF02-476F-8DD4-254E2B44E715}",
+      "organization": "Hopewell Service Corporation",
+      "itemNo": "7",
+      "docket_id": "19-W-0536",
+      "file_name": "HSC2EF Bill of Sale and Assignment MX.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/19/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63C42527-4F43-42BA-9A85-A3C5C76AD1B0}",
+      "organization": "Hopewell Service Corporation",
+      "itemNo": "7",
+      "docket_id": "19-W-0536",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/06/2020",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D6CEC5F-E941-487D-95E7-496AD72A5FAE}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-W-0536",
+      "file_name": "19-W-0536 Ruling on Extension Request.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/05/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request to Extend Time to File Cancellation Supplement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={595D2D9A-795A-4E1E-A3B2-A3486E25376C}",
+      "organization": "Hopewell Service Corporation",
+      "itemNo": "5",
+      "docket_id": "19-W-0536",
+      "file_name": ", Request to Extend Time to File Cancellation Supplement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice to Customers of PSC Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FD12EE2-BCF0-42B1-A1B9-402E42F53BF4}",
+      "organization": "Hopewell Service Corporation",
+      "itemNo": "4",
+      "docket_id": "19-W-0536",
+      "file_name": "Notice to Customers of PSC Decision, 200423.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hopewell Service Corporation Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3337D50B-EF05-4216-A5ED-500B835C4567}",
+      "organization": "Hopewell Service Corporation",
+      "itemNo": "4",
+      "docket_id": "19-W-0536",
+      "file_name": "200430 Secretary, Case 19-W-0536, Hopewell Service Corporation Compliance Filing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Assets and Dissolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93875C2F-AD38-433C-A8D1-E05254A8D3A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-W-0536",
+      "file_name": "461_19-W-0536.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Hopewell Service to East Fishkill with Appendices",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C3E0600-1CFA-4A5B-9719-1BD2AFF1838E}",
+      "organization": "Hopewell Service Corporation, Town of East Fishkill",
+      "itemNo": "1",
+      "docket_id": "19-W-0536",
+      "file_name": "HSC2EF Petition Hopewell Service to East Fishkill with Appendices 190806 (1).pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "08/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2325A5FA-2A56-41B5-B8D8-EF2290AFC8AC}",
+      "organization": "Hopewell Service Corporation, Town of East Fishkill",
+      "itemNo": "1",
+      "docket_id": "19-W-0536",
+      "file_name": "HSC2EF Petition Hopewell Service to East Fishkill, Transmittal Letter to Burgess 190806 .pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "19-G-0113",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A8A4B0D-76C7-4E2B-BE0D-2B391951AA28}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-G-0113",
+      "file_name": "165-C_19-G-0113.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4191F79A-289B-4B6E-BBD4-F6AF3BA352D7}",
+      "organization": "Lawn In Order Excavating And Landscape Design",
+      "itemNo": "2",
+      "docket_id": "19-G-0113",
+      "file_name": "Response to the Order"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53509C67-0CC5-4D74-9A94-D272F0D3ACD2}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0113",
+      "file_name": "162-A_19-G-0113.pdf"
+    }
+  ]
+}

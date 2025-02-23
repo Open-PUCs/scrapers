@@ -1,0 +1,71 @@
+{
+  "case": "20-G-0603",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={133F2A4D-0AE3-46B7-9116-A3591D943AFC}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-G-0603",
+      "file_name": "164_20-G-0603 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADB1649D-E050-4AD3-9C7F-161D99719A29}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0603",
+      "file_name": "164_20-G-0603 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "4A1 Houses Appeal Response NationalGrid",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8B11A85-2803-4AC1-8088-3D0D3AF098F9}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "20-G-0603",
+      "file_name": "4A1 Houses Appeal Response NationalGrid.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B52F3231-A73D-4946-8516-7F7E958AC376}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-G-0603",
+      "file_name": "959746 CI Site Houses Inc.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FABBE2AE-F306-4018-BB3E-2555C9A0326B}",
+      "organization": "C.I. Site 4A1 Houses Inc.",
+      "itemNo": "2",
+      "docket_id": "20-G-0603",
+      "file_name": "Coney Island Site 4A1 v National Grid (959746) - Appeal of Informal Determination.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28032365-E16C-4807-9C8A-9E3B7918F4EE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-G-0603",
+      "file_name": "C.I. Site 4A1 Houses Inc. URAC vs NG-NY case 959746.pdf"
+    }
+  ]
+}

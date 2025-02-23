@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0562",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 1-15 57th Avenue, Queens, New York 11373.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B44F9206-A1E7-47CF-B6B4-63396A31A373}",
+      "organization": "GO HPS LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0562",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C4E8CDE-F5AC-41B1-9B6B-3B6B1D5C76FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0562",
+      "file_name": "361_19-E-0562 - Order_FINAL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F1EA048-4E6B-4913-ABA2-3C7FCBBEC704}",
+      "organization": "GO HPS LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0562",
+      "file_name": "additional information 9-20.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CADE679-026E-41C4-BB83-31E70D5C92B8}",
+      "organization": "GO HPS LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0562",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={993EB40A-F141-4A29-8C3F-A2662DD1C7E3}",
+      "organization": "GO HPS LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0562",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of GO HPS LLC to Submeter Electricity at 1-15 57th Avenue, Queens, New York 11373 Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D89F0470-403F-4B49-A763-96B1FEE893A8}",
+      "organization": "GO HPS LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0562",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

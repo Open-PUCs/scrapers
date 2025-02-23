@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0673",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Fulton Property Owner LLC - Order Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={900A2491-0000-CE1C-B1C5-931AC36F135C}",
+      "organization": "Fulton Property Owner LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0673",
+      "file_name": "Fulton Property Owner LLC - Order Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0200A91-0000-C311-B8A0-5C9355B363A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0673",
+      "file_name": "365_23-E-0673 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Fulton Property Owner LLC to Submeter Electricity at 1215 Fulton Street, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2054C98B-0000-C613-AA3C-612059E320C9}",
+      "organization": "Fulton Property Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0673",
+      "file_name": "Submetering notice of intent (1215 Fulton Street).pdf"
+    }
+  ]
+}

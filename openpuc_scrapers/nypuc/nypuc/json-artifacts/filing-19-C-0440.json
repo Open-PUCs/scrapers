@@ -1,0 +1,49 @@
+{
+  "case": "19-C-0440",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A093B54-491D-4703-B9E3-57E2B9C820BF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-C-0440",
+      "file_name": "562_19-C-0440.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2019",
+      "nypuc_doctype": "Letters",
+      "name": "19-00288 ConvergeOne Stop Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B65FB23-B9B0-459F-BAF2-4BC99859A62A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-C-0440",
+      "file_name": "19-00288 ConvergeOne Stop Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21D68A42-007F-45A4-BA91-FFBD63AE7AB4}",
+      "organization": "ConvergeOne Licensing Holdings, Inc., ConvergeOne Technology Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0440",
+      "file_name": "NY Transmittal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of ConvergeOne Technology Utilities, Inc. (f/k/a RGT Utilities, Inc.) and ConvergeOne Licensing Holdings, Inc. for Approval of a Pro Forma Intra-Corporate Transaction.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AAC806A3-7690-4D84-AB8A-CD73C52960F6}",
+      "organization": "ConvergeOne Licensing Holdings, Inc., ConvergeOne Technology Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0440",
+      "file_name": "NY Asset Transfer Petition.pdf"
+    }
+  ]
+}

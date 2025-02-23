@@ -1,0 +1,38 @@
+{
+  "case": "23-T-0417",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "SAPA Notice Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70FCAC89-0000-CD18-8FF5-7520E6EDF75F}",
+      "organization": "Emkey Gathering, LLC, PPP Future Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-T-0417",
+      "file_name": "SAPA Notice Form.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Transfer Certificate",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70FCAC89-0000-C239-872C-BA108E7C986A}",
+      "organization": "Emkey Gathering, LLC, PPP Future Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-T-0417",
+      "file_name": "Petition to Transfer Certificate -final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60FCAC89-0000-C51A-A8BB-53D74BAEE6F5}",
+      "organization": "Emkey Gathering, LLC, PPP Future Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-T-0417",
+      "file_name": "Petition to Transfer Certificate filing.lt.pdf"
+    }
+  ]
+}

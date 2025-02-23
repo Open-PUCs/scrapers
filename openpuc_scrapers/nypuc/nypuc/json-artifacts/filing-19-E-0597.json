@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0597",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Letters",
+      "name": "ConnectDER Similarity Approval Letter (combined)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0076AF8E-0000-CE1A-97E0-935F1F83A219}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "19-E-0597",
+      "file_name": "ConnectDER Similarity Approval Letter (combined).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Meter Accessory Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2409B32E-03DF-4DFF-8000-342A8111F9BC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0597",
+      "file_name": "367_19-E-0597 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Addendum to PSC Letter of Intent to use the ConnecDER Device at Con Edison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FBC51E7-FA20-4A94-94CC-982BAE4EEFE1}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-E-0597",
+      "file_name": "Addendum to PSC Letter of Intent to use the ConnecDER Device at Con Edison.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B51D3775-0DCF-4C62-8575-FC73DF29CAA6}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-E-0597",
+      "file_name": "RAO Request for Confidential Treatment ConnedDER.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/29/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B308F6A3-1C53-4DF5-8F56-69C7337FF89E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0597",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/29/2020",
+      "nypuc_doctype": "Reports",
+      "name": "ConnectDER Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A384F58-C654-4FBD-99C0-AA3CC486BAAE}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0597",
+      "file_name": "ConnectDER Test Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Smart ConnectDER CUTSHEET",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B2FE971-3A56-4230-B186-D397CBF31B4E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0597",
+      "file_name": "Smart ConnectDER CUTSHEET.pdf (712 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "PSC Letter of Intent for Smart ConnectDER Device",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89958B3D-7047-40C2-8EAF-8271F4B1C18C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0597",
+      "file_name": "PSC Letter of Intent for Smart ConnectDER Device with all models numbers attached Burgess e file.pdf (378 KB)"
+    }
+  ]
+}

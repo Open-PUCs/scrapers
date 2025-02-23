@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0724",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB991E50-DC90-4341-9A9F-77F35710A66A}",
+      "organization": "VillaBXV Condominium",
+      "itemNo": "4",
+      "docket_id": "16-E-0724",
+      "file_name": "Response to Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/19/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F03B7F0-2D86-4F5F-B127-D25D04E4D9C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0724",
+      "file_name": "365_16-E-0724.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Update to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDB3728B-EB6F-48BE-8825-97553A9AB9E0}",
+      "organization": "VillaBXV Condominium",
+      "itemNo": "2",
+      "docket_id": "16-E-0724",
+      "file_name": "VillaBXV Update Ltr 03032017.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice to Submeter Trans Ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA59B1E4-CEE5-42D4-B0B7-9D00E7A10BDE}",
+      "organization": "VillaBXV Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0724",
+      "file_name": "Notice to Submeter Trans Ltr.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice to Submeter Part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={693A3291-D945-46CC-A832-6721CD82B351}",
+      "organization": "VillaBXV Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0724",
+      "file_name": "Notice to Submeter Part 2.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of VillaBXV Condominium, to Submeter Electricity at 15 Kensington Road, Bronxville, NY 10708 Located in the Territory of Con Edison- Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44E41033-1CF9-4B76-9AE4-AA8D50C394DA}",
+      "organization": "VillaBXV Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0724",
+      "file_name": "Notice to Submeter Part 1.pdf"
+    }
+  ]
+}

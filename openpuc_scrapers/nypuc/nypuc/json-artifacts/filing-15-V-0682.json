@@ -1,0 +1,49 @@
+{
+  "case": "15-V-0682",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={835816CD-1C32-425D-A3B6-78216F5E5877}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0682",
+      "file_name": "661_15v0682.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Saratoga, Saratoga County, New York,",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95A69DCD-67D4-47CE-9F8A-4AFB09BADAA8}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0682",
+      "file_name": "11172015 t of saratoga submission to psc.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Albany TP 2015-1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3166402-DD34-4D99-9CF9-BDB096E27620}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0682",
+      "file_name": "Albany TP 2015-1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Albany HE 2015-1 (3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9A2A334-D60C-4E19-8C5D-6D849A8F6001}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0682",
+      "file_name": "Albany HE 2015-1 (3).pdf"
+    }
+  ]
+}

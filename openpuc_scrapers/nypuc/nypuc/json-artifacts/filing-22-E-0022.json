@@ -1,0 +1,27 @@
+{
+  "case": "22-E-0022",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "CECONY Reply to URAC Petitions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4688FC3E-BF18-4DE8-8786-3A1B006D4B63}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0022",
+      "file_name": "CECONY Reply to URAC Petitions_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Failure of Consolidated Edison Company of New York to a provide fair investigation and prompt response, in a reasonable amount of time, during the PSC\u00bfs complaint process (16 NYCRR \u00a712) to Office of Consumer Services Case 018354 Boricua Village B LLC v. Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C73CB60-8E25-42A9-9E26-50E176269BC8}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "22-E-0022",
+      "file_name": "Petition for Declaratory Ruling - Failure of Con Edison and OCS to respond to a billing dispute regarding case 018354 Boricua Village%2.pdf"
+    }
+  ]
+}

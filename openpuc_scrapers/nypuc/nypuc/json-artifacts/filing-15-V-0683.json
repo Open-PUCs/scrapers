@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0683",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E136A631-26B5-4D54-B8BD-AA27BA94A454}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0683",
+      "file_name": "661_15v0683.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Hamilton, Madison County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={787F2EFD-58F5-4571-A100-03B6FF34D99E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0683",
+      "file_name": "psc submission - v of hamilton.pdf"
+    }
+  ]
+}

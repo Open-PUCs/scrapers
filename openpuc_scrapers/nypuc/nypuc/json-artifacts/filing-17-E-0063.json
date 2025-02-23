@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0063",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certificate of Complaince",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E94168C2-66B4-4603-9071-24D696549EA0}",
+      "organization": "BRP Renny LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0063",
+      "file_name": "Case_17-E-0063_Certificate_of_Complaince.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "BRP Renny LLC submits its Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F603D74D-4D22-4F97-BC0C-870667349658}",
+      "organization": "BRP Renny LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0063",
+      "file_name": "Case_17-E-0063_Letter_to_Secretary_Filing_Certificate_of_Complaince.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AF0E15A-536B-4108-B35C-D849873B9D35}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-E-0063",
+      "file_name": "366_17-E-0063.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of BRP Renny LLC to Submeter Electricity",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2140372-9069-4B50-AF63-C04FEB3EBCA0}",
+      "organization": "BRP Renny LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0063",
+      "file_name": "Case 16-E-____ - Notice of Intent of BRP Renny LLC to Submeter Electricity.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA59016C-6539-466F-857C-8507B4C542CE}",
+      "organization": "BRP Renny LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0063",
+      "file_name": "Case 16-E-____ - BRP Renny LLC_Cover Letter Filing NOI.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0518",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCACC698-9778-4823-9C84-DAA8ACF905CA}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0518",
+      "file_name": "362_15e0518 15e0519.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/23/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-E-0518",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/22/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92300201-DF09-40F2-856C-AEF25D0F7A2C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0518",
+      "file_name": "15E0518 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/16/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-E-0518",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/15/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32BF5435-774F-4AC7-A566-64F906CD0AA8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0518",
+      "file_name": "Affidavit Letter NYISO Charges 101515.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/10/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0518",
+      "file_name": ""
+    }
+  ]
+}

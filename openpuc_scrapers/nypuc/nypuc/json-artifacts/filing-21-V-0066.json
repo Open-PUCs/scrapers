@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0066",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88A130EF-0396-4738-A901-419CBAF08F55}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0066",
+      "file_name": "663_21-V-0066 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for Approval of the Renewal of its Franchise with Town of Meredith, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={595FAC8F-F75D-41C9-AC66-2DB986836439}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0066",
+      "file_name": "Town of Meredith Cable Franchise Package - PSC.pdf"
+    }
+  ]
+}

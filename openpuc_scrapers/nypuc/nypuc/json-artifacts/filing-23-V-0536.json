@@ -1,0 +1,93 @@
+{
+  "case": "23-V-0536",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={807B928C-0000-CD15-96A2-5D579452708A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-V-0536",
+      "file_name": "662_23-V-0536 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Clarification from Pawling Village",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={504D408C-0000-C431-BA01-332C4C626367}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "4",
+      "docket_id": "23-V-0536",
+      "file_name": "SKM_C250i23120612310.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={504D408C-0000-CF17-9710-723B2444916C}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "4",
+      "docket_id": "23-V-0536",
+      "file_name": "Pawling Village - Cover Letter for Clarification from Pawling Village - FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-V-0536 - Pawling Village and Comcast Franchise Renewal - Cover Letter for Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A1198B-0000-C71B-9161-282E6C30DBE8}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0536",
+      "file_name": "23-V-0536 - Pawling Village and Comcast Franchise Renewal - Cover Letter for Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-V-0536 - Pawling Village and Comcast Franchise Renewal - Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A1198B-0000-C133-90B9-6CD31AA1CEB7}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0536",
+      "file_name": "23-V-0536 - Pawling Village and Comcast Franchise Renewal - Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D1AD8A-0000-C23E-A2C5-42AE4EA6FF24}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0536",
+      "file_name": "23-V-0536 - Pawling Village and Comcast Franchise Renewal - Cover Letter to RAO.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-V-0536 - Pawling Village and Comcast Franchise Renewal - Cover Letter for Original Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D1AD8A-0000-C819-872D-7FC1C61F4B39}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0536",
+      "file_name": "23-V-0536 - Pawling Village and Comcast Franchise Renewal - Cover Letter for Original Filing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Application of Comcast of New York LLC for Renewal of Pawling Village Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C001AA8A-0000-CC12-8F0C-F673AC60A054}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0536",
+      "file_name": "Application of Comcast of New York LLC for Renewal of Pawling Village Franchise (1).pdf"
+    }
+  ]
+}

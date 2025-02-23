@@ -1,0 +1,60 @@
+{
+  "case": "17-C-0507",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42AEE8ED-57A9-434C-8E87-43537F4103D9}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC",
+      "itemNo": "5",
+      "docket_id": "17-C-0507",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control and Associated Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F2FD32D-4145-4007-978F-C7EFE6CC5F1D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-C-0507",
+      "file_name": "561_17-C-0507 17-C-0508.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Brett Ferenchak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB00EC99-A873-4B05-B92B-E732EC2F7970}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-C-0507",
+      "file_name": "17-01328 17-01329.GTT Americas.LLC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={716142DE-2E72-44EB-ACD8-A60C280B1588}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC",
+      "itemNo": "3",
+      "docket_id": "17-C-0507",
+      "file_name": "2017-07-26 NYPSC Supplemental Filing Requesting Expedited Treatment.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of GTT Americas, LLC, Pivotal Global Capacity, LLC and GC Pivotal, LLC d/b/a Global Capacity for Approval to Transfer Control of GC Pivotal, LLC to GTT Americas, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66491409-FBC8-4E17-A9E4-8B4EBBB9E8A6}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC, Pivotal Global Capacity, LLC c/o Pivotal Group",
+      "itemNo": "1",
+      "docket_id": "17-C-0507",
+      "file_name": "NY ToC Petition.pdf"
+    }
+  ]
+}

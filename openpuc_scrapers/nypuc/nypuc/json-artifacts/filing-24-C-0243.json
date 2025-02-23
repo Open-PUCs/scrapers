@@ -1,0 +1,27 @@
+{
+  "case": "24-C-0243",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as an Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D2E090-0000-C915-AA11-03D812A09293}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-C-0243",
+      "file_name": "561_24-C-0243_72324final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of American Broadband and Telecommunications Company LLC for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600E068F-0000-C314-81DB-4D631EBF5870}",
+      "organization": "American Broadband and Telecommunications Company LLC",
+      "itemNo": "1",
+      "docket_id": "24-C-0243",
+      "file_name": "American Broadband NY ETC Petition - As Filed.pdf"
+    }
+  ]
+}

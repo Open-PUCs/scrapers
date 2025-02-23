@@ -1,0 +1,71 @@
+{
+  "case": "17-M-0621",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-M-0621 Lin Supplemental Request 01292018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B38FC535-226D-44CB-82D7-1C89F94B8443}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "17-M-0621",
+      "file_name": "17-M-0621 Lin Supplemental Request 01292018_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-M-0621 Lin Ack Letter 10162017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={029B2964-90ED-4283-A855-7128B934293D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "17-M-0621",
+      "file_name": "17-M-0621 Lin Ack Letter 10162017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-M-0621 Lin Rehearing Request 07132017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19366656-1D0E-4860-B0F0-866DD1CE72CD}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "17-M-0621",
+      "file_name": "17-M-0621 Lin Rehearing Request 07132017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-M-0621 Lin SMD Final 06162017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9296D06D-0B92-4273-9455-9FAA36C683C9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-M-0621",
+      "file_name": "17-M-0621 Lin SMD Final 06162017_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/29/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter regarding Refund_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D18793F-6988-4AC4-AE26-144A229C3B5D}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-M-0621",
+      "file_name": "Letter regarding Refund_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62FEFDDA-EC00-4E6D-AF1D-234502F82383}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-M-0621",
+      "file_name": "264 Letter_Redacted.pdf"
+    }
+  ]
+}

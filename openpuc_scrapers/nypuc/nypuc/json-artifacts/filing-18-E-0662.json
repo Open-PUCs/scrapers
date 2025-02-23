@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0662",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CD964DB-39B9-4880-AB98-D01D92861F8B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0662",
+      "file_name": "369_18-E-0662.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Zephyr Wind Energy, LLC for a Declaratory Ruling Concerning Financing Approval under Section 69 of the New York State Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F91FFCD4-3172-4BEC-86B8-7DE2DEDBB354}",
+      "organization": "Zephyr Wind Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0662",
+      "file_name": "Final Petition 10-18-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30AE47FC-DF54-4E51-BE8A-1725F549B6BE}",
+      "organization": "Zephyr Wind Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0662",
+      "file_name": "Cover letter 10-18-18.pdf"
+    }
+  ]
+}

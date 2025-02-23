@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0602",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240730 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0C90391-0000-C11E-9DB8-B1ADD93600A7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0602",
+      "file_name": "20240730 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240329 - Reponse to NOPV Letter - Written with pictures",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00199A8E-0000-CA38-B137-B48343A7AD8E}",
+      "organization": "W Brother Landscaping Inc.",
+      "itemNo": "2",
+      "docket_id": "24-G-0602",
+      "file_name": "20240329 - Reponse to NOPV Letter - Written with pictures.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/26/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240226 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2014E78D-0000-C514-9D65-57181CE95614}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0602",
+      "file_name": "20240226 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/26/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240226 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2014E78D-0000-CE74-8352-9D3F85B504C5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0602",
+      "file_name": "20240226 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/26/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240226 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2014E78D-0000-CF52-801C-F3D2C641E3EC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0602",
+      "file_name": "20240226 - Citation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/26/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240209 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2014E78D-0000-C732-BBD6-E2963636B405}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0602",
+      "file_name": "20240209 - Origin of Investigation.pdf"
+    }
+  ]
+}

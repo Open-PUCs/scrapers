@@ -1,0 +1,27 @@
+{
+  "case": "18-G-0445",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/07/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D44B7853-9EB7-4838-BF64-58CBEA4687A6}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "18-G-0445",
+      "file_name": "Withdrawal of Dresser D800-D1000 Petition 2018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Central Hudson Gas & Electric Corporation for Approval of Dresser's D800/1000 Rotary Meter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A10A7C76-9635-415C-B579-4B94A18C03DF}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-G-0445",
+      "file_name": "Central Hudson - Dresser D800-1000 letter of sponsorship.pdf"
+    }
+  ]
+}

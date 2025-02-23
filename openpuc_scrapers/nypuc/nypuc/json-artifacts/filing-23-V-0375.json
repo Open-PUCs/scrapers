@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0375",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4056238A-0000-CC16-ACAB-C6BE045B62D5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0375",
+      "file_name": "662_23-V-0375.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00969 Letter to Building Owner - 546 W 147 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70B44888-0000-C91D-BE4A-7B6853BEE886}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0375",
+      "file_name": "23-00969 Letter to Building Owner - 546 W 147 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 546 West 147th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B03BE287-0000-C41B-8284-42CD124825B6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0375",
+      "file_name": "230503-12 Petition (546 W 147 ST) (Post-Survey).pdf"
+    }
+  ]
+}

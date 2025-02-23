@@ -1,0 +1,49 @@
+{
+  "case": "16-C-0129",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Letter from Secretary Burgess regarding an appeal denying an informal hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59CFAB87-5757-410F-991F-2CFF803F2699}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-C-0129",
+      "file_name": "562_16c0129_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Ack_Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5C5EF3E-36F1-4F0E-BEB2-7121661EC179}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-C-0129",
+      "file_name": "Ack_Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for an Informal Hearing_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5122DBD0-F41D-4753-B012-0B6818D31B8A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-C-0129",
+      "file_name": "IH_Denial_553516 (002)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial for Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6DF3159-A9FF-481E-8F20-0F178F32E6EB}",
+      "organization": "Individual",
+      "itemNo": "1",
+      "docket_id": "16-C-0129",
+      "file_name": "553516_appeal_petition.pdf"
+    }
+  ]
+}

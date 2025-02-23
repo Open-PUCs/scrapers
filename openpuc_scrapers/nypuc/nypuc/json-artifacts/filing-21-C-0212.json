@@ -1,0 +1,93 @@
+{
+  "case": "21-C-0212",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Further Amendment to Eligible Telecommunications Carrier Designation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9F56F2B-E2FE-4316-BACE-BAA7DB2BCA8A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-C-0212",
+      "file_name": "561_21-C-0212 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Secretary - SLIC Census Block Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3646D41F-482A-4A3E-94A4-882DF94AF068}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-C-0212",
+      "file_name": "Secretary - SLIC Census Block Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SLIC Petition for amendment to census blocks - Exh A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1891AA84-54E2-42E5-8997-BAAF86521103}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-C-0212",
+      "file_name": "SLIC Petition for amendment to census blocks - Exh A.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SLIC Petition - for Amendment to Census Blocks",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EDBEDDC-676D-4427-B5FD-192260EB3242}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-C-0212",
+      "file_name": "SLIC Petition - for Amendment to Census Blocks.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/18/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Further Amendment to Eligible Telecommunications Carrier Designation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F194B56F-DA9A-4FF9-8A66-97B265A0E9EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-C-0212",
+      "file_name": "566_21-C-0212 final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SLIC-Copy of RDOF Census Blocks for Petition - Exh A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D4FCEE5-76F5-4645-97D5-9060E59B5FFC}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0212",
+      "file_name": "Copy of SLIC-Copy of RDOF Census Blocks for Petition - Exh A.xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SLIC Petition - Further Amended Designation as Eligible Tele Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9587CEEF-8E2A-4DEF-B8D6-550C109F2BCE}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0212",
+      "file_name": "SLIC Petition - Further Amended Designation as Eligible Tele Carrier.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "PSC - enclosed SLIC Petition for Further Designation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={499B8CCC-DCD4-437D-B94B-77656CB771C2}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0212",
+      "file_name": "PSC - enclosed SLIC Petition for Further Designation.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "20-T-0594",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Karla M. Corpus, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EB46239-912B-4BAD-AFE9-B25221140B00}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-T-0594",
+      "file_name": "Case 20-T-0594 Part 102 Ltr.1.19.20.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of the Part 102 Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the ALCOA-Dennison #12 Transmission Line Relocation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D4FDE80-947B-4D89-9E87-55FF58135ADE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0594",
+      "file_name": "National Grid -- Alcoa-Dennison#12 Part 102 Report.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C09AFF-6F50-43FF-B137-4E50A59BC901}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0594",
+      "file_name": "National Grid -- ALCOA-Dennison #12 Part 102 -- Corpus Cover Letter.pdf"
+    }
+  ]
+}

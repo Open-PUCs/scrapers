@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0537",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={723594DC-FBD2-4B63-92EA-90720CEC584D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0537",
+      "file_name": "664_19-V-0537 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the City of Olean, County of Cattaraugus, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDB88B00-76C7-4DFC-94FA-C2E122269286}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0537",
+      "file_name": "080619 - C.OLEAN RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

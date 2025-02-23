@@ -1,0 +1,27 @@
+{
+  "case": "24-W-0200",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10669C8F-0000-CB9C-8EA0-EC50A95C9A71}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-W-0200",
+      "file_name": "461_24-W-0200.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/15/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20231204 - Origin of Investigation - Request for Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D053E28E-0000-CA19-A8C7-8001D12B2A84}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-W-0200",
+      "file_name": "20231204 - Origin of Investigation - Request for Investigation.pdf"
+    }
+  ]
+}

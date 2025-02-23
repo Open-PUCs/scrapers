@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0413",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/08/2016",
+      "nypuc_doctype": "Comments",
+      "name": "National Grid Reply Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E281C42E-3D9C-49D3-8A6F-B1105430B742}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "16-E-0413",
+      "file_name": "Case 16-E-0413 - National Grid Reply Comments.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/07/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of John Shinn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D2ACF1A-4586-4E7A-8991-CAE21F79B8FC}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "16-E-0413",
+      "file_name": "John Shinn.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Senator Robert Ortt",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96D20D62-C09B-46CA-940F-342398653247}",
+      "organization": "New York State Senate",
+      "itemNo": "2",
+      "docket_id": "16-E-0413",
+      "file_name": "sen ortt_ltr_16-E-0413_071916.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/28/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Mayor Paul Dyster",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E98023F4-5B73-46DD-98FE-C8E7099CFEFC}",
+      "organization": "City of Niagara Falls",
+      "itemNo": "3",
+      "docket_id": "16-E-0413",
+      "file_name": "ni falls mayor dyster_ltr_16-E-0413_072216.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/26/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09A7E0DB-21F2-4BA4-8C17-FFA017AFD699}",
+      "organization": "Globe Metallurgical, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0413",
+      "file_name": "Letter to D. Gilberto re Trade Secret Status - Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Globe Metallurgical, Inc. for an Order by the Commission Exempting Globe Metallurgical, Inc. From Certain Surcharges at its Niagara Falls, New York Facility and Request for Emergency Action.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A09B635B-62C0-4203-AC66-A8FE50C05799}",
+      "organization": "Globe Metallurgical, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0413",
+      "file_name": "Petition - Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4EDE028-F666-444E-B27C-114C6CEDACB3}",
+      "organization": "Globe Metallurgical, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0413",
+      "file_name": "Cover Letter to Sec. Burgess.pdf"
+    }
+  ]
+}

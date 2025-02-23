@@ -1,0 +1,49 @@
+{
+  "case": "19-S-0763",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F593D633-E4B7-4A97-A6DE-65CE7270592E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-S-0763",
+      "file_name": "268 Letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/10/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Denial of Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E74EEB3C-1942-47D2-BC92-D9E2F0C2ACD3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-S-0763",
+      "file_name": "976328 504 West 135.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/10/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C41B849C-04B8-4111-A353-6E980E54563B}",
+      "organization": "504 West 135 Street HDFC",
+      "itemNo": "2",
+      "docket_id": "19-S-0763",
+      "file_name": "Appeal of Denial of Informal Review - 976328 504 West 135 Street HDFC v Consolidated Edison Company of New York.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/10/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75C5F0F8-C285-4513-9CAE-4DC2576089F8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-S-0763",
+      "file_name": "976328 504 W 135 St HDFC final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0393",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9606FEA-C76E-44B7-87B3-942B1C884AA9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0393",
+      "file_name": "661_19-V-0393.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/29/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letters to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={413F1FC8-48F1-4BF4-AF97-3EB60D097C58}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0393",
+      "file_name": "17-02786 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 660 Bergen Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE1216D8-56F7-4F3C-9770-23E741DFD0D9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0393",
+      "file_name": "Petition (660 Bergen St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE3CEAB4-45A7-440F-AA41-045F84FC6E4B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0393",
+      "file_name": "Exhibit 2 (660 Bergen St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BA6CBA1-1F3B-4DA0-9E5D-31995D76D4B9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0393",
+      "file_name": "Exhibit 1 (660 Bergen St).pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "15-M-0691",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "OR-Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D878AC2-2CCB-470B-BD7D-0FE8048827B7}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-M-0691",
+      "file_name": "OR-Corning.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "O&R Informational Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7592C4CE-DA0B-4A16-B167-F740FF8AF2C9}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-M-0691",
+      "file_name": "O&R Informational Filing.pdf"
+    }
+  ]
+}

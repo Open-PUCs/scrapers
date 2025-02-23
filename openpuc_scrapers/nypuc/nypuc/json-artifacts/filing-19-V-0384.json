@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0384",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4369A2D-B1B1-4E1E-BD1E-06A1D1B23DF8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0384",
+      "file_name": "19-V-0384 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC94E860-5AE5-4DCD-8F64-7253A09DB5F8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0384",
+      "file_name": "201110 Letter re Matter 17-02640 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82CAF454-045E-4308-B45C-B25D14E08EEB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0384",
+      "file_name": "17-02640 Merged Letters.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 59 Pineapple Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55F77532-3CA2-4905-82A1-1DC2C16AF470}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0384",
+      "file_name": "Petition (59 Pineapple St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C237176D-8536-4C24-93C8-FDEF039BE566}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0384",
+      "file_name": "Exhibit 2 (59 Pineapple St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D711B4B1-C3C1-4C07-B230-DFE596794F8E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0384",
+      "file_name": "Exhibit 1 (59 Pineapple St).pdf"
+    }
+  ]
+}

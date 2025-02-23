@@ -1,0 +1,27 @@
+{
+  "case": "17-G-0212",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/28/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of IUOE Local 15",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={818FA0A0-BF8A-40AE-818A-D071A96B6F4B}",
+      "organization": "International Union of Operating Engineers Local 15",
+      "itemNo": "2",
+      "docket_id": "17-G-0212",
+      "file_name": "Local 15 Comments on NYSDPS White Paper.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/30/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB9E60B6-9749-4AD4-84AF-528031EF68E0}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0212",
+      "file_name": "161_17g0212 - 5.30.pdf"
+    }
+  ]
+}

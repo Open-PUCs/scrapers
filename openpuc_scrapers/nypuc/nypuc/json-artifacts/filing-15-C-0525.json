@@ -1,0 +1,93 @@
+{
+  "case": "15-C-0525",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={001D5970-810D-42FF-9BFF-8F4CBF58DFDD}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-C-0525",
+      "file_name": "561_15-C-0525 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F53EE97E-00CE-4D7A-B325-75AFD3AF6754}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-C-0525",
+      "file_name": "561_15-C-0525 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Opposition to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E14D960F-FA9D-4A97-80C3-CF7E637D65C8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "15-C-0525",
+      "file_name": "151016 Verizon Opposition to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/18/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EBF8429-3644-42E1-92B6-49B5CAF0F165}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "15-C-0525",
+      "file_name": "15-C-0525_AckLetter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/15/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D7BC99A-4D04-4330-ACED-927CDA7D0741}",
+      "organization": "Allan Rotto Consultants, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-C-0525",
+      "file_name": "Appeal of Informal Hearing Decision.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/15/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Extension Granted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A65EA7D3-B5C3-4675-B2B5-3A80A1AE8BD7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-C-0525",
+      "file_name": "Extension Granted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/15/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Consultant's Request for Extension to Appeal Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54C034D5-25BE-49C0-9010-3210A7552389}",
+      "organization": "Allan Rotto Consultants, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-C-0525",
+      "file_name": "Consultant's Request for Extension to Appeal Informal Hearing Decision.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/15/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16BC3C44-0F9F-4816-ABD1-91B89AE3612B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-C-0525",
+      "file_name": "Informal Hearing Decision.pdf"
+    }
+  ]
+}

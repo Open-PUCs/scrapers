@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0547",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33E01C9C-8C12-4CA1-868E-169BE7A59F66}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0547",
+      "file_name": "664_17-V-0547.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Varick, County of Seneca, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCC7E3FE-482E-488F-8119-185301791258}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0547",
+      "file_name": "VARICK, TN, FRANCHISE RENEWAL SUBMISSION TO PSC, 09.11.17.pdf"
+    }
+  ]
+}

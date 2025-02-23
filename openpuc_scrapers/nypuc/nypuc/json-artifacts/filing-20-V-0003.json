@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FA86C3D-06EE-4490-8ECA-EF49F84AC822}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0003",
+      "file_name": "661_20-V-0003 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Elba, County of Genesee.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7BC5C7B-9BAC-411B-A4AC-5CDA5CA3ACD7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0003",
+      "file_name": "010320 - T. ELBA RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

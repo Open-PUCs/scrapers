@@ -1,0 +1,137 @@
+{
+  "case": "24-V-0500",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40535493-0000-CC15-92B3-6E284BC24F61}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0500",
+      "file_name": "661_24-V-0500.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F051E191-0000-C41A-A9D4-C4307F81E53F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8093C791-0000-CA2C-872C-421A825EA961}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Orangetown Request for Confidential Treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8093C791-0000-C0A7-9654-076B04D16CA7}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Request for Confidential Treatment.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Orangetown Renewal Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0E0C791-0000-CD1F-9BED-58B1E2596B9E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Renewal Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Orangetown Exhibit F (REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8093C791-0000-CB8A-9444-66614E282424}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Exhibit F (REDACTED).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Orangetown Exhibit E",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8093C791-0000-C042-9EC2-C5ADD8855710}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Exhibit E.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Orangetown Exhibit D",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8093C791-0000-C7CA-9811-E63CF2A6B8D4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Exhibit D.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Orangetown Exhibit C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7093C791-0000-C19D-A1F4-616D70337F14}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Exhibit C.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Orangetown Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7093C791-0000-C476-B4B7-59AC34DCA9D9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Exhibit B.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Orangetown Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7093C791-0000-CD54-BB57-17290531CBF1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Exhibit A.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Orangetown Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7093C791-0000-CB1A-ACAA-A746FA7CCF0C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0500",
+      "file_name": "Orangetown Cover Letter.pdf"
+    }
+  ]
+}

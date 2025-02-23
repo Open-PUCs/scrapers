@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0594",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF69666D-85D7-4163-9B6D-69748025528B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0594",
+      "file_name": "663_19-V-0594.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Spectrum Northeast, LLC/Town of Murray - Additional Documents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B772899-4D37-4656-8DA5-3B8CE78744F8}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0594",
+      "file_name": "092419 refile 091819, T.Murray Cvr Ltr to PSC-SpectrumNortheast,LLC w.R-2.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "R-2 -T Murray, SpectrumNortheast,LLC refile",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F66398A2-8A3E-41D2-9EB6-4B113E176A3C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0594",
+      "file_name": "R-2 -T Murray, SpectrumNortheast,LLC refile091819.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Murray, Orleans County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9288774-EC8C-47BA-90C3-E6D364B2910C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0594",
+      "file_name": "091819 T MURRAY RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

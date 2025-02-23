@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0112",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={203B4E88-0000-CA1B-8733-8DC1CDB7F434}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0112",
+      "file_name": "661_23-V-0112.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F1A886-0000-C95A-BD32-217C6064AEEF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0112",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Chenango Letter 03.03.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F1A886-0000-C71C-A75A-1597184174AE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0112",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Chenango Letter 03.03.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Chenango Cover Letter- Request for Renewal and Certificate of Confirmation 03.03.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F1A886-0000-C27C-9854-8BAB610E1406}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0112",
+      "file_name": "Charter Communications, T. Chenango Cover Letter- Request for Renewal and Certificate of Confirmation 03.03.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/03/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Charter Communications, T. Chenango - Request for Renewal and Certificate of Confirmation(Redacted) 03.03.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F1A886-0000-CC9A-ACDD-6EACE7C52631}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0112",
+      "file_name": "Charter Communications, T. Chenango - Request for Renewal and Certificate of Confirmation(Redacted) 03.03.23.pdf"
+    }
+  ]
+}

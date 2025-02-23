@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0556",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "550 Clinton Partners LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BA49C96-F38E-43FA-AEC8-456E92C323D2}",
+      "organization": "550 Clinton Partners LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0556",
+      "file_name": "550 Clinton Partners LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA0300A6-5ADA-4D2B-B149-9E6E8E1D7C60}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0556",
+      "file_name": "361_21-E-0556 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/23/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35F5E065-B861-48D4-9023-9BAA872AD96B}",
+      "organization": "550 Clinton Partners LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0556",
+      "file_name": "Supplemental Filing_550 Clinton Avenue_3.23.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing 550 Clinton Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E63D367B-58E9-4F33-A174-49A58DA1E1B3}",
+      "organization": "550 Clinton Partners LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0556",
+      "file_name": "Supplemental Filing_550 Clinton Avenue.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering notice of Intent - 550 Clinton Partners LLC - 550 Clinton Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA044C88-3AB0-4A8D-B11C-6DF56C856DC6}",
+      "organization": "550 Clinton Partners LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0556",
+      "file_name": "Submetering notice of Intent - 550 Clinton Partners LLC - 550 Clinton Ave.pdf"
+    }
+  ]
+}

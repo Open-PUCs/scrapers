@@ -1,0 +1,115 @@
+{
+  "case": "20-E-0320",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Correcting Journal Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C039396-DC0A-429A-9917-3570F7F2480D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "20-E-0320",
+      "file_name": "Case 20-E-0320 - Filing Correcting Journal Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Attachment 1 (Revised)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9363FA98-B07E-410C-8FF1-F8A1B0FBD4BA}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "20-E-0320",
+      "file_name": "Copy of Attachment 1 (Revised).xlsx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A2249B8-B217-4B0E-AF97-16EDDFC8AA64}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "20-E-0320",
+      "file_name": "Case 20-E-0320 - National Grid Compliance Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Attachment 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CECBB6F-FF07-486D-A67E-92793C5E388D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "20-E-0320",
+      "file_name": "Case 20-E-0320 - Attachment 1.xlsx"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/16/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23866C1E-6C21-4C15-B88B-1622275D5FF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0320",
+      "file_name": "379_20-E-0320 - Notice final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/16/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Transmission Lines",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={330EF6AC-00F5-4219-8FED-65CCAD8BC38D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0320",
+      "file_name": "379 - 20-E-0320 - Order final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed SEQR SEAF Letter and Form for EDGE/NMPC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A62E861B-5B88-4CEA-855D-EDD132FC43A3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0320",
+      "file_name": "20-E-0320 SEAF Forms 2 and 3 with Cover Letter, 10-13-20.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/29/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C794753-A3FB-4D76-8B20-425A641D03FD}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "20-E-0320",
+      "file_name": "Case 20-E-0320 - National Grid Request for Trade Secret Protection.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "EDGE National Grid Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CB34ABB-89B3-46A7-984A-F34EC0EA963A}",
+      "organization": "Economic Development Growth Enterprises Corporation d/b/a Mohawk Valley EDGE, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0320",
+      "file_name": "EDGE National Grid Section 70 Petition.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59B2C45C-C5EF-4609-9B0F-7AEE253383DA}",
+      "organization": "Economic Development Growth Enterprises Corporation d/b/a Mohawk Valley EDGE, Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0320",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

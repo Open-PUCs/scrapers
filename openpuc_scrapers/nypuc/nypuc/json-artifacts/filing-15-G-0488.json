@@ -1,0 +1,27 @@
+{
+  "case": "15-G-0488",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/01/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64986AD4-998C-4185-B1C6-2EB2DE53DEA0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-G-0488",
+      "file_name": "164_15g0488.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C492C9BC-AEF9-4EF7-83D9-71E72C3BD572}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "15-G-0488",
+      "file_name": "161_15g0488.pdf"
+    }
+  ]
+}

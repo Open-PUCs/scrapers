@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0753",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9185D15C-02C3-454B-8FB7-383B622E4BA4}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-E-0753",
+      "file_name": "365_15e0753.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Salamanca Board of Public Utilities",
+      "itemNo": "6",
+      "docket_id": "15-E-0753",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/16/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Salamanca Board of Public Utilities",
+      "itemNo": "5",
+      "docket_id": "15-E-0753",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/14/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94A7B21C-ED8E-4445-84A9-972550AB26E0}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0753",
+      "file_name": "15E0753 Postponement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/10/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Salamanca Board of Public Utilities",
+      "itemNo": "3",
+      "docket_id": "15-E-0753",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/01/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "City of Salamanca Board of Public Utilities Submits an Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95155218-964C-4030-A3D4-502C90AAAEC3}",
+      "organization": "City of Salamanca Board of Public Utilities",
+      "itemNo": "2",
+      "docket_id": "15-E-0753",
+      "file_name": "SalamancaBPU Newspaper Publication-15-E-0753.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/23/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Salamanca Board of Public Utilities",
+      "itemNo": "1",
+      "docket_id": "15-E-0753",
+      "file_name": ""
+    }
+  ]
+}

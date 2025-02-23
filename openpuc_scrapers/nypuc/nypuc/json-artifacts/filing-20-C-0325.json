@@ -1,0 +1,38 @@
+{
+  "case": "20-C-0325",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "CBTS Technology - New York Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0244C0F9-7DE9-4E72-8457-DD574103D2EE}",
+      "organization": "CBTS Technology Solutions LLC",
+      "itemNo": "3",
+      "docket_id": "20-C-0325",
+      "file_name": "CBTS Technology - New York Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-01475 CBTS OOL Letter Final.signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58B0C321-DCF0-4804-B6FC-AA88DE0074D9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0325",
+      "file_name": "20-01475 CBTS OOL Letter Final.signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "CBTS-CB-Red Fiber Parent_NYPetition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06828F44-EF65-4DB6-951E-BE164B57551C}",
+      "organization": "CBTS Technology Solutions LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0325",
+      "file_name": "CBTS-CB-Red Fiber Parent_NYPetition.pdf (6 MB)"
+    }
+  ]
+}

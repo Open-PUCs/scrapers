@@ -1,0 +1,104 @@
+{
+  "case": "21-V-0632",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B88016A-1F2A-41AD-95F3-6870A86EE75E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0632",
+      "file_name": "663_21-V-0632 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11559EDA-72B0-415C-B369-53F8340B8C0B}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "21-V-0632",
+      "file_name": "AUSA Newspaper Cover Letter - Warwick, T.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Warwick, T",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BE6F0F4-F93E-477F-BCE4-94E56D399CAF}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "21-V-0632",
+      "file_name": "AUSA Newspaper Affidavit - Warwick, T.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance - Warwick, T",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07631FDC-EB14-4040-9543-5AC6CCE689E3}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0632",
+      "file_name": "Proof of Performance - Warwick, T.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with Town of Warwick, Orange County. Initial Docket #10-V-0306.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50CD1A36-61C6-4787-A82D-EA6091B44FAB}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0632",
+      "file_name": "Application Cover Letter - Warwick, T.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Warwick, T AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={195994E3-0B99-4AFC-9F10-3B06C6BC5414}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0632",
+      "file_name": "Exhibit IV - Warwick, T AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFB2C8B5-4415-4EDA-9708-DA2888FB7C33}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0632",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C2B3FD4-2629-4010-BA9B-11C24018E1B8}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0632",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FA980D4-4ABF-43A6-8D47-FA945621528B}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0632",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

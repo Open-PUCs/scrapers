@@ -1,0 +1,82 @@
+{
+  "case": "22-E-0600",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A57FBC9E-62E3-4154-A4C5-2E1F26F07801}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0600",
+      "file_name": "363_22-E-0600 - Confirming Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/29/2022",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "One Commissioner Declaratory Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E26B4C3-D526-4F53-BB61-84DAE75AE584}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0600",
+      "file_name": "22-E-0600_Baron Winds Declaratory Ruling .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/15/2022",
+      "nypuc_doctype": "Testimony",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AD8E065-556B-4C3D-A5EC-E58B8CE8BB45}",
+      "organization": "Baron Winds, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0600",
+      "file_name": "221215 Ltr to Secretary filing Affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/15/2022",
+      "nypuc_doctype": "Testimony",
+      "name": "221215 Section 70 Affidavit on Transfer - signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29C17CFB-A0DC-41AD-AF95-8C96E099D963}",
+      "organization": "Baron Winds, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0600",
+      "file_name": "221215 Section 70 Affidavit on Transfer - signed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Section 70 Verification - executed 2022.10.25 (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E26D064F-CC6C-4C4E-9E1D-9E08650A0ED1}",
+      "organization": "Baron Winds, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0600",
+      "file_name": "Section 70 Verification - executed 2022.10.25 (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Baron Winds, LLC for a Declaratory Ruling for Approval of Transfer of Interconnection Facilities.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32C487ED-54B8-491E-B1F1-45A246683330}",
+      "organization": "Baron Winds, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0600",
+      "file_name": "221025 Ltr to Secretary filing Verified Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "221025 Baron Winds_Section 70_NYSEG_Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F08E2C5-4C1A-4F3F-839B-AFCF869E857E}",
+      "organization": "Baron Winds, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0600",
+      "file_name": "221025 Baron Winds_Section 70_NYSEG_Final.pdf"
+    }
+  ]
+}

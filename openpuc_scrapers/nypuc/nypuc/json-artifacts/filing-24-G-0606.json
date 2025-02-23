@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0606",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240730 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90320491-0000-C613-9BFA-A8E3B23B1A51}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0606",
+      "file_name": "20240730 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240424 - Response to NOPV Letter - Written letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40712A8F-0000-C317-B6DD-3BCC727BEE61}",
+      "organization": "Mach 1 Electric",
+      "itemNo": "2",
+      "docket_id": "24-G-0606",
+      "file_name": "20240424 - Response to NOPV Letter - Written letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240416 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C0E78E-0000-C11C-95D6-FFFD1AB2D4BD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0606",
+      "file_name": "20240416 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240416 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C0E78E-0000-CD6E-A0B4-AE7C0034A8B6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0606",
+      "file_name": "20240416 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240416 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C0E78E-0000-C144-B554-33921E619323}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0606",
+      "file_name": "20240416 - Citation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240408 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C0E78E-0000-CE21-8FF4-E84C0B23590F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0606",
+      "file_name": "20240408 - Origin of Investigation.pdf"
+    }
+  ]
+}

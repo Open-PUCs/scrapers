@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0109",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EA11532-ECB9-40DE-A668-F5C37F193D27}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0109",
+      "file_name": "662_22-V-0109.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/09/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02474 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64F18E4F-DCE2-4CF0-A97C-5356EDF0E91C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0109",
+      "file_name": "21-02474 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 141 Attorney Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A764E791-8E5E-42B5-A13B-C768450A2A75}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0109",
+      "file_name": "8-211119 Petition (141 ATTORNEY ST) (Post-CODA).pdf"
+    }
+  ]
+}

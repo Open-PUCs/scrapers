@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0546",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6071168C-0000-C21B-9978-7DDB8FEE52E7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0546",
+      "file_name": "662_23-V-0546 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F026DD8A-0000-C056-8BBD-E2A0EFAF558B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0546",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. North Tonawanda Letter 09.28.23-ac",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F026DD8A-0000-CD10-9F39-F445CE779310}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0546",
+      "file_name": "Charter Confidential Treatment Request to RAO C. North Tonawanda Letter 09.28.23-ac.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, C. North Tonawanda - Request for Renewal and Certificate of Confirmation (Redacted) 9.28.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F026DD8A-0000-C493-8D5A-42475AAF3C88}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0546",
+      "file_name": "Charter Communications, C. North Tonawanda - Request for Renewal and Certificate of Confirmation (Redacted) 9.28.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "2023.09.28 Charter Communications-C. North Tonawanda Cover Letter request for Renewal and Cert of Confirmation.ac",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F026DD8A-0000-C07D-84B0-A650A1314F83}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0546",
+      "file_name": "2023.09.28 Charter Communications-C. North Tonawanda Cover Letter request for Renewal and Cert of Confirmation.ac.pdf"
+    }
+  ]
+}

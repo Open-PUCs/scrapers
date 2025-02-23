@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0380",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to PRC Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20FE6F90-0000-CC1C-B1F3-994A2E074ED1}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-E-0380",
+      "file_name": "Response to PRCAppeal (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement Scheduling Letter _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F96F90-0000-C319-B363-3965687A1C1B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0380",
+      "file_name": "Acknowledgement Scheduling Ltr - PRC v ORU #254984 _Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F76F90-0000-C51E-8ADB-AF08C710A7FE}",
+      "organization": "Pearl River Campus, LLC d/b/a Hudson Valley icampus",
+      "itemNo": "2",
+      "docket_id": "24-E-0380",
+      "file_name": "Cover Letter - 2024 06 24 Appeal of Informal Hearing Decision #254984.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 06 24 Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F76F90-0000-CB16-9584-6255AB54EFD0}",
+      "organization": "Pearl River Campus, LLC d/b/a Hudson Valley icampus",
+      "itemNo": "2",
+      "docket_id": "24-E-0380",
+      "file_name": "2024 06 24 Pearl River Campus - Appeal of Informal Hearing Decision #254984_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 06 07 Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F36F90-0000-CD2A-9186-2484D1F328D0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0380",
+      "file_name": "2024 06 07 Informal Hearing Decision #254984_Redacted.pdf"
+    }
+  ]
+}

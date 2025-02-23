@@ -1,0 +1,49 @@
+{
+  "case": "19-C-0640",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2019",
+      "nypuc_doctype": "Letters",
+      "name": "19-C-0640 Director Approval - ATT Numbering Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4AB8454-83D0-41BB-9C84-6F4EDE6F59C2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-C-0640",
+      "file_name": "19-C-0640 Director Approval - ATT Numbering Waiver.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "PART 1A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={322BA858-4A8E-43C4-B5A7-756FC4DE6D1F}",
+      "organization": "AT&T Communications of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0640",
+      "file_name": "PART 1A.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/26/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Healthfirst letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1497EE68-2671-4795-80B8-07112F0B5BD8}",
+      "organization": "AT&T Communications of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0640",
+      "file_name": "HF - letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/26/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA52BA11-7C1B-43AE-B5A5-3658D42A8F6B}",
+      "organization": "AT&T Communications of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0640",
+      "file_name": "Healthfirst - NWYRCYZN09.pdf"
+    }
+  ]
+}

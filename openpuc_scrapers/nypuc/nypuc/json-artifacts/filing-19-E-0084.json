@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0084",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6316F868-9F6E-46FC-8E99-BCF87E6578A9}",
+      "organization": "Fulton SCG Development LLC c/o F&T Group",
+      "itemNo": "5",
+      "docket_id": "19-E-0084",
+      "file_name": "Tangram House_Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E13EAB6E-78B2-4163-A51B-7A79E7D1EDD1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0084",
+      "file_name": "377_19-E-0084.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Information to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D709816E-FA79-452C-A4CE-90290AEF340E}",
+      "organization": "Fulton SCG Development LLC c/o F&T Group",
+      "itemNo": "3",
+      "docket_id": "19-E-0084",
+      "file_name": "Staff Questions_5.16.19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8303C52-EF2D-4D7B-A62F-988F35483145}",
+      "organization": "Fulton SCG Development LLC c/o F&T Group",
+      "itemNo": "2",
+      "docket_id": "19-E-0084",
+      "file_name": "Staff Questions_5.3.19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Fulton SCG Development LLC c/o F&T Group to Submeter Electricity at 133-21 39th Avenue, Flushing, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D3788BF-F3B0-4BBF-BC63-7FB8DA3B6CC3}",
+      "organization": "Fulton SCG Development LLC c/o F&T Group",
+      "itemNo": "1",
+      "docket_id": "19-E-0084",
+      "file_name": "Submetering Notice of Intent_Tangram House_final.pdf"
+    }
+  ]
+}

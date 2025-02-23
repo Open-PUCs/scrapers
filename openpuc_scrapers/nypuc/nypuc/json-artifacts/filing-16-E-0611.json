@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0611",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={551F5F3A-7ACD-4AB3-B1C9-29E5B0483A1E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0611",
+      "file_name": "363_16-E-0611 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Lynn's Place Housing Development Fund Company, Inc. to Submeter Electricity at 1060 Rev. James A. Polite Avenue, Bronx, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25D0D9A4-C49B-45AB-B369-58200CD760D3}",
+      "organization": "Lynn's Place Housing Development Fund Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0611",
+      "file_name": "Submetering Notice of Intent_Lynn's Place_Final.pdf"
+    }
+  ]
+}

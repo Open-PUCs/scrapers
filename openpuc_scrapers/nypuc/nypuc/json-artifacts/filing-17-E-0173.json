@@ -1,0 +1,27 @@
+{
+  "case": "17-E-0173",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/15/2017",
+      "nypuc_doctype": "Reports",
+      "name": "2016 Electric Safety Standards Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7E6F23A-6EC1-4BC2-B860-99EA26AD6346}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-E-0173",
+      "file_name": "302 17-E-0173 2016 Electric Safety Standards Report .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2017",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Assesses Electric Reliability, Customer Service and Gas and Electric Safety of State\u00bfs Large Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D8CAA8C-453B-4C32-B51E-72DDDB49B71E}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0173",
+      "file_name": "pr17045.pdf"
+    }
+  ]
+}

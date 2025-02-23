@@ -1,0 +1,49 @@
+{
+  "case": "22-W-0696",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-W-0696",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00382FCC-FBBA-4CCA-ABAC-BE25AE4DCB05}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-W-0696",
+      "file_name": "463_22-W-0696 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "LETT Phillips VWNY PSC NO 1 eff 12.30.2022 revised",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E02EEE4-1A5B-4ACB-BA72-0927DD17D46A}",
+      "organization": "United Water New York Inc.",
+      "itemNo": "2",
+      "docket_id": "22-W-0696",
+      "file_name": "LETT Phillips VWNY PSC NO 1 eff 12.30.2022 revised.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-W-0696",
+      "file_name": ""
+    }
+  ]
+}

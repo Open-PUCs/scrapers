@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0477",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "521291 Briggs Tenant Response 09202016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54F8C220-7D48-4C3E-8BED-82336838D350}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "16-E-0477",
+      "file_name": "521291 Briggs Tenant Response 09202016_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "521291 Durant Ack Letter 08222016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={574F888B-7756-4B14-BBF3-B95303FA82B5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-E-0477",
+      "file_name": "521291 Durant Ack Letter 08222016_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "521291 Durant Rehearing Request 06212016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE1AAAB7-51BD-4D34-9236-F14583AFB2A5}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "16-E-0477",
+      "file_name": "521291 Durant Rehearing Request 06212016_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "521291 Durant SMD Final 06132016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE536FF9-7363-4B8F-A061-6FC5F17FC2B2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-E-0477",
+      "file_name": "521291 Durant SMD Final 06132016_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/18/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a petition for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B49AA55-61D3-4302-A4E5-16514BAB0ECC}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-E-0477",
+      "file_name": "362_16-E-0477 Redacted.pdf"
+    }
+  ]
+}

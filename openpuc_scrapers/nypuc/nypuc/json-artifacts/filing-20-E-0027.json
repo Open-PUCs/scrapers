@@ -1,0 +1,93 @@
+{
+  "case": "20-E-0027",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2666E673-4943-48BC-82C8-7300572BADB3}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0027",
+      "file_name": "370_20-E-0027 - Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A1ECE8F-62DD-410C-8390-3EC3CAA47B88}",
+      "organization": "GridGear Solutions Ltd.",
+      "itemNo": "5",
+      "docket_id": "20-E-0027",
+      "file_name": "Revised Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Statement from Sponsoring Entity (GridGear Solutions)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94D736C2-0E4F-4246-8BC5-1D9378E3499A}",
+      "organization": "GridGear Solutions Ltd.",
+      "itemNo": "4",
+      "docket_id": "20-E-0027",
+      "file_name": "Statement from Sponsoring Entity (GridGear Solutions).pdf (2 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Statement from Sponsoring Entity (GridGear Solutions)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2B2837F-36F2-42D8-A318-D2B8DBE50A8D}",
+      "organization": "GridGear Solutions Ltd.",
+      "itemNo": "3",
+      "docket_id": "20-E-0027",
+      "file_name": "Statement from Sponsoring Entity (GridGear Solutions).pdf (2 MB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/07/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Sponsoring Entity Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4B0CB6B-444E-4FFA-94BC-DF387E16B720}",
+      "organization": "GridGear Solutions Ltd.",
+      "itemNo": "2",
+      "docket_id": "20-E-0027",
+      "file_name": "Sponsoring Entity Letter.pdf (240 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "GridGear UL LLC Meter Performance Compliance Report for ANSI C12.20-2015",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D8127D4-81EA-4F9C-8C43-72C285AB2EA4}",
+      "organization": "GridGear Solutions Ltd.",
+      "itemNo": "1",
+      "docket_id": "20-E-0027",
+      "file_name": "R1101642154_ANSI.pdf (11 MB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "GridGear GG Installation Instructions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009B74D5-B464-4D08-9D1F-31B33B6C8750}",
+      "organization": "GridGear Solutions Ltd.",
+      "itemNo": "1",
+      "docket_id": "20-E-0027",
+      "file_name": "GG Installation Instructions 2020 01 16.pdf (3 MB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C942DE7-A07B-46FC-BA73-86C06E735D03}",
+      "organization": "GridGear Solutions Ltd.",
+      "itemNo": "1",
+      "docket_id": "20-E-0027",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

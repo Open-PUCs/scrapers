@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={011A7C31-AB57-43D3-9117-3BADC7EB8D92}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0311",
+      "file_name": "663_17-V-0311.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Corning, of County of Steuben, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB1D56A2-56FF-4676-B3D2-92BB8AE8B7F0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0311",
+      "file_name": "CORNING, TOWN RENEWAL SUBMITTED TO PSC, 06.07.17.pdf"
+    }
+  ]
+}

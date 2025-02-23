@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0461",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9ABEA582-FBB7-4D5C-9D5B-57487940D5C1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0461",
+      "file_name": "664_21-V-0461.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00600 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AC7B569-F127-4032-B3F2-105F9A5D356B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0461",
+      "file_name": "21-00600 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 486 3rd Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E6D79FE-115B-477C-93E6-09F541D8DE7D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0461",
+      "file_name": "7-Petition (486 3 AV) (Complete).pdf"
+    }
+  ]
+}

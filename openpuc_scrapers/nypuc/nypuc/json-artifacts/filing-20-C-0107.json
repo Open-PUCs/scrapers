@@ -1,0 +1,82 @@
+{
+  "case": "20-C-0107",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2020",
+      "nypuc_doctype": "Comments",
+      "name": "American Network",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5C65097-517F-4C15-8FE5-6489708ED7B9}",
+      "organization": "American Network, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-C-0107",
+      "file_name": "American Network.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Indirect Control on a Prospective Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7ACE556A-C6EA-4D7B-96A9-4F6CCC7F40B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-C-0107",
+      "file_name": "563_20-C-0107 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Amended Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAA917FA-78B8-40A5-BEE2-4661EC153DE8}",
+      "organization": "Hammer Fiber Optics Holdings Corp.",
+      "itemNo": "4",
+      "docket_id": "20-C-0107",
+      "file_name": "Scan042605.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/03/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hammer Data Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50176DBB-44A2-4ED6-9821-DB468A6173B1}",
+      "organization": "Hammer Fiber Optics Holdings Corp.",
+      "itemNo": "3",
+      "docket_id": "20-C-0107",
+      "file_name": "Hammer Data Request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/03/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Data Request_TML",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6804C98A-89DA-4BB6-A836-778DA16D6242}",
+      "organization": "Hammer Fiber Optics Holdings Corp.",
+      "itemNo": "3",
+      "docket_id": "20-C-0107",
+      "file_name": "Data Request_TML.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/06/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02797 ANI Hammer Stop Clock.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A113E2A-72F0-4D0B-9143-C5031B954DCB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0107",
+      "file_name": "19-02797 ANI Hammer Stop Clock.Signed.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/12/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Hammer Fiber Optics Holdings Corp. for Approval of the Transfer of Indirect Control of American Network, Inc. to Hammer Fiber Optics Holdings Corp..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A97260CB-5D26-4E62-B7CF-ECEA82A4B1FE}",
+      "organization": "Hammer Fiber Optics Holdings Corp.",
+      "itemNo": "1",
+      "docket_id": "20-C-0107",
+      "file_name": "NY Hammer Petition for Transfer of Control.pdf"
+    }
+  ]
+}

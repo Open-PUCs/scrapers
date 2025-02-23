@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0430",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={805B1F92-0000-CA1F-893C-10C9BFA9E2A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0430",
+      "file_name": "661_24-V-0430.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B062C190-0000-CD50-802F-03160B45509D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0430",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Saugerties 7.17.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B062C190-0000-CF19-8ED2-8D63F42BDBBF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0430",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Saugerties 7.17.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications-Village of Saugerties Request for Renewal and Certificate of Confirmation(redacted)7.17.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B062C190-0000-CE92-987F-442B07657593}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0430",
+      "file_name": "Charter Communications-Village of Saugerties Request for Renewal and Certificate of Confirmation(redacted)7.17.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications-Village of Saugerties Cover Letter, Request for Renewal and Certificate of Confirmation 7.17.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B062C190-0000-C774-AB73-81C1AEC01177}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0430",
+      "file_name": "Charter Communications-Village of Saugerties Cover Letter, Request for Renewal and Certificate of Confirmation 7.17.24.pdf"
+    }
+  ]
+}

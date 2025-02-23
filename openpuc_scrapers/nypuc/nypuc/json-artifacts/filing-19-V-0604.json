@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0604",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A985531-0690-42A5-BA5F-F1148AF1763E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0604",
+      "file_name": "19-V-0604 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A0809EA-74C2-472A-8E4D-C04C50595BE6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0604",
+      "file_name": "201110 Letter re Matter 18-00419 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/27/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68BEEBAC-5287-4DD0-842D-C59F9B699D44}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0604",
+      "file_name": "18-00419 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 556 West 188th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD00F18D-05C0-4C09-8AFC-0748F7D372FC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0604",
+      "file_name": "Petition (556 W 188 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76A9BC96-764D-4752-AAED-1584BC8448FC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0604",
+      "file_name": "Exhibit 2 (556 W 188 St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D8EE7EB-4CD0-4793-B5F1-1AA2747BAF5D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0604",
+      "file_name": "Exhibit 1 (556 W 188 St).pdf"
+    }
+  ]
+}

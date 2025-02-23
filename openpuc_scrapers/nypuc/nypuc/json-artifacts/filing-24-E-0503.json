@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C088C891-0000-CA32-8609-CBBD210FD8E6}",
+      "organization": "300 East 50th Street Owner LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0503",
+      "file_name": "300 East 50th Street Owner LLC - NOI Cover Letter - 9.6.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "300 East 50th Street Owner LLC - Notice of Intent to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C088C891-0000-C31F-B6DF-DF67770B7F13}",
+      "organization": "300 East 50th Street Owner LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0503",
+      "file_name": "300 East 50th Street Owner LLC - Notice of Intent to Submeter - 9.6.24.pdf"
+    }
+  ]
+}

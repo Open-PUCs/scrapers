@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0106",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AE1223D-2BEE-4911-A427-C239636DE258}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0106",
+      "file_name": "662_22-V-0106.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/09/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02469 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B39B6052-199C-4C3A-93B1-19EF1DC00EC3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0106",
+      "file_name": "21-02469 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 216 East 10th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27885F7C-3405-460A-94A3-AC8852526ECD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0106",
+      "file_name": "3-211119 Petition (216 E 10 ST) (Post-Survey).pdf"
+    }
+  ]
+}

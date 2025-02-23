@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0469",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB1C7485-EB00-499E-8034-D2E19CA3C663}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0469",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner Regarding Verizon's Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDB9B292-7A30-4EBF-B39E-876BD4A8AD55}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-V-0469",
+      "file_name": "17-01859 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/08/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Answer to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD6C13B4-6C20-41C2-B792-9668DC0A24AC}",
+      "organization": "Acquista & Associates, P.C.",
+      "itemNo": "2",
+      "docket_id": "18-V-0469",
+      "file_name": "Answer to Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 31-01 Vernon Boulevard, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06FE0622-F2D2-4D06-B950-14518EF90946}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0469",
+      "file_name": "Petition (31-01 Vernon Blvd).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AAB5FEEA-20B4-4E3F-9A81-93A963A8EB05}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0469",
+      "file_name": "Exhibit 2 (31-01 Vernon Blvd).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11865D6E-3C40-4F14-9D5D-5307DDCBC1D8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0469",
+      "file_name": "Exhibit 1 (31-01 Vernon Blvd).pdf"
+    }
+  ]
+}

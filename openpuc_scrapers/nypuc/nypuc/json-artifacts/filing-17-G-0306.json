@@ -1,0 +1,49 @@
+{
+  "case": "17-G-0306",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A9760D1-E0D3-4F05-815C-E63636BC3802}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0306",
+      "file_name": "163_17-G-0304 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "17-G-0306",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "17-G-0306",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/31/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-G-0306",
+      "file_name": ""
+    }
+  ]
+}

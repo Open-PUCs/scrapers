@@ -1,0 +1,82 @@
+{
+  "case": "19-V-0400",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/27/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post closing case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FAB7454-9B7A-42A2-BC3B-72B1B307DAAC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-V-0400",
+      "file_name": "19-V-0400-Verizon-Closure Ltr._.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75712C8D-321F-4789-B41C-439F43C7AAC9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0400",
+      "file_name": "191118 Letter re 2685 Creston Av (withdrawal).pdf (58 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B7FA2AF-579E-48B1-8A9B-DB43C423D28E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-V-0400",
+      "file_name": "18-00409 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1B0287D-03D2-406B-B768-AE23D04D727F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0400",
+      "file_name": "Exhibit 2 (2685 Creston Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5683BD7B-2EFC-43A4-A91A-60DA4AB9A8CB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0400",
+      "file_name": "Letter (2685 Creston Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2685 Creston Avenue, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF692572-640F-4FB7-89A1-DF46B1BDCB52}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0400",
+      "file_name": "Petition (2685 Creston Av).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5886103D-6840-4085-9BCE-83CCFCF1EFD8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0400",
+      "file_name": "Exhibit 1 (2685 Creston Av).pdf"
+    }
+  ]
+}

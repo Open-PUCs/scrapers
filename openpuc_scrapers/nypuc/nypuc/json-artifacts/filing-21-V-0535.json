@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0535",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFD8A6C7-5A5D-4D94-967F-BDDEEF99347F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0535",
+      "file_name": "661_21-V-0535.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Rockland, Sullivan County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C7928AB-85DF-40E9-B75E-C23EF17E4B48}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0535",
+      "file_name": "T. Rockland To Be Filed with PSC.pdf"
+    }
+  ]
+}

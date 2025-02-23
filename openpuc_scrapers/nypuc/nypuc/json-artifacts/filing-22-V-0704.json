@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0704",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6901DF9-B247-461A-95EA-6D2E748B6FFA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0704",
+      "file_name": "662_22-V-0704 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/13/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B54CDC1-2AF9-46AD-9C19-BAA47E53A433}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0704",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/13/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Queensbury Letter 12.13.22 (New)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={231B4FEE-3893-4C76-B0F3-37802AC8D4BA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0704",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Queensbury Letter 12.13.22 (New).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications T. Queensbury-Cover Letter-Request for Renewal and Certificate of Confirmation 12.7.22 (new)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={765C0C11-CE8A-4E25-9106-350F445DB5A1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0704",
+      "file_name": "Charter Communications T. Queensbury-Cover Letter-Request for Renewal and Certificate of Confirmation 12.7.22 (new).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications T. Queensbury -Request for Renewal and Certificate of Confirmation (Redacted) 12.13.22 (new)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4B1A632-0564-406C-8BDD-47F57A17AF53}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0704",
+      "file_name": "Charter Communications T. Queensbury -Request for Renewal and Certificate of Confirmation (Redacted) 12.13.22 (new).pdf"
+    }
+  ]
+}

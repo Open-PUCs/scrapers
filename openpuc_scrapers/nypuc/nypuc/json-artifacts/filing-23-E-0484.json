@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0484",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AMP Property Owner LP - Meter Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B0BE92-0000-C419-941C-F27304B4B9A7}",
+      "organization": "AMP Property Owner L.P.",
+      "itemNo": "4",
+      "docket_id": "23-E-0484",
+      "file_name": "AMP Property Owner LP - Meter Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AMP Property Owner LP - Order Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={405C2C90-0000-C41C-8668-266E6BCF49EA}",
+      "organization": "AMP Property Owner L.P.",
+      "itemNo": "3",
+      "docket_id": "23-E-0484",
+      "file_name": "AMP Property Owner LP - Order Certification.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D3108F-0000-C91C-91DD-01EA5C288A9B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0484",
+      "file_name": "365_23-E-0484.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of AMP Property Owner L.P. to Submeter Electricity at 266 West 96th Street, New York, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={503F428A-0000-CA12-8178-C7961BAAEA5E}",
+      "organization": "AMP Property Owner L.P.",
+      "itemNo": "1",
+      "docket_id": "23-E-0484",
+      "file_name": "Submetering Notice of Intent - AMP Property Owner LP - 266 West 96th Street, NY, NY (1).pdf"
+    }
+  ]
+}

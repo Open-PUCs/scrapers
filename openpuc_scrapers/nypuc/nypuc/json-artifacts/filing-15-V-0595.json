@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0595",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34EFFF11-7E7D-4177-AE8D-962E23470A8B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0595",
+      "file_name": "662_15V0595.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={860BA79D-320F-4627-9FCB-A49B25F2F058}",
+      "organization": "Suffolk Cable of Smithtown, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0595",
+      "file_name": "Smithtown Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/08/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Smithtown Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={016E1A10-55C9-422B-AE7F-6C9B715B8C3D}",
+      "organization": "Suffolk Cable of Smithtown, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0595",
+      "file_name": "Smithtown Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/08/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Smithtown Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={380651A2-B217-4BCA-B2CD-249872ECAC6A}",
+      "organization": "Suffolk Cable of Smithtown, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0595",
+      "file_name": "Smithtown Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/08/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Smithtown Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={498BA624-D111-4625-8CAA-090A2B7F432E}",
+      "organization": "Suffolk Cable of Smithtown, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0595",
+      "file_name": "Smithtown Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/08/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Smithtown Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={361C98AE-26EC-421B-B04C-1820EC34931D}",
+      "organization": "Suffolk Cable of Smithtown, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0595",
+      "file_name": "Smithtown Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/08/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Smithtown Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC81EA3E-F724-4349-9559-5BFE614A6440}",
+      "organization": "Suffolk Cable of Smithtown, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0595",
+      "file_name": "Smithtown Application Cover Letter.pdf"
+    }
+  ]
+}

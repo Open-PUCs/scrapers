@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0719",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/14/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter regarding Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8283D18-6C76-4B04-B1BF-797A35C91772}",
+      "organization": "Cayuga Operating Company, LLC, Freyr Dataenergy Inc., GSO Capital Partners LP, Mjolnir Energy Inc., Somerset Operating Company LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0719",
+      "file_name": "Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Transfer Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BE63AEF-8EFE-4366-9778-D9D55308F8B3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0719",
+      "file_name": "373_19-E-0719.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/07/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD17DDEC-B2A5-4106-BFFE-3D76251DBE01}",
+      "organization": "Cayuga Operating Company, LLC, Freyr Dataenergy Inc., GSO Capital Partners LP, Mjolnir Energy Inc., Somerset Operating Company LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0719",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cayuga Operating Company LLC, Somerset Operating Company, LLC, GSO Capital Partners LP, Freyr Dataenergy Inc., and Mjolnir Energy Inc. for a Declaratory Ruling Declining Further Review of an Upstream Transfer Transaction under Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2B09A5A-F0E7-4879-AF90-E5A50E4A8E50}",
+      "organization": "Cayuga Operating Company, LLC, Freyr Dataenergy Inc., GSO Capital Partners LP, Mjolnir Energy Inc., Somerset Operating Company LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0719",
+      "file_name": "Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC133536-3CA2-4076-ABA1-5AFA4785BE78}",
+      "organization": "Cayuga Operating Company, LLC, Freyr Dataenergy Inc., GSO Capital Partners LP, Mjolnir Energy Inc., Somerset Operating Company LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0719",
+      "file_name": "Exhibit 1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A9BC161-5099-4944-9485-15D0514DF91C}",
+      "organization": "Cayuga Operating Company, LLC, Freyr Dataenergy Inc., GSO Capital Partners LP, Mjolnir Energy Inc., Somerset Operating Company LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0719",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

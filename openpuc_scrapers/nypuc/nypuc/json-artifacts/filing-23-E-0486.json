@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0486",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Post-Approval IMTP (46 South St)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A02F7591-0000-CD11-B097-DC7A8F929C76}",
+      "organization": "Village Grove LLC",
+      "itemNo": "7",
+      "docket_id": "23-E-0486",
+      "file_name": "Post-Approval IMTP (46 South St).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Post-Approval Certification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E0A48E-0000-C014-992F-1FF9F6699D4F}",
+      "organization": "Village Grove LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0486",
+      "file_name": "Post-Approval Certification (23-E-0486) (4.2.24).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0D35C8E-0000-C41C-91A8-EAEB91E58150}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0486",
+      "file_name": "367_23-E-0486 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80649E8D-0000-CF19-B959-B45B0DD3D12F}",
+      "organization": "Village Grove LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0486",
+      "file_name": "Update (2.12.24) (23-E-0486).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E3328D-0000-C414-BC30-54DB2E185420}",
+      "organization": "Village Grove LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0486",
+      "file_name": "Update (1.22.24) (23-E-0486).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Update to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={200EAE8A-0000-C914-A1C6-C53B9FBF38F7}",
+      "organization": "Metergy Solutions LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0486",
+      "file_name": "Update (9.19.23).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/05/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Village Grove LLC to Submeter Electricity at 46 South Street, Trumansburg, Located in the Territory of New York State Electric & Gas Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0E5658A-0000-C619-9A66-BE09C2A7A66A}",
+      "organization": "Village Grove LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0486",
+      "file_name": "Submetering Petition_INHS (9.1.23) (1).pdf"
+    }
+  ]
+}

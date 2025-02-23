@@ -1,0 +1,49 @@
+{
+  "case": "24-M-0643",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10923093-0000-CB23-9BE3-FDA107492294}",
+      "organization": "Buffalo Urban Development Corporation, NorDel II, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0643",
+      "file_name": "Petition for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - Northland Final FEAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0913093-0000-CB35-9940-9AFDB190CDD0}",
+      "organization": "Buffalo Urban Development Corporation, NorDel II, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0643",
+      "file_name": "Exhibit 2 - Northland Final FEAF.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - Northland Map",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0913093-0000-C556-A676-07DB50E7C0B4}",
+      "organization": "Buffalo Urban Development Corporation, NorDel II, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0643",
+      "file_name": "Exhibit 1 - Northland Map.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0913093-0000-CA28-8B4E-648DAC8BD521}",
+      "organization": "Buffalo Urban Development Corporation, NorDel II, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0643",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

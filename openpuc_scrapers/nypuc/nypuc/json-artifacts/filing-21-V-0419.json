@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0419",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAABDDFC-3061-4941-B62C-C908CFAB7950}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0419",
+      "file_name": "664_21-V-0419 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00289 Letter to Building Owner Property at 324 E 112th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B682B3B6-F25B-47F5-B4EE-76E600EF99A0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0419",
+      "file_name": "21-00289 Letter to Building Owner Property at 324 E 112th Street.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 324 East 112th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01D4BD59-5170-49BB-828F-34534144E502}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0419",
+      "file_name": "6-Petition (324 E 112 ST) (Complete).pdf"
+    }
+  ]
+}

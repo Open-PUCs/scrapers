@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0621",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C09F378D-0000-C812-8AC3-67930DB0E373}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0621",
+      "file_name": "661_23-V-0621.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6035BA8B-0000-C51B-9E66-1FD91E4A4611}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0621",
+      "file_name": "Freeport Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/30/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Freeport, Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7059818B-0000-C11F-99F1-81236D9330BB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0621",
+      "file_name": "Freeport Renewal Petition (Complete).pdf"
+    }
+  ]
+}

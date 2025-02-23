@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0467",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 233 Landing Road, Bronx, New York 10468.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77CEDE09-2E78-407B-8BE8-669AB2D974A3}",
+      "organization": "Bowery Residents' Committee",
+      "itemNo": "5",
+      "docket_id": "17-E-0467",
+      "file_name": "compliance letter 3-1-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E237025A-E2DC-4048-B204-73E0DB4E8038}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0467",
+      "file_name": "367_17-E-0467.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC15B784-AB38-457C-988A-8676F9B27B5C}",
+      "organization": "Bowery Residents' Committee",
+      "itemNo": "3",
+      "docket_id": "17-E-0467",
+      "file_name": "response letter 10-26-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised submetering lease rider for 233 Landing Road, Bronx, New York 10468",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2D7276C-1F95-4D63-931A-D0F7D2D66CE1}",
+      "organization": "Bowery Residents' Committee",
+      "itemNo": "2",
+      "docket_id": "17-E-0467",
+      "file_name": "response letter 8-1-2017.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Bowery Residents' Committee to Submeter Electricity at 233 Landing Road, Bronx, NY 10468, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={709D410E-9C13-4C84-8FD2-8C831FC93C94}",
+      "organization": "Bowery Residents' Committee",
+      "itemNo": "1",
+      "docket_id": "17-E-0467",
+      "file_name": "submetering application 7-31-17.pdf"
+    }
+  ]
+}

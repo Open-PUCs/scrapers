@@ -1,0 +1,82 @@
+{
+  "case": "20-V-0611",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B9B4BA4-D669-4683-905F-D5CE43E11CC2}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-V-0611",
+      "file_name": "664_20-V-0611 Neg Dec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={450A327E-4926-4D75-82DB-45AF5027A5EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0611",
+      "file_name": "664_20-V-0611 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/23/2021",
+      "nypuc_doctype": "Reports",
+      "name": "20-V-0611 Town of Gilboa SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBB2D0D5-871F-4794-A978-7966B2790CE8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-V-0611",
+      "file_name": "20-V-0611 Town of Gilboa SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/31/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Attachment C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0E36D21-A055-40C0-A8E8-CB7FAFA56216}",
+      "organization": "Midtel Cable TV, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0611",
+      "file_name": "Addendum 2 Petition of Confirmation Gilboa Franchise.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/31/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201EC604-B386-4C41-B071-3C9FEC544479}",
+      "organization": "Midtel Cable TV, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0611",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={198AAE53-420D-48EE-9331-CED04A7E5935}",
+      "organization": "Midtel Cable TV, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0611",
+      "file_name": "Addendum _1 Petition for Confirmation Town of Gilboa Franchise-12-16-20.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "NY PSC Filing Town of Gilboa",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109BDEE3-88BA-48EB-8B7B-4909016D7075}",
+      "organization": "Midtel Cable TV, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0611",
+      "file_name": "NY PSC Filing Town of Gilboa.pdf"
+    }
+  ]
+}

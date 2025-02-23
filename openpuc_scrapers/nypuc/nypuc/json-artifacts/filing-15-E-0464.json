@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0464",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Deferred Accounting Treatment for Incremental Storm Restoration Costs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32A79B2E-F43D-453C-826E-413187D45CF7}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0464",
+      "file_name": "374_15e0464.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CC3EA9A-BC6C-48FB-8722-BECCADC21F99}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "15-E-0464",
+      "file_name": "15-E-0464 CHGE Request for Confidential Treatment 11-05-2015.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBAE47F8-BA39-4B11-9390-CD07871CFF43}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "15-E-0464",
+      "file_name": "15-E-0464 Request for Confidential Treatment 10-01-2015.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/10/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A257CAD-4403-4FF2-8A7E-C18BD54B7C73}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "15-E-0464",
+      "file_name": "COPY CHGE Snowbird Request for Confidential Treatment 08-07-2015.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/07/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E6E6776-36C5-47A4-BBA6-9CA096B2B3C3}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-E-0464",
+      "file_name": "CHGE Snowbird Request for Confidential Treatment 08-07-2015.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Central Hudson Gas & Electric Corporation Requesting Approval for Recovery of Deferred Incremental Costs Associated with 2014 Thanksgiving Storm.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44F038BF-FE1A-4FFF-AE36-40EF534B3587}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-E-0464",
+      "file_name": "CHGE Snowbird Petition and Attachments 08-07-2015.pdf"
+    }
+  ]
+}

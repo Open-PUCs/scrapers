@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0346",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BB61546-FFAE-4588-B1E7-8F0AC4A9BF6D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0346",
+      "file_name": "661_20-V-0346 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Ballston Spa, Saratoga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B81D7C22-EB15-4279-A519-4E244B888DA5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0346",
+      "file_name": "V. BALLSTON SPA RENEWAL SUBMISSION TO PSC 07.13.20.pdf (2 MB)"
+    }
+  ]
+}

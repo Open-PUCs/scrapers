@@ -1,0 +1,49 @@
+{
+  "case": "17-G-0305",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={776F1417-942F-4DF1-9D2E-55401A05655F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0305",
+      "file_name": "163_17-G-0304 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "KeySpan Gas East Corp. dba Brooklyn Union of L.I.",
+      "itemNo": "3",
+      "docket_id": "17-G-0305",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "KeySpan Gas East Corp. dba Brooklyn Union of L.I.",
+      "itemNo": "2",
+      "docket_id": "17-G-0305",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/31/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "KeySpan Gas East Corp. dba Brooklyn Union of L.I.",
+      "itemNo": "1",
+      "docket_id": "17-G-0305",
+      "file_name": ""
+    }
+  ]
+}

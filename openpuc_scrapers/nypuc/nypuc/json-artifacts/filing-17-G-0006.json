@@ -1,0 +1,192 @@
+{
+  "case": "17-G-0006",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison's compliance letter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C687CDB2-477D-4A96-95D1-0F03A15B8563}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "12",
+      "docket_id": "17-G-0006",
+      "file_name": "Brown Harris Stevens 17-G-0006 - Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of a Commission Determination Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C520E84B-934F-4BE1-BA87-F684C24970C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "11",
+      "docket_id": "17-G-0006",
+      "file_name": "162 Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D9610C1-A540-4658-A73B-2A1C91B06138}",
+      "organization": "Public Service Commission",
+      "itemNo": "11",
+      "docket_id": "17-G-0006",
+      "file_name": "162 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/31/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C7618E-D7D8-4278-9C54-4EE5EAD91875}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "10",
+      "docket_id": "17-G-0006",
+      "file_name": "Case 17-G-0006 Con Edison Response to Rehearing Request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment to Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53DE4909-6639-45F9-9E83-23A4ABC1825A}",
+      "organization": "Brown Harris Stevens",
+      "itemNo": "9",
+      "docket_id": "17-G-0006",
+      "file_name": "Amendment to Rehearing Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/11/2017",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A06DC020-379B-4B9B-A6FD-90FE7A42B0EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "17-G-0006",
+      "file_name": "17-g-0006 Extension Ruling.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Motions",
+      "name": "URAC Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBF22521-433F-4FBE-8116-586A757A1C02}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "17-G-0006",
+      "file_name": "URAC Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Con Edison Request for Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A362B4CD-002F-43F9-ABF5-3CC215DB2B88}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "17-G-0006",
+      "file_name": "Extension Request.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Follow-Up Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5819E768-C4DF-494A-9146-ED187D016667}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "6",
+      "docket_id": "17-G-0006",
+      "file_name": "17-G-0006.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6BF7D1A-8144-4F1C-9E64-66845A25AF91}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "5",
+      "docket_id": "17-G-0006",
+      "file_name": "17-G-0006 1 East End v Con Edison.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7048573E-0E02-4251-A870-9B26709E4FC4}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "5",
+      "docket_id": "17-G-0006",
+      "file_name": "CoverLetter.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52EC8BF8-6C91-4D06-A82B-A677A28C2656}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "5",
+      "docket_id": "17-G-0006",
+      "file_name": "Attachment.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7C846B1-2DC3-469A-90DE-BF33CB300A6A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0006",
+      "file_name": "173 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94AA0E44-E270-4921-A871-24B10030EEDA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0006",
+      "file_name": "173 Determination.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "01/31/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Customer's Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95221F73-CB5E-4D14-BCFB-DBC1E694E1D7}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-G-0006",
+      "file_name": "Case 516399 Con Edison Response.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F02DA608-9210-4A20-921E-5E5E671ACDD8}",
+      "organization": "Brown Harris Stevens",
+      "itemNo": "2",
+      "docket_id": "17-G-0006",
+      "file_name": "516399 1 East End Ave APPEAL.PDF"
+    },
+    {
+      "serial": "17",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA24F0CF-7EBE-4885-B401-1FF5861F0EBF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-G-0006",
+      "file_name": "Brown Harris Stevens URAC vs Con Ed 516399.pdf"
+    }
+  ]
+}

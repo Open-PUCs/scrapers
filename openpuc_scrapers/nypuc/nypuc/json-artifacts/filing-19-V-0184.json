@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0184",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B2EFC3D-C2C6-4902-B7D5-ED746A34C5E8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0184",
+      "file_name": "663_19-V-0184.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAFCF2AC-510D-48B2-996F-4CEA4BDD3C9C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0184",
+      "file_name": "Old Field Supplement Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/13/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Old Field, Suffolk County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D9A8D18-F7E8-4722-9A62-C56C01A86DF9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0184",
+      "file_name": "Old Field Renewal Petition (complete).pdf"
+    }
+  ]
+}

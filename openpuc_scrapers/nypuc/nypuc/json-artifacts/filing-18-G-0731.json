@@ -1,0 +1,27 @@
+{
+  "case": "18-G-0731",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB8E081E-2974-4C82-82B7-CCC0AF85A105}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-G-0731",
+      "file_name": "163_18-G-0731.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0731",
+      "file_name": ""
+    }
+  ]
+}

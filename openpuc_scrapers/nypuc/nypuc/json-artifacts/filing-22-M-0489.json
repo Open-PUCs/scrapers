@@ -1,0 +1,27 @@
+{
+  "case": "22-M-0489",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={799723D1-9096-49C2-9B7E-52833684489E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-M-0489",
+      "file_name": "261_22-M-0489.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FF176E3-3EB2-4F54-9343-5C3C2AE5C3A0}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "22-M-0489",
+      "file_name": "263_22-M-0489 final.pdf"
+    }
+  ]
+}

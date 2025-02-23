@@ -1,0 +1,71 @@
+{
+  "case": "24-V-0648",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/29/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-01920 Letter to Building Owner 312 97 St alt address",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9081D892-0000-CB40-846B-B45D988A60A2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0648",
+      "file_name": "24-01920 Letter to Building Owner 312 97 St alt address.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-01920 Letter to Building Owners 312 97 St, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90036792-0000-C317-82EB-95CEDA217454}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-V-0648",
+      "file_name": "24-01920 Letter to Building Owners 312 97 St, Brooklyn.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CE0092-0000-C259-B836-70FD76F8C2B7}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0648",
+      "file_name": "Exhibit 2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CE0092-0000-CD34-A461-068F57B905BB}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0648",
+      "file_name": "Exhibit 1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CE0092-0000-C31D-AA8F-A9991C0C9D85}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0648",
+      "file_name": "Filing Cover Letter - Order of Access 2024 - 312 97th.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "312 97th Street - Petition for Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CE0092-0000-CE74-80AC-6AB7F3AD7F89}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0648",
+      "file_name": "312 97th Street - Order of Access Petition_Final(29768054.1).pdf"
+    }
+  ]
+}

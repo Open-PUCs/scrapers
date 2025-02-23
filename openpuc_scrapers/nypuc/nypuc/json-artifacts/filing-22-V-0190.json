@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0190",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44EFAB6B-658A-4545-B37C-3B27E40CD0AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0190",
+      "file_name": "662_22-V-0190.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00234 Letter to Building Owner 2.17.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEE39FC6-50BF-4E6A-831D-44A1EE9144E8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0190",
+      "file_name": "22-00234 Letter to Building Owner 2.17.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 1465 Amsterdam Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E8CE9F3-4EC4-4E7E-81DD-04D5D542A646}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0190",
+      "file_name": "220128-5 Petition (1465 AMSTERDAM AV) (Post-Survey).pdf"
+    }
+  ]
+}

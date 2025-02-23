@@ -1,0 +1,82 @@
+{
+  "case": "23-W-0105",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40610389-0000-CC15-90B4-2F10E37CA9F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "23-W-0105",
+      "file_name": "461_23-W-0105 Confirming Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/06/2023",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Adopting Emergency Action on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60619188-0000-C71F-AF2D-44D7C8A4D1AD}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "23-W-0105",
+      "file_name": "23-W-0105 Make Permanent Order .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Letter Regarding Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E23488-0000-C918-96F9-707C69A305DA}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "8",
+      "docket_id": "23-W-0105",
+      "file_name": "Case Sylvan Glades Filing Letter for 5.15..23 filing_2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "4",
+      "docket_id": "23-W-0105",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance of Terms and Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={002F0187-0000-C811-9604-32D64E572EB4}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "3",
+      "docket_id": "23-W-0105",
+      "file_name": "Case 23-W-0105 - Acceptance of Terms and Conditions (3-20-23 Final).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Appointing a Temporary Operator on an Emergency Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={408AF086-0000-C33F-8780-B13431FCBB7C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-W-0105",
+      "file_name": "462_23-W-0105.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Sylvan Glades - Letter Requesting a Temporary Operator",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={700FA386-0000-C216-B5E5-A0F7227E9E68}",
+      "organization": "Sylvan Glades Water Co., Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0105",
+      "file_name": "Sylvan Glades - Letter Requesting a Temporary Operator.pdf"
+    }
+  ]
+}

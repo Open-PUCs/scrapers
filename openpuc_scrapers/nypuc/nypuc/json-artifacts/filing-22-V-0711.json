@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0711",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DA67088-178C-4964-8B7D-DFEAE01F6266}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0711",
+      "file_name": "662_22-V-0711 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BE31173-2775-433A-A453-D5A56E16C544}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "22-V-0711",
+      "file_name": "AUSA Newspaper Cover Letter - Sands Point, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Sands Point, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF90602B-6A98-48E8-A566-3B1FBA47956B}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "22-V-0711",
+      "file_name": "AUSA Newspaper Affidavit - Sands Point, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6643F828-A813-4212-976D-97D4FBA199C8}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0711",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Sands Point, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D8B032B-FBCA-486B-9CA5-6FFBF1539557}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0711",
+      "file_name": "Exhibit IV - Sands Point, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A2631F6-CBBB-4466-B20D-ACBDFC51933B}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0711",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F660207-C7CB-4BC4-8257-B77005FF7832}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0711",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8500EE7C-CD4D-478C-A07E-46A57731E526}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0711",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFE5432F-AB0B-4AC8-843A-E924A874F7C4}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0711",
+      "file_name": "Application Cover Letter - Sands Point, V..pdf"
+    }
+  ]
+}

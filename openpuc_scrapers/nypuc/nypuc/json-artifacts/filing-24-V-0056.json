@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0056",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E3668E-0000-C213-A0B2-26C25362513C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0056",
+      "file_name": "662_24-V-0056 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901F3D8D-0000-C026-8037-56BD794AABBA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0056",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Fenton Letter 01.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={801F3D8D-0000-C61A-8751-87B1CCFCD8EF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0056",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Fenton Letter 01.24.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Fenton- Request for Renewal and Certificate of Confirmation(redacted) 01.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901F3D8D-0000-CA6B-866E-B60403AD4B04}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0056",
+      "file_name": "Charter Communications, T. Fenton- Request for Renewal and Certificate of Confirmation(redacted) 01.24.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Fenton Cover Letter- Request for Renewal and Certificate of Confirmation 01.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901F3D8D-0000-C54E-92E5-8A9EDCC95D0A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0056",
+      "file_name": "Charter Communications, T. Fenton Cover Letter- Request for Renewal and Certificate of Confirmation 01.24.24.pdf"
+    }
+  ]
+}

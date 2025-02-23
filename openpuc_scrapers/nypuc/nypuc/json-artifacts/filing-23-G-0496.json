@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0496",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240103 - Payment - $2500_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0EE328D-0000-C316-920C-EC7847EAF665}",
+      "organization": "Baymen Industries LTD.",
+      "itemNo": "4",
+      "docket_id": "23-G-0496",
+      "file_name": "20240103 - Payment - $2500_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0C2628B-0000-C811-9101-DB262EA94763}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0496",
+      "file_name": "161-A_23-G-0496.pdf"
+    }
+  ]
+}

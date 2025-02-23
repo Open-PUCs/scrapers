@@ -1,0 +1,104 @@
+{
+  "case": "16-G-0571",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification that Brooklyn Union Gas Company d/b/a National Grid has complied with the directives in the Commission Determination.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92C03F0A-1663-4DD7-AE3A-23C9DD9C9636}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "8",
+      "docket_id": "16-G-0571",
+      "file_name": "16-G-0566 et al Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/18/2017",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCC85BA7-B8DA-4495-AFD2-2F78F0042EFB}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-G-0571",
+      "file_name": "16-G-0566 et al-National Grid-9-18-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/14/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Complainants objection to National Grids request for an extension.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5945E6C4-4D01-42D8-8435-27CD6A5B36FE}",
+      "organization": "6770 Realty Co., LLC, Apartment Management Associates, LLC, Kaled Management Corp., Katz Realty, M & R Management, North Shore Plaza",
+      "itemNo": "6",
+      "docket_id": "16-G-0571",
+      "file_name": "Objection to Request for Extension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/13/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD475057-D1D2-4DD8-A85D-4648ECA3C553}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "5",
+      "docket_id": "16-G-0571",
+      "file_name": "16-G-0056 et al Request for Extension of Time.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58DDF9F9-E768-4F95-81FF-3754B2FE88FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-G-0571",
+      "file_name": "167 Letter 16-G-0571.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={917E8CE9-6682-4FA4-8FD0-959E0F5211D3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-G-0571",
+      "file_name": "167 Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E509A58-15B9-4C99-8E3E-5EC07CD2519A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0571",
+      "file_name": "APL Acknowledgement Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/13/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Determination Denying Request for Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9D92E21-58A6-49A0-ABCE-7A199CF3EFF7}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "2",
+      "docket_id": "16-G-0571",
+      "file_name": "Appeal.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA1272FE-FB84-4477-B6F2-C3D7852964D0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0571",
+      "file_name": "6M Service Classification IR Denial Ltr.pdf"
+    }
+  ]
+}

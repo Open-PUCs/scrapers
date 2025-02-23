@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0467",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5617C47-6B16-406F-A92D-329118C31218}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-E-0467",
+      "file_name": "15-E-0467-42 West Broad Developers-Ext. Ruling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/30/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F16F45F0-69B1-4BFD-B8DC-B4638E607257}",
+      "organization": "42 West Broad Developers LLC",
+      "itemNo": "6",
+      "docket_id": "15-E-0467",
+      "file_name": "Case 15-E-0467_Letter re Further Extension Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2F0754F-A14D-4D1F-A736-E197DDE4B546}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0467",
+      "file_name": "15-E-0467-42 West Broad Developers-Extension Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FCBF585-3465-4E29-B241-D084D73F2BCF}",
+      "organization": "42 West Broad Developers LLC",
+      "itemNo": "4",
+      "docket_id": "15-E-0467",
+      "file_name": "15-E-0467_42 West Broad Street_Letter re_Extension Request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E38C68FB-4E12-405E-8F90-160C3F17DAFB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-E-0467",
+      "file_name": "366_15e0467.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/11/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Unit Service Shut-off",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA2ECC0A-6277-46FF-9D2A-F713207681B7}",
+      "organization": "Alexander Development Group",
+      "itemNo": "2",
+      "docket_id": "15-E-0467",
+      "file_name": "Letter Regarding Unit Shut-off.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/13/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 42 Broad Street West, Mount Vernon, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C148674-7131-49AC-87FB-CC18D88355B7}",
+      "organization": "42 West Broad Developers LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0467",
+      "file_name": "42 W Broad Notice of Intent with Exhibits (HBROC-2506670 v1).pdf"
+    }
+  ]
+}

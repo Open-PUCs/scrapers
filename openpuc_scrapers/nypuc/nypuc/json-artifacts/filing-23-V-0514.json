@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0514",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={409C378D-0000-C110-BB9C-3166D3898E0C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0514",
+      "file_name": "661_23-V-0514 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B094488B-0000-CC16-A220-3407B6AEAE2B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0514",
+      "file_name": "Bedford Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Town of Bedford, Westchester County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2013858A-0000-C51E-91B8-6F5A283D3A04}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0514",
+      "file_name": "Bedford Renewal Petition (Complete).pdf"
+    }
+  ]
+}

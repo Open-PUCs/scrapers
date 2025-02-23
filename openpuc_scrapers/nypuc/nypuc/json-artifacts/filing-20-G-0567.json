@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0567",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F73AD57-4DE8-44ED-BF6D-94FE8A8A0A9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0567",
+      "file_name": "164-C_20-G-0567 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/14/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97720AC2-DBBA-42DC-9196-151052138CA8}",
+      "organization": "Reinhart Enterprises Landscaping and Lawn Care, LLC",
+      "itemNo": "4",
+      "docket_id": "20-G-0567",
+      "file_name": "reinhart enterprises_ltr_m.phillips_20-G-0567_011421.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78852E23-F12C-4345-AE13-A9C30054D437}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0567",
+      "file_name": "163-A_20-G-0567 final.pdf"
+    }
+  ]
+}

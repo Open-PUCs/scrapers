@@ -1,0 +1,27 @@
+{
+  "case": "22-G-0451",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240212 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F03D0F8E-0000-C211-BFAD-E1B26F1C731E}",
+      "organization": "City of Syracuse Water Department",
+      "itemNo": "3",
+      "docket_id": "22-G-0451",
+      "file_name": "20240212 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={718080E1-D897-4FDA-AAE8-7549F2B6497C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0451",
+      "file_name": "163-A_22-G-0451.pdf"
+    }
+  ]
+}

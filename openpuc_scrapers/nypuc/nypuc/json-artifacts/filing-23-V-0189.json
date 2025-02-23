@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0189",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A05B4E88-0000-C71C-A5CF-F47167DE1025}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0189",
+      "file_name": "663_23-V-0189.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00272 Letter to Building Owner 36 Convent Ave 2.28.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80809886-0000-C715-AEBD-FA65BE4E9B21}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0189",
+      "file_name": "23-00272 Letter to Building Owner 36 Convent Ave 2.28.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 36 Convent Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF002987-A411-4E32-8963-D0111D4784D6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0189",
+      "file_name": "230208-10 Petition (36 CONVENT AV) (Post-Survey).pdf"
+    }
+  ]
+}

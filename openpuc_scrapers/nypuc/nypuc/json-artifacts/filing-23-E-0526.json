@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0526",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FD578E-0000-C31E-8530-23CB0445DFAF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0526",
+      "file_name": "366_23-E-0526_31924final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "DER-S Registration Form - Solanta",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50CFDD8B-0000-C153-BAF3-970A7EEF1EB6}",
+      "organization": "SOLANTA",
+      "itemNo": "4",
+      "docket_id": "23-E-0526",
+      "file_name": "DER-S Registration Form - Solanta.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50CFDD8B-0000-CF1A-9675-5384660317F5}",
+      "organization": "SOLANTA",
+      "itemNo": "4",
+      "docket_id": "23-E-0526",
+      "file_name": "2022 Annual Compliance DPS Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "2022 DER annual compliance spreadsheet - Solanta",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50CFDD8B-0000-CA3D-950A-7DB760DB90A4}",
+      "organization": "SOLANTA",
+      "itemNo": "4",
+      "docket_id": "23-E-0526",
+      "file_name": "2022 DER annual compliance spreadsheet - Solanta.xlsx"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B33E8B-0000-CA15-9AD6-13E9662428A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0526",
+      "file_name": "364_23-E-0526_101723.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/12/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Initiates Enforcement Actions Against Distributed Energy Resource Providers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B6258B-0000-C0BE-BCDF-5894EB860531}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "23-E-0526",
+      "file_name": "pr23111.pdf"
+    }
+  ]
+}

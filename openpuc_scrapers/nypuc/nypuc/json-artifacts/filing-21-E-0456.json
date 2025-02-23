@@ -1,0 +1,181 @@
+{
+  "case": "21-E-0456",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Meters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={976127C0-707D-43ED-BF63-A6CB7F62DC4A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0456",
+      "file_name": "363_21-E-0456.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/29/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={825F6FEC-D979-4B48-9D66-95359F81906F}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0456",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/29/2021",
+      "nypuc_doctype": "Motions",
+      "name": "ITRON Confidentiality Request letter 20210929",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B107E159-E1D8-436D-90A1-AB7BE4C3ECB7}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON Confidentiality Request letter 20210929.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/29/2021",
+      "nypuc_doctype": "Reports",
+      "name": "EMC&TEL109691-ANSI (with EMC113869-ANSI Appendix) Rev. 1 - redacted part2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E868D89-AFD5-4725-9C19-946B358F3DF5}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0456",
+      "file_name": "EMC&TEL109691-ANSI (with EMC113869-ANSI Appendix) Rev. 1 - redacted part2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/29/2021",
+      "nypuc_doctype": "Reports",
+      "name": "EMC&TEL109691-ANSI (with EMC113869-ANSI Appendix) Rev. 1 - redacted part1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4A762AB-F53E-4000-910F-9C3A3099CFEA}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0456",
+      "file_name": "EMC&TEL109691-ANSI (with EMC113869-ANSI Appendix) Rev. 1 - redacted part1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Clarification Request 20210928",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F281AA29-73A8-49C2-B30A-B58FB63C7603}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0456",
+      "file_name": "Clarification Request 20210928.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED2CC666-9479-482E-993D-69B4CE5EB8DF}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Itron Gen5 Riva Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C89125CA-2D3F-4E67-B351-5B774943567D}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "Itron Gen5 Riva Letter of Intent.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Reports",
+      "name": "ITRON UL Certificate of Compliance E470764-Vol1-Sec5-20201121",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11392837-52B3-4521-B1FB-18F99CFDC67F}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON UL Certificate of Compliance E470764-Vol1-Sec5-20201121.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Reports",
+      "name": "ITRON TRG Gen5 Riva SP_815-0156-00-Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DE4D8A-580E-4654-8C1C-6EED56A74EC2}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON TRG Gen5 Riva SP_815-0156-00-Redacted.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Reports",
+      "name": "ITRON Product Sheet - 101763SP-01 Gen5 Riva Meter NAM_Web",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C883EA7-2628-4DA0-8C2D-CDE71F6DF896}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON Product Sheet - 101763SP-01 Gen5 Riva Meter NAM_Web.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Reports",
+      "name": "ITRON GEN5 RIVA HW4.2 SP Picture Report-Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B17525A-0CC3-4804-B590-407AB44F5918}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON GEN5 RIVA HW4.2 SP Picture Report-Redacted.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Reports",
+      "name": "ITRON FCC SK9G5R1 - Grant of Certification - DTS",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BD13FDB-E2F9-4B66-AD25-45A4E88F3D77}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON FCC SK9G5R1 - Grant of Certification - DTS.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Reports",
+      "name": "ITRON FCC SK9G5R1 - Grant of Certification - DSS",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4387810-9354-42FA-A302-9E42692B51EC}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON FCC SK9G5R1 - Grant of Certification - DSS.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Motions",
+      "name": "ITRON Confidentiality Request letter 20210823 signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FF1487B-5208-4FF8-B9A9-386287490746}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON Confidentiality Request letter 20210823 signed.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "ITRON Commercial Letter GEN5 Riva HW4.2 SP - 20210722 signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0422834-EE91-40D0-9405-0F73987A7FEC}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0456",
+      "file_name": "ITRON Commercial Letter GEN5 Riva HW4.2 SP - 20210722 signed .pdf"
+    }
+  ]
+}

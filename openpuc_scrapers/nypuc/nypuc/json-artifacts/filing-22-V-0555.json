@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0555",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A04E4E88-0000-C910-8875-B40DFA42A2B4}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "22-V-0555",
+      "file_name": "662_22-V-0555.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/08/2023",
+      "nypuc_doctype": "Letters",
+      "name": "21-02041 Letter to Building Owner Offering Facilitation 3.8.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={800BC286-0000-CE1A-9B9F-8FC438276050}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "22-V-0555",
+      "file_name": "21-02041 Letter to Building Owner Offering Facilitation 3.8.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Update on Verizon's Unsuccessful Efforts",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50269F86-0000-C11E-855D-A025452ABF19}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0555",
+      "file_name": "230301 Verizon Reply re 53 2 AV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3210573E-0615-4305-872B-56D8E2E8DB6E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0555",
+      "file_name": "220408 Verizon Reply re 53 2nd Avenue.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02041 Letter to Building Owner 01-12-2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F260E75-A107-49FD-B0EA-0FDDC572A786}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-V-0555",
+      "file_name": "21-02041 Letter to Building Owner 01-12-2022.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D14C6D60-E058-44D4-90ED-CF913072AAF1}",
+      "organization": "East Village Realty Co.",
+      "itemNo": "3",
+      "docket_id": "22-V-0555",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02041 Letter to Building Owner 10.13.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D421A7F7-8CB7-4BD7-8D04-E93A58F97D51}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0555",
+      "file_name": "21-02041 Letter to Building Owner 10.13.21.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 53 2nd Avenue, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFFF4965-E207-45F1-94A7-F873D0773D7C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0555",
+      "file_name": "8-210923 Petition (53 2 AV) (Complete).pdf"
+    }
+  ]
+}

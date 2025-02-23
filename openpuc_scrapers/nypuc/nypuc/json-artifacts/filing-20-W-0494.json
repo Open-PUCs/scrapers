@@ -1,0 +1,38 @@
+{
+  "case": "20-W-0494",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding Jurisdiction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93450342-BDCD-464C-800F-F5F8D2FD56C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-W-0494",
+      "file_name": "461_20-W-0494 Dec. Ruling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Natural System Utilities - NYPSC Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65401BF3-5B4C-4661-BD7E-13FB6A751A76}",
+      "organization": "Natural System Utilities",
+      "itemNo": "1",
+      "docket_id": "20-W-0494",
+      "file_name": "Natural System Utilities - NYPSC Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97E2D626-2CEF-4F0D-B860-7E2B46826CEC}",
+      "organization": "Natural System Utilities",
+      "itemNo": "1",
+      "docket_id": "20-W-0494",
+      "file_name": "Case 20-W- - NSU Verified Petition Filing Letter.pdf"
+    }
+  ]
+}

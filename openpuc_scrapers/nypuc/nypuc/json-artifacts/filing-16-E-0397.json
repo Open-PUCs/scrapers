@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0397",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE9008FD-3CB9-4E90-AF3D-F1F65559F0D0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0397",
+      "file_name": "377_16e0397 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition of Alcoa Inc., Alcoa Power Generating Inc. and Alcoa Corporation for a Declaratory Ruling Regarding a Corporate Reorganization or, in the Alternative, an Order Approving the Corporate Reorganization.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E004436A-73EB-4ABF-BB53-92E68E06A26A}",
+      "organization": "Alcoa Power Generating Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0397",
+      "file_name": "ALCOA Section 70 Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={163B52EA-28B1-4A5B-AFED-D093C2693FE2}",
+      "organization": "Alcoa Power Generating Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0397",
+      "file_name": "Alcoa Filing Letter.pdf"
+    }
+  ]
+}

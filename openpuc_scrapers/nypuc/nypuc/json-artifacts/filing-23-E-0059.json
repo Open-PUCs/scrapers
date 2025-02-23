@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0059",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Parker57 LLC - Order Certifications - 7.31.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BAAC89-0000-C014-969A-8D40CDE9D266}",
+      "organization": "Parker57, LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0059",
+      "file_name": "Parker57 LLC - Order Certifications - 7.31.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0B18889-0000-C410-95F9-4EA3701C25B9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0059",
+      "file_name": "364_23-E-0059 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Filing - Parker57 LLC - 6.16.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0EDC488-0000-CF15-B524-A18B2C09A436}",
+      "organization": "Parker57, LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0059",
+      "file_name": "Supplemental Filing - Parker57 LLC - 6.16.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - Parker57 LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20893588-0000-C516-9275-224488A7FE50}",
+      "organization": "Parker57, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0059",
+      "file_name": "Supplemental Filing - Parker57 LLC - 5.19.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Parker57, LLC to Submeter Electricity at 119 West 56th Street, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0831DDC8-0486-4C35-BF85-BE75649B755E}",
+      "organization": "Parker57, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0059",
+      "file_name": "Parker57 LLC - Submetering Notice of Intent.pdf"
+    }
+  ]
+}

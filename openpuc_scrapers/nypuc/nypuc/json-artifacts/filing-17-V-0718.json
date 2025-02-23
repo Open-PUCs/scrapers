@@ -1,0 +1,60 @@
+{
+  "case": "17-V-0718",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2D1CF2B-BDC0-4D43-9528-5AAAFA2AAA44}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0718",
+      "file_name": "662_17-V-0718.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letters to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E0D1C3D-8580-4A7E-B438-457C7A3A423D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0718",
+      "file_name": "17-00792 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 15 7th Avenue South, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3CC6E46-319A-46AC-BB4C-1EEB17C8CF71}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0718",
+      "file_name": "170420 Petition re 15 7 Av S.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34D13CB3-5CCF-4DD2-97A6-247DF1CC80AE}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0718",
+      "file_name": "Exhibit 2 (15 7 Av S).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59BD4E51-75F0-4B5C-BC81-74EF5BD44C88}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0718",
+      "file_name": "Exhibit 1 (15 7 Av S).pdf"
+    }
+  ]
+}

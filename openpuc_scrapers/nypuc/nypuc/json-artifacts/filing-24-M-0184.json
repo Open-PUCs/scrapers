@@ -1,0 +1,93 @@
+{
+  "case": "24-M-0184",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2024",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG - Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B12592-0000-C61C-B220-1129D06C8C1F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "24-M-0184",
+      "file_name": "2024-09-24 NYSEG - Compliance Filing (24-M-0184).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B12592-0000-C131-B386-ACFFD793A1BA}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "24-M-0184",
+      "file_name": "2024-09-24 NYSEG- Issuance Compliance Filing - Cover Letter (24-M-0184).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={706CEB90-0000-C91D-9EB8-488898A58FC2}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "24-M-0184",
+      "file_name": "2024-07-25 NYSEG Acceptance Letter (24-M-0184).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing the Issuance of Long-Term Indebtedness, Preferred Stock and Hybrid Securities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90CBDB90-0000-C31B-9DD9-6D1322E4DEA8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-M-0184",
+      "file_name": "267_24-M-0184_71824final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Financing Petition Supplemental Filing (24-M-0184)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0711790-0000-C01E-AC19-7D7B8BDBEEB1}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "24-M-0184",
+      "file_name": "2024-06-14 NYSEG Financing Petition Supplemental Filing (24-M-0184).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Financing Petition Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D88B8E-0000-CA1E-A350-3B931B1DA0D8}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "24-M-0184",
+      "file_name": "2024-03-29 NYSEG Financing Petition Exhibits (24-M-xxxx).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Financing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D88B8E-0000-C933-8D63-F45A214332A1}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "24-M-0184",
+      "file_name": "2024-03-29 NYSEG Financing Petition (24-M-xxxx).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D88B8E-0000-C354-A84F-5312FFF2199C}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "24-M-0184",
+      "file_name": "2024-03-29 NYSEG Financing Petition Cover Letter (24-M-xxxx).pdf"
+    }
+  ]
+}

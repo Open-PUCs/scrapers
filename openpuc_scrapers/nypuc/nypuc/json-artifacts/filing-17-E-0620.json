@@ -1,0 +1,27 @@
+{
+  "case": "17-E-0620",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39F05502-F897-4922-ACB5-8CE2E74ABBB1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-E-0620",
+      "file_name": "373_17-E-0620.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of AP Cricket Valley Holdings I Inc., Rose Capital Investment Inc., Cricket Valley Energy Center LLC, and Cricket Valley Energy Partners LLC for a Declaratory Ruling Regarding Transfer of Upstream Ownership Interests or, in the Alternative, an Approval Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C81D4E9-58DB-44F1-8758-2637D54D34A7}",
+      "organization": "AP Cricket Valley Holdings I Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0620",
+      "file_name": "Cricket Valley Section 70 Petition (filed 10.13.17).pdf"
+    }
+  ]
+}

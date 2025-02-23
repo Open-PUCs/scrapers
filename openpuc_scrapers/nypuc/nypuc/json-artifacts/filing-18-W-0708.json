@@ -1,0 +1,38 @@
+{
+  "case": "18-W-0708",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Limited Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EC3B15D-9B1F-448F-BFD7-F873CD649B23}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-W-0708",
+      "file_name": "462_18-W-0708.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter in Support of the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88D994A2-9D77-42B4-AF7F-4748C6E67B89}",
+      "organization": "Town of Clarkstown",
+      "itemNo": "2",
+      "docket_id": "18-W-0708",
+      "file_name": "Letter in Support of the Petition..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Sisters of Charity Housing Development Corporation and Vincent's Village Associates, LLC for a Waiver of the Requirements of Paragraph D of Section 3.4 in the United Water New York Inc. Tariff.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA34C617-864A-4FFB-9CB9-8A992EE25E12}",
+      "organization": "Sisters of Charity Housing Development Corporation, Vincent's Village Associates, LLC",
+      "itemNo": "1",
+      "docket_id": "18-W-0708",
+      "file_name": "Petition for a Waiver of a Rule.pdf"
+    }
+  ]
+}

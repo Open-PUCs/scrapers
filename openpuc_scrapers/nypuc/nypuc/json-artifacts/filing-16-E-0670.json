@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0670",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A396C43-CBAA-484C-8FB4-A9C1C7FEAA2F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0670",
+      "file_name": "374 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02C5C12B-7A44-4C47-8A27-A6A71E1C1902}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0670",
+      "file_name": "374 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={081D4F5C-FD45-4568-9C11-EA04E73054DB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0670",
+      "file_name": "211309Acknowledgement Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/16/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF5837F4-5BE5-4C65-A3A6-EE871903E9BF}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "16-E-0670",
+      "file_name": "211309Appeal of Informal Hearing Decision.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/16/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64FE6258-24C6-4076-B3AB-FA653DCCD1E2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0670",
+      "file_name": "Quhshi Saleh Ali vs Con Ed 211309 IHD.pdf"
+    }
+  ]
+}

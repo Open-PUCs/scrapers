@@ -1,0 +1,49 @@
+{
+  "case": "24-V-0579",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C47C92-0000-CE51-8146-05E8FB9A6096}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0579",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Aurora Request 10.11.24- LK",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C47C92-0000-C810-B53C-C26C4FD3718A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0579",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Aurora Request 10.11.24- LK.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Aurora- Request for Renewal and Certificate of Confirmation(redacted)10.11.24-lk",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0C47C92-0000-C12B-981A-BB837EEBC5A4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0579",
+      "file_name": "Charter Communications, T. Aurora- Request for Renewal and Certificate of Confirmation(redacted)10.11.24-lk.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Aurora Cover Letter- Request for Renewal and Certificate of Confirmation 10.11.24-lk",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C47C92-0000-C17D-A38D-9BDEE9F1F04B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0579",
+      "file_name": "Charter Communications, T. Aurora Cover Letter- Request for Renewal and Certificate of Confirmation 10.11.24-lk.pdf"
+    }
+  ]
+}

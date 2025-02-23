@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0531",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8CA2187-B38C-4DD4-8936-46CF79C3B2DC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0531",
+      "file_name": "664_17-V-0531.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with City of Rome, Oneida County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B9CBF9F-8AF6-4ABC-B9A0-C81A845CE773}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0531",
+      "file_name": "C Rome Charter PSC cable franchise application.pdf"
+    }
+  ]
+}

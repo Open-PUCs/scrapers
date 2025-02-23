@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0648",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D521EA2-5962-4579-A059-5A9BED9A6922}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0648",
+      "file_name": "164-C_20-G-0648 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0188E2DD-14CF-48D0-B182-E6C38FE2B813}",
+      "organization": "Savo Brother's Inc.",
+      "itemNo": "4",
+      "docket_id": "20-G-0648",
+      "file_name": "Ltr to NYSPSC 08Feb21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/28/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15F6C2AB-A5A8-4AE7-AFC5-A6C92958DC45}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0648",
+      "file_name": "162-A_20-G-0648 final.pdf"
+    }
+  ]
+}

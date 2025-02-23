@@ -1,0 +1,82 @@
+{
+  "case": "24-M-0264",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "BlackRock - PSC Blanket Authorization - Ordering Clause 8 November 2024 Filing (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06C2193-0000-C917-BEBC-9F2CCEFCFB61}",
+      "organization": "BlackRock, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-M-0264",
+      "file_name": "BlackRock - PSC Blanket Authorization - Ordering Clause 8 November 2024 Filing (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Approval to Acquire Stocks and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D093A092-0000-C91A-A266-B2698782FCD7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-M-0264",
+      "file_name": "263_24-M-0264 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/18/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E093A092-0000-C323-95C4-823A844B24BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-M-0264",
+      "file_name": "263_24-M-0264 Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50779692-0000-CB21-9A03-A322EF90365F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-M-0264",
+      "file_name": "24-M-0264 (BlackRock EAF - Cover Letter).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Completed SEAF Part 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50779692-0000-CD1A-ACBB-BA3DB3B41723}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-M-0264",
+      "file_name": "24-M-0264 - Completed SEAF Part 2 and 3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/03/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BlackRock, Inc. for Approval of Acquisition of Stock and Declaratory Ruling Pursuant to Sections 70, 83, 89-h, 100, and 222 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EF3F8F-0000-CA11-A93A-2D9B80355CB6}",
+      "organization": "BlackRock, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-M-0264",
+      "file_name": "BlackRock Petition - 5-3-24.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/03/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EF3F8F-0000-C23A-9572-C54AD48F6F84}",
+      "organization": "BlackRock, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-M-0264",
+      "file_name": "BlackRock Petition Cover Letter - 5-3-24.pdf"
+    }
+  ]
+}

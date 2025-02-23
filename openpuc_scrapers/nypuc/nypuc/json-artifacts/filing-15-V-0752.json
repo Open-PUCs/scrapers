@@ -1,0 +1,71 @@
+{
+  "case": "15-V-0752",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1ABC4B34-F5EF-472E-9005-8EAB4C7E2EA6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-V-0752",
+      "file_name": "15-V-0752 Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75B0848F-6BE1-492E-AEE3-43068C9A7E84}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-V-0752",
+      "file_name": "668_15-V-0752.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE592DCC-E24A-4D2F-BEDE-A1E4DA00CD89}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-V-0752",
+      "file_name": "15-V-0752 signed EAF part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Transmittal Letter Signed 11-04-16",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43095F2B-D756-4CFC-A1E3-EED8822D4D49}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0752",
+      "file_name": "Transmittal Letter Signed 11-04-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Full Environmental Assessment Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32781033-A948-4526-8716-6E87AFA4F1EC}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0752",
+      "file_name": "Town of Kortright Signed Full Environmental Assessment Form 10-25-16 OCR.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/23/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C330367-0771-44E6-93F3-891DC48B1645}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0752",
+      "file_name": "DTC Cable, Inc..pdf"
+    }
+  ]
+}

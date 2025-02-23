@@ -1,0 +1,93 @@
+{
+  "case": "19-T-0402",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/03/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Kevin M. Bernstein, Esq. Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BEDEDB41-40A2-4371-8629-90F4B08B3D39}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-T-0402",
+      "file_name": "Case 19-T-0402 closing letter 2.3.2021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter Withdrawing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1AEC319-4F69-4078-A57B-263B1DD54EB9}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "19-T-0402",
+      "file_name": "Lt Withdrawing Petition in Case 19-T-0402.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "TU Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB6AA86D-73C5-4DC0-A662-6060CB2A1007}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "19-T-0402",
+      "file_name": "TU Aff of Publication (19-T-0402).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93FB5D87-BA3C-44C4-BDFD-E33AD54E79F3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "19-T-0402",
+      "file_name": "Filing Ltr - Aff of Pub (19-T-0402).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Public Notice - Petition to Amend - Case 26423",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFAF0FE4-E0E8-4B73-BCE2-57B3EB9EBCC4}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0402",
+      "file_name": "Public Notice - Petition to Amend - Case 26423.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "NG Petition to Amend - Case 26423",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B7970AB-6186-42CE-BEB0-7FD4EAD302BD}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0402",
+      "file_name": "NG Petition to Amend - Case 26423.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A195D4BD-DFC3-47D0-9E87-262D5F861D2D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0402",
+      "file_name": "NG Filing Ltr for Petition to Amend - Case 26423.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Certificate of Service - Petition to Amend - Case 26423",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6CACA05-E4D6-4D4A-82F4-FD5657F7CDAB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0402",
+      "file_name": "Certificate of Service - Petition to Amend - Case 26423.pdf"
+    }
+  ]
+}

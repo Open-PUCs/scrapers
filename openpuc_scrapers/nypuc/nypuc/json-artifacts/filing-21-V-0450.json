@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0450",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A11D45E9-A0C8-492E-B175-BEC3D21634CC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0450",
+      "file_name": "661_21-V-0450.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of North Harmony, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19291B51-92C7-4714-9328-E6B306D5014C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0450",
+      "file_name": "2021.08.16 - T. NORTH HARMONY FRANCHISE RENEWAL FILED.pdf"
+    }
+  ]
+}

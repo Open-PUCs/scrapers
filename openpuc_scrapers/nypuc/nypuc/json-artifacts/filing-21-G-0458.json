@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0458",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver and Extending Development Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB877F96-90A7-4267-9A44-2B851D4A9F3B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0458",
+      "file_name": "162_21-G-0458 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NMPC Response to Hillsman Estates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D665669-F2E8-42BD-88BF-2FF9EEE40D0F}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-G-0458",
+      "file_name": "Case 21-G-0458 - NMPC - Response - Hillsman Estates (11-16-2021).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Belmonte Properties, LLC for Request for 1 Year Extension on National Grid Letter of Credit--Hillsman Estates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F307866D-C636-4B1D-9493-FF77541F5039}",
+      "organization": "Belmonte Properties, LLC",
+      "itemNo": "1",
+      "docket_id": "21-G-0458",
+      "file_name": "cc of PSC Request to Extend & BU.pdf"
+    }
+  ]
+}

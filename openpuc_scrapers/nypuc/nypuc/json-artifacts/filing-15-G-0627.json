@@ -1,0 +1,38 @@
+{
+  "case": "15-G-0627",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/12/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to ERHC Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD15CD7C-1F0E-4D05-B261-E67C9D2900D0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-G-0627",
+      "file_name": "15G0627 CECONY Response to ERHC Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/04/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Mr. Duthie regarding transfer of case to OCS.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93AB2FA6-918C-46BD-8516-834A6337E75F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-G-0627",
+      "file_name": "15G0627 East River Housing-Transfer-Closing Case.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of East River Housing Corporation for a Declaratory Ruling Concerning the Consolidated Edison Company of New York Penalty Rate for Unauthorized Gas Usage.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B84A0013-0957-48CA-8143-3A0C06857096}",
+      "organization": "East River Housing Corporation",
+      "itemNo": "1",
+      "docket_id": "15-G-0627",
+      "file_name": "Petition for a Declaratory Ruling.pdf"
+    }
+  ]
+}

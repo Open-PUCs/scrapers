@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0162",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C09E878F-0000-CA75-B0A2-F8C5D3DB3507}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0162",
+      "file_name": "372_24-E-0162 and 24-E-0168 51724fnl.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Whale Verification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207D398E-0000-C859-9697-3DE7C86E0919}",
+      "organization": "GIP IV Whale Fund Holdings, L.P., South Fork Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0162",
+      "file_name": "Whale Verification.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "South Fork Wind Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207D398E-0000-CB32-B545-443DFCD89CD2}",
+      "organization": "GIP IV Whale Fund Holdings, L.P., South Fork Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0162",
+      "file_name": "South Fork Wind Petition 3-13-2024.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "JMM Verification - NYPSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207D398E-0000-C17C-8BAD-46C43F0FCD5D}",
+      "organization": "GIP IV Whale Fund Holdings, L.P., South Fork Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0162",
+      "file_name": "JMM Verification - NYPSC 3.13.2024.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A - Org Charts - Project Whale - Section 70",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207D398E-0000-CA95-8E93-6BC1A38E2BE7}",
+      "organization": "GIP IV Whale Fund Holdings, L.P., South Fork Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0162",
+      "file_name": "Exhibit A - Org Charts - Project Whale - Section 70 .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207D398E-0000-C319-BABA-5A0E154984AB}",
+      "organization": "GIP IV Whale Fund Holdings, L.P., South Fork Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0162",
+      "file_name": "Phillips 3.13.2024.pdf"
+    }
+  ]
+}

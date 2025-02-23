@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0549",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50BA2693-0000-CC21-B6C3-55724F5B6627}",
+      "organization": "East 88 Owner LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0549",
+      "file_name": "additional information (3).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application (24)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B08A4892-0000-C528-9F89-D263F95CF7DF}",
+      "organization": "East 88 Owner LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0549",
+      "file_name": "submetering application (24).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "_Submeterer ID Form_Metergy Filled In (3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B08A4892-0000-CE22-B1B8-33DEC7232F4B}",
+      "organization": "East 88 Owner LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0549",
+      "file_name": "_Submeterer ID Form_Metergy Filled In (3).pdf"
+    }
+  ]
+}

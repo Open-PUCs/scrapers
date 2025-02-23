@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0304",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={106C838C-0000-CA17-85BF-F3602A76C171}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0304",
+      "file_name": "386_23-E-0304 Order 121923 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={106C838C-0000-CE3A-86D2-AB7D63C1A9B4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0304",
+      "file_name": "386_23-E-0304 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/18/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30BC7E8C-0000-C435-A420-D33A81BA080E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0304",
+      "file_name": "Case 23-E-0304 SEAF Parts 2 and 3 for OR and Village of Warwick.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/18/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30BC7E8C-0000-CC12-8A76-24D557C98835}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0304",
+      "file_name": "Case 23-E-0304 Cover Letter SEAF Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "ORU Petition to Transfer Street Lights to Warwick",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A053A188-0000-C01D-B09C-F3158CC370BF}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0304",
+      "file_name": "ORU Petition to Transfer Street Lights to Warwick.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B053A188-0000-C62F-89AD-9F9737D4FAA9}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0304",
+      "file_name": "Cover Letter- Warwick Section 70.pdf"
+    }
+  ]
+}

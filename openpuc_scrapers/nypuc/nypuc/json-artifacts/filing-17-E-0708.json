@@ -1,0 +1,93 @@
+{
+  "case": "17-E-0708",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment of Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13B222A2-3F0F-4660-9E01-DE9280C855C3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-E-0708",
+      "file_name": "JFK Petition Amendment letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/07/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAB200AF-1482-4B46-966E-FF90FA739810}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-E-0708",
+      "file_name": "JFK Project Reply Transmittal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Reply to Comments of City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06471958-DF00-408B-A21F-3599883AA24B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-E-0708",
+      "file_name": "JFK Microgrid Project Reply to NYC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4C2D003-70DB-4ECA-98C2-C325AF03F0EA}",
+      "organization": "City of New York",
+      "itemNo": "2",
+      "docket_id": "17-E-0708",
+      "file_name": "Letter NYC Comments on Kennedy Airport Microgrid Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B6EA2AD-2847-44A4-A673-182CD0082B56}",
+      "organization": "City of New York",
+      "itemNo": "2",
+      "docket_id": "17-E-0708",
+      "file_name": "Final NYC Comments on Kennedy Airport Microgrid Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. for Recovery of Certain Costs Related to the Implementation of a Non-Wires Alternative Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB41B0E6-970A-4DD6-AC46-DBAE6865B31F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0708",
+      "file_name": "JFK Microgrid Project Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "JFK Project SAPA Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17DAB696-53B0-4148-B351-F001C83168CB}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0708",
+      "file_name": "JFK Project SAPA Notice.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4282EBF8-920D-410D-9082-8939E12FB71B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0708",
+      "file_name": "JFK Project Transmittal (1).pdf"
+    }
+  ]
+}

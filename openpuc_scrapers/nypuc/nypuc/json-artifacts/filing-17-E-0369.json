@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0369",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/16/2018",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Central Hudson's VTOU Outreach and Education Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF22594D-0344-486F-A1FD-A4F3B2B4AD4F}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "17-E-0369",
+      "file_name": "CHGE VTOU Communication Plan 01162018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "17-E-0369",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Voluntary Time of Use Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50A4164C-AFD3-4AC7-927C-7D1F95C48939}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0369",
+      "file_name": "267_17-E-0369.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/07/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Citizens for Local Power",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4FBB925-3709-4783-8DFA-C69AAF5BA0C0}",
+      "organization": "Citizens for Local Power",
+      "itemNo": "2",
+      "docket_id": "17-E-0369",
+      "file_name": "Case_17-E-0369_CLP_letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Central Hudson Gas & Electric Corporation for Time of Use Rate Review and Recommendations.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A78F145-6B5E-4F8C-A610-F03BAB62FFCB}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0369",
+      "file_name": "CHGE TOU Rate Review and Recommendations Filing.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/01/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CB4A543-8FFE-40E8-8A57-1FE08A74F207}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0369",
+      "file_name": "CHG&E Filing Letter.pdf"
+    }
+  ]
+}

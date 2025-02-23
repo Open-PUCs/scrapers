@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0496",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={684A2909-3E9F-45AA-A8BE-AD99EDD2064E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0496",
+      "file_name": "666_20-V-0496 NegDec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B19F283-C6B7-473F-B2D4-7C250367D33E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0496",
+      "file_name": "666_20-V-0496 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "20-V-0496 Town of Hampton SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54187AEA-3FE8-4166-B51C-A239EDB7208B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-V-0496",
+      "file_name": "20-V-0496 Town of Hampton SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition - T. Hampton SEAF, Map",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1766C34E-8B2E-4859-B31C-572F26052AE1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "20-V-0496",
+      "file_name": "2020.10.19 Case 20-V-0496 T. Hampton SEAF, Map.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/09/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for a Certificate of Confirmation for its Franchise with the Town of Hampton, Washington County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77CB5819-6BF9-47BE-A123-1D0F53501B32}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0496",
+      "file_name": "2020.10.08 T. HAMPTON PETITION TO PSC.pdf"
+    }
+  ]
+}

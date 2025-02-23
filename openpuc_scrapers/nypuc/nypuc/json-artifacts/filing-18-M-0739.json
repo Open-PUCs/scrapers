@@ -1,0 +1,148 @@
+{
+  "case": "18-M-0739",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "10",
+      "docket_id": "18-M-0739",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Regarding Steam Standby Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5FE177B-3880-46F8-B59F-C603DFDB4E5B}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "18-M-0739",
+      "file_name": "268_18-M-0739.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Action on the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D406DA77-E35F-46D0-9E87-A379D56EC08E}",
+      "organization": "City of New York",
+      "itemNo": "8",
+      "docket_id": "18-M-0739",
+      "file_name": "8-9-19 Ltr to Sec. Burgess_Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B023B16-E0BA-4EEF-80FD-8F0FBBCDE6E5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "18-M-0739",
+      "file_name": "Con Edison cover letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8FA7366-86BC-4A93-88CB-56B57191BBEA}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "18-M-0739",
+      "file_name": "Con Edison Response to Reply.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/01/2019",
+      "nypuc_doctype": "Comments",
+      "name": "CPA Comments on Bellvue Steam Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AB54CE5-674F-4544-9E55-6203C8EC3379}",
+      "organization": "Consumer Power Advocates",
+      "itemNo": "6",
+      "docket_id": "18-M-0739",
+      "file_name": "CPA Comments on Bellvue Steam Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A7BFA86-AF40-484D-BDBA-7D5C0896FBC8}",
+      "organization": "City of New York",
+      "itemNo": "5",
+      "docket_id": "18-M-0739",
+      "file_name": "City of New York Reply Filing Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "City of New York Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1476F7DA-8583-4781-826F-F5E2A876FDB8}",
+      "organization": "City of New York",
+      "itemNo": "5",
+      "docket_id": "18-M-0739",
+      "file_name": "City of New York Reply to CE Response.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison\u00bfs response to the Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D74FC5F-E98C-4F9A-8A63-A75F15304DEB}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "18-M-0739",
+      "file_name": "Con Edison Response to Petition.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/20/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2267BA13-A834-4954-9824-23E44F59F4FA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-M-0739",
+      "file_name": "18-m-0739_122018.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "12/19/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B8FA5EB-6E4A-4D9B-8649-60E460BDA92E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-M-0739",
+      "file_name": "Con Edison extension request.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "12/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of City of New York for a Declaratory Ruling Regarding Consolidated Edison Company of New York, Inc.'s Standby Rate Exemptions Under Its Steam and Electric Service Tariffs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={443A3070-1EC3-41D6-8201-F8E49C4DA1F5}",
+      "organization": "City of New York",
+      "itemNo": "1",
+      "docket_id": "18-M-0739",
+      "file_name": "City of New York Bellevue Petition for Declaratory Ruling 12 10 2018.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "12/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FCEC58E-8DFB-4E1A-9029-21AC9EA77784}",
+      "organization": "City of New York",
+      "itemNo": "1",
+      "docket_id": "18-M-0739",
+      "file_name": "City of New York Bellevue Petition Filing Letter.pdf"
+    }
+  ]
+}

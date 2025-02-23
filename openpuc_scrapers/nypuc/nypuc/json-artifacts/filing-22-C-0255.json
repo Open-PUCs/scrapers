@@ -1,0 +1,38 @@
+{
+  "case": "22-C-0255",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "TierPoint NYPSC Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109EDCA3-EA24-4A85-87CF-19C4904E0E6F}",
+      "organization": "TierPoint CLEC, LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0255",
+      "file_name": "TierPoint NYPSC Consummation Notice 8 17 2022.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/04/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00906 TierPoint OOL Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A748AD7-765A-4626-90BC-3E2DF73065BE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0255",
+      "file_name": "22-00906 TierPoint OOL Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of TierPoint, LLC and Argo Inception Holdings, LLC For Approval of a Transfer of Control of TierPoint CLEC, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2C84000-C800-4201-90EC-B7BD13AA4617}",
+      "organization": "TierPoint CLEC, LLC, TierPoint, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0255",
+      "file_name": "TierPoint NYPSC Filing 4-27-22.pdf"
+    }
+  ]
+}

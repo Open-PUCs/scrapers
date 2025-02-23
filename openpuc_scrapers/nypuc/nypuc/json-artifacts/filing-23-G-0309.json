@@ -1,0 +1,71 @@
+{
+  "case": "23-G-0309",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600D1C8C-0000-CE17-94D5-F4D63DB43650}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0309",
+      "file_name": "163 - 23-G-0309 - Letter 112923 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600D1C8C-0000-C438-9930-496AFD82A3BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0309",
+      "file_name": "163 - 23-G-0309 - Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-E-0309 Con Edison Response to Albert Realty Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B45589-0000-C616-B001-A7083B63FDBF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-G-0309",
+      "file_name": "23-E-0309 Con Edison Response to Albert Realty Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3030A288-0000-C314-B7F3-28CE76891AD9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0309",
+      "file_name": "Ack letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02EA288-0000-CE12-8728-D2F868B395DA}",
+      "organization": "Albert Realty Corp.",
+      "itemNo": "2",
+      "docket_id": "23-G-0309",
+      "file_name": "Albert Realty Corp. v Con Edison (167696) - Appeal of Informal Decision.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F02CA288-0000-C317-B712-2D3835503E17}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0309",
+      "file_name": "Informal Hearing Decision #167696.pdf"
+    }
+  ]
+}

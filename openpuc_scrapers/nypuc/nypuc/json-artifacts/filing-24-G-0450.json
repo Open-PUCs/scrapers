@@ -1,0 +1,93 @@
+{
+  "case": "24-G-0450",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241008 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E49B92-0000-C928-986E-F7CA3BA803BC}",
+      "organization": "Deborah Bradley Construction & Management Services Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0450",
+      "file_name": "20241008 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00653492-0000-CC14-8DCD-B308418BE843}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-G-0450",
+      "file_name": "161-A_24-G-0450 92724final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240423 - Response to NOPV Letter - evidence sent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={008C2A8F-0000-C230-A750-9EAB5AF842EB}",
+      "organization": "Deborah Bradley Construction & Management Services Inc.",
+      "itemNo": "2",
+      "docket_id": "24-G-0450",
+      "file_name": "20240423 - Response to NOPV Letter - evidence sent.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240423 - Response to NOPV Letter - evidence request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={008C2A8F-0000-C01E-A48F-56828EDFFE5F}",
+      "organization": "Deborah Bradley Construction & Management Services Inc.",
+      "itemNo": "2",
+      "docket_id": "24-G-0450",
+      "file_name": "20240423 - Response to NOPV Letter - evidence request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240416 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0DDE78E-0000-CE1A-8589-D47E9E620B6B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0450",
+      "file_name": "20240416 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240416 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0DDE78E-0000-C677-A556-3AF76BDCBA36}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0450",
+      "file_name": "20240416 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240416 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0DDE78E-0000-C555-849D-0AA3C4347753}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0450",
+      "file_name": "20240416 - Citation.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240403 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0DDE78E-0000-C831-8E16-018DBFEE5627}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0450",
+      "file_name": "20240403 - Origin of Investigation.pdf"
+    }
+  ]
+}

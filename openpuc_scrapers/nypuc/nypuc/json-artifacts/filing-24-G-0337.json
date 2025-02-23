@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0337",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240822 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={003C9A91-0000-C220-AD11-E12DB179D6D8}",
+      "organization": "Landmark Enterprises LLC",
+      "itemNo": "5",
+      "docket_id": "24-G-0337",
+      "file_name": "20240822 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90C11391-0000-C210-BA02-0C6303F362AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-G-0337",
+      "file_name": "161-B_24-G-03378224final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80CDC68D-0000-C418-AF5B-AE7FCB57D032}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0337",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

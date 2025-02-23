@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0086",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E42375B8-9364-431B-9C0B-7254F0E21EB6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0086",
+      "file_name": "366_16e0086.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14F64226-51C9-4E09-A198-AEF949501E29}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0086",
+      "file_name": "Affidavit to PSC 032116.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0086",
+      "file_name": ""
+    }
+  ]
+}

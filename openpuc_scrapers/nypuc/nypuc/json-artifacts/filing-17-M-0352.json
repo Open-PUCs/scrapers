@@ -1,0 +1,49 @@
+{
+  "case": "17-M-0352",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/11/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Request of National Grid to withdraw its Notice Regarding the Lease of Certain Property Located at 3 Cove Hollow Road East Hampton, NY to East Hampton Energy Storage Center, LLC (\u00bfNotice\u00bf) filed on April 19, 2017",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59BA8D9F-D1C5-4E35-801D-816429D65F5A}",
+      "organization": "National Grid Generation LLC",
+      "itemNo": "4",
+      "docket_id": "17-M-0352",
+      "file_name": "Letter Section 70 Notice Withdrawal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B01459DE-0231-455B-8D35-8173D2EECF98}",
+      "organization": "National Grid Generation LLC",
+      "itemNo": "2",
+      "docket_id": "17-M-0352",
+      "file_name": "NG Generation Section 70 Lease Confidentiality Request Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of National Grid Generation LLC for Approval of a Transfer or Lease of Property with an Original Cost of Less Than $100,000, Located at 3 Cove Hollow Road, East Hampton, New York to East Hampton Energy Storage Center, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29002F68-0E7A-44DB-B0DB-74B48FF88EC2}",
+      "organization": "National Grid Generation LLC",
+      "itemNo": "1",
+      "docket_id": "17-M-0352",
+      "file_name": "East_Hampton_Section_70 (Final).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={247BE8D1-41C5-4A45-9435-16F6032FA93C}",
+      "organization": "National Grid Generation LLC",
+      "itemNo": "1",
+      "docket_id": "17-M-0352",
+      "file_name": "NG Generation Section 70 Lease Filing Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0609",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D329639A-E659-4AD4-9EBE-2050C74885D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0609",
+      "file_name": "663_19-V-0609 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCC0B461-AFAF-48D9-8909-3B8284E7BC61}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0609",
+      "file_name": "18-00910 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2650 Cropsey Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCC9151E-F03C-4CD8-9F2B-C08F561B99C9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0609",
+      "file_name": "Petition (2650 Cropsey Av).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6A5C4A3-49C3-4241-9688-11CFEAF9F178}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0609",
+      "file_name": "Exhibit 2 (2650 Cropsey Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E35DB607-45F3-45D9-845E-FCBF4D514E18}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0609",
+      "file_name": "Exhibit 1 (2650 Cropsey Av).pdf"
+    }
+  ]
+}

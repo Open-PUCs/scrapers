@@ -1,0 +1,104 @@
+{
+  "case": "20-V-0668",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF4FD6D4-EC4B-4DF8-8909-5D5ACC735729}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0668",
+      "file_name": "661_20-V-0668 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Suffolk Cable of Shelter Island, Inc. Publication Affidavit (North Haven)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={016A8F77-9598-4D9E-8468-F1BB5A3BEB37}",
+      "organization": "Altice USA",
+      "itemNo": "3",
+      "docket_id": "20-V-0668",
+      "file_name": "Suffolk Cable of Shelter Island, Inc. Publication Affidavit (North Haven).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D56F1FF5-B7ED-4D54-AB11-B4C5D6D26948}",
+      "organization": "Altice USA",
+      "itemNo": "3",
+      "docket_id": "20-V-0668",
+      "file_name": "Cover Letter for Suffolk Cable of Shelter Island, Inc. Publication Affidavit (North Haven).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance (North Haven)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={095F9899-1F6D-4037-9EE3-06A17C401897}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0668",
+      "file_name": "Proof of Performance (North Haven).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Franchise Renewal Agreement (North Haven)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6CB0D3E9-7459-4838-8899-465E16408B1B}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0668",
+      "file_name": "Exhibit IV - Franchise Renewal Agreement (North Haven).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Municipal Resolution (North Haven)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA14BD6F-4A43-4CD6-AE2A-BD1839363E1C}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0668",
+      "file_name": "Exhibit III - Municipal Resolution (North Haven).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Municipal Newspaper Publication Affidavit (North Haven)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA731F1E-EE0B-4742-9642-383D185B983D}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0668",
+      "file_name": "Exhibit II - Municipal Newspaper Publication Affidavit (North Haven).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2 Application for Renewal of Franchise + Attachments (North Haven)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA7FBCCA-625A-4BD7-9305-839F48B53408}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0668",
+      "file_name": "Exhibit I - R-2 Application for Renewal of Franchise + Attachments (North Haven).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79D6BBF4-76B9-4032-B6C9-CFB6BE2A65B1}",
+      "organization": "Suffolk Cable of Shelter Island, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0668",
+      "file_name": "Application Cover Letter (North Haven).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0370",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/25/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "20-G-0370",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing with Modification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4613C40F-D856-4D70-91B4-939C27FF18C9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0370",
+      "file_name": "162_20-G-0370_Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "20-G-0370",
+      "file_name": ""
+    }
+  ]
+}

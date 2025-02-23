@@ -1,0 +1,38 @@
+{
+  "case": "23-W-0136",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/30/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rainbow Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-W-0136",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Cancellation of Statements with Modification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={104E3588-0000-C51C-B8D3-01C5186175B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-W-0136",
+      "file_name": "461_23-W-0136.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rainbow Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0136",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0752",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA771B77-6A5E-4E27-9C46-AD7918A66DEF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0752",
+      "file_name": "662_19-V-0752 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/09/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E28C5004-A4E7-4C78-AE69-6484B51103CA}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0752",
+      "file_name": "AUSA Public Notice with Cover Letter.pdf (589 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AC3ADF5-3B71-404A-B712-E326C14FC999}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0752",
+      "file_name": "Proof of Performance.pdf (152 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV Ardsley Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={566BEC9C-2375-4357-9555-824474A7EF84}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0752",
+      "file_name": "Exhibit IV Ardsley Franchise.pdf (687 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III Ardsley Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3CF4E46-02D8-40B2-B6B1-8013915B7D30}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0752",
+      "file_name": "Exhibit III Ardsley Resolution.pdf (503 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II Ardsley Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CBEB42C3-6E83-4C67-8AA6-26D985854622}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0752",
+      "file_name": "Exhibit II Ardsley Public Notice.pdf (314 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I Ardsley R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8F292A6-4B31-4322-A24C-2D0DB9122095}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0752",
+      "file_name": "Exhibit I Ardsley R-2.pdf (414 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Ardsley Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D0F99CB-0946-4F72-9D22-06E035DC2E19}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0752",
+      "file_name": "Ardsley Application Cover Letter.pdf (105 KB)"
+    }
+  ]
+}

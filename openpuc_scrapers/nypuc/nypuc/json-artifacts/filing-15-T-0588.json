@@ -1,0 +1,60 @@
+{
+  "case": "15-T-0588",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "Revised Exhibit B - MECO",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C019A53-CDA5-4E3B-8F7D-CB18ACB4DC55}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "15-T-0588",
+      "file_name": "Revised Exhibit B - MECO.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D314A22A-427E-4683-A4C5-D5829562F2A0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "15-T-0588",
+      "file_name": "Meco Rotterdam _10 Part 102 Letter revised access.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/01/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Ms. Zafonte regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE682D99-AD56-4257-9509-25C63F5251AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-T-0588",
+      "file_name": "15-T-0588_Part 102 Final Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Part 102 Report of Niagara Mohawk Power Corporation concerning the Meco-Rotterdam #10 Conductor Clearance Refurbishment Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECBC1FDC-36B6-4E6B-A450-3F5879180AD7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "15-T-0588",
+      "file_name": "Part 102_Meco Rotterdam_Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={075247C7-600B-4BE9-BA6B-63232DB66C2F}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "15-T-0588",
+      "file_name": "Filing Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0178",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Westfield",
+      "itemNo": "7",
+      "docket_id": "16-E-0178",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/14/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E4C3FFD-ACEF-4CF8-88F1-F3C960E6AB36}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0178",
+      "file_name": "378_16e0178.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B8DBE85-8F02-436C-93A4-EB11ECB3FB31}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0178",
+      "file_name": "16e0178 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B599BDE-358E-4581-966E-C501AE4AE8F5}",
+      "organization": "Village of Westfield",
+      "itemNo": "4",
+      "docket_id": "16-E-0178",
+      "file_name": "Andrew Thompson.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/01/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Westfield",
+      "itemNo": "3",
+      "docket_id": "16-E-0178",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/31/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66BC6D72-9BCD-4B6B-B2D4-9CABF2286963}",
+      "organization": "Village of Westfield",
+      "itemNo": "2",
+      "docket_id": "16-E-0178",
+      "file_name": "Village of Westfield Tariff Amendment .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/22/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Westfield",
+      "itemNo": "1",
+      "docket_id": "16-E-0178",
+      "file_name": ""
+    }
+  ]
+}

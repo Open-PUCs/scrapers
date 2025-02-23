@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0454",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15D5D136-1852-4E9A-97A7-A39CC800488A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0454",
+      "file_name": "661_20-V-0454 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Shelby, Orleans County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68D1AAF3-8E2F-4D00-A72E-35D60869C969}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0454",
+      "file_name": "2020.09.14 T. SHELBY RENEWAL SUBMISSION - PSC.pdf"
+    }
+  ]
+}

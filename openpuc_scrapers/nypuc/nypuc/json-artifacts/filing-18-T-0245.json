@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0245",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa Zafonte regarding 16NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCCE77FF-0504-4195-8ABA-929491A63B14}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0245",
+      "file_name": "18-T-0245-Cobleskill-Summit-Part 102 ltr.-6-18-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report, Niagara Mohawk Power Corporation d/b/a National Grid Concerning the Cobleskill-Summit #5 & Cobleskill-Schoharie #6 69kV Subtransmission Line Switch Installation Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8368A5B5-6776-4C63-9DAE-B741756A3A47}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0245",
+      "file_name": "Cobleskill-Summit Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB5A8FD2-C0AF-4383-A0ED-B1B0818108D5}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0245",
+      "file_name": "NG Filing Ltr for Cobleskill Summit Part 102.pdf"
+    }
+  ]
+}

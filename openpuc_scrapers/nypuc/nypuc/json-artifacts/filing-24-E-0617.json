@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0617",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information (5)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E32B93-0000-CF16-8B4F-9203B1BE10A1}",
+      "organization": "Bedford Beverly 2359 LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0617",
+      "file_name": "additional information (5).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0CBE792-0000-CF37-8C7E-1380B8C3B69A}",
+      "organization": "Bedford Beverly 2359 LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0617",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

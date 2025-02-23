@@ -1,0 +1,126 @@
+{
+  "case": "20-E-0476",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/10/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9AB683CE-2CEF-47FD-B65A-3EDB3130132E}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "7",
+      "docket_id": "20-E-0476",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19CA606A-DD28-46BC-863A-6D1C2ABDB04A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0476",
+      "file_name": "362_20-E-0476 - Order Authorizing Submetering.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 3-31 St. Nicholas Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96C953BC-6129-4D0E-9934-06A6C633C928}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0476",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/23/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "the additional information requested for 3-31 St. Nicholas Avenue, Flushing, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C595F7F1-7ABF-4A1D-B578-40D47B4B0A27}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0476",
+      "file_name": "additional information requested.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/19/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4812B53-E148-41FA-8FA1-CFE1224BC204}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0476",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6739FB31-4866-487A-94FF-4780505B55F1}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0476",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Programmable Thermostat Invoice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69ECA991-AC85-4D0F-A90F-379D9A56F4DC}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0476",
+      "file_name": "Programmable Thermostat Invoice.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F109E2DD-2707-451E-882A-75D18FCC0EA3}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0476",
+      "file_name": "submetering 1.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93EF35D4-3931-4DE6-B972-DD3D99ADD219}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0476",
+      "file_name": "Submetering Lease Rider.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADE009AD-614E-4033-AE61-8A632E41F0C8}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0476",
+      "file_name": "Submetering Identification Form.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B74A517-168B-4093-9C23-43F6F7BCB885}",
+      "organization": "329 St. Nick LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0476",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "19-M-0128",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0128 Coluccio Ack LEtter 02132019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE7E815E-A31A-4B25-A453-558B50C0D963}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-M-0128",
+      "file_name": "19-M-0128 Coluccio Ack LEtter 02132019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-M-0128 Coluccio Rehearing Request 02042019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7AC5730E-D368-42BE-8779-2FD7BAC35875}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-M-0128",
+      "file_name": "19-M-0128 Coluccio Rehearing Request 02042019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0128 Colucciio SMD Final 01162019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7AF24E6-5E80-4DC7-9576-545D5D100920}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-M-0128",
+      "file_name": "19-M-0128 Colucciio SMD Final 01162019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/21/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BAF5D81-7BD5-4CDE-95A6-131E7F35DE20}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0128",
+      "file_name": "262 Letter_Redacted.pdf"
+    }
+  ]
+}

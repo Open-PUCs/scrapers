@@ -1,0 +1,27 @@
+{
+  "case": "23-S-0726",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Waiver transmittal letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B38C8C-0000-C915-9816-D1B74C81B0B5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-S-0726",
+      "file_name": "Waiver transmittal letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Waiver Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B38C8C-0000-C922-997E-13AD2CD266A7}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-S-0726",
+      "file_name": "Waiver Petition.pdf"
+    }
+  ]
+}

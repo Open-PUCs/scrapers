@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0120",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={403C4E88-0000-CD14-8A27-23E442509047}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0120",
+      "file_name": "661_23-V-0120.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/07/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A3BD86-0000-CE51-86BB-C03B9568EB9D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0120",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Waddington 3.7.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A3BD86-0000-C813-88DE-F49F75F546B7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0120",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Waddington 3.7.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Waddington-Request for Renewal and Certificate of Confirmation(redacted) 3.7.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A3BD86-0000-C793-BF38-80F6CAA6201E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0120",
+      "file_name": "Charter Communications, T. Waddington-Request for Renewal and Certificate of Confirmation(redacted) 3.7.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Waddington-Cover Letter-Request for Renewal and Certificate of Confirmation 3.7.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A3BD86-0000-C972-988D-4C55B8813660}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0120",
+      "file_name": "Charter Communications, T. Waddington-Cover Letter-Request for Renewal and Certificate of Confirmation 3.7.23.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0056",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Complete Transfer of Effected Comcast Customer's to First Communications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA2E5875-03FB-488A-82FF-D246DA979418}",
+      "organization": "Comcast Phone of New York, LLC d/b/a CIMCO, First Communications, LLC",
+      "itemNo": "3",
+      "docket_id": "16-C-0056",
+      "file_name": "Davis Wright Tremaine LLP.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Assets",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D6BB09-3412-4F02-ADAA-7541E2E35C37}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0056",
+      "file_name": "561_16c0056.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/08/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Comcast Phone of New York, LLC d/b/a CIMCO and First Communications, LLC for Approval to Transfer Assets and Customer Base.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A502189-70EF-4FC6-B8C9-C89EE161C3A2}",
+      "organization": "Comcast Phone of New York, LLC d/b/a CIMCO, First Communications, LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0056",
+      "file_name": "Comcast NY Jt App for Grant.pdf"
+    }
+  ]
+}

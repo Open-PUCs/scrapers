@@ -1,0 +1,82 @@
+{
+  "case": "24-E-0227",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the PSC Directive of the Appeal.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E7A491-0000-CB1D-8F7E-7C3EFDBF10DC}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "6",
+      "docket_id": "24-E-0227",
+      "file_name": "Case #178283 - PSC Appeal - NYSEG Response.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30F70E91-0000-C811-9235-6122D5CF7C27}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-E-0227",
+      "file_name": "380_24-E-0227 Letter 73124final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40F70E91-0000-C41D-9EFF-C055F86BC0C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-E-0227",
+      "file_name": "380_24-E-0227 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Response re. Appeal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80ED598F-0000-CB10-87B1-55E5F34889A0}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "24-E-0227",
+      "file_name": "2024-05-08 NYSEG Appeals Letter (24-E-0227).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/10/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 04 10 DPS - Acknowledgement & Scheduling Letter (#178283)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D053C98E-0000-C71F-BC92-304EFEF826E7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0227",
+      "file_name": "2024 04 10 DPS - Acknowledgement & Scheduling Letter - Andersen v NYSEG #178283.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/10/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 04 03 Appeal - Andersen v NYSEG (#178283)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={303AC98E-0000-CA35-BDA4-7BFE66F86F76}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0227",
+      "file_name": "2024 04 03 Appeal - Andersen v NYSEG (#178283)_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/10/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 03 29 Informal Hearing Decision #178283_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1031C98E-0000-C138-B77B-CA73D316E31A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0227",
+      "file_name": "2024 03 29 Informal Hearing Decision #178283_Redacted.pdf"
+    }
+  ]
+}

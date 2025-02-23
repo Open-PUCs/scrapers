@@ -1,0 +1,104 @@
+{
+  "case": "24-E-0100",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70175093-0000-C31B-96C7-E801E2507C06}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "24-E-0100",
+      "file_name": "376_24-E-0100 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter with Requested Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B2C392-0000-C31B-B691-33ECA245A198}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "8",
+      "docket_id": "24-E-0100",
+      "file_name": "Letter Dated 10-24-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20D0B992-0000-CB2D-B4A7-7FEDED6EF5CD}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "7",
+      "docket_id": "24-E-0100",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/14/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Waiver.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50865291-0000-CB6D-9013-BDEBDF981C58}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "6",
+      "docket_id": "24-E-0100",
+      "file_name": "waiver letter (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additonal information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0652E91-0000-C822-BA7D-D58D5DA9B359}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "5",
+      "docket_id": "24-E-0100",
+      "file_name": "Additonal information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information requested for 3401 Third Avenue, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B39390-0000-C21B-BE6C-C37611C3FA57}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "4",
+      "docket_id": "24-E-0100",
+      "file_name": "Response letter 7-8-24.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "second notification letter with signed affidavit for 3401 Third Avenue, Bronx.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50999390-0000-CA1C-859F-B5130C374046}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "3",
+      "docket_id": "24-E-0100",
+      "file_name": "second notificaiton letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D098578E-0000-CD12-A227-E690AC1D77A4}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "2",
+      "docket_id": "24-E-0100",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comunilife Third Avenue LP to Submeter Electricity at 3401 Third Avenue, Bronx, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F79D8D-0000-C817-A47D-147258223D08}",
+      "organization": "Comunilife Third Avenue LP",
+      "itemNo": "1",
+      "docket_id": "24-E-0100",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

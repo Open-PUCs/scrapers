@@ -1,0 +1,27 @@
+{
+  "case": "21-G-0363",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/08/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66B9AAD4-E99F-4144-A769-DD6C140AF732}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0363",
+      "file_name": "163_21-G-0363.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-G-0363",
+      "file_name": ""
+    }
+  ]
+}

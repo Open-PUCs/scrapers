@@ -1,0 +1,71 @@
+{
+  "case": "18-F-0656",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Clarification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DF48983-7037-40AD-B2D3-C02172AC002C}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "18-F-0656",
+      "file_name": "2019 03 22 18-F-0656 - Granada Solar - Clarifying Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/01/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to Request for Clarification of Siting Board Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19DE30F1-BA02-467A-B5BD-618C2384F3C1}",
+      "organization": "Granada Solar LLC",
+      "itemNo": "4",
+      "docket_id": "18-F-0656",
+      "file_name": "Supplement to Request for Clarification 4810-7877-1849 v.1.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={705AD552-527E-4E8C-95CB-336F712318DB}",
+      "organization": "Granada Solar LLC",
+      "itemNo": "3",
+      "docket_id": "18-F-0656",
+      "file_name": "Request for Clarification of Siting Board Decision 4852-5796-4421 v.2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/11/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Concerning Jurisdiction Over Proposed Generating Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECCBE15A-797D-49A3-8933-1B8D7C58A8FF}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "2",
+      "docket_id": "18-F-0656",
+      "file_name": "18-F-0656 - Granada Solar - Declaratory Ruling Final- 1-11-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for declaratory ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CFAFFC2-0508-40C3-BE95-507D68C5414A}",
+      "organization": "Granada Solar LLC",
+      "itemNo": "1",
+      "docket_id": "18-F-0656",
+      "file_name": "Petition for declaratory ruling (4836-2185-9704 1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Granada petition cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={652CB9B1-AE80-4D96-80A0-14703AE49D14}",
+      "organization": "Granada Solar LLC",
+      "itemNo": "1",
+      "docket_id": "18-F-0656",
+      "file_name": "Granada petition cover letter (4820-4086-8984 1).pdf"
+    }
+  ]
+}

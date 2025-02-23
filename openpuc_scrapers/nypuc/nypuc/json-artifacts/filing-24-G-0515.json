@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0515",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241108 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E74F93-0000-C02D-A6B2-FD93B60F72DE}",
+      "organization": "Destro & Brothers Concrete Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0515",
+      "file_name": "20241108 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={504DBF92-0000-CE18-B514-F493644AFCC6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-G-0515",
+      "file_name": "161-A_24-G-0515.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0772790-0000-C018-8C95-5A7CBF991BC5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0515",
+      "file_name": "20240617 - Consent Offer Letter.pdf"
+    }
+  ]
+}

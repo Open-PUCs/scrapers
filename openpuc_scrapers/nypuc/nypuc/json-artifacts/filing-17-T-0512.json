@@ -1,0 +1,104 @@
+{
+  "case": "17-T-0512",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent to Commence Construction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B0376E4-37B3-4F4F-A27D-95C473BBA566}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "7",
+      "docket_id": "17-T-0512",
+      "file_name": "Const Commencement Notice (17-T-0512) 3-23-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Non-Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E89D37D7-1B1D-4756-BB3D-77D4D9E4D957}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-T-0512",
+      "file_name": "17-T-0512 and 17-E-0533 Notice of Negative Declaration.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting a Negative Declaration, Determining That No Further Investigation is Warranted Under Part 102, and Dismissing Petition for a Certificate of Public Convenience and Necessity",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F6C2F21-3CD1-4C16-9967-A03D0D99841B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-T-0512",
+      "file_name": "371_17-T-0512 and 17-E-0533 - Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/13/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Supplement to Part 102 with Attachments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B8BD257-8307-4BB7-B6D7-570F22006DEC}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "17-T-0512",
+      "file_name": "NYSEG Supplement to Pt 102 (17-T-0512) 10-13-17 w Attachments.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Letter regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29284F59-267B-4582-81CD-95DCAEBE6F53}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "17-T-0512",
+      "file_name": "NYSEG Ltr re Part 102 (17-T-0512) 9-28-17.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/01/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Notice of the PSC's Intent to Establish Itself as Lead Agency for the Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A4BB09D-9238-43A3-8B1A-078F3995D363}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-T-0512",
+      "file_name": "17-E-0533 and 17-T-0512 - PSC Lead Agency Letter - 9-1-17.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of New York State Electric & Gas Corporation Concerning the Proposed Installation of 115 kV Transmission Lines 730 and 731 in the Towns of Stockport and Ghent, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C7FC455-DFEC-4863-96C1-4F792EC133A9}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "17-T-0512",
+      "file_name": "Part 102 Report - CCTP Modified 34.5 Proposal.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8FBAC6F-A746-4461-B319-79186E84A4CE}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "17-T-0512",
+      "file_name": "Filing Ltr for Section 68 and Part 102.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Certificate of Service - Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3665006C-16CD-46EA-92E4-965BCF631EB4}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "17-T-0512",
+      "file_name": "Certificate of Service - Part 102 Report.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "21-M-0046",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service, Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AF7CD68-BF3E-4EF2-AD95-F6F8FED5ADE3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-M-0046",
+      "file_name": "pr21064.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "2020 Annual Customer Service Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BD23D5B-0D13-47FE-B3DD-15571DD443CC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-M-0046",
+      "file_name": "201_21-M-0046 Report .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 21-M-0046 et seq - National Grid Performance on SQ Metrics",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A85FFA3A-ECEF-4929-9400-E017771CCBE1}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid, Niagara Mohawk Power Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "2",
+      "docket_id": "21-M-0046",
+      "file_name": "Case 21-M-0046 et seq - National Grid Performance on SQ Metrics .pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0443",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0BEFA8A-0000-C835-828D-9D631089751D}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "23-E-0443",
+      "file_name": "2023-10-04 NYSEG - Proof of Regulatory Liability Account Entry - Cover Letter (23-E-0443).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "2023-10-04 NYSEG - Proof of Regulatory Liability Account Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0BEFA8A-0000-CC15-8795-5CFD17282CF1}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "23-E-0443",
+      "file_name": "2023-10-04 NYSEG - Proof of Regulatory Liability Account Entry (23-E-0443).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/15/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Settlement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07E998A-0000-CD13-AC03-3AE33D431994}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0443",
+      "file_name": "364_23-E-0443_9.15 Order & Attachment final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - NYSEG to Pay $1.86 Million for Storm-Related Customer Fatality",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C2948A-0000-CD19-82A8-7BF1429A7E8A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0443",
+      "file_name": "pr23095.pdf"
+    }
+  ]
+}

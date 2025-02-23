@@ -1,0 +1,27 @@
+{
+  "case": "17-G-0680",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98F2CB48-78D7-4A8F-86F6-9CD0612D104F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-G-0680",
+      "file_name": "161B_17g0680 - 12.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6C2F64E-1750-4899-922C-AFB9BF436922}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0680",
+      "file_name": "161B_17g0678 - 12.22.pdf"
+    }
+  ]
+}

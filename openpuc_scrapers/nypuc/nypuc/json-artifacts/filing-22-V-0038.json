@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0038",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6276F822-FC90-401F-B328-A0C341FB19F5}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-V-0038",
+      "file_name": "662_22-V-0038 NEG DEC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={140D6FFB-578F-43F1-A0B1-F3BAE70BE1B3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-V-0038",
+      "file_name": "662_22-V-0038 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2022",
+      "nypuc_doctype": "Maps and Figures",
+      "name": "Wethersfield Updated Map Filed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2202EB4-A24B-4F61-A5E5-15682A574A85}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "22-V-0038",
+      "file_name": "2022.02.11 T Wethersfield Updated Map Filed - Case 22-V-0038.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/10/2022",
+      "nypuc_doctype": "Reports",
+      "name": "22-V-0038 Cover Letter and SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00F64644-BC1D-4708-B58C-5A4E064C9E8B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0038",
+      "file_name": "22-V-0038 Cover Letter and SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for a Certificate of Confirmation for its Franchise with the Town of Wethersfield, Wyoming County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={011F7B28-426D-4291-94BC-10B40E912416}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0038",
+      "file_name": "2022.01.11 Spectrum Northeast, LLC, Petition for Cert of Confirmation-T. Wethersfield.pdf"
+    }
+  ]
+}

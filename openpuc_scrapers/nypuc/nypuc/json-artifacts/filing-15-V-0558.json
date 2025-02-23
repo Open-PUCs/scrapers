@@ -1,0 +1,93 @@
+{
+  "case": "15-V-0558",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B51AEFE-AE1E-4AAB-8B29-6726AC516B42}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-V-0558",
+      "file_name": "662_15V0558.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Croton-on-Hudson Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DDF3610-5B83-4040-A403-90F2E5B3A215}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-V-0558",
+      "file_name": "Croton-on-Hudson Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correction to Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CBEFADE8-315B-4F47-A51D-9C9AC8784495}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0558",
+      "file_name": "Croton-on-Hudson Correction to Exhibit I.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Croton-on-Hudson Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF5E226C-0917-4E3B-AF68-5395224964E6}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0558",
+      "file_name": "Croton-on-Hudson Exhibit IV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Croton-on-Hudson Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={314BA5E7-48FA-469E-9772-29CB328B92F3}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0558",
+      "file_name": "Croton-on-Hudson Exhibit III.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Croton-on-Hudson Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={815878FB-E107-4095-9921-D0195B786F4F}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0558",
+      "file_name": "Croton-on-Hudson Exhibit II.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Croton-on-Hudson Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF474EAA-2FA3-4EA1-9AD2-001E8D471DCE}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0558",
+      "file_name": "Croton-on-Hudson Exhibit I.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Croton-on-Hudson Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE6DEFDC-1436-4716-84F0-5CDB93C5F098}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0558",
+      "file_name": "Croton-on-Hudson Application Cover Letter.pdf"
+    }
+  ]
+}

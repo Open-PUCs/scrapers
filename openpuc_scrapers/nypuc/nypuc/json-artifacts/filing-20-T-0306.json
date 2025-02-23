@@ -1,0 +1,38 @@
+{
+  "case": "20-T-0306",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to D. Metcalfe, Esq. regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD4C0780-6F0C-4053-94A2-371D0662A1C4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-T-0306",
+      "file_name": "20-T-0306 - Big Tree Part 102 Letter - 8-21-20_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Big Tree Substation Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={538A8AE8-1096-49DF-8E98-91E42C470859}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "20-T-0306",
+      "file_name": "NYSEG Big Tree Substation Part 102 Report - 6-22-20.pdf (13 MB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C844D67E-5196-4848-A04C-01DEB871AEB4}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "20-T-0306",
+      "file_name": "Filing Letter - NYSEG Big Tree Substation Part 102 Report - 6-22-20.pdf (127 KB)"
+    }
+  ]
+}

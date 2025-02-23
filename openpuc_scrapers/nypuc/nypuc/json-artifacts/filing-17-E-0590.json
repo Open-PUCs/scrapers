@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0590",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/01/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess closing case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EDCBE2A-44F3-4312-94E1-8B3845A6A8CC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0590",
+      "file_name": "17-E-0590 - Letter Closing Case.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Main and Cathedral Development, LLC request to withdraw its Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77BFDD5A-6914-44A2-9C49-E26A24C53315}",
+      "organization": "Main and Cathedral Development, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0590",
+      "file_name": "Dear Secretar5.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Main and Cathedral Development, LLC to submeter Electricity at 298 Main Street, Buffalo, NY in the territory of Niagara Mohawk Power Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75209FF8-C3AE-45B2-A824-4D8F2B578A42}",
+      "organization": "Main and Cathedral Development, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0590",
+      "file_name": "298 petition 9-20-17.pdf"
+    }
+  ]
+}

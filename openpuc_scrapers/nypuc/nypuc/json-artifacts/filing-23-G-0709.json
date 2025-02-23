@@ -1,0 +1,82 @@
+{
+  "case": "23-G-0709",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E92F92-0000-C277-8AA5-5AB7C5531461}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "23-G-0709",
+      "file_name": "161-C_23-G-0709.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240221 - Response to NOPV Letter - Informal Conference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8067D68D-0000-C414-9C74-A5505FD9AFA8}",
+      "organization": "Independent General Contracting LLC",
+      "itemNo": "8",
+      "docket_id": "23-G-0709",
+      "file_name": "20240221 - Response to NOPV Letter - Informal Conference.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240221 - Response to NOPV Letter - Informal Conference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E087CC8D-0000-CB1E-BA7E-2612A2441EFC}",
+      "organization": "Independent General Contracting LLC",
+      "itemNo": "9",
+      "docket_id": "23-G-0709",
+      "file_name": "20240221 - Response to NOPV Letter - Informal Conference.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240208 - Response to NOPV Letter - Request for Evidence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A02FCC8D-0000-CC1B-B10E-3D89C29C7361}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "23-G-0709",
+      "file_name": "20240208 - Response to NOPV Letter - Request for Evidence.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240208 - Response to NOPV Letter - Informal Conference Scheduled",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0808A8D-0000-CE11-A64B-76FD4D10B1A1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "23-G-0709",
+      "file_name": "20240208 - Response to NOPV Letter - Informal Conference Scheduled.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80C2898D-0000-CA11-991A-4D40144C03E9}",
+      "organization": "Independent General Contracting LLC",
+      "itemNo": "5",
+      "docket_id": "23-G-0709",
+      "file_name": "52 Timberlake Honorable Michelle Phillips Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50B6418D-0000-C01C-AC57-1DDDA1911BC4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0709",
+      "file_name": "161-A_23-G-0709.pdf"
+    }
+  ]
+}

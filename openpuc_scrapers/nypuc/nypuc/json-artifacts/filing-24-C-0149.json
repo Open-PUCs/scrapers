@@ -1,0 +1,60 @@
+{
+  "case": "24-C-0149",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Indirect Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D8E090-0000-C01C-929B-5B3408489C44}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-C-0149",
+      "file_name": "563_24-C-0149_72324final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-C-0149 Cinci Bell and CBTS Stop the Clock.signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80438A8E-0000-C31D-ADAA-9E057F979858}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-C-0149",
+      "file_name": "24-C-0149 Cinci Bell and CBTS Stop the Clock.signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "CB - NY Pro Forma Restructuring Supplement to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B5858E-0000-C019-AD1A-B712A8EC4A9A}",
+      "organization": "CBTS Technology Solutions LLC, Cincinnati Bell Extended Territories LLC d/b/a altafiber connected services",
+      "itemNo": "3",
+      "docket_id": "24-C-0149",
+      "file_name": "CB - New York (NY) Pro Forma Restructuring Supplement (03.27.2024).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "CB - New York (NY) Pro Forma Restructuring Notice Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0B5628E-0000-CF10-B2F8-0C36D4CD4392}",
+      "organization": "CBTS Technology Solutions LLC, Cincinnati Bell Extended Territories LLC",
+      "itemNo": "2",
+      "docket_id": "24-C-0149",
+      "file_name": "CB - New York (NY) Pro Forma Restructuring Notice Amendment (03.21.2024).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cincinnati Bell Extended Territories LLC d/b/a altafiber connected services and CBTS Technology Solutions LLC Regarding a Pro Forma Restructuring.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3001898D-0000-C53C-A88D-AA12028EB1AF}",
+      "organization": "CBTS Technology Solutions LLC, Cincinnati Bell Extended Territories LLC d/b/a altafiber connected services",
+      "itemNo": "1",
+      "docket_id": "24-C-0149",
+      "file_name": "CB - New York (NY) Pro Forma Restructuring Notice (FINAL) (1).pdf"
+    }
+  ]
+}

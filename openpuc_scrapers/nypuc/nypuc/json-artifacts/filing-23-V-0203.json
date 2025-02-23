@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0203",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/30/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90090D89-0000-CB1D-864B-7D33081BE564}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0203",
+      "file_name": "661_23-V-0203.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Request for expedited approval of franchise renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10EF9487-0000-C717-85C8-C3A118395ED7}",
+      "organization": "City of Rochester",
+      "itemNo": "2",
+      "docket_id": "23-V-0203",
+      "file_name": "Request for expedited approval of franchise renewal (3).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/13/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00147C87-0000-C452-8B5B-8C240832167C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0203",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/13/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. Rochester Letter 04.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00147C87-0000-C612-B15A-9D3BFB18A83D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0203",
+      "file_name": "Charter Confidential Treatment Request to RAO C. Rochester Letter 04.13.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/13/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, C. Rochester Cover Letter- Request for Certificate of Confirmation 04.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10147C87-0000-CF17-A969-7449110338C6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0203",
+      "file_name": "Charter Communications, C. Rochester Cover Letter- Request for Certificate of Confirmation 04.13.23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, C. Rochester - Request for Renewal and Certificate of Confirmation(redacted) 04.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10147C87-0000-CE32-9238-77D9C0ABE9E5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0203",
+      "file_name": "Charter Communications, C. Rochester - Request for Renewal and Certificate of Confirmation(redacted) 04.13.23.pdf"
+    }
+  ]
+}

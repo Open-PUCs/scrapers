@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0438",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CBAAC75-EBB7-46F9-A113-DE9C37DF648C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0438",
+      "file_name": "18-T-0438-Nat.Grid-Moutain-Lockport-App.CompletenessLtr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Conductor Clearance Refurbishment Project for the Mountain-Lockport #103/104 115kV Line.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B5353B3-53C0-48EF-A21D-EE0434F04986}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0438",
+      "file_name": "Part 102 Report Mountain-Lockport CCR Project.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38B98131-B086-4B00-B438-6E7B9531EA94}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0438",
+      "file_name": "Conductor Clearance Mountain-Lockport Zafonte Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0506",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={464E77E0-FD5A-4BDD-8071-7F18826A6832}",
+      "organization": "45 East 22nd Street Property LLC",
+      "itemNo": "6",
+      "docket_id": "16-E-0506",
+      "file_name": "response information 10-30-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00C34745-B390-4C58-8540-5F68588172F5}",
+      "organization": "45 East 22nd Street Property LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0506",
+      "file_name": "response information 10-26-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1F7BC57-838E-48D9-8D7D-DCCB6CF9F226}",
+      "organization": "45 East 22nd Street Property LLC",
+      "itemNo": "4",
+      "docket_id": "16-E-0506",
+      "file_name": "letter 10-2-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4680704D-F5F7-4440-B9EA-FD793AC21B40}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0506",
+      "file_name": "366_16-E-0506.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A049BEE-1324-4554-ACF4-4109D8090B1E}",
+      "organization": "45 East 22nd Street Property LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0506",
+      "file_name": "revised cover letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 45 East 22nd Street Property LLC to Submeter Electricity at 45 East 22nd Street, New York, NY 10010, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B72A3FE0-D616-4176-B491-292A01E6BB89}",
+      "organization": "45 East 22nd Street Property LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0506",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

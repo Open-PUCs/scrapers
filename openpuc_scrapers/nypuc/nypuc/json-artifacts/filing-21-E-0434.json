@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0434",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Upstream Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C2A69C5-9AF9-4F39-9F10-CEBB0909FB64}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0434",
+      "file_name": "376_21-E-0434 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition of Cogentrix Valcour Wind Energy Holdings, LLC, and AES Clean Energy Development, LLC, for a Declaratory Ruling That No Further Review is Required of Upstream Ownership Transfer, or in the Alternative, for Approval of the Proposed Transaction Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4A1672B-1CF2-4099-8A58-9E672CF8279B}",
+      "organization": "AES Clean Energy Development, LLC, Cogentrix Valcour Wind Energy Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0434",
+      "file_name": "Section 70 Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BECBD3E6-6DF9-4A8A-AB29-15D20AD7074C}",
+      "organization": "AES Clean Energy Development, LLC, Cogentrix Valcour Wind Energy Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0434",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

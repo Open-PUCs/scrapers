@@ -1,0 +1,49 @@
+{
+  "case": "16-T-0573",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "16 NYCRR Part 102 Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD0C72A4-C225-425D-AD7B-C3D5D9EDE17F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-T-0573",
+      "file_name": "16-T-0573 Part 102 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Part 102 Report of Niagara Mohawk Power Corporation d/b/a National Grid Concerning National Grid Whitehall-Mohican #13 Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8412DF64-D242-4969-8C66-AF09C90E9A6D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0573",
+      "file_name": "Whitehall-Mohican #13 CCR Part 102 -- Report (final).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F35D915-E39E-4B34-B416-5CA6B812C7A7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0573",
+      "file_name": "Whitehall-Mohican #13 CCR Part 102 -- Zafonte Filing Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/14/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit B Maps",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63091831-6EEB-4CCE-9680-D01057FDD523}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0573",
+      "file_name": "Whitehall-Mohican _13 CCR Part 102 -- Exhibit B Maps.pdf"
+    }
+  ]
+}

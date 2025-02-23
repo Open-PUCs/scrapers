@@ -1,0 +1,82 @@
+{
+  "case": "20-G-0244",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED052B6D-1688-4C7B-ABBE-D9347F8A0034}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-G-0244",
+      "file_name": "162_20-G-0244 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03ADE5B2-F52A-4918-8205-F8F33597736C}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0244",
+      "file_name": "162_20-G-0244 Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA41E25C-D6B3-47C6-8A9F-DCF58040EF71}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-G-0244",
+      "file_name": "Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/26/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9A5F22C-3292-4FA4-B4E6-F51BC9832321}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-G-0244",
+      "file_name": "946669 Jewel Assoc.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/26/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C37A14E1-2736-4321-9333-8D96C29A8B81}",
+      "organization": "Jewel Associates LLC",
+      "itemNo": "2",
+      "docket_id": "20-G-0244",
+      "file_name": "Appeal 946669.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/26/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B5A40F3-5645-416C-8D66-D4F1324677E8}",
+      "organization": "Jewel Associates LLC",
+      "itemNo": "2",
+      "docket_id": "20-G-0244",
+      "file_name": "Appeal 946669 Cover.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/26/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1D41ECE-E578-4A09-BE01-3BD7FCE24FAC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-G-0244",
+      "file_name": "946669 Jewel Assoc. IR.pdf"
+    }
+  ]
+}

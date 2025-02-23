@@ -1,0 +1,38 @@
+{
+  "case": "19-T-0296",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding Part 102.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2DC1A93-B5ED-40E4-B3C8-275A0AB2B4ED}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-T-0296",
+      "file_name": "19-T-0296-Nat.Grd-ReynoldsRd-Greenbush-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the Reynolds Road-Greenbush #9 115 kV Conductor Clearance Refurbishment Project - Part 102 Report.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F34AD28-4174-494F-81F1-7EC3FDC9DAAB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0296",
+      "file_name": "Reynolds Road-Greenbush Part 102 Report_04 12 19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2AAB75C-6119-4606-B750-A8CE1965E9F4}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0296",
+      "file_name": "Reynolds Road -Greenbush _9 Part 102 Cover Letter.pdf"
+    }
+  ]
+}

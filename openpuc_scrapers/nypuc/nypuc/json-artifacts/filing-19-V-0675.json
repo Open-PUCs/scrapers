@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0675",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF84648C-72AC-4D9D-81C6-30D32B6F8CAE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0675",
+      "file_name": "661_19-V-0675.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AE80D79-B186-4531-AF20-2F0905AD1B63}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0675",
+      "file_name": "LaGrange AUSA Newspaper Pub. Aff..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2C0C8F2-4C9D-462B-806B-69C5A2C70026}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0675",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - LaGrange AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24967975-B935-4CA4-A177-5BDCE37F1EF5}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0675",
+      "file_name": "Exhibit IV - LaGrange AUSA Franchise.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - LaGrange Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9E9000C-B8C1-454A-BC53-BE1E53D969FE}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0675",
+      "file_name": "Exhibit III - LaGrange Resolution.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - LaGrange Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3525379-55DF-4E31-A18A-6E6E3972FBBD}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0675",
+      "file_name": "Exhibit II - LaGrange Public Notice.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF2E0B11-D7BF-431B-A651-6FAE1F66FABF}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0675",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA48C28F-D255-4014-BA84-D47620C01B6C}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0675",
+      "file_name": "Application Cover Letter.pdf"
+    }
+  ]
+}

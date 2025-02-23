@@ -1,0 +1,60 @@
+{
+  "case": "20-C-0147",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40AA8266-024D-4074-9071-BFCC6D36CD16}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "2",
+      "docket_id": "20-C-0147",
+      "file_name": "Request for Confidential Treatment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D6CF105-9551-43C4-80E8-7E529D24DE6B}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "20-C-0147",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Confidential Treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC690BD8-B2FF-4175-9C33-C75AFE3D614F}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "20-C-0147",
+      "file_name": "Request for Confidential Treatment.pdf (2 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Hon. Michelle Phillips (3-20-2020)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE23EEF3-1B64-40C6-B498-46E2E40FD76D}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "20-C-0147",
+      "file_name": "Letter to Hon. Michelle Phillips (3-20-2020).pdf (1 MB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2019 Financing - 101 Petition (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21F825BF-DF46-4BD8-855A-99B76E1A8F70}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "20-C-0147",
+      "file_name": "2019 Financing - 101 Petition (Redacted).pdf (154 KB)"
+    }
+  ]
+}

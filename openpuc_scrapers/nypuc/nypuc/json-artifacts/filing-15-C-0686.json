@@ -1,0 +1,38 @@
+{
+  "case": "15-C-0686",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/28/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5288425-4169-4E27-990F-8843B0C6E760}",
+      "organization": "Garrison TNCI LLC, Impact Telecom, Inc., Matrix Telecom, Inc., TNCI Operating Company LLC",
+      "itemNo": "3",
+      "docket_id": "15-C-0686",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Indirect Control and Related Transaction and Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71A81A4F-5C4D-4B09-B35C-C9362F9C8B7D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-C-0686",
+      "file_name": "562_15c0686.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval of Transfer of Indirect Control and Related Transaction and Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B69948F-310A-4031-B94B-1214838EC144}",
+      "organization": "Garrison TNCI LLC, Impact Telecom, Inc., Matrix Telecom, Inc., TNCI Operating Company LLC",
+      "itemNo": "1",
+      "docket_id": "15-C-0686",
+      "file_name": "NY ToC & Financing Petition.pdf"
+    }
+  ]
+}

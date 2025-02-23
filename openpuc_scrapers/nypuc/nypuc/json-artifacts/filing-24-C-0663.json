@@ -1,0 +1,27 @@
+{
+  "case": "24-C-0663",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Walsh Appeal Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60585493-0000-CE6E-A2CF-98E18B9D33B8}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-C-0663",
+      "file_name": "Walsh Appeal, Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00535493-0000-C435-982B-42E20E739BFF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-C-0663",
+      "file_name": "Case_310628_-_IH_Request_-_Patricia_Walsh_-_Verizon_final_Redacted.pdf"
+    }
+  ]
+}

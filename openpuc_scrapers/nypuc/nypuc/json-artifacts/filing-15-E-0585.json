@@ -1,0 +1,27 @@
+{
+  "case": "15-E-0585",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Sullivan Alliance for Sustainable Development Regarding a Proposed County-Wide Community Choice Aggregation Project within Sullivan County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BA550F1-C9BA-4179-9C28-DDE64D944DDD}",
+      "organization": "Sullivan Alliance for Sustainable Development",
+      "itemNo": "1",
+      "docket_id": "15-E-0585",
+      "file_name": "Sullivan County Community Choice Aggregation - A REV Demonstration Project.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD2A828F-6B8F-452D-8500-811A64A2A094}",
+      "organization": "Sullivan Alliance for Sustainable Development",
+      "itemNo": "1",
+      "docket_id": "15-E-0585",
+      "file_name": "Cover letter - Sullivan County Community Choice Aggregation Demonstration Project.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0671",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0BCD18D-0000-C716-AFBE-4B4C12BB8955}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0671",
+      "file_name": "661_23-V-0671 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Ballston R-2 (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A000B68B-0000-C39E-8027-400EE393DF57}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0671",
+      "file_name": "T. Ballston R-2 (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Ballston Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 11.08.23SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A000B68B-0000-C67F-934A-CEEBC69E63C4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0671",
+      "file_name": "T. Ballston Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 11.08.23SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A000B68B-0000-CB52-9DDD-F50AC7A7CCD4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0671",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Ballston 11.09.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A000B68B-0000-C314-8D40-14FA9728CB2F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0671",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Ballston 11.09.23.pdf"
+    }
+  ]
+}

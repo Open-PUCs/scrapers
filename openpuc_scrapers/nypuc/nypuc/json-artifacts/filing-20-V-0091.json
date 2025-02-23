@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0091",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D8EF34F-70E6-4319-B408-A3CC7E1C230C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0091",
+      "file_name": "661_20-V-0091.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Painted Post, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2BE07AC3-82DF-4CDB-A3D8-A4D92231D548}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0091",
+      "file_name": "V. PAINTED POST RENEWAL SUBMISSION TO PSC 022120.pdf (1 MB)"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0305",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={818B4D58-2CF1-469B-BE3C-45ABAFC8CEEC}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "22-V-0305",
+      "file_name": "21-01848 and 22-02069 Closing Ltr.-10.28.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B516C35-191E-4028-9AF0-A352AC4EABC9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "8",
+      "docket_id": "22-V-0305",
+      "file_name": "221027 Withdrawal Letter re Matter 21-01848.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/03/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01848 Letter to Building Owner 2.3.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18C0493E-2A96-408F-97EE-0E179E0C44B9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "22-V-0305",
+      "file_name": "21-01848 Letter to Building Owner 2.3.2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8990D986-C84A-4EE1-94E9-43043D40D5BC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0305",
+      "file_name": "220120_21-01848_502 W 139 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01848 Letter to Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C913F09-B0C7-4A71-9EF3-1A50BBD5F37A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-V-0305",
+      "file_name": "21-01848 Letter to Verizon New York Inc..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={521E3ED3-DE51-4BF3-B4FA-7B5B5AE4631D}",
+      "organization": "Eshco Real Estate & MGMT Inc.",
+      "itemNo": "3",
+      "docket_id": "22-V-0305",
+      "file_name": "21-01848 10-20-2021 email response to petition Eshco Real Estate & MGMT Inc..pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01848 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56305B5D-23A2-4AE7-B39D-837084C8E6AB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0305",
+      "file_name": "21-01848 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 502 West 139th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EBD42E2-A22D-4C59-90E3-7CFEDFBF76F3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0305",
+      "file_name": "13-210826 Petition (502 W 139 ST) (Complete).pdf"
+    }
+  ]
+}

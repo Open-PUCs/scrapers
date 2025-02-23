@@ -1,0 +1,38 @@
+{
+  "case": "24-W-0420",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification of Rate Increase",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E66A91-0000-C519-8550-3471F35FB55A}",
+      "organization": "Southside Water Inc.",
+      "itemNo": "2",
+      "docket_id": "24-W-0420",
+      "file_name": "customer notification of rate increase 2024-08-12.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30E66A91-0000-C022-9B6F-00E4CF9F9146}",
+      "organization": "Southside Water Inc.",
+      "itemNo": "2",
+      "docket_id": "24-W-0420",
+      "file_name": "cover letter rev 2024-08-15.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Southside Water Inc.",
+      "itemNo": "1",
+      "docket_id": "24-W-0420",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0408",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40CE2492-0000-C218-A93D-F6245326503C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0408",
+      "file_name": "374_24-E-0408_92424final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EE9890-0000-CC15-B357-AB0478100586}",
+      "organization": "Canisteo Wind Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0408",
+      "file_name": "24-E-____ CWE - Cover Letter encl. Section 70 Petition - 07.09.24 FINAL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "CWE - Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EE9890-0000-C539-A421-0F97407C06EB}",
+      "organization": "Canisteo Wind Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0408",
+      "file_name": "24-E-____ CWE - Section 70 Petition - 07.09.24 FINAL.pdf"
+    }
+  ]
+}

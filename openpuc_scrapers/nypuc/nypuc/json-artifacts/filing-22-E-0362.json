@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0362",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60191E8A-0000-CB13-8A29-B1E7BF1AF109}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0362",
+      "file_name": "374_22-E-0362_Letter 8.22.23 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60191E8A-0000-C833-B6B5-9A2919183486}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0362",
+      "file_name": "374_22-E-0362_Determination 8.22.23 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "22-E-0362 Columbia Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FBF49B1-1782-4909-B517-F08F798A247C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-E-0362",
+      "file_name": "22-E-0362 Columbia Reply.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F2EA2AB-3F9E-4C89-9BE7-9A5FF0614D57}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0362",
+      "file_name": "039960 ack ltr Columbia Univ vs. Con Ed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/23/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8DBF535-E930-41A5-ACC1-ADD2032A1FDB}",
+      "organization": "Columbia University - Health Sciences",
+      "itemNo": "2",
+      "docket_id": "22-E-0362",
+      "file_name": "039960 Appeal 6-21-22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4B979A9-5D57-42EF-8973-BC511D94F7E2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0362",
+      "file_name": "039960 IHD Columbia University vs. Con Ed 4-21-21.pdf"
+    }
+  ]
+}

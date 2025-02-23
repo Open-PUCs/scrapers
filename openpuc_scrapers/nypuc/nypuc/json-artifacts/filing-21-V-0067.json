@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0067",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5257C2E3-083F-4805-A718-17208F1A19A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0067",
+      "file_name": "663_21-V-0067 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Mayville, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EE38C16-147C-4C68-981F-8847D189349E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0067",
+      "file_name": "2021.01.25 V. MAYVILLE RENEWAL TO PSC.pdf"
+    }
+  ]
+}

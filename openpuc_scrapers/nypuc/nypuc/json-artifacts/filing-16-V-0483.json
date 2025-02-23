@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0483",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33D746E7-EE17-4E02-81A2-F38B430C2E9C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-V-0483",
+      "file_name": "667_16v0483.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DBAAED9-52FB-423C-8FA3-B194246D79E5}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-V-0483",
+      "file_name": "667_16v0483 Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4A6B092-15E1-470B-9F1C-3C769C3FB71E}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "5",
+      "docket_id": "16-V-0483",
+      "file_name": "16-V-0483 signed EAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Short Environmental Assessment Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8ADCC57E-7246-48E2-99BC-33E9D91B2049}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "4",
+      "docket_id": "16-V-0483",
+      "file_name": "Short Environmental Assessment Form Part 1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/06/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of the Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAAAE734-D02C-4125-9A2C-34C920C1E7BC}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "3",
+      "docket_id": "16-V-0483",
+      "file_name": "Affidavit of Proof of Notice of the filing for Certificate of Confirmation - EVSC - Vil.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Revised Full Environmental Assessment Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13D3E81D-BB49-44EC-A0B6-4D7537099D20}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0483",
+      "file_name": "Letter and 2nd EVSC Long EAF Part1 Village of Horseheads (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Village of Horseheads, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36B1C903-F076-4BA4-8D1C-6FA9FD217CD0}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0483",
+      "file_name": "EVSC Certificate of Confirmation Application Village of Horseheads.pdf"
+    }
+  ]
+}

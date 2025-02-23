@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0462",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94AC55C8-B3BA-4504-99D1-B3EC0342F2D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0462",
+      "file_name": "665_21-V-0462.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01146 Letter To Building Owners 6.22.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB70D493-6162-4B43-8E88-C254230B3F3B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0462",
+      "file_name": "21-01146 Letter To Building Owners 6.22.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 485 Central Park West, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB3190E2-86E0-40A3-9AEA-6EC4D9D18991}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0462",
+      "file_name": "Petition (485 Central Park W) (Complete).pdf"
+    }
+  ]
+}

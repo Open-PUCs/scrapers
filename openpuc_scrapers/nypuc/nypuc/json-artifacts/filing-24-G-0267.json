@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0267",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0675590-0000-CC12-BA2F-72F3F2D13B04}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0267",
+      "file_name": "161-B_24-G-0267 Order & attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240507 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30B1598F-0000-C31D-A9F2-90203C892FE3}",
+      "organization": "Hennessey Trucking & Excavating LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0267",
+      "file_name": "20240507 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240410 - Training Documentation - 1 employee",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90732A8F-0000-C015-B3DD-BA9828814D32}",
+      "organization": "Hennessey Trucking & Excavating LLC",
+      "itemNo": "5",
+      "docket_id": "24-G-0267",
+      "file_name": "20240410 - Training Documentation - 1 employee.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240305 - Payment ($1,450) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6017618E-0000-C212-B261-ABED56CF0013}",
+      "organization": "Hennessey Trucking & Excavating LLC",
+      "itemNo": "4",
+      "docket_id": "24-G-0267",
+      "file_name": "20240305 - Payment ($1,450) - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={104ACC8D-0000-CB15-8B99-62071F4AB43A}",
+      "organization": "Hennessey Trucking & Excavating LLC",
+      "itemNo": "3",
+      "docket_id": "24-G-0267",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

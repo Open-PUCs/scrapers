@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0258",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30EEB689-0000-CF1B-B390-BF7AF6B39F8C}",
+      "organization": "Darcon Construction, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-G-0258",
+      "file_name": "Darcon Construction.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0283189-0000-C711-8906-C5AF21D12FB5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0258",
+      "file_name": "161-A_23-G-0258.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0047",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter From Secretary Phillips Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70630B71-DC59-4864-879E-819A487D0C83}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0047",
+      "file_name": "361 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A427ABA6-1891-49B8-997B-A149C5078683}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0047",
+      "file_name": "369 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Denial of an Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={470AEC34-FE0A-4E87-A5EC-79A931ED109A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0047",
+      "file_name": "816165 Platsky Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Denial of an Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02E04491-0676-446E-B231-F331C2E7C33D}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-E-0047",
+      "file_name": "Platsky Appeal Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for an Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D24830D0-C215-4C5B-8E00-99A304A77837}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0047",
+      "file_name": "Platsky IH redacted.pdf"
+    }
+  ]
+}

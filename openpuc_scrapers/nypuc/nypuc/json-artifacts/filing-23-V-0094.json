@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0094",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B017B987-0000-CF14-899C-C0E5941C6C5E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-V-0094",
+      "file_name": "661_23-V-0094.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62F905D8-4EF8-473C-97DE-81CB735C6090}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "23-V-0094",
+      "file_name": "230124 Verizon Reply re 39 Madison Street.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01856 Letter to Building Owner Offering Facilitation 39 Madison St.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C28C2769-B20D-4221-B386-7F056D45E452}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-V-0094",
+      "file_name": "22-01856 Letter to Building Owner Offering Facilitation 39 Madison St..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE08BAAE-F982-4D29-9227-8DA27369846E}",
+      "organization": "Kwong May LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0094",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01856 Letter to Building Owner 10.12.22_39 Madison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DBB017A-00A7-489A-953E-282A7842629A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0094",
+      "file_name": "22-01856 Letter to Building Owner 10.12.22_39 Madison.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 39 Madison Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04BE901A-ACBA-40D6-937B-44D10AF8116A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0094",
+      "file_name": "220921-3 Petition (39 MADISON ST) (Post-Survey).pdf"
+    }
+  ]
+}

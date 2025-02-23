@@ -1,0 +1,49 @@
+{
+  "case": "23-V-0444",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Benson AFP Legal Notice, Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A00DED8B-0000-C013-8CF3-0080173D3A35}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0444",
+      "file_name": "2023.11.20 T. Benson -AFP Legal Notice, Affidavit(23-V-0444).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={005CEC8B-0000-CA16-ACF6-6D7748D5D918}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0444",
+      "file_name": "2023.11.20 T. Benson-Cover Letter_AFP Legal Notice, Affidavit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/02/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-V-0444 AFP Benson Apprvl Ltr 11.2.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20AA908B-0000-C215-A2CC-1242D01E6C93}",
+      "organization": "New York State Department of Public Service, Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0444",
+      "file_name": "23-V-0444 AFP Benson Apprvl Ltr 11.2.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "2023.08.10 Spectrum Northeast, LLC-Request for Waiver of NYCRR. Sec 894",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4088E089-0000-CD37-8EA4-0B935923FF6B}",
+      "organization": "Town of Benson",
+      "itemNo": "1",
+      "docket_id": "23-V-0444",
+      "file_name": "2023.08.10 Spectrum Northeast, LLC-Request for Waiver of NYCRR.Sec 894 filed on behalf of T. Benson.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "16-G-0542",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Sensus RT230TC Gas Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB859714-91E7-4DCF-AFA2-DD2F7680397B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-G-0542",
+      "file_name": "167_16-G-0542.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F0AEADB-5896-4B74-BCB6-A882B1E43EEE}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0542",
+      "file_name": "Case 16-G-0542 - CE Accuracy and Accelerated Life Tests RT230TC.XLSX"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B46ADE3B-AB59-4D9C-A039-CD442DC35FD4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0542",
+      "file_name": "Case 16-G-0542 - Clarification to Petition Letter Filed on 09-21-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5B5DD8F-0F8F-407F-8FA2-FBAE797B5AC8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0542",
+      "file_name": "CE Request for Approval of Sensus RT230TC.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment B - CE Accuracy and Accelerated Life Tests RT230TC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D60144EC-6878-4EB0-AEE2-99ECCE3338D6}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0542",
+      "file_name": "Attachment B - CE Accuracy and Accelerated Life Tests RT230TC.xlsx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment A -Sensus Similarity Letter for RT230TC Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DFBEFB5-460D-403C-9FA2-0D0EA738413F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0542",
+      "file_name": "Attachment A -Sensus Similarity Letter for RT230TC Meter.pdf"
+    }
+  ]
+}

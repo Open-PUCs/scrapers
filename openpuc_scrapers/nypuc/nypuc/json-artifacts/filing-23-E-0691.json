@@ -1,0 +1,27 @@
+{
+  "case": "23-E-0691",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F05ABA92-0000-CB17-991E-D502D9B7C0C1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0691",
+      "file_name": "363_23-E-0691 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 42nd Road LIC Property Owner LLC to Submeter Electricity at 23-10 42nd Road, Queens, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={001C1D8C-0000-CE13-A8E8-3BE6DA9AA2BE}",
+      "organization": "42nd Road LIC Property Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0691",
+      "file_name": "Notice of Intent to Submeter - 23-10 42nd Road, Queens, NY.pdf"
+    }
+  ]
+}

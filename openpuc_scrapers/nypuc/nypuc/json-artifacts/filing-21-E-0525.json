@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0525",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4248C5C2-CB66-48A6-8EEB-7A57886B3989}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0525",
+      "file_name": "361_21-E-0525 Letter final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "161479 Sholosh Ack Letter 10182021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C395291B-07D0-46A0-A20C-55E49DCB2618}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0525",
+      "file_name": "161479 Sholosh Ack Letter 10182021_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "161479 Sholosh Rehearing Request 10152021Redacted.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2CBB199-0883-461F-9744-F3B441D74C52}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-E-0525",
+      "file_name": "161479 Sholosh Rehearing Request 10152021Redacted..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "161479_Sholosh_SMD_Final_091521_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65F2EA73-ADAC-4E5F-9F73-03182FB0EBA7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0525",
+      "file_name": "161479_Sholosh_SMD_Final_091521_Redacted.pdf"
+    }
+  ]
+}

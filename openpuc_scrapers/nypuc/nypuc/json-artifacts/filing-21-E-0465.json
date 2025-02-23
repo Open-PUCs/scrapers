@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0465",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Compliance",
+      "name": "Fortis Dumbo Acquisition LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91AC1581-C032-485E-823D-B41F52B5D4FD}",
+      "organization": "Fortis Dumbo Acquisition LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0465",
+      "file_name": "Fortis Dumbo Acquisition LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E61FC840-3D61-4BB3-8427-7B2C92157A93}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0465",
+      "file_name": "364_21-E-0465.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing 30 Front Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AAA7B35-313D-4B39-B372-2F5E2119689F}",
+      "organization": "Fortis Dumbo Acquisition LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0465",
+      "file_name": "Supplemental Filing_30 Front Street_12.21.21.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/30/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Fortis Dumbo Acquisition LLC to Submeter Electricity at 30 Front Street, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07B51073-E3EE-4758-9E00-25F87F94187D}",
+      "organization": "Fortis Dumbo Acquisition LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0465",
+      "file_name": "Submetering Notice of Intent 30 Front Street.pdf"
+    }
+  ]
+}

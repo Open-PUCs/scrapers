@@ -1,0 +1,104 @@
+{
+  "case": "22-W-0300",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification of Commission Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73A06463-FCC7-4AB7-89FE-FC763E3136F6}",
+      "organization": "William K. Green",
+      "itemNo": "7",
+      "docket_id": "22-W-0300",
+      "file_name": "Customer Notification of Commission Decision (12.27.2022).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90BFE952-EEC7-4B2F-A429-F7EBF2F65187}",
+      "organization": "William K. Green",
+      "itemNo": "7",
+      "docket_id": "22-W-0300",
+      "file_name": "Willam K. Green Final Notification Cover lett (1.18.2023).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/23/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "William K. Green",
+      "itemNo": "6",
+      "docket_id": "22-W-0300",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43C44CB1-171F-4772-95E6-FA5935C15F7F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-W-0300",
+      "file_name": "461_22-W-0300.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "William K. Green Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94338D3D-8E67-4BE6-AA5D-DEE181ECD99A}",
+      "organization": "William K. Green",
+      "itemNo": "4",
+      "docket_id": "22-W-0300",
+      "file_name": "William K Green Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={926D62C6-7B99-4763-88CF-2756D737D182}",
+      "organization": "William K. Green",
+      "itemNo": "4",
+      "docket_id": "22-W-0300",
+      "file_name": "Customer Notification Cover Letter 11.14.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/04/2022",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT - Minor Rate Filing of William K. Green to Increase Its Annual Revenues",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99A31126-6C48-4BA8-9789-D6BEDF98F800}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-W-0300",
+      "file_name": "22-W-0300.William K. Green.PP.1.1.23.SIGNED.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/26/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "William K. Green",
+      "itemNo": "2",
+      "docket_id": "22-W-0300",
+      "file_name": ""
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "William K. Green",
+      "itemNo": "1",
+      "docket_id": "22-W-0300",
+      "file_name": ""
+    }
+  ]
+}

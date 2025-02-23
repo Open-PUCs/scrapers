@@ -1,0 +1,38 @@
+{
+  "case": "20-C-0236",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BF98D81-E26F-48C7-AC32-42508533E751}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-C-0236",
+      "file_name": "561_20-C-0236 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/15/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AmeriMex Communications Corp. d/b/a SafetyNet Wireless for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27B25CA3-5280-4E6D-9DDE-5D756F094EAD}",
+      "organization": "AmeriMex Communications Corp. d/b/a SafetyNet Wireless",
+      "itemNo": "1",
+      "docket_id": "20-C-0236",
+      "file_name": "NY ETC EFILING (Amerimex.Safety net) 5.15.2020.pdf (2 MB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/15/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={061A37B5-C1FC-458D-9DE1-745AB5DC2382}",
+      "organization": "AmeriMex Communications Corp. d/b/a SafetyNet Wireless",
+      "itemNo": "1",
+      "docket_id": "20-C-0236",
+      "file_name": "NY ETC Ltr EFiled 5.15.2020.pdf (7 KB)"
+    }
+  ]
+}

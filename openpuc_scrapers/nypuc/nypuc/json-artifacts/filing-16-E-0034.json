@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0034",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B9F489-0000-C417-A4D2-45295341A691}",
+      "organization": "Brookfield Properties Mutlifamily LLC",
+      "itemNo": "4",
+      "docket_id": "16-E-0034",
+      "file_name": "Submetering ID_Eugene (8.11.23).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BFE01763-D78D-4A07-876B-E8E855827F11}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0034",
+      "file_name": "366_16e0034.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correspondence from BOP MW Residential Market LLC and BOP MW Residential Affordable LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE555292-39AB-4256-8122-20DE1168F3C1}",
+      "organization": "BOP MW Residential Market LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0034",
+      "file_name": "96.5k3 Waiver Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Notice of Intent_445 W 31st street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61AD7A03-423E-4E74-89D8-063A8879131F}",
+      "organization": "BOP MW Residential Affordable LLC, BOP MW Residential Market LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0034",
+      "file_name": "Submetering Notice of Intent_445 W 31st street.pdf"
+    }
+  ]
+}

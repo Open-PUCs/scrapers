@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0665",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan (2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0065392-0000-C51D-A064-A54605D9E930}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "23-E-0665",
+      "file_name": "in-service meter test plan (2).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter for 2230 Cropsey Avenue, Brooklyn, New York 11214.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70407F91-0000-CC24-A91B-2495824162E6}",
+      "organization": "2030 Cropsey Ave Lease Holder",
+      "itemNo": "4",
+      "docket_id": "23-E-0665",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0915590-0000-C51A-9A8E-9B5448828479}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0665",
+      "file_name": "368_23-E-0665 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30FC778F-0000-C632-9FB3-FF0F34EF1A99}",
+      "organization": "2030 Cropsey Ave Lease Holder",
+      "itemNo": "2",
+      "docket_id": "23-E-0665",
+      "file_name": "Response letter 5-14-24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 2030 Cropsey Ave Lease Holder to Submeter Electricity at 2230 Cropsey Avenue, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70EAAA8B-0000-C31B-8DF5-03AEBF0AE871}",
+      "organization": "2030 Cropsey Ave Lease Holder",
+      "itemNo": "1",
+      "docket_id": "23-E-0665",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

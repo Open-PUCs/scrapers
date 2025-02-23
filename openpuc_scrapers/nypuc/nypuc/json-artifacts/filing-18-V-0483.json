@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0483",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00E10F6A-C574-45A3-83F9-FBBA2A221F10}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-V-0483",
+      "file_name": "18-V-0483 Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/17/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={447562CE-6B15-4F46-A376-C485440F5D65}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0483",
+      "file_name": "668_18-V-0483 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/14/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "Affidavit of the Proof of Publication Case 18-V-0483",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16E8C725-2344-4AA3-A4E9-727059AD48BC}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "3",
+      "docket_id": "18-V-0483",
+      "file_name": "Affidavit of the Proof of Publication Case 18-V-0483.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/14/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0483 Signed SEAF Parts 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE1CDCD3-1C99-41FC-8CBE-BB54981EC027}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0483",
+      "file_name": "18-V-0483 Signed SEAF Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Town of Corning, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A59C5669-A073-4216-8156-D187F0F77BC8}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "18-V-0483",
+      "file_name": "Empire Video Services Corp_Town of Corning Franchise Filing 7_26_2018.pdf"
+    }
+  ]
+}

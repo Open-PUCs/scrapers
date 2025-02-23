@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0031",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69201330-56C3-4795-98F1-F843ACE0138D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0031",
+      "file_name": "661_22-V-0031.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02184 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A419118-71C1-4984-9FDF-8FB53DA73F17}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0031",
+      "file_name": "21-02184 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 231 East 10th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22513E5A-B967-4CB9-8587-FD1DC2D15153}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0031",
+      "file_name": "2-211014 Petition (231 E 10 ST) (Post-Survey).pdf"
+    }
+  ]
+}

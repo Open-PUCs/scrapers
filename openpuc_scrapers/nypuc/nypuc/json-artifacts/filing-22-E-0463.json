@@ -1,0 +1,115 @@
+{
+  "case": "22-E-0463",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8055AE8E-0000-C310-9B9F-898F28AACEC5}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "10",
+      "docket_id": "22-E-0463",
+      "file_name": "additional information 4-5-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan - 27 Eagle Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F39F8E-0000-C21A-B3E0-9F512D37552C}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "9",
+      "docket_id": "22-E-0463",
+      "file_name": "in-service meter test plan (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1027FC8A-0000-C716-96F6-1E69E24A16CE}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0463",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9021AE8A-0000-C71C-B515-688451463E5C}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "22-E-0463",
+      "file_name": "368_22-E-0463 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50B8228A-0000-CE1B-8BF6-1608A3081ED3}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0463",
+      "file_name": "additional information 8-23-23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/08/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Information requested for 27 Eagle Street, Brooklyn, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0919B88-0000-C71B-B372-3360CDED4A83}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0463",
+      "file_name": "Letter 6-8-23 (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information 5-9-23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0810188-0000-CD16-8F33-861349FE7CF5}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0463",
+      "file_name": "additional information 5-9-23 (1).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0B40A87-0000-C615-9C74-DED99DFFB6CD}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0463",
+      "file_name": "response letter 3-22-23.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D922C420-7100-4D7C-8CAC-4FC586E2BC5E}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0463",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/03/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BOP Greenpoint D LLC to Submeter Electricity at 27 Eagle Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E5B19B0-E994-42E5-B8F2-5B013FFB105A}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0463",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0627",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-02028 Letter to Building Owner 4045 68 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0D79A92-0000-C917-B886-2BDE29B28839}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-V-0627",
+      "file_name": "24-02028 Letter to Building Owner 4045 68 St.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30AE3492-0000-CC32-8A2A-6F1A7FB4E612}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0627",
+      "file_name": "Exhibit 2.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30AE3492-0000-C551-92DB-15FE505DBFC5}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0627",
+      "file_name": "Exhibit 1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30AE3492-0000-C31A-AD10-BAD733B07B6B}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0627",
+      "file_name": "Filing Cover Letter - Order of Access 2024 - 4045 68th St.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "4045 68th Street - Order of Access Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30AE3492-0000-CB73-9345-3F3D2767C647}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0627",
+      "file_name": "4045 68th Street - Order of Access Petition.pdf"
+    }
+  ]
+}

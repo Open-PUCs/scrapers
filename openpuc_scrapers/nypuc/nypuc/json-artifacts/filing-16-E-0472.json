@@ -1,0 +1,137 @@
+{
+  "case": "16-E-0472",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "James A. FitzPatrick Nuclear Generating Facility Notice of Intent to Continue Operations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C921560-816D-4142-A242-21AB5612F809}",
+      "organization": "Exelon Generation Company, LLC",
+      "itemNo": "6",
+      "docket_id": "16-E-0472",
+      "file_name": "NY PSC Notification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2016",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Announces New York's Approval of Sale of the James A. FitzPatrick Nuclear Power Plant",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6111B70-BF36-46E6-9F1D-037E40C5AF20}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0472",
+      "file_name": "pr16077.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer and Continuing Lightened Regulation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86AD3308-DC46-4377-BB74-499404429A85}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0472",
+      "file_name": "301_16e0472 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8E0B34C-E2FB-48E0-8370-ACBED049CD88}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0472",
+      "file_name": "301 16-E-0472 Fitz Transfer Notice of Determination of Significance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5CF564B-EB56-4D51-87F0-1A55333AD556}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0472",
+      "file_name": "16-E-0472 EAF complete.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/31/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Joint Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AA92586-D642-4E0F-8B90-65BFB6A8E58B}",
+      "organization": "Alliance for a Green Economy (AGREE), Citizens' Environmental Coalition, Nuclear Information and Resource Service",
+      "itemNo": "2",
+      "docket_id": "16-E-0472",
+      "file_name": "AGREE_CEC_NIRS_Comment_Fitz_Sale.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Entergy Nuclear Fitzpatrick, LLC and Exelon Generation Company, LLC Pursuant to Section 70 of the New York Public Service Law for Approval of the Transfer of the James A. Fitzpatrick Nuclear Power Plant and Related Assets and for a Declaratory Ruling Continuing Lightened Regulation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FBBE901-6531-4F82-AD83-65CC8EF8FA71}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0472",
+      "file_name": "HBROC-_2893511-v1-16-E-______Entergy-Exelon_Joint_Section_70_Petition_Fi....pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 4",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CCCB054-988E-4DCD-83AC-E297783DD185}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0472",
+      "file_name": "HBROC-_2893438-v1-Exhibit_4_-_SAPA_Notice.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB88D061-0874-4769-B3DE-A4C2C5E86C0E}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0472",
+      "file_name": "HBROC-_2893435-v1-Exhibit_3_-_EAF.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EECB70-0B1E-4B8E-BE9C-4CEF8109ADC5}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0472",
+      "file_name": "HBROC-_2893433-v1-Exhibit_2_-_Solomon_Affidavit.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={292E6C25-2C02-4678-AEDF-E450CC46305C}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0472",
+      "file_name": "HBROC-_2893426-v1-Exhibit_1_-_APA.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13FC92BE-02C0-460C-975A-6108046E2FE6}",
+      "organization": "Entergy Nuclear FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0472",
+      "file_name": "Cover_Letter.pdf"
+    }
+  ]
+}

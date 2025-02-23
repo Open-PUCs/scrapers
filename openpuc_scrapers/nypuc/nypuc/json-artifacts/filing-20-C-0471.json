@@ -1,0 +1,82 @@
+{
+  "case": "20-C-0471",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Protective Order",
+      "name": "NY Air Voice Protective Order Exhibit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D082212-8019-47CA-93FD-4C4B9AA0C4C0}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "4",
+      "docket_id": "20-C-0471",
+      "file_name": "NY Air Voice Protective Order Exhibit 11-30-2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Protective Order",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DB8AD25-B648-4E85-BA08-02590E401B6F}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "4",
+      "docket_id": "20-C-0471",
+      "file_name": "Air Voice Bahri Ex 1 Protective Order Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2020",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling Consolidating Cases",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FEDCADE-3180-4734-B6AB-2DEE09683C96}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-C-0471",
+      "file_name": "20-C-0314 et al. Ruling Consolidating Cases .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Motion Regarding Targeted Accessibility Fund",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C66994A-6D22-46D6-81AE-9EB33B492047}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "2",
+      "docket_id": "20-C-0471",
+      "file_name": "NY AirVoice TAF Motion Final 09.18.20.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/21/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E91E8191-FFB7-46DF-AA77-9DF645DB7B40}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "2",
+      "docket_id": "20-C-0471",
+      "file_name": "NY AirVoice Motion Cover Letter 09.18.20.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "NY AIR TAF Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81691BAC-AC55-4090-B0F4-961F8CAE81E5}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "1",
+      "docket_id": "20-C-0471",
+      "file_name": "NY AIR TAF Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5632DF6-5177-46C5-891B-02F679B0C7BA}",
+      "organization": "Air Voice Wireless, LLC d/b/a Feel Safe Wireless",
+      "itemNo": "1",
+      "docket_id": "20-C-0471",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

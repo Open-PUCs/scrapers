@@ -1,0 +1,60 @@
+{
+  "case": "19-W-0185",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47FCC57F-3339-497A-9C15-8BF09EAC2891}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-W-0185",
+      "file_name": "463_19-W-0185.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2019",
+      "nypuc_doctype": "Transcripts",
+      "name": "Evidentiary Hearing Transcript - Wednesday, October 23, 2019 - Albany",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82E7DED2-973F-4172-AF6A-AB94465A9F8D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-W-0185",
+      "file_name": "Evidentiary Hearing Transcript - Wednesday, October 23, 2019 - Albany.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Evidentiary Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0012DBC-05C2-429F-98AF-EA01898FF2D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-W-0185",
+      "file_name": "19-W-0185 Notice of Evidentiary Hearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Schedule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={730B5B9C-7F05-43CA-B711-61BB24F9574D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-W-0185",
+      "file_name": "19-W-0185 Ruling on Schedule.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York American Water Company, Inc. for Approval, Pursuant to Public Service Law, Section 113(2), of a Proposed Allocation of Property Tax Refund.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE00CC35-51B8-4068-91C9-C5CAA4800631}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0185",
+      "file_name": "NYAW - Notice of Tax Refund (03-13-19).pdf"
+    }
+  ]
+}

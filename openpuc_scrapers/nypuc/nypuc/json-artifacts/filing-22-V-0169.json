@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0169",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1291A481-B1D8-4A91-8502-EDF21D3A7B4D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0169",
+      "file_name": "662_22-V-0169.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00072 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2403B5EC-2FEA-4CD2-9FB2-6380D72758A4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0169",
+      "file_name": "22-00072 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 605 West 144th Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={498914C9-C1B4-46A4-8337-F13504E95865}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0169",
+      "file_name": "220112-5 Petition (605 W 144 ST) (Post-CODA).pdf"
+    }
+  ]
+}

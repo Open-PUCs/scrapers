@@ -1,0 +1,60 @@
+{
+  "case": "19-G-0306",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Derek Wilson Granting Request to Withdraw Petition and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D00C93-0000-CD12-8EB1-8A72A8501337}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-G-0306",
+      "file_name": "19-G-0306 - Nat. Grid - Itron - Case Closure Ltr.-11.8.24_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70160C93-0000-CD20-A7A9-7E641549C321}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "3",
+      "docket_id": "19-G-0306",
+      "file_name": "Itron Intelis Gas Meter Petiton Withdrawal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/06/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0A06F8A-0000-C811-8AC2-5700494A44B1}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "2",
+      "docket_id": "19-G-0306",
+      "file_name": "09.06.23 Cover Letter - Request for Confidential Treatment Attachment 1 CONFIDENTIAL Case 19-G-0306.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Brooklyn Union Gas Company d/b/a National Grid NY for Approval of ITRON Intelis Gas Meter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA7C7ABF-2E00-4EAD-BE20-D03190A0093E}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "19-G-0306",
+      "file_name": "Intelis Gas Meter Intent to Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "101584SP-02 Intelis Spec Sheet (WEB)-011419",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84AAEE76-C8E8-4493-9837-1038E510188F}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "19-G-0306",
+      "file_name": "101584SP-02 Intelis Spec Sheet (WEB)-011419.pdf"
+    }
+  ]
+}

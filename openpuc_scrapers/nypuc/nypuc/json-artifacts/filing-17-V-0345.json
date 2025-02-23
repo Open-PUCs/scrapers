@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0345",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18F02A55-44E2-4515-8E06-61C42FF76619}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0345",
+      "file_name": "661_17-V-0345.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Charter Communications Entertainment I, LLC for Approval of the Renewal of its Franchise with the Town of Chatham, Columbia County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EBB5683-32C0-4B09-B24B-346E310F6B3B}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0345",
+      "file_name": "6 13 17 T Chatham_Charter PSC cable franchise submission.pdf"
+    }
+  ]
+}

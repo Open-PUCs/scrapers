@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0555",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/02/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7576208-9460-4826-954B-0534E81F1A13}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0555",
+      "file_name": "662_15V0555.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Stony Point Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14EF6B38-7DE2-4B19-8E83-774EA4250492}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0555",
+      "file_name": "Stony Point Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Stony Point Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D3036CF-BA08-4AE0-AC74-F2292C3E8D3B}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0555",
+      "file_name": "Stony Point Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Stony Point Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE6BABF7-0FD3-4929-8360-4DA1C1ECABAE}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0555",
+      "file_name": "Stony Point Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Stony Point Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1ECB086F-CB6A-40C4-B33F-50A286DB4E9F}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0555",
+      "file_name": "Stony Point Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Stony Point Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D574ED1-72FA-432B-9835-921D65692D72}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0555",
+      "file_name": "Stony Point Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Stony Point Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27E80695-298B-4E0E-80EE-D574A642EFBD}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0555",
+      "file_name": "Stony Point Application Cover Letter.pdf"
+    }
+  ]
+}

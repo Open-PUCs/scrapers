@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0134",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certification of City Centre Associates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7DFC83A-34F5-41C8-A43E-3BC72CB05267}",
+      "organization": "City Centre Associates, LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0134",
+      "file_name": "6394209.PDF"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A82B0370-EF60-4408-BB4B-779B20CE590D}",
+      "organization": "City Centre Associates, LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0134",
+      "file_name": "6402899.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/20/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FBA675D-6828-4A2A-94C4-266E5A8AF3E9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0134",
+      "file_name": "369_18-E-0134.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of City Centre Associates, LLC to Submeter Electricity at 301 East State Street, Ithaca, New York, Located in the Territory of New York State Electric and Gas Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD6783C2-B957-4FE0-A250-18EC414C62E6}",
+      "organization": "City Centre Associates, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0134",
+      "file_name": "Notice of Intent to Submeter - searchable text (5915266).PDF"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD2E00E1-5E1F-4F94-B748-91B3B8C13919}",
+      "organization": "City Centre Associates, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0134",
+      "file_name": "Cover letter to Burgess - searchable text (5915816).PDF"
+    }
+  ]
+}

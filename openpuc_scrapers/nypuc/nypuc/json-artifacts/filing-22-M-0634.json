@@ -1,0 +1,82 @@
+{
+  "case": "22-M-0634",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3052198D-0000-CD19-BF2E-FB02885EEE71}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-M-0634",
+      "file_name": "22-M-0634 Cover Ltr 01122024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "CH Letter to Arlington Reformed 01112024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9074FF8C-0000-C716-939C-71EADA774628}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-M-0634",
+      "file_name": "22-M-0634 CH Letter to Arlington Reformed 01112024.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A057D08C-0000-CB13-949A-1243B80ECBD7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-M-0634",
+      "file_name": "268_22-M-0634_Letter_final 1324_REDACTED.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304ED08C-0000-C324-8EFE-1D2C85A511D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-M-0634",
+      "file_name": "268_22-M-0634_Determination final 1324.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/03/2022",
+      "nypuc_doctype": "Letters",
+      "name": "170611 SMR Ack Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A2A611E-ED19-4F61-BB02-3286732BA9C3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-M-0634",
+      "file_name": "170611 SMR Ack Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/03/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "170611 SMR Request Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE283A56-AA30-4E4B-917A-8C0AF5411312}",
+      "organization": "Arlington Reformed Church",
+      "itemNo": "2",
+      "docket_id": "22-M-0634",
+      "file_name": "170611 SMR Request Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/03/2022",
+      "nypuc_doctype": "Letters",
+      "name": "170611_Arlington_SMD_Final_10032022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35CBF32A-7263-41C7-9A9F-D2E2D7DCEF33}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-M-0634",
+      "file_name": "170611_Arlington_SMD_Final_10032022 (1).pdf"
+    }
+  ]
+}

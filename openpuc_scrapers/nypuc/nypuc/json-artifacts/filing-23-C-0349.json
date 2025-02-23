@@ -1,0 +1,27 @@
+{
+  "case": "23-C-0349",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40D9488B-0000-C416-A5B0-7D58D7F293B9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-C-0349",
+      "file_name": "561_23-C-0349_101923.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "TEMPO TELECOM, LLC\u00bfs Petition for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A70789-0000-C119-BED1-B979418699BC}",
+      "organization": "Tempo Telecom, LLC",
+      "itemNo": "1",
+      "docket_id": "23-C-0349",
+      "file_name": "Tempo NY ETC Filing 6.29.23 (1).pdf"
+    }
+  ]
+}

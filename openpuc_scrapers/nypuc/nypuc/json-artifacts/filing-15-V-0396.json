@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0396",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/02/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2ACD821D-D441-4973-BCD4-63953A5FAF42}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0396",
+      "file_name": "662_15V0396.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Java, Wyoming County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B89F390F-8D28-457D-9FBD-DAD9662DDF40}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0396",
+      "file_name": "JAVA, TN, RENEWAL, SUBMIT TO PSC, 07.10.15.pdf"
+    }
+  ]
+}

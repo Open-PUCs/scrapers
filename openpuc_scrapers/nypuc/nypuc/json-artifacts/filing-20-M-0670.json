@@ -1,0 +1,82 @@
+{
+  "case": "20-M-0670",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/14/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Waiver and Extending Development Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={519AF303-8488-4192-A9D1-07DE36735CBF}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "20-M-0670",
+      "file_name": "262_20-M-0670 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/06/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3826A04-3663-4DB7-A587-EC9D6447C694}",
+      "organization": "WTW Development LLC",
+      "itemNo": "6",
+      "docket_id": "20-M-0670",
+      "file_name": "WTW PSC219 PSC220 5-6-2021 (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/08/2021",
+      "nypuc_doctype": "Comments",
+      "name": "WTW Comment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF2409CC-7F76-4440-8FA2-74B4D26D3765}",
+      "organization": "WTW Development LLC",
+      "itemNo": "5",
+      "docket_id": "20-M-0670",
+      "file_name": "WTW PSC219 PSC220 3-8-2021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "WTW Petition Response and Attachment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={605B328A-E46D-4220-8B09-58BE7434F20A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "20-M-0670",
+      "file_name": "WTW Petition Response and Attachment 2.1.21.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "WTW Petition Response and Attachment 2.1.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CEAEF3D-A9A7-4FDD-B0FE-ECAC3CF4D7AF}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "20-M-0670",
+      "file_name": "WTW Petition Response and Attachment 2.1.21.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Six Month Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={592DD477-CCA2-4E05-8D81-21ABB60DCFAF}",
+      "organization": "WTW Development LLC",
+      "itemNo": "2",
+      "docket_id": "20-M-0670",
+      "file_name": "Letter Regarding Case 20-M-0670.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of WTW Development LLC for a Six Month Extension of the Five Year Agreement Concerning Builder Development Funds.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={419F3B03-04FD-4C8A-9944-8701A10A087B}",
+      "organization": "WTW Development LLC",
+      "itemNo": "1",
+      "docket_id": "20-M-0670",
+      "file_name": "WTW PSC219 PSC 220 11-21-2020.pdf"
+    }
+  ]
+}

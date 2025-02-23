@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0678",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0B6D88B-0000-CF1E-9650-4955AED34719}",
+      "organization": "JUST ENERGY NEW YORK CORP.",
+      "itemNo": "2",
+      "docket_id": "23-E-0678",
+      "file_name": "23-E-____ - Petition of Just Energy - RAO Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Just Energy New York Corp. for a Declaratory Ruling that the Company Complied with the Requirements of the Environmental Disclosure Labeling Program Rules for the 2022 Compliance Year.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B1D88B-0000-C43E-BD00-1A2F1899A1F7}",
+      "organization": "JUST ENERGY NEW YORK CORP.",
+      "itemNo": "1",
+      "docket_id": "23-E-0678",
+      "file_name": "Case 23-E-____ - Petition of Just Energy for a Declaratory Ruling 11.15.2023 (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Just Energy - Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B1D88B-0000-CD11-B677-2B3A7B3D1DA2}",
+      "organization": "JUST ENERGY NEW YORK CORP.",
+      "itemNo": "1",
+      "docket_id": "23-E-0678",
+      "file_name": "23-E-____ - Petition of Just Energy - Cover Letter.pdf"
+    }
+  ]
+}

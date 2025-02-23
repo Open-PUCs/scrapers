@@ -1,0 +1,38 @@
+{
+  "case": "20-V-0505",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E1C754B-8E8D-402B-9B16-4C6C9EB89B4B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0505",
+      "file_name": "661_20-V-0505 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "T.Genesee signed Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE1CE388-1B73-48F7-9DB1-BCBB7022018D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "20-V-0505",
+      "file_name": "10.22.20 T.Genesee signed Resolution to Case 20-V-0505.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Genesee, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB13DC36-DF5C-4298-B444-498FB1E15E61}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0505",
+      "file_name": "2020.10.21 - T. GENESEE PSC FILING.pdf"
+    }
+  ]
+}

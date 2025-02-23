@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0396",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3544C48C-FA69-4D73-87B4-DA1672E5903A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0396",
+      "file_name": "661_21-V-0396.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Albion, Oswego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D15D39DC-F91B-4AF6-A6B0-097EBD86FEC8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0396",
+      "file_name": "2021.07.20 - T. ALBION (OswegoCo) FRANCHISE RENEWAL.pdf"
+    }
+  ]
+}

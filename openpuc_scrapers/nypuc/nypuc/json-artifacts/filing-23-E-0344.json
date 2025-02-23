@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0344",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Halletts Building 3 SPE LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6089468D-0000-CA1F-8509-FDC67CEF2A5D}",
+      "organization": "Halletts Building 3 SPE LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0344",
+      "file_name": "Halletts Building 3 SPE LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4078328D-0000-C51D-967B-612426D92F5C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0344",
+      "file_name": "372_23-E-0344.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - Halletts Point 20 and 30",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BB598C-0000-CB14-83A2-974C0481C4D2}",
+      "organization": "Halletts Building 3 SPE LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0344",
+      "file_name": "Supplemental Filing - Halletts Point 20 and 30 - 12.11.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - Halletts Point 20 and 30",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={305E5D8B-0000-C01D-8974-C105CBA6368E}",
+      "organization": "Halletts Building 3 SPE LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0344",
+      "file_name": "Supplemental Filing - Halletts Point 20 and 30 - 10.23.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Halletts Building 3 SPE LLC to Submeter Electricity at 26-28 and 26-30 1st Street, Queens, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6087E888-0000-C513-8CAC-8F35833540A0}",
+      "organization": "Halletts Building 3 SPE LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0344",
+      "file_name": "Submetering Notice of Intent - As Filed - 6.23.23.pdf"
+    }
+  ]
+}

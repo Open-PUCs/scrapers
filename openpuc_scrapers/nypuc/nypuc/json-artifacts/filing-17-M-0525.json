@@ -1,0 +1,82 @@
+{
+  "case": "17-M-0525",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4937A61-720B-4542-BAC4-43643E6F1110}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "17-M-0525",
+      "file_name": "265_17-M-0525.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "17-M-0525",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "17-M-0525",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "17-M-0525",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "17-M-0525",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "17-M-0525",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-M-0525",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0676",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5E4084F-893B-4A80-9610-A859642F2404}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0676",
+      "file_name": "661_22-V-0676.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01865 Letter to Building Owner 10.12.22_105 Avenue B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F30CB593-7539-4326-86A3-8FE225CBD16B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0676",
+      "file_name": "22-01865 Letter to Building Owner 10.12.22_105 Avenue B.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 105 Avenue B, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={460CCD87-363E-458D-B325-07B820A524D4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0676",
+      "file_name": "220921-11 Petition (105 AVENUE B) (Post-Survey).pdf"
+    }
+  ]
+}

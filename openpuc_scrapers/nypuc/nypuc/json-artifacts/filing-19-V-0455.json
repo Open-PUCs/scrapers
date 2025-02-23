@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0455",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Form R2 - Village of Colonie",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2FB5352-FC71-4772-9AD9-C3BBF44DE00D}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0455",
+      "file_name": "R2 - Village of Colonie.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E1B8155-20BC-466B-B583-A7B9DEBB6B26}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0455",
+      "file_name": "Charter Communications, Inc. - Letter to PSC Secretary -Franchise Information - Colonie.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79E895E0-22CD-4EDA-B4AB-AF99668BBF9F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0455",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Colonie, Albany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81A7ACF7-E4E1-41AF-A90C-98E772BA8ADF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0455",
+      "file_name": "PSC VColonie NY June2019.pdf"
+    }
+  ]
+}

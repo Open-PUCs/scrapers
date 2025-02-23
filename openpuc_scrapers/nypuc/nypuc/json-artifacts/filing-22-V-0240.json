@@ -1,0 +1,71 @@
+{
+  "case": "22-V-0240",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB5EED47-8032-40B6-AC2E-A62FF847604A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-V-0240",
+      "file_name": "661_22-V-0240 OOE final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BABE19D-0F6A-48B6-8B89-76B8E838EAAC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0240",
+      "file_name": "220407 Verizon Reply re 8 St Marks Place.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02183 Letter to Building Owner 01-12-2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37F78CFC-0400-40E1-9C6F-445536C9CC8B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-V-0240",
+      "file_name": "21-02183 Letter to Building Owner 01-12-2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/18/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "response to the Petition for an order of entry by Verizon New York Inc. to 8 Saint Marks Place.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6869316B-50A5-43E4-A5B4-00D9ED72F88E}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "22-V-0240",
+      "file_name": "doc153025.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02183 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0ED0E4AF-ABAC-4272-9E9C-27826202C6E1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0240",
+      "file_name": "21-02183 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 8 Saint Marks Place, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={561BDC24-A634-43CE-942A-64338F0373FF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0240",
+      "file_name": "1-211014 Petition (8 ST MARKS PL) (Post-Survey).pdf"
+    }
+  ]
+}

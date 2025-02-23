@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0118",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "second notification letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={100F4593-0000-C043-877A-6BC6C9C8E906}",
+      "organization": "Queens Fresh Meadows LLC",
+      "itemNo": "5",
+      "docket_id": "24-E-0118",
+      "file_name": "second notification letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00E90890-0000-CB16-9791-54145413C9E0}",
+      "organization": "Queens Fresh Meadows LLC",
+      "itemNo": "4",
+      "docket_id": "24-E-0118",
+      "file_name": "response letter 6-11-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0DDC98F-0000-CB13-A9E2-74DBFE230875}",
+      "organization": "Queens Fresh Meadows LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0118",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A02EA48E-0000-C816-9FBE-6E516E09E2F6}",
+      "organization": "Queens Fresh Meadows LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0118",
+      "file_name": "response letter (4).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Queens Fresh Meadows LLC to Submeter Electricity at 6700 192 Street, Flushing, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={409ED28D-0000-CA1A-9F09-3A9062261C42}",
+      "organization": "Queens Fresh Meadows LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0118",
+      "file_name": "Submetering Application.pdf"
+    }
+  ]
+}

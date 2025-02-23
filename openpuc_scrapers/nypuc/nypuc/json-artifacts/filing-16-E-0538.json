@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0538",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB1A173D-0898-40B8-B0F1-0E94A1E50E48}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0538",
+      "file_name": "362_16-E-0538.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1A33AD2-108B-4416-8725-A327A9E4BD47}",
+      "organization": "50 West Street Condominium",
+      "itemNo": "2",
+      "docket_id": "16-E-0538",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 50 West Street Condominium of Intent to Submeter Electricity at 50 West Street Condominium, Located in the Territory of Consolidated Edison Company of New York, lnc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={705EE410-6D4E-4DF8-AA41-3FF86CB0017C}",
+      "organization": "50 West Street Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0538",
+      "file_name": "submetering application 9-19-16.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0088",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Close the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2063098A-0000-C81A-892B-47949F950BE5}",
+      "organization": "Itron Inc.",
+      "itemNo": "3",
+      "docket_id": "23-E-0088",
+      "file_name": "Cancellation Case 23-E-0088-signed.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Itron, Inc. for Approval to Use Itron OpenWay CENTRON Polyphase LTE-M Cellular Meters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={548028FF-017C-4E8B-837D-C87E83242863}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0088",
+      "file_name": "NYS Similarity Letter OW CENTRON PP LTE-M rev3 redacted signed 20230214.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={008803A2-33C3-418B-B9C0-702EA40B8E52}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0088",
+      "file_name": "Clarification Request 20230217-signed.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/14/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A014930-4618-44A3-930C-2F23F4591D0B}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0088",
+      "file_name": "ITRON Confidentiality Request letter 20230214-signed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Itron OpenWay Centron LTE-M letter of intent 02022023-signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={793B62E8-CAA0-44D5-BDE1-6CC0253CD4ED}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0088",
+      "file_name": "Itron OpenWay Centron LTE-M letter of intent 02022023-signed (1).pdf"
+    }
+  ]
+}

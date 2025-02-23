@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0641",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240117 - Payment - $2500_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8086558D-0000-CE1A-8C96-38586FEEB50A}",
+      "organization": "Portanova & Dimatteo Sons LLC",
+      "itemNo": "3",
+      "docket_id": "23-G-0641",
+      "file_name": "20240117 - Payment - $2500_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D000EA8C-0000-C119-8070-B964FF76EF7D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0641",
+      "file_name": "161-A_23-G-0641.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0167",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB77641B-DA69-4AE3-8998-5BA6BFB68159}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0167",
+      "file_name": "662_19-V-0167.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B36070CF-31D6-4756-8E65-1EB80BC159BA}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0167",
+      "file_name": "Poughkeepsie - Newspaper Aff.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Poughkeepsie Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C268B600-4244-4D44-BB6A-253211263652}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0167",
+      "file_name": "Poughkeepsie Proof of Performance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV- Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E923A7A7-D8B8-4289-9086-324EEAC65B8C}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0167",
+      "file_name": "Exhibit IV- Franchise Agreement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Poughkeepsie Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7346750-459D-4482-9DCB-CB3780B675AE}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0167",
+      "file_name": "Exhibit III - Poughkeepsie Resolution.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Poughkeepsie Aff of Pub",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B9D26BC-17B9-4513-8C2D-5632E8C7A4B0}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0167",
+      "file_name": "Exhibit II - Poughkeepsie Aff of Pub.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - Poughkeepsie R2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F072AB6-AD00-4289-B945-3B850A4EA864}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0167",
+      "file_name": "Exhibit I - Poughkeepsie R2.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE0AA766-136C-4DF1-9F68-60BD9C60D4F2}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0167",
+      "file_name": "Poughkeepsie - Application Cover Letter_.pdf"
+    }
+  ]
+}

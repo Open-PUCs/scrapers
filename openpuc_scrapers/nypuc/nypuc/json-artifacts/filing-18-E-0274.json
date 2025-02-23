@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0274",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Harmony Mills Riverview LLC - Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74833872-9803-42E0-B34B-824DC9B80CC0}",
+      "organization": "Harmony Mills Riverview LLC",
+      "itemNo": "6",
+      "docket_id": "18-E-0274",
+      "file_name": "Riverview - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A0A86B0-9D53-4BFE-AF82-B592E48CA081}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0274",
+      "file_name": "362_18-E-0274 0275.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Harmony Mills Fallsview LLC - Response to Tenant Comment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A49C6EAC-D746-4837-BF19-FF297E478C76}",
+      "organization": "Harmony Mills Fallsview LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0274",
+      "file_name": "Munguia Comment Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92C5FAAD-2A71-4392-AF08-05D6A0672FDD}",
+      "organization": "Harmony Mills Riverview LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0274",
+      "file_name": "Riverview SAPA Package.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/15/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Juanita Munguia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70B1360F-0B7C-4FE6-83AF-E4DC47456E02}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0274",
+      "file_name": "Case 18-E-0146 correspondence.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Harmony Mills Riverview LLC to Submeter Electricity at 100 N. Mohawk Street, Cohoes, New York, Located in the Territory of Niagara Mohawk Power Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FEA06EB-0DC2-4EF5-9DB4-24439DEAB6D7}",
+      "organization": "Harmony Mills Riverview LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0274",
+      "file_name": "Submetering Petition_Harmony Mills Riverview (1).pdf"
+    }
+  ]
+}

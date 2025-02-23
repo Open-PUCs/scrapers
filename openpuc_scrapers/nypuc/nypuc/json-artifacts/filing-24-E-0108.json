@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0108",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0E2068F-0000-C61D-BF02-746C628FB513}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0108",
+      "file_name": "380_24-E-0108 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "HighRiver_Land Transfer Exhibit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F72E8E-0000-C433-9683-D565925B8FD5}",
+      "organization": "High River Energy Center, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0108",
+      "file_name": "2023-02-24_HighRiver_LandTransferExhibit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "High River Solar Amended and Restated LGIA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80F72E8E-0000-CC13-8502-D42AEB66228E}",
+      "organization": "High River Energy Center, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0108",
+      "file_name": "High River Solar Amended and Restated LGIA (fully executed).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter - Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F72E8E-0000-CD13-8B74-A813EB979F10}",
+      "organization": "High River Energy Center, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0108",
+      "file_name": "final - L-Phillips-High River Dec Ruling Supplement 3-11-24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "High River Declaratoty Ruling Petition with Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9090AD8D-0000-CE15-A3FD-8864130505FD}",
+      "organization": "High River Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0108",
+      "file_name": "Final High River Dec Ruling Petition with Affidavit 2-15-24.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9090AD8D-0000-CA3B-9DD8-C240E7BEB3B9}",
+      "organization": "High River Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0108",
+      "file_name": "final - L-Phillips-High River Dec Ruling 2-15-24.pdf"
+    }
+  ]
+}

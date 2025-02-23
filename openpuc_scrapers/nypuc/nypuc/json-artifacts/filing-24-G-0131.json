@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0131",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240506 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907A818F-0000-C018-92AD-9070EB96A4A4}",
+      "organization": "Metro Paving LLC",
+      "itemNo": "4",
+      "docket_id": "24-G-0131",
+      "file_name": "20240506 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1009168F-0000-C431-8A43-C968B627115A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-G-0131",
+      "file_name": "161-A_24-G-0131.pdf"
+    }
+  ]
+}

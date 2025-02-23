@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0148",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70B03F8F-0000-CC14-9343-6BB21E82B9AE}",
+      "organization": "Anthony Residence LLC",
+      "itemNo": "7",
+      "docket_id": "23-E-0148",
+      "file_name": "complaince letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan for 2063-2067 Anthony Avenue, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={000D808D-0000-CE1B-B626-10586AC5B24D}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "23-E-0148",
+      "file_name": "in-service meter test plan (5).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90DDB08B-0000-CF1A-9FF8-F8437B42A706}",
+      "organization": "Anthony Residence LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0148",
+      "file_name": "compliance letter (5).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C8438B-0000-C11B-862E-D37A54F81289}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0148",
+      "file_name": "391_23-E-0148 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information 9-26-23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={300AD38A-0000-C614-B385-382C342494FA}",
+      "organization": "Anthony Residence LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0148",
+      "file_name": "additional information 9-26pdf.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information requested for 2063-2067 Anthony Avenue, Bronx,",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0BED988-0000-C911-930A-FFD3D956E9FA}",
+      "organization": "Anthony Residence LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0148",
+      "file_name": "additional information (3).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Anthony Residence LLC to Submeter Electricity at 2063-2067 Anthony Avenue, Bronx, Located in the territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={000B2987-0000-C31F-B12C-2C0B51D25FA8}",
+      "organization": "Anthony Residence LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0148",
+      "file_name": "submetering application (14).pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0019",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC103BFB-BA0F-4A89-9CCB-1C3D5B10FA6A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0019",
+      "file_name": "661_17-V-0019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast, LLC for Approval of the Renewal of its Franchise with Village of Hammondsport, Steuben County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D92F41C-F913-46D6-A3E9-89655E815249}",
+      "organization": "Charter Communications",
+      "itemNo": "1",
+      "docket_id": "17-V-0019",
+      "file_name": "HAMMONDSPORT, VLG RENEWAL DOCS SUBMITTED TO PSC.pdf"
+    }
+  ]
+}

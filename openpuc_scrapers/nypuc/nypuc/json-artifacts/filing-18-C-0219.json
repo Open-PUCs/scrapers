@@ -1,0 +1,71 @@
+{
+  "case": "18-C-0219",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/08/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Report on Telephone Service Quality and Commendations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B791963A-0C93-4C71-9F57-FD857A4CDA6A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-C-0219",
+      "file_name": "562_18-C-0219.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - Improvement Plan Underway for Frontier Communications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B9178F7-9C2C-442E-8E6E-466358CCBC88}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-C-0219",
+      "file_name": "pr19073.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/18/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 2018 Fourth Quarter Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2AD2953-1AAF-4FB2-84B3-7246B192D2E2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-C-0219",
+      "file_name": "561_18-C-0219.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon Third Quarter Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF4C5DA0-298F-48E6-9A70-4EB73EA77F5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-C-0219",
+      "file_name": "561_18-C-0219.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon Service Quality Second Quarter Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F28C00B7-1737-4124-99DA-9F2A0B36C7EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-C-0219",
+      "file_name": "562_18-C-0219.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon First Quarter 2018 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C816BD34-9EEC-4B93-93A2-23A73123C142}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-C-0219",
+      "file_name": "562_18-C-0219.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "24-C-0505",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D09F7B92-0000-C222-801E-B0C0B744DB1B}",
+      "organization": "Manhattan Telecommunications Corp.",
+      "itemNo": "4",
+      "docket_id": "24-C-0505",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Org Chart - Copy_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D09F7B92-0000-CE64-AB20-43869B998E44}",
+      "organization": "Manhattan Telecommunications Corp.",
+      "itemNo": "4",
+      "docket_id": "24-C-0505",
+      "file_name": "Org Chart - Copy_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Petition Supplement FINAL 10 10 2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C09F7B92-0000-C914-B69E-0B6117094D71}",
+      "organization": "Manhattan Telecommunications Corp.",
+      "itemNo": "4",
+      "docket_id": "24-C-0505",
+      "file_name": "NY Petition Supplement FINAL 10 10 2024.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Confidential Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C09F7B92-0000-C531-A157-ACDB16F3824C}",
+      "organization": "Manhattan Telecommunications Corp.",
+      "itemNo": "4",
+      "docket_id": "24-C-0505",
+      "file_name": "Confidential Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NY Petition Supplement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80747892-0000-CD1E-802D-09ADBA7AC717}",
+      "organization": "Manhattan Telecommunications Corp.",
+      "itemNo": "2",
+      "docket_id": "24-C-0505",
+      "file_name": "NY Petition Supplement FINAL 10 10 2024.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Manhattan Telecommunications Corporation LLC for Approval to Participate in Certain Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F025D791-0000-CF13-9045-605E7DE07024}",
+      "organization": "Manhattan Telecommunications Corporation LLC a/k/a MetTel",
+      "itemNo": "1",
+      "docket_id": "24-C-0505",
+      "file_name": "MetTel NY Financing Petition 9 9 2024.pdf"
+    }
+  ]
+}

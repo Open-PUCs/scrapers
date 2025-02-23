@@ -1,0 +1,60 @@
+{
+  "case": "21-C-0235",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Report on the Service Quality of Local Telephone Companies During 2021 and Commendations for Excellent Service Quality Provided in 2021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC295E66-58EC-42C8-86E8-CD9E4DBAB9BF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-C-0235",
+      "file_name": "564_21-C-0235.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 4th Quarter 2021 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E7A871E-4328-48A2-8C26-5686AA00E8DC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-C-0235",
+      "file_name": "562_21-C-0235.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 3rd Quarter 2021 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A837F613-D69A-4B1E-A22E-F3ABE45C2017}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-C-0235",
+      "file_name": "561_21-C-0235.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/12/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 2nd Quarter 2021 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={265F9879-CABB-49A6-B82B-3410ADC59A62}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-C-0235",
+      "file_name": "561_21-C-0235.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/13/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 1st Quarter 2021 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B4791D1-2677-48A5-A081-9158F079BB70}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-C-0235",
+      "file_name": "568_21-C-0235.pdf"
+    }
+  ]
+}

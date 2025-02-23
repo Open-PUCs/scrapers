@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0251",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/31/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={159B72A5-AD37-4B4F-A0D3-1F9C420FE510}",
+      "organization": "56 Leonard Street Condominium",
+      "itemNo": "5",
+      "docket_id": "17-E-0251",
+      "file_name": "response letter 1-31-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAE223C4-65A8-4FC2-A897-886BC17B20E2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0251",
+      "file_name": "363_17-E-0251 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/31/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7BCDBCE-AD27-472B-AB47-1FC22C061ACD}",
+      "organization": "56 Leonard Street Condominium",
+      "itemNo": "3",
+      "docket_id": "17-E-0251",
+      "file_name": "response letter 10-31-2017.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/07/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={003EA122-C840-49DC-8393-68A0BA583BDF}",
+      "organization": "56 Leonard Street Condominium",
+      "itemNo": "2",
+      "docket_id": "17-E-0251",
+      "file_name": "response letter 8-7-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 56 Leonard Street Condominium to Submeter Electricity at 56 Leonard Street, New York, NY, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D24D4D9-0118-41B9-B868-ADB9B9614820}",
+      "organization": "56 Leonard Street Condominium",
+      "itemNo": "1",
+      "docket_id": "17-E-0251",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

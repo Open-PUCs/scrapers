@@ -1,0 +1,126 @@
+{
+  "case": "24-V-0355",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80FB7A91-0000-CE14-9A8D-52CB4CEAF0B2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0355",
+      "file_name": "661_24-V-0355 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70442790-0000-C916-BB1A-4448BDF0228C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Tuckahoe Request for Confidential Treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0FDF28F-0000-C84E-9C56-856409965B46}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Request for Confidential Treatment.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Tuckahoe Exhibit F (REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0FDF28F-0000-C128-9337-811BB07DA791}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Exhibit F (REDACTED).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Tuckahoe Exhibit E",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0FDF28F-0000-C5B9-9E18-6EFCE191E930}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Exhibit E.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Tuckahoe Exhibit D",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0FDF28F-0000-CB68-BEDF-058952521908}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Exhibit D.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Tuckahoe Exhibit C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0FDF28F-0000-C77B-9DED-95897365103E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Exhibit C.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Tuckahoe Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0FDF28F-0000-C65A-936C-A91CD647A760}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Exhibit B.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Tuckahoe Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0FDF28F-0000-CB38-A4D2-3C561E918553}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Exhibit A.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Tuckahoe Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0FDF28F-0000-CF15-82BA-5B42E6862BA6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "Tuckahoe Cover Letter.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0FDF28F-0000-C792-869C-74A9850ABC4E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0355",
+      "file_name": "RequestForNondisclosure.pdf"
+    }
+  ]
+}

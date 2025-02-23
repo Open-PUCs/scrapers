@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0528",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB909856-9386-4F1F-9D90-27D082ADE0DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0528",
+      "file_name": "371 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46EF38A3-32E7-4E24-93DE-13493A299D0C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0528",
+      "file_name": "371 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/13/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8967CAD7-5304-4C39-8BB6-DDB0953DA4BB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0528",
+      "file_name": "Case #334027 Acknoledgement Letter_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/12/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72DDBE02-5637-453C-910E-31B4299CDDDC}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "16-E-0528",
+      "file_name": "334027_appeal_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/12/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56A53763-F9F7-41C9-944D-CA99F1981ADA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0528",
+      "file_name": "Russo Louis vs Con Edison SMD 334027 final (002)_Redacted.pdf"
+    }
+  ]
+}

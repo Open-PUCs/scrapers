@@ -1,0 +1,60 @@
+{
+  "case": "21-V-0293",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6BACCE6-BFB7-4049-90EF-474AED8764A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0293",
+      "file_name": "663_21-V-0293 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/16/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={706E2380-5887-474E-93ED-CE6C17F3CA27}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "3",
+      "docket_id": "21-V-0293",
+      "file_name": "Matter No. 21-V-0293_Comcast Affidavit of Publication_Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/16/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B342390-22F3-40AE-AB8B-906B93220746}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "3",
+      "docket_id": "21-V-0293",
+      "file_name": "Matter No. 21-V-0293_Comcast Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEFC381E-3E1A-49F1-A7A4-A80F8AC4738B}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0293",
+      "file_name": "21-V-0293_Comcast Letter to RAO_Carmel Franchise Renewal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast of New York, LLC for Approval of the Renewal of its Franchise with the Town of Carmel, Putnam County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE2F5E15-1C0D-4989-ABF6-95AF5EAA25AF}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0293",
+      "file_name": "Comcast Application for Approval of Town of Carmel franchise renewal.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0361",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C68E3A4-7000-4AF4-9E4B-68E00CF8DF77}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0361",
+      "file_name": "661_21-V-0361.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Alabama, Genesee County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2026E34-5B77-4508-AA7B-417677296019}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0361",
+      "file_name": "2021.06.25 T. ALABAMA RENEWAL FILED-PSC_mm.pdf"
+    }
+  ]
+}

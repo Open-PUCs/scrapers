@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0507",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6010D891-0000-C825-8A2F-382C254C4C9B}",
+      "organization": "90Ninety LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0507",
+      "file_name": "90Ninety LLC - Cover Letter - Notice of Intent to Submeter - 9.9.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "90Ninety LLC - Notice of Intent to Submeter Electricity",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5010D891-0000-CB19-863F-8D08F8022F1F}",
+      "organization": "90Ninety LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0507",
+      "file_name": "90Ninety LLC - Notice of Intent to Submeter - 9.9.24.pdf"
+    }
+  ]
+}

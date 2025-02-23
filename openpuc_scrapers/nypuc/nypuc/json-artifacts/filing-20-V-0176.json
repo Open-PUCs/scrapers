@@ -1,0 +1,82 @@
+{
+  "case": "20-V-0176",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2C06184-816C-4166-AAD2-E3DFCCC8890D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0176",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Verizon Reactivation Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E97CE3B-0A81-46B7-88D4-A69CAD8FF145}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "20-V-0176",
+      "file_name": "201110 Letter re Matter 19-00851 (reactivation).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A4D4A7F-850F-4CD2-90B7-DEDCD05CFF31}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0176",
+      "file_name": "190620 VZ Letter re 141-28 84 Dr (suspension).pdf (52 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE1F3ABA-9549-4EE2-8B9F-6A69ADFC3B16}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0176",
+      "file_name": "19-00851 Merged Letters.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 141-28 84th Drive, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B371E432-20D4-4A58-9FB4-E25959EC926D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0176",
+      "file_name": "Petition (141-28 84 Dr).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={025CD2AB-F1D4-4D75-9971-8F85B62C9137}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0176",
+      "file_name": "Exhibit 2 (141-28 84 Dr).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={914A9F66-8953-4DB4-A213-456C6AFD023E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0176",
+      "file_name": "Exhibit 1 (141-28 84 Dr).pdf"
+    }
+  ]
+}

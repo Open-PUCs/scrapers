@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0081",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B956FB0-4A37-45F5-8CF1-EBEB4A43E158}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "16-E-0081",
+      "file_name": "REVISED CASE.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter from Con Edison Complying with Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4911E9E-6F94-45DF-8242-48F6F239BABE}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-E-0081",
+      "file_name": "Letter from Con Edison Complying with Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={041A832E-F80F-41DC-BF45-99201E334740}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0081",
+      "file_name": "367_16-E-0081 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B7F3126-3061-4B25-8457-BE961A78BE01}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0081",
+      "file_name": "367_16-E-0081 Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/17/2016",
+      "nypuc_doctype": "Letters",
+      "name": "428685_Ack_Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA517124-7EF7-493B-9D80-8DCC02E62CF3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0081",
+      "file_name": "428685_Ack_Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/16/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal_Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF4118B9-1C60-4347-8747-0A8C35C39A17}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "16-E-0081",
+      "file_name": "Appeal_Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/16/2016",
+      "nypuc_doctype": "Letters",
+      "name": "428685- Jing Lu vs Con Edison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={019C6009-9290-479F-90DC-F02BD637F5ED}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0081",
+      "file_name": "428685- Jing Lu vs Con Edison.pdf"
+    }
+  ]
+}

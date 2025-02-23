@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0605",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/03/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240725 - Origin of Investigation - National Grid Submittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D052B991-0000-CF73-926A-593D991F723D}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "24-G-0605",
+      "file_name": "20240725 - Origin of Investigation - National Grid Submittal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240827 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={909E9991-0000-CE29-A9EC-8B9F4B5CAC9A}",
+      "organization": "I.C.C. Associates",
+      "itemNo": "2",
+      "docket_id": "24-G-0605",
+      "file_name": "20240827 - NOPV Letter.pdf"
+    }
+  ]
+}

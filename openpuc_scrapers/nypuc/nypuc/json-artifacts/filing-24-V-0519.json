@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0519",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0545493-0000-C615-85E3-8019062FD2F3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0519",
+      "file_name": "661_24-V-0519.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60C9E291-0000-CB23-A332-A188E2B1E539}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "2",
+      "docket_id": "24-V-0519",
+      "file_name": "AUSA Newspaper Cover Letter - Brightwaters, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C9E291-0000-C010-A027-EAF46BACF8C3}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "2",
+      "docket_id": "24-V-0519",
+      "file_name": "AUSA Newspaper Affidavit - Brightwaters, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4028E291-0000-C750-8468-30F80C6405D6}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "24-V-0519",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Brightwaters, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4028E291-0000-CF9B-8475-DB68D6C944B6}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "24-V-0519",
+      "file_name": "Exhibit IV - Brightwaters, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4028E291-0000-CC7B-AA29-EE0CAA80BEAE}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "24-V-0519",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4028E291-0000-C7BD-BB4F-86501D1C35EE}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "24-V-0519",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4028E291-0000-C636-AE24-21C2D1C15848}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "24-V-0519",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4028E291-0000-CC17-95EE-8C568212A57D}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "24-V-0519",
+      "file_name": "Application Cover Letter - Brightwaters, V..pdf"
+    }
+  ]
+}

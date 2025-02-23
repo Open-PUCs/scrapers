@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0400",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/27/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F22E9188-B6E1-4FFB-BF7B-BFE33268C8B1}",
+      "organization": "Tax Credit Asset Management, LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0400",
+      "file_name": "Birches PSC Approval Confirmation 03 23 2019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90FE92DF-3838-4DD4-B320-FFDDBB0006E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0400",
+      "file_name": "361_18-E-0400.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EA0E84E-7B12-4EFF-90D1-B6D90ACBE44F}",
+      "organization": "Tax Credit Asset Management, LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0400",
+      "file_name": "Birches11192018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/30/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to questions regarding Birches at Schoharie",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4540BFA5-3828-4C01-9A4B-53718AA64617}",
+      "organization": "Tax Credit Asset Management, LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0400",
+      "file_name": "BirchesPSCResponse8302018.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Tax Credit Asset Management, LLC to Submeter Electricity at the Birches, Schoharie at 192 Main Street, Schoharie, NY 12157, Located in the Territory of Niagara Mohawk Power Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D8D7F7F-C277-4D81-8BCE-F5521C817702}",
+      "organization": "Tax Credit Asset Management, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0400",
+      "file_name": "Biirches PSCSubmissionElec722018.pdf"
+    }
+  ]
+}

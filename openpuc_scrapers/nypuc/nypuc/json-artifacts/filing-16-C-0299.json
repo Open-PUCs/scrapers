@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0299",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E3ACA2B-1944-4C58-8CE2-C427B86ED80D}",
+      "organization": "ANPI Business, LLC, ANPI, LLC, Common Point, LLC, Onvoy, LLC",
+      "itemNo": "3",
+      "docket_id": "16-C-0299",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control and Related Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23A58002-738E-4252-87E5-D729E03F9ED8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0299",
+      "file_name": "562_16c0299.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval for the Transfer of Indirect Control of ANPI Business, LLC and ANPI, LLC to Onvoy, LLC; for the Transfer of Minority Indirect Control of Common Point LLC to Onvoy, LLC; and for ANPI Business, LLC and ANPI, LLC to Participate in Certain Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C696DC7-F83A-492C-97C2-79DBF85904AD}",
+      "organization": "ANPI Business, LLC, ANPI, LLC, Common Point, LLC, Onvoy, LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0299",
+      "file_name": "NY Transfer & Financing Petition.pdf"
+    }
+  ]
+}

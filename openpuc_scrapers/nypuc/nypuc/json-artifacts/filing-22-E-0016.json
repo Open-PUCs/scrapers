@@ -1,0 +1,27 @@
+{
+  "case": "22-E-0016",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "CECONY Reply to URAC Petitions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FBF7E2C-2B14-453C-AEB2-B6A072B51A15}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0016",
+      "file_name": "CECONY Reply to URAC Petitions_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Declaratory Ruling - Failure of Con Edison and OCS to respond to a billing dispute regarding case 144794 532 Neptune Ass",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E5027F5-FD9C-40B6-A01E-1E0DFBBDDA80}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "22-E-0016",
+      "file_name": "Petition for Declaratory Ruling - Failure of Con Edison and OCS to respond to a billing dispute regarding case 144794 532 Neptune Ass.pdf"
+    }
+  ]
+}

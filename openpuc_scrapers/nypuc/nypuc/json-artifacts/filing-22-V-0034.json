@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0034",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EB493E0-6BD1-4DB1-95FF-DE57E973823A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0034",
+      "file_name": "661_22-V-0034.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02190 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54B374E8-407F-4F15-971B-D33D909488BC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0034",
+      "file_name": "21-02190 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 259 East Broadway, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DAFFC34-5723-4924-97D3-26016570B048}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0034",
+      "file_name": "8-211014 Petition (259 E BROADWAY) (Post-Survey).pdf"
+    }
+  ]
+}

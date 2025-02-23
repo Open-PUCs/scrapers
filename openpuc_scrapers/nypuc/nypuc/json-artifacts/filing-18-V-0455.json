@@ -1,0 +1,170 @@
+{
+  "case": "18-V-0455",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E2A5151-4E70-4D53-A169-3848E06C1235}",
+      "organization": "Public Service Commission",
+      "itemNo": "13",
+      "docket_id": "18-V-0455",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Orders of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15C956A5-ED29-4732-A4AD-2A07E8E3B930}",
+      "organization": "Public Service Commission",
+      "itemNo": "12",
+      "docket_id": "18-V-0455",
+      "file_name": "665_18-V-0455.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter re Property No. 7062491-1 (205 E 69 ST, Manhattan)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1CF1B31-07D2-44D7-B3AF-C56A08577384}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "11",
+      "docket_id": "18-V-0455",
+      "file_name": "190220 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter re Property No. 9406434-1 (500 W 111 St, Manhattan)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4FFB49E-24AC-4AF6-B61C-73127DD57BB3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "10",
+      "docket_id": "18-V-0455",
+      "file_name": "180919 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/31/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter re Property No. 8072934-1 (140-30 Ash Av, Queens)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26332D7D-110A-4430-8DE9-E72F6E753DF0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "9",
+      "docket_id": "18-V-0455",
+      "file_name": "180531 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter re Property No. 9358217-1 (126 E 27 St, Manhattan)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7D9184E-8332-4F23-9856-EC790E666C37}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "8",
+      "docket_id": "18-V-0455",
+      "file_name": "180221 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter re Multiple Properties",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D4D5184-A1E2-41A9-A5AB-40D5572C906F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "18-V-0455",
+      "file_name": "180109 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/05/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter re Property No. 8216434-1 (2840 Valentine Av, Bronx)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={655166D6-64D0-4791-A438-8A085B4FA111}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "18-V-0455",
+      "file_name": "171005 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter re Multiple Properties",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E2E8A5A-136F-4942-944B-0D5F7DBE7E18}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "18-V-0455",
+      "file_name": "170907 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/11/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letters to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76DE02F5-19F4-4319-BD43-9BE817827BCF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-V-0455",
+      "file_name": "17-01365 Meregd Letters.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter re Property No. 7000870-1 (44-30 Douglaston Pkwy, Queens)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DC4BECB-4D59-4AB5-8EC2-4A0E0AAD5951}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0455",
+      "file_name": "170810 VZ Letter re 170628 Petition.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E50772B2-BD21-4FF8-8099-21E972183EAA}",
+      "organization": "ANIA Property Management, Inc",
+      "itemNo": "2",
+      "docket_id": "18-V-0455",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "06/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Orders of Entry for 30 Multiple-Dwelling Unit Buildings in the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEC0E246-324F-4E95-8EA7-E6455E5A38DD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0455",
+      "file_name": "170628 Petition.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "06/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={111497AF-DC3B-4D28-B9FA-AD4D90E47A85}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0455",
+      "file_name": "170628 Exhibit 2.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "06/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04E057BC-422F-4F67-B087-40F97D137B07}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0455",
+      "file_name": "170628 Exhibit 1.pdf"
+    }
+  ]
+}

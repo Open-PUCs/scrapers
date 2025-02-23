@@ -1,0 +1,82 @@
+{
+  "case": "15-G-0704",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Secretary Burgess",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B600C7EF-8D3A-486A-BEE7-B84F076BCECE}",
+      "organization": "Hewlett Associates",
+      "itemNo": "6",
+      "docket_id": "15-G-0704",
+      "file_name": "Letter to Secretary Burgess.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison\u00bfs compliance with Commission Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={225A8D4F-0B86-4CBF-93FD-EE9B964366EF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-G-0704",
+      "file_name": "Hewlett Associates 15-G-0704.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA3D3F9D-6032-4C47-A5A6-37BB28BD5C6C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0704",
+      "file_name": "166 Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AAB448E6-F03B-44F3-8CE6-88439370A669}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0704",
+      "file_name": "166 Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/09/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21873C91-E23A-468D-9895-6C28ACDEAE3C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-G-0704",
+      "file_name": "414894_AckLetter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/08/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B071EF2D-A1B4-4132-A907-8B7B11AED60E}",
+      "organization": "Hewlett Associates",
+      "itemNo": "2",
+      "docket_id": "15-G-0704",
+      "file_name": "414894 appeal_petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/08/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7E922B9-1C1E-41B5-BB99-E94519D90E33}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-G-0704",
+      "file_name": "414894_IR.pdf"
+    }
+  ]
+}

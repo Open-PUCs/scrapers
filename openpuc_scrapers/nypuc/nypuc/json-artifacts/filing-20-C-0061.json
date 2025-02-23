@@ -1,0 +1,82 @@
+{
+  "case": "20-C-0061",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Logan - NY Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DA3D061-32D4-4B95-A0F5-11B4E5E0203E}",
+      "organization": "GetGo Communications LLC, Grasshopper Group, LLC",
+      "itemNo": "6",
+      "docket_id": "20-C-0061",
+      "file_name": "Logan - NY Consummation Notice 10 27 2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/06/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-C-0061 Logan Parent OOL.Signed.50620",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C74FC450-98F9-4CF4-A9F0-84BA068A8355}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "20-C-0061",
+      "file_name": "20-C-0061 Logan Parent OOL.Signed.50620.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure - RAO",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCF984C0-C938-4050-AF3E-9B85A3DA1224}",
+      "organization": "GetGo Communications LLC, Grasshopper Group, LLC",
+      "itemNo": "4",
+      "docket_id": "20-C-0061",
+      "file_name": "Logan - NY RAO Transmittal CONFIDENTIAL Response to Staff 4 30 20.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure - Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={256FB246-0C19-4C32-9D35-F71DC2D21FE7}",
+      "organization": "GetGo Communications LLC, Grasshopper Group, LLC",
+      "itemNo": "2",
+      "docket_id": "20-C-0061",
+      "file_name": "Logan - NY Transmittal CONFIDENTIAL Response to Staff 4 30 20.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "PUBLIC Response to NY Staff Request 4 29 20",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={821DE7BE-4A4A-4FC1-84AF-F2C99D685467}",
+      "organization": "GetGo Communications LLC, Grasshopper Group, LLC",
+      "itemNo": "2",
+      "docket_id": "20-C-0061",
+      "file_name": "PUBLIC Response to NY Staff Request 4 29 20.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/05/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition for Approval of a Transfer of Control.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={037819B1-75D4-4B25-8E7A-3DD036F680C2}",
+      "organization": "GetGo Communications LLC, Grasshopper Group, LLC, LogMeIn, Inc., Logan Parent, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0061",
+      "file_name": "Logan - NY Application 2020.02.04.pdf (1 MB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/05/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F8E9F7B-459E-4965-98DA-EB8AB4BD210E}",
+      "organization": "GetGo Communications LLC, Grasshopper Group, LLC, LogMeIn, Inc., Logan Parent, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0061",
+      "file_name": "Logan ToC NY Application Cover Letter - 2 5 2020.pdf (129 KB)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0286",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A100AC24-384F-455D-A665-4566B523135E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0286",
+      "file_name": "362_22-E-0286 Letter.Redact final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/09/2022",
+      "nypuc_doctype": "Letters",
+      "name": "231743 Adams SMR Ack Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2C94637-9233-401D-80B1-9AE710A517F2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0286",
+      "file_name": "231743 Adams SMR Ack Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/09/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "SMR Request Adams",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFE8232E-E0A9-47CE-9145-77A1767E201D}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-E-0286",
+      "file_name": "SMR Request Adams.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/09/2022",
+      "nypuc_doctype": "Letters",
+      "name": "165076_Garcia_SMD_Final_04062022 (2)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C571DAC-D01E-490E-BADC-48DF12650DA2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0286",
+      "file_name": "165076_Garcia_SMD_Final_04062022 (2)_Redacted.pdf"
+    }
+  ]
+}

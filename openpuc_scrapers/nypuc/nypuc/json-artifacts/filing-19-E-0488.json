@@ -1,0 +1,27 @@
+{
+  "case": "19-E-0488",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Jack W. Hewitt Grating Staff Request and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F69E7EA-1715-4C05-9524-5CB73EFF95B0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0488",
+      "file_name": "19-E-0488 -Cottages at Troutsburg 10.25.2021 closing letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Cottages at Troutburg LLC for a Waiver of the Regulations and Rule P.S.C 220 - Electricity. Rule 16.6.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF4BB602-4D22-4A4F-ABF6-34D466DC9265}",
+      "organization": "The Cottages at Troutburg LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0488",
+      "file_name": "Request for a Waiver.pdf"
+    }
+  ]
+}

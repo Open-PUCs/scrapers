@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0434",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={016D70B2-CAB0-4B5E-B8B6-A173A4874A6E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0434",
+      "file_name": "663_20-V-0434 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Pembroke, Genesee County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05400F5-FABD-4145-ADCE-D5963B57807B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0434",
+      "file_name": "2020.08.31 T. PEMBROKE RENEWAL TO FILE - PSC.pdf"
+    }
+  ]
+}

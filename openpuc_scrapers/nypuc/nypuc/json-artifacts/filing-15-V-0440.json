@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0440",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DDD427D-0338-4C3A-8EEA-2633467105A0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0440",
+      "file_name": "662_15V0440.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Spencerport, Monroe County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={973E4D51-409E-4C89-896E-B2ED8BBF25D5}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0440",
+      "file_name": "SPENCERPORT, VLG-RENEWAL DOCS TO PSC, 07.28.15 (1).pdf"
+    }
+  ]
+}

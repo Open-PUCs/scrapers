@@ -1,0 +1,82 @@
+{
+  "case": "24-G-0344",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0091491-0000-C818-A448-4CAB8ABCBEA6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-G-0344",
+      "file_name": "161-B_24-G-03448224final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240730 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E04D0A91-0000-C115-91A5-2B8B583B2D05}",
+      "organization": "MSF Construction Corp d/b/a Mendola Waterproofing",
+      "itemNo": "2",
+      "docket_id": "24-G-0344",
+      "file_name": "20240730 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240710 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E04D0A91-0000-C814-B7A4-9D393310585B}",
+      "organization": "MSF Construction Corp d/b/a Mendola Waterproofing",
+      "itemNo": "2",
+      "docket_id": "24-G-0344",
+      "file_name": "20240710 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240326 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10539A8E-0000-CB1B-BCBD-6790A8A1948B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0344",
+      "file_name": "20240326 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240326 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10539A8E-0000-C57E-A1D6-274B58205D7D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0344",
+      "file_name": "20240326 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240326 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10539A8E-0000-CB58-97CD-3A9FA5948AF7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0344",
+      "file_name": "20240326 - Citation.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240311 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10539A8E-0000-C937-9B72-9BB99C61E9AD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0344",
+      "file_name": "20240311 - Origin of Investigation.pdf"
+    }
+  ]
+}

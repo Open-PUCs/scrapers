@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0299",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E7108F-0000-C811-B5BF-E35B379195A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-E-0299",
+      "file_name": "368_23-E-0299 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dismantling Fund Letter to JBPU Customers 121823",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06F338E-0000-CA1C-A118-79357950B83F}",
+      "organization": "Jamestown Board of Public Utilities",
+      "itemNo": "5",
+      "docket_id": "23-E-0299",
+      "file_name": "Dismantling Fund Letter to JBPU Customers 121823.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8021348E-0000-CA12-A8DC-C5D1516D7F5D}",
+      "organization": "Jamestown Board of Public Utilities",
+      "itemNo": "5",
+      "docket_id": "23-E-0299",
+      "file_name": "23-E-0299 Cover Letter 2024Mar12.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "2023 JBPU Dismantling Fund Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D4568D-0000-C014-AAB2-D62AD9AD6228}",
+      "organization": "Jamestown Board of Public Utilities",
+      "itemNo": "4",
+      "docket_id": "23-E-0299",
+      "file_name": "2023 JBPU Dismantling Fund Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "City of Jamestown",
+      "itemNo": "3",
+      "docket_id": "23-E-0299",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Reinstatement of Dismantling Fund",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9017128C-0000-C41A-ACCE-06A3B67C6E6A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0299",
+      "file_name": "384_23-E-0299.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/01/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of the Jamestown Board of Public Utilities for Approval to Reinstate a Dismantling Fund.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0967888-0000-C11E-8735-0C7A38469422}",
+      "organization": "City of Jamestown Board of Public Utilities",
+      "itemNo": "1",
+      "docket_id": "23-E-0299",
+      "file_name": "Petition of Jamestown BPU re Dismantling Fund.pdf"
+    }
+  ]
+}

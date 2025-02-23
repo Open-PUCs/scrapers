@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0053",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3AE5794-E302-4032-89DE-AA285045DBA5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0053",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Fully Executed Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95ABD9C3-45DB-4077-85BC-CC9BA5C6ABE0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0053",
+      "file_name": "01.22.18 T.CHAMPLAIN RENEWAL SUBMISSION TO PSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Champlain, Clinton County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7276FA9-B093-4918-BFA2-F5BE4AA76F9C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0053",
+      "file_name": "01.22.18 T.CHAMPLAIN RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

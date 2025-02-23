@@ -1,0 +1,93 @@
+{
+  "case": "19-M-0500",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "2020-01-24 NYSEG & RG&E Bill Message Confirmation (19-M-0500)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E913F55F-DC51-4745-B6F7-C6CD832AB8A6}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "8",
+      "docket_id": "19-M-0500",
+      "file_name": "2020-01-24 NYSEG & RG&E Bill Message Confirmation (19-M-0500).pdf (483 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEF6DDDF-D2A5-4100-BB9F-2CEA68372857}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-M-0500",
+      "file_name": "mlp_ext ltr_l.cole_19-M-0500_011720.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/14/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EAC9BB-23CD-4A80-9FE4-264E79279C1E}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "6",
+      "docket_id": "19-M-0500",
+      "file_name": "2020-01-14 NYSEG RG&E Request for Extension Bill Messages (19-M-0500).pdf (87 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={662B79AB-DA71-4DCB-BCA2-C7B67226B6A0}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-M-0500",
+      "file_name": "261\u00ad_19-M-0500.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "19-M-0500",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-M-0500",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "19-M-0500",
+      "file_name": ""
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "19-M-0500",
+      "file_name": ""
+    }
+  ]
+}

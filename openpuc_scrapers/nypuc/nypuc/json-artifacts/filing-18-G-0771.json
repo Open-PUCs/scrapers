@@ -1,0 +1,93 @@
+{
+  "case": "18-G-0771",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/26/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED7A7D35-4801-43CB-A9F5-DEDA5A81AB93}",
+      "organization": "SABIC Innovative Plastics",
+      "itemNo": "7",
+      "docket_id": "18-G-0771",
+      "file_name": "Affidavit Filing Letter 7-26-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/26/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Affidavit of Stephen B. Bayne",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BF80AD8-AE9A-4F56-80BC-FB7E060F3024}",
+      "organization": "SABIC Innovative Plastics",
+      "itemNo": "7",
+      "docket_id": "18-G-0771",
+      "file_name": "Affivavit of S. Bayne.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/15/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AF01E06-D472-4C05-A96E-40FBE5FBFFE6}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-G-0771",
+      "file_name": "18-G-0771-SABIC Innovative Plastics-Ext. Ruling7-15-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C68F08C1-DE12-48D3-8115-B53A06E8885A}",
+      "organization": "SABIC Innovative Plastics",
+      "itemNo": "5",
+      "docket_id": "18-G-0771",
+      "file_name": "Request for extension of time 7-12-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11ADBF75-5DFD-4533-AD54-26B54FC02BC8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0771",
+      "file_name": "163_18-G-0771 Notice of Determination.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9E7290A-908B-4ACB-AAAB-FE44CFD5C634}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0771",
+      "file_name": "163_18-G-0771 Order.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/14/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8235C842-7A6E-40EC-9650-C6111EC876AA}",
+      "organization": "SABIC Innovative Plastics, Selkirk Cogen Partners, L.P.",
+      "itemNo": "2",
+      "docket_id": "18-G-0771",
+      "file_name": "12_14_2018 Confidentiality Request Letter FINAL.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Selkirk Cogen Partners, L.P. and SABIC Innovative Plastics, LLC for a Declaratory Ruling Concerning the Transfer of Ownership of a Gas Pipeline, or, in the Alternative Approval Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0033EFD6-B029-499D-B24D-CC895C6064DB}",
+      "organization": "SABIC Innovative Plastics, Selkirk Cogen Partners, L.P.",
+      "itemNo": "1",
+      "docket_id": "18-G-0771",
+      "file_name": "Burgess 12-14-18 as filed (1).pdf"
+    }
+  ]
+}

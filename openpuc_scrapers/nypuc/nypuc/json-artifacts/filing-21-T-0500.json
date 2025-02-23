@@ -1,0 +1,49 @@
+{
+  "case": "21-T-0500",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding LaFarge to Pleasant Valley #8 Asset Relocation Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC8AF527-5058-429B-ABE2-4FE802B42E43}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-T-0500",
+      "file_name": "21-T-0500 La Farge to PV #8 -Part 102- Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "LaFarge Pleasant Valley #8 115 kV Asset Relocation Project -- Part 102 Report (part 2 of 2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACEFDBC1-4348-4988-BAB6-78CA6A9A4251}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-T-0500",
+      "file_name": "National Grid -- LaFarge Pleasant Valley #8 115 kV Asset Relocation Project -- Part 102 Report (part 2 of 2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "LaFarge Pleasant Valley #8 115 kV Asset Relocation Project -- Part 102 Report (part 1 of 2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36282350-A85A-4874-A86B-355D2D8CC183}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-T-0500",
+      "file_name": "National Grid -- LaFarge Pleasant Valley #8 115 kV Asset Relocation Project -- Part 102 Report (part 1 of 2).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C46B3506-E014-4E28-8181-1BEB12AC8739}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-T-0500",
+      "file_name": "K Corpus Filing Letter -- LaFarge Pleasant Valley #8 Asset Relocation Project -- Part 102 Report.pdf"
+    }
+  ]
+}

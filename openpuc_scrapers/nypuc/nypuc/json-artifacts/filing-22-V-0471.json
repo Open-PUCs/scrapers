@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0471",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={536E5A4B-3ED7-495E-9059-51BC743707A5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0471",
+      "file_name": "663_22-V-0471.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F291D4D-D22B-46A3-8F04-DBEA0A4C2BF1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0471",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/08/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Ticonderoga Letter 08.03.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3FD38F4-84C6-466D-BB5B-2E770C9F8000}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0471",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Ticonderoga Letter 08.03.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Ticonderoga-Request for Renewal and Certificate of Confirmation (Redacted) 08.03.22,ak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={601063B2-7202-430F-949A-1A5440740564}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0471",
+      "file_name": "Charter Communications, T. Ticonderoga-Request for Renewal and Certificate of Confirmation (Redacted) 08.03.22,ak.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Ticonderoga-Cover Letter-Request for Renewal and Certificate of Confirmation 08.03.22,ak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01D7B464-DFAF-4FC8-920C-5CA313D1D043}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0471",
+      "file_name": "Charter Communications, T. Ticonderoga-Cover Letter-Request for Renewal and Certificate of Confirmation 08.03.22,ak.pdf"
+    }
+  ]
+}

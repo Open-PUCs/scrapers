@@ -1,0 +1,60 @@
+{
+  "case": "23-M-0383",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/15/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Cancellation of Statements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4077998A-0000-CB17-A485-7EA7A5233A55}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-M-0383",
+      "file_name": "266_23-M-0383 9.15 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "23-M-0383",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "23-M-0383",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "23-M-0383",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-M-0383",
+      "file_name": ""
+    }
+  ]
+}

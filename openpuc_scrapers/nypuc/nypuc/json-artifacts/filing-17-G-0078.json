@@ -1,0 +1,60 @@
+{
+  "case": "17-G-0078",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21D43F7E-92C2-4A44-8FFC-F56EF969F178}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0078",
+      "file_name": "161 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9F7AF6E-355A-42CF-B8D7-42C4BD3ECE15}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0078",
+      "file_name": "161 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A738C466-FCE0-470D-872E-0378D65A2A8C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-G-0078",
+      "file_name": "Fifty-First Beekman Ack Letter 549082.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={726797E5-EAC7-4879-93A0-D7D33ED4E929}",
+      "organization": "Fifty First Beekman Corp.",
+      "itemNo": "2",
+      "docket_id": "17-G-0078",
+      "file_name": "549082 Fifty First Beekman Appeal of Informal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={880D0E7F-7FDD-48F1-860E-DCFAD229BEAE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-G-0078",
+      "file_name": "IR Decision Fifty First Beekman Corp - URAC vs Con Ed 549082.pdf"
+    }
+  ]
+}

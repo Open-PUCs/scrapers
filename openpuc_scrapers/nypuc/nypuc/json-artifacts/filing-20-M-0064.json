@@ -1,0 +1,60 @@
+{
+  "case": "20-M-0064",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0E9826D-6879-4682-ACFF-53F6C087FE5E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-M-0064",
+      "file_name": "379_20-M-0064_Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={142A5407-ED5C-4F9C-AFA8-9782CB60972A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-M-0064",
+      "file_name": "Case 20-M-0064 Con Edison Response (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information - Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78EBD311-D013-4CEC-89ED-8B057610E0DB}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "2",
+      "docket_id": "20-M-0064",
+      "file_name": "20-M-0064 - Petition for Declaratory Ruling -Additonal Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utility Rate Analysis Consultants for a Declaratory Ruling Concerning Consolidated Edison Company of New York, Inc. Response to Consumer Complaints.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DCAC228-2E4B-4818-A6F6-65FF9CA635A0}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "20-M-0064",
+      "file_name": "2020-02-06 Failure of Con Ed to abide by 16 NYCRR 12.3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6239FB0F-0F31-4CD0-9E5D-5633E5A9DE7F}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "20-M-0064",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "19-C-0467",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Zayo-Front Range NY Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06A9017F-D82C-473D-92B6-B136C492A011}",
+      "organization": "Electric Lightwave, LLC, Zayo Group, LLC",
+      "itemNo": "3",
+      "docket_id": "19-C-0467",
+      "file_name": "Zayo-Front Range NY Consummation Notice.pdf (271 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2019",
+      "nypuc_doctype": "Letters",
+      "name": "19-01525.Front Range TopCo.Transfer Indirect Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01AAE5AD-30BA-4480-B4FF-C31F45AF1931}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-C-0467",
+      "file_name": "19-01525.Front Range TopCo.Transfer Indirect Control.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09FB0A44-46F3-4A66-AA03-240EFAAF3455}",
+      "organization": "Electric Lightwave, LLC, Front Range TopCo, Inc., Zayo Group, LLC",
+      "itemNo": "1",
+      "docket_id": "19-C-0467",
+      "file_name": "Zayo-Front Range - New York Transmittal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Front Range TopCo, Inc., Zayo Group, LLC and Electric Lightwave, LLC for Approval of a Transfer of Indirect Control and to Participate in Certain Financing Arrangements.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D1C5118-B2EF-4B5A-96BA-8BF549F45D33}",
+      "organization": "Electric Lightwave, LLC, Front Range TopCo, Inc., Zayo Group, LLC",
+      "itemNo": "1",
+      "docket_id": "19-C-0467",
+      "file_name": "Zayo-Front Range - New York Petition.pdf"
+    }
+  ]
+}

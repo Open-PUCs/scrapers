@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0451",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan (4)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F022C092-0000-C715-A742-F4D63304FCEC}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "23-E-0451",
+      "file_name": "in-service meter test plan (4).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0083148E-0000-C316-931D-703664EDEB0D}",
+      "organization": "346 Kent LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0451",
+      "file_name": "complaince letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4078CC8D-0000-C118-A4F2-C683F2171751}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0451",
+      "file_name": "362_23-E-0451_final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 346 Kent Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2027838C-0000-C316-AC35-24CD99B3F54B}",
+      "organization": "346 Kent LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0451",
+      "file_name": "additional information 12-19-23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 346 Kent LLC to Submeter Electricity at 346 Kent Avenue, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107DFF89-0000-C91E-80E1-C279632C1B72}",
+      "organization": "346 Kent LLC, Domino Development Partners LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0451",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

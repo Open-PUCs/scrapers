@@ -1,0 +1,82 @@
+{
+  "case": "22-G-0604",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0063328D-0000-CF14-A807-3A986AE6E65C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0604",
+      "file_name": "163_22-G-0604_Letter 1.22.24 revised final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0063328D-0000-C934-A2B8-35F4A3752F0A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0604",
+      "file_name": "163_22-G-0604_Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/02/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Con Edison Response to CCBA Westchester Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3957E6AC-E2A5-4EC3-9A94-F7DF14D82B7C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-G-0604",
+      "file_name": "22-G-0604 Con Edison Response to CCBA Westchester Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/18/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDC20806-0882-4518-9840-6596497C8DD5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-G-0604",
+      "file_name": "22-G-0604 - Req. for Extension.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E28EC9-216D-4A57-ACCF-4C917EA723F3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0604",
+      "file_name": "156953 Westchester HDFC ack letter .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35550F3D-8DB8-4436-A90E-5A3F63C40926}",
+      "organization": "CCBA Westchester HDFC",
+      "itemNo": "2",
+      "docket_id": "22-G-0604",
+      "file_name": "CCBA Westchester v Con Edison - Appeal of Informal (156953).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/27/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B290F209-CD71-4364-9299-D993EE9BFD8E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0604",
+      "file_name": "156953-_CCBA_Westchester_HDFC_vs._Con_Edison IHD.pdf"
+    }
+  ]
+}

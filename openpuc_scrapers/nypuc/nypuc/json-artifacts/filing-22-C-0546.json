@@ -1,0 +1,49 @@
+{
+  "case": "22-C-0546",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02D9F8D-0000-CC13-B3B5-89AC366AA702}",
+      "organization": "Zayo Group, LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0546",
+      "file_name": "Zayo Group - Electric Lightwave - New York Notice of Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-01948 Electric Lightwave OOL Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A505F22-FDC4-45D8-849E-86EC414FA4D1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0546",
+      "file_name": "22-01948 Electric Lightwave OOL Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C6FD49D-6253-4F8D-ACC4-BC916C244BCF}",
+      "organization": "Electric Lightwave, LLC d/b/a Allstream, Zayo Group, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0546",
+      "file_name": "NY Transmittal Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval of Pro Forma Consolidations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8643E63B-1782-49F4-B01C-D3DE9157E434}",
+      "organization": "Electric Lightwave, LLC d/b/a Allstream, Zayo Group, LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0546",
+      "file_name": "NY Petition.pdf"
+    }
+  ]
+}

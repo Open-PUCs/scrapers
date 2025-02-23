@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0338",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "In-service meter test plan for 424 Carroll Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60035090-0000-C01A-94FE-35F851E88A4B}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "7",
+      "docket_id": "23-E-0338",
+      "file_name": "in-service meter test plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1012F28E-0000-C911-A9EB-CFF808DB9F8A}",
+      "organization": "420 Carroll LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0338",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40F45C8E-0000-CC13-B432-01BFA3FD7960}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0338",
+      "file_name": "370_23-E-0338.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/05/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information requested for 424 Carroll Street, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C1008B-0000-CA16-AA8B-4033FAB91137}",
+      "organization": "420 Carroll LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0338",
+      "file_name": "additional information 10-5-23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Waiver of 16 NYCRR 96.5 (k)(3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60B9B28A-0000-C516-94DE-DA942D9C7B13}",
+      "organization": "420 Carroll LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0338",
+      "file_name": "waiver letter 9-19-23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Application Change from Petition to Notice of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07B4689-0000-C11A-8DA7-0B95B7F39AE8}",
+      "organization": "420 Carroll LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0338",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 420 Carroll LLC to Submeter Electricity at 424 Carroll Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30EFDE88-0000-CA10-93E3-FC4C758ABA9A}",
+      "organization": "420 Carroll LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0338",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

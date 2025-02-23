@@ -1,0 +1,115 @@
+{
+  "case": "22-M-0187",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94DA532E-1FA5-4FD9-AE8D-2CB80677D2AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-M-0187",
+      "file_name": "265_22-M-0187 21723 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Sirrius Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B6D88D2-6FA6-40D2-BAEA-C4CCE6CE0FFA}",
+      "organization": "Sirrius Energy LLC",
+      "itemNo": "4",
+      "docket_id": "22-M-0187",
+      "file_name": "Sirrius Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Sirrius - Trade Secret Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3DAF66B-CA2B-467D-81FB-8DD7D45A2F9A}",
+      "organization": "Sirrius Energy LLC",
+      "itemNo": "4",
+      "docket_id": "22-M-0187",
+      "file_name": "Sirrius - Trade Secret Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Sirrius - Submittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={915A91AB-E778-42D8-B7C8-96125D3E297F}",
+      "organization": "Sirrius Energy LLC",
+      "itemNo": "4",
+      "docket_id": "22-M-0187",
+      "file_name": "Sirrius - Submittal Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D4969EA-D922-4617-A691-8CB84988FE7F}",
+      "organization": "Sirrius Energy LLC",
+      "itemNo": "4",
+      "docket_id": "22-M-0187",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment B - Public Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DEA4287-A0C9-4B88-A145-1072691971F4}",
+      "organization": "Sirrius Energy LLC",
+      "itemNo": "4",
+      "docket_id": "22-M-0187",
+      "file_name": "Attachment B - Public Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment A - Public Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C807E28D-C602-46B1-B847-860049F5B3C9}",
+      "organization": "Sirrius Energy LLC",
+      "itemNo": "4",
+      "docket_id": "22-M-0187",
+      "file_name": "Attachment A - Public Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Imposing Consequences",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D1980C-8B73-4ED1-AED9-EE4426012366}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-M-0187",
+      "file_name": "265_22-M-0187 final.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Sirrius - Order to Show Cause Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4451F26-BD9E-4EBC-AB00-D6F3A2492B18}",
+      "organization": "Sirrius Energy LLC",
+      "itemNo": "2",
+      "docket_id": "22-M-0187",
+      "file_name": "Sirrius - Order to Show Cause Response 7.20.22.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={507E1B98-0E5F-47C1-B27A-0F448BA5E757}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "22-M-0187",
+      "file_name": "261_22-M-0178 final.pdf"
+    }
+  ]
+}

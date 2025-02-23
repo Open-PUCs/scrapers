@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0137",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54498EC5-31DF-4B21-9876-7E52F6A5DF5C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0137",
+      "file_name": "664_20-V-0137 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/13/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-00411 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A03C2431-640A-4E8C-B53A-B8A0BB93616F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0137",
+      "file_name": "20-00411 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Entry (MDU) - 410 Washington (Meekerman LLC)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={079224DD-5434-4077-B193-05370D273463}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0137",
+      "file_name": "Petition for Order of Entry (MDU) - 410 Washington (Meekerman LLC).pdf (1 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0FA7874-AA7B-4925-A089-1DAA59290CFA}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0137",
+      "file_name": "Cover Letter - Petition for Order of Entry (MDU) - 410 Washington (Meekerman LLC).PDF (24 KB)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "21-M-0523",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Extension of Development Periods Due to the Covid-19 Construction Moratorium",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0142A8B-0000-C01E-8FCD-A7CD73572244}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-M-0523",
+      "file_name": "266_23-M-0040_101323.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Case 21-M-0523 - National Grid Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={989FEC10-02A9-4944-9851-2BF247593B1D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-M-0523",
+      "file_name": "Case 21-M-0523 - National Grid Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for an Extension on Letter of Credit.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D6EB2A8-809D-4610-B22F-6EF8C3E5F37C}",
+      "organization": "Barbera Homes, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-M-0523",
+      "file_name": "Park Ridge Estates - PSC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "A. 16729362_16729410_Park Ridge Estates_LOC Expiration Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BA40A04-2FD4-41E5-A23D-09F9B6F9B7A1}",
+      "organization": "Barbera Homes, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-M-0523",
+      "file_name": "A. 16729362_16729410_Park Ridge Estates_LOC Expiration Notice.pdf"
+    }
+  ]
+}

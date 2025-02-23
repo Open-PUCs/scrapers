@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0374",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7055238A-0000-C917-B517-43ED0D5F5710}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0374",
+      "file_name": "662_23-V-0374 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00968 Letter to Building Owner - 501 W 122 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B34888-0000-C217-A6B3-D74E7B25DBB3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0374",
+      "file_name": "23-00968 Letter to Building Owner - 501 W 122 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 501 West 122nd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E039E287-0000-C819-AA89-494C73497BAF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0374",
+      "file_name": "230503-11 Petition (501 W 122 ST) (Post-Survey).pdf"
+    }
+  ]
+}

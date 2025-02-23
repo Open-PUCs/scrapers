@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0091",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Order Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F04BD992-0000-C510-986B-BCE4CEC4C9FD}",
+      "organization": "Regional Economic Community Action Program, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-E-0091",
+      "file_name": "RECAP Inc. - Order Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of Individual Metering Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00542A92-0000-CC17-A73D-A8A6E8541ECB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0091",
+      "file_name": "361_24-E-0091 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Regional Economic Community Action Program, Inc. for Waiver of the Individual Metering Requirements at 116 Carson Avenue, Newburgh, Located in the Territory of Central Hudson Gas & Electric Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30BC7F8D-0000-C81B-A895-1C74561FD45F}",
+      "organization": "Regional Economic Community Action Program, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0091",
+      "file_name": "Individual Metering Waiver Petition - Fresh Start Apartments (2.6.24).pdf"
+    }
+  ]
+}

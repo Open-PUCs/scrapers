@@ -1,0 +1,27 @@
+{
+  "case": "15-E-0450",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/05/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Joint Utility Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E89EFD6-CCD7-454F-93EF-651A27B3DA53}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "15-E-0450",
+      "file_name": "Joint Utility Comments.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Sustainable Westchester, Inc. and Bedford 2020, Inc. Regarding the Implementation of a Community Solar Demonstration Project Within the County of Westchester.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={338DA747-9E22-46A7-BA14-B84D86FA17F6}",
+      "organization": "Sustainable Westchester, Inc., Sustainable Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0450",
+      "file_name": "community_solar_proposal_final.pdf"
+    }
+  ]
+}

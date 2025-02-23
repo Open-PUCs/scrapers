@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0414",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Joint Proposal and Establishing Electric and Gas Rate Plans",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FFBDDE9-4954-4596-9A0F-A5740419DB94}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0414",
+      "file_name": "201_18-E-0067 et al Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Attachment B - Tariff Schedules to Order Adopting Terms of Joint Proposal and Establishing Electric and Gas Rate Plans",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C69217BD-59E6-4111-A9BA-541E4D906AA2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0414",
+      "file_name": "Attachment B - Tariff Schedules to Order Adopting Terms of Joint Proposal and Establishing Electric and Gas Rate Plans .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Attachment A - Joint Proposal to Order Adopting Terms of Joint Proposal and Establishing Electric and Gas Rate Plans",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={912216A8-0778-4E5C-A6BD-709026B69C41}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0414",
+      "file_name": "201_18-E-0067 Attachment - Joint Proposal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/23/2019",
+      "nypuc_doctype": "Transcripts",
+      "name": "Evidentiary Hearing Transcript - Tuesday, December 18, 2018 - Albany",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9714EF8D-FF43-48C7-8C58-AD7A943FEE5A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0414",
+      "file_name": "Evidentiary Hearing Transcript - Tuesday, December 18, 2018 - Albany.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Orange and Rockland Utilities, Inc. for Authorization to Defer Incremental Pre-Staging and Mobilization Costs Associated with Winter Storm Toby.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA630E87-877D-4AEA-A1CE-12EFA6D22454}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0414",
+      "file_name": "Toby Deferral Petition Package.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0265",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01861179-1BFE-46CB-8534-F36E642D7B5A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0265",
+      "file_name": "372_16-E-0265.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/06/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 135 West 52nd Street Condominium to Submeter Electricity at 135 West 52nd Street, New York City.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE1397A3-2129-48D0-BBEC-D6866A0A78A1}",
+      "organization": "135 West 52nd Street",
+      "itemNo": "1",
+      "docket_id": "16-E-0265",
+      "file_name": "submetering application 5-5-16.pdf"
+    }
+  ]
+}

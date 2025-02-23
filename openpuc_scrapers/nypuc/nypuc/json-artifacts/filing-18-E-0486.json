@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0486",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0486-4 HiRise Additional Corr. 08082018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C073959-0730-481B-8F54-FED62EFD2EF1}",
+      "organization": "HiRise Properties Ely Ave LLC",
+      "itemNo": "6",
+      "docket_id": "18-E-0486",
+      "file_name": "18-E-0486-4 HiRise Additional Corr. 08082018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0486-2 HiRise Ack Letter 07302018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5F61848-7BC2-4DD3-AFBC-6185003E8922}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "18-E-0486",
+      "file_name": "18-E-0486-2 HiRise Ack Letter 07302018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0486-3 HiRise Rehearing Request 07302018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE4219B7-E94D-43C7-8936-5E3D647EC2EA}",
+      "organization": "HiRise Properties Ely Ave LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0486",
+      "file_name": "18-E-0486-3 HiRise Rehearing Request 07302018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0486-1 HiRise SMD Final 07112018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF95AC3F-D291-4B47-9957-7F1741B80CCD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0486",
+      "file_name": "18-E-0486-1 HiRise SMD Final 07112018.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess for Review of Rehearing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8FB410C-764F-4B5A-ACBD-C3D323C2899D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0486",
+      "file_name": "363 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A83CADAA-8880-4D73-AB8D-9B16671DFD63}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0486",
+      "file_name": "363 Determination.pdf"
+    }
+  ]
+}

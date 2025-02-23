@@ -1,0 +1,38 @@
+{
+  "case": "16-W-0605",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-W-0605",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Temporary Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4FEB208-5B0E-453D-98BF-3AEEFD5AA512}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-W-0605",
+      "file_name": "464_16-W-0605.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval of Water Supply Agreement by and Between New York American Water Company, Inc. and the Glen Cove Water District under PSL 89-c of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BF82A8F-0A2C-4A61-B0EB-EA4A247C8D7C}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0605",
+      "file_name": "NYAW Petition for Approval of Water Sales Agreement.pdf"
+    }
+  ]
+}

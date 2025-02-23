@@ -1,0 +1,38 @@
+{
+  "case": "16-G-0685",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement of Appeal of the Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61389167-BF01-4A02-B33D-51B1D8336D10}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0685",
+      "file_name": "426315 Ack Letter FINAL (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A431274F-85C7-4F86-9694-289E80C01B32}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0685",
+      "file_name": "Hudson Nat'l Appeal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/01/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7673AAF-E04A-4B9E-AAC8-86819B041961}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0685",
+      "file_name": "Hudson National Gold Club vs Con Ed 426315.pdf"
+    }
+  ]
+}

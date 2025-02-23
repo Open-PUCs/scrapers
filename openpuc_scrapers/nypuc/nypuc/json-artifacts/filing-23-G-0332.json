@@ -1,0 +1,38 @@
+{
+  "case": "23-G-0332",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20231212 - Payment - $2,500_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={401C378D-0000-CF18-BC91-F12825AC3DCF}",
+      "organization": "Steven Dubner Landscaping, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-G-0332",
+      "file_name": "20231212 - Payment - $2,500_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241212 - Payment - Return Payment - Steve Dubner Landscaping Inc. Record #8689 Case #23-G-0332 Matter #22-01850_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A015138D-0000-C616-8EF6-6C0E2CEF2BF4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-G-0332",
+      "file_name": "20241212 - Payment - Return Payment - Steve Dubner Landscaping Inc. Record #8689 Case #23-G-0332 Matter #22-01850_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/02/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06BB789-0000-C714-953B-DAB75C66C7B1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0332",
+      "file_name": "161-A_23-G-0332.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0401",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/31/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Notification Letter Regarding Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E208E9A8-F214-440B-950F-3068E90308B8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-G-0401",
+      "file_name": "Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter regarding 387 Coney Island Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DC88793-BDE2-45C4-AA8D-92FB859E5109}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-G-0401",
+      "file_name": "Hon9.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7C51A1F-5C22-4FEF-B6F5-5E7EC8F988DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0401",
+      "file_name": "163_17g0401.pdf"
+    }
+  ]
+}

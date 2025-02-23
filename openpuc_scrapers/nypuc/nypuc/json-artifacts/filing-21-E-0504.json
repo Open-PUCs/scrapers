@@ -1,0 +1,115 @@
+{
+  "case": "21-E-0504",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Con Edison's Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={402CBE8A-0000-C55F-8C80-640B7A0EEA39}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "7",
+      "docket_id": "21-E-0504",
+      "file_name": "21-E-0432 et al - Response to Con Edison's filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={402CBE8A-0000-C93A-8A32-C38AD8B7E66B}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "7",
+      "docket_id": "21-E-0504",
+      "file_name": "21-E-0432 et al - Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B6AE8A-0000-CFCB-B946-82B4C83FAD56}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-E-0504",
+      "file_name": "2023-09-19 CECONY Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "2023-09-19 CECONY Petition for Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B6AE8A-0000-C4E1-B02C-8D283E1E9420}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-E-0504",
+      "file_name": "2023-09-19 CECONY Petition for Clarification.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0191E8A-0000-C856-8389-A0E8A1FE6935}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0504",
+      "file_name": "265_21-E-0432 et. al_Letter 8.22.23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0191E8A-0000-C43D-961E-147A2BD4DC8B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0504",
+      "file_name": "265_21-E-0432 et. al_Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03B9B33D-8A31-4059-8DC3-1F947EE6DB94}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0504",
+      "file_name": "21-E-0504 Con Edison Response to Appeal .pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10AD583D-8806-466E-915B-73B9F635D5F7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0504",
+      "file_name": "153093 688 Beck Street Ack.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56E08FBE-B508-48AB-98BD-8D747A3C5EC2}",
+      "organization": "866 Beck Street HDFC/Wavecrest Management",
+      "itemNo": "2",
+      "docket_id": "21-E-0504",
+      "file_name": "Appeal 153093.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A0E0A2-CE41-4B94-A7DC-9695E52379DA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0504",
+      "file_name": "IR 153093.pdf"
+    }
+  ]
+}

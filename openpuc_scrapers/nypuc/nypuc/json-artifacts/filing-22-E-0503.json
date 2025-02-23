@@ -1,0 +1,93 @@
+{
+  "case": "22-E-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information for 57 Marcus Garvey Boulevard, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={805A958A-0000-CE11-BAAC-03921C6EBEDA}",
+      "organization": "Sumner Senior Partners LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0503",
+      "file_name": "additional information 9-14-23 (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan for 57 Marcus Garvey Blvd., Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9019958A-0000-C31E-8F73-8EF010D0048C}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "22-E-0503",
+      "file_name": "in-service meter test plan Case # 22-E-0503.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00433588-0000-CB13-9ED3-BE6696EEA143}",
+      "organization": "Sumner Senior Partners LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0503",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60ADB487-0000-CC1F-AC6D-51B17F428162}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0503",
+      "file_name": "376_22-E-0503 final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/27/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B42487-0000-CC19-A615-07F1B23E0F29}",
+      "organization": "Sumner Senior Partners LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0503",
+      "file_name": "additional information 3-27-23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5095BDB-976D-4F29-ACDB-EAB2C326221C}",
+      "organization": "Sumner Senior Partners LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0503",
+      "file_name": "Letter 10-20-22.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA29D502-052A-4614-A38D-FE9670C0C462}",
+      "organization": "Sumner Senior Partners LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0503",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Sumner Senior Partners LLC to Submeter Electricity at 57 Marcus Garvey Boulevard, Brooklyn, NY, Located in the Territory of Consolidated Edison Company of New York..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8209FFAC-2D4B-4C6E-9E94-43F3412F89F9}",
+      "organization": "Sumner Senior Partners LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0503",
+      "file_name": "Submetering Application (4).pdf"
+    }
+  ]
+}

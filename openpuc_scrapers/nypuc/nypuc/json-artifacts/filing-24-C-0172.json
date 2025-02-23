@@ -1,0 +1,49 @@
+{
+  "case": "24-C-0172",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as an Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20DF5090-0000-C918-BDEB-1E9BADCB01DD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-C-0172",
+      "file_name": "561_24-C-0172_62524 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06D628E-0000-CE35-BCF9-E20662A36475}",
+      "organization": "Prepaid Wireless Group, LLC",
+      "itemNo": "2",
+      "docket_id": "24-C-0172",
+      "file_name": "NY Cover Letter to RAO Request for Confid Treatment of Facilities Description 3.21.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Prepaid Wireless Group, LLC Petition for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={206A628E-0000-CA17-A25B-92BC5064BEA1}",
+      "organization": "Prepaid Wireless Group, LLC",
+      "itemNo": "1",
+      "docket_id": "24-C-0172",
+      "file_name": "NY PWG ETC Designation Petition (Redacted) Efiling 3.21.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NY ETC Petition Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={306A628E-0000-C422-B689-0DA677D83F5D}",
+      "organization": "Prepaid Wireless Group, LLC",
+      "itemNo": "1",
+      "docket_id": "24-C-0172",
+      "file_name": "NY ETC Petition Cover Letter 3.21.24 (1).pdf"
+    }
+  ]
+}

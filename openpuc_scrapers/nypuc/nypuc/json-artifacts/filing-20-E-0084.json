@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0084",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0084 Rosas Ack Letter 02142020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CBEDF3F-84BC-4A9C-BBDE-ECDB73DC8291}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0084",
+      "file_name": "20-E-0084 Rosas Ack Letter 02142020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0084 Rosas Rehearing Request 02112020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B83432FB-3D01-461C-B4B3-08980BB13953}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0084",
+      "file_name": "20-E-0084 Rosas Rehearing Request 02112020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0084 Rosas SMD Final 01102020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39C6DFED-23A1-4C6B-A51C-8DBC2BAFD8F6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0084",
+      "file_name": "20-E-0084 Rosas SMD Final 01102020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AFCBFFC-4D2A-4940-A501-3F71131155C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0084",
+      "file_name": "379_20-E-0084 Letter final_Redacted.pdf"
+    }
+  ]
+}

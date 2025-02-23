@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0427",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8998E5F3-E51D-4429-BFF1-1F5ECEF4D6B2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0427",
+      "file_name": "661_21-V-0427.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DE9BAD7-751C-4738-AE0A-D679D7870DC8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "21-V-0427",
+      "file_name": "Skaneateles Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Skaneateles, New York Onondaga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7E9DAF4-ED3E-46F6-ADFA-036E21911662}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0427",
+      "file_name": "Skaneateles Renewal Petition (Complete).pdf"
+    }
+  ]
+}

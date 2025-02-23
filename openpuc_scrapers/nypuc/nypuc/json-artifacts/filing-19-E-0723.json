@@ -1,0 +1,104 @@
+{
+  "case": "19-E-0723",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/30/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "19-E-0723",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55EDC3A8-4CEA-4C15-B6EC-00AEF409B920}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0723",
+      "file_name": "370_19-E-0723.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/25/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "19-E-0723",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Comments",
+      "name": "City of New York Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DAF0954-CA8E-48C5-92AF-8340F717BC2A}",
+      "organization": "City of New York",
+      "itemNo": "5",
+      "docket_id": "19-E-0723",
+      "file_name": "City of New York Comments on PASNY CDG Tariff Amendments.v4.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/07/2020",
+      "nypuc_doctype": "Comments",
+      "name": "NYPA Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F46A5ED0-CF89-48AD-A9B5-0ECCDE64F57B}",
+      "organization": "New York Power Authority",
+      "itemNo": "4",
+      "docket_id": "19-E-0723",
+      "file_name": "20200207 - NYPA Comments in Support, Case 19-E-0723.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/07/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38A238E0-C76F-48CE-B006-12D22C73B650}",
+      "organization": "New York Power Authority",
+      "itemNo": "4",
+      "docket_id": "19-E-0723",
+      "file_name": "20200207 - NYPA Cover Letter, Case 19-E-0723.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/27/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-E-0723",
+      "file_name": ""
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/14/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication for Con Edison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6085775-1D75-4C9D-93FA-798A95FAD2A5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0723",
+      "file_name": "New York Post Affidavit and proof of publication 20100114.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/12/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0723",
+      "file_name": ""
+    }
+  ]
+}

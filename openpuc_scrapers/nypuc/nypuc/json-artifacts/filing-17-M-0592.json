@@ -1,0 +1,82 @@
+{
+  "case": "17-M-0592",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Postponing Evidentiary Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4056B2FC-A81F-48CC-B169-F615D02A1A4E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-M-0592",
+      "file_name": "17-M-0592_Notice Postponing Evidentiary Hearing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/30/2018",
+      "nypuc_doctype": "Joint Proposals and Stipulations",
+      "name": "NYC Tax Refund JP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EE40D1E-D294-40C1-BA78-4626F9B91387}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-M-0592",
+      "file_name": "NYC Tax Refund.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/30/2018",
+      "nypuc_doctype": "Joint Proposals and Stipulations",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00223FCE-2826-4510-8A84-0503F86076AB}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-M-0592",
+      "file_name": "Cover Letter - NYC Tax Refund JP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/18/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Notice of Settlement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E86C7CBF-EE3B-4764-8F2F-80DC95A6A096}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-M-0592",
+      "file_name": "Notice of Settlement (3).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/18/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E7D2DA6-A938-4FAD-BD0E-FC2B5E9182E9}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-M-0592",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/22/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. Regarding Disposition of Property Tax Benefits from the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={583F4801-A7AB-4C6A-B288-852A9B4EE07C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-M-0592",
+      "file_name": "Property Tax Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/22/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E958BBC8-1CBF-4CAB-AB32-01F035F776B8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-M-0592",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

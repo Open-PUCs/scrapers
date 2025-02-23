@@ -1,0 +1,82 @@
+{
+  "case": "22-E-0238",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/06/2023",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F00B2D89-0000-C819-97A2-6E9214194681}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "22-E-0238",
+      "file_name": "22-E-0238-2 Charlton Owners Corp.-Submetering Ext. Ruling 7.6.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/05/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60162789-0000-C017-96FE-F695BF59AA98}",
+      "organization": "2 Charlton Owners Corp",
+      "itemNo": "8",
+      "docket_id": "22-E-0238",
+      "file_name": "2CS - Electrical Room - Case 22-E-0238 - Meter Installation Certification Extension Request - 230705.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Order Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6CD57892-A776-4C2A-ABAA-5A2618F51AB4}",
+      "organization": "2 Charlton Owners Corp",
+      "itemNo": "7",
+      "docket_id": "22-E-0238",
+      "file_name": "CASE 22-E-0238 ORDER ACCEPTANCE LETTER. 1.10.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC256E5F-384A-44C1-95C4-C9E853D9CDAD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0238",
+      "file_name": "375_22-E-0238.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/02/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BE72593-3756-4115-B85F-4FD8F5765FFB}",
+      "organization": "2 Charlton Owners Corp",
+      "itemNo": "4",
+      "docket_id": "22-E-0238",
+      "file_name": "Additional Information Case Number 22-E-0238. 11.2.22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/29/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "COVER LETTER. PETITION TO SUBMETER PUBLICATION. 2 CHARLTON",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1FC23F0-97F0-4B6C-9026-0C70A42945A8}",
+      "organization": "2 Charlton Owners Corp",
+      "itemNo": "3",
+      "docket_id": "22-E-0238",
+      "file_name": "COVER LETTER. PETITION TO SUBMETER PUBLICATION. 2 CHARLTON.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 2 Charlton Owners Corp to Submeter 2 Charlton Owners Corp at 2 Charlton St, NY NY, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38AB0CFB-9B9A-4114-A918-EFDCA90C2AD9}",
+      "organization": "2 Charlton Owners Corp",
+      "itemNo": "1",
+      "docket_id": "22-E-0238",
+      "file_name": "Petition For Submetering Executive Summary. 2 CHARLTON ST. NY, NY.pdf"
+    }
+  ]
+}

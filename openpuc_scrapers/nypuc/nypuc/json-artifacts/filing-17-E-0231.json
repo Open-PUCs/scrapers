@@ -1,0 +1,93 @@
+{
+  "case": "17-E-0231",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/07/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={969ED61C-4F5E-4EF8-BD55-4477502ECA78}",
+      "organization": "Village of Akron",
+      "itemNo": "8",
+      "docket_id": "17-E-0231",
+      "file_name": "Affidavit of Public Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Akron",
+      "itemNo": "7",
+      "docket_id": "17-E-0231",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Akron",
+      "itemNo": "6",
+      "docket_id": "17-E-0231",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/23/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C137237-BEBA-4018-ABEA-3C584B1CAFBD}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0231",
+      "file_name": "378_17-E-0231 Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70BE0903-DE81-4449-B9E3-1797DC71B6A3}",
+      "organization": "Village of Akron",
+      "itemNo": "4",
+      "docket_id": "17-E-0231",
+      "file_name": "Notice of Publication.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41E9BE3E-9E48-4A16-BD86-9BFA9A060ECC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0231",
+      "file_name": "17-E-0231 Postponement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/19/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Akron",
+      "itemNo": "2",
+      "docket_id": "17-E-0231",
+      "file_name": ""
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Akron",
+      "itemNo": "1",
+      "docket_id": "17-E-0231",
+      "file_name": ""
+    }
+  ]
+}

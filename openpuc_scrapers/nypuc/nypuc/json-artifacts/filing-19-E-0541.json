@@ -1,0 +1,38 @@
+{
+  "case": "19-E-0541",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Daniel D. Turner, PE, LEED, Acknowledging Withdrawal and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24C360ED-0BFA-4281-86F9-2C7654E2BE39}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0541",
+      "file_name": "19-E-0541 closing letter 8.11.2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5417635D-1231-4B94-B38E-F5B041F28E74}",
+      "organization": "Living Opportunities of DePaul",
+      "itemNo": "2",
+      "docket_id": "19-E-0541",
+      "file_name": "20-08-03 PSC Waiver 19-E-0541.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Living Opportunities of DePaul for a Waiver of the Requirements of 16 NYCRR, to Permit the Company to allow Master Metering Electricity SWBR Project No. 17090.00.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E64DF2E-3B9C-4231-B36A-A60B337961E8}",
+      "organization": "Living Opportunities of DePaul",
+      "itemNo": "1",
+      "docket_id": "19-E-0541",
+      "file_name": "DP Cheek (R-8.5.2019-DT)Master Metering Request ejg edit 2 .pdf"
+    }
+  ]
+}

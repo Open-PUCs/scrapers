@@ -1,0 +1,71 @@
+{
+  "case": "18-G-0330",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Intra-Corporate Restructuring",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B536C355-5814-4C2A-8911-BB43D4AFB9CB}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-G-0330",
+      "file_name": "164_18-G-0330.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Response to Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E5BFB42-7968-49BB-87AB-F67D05E70F12}",
+      "organization": "DMP New York, Inc., The Williams Companies, Inc., Williams Field Services Company, LLC, Williams Partners L.P.",
+      "itemNo": "4",
+      "docket_id": "18-G-0330",
+      "file_name": "L-Burgess-Case 18-G-0330-6-25-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Scott Clarke and Jerry Henehan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13193B03-E2A6-46C8-BF58-2F0BB9B7DBC8}",
+      "organization": "Multiple Individuals",
+      "itemNo": "3",
+      "docket_id": "18-G-0330",
+      "file_name": "Comments of Scott Clarke and Jerry Henehan.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/20/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Town of Windsor",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B37CDA7-2A97-40A3-BDA8-F44E651BC031}",
+      "organization": "Town of Windsor",
+      "itemNo": "2",
+      "docket_id": "18-G-0330",
+      "file_name": "IMG_0001.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Williams Field Services Company, LLC, Williams Partners, L.P., DMP New York, Inc., and The Williams Companies, Inc., for a Declaratory Ruling Regarding Application of Section 70 of the New York Public Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9316C0CC-BC9C-4276-B79B-8F5B5E279C5D}",
+      "organization": "DMP New York, Inc., The Williams Companies, Inc., Williams Field Services Company, LLC, Williams Partners L.P.",
+      "itemNo": "1",
+      "docket_id": "18-G-0330",
+      "file_name": "Final WPZ Merger Petition 5-31-18.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD46E017-6A43-4A77-9998-73A7259823EC}",
+      "organization": "DMP New York, Inc., The Williams Companies, Inc., Williams Field Services Company, LLC, Williams Partners L.P.",
+      "itemNo": "1",
+      "docket_id": "18-G-0330",
+      "file_name": "L-Burgess 5-31-18.pdf"
+    }
+  ]
+}

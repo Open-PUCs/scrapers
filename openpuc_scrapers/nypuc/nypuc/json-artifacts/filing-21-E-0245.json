@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0245",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE3238E1-B449-454B-A472-FF05BB1DFE57}",
+      "organization": "EO 84 William II LLC",
+      "itemNo": "6",
+      "docket_id": "21-E-0245",
+      "file_name": "21-E-0245.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97B5BAA3-0017-4EC1-ABD4-A7E0440D3E2E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0245",
+      "file_name": "378_21-E-0245 Order_final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={885A2D45-A7EB-4252-A101-81F5F58E6B5C}",
+      "organization": "EO 84 William II LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0245",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/30/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B57EA34D-9B09-4830-98FF-915BDB60013E}",
+      "organization": "EO 84 William II LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0245",
+      "file_name": "additional information 6-29.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={092C5760-18C5-4FAA-8128-9B13AAEB6C9D}",
+      "organization": "EO 84 William II LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0245",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/21/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of EO 84 William II LLC to Submeter Electricity at 84 William Street, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB35D127-4A19-4879-B7DA-CC8C33F09ADD}",
+      "organization": "EO 84 William II LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0245",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

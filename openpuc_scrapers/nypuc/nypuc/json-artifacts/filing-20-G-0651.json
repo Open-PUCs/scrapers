@@ -1,0 +1,27 @@
+{
+  "case": "20-G-0651",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7873340-93B2-41C6-A592-BFEEA3351BCA}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-G-0651",
+      "file_name": "165-C_20-G-0651 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/28/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={699A8F5B-94DD-409E-A86E-683C2E879C00}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0651",
+      "file_name": "162-A_20-G-0651 final.pdf"
+    }
+  ]
+}

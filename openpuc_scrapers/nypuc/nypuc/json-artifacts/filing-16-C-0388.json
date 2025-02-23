@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0388",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice that the Transfer of Control has been Completed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31A10570-5B60-4C31-AC6E-6504A368722C}",
+      "organization": "Centric Group, LLC, Inmate Calling Solutions, LLC d/b/a ICSolutions, TKC Holdings, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-C-0388",
+      "file_name": "NY Completion Notice ICS 16-C-0388.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2016",
+      "nypuc_doctype": "Letters",
+      "name": "16-C-0388 approval of transfer of control ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81FBE5AA-FB8A-4CCA-92B6-D225D1E42823}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-C-0388",
+      "file_name": "16-C-0388 approval of transfer of control ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Inmate Calling Solutions, LLC dba ICSolutions, Centric Group, L.L.C. and TKC Holdings, Inc. for Approval of an Indirect Transfer of Control of Inmate Calling Solutions, LLC dba ICSolutions to TKC Holdings, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35BC7896-2A3F-412E-B842-11C8E0A0CA06}",
+      "organization": "Centric Group, LLC, Inmate Calling Solutions, LLC d/b/a ICSolutions, TKC Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-C-0388",
+      "file_name": "NY - Joint Petition Filing Package 06 28 16.pdf"
+    }
+  ]
+}

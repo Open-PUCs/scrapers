@@ -1,0 +1,93 @@
+{
+  "case": "16-E-0236",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/17/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7384DC6-AFE4-4A5C-9CE3-B428730E0C26}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "16-E-0236",
+      "file_name": "Cover-Letter_BQDM-Auction-Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2018",
+      "nypuc_doctype": "Reports",
+      "name": "BQDM DR Auction Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D6A5F8B-8E28-4DD5-8C2B-F63F47149DEE}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "16-E-0236",
+      "file_name": "BQDM DR Auction Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F1A7071-7FCD-4F23-8F5C-777E5E050220}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0236",
+      "file_name": "16-E-0236-Con Edison-BQDM -Extension Ruling-11-20-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={235B0FD3-5429-4304-9863-5232B0157D43}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-E-0236",
+      "file_name": "2018-11-16 BQDM DR Report Extension.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/15/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-E-0236",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/14/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={174D418C-3FAB-490C-918F-AFCE022912BC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0236",
+      "file_name": "376_16e0236.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BFFB717A-1CF4-4770-B2C8-BB8F5BFF10AF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0236",
+      "file_name": "Affidavit Letter Rider T in BQDM area 052016.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/21/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0236",
+      "file_name": ""
+    }
+  ]
+}

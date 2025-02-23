@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0411",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EA93E94-8D7F-453A-9E7F-1FE42E35E3A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0411",
+      "file_name": "661_17-V-0411.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Altona, Clinton County, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34182715-9BED-4241-B803-6BCA9458FDE5}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0411",
+      "file_name": "7 8 17 T Altona Charter PSC cable franchise submission.pdf"
+    }
+  ]
+}

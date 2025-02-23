@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0286",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FA48090-A6D6-4F5C-A42E-DBDB1785A74D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0286",
+      "file_name": "663_20-V-0286 Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of North Elba, Essex County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={595E7526-B174-4294-9487-E7B22A46674C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0286",
+      "file_name": "06.15.20 T. NORTH ELBA RENEWAL SUBMISSION TO PSC,ke.pdf (2 MB)"
+    }
+  ]
+}

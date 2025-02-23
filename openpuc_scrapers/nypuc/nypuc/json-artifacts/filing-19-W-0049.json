@@ -1,0 +1,82 @@
+{
+  "case": "19-W-0049",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "RIVAWA 99218-FCC-16 DXT Grant",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3588540B-D7B9-4CBC-B085-32B1A62D9564}",
+      "organization": "Town of Guilderland",
+      "itemNo": "1",
+      "docket_id": "19-W-0049",
+      "file_name": "RIVAWA 99218-FCC-16 DXT Grant-Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "RIVAWA 99218-FCC-16 DSS Grant",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F893F706-38BB-4A52-A8E4-BEEAFF78EE95}",
+      "organization": "Town of Guilderland",
+      "itemNo": "1",
+      "docket_id": "19-W-0049",
+      "file_name": "RIVAWA 99218-FCC-16 DSS Grant-Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "RIVAWA 99218-17-IC_Certificate",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFBA254D-9CE0-4651-BFB3-78E7B3975C61}",
+      "organization": "Town of Guilderland",
+      "itemNo": "1",
+      "docket_id": "19-W-0049",
+      "file_name": "RIVAWA 99218-17-IC_Certificate-Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Guilderland for Approval to Use and Install Itron OpenWay Riva Endpoint to Collect and Transmit Water Meter Data.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={862A2238-9B31-4B51-B52D-EAEC2F2016C9}",
+      "organization": "Town of Guilderland",
+      "itemNo": "1",
+      "docket_id": "19-W-0049",
+      "file_name": "Petition Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "PUB0063002",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A57E7B6-6B76-4D29-A0F8-E25B475CF6EB}",
+      "organization": "Town of Guilderland",
+      "itemNo": "1",
+      "docket_id": "19-W-0049",
+      "file_name": "PUB0063002.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "OWR NYPSC Water",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E87959FB-012D-4E6E-A21B-1E68B4BBFB16}",
+      "organization": "Town of Guilderland",
+      "itemNo": "1",
+      "docket_id": "19-W-0049",
+      "file_name": "OWR NYPSC Water.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "101474SP-04 OpenWay Riva 500W Water Module_Spec sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BF6448E-519C-4202-85D3-126315EE7240}",
+      "organization": "Town of Guilderland",
+      "itemNo": "1",
+      "docket_id": "19-W-0049",
+      "file_name": "101474SP-04 OpenWay Riva 500W Water Module_Spec sheet.pdf"
+    }
+  ]
+}

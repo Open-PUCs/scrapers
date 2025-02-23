@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0410",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CD22A0B-B21C-45DC-A551-BAE25095EC0C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0410",
+      "file_name": "663_22-V-0410 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00963 Letter to Building Owner 593 Riverside Dr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F39F7753-711E-43EF-9A29-A27E3B8B74B5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0410",
+      "file_name": "22-00963 Letter to Building Owner 593 Riverside Dr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 593 Riverside Drive, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A302D65A-067C-4FD0-AE71-20394481844E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0410",
+      "file_name": "220504-12 Petition (593 RIVERSIDE DR) (Post-Survey).pdf"
+    }
+  ]
+}

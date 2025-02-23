@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0459",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={125065AF-69CB-49BC-A78E-CC5464E51C69}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0459",
+      "file_name": "665_18-V-0459.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CA546C1-332B-4AF7-9766-80B2023B2FCF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0459",
+      "file_name": "17-01732 Merged Letters.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 425 East 79th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DF7B4B1-9C67-49F7-AD7D-8966221BA3FF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0459",
+      "file_name": "Petition (425 E 79 St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24265BB1-AF98-4D1C-B3BE-7EB47CE37426}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0459",
+      "file_name": "Exhibit 2 (425 E 79 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89C61345-23C2-4051-9BE5-D516B6CCA9A4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0459",
+      "file_name": "Exhibit 1 (425 E 79 St).pdf"
+    }
+  ]
+}

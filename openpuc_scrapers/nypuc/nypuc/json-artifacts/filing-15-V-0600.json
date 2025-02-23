@@ -1,0 +1,93 @@
+{
+  "case": "15-V-0600",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C97D7E4C-3B42-45EE-A71C-61820FABBE47}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-V-0600",
+      "file_name": "661_15v0600.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={655D42E3-7134-44F2-A872-F2E88D5AA039}",
+      "organization": "Haefele TV, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-V-0600",
+      "file_name": "Application Proof.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FCE9751-84DF-46E2-A2D0-0CB54EC0DB40}",
+      "organization": "Haefele TV, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-V-0600",
+      "file_name": "Filing Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Application Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A7CC2F3-7D3B-4CA4-ABE9-A96D286641D9}",
+      "organization": "Haefele TV, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-V-0600",
+      "file_name": "Application Proof of Publication.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E5CF8D5-607C-4042-B745-9D0A54AFDADD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-V-0600",
+      "file_name": "Signed EAF.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/13/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Franchise Term Amendment Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B9C2E48-F160-45BD-8646-443BE07A987B}",
+      "organization": "Haefele TV, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0600",
+      "file_name": "Franchise Term Amendment Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/13/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76D77734-69C5-4756-9D34-F2FD4EAD67D0}",
+      "organization": "Haefele TV, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0600",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/04/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Haefele TV, Inc. for a Certificate of Confirmation for its Franchise with the Village of Candor, Tioga County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99CF2712-F2A0-469F-9B86-9EF9F8DAB2D2}",
+      "organization": "Haefele TV, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0600",
+      "file_name": "{1950BE62-95BF-47F3-8277-940F3EF33B63}.pdf"
+    }
+  ]
+}

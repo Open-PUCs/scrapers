@@ -1,0 +1,38 @@
+{
+  "case": "21-C-0289",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips in Response to DFT's Petition for ETC Status",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B704DC0-3821-4BEC-88DA-03B04D178BC8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-C-0289",
+      "file_name": "21-C-0289 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "DFT LOCAL SERVICE -PETITION FOR ETC STATUS",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B38BB10-FC14-4053-8E85-68EDECC02220}",
+      "organization": "DFT Local Service Corporation, DFT Local Service Corporation",
+      "itemNo": "1",
+      "docket_id": "21-C-0289",
+      "file_name": "DFT LOCAL SERVICE -PETITION FOR ETC STATUS.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "DFT LOCAL SERVICE -PETITION FOR ETC COVER",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B72DA786-51ED-4816-9A86-7975B76E2ADB}",
+      "organization": "DFT Local Service Corporation, DFT Local Service Corporation",
+      "itemNo": "1",
+      "docket_id": "21-C-0289",
+      "file_name": "DFT LOCAL SERVICE -PETITION FOR ETC COVER.pdf"
+    }
+  ]
+}

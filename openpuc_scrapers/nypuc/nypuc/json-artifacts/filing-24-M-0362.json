@@ -1,0 +1,49 @@
+{
+  "case": "24-M-0362",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison's Response to Radparvar Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8012B890-0000-C914-8C6D-F841F744D00F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-M-0362",
+      "file_name": "24-M-0362 Con Edison's Response to Radparvar Appeal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/14/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgment Scheduling Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30AB1790-0000-CD35-9EEE-921868EC554E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-M-0362",
+      "file_name": "Acknowledgment Scheduling Letter - Radparvar v ConEd #317398_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A91790-0000-C235-AC0A-3291839FC139}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-M-0362",
+      "file_name": "APPEAL - Radparvar v ConEd -#317398_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Informal_Hearing_Decision_04.17.24_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A61790-0000-C93C-B837-7ED5072EDAEE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-M-0362",
+      "file_name": "DPS_Case_317398_(Radparvar_vs_Con_Edison)_Informal_hearing_decision_Redacted.pdf"
+    }
+  ]
+}

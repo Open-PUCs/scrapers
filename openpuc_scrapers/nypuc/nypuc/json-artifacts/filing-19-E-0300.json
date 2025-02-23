@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0300",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/27/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07467B2-1156-4E04-BB29-8D3F66228810}",
+      "organization": "VBG 990 AOA LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0300",
+      "file_name": "Certificate of Compliance_VBG 990 AOA LLC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D59EC58E-9686-49F4-8329-86128C678190}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0300",
+      "file_name": "362_19-E-0300.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28573225-88CE-493C-BBE2-861945D2A3A5}",
+      "organization": "VBG 990 AOA LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0300",
+      "file_name": "19-E-0300 Response to Request for Additional Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/19/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Second Notice to Residents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C02E8E-FCBA-4018-8648-DEC9F205FE56}",
+      "organization": "VBG 990 AOA LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0300",
+      "file_name": "Case 19-E-0300 Second Notice to Residents..pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={932851A7-02E1-42F7-88F3-188B6335DB92}",
+      "organization": "VBG 990 AOA LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0300",
+      "file_name": "Hollingsworth_Notice to Submeter_Corrected.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of VBG 990 AOA LLC to Submeter Electricity at 70 W 37th Street, New York, NY 10018, Located in the Territory of Consolidated Edison Company of New York, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42FF003E-43C9-4790-93E9-334586E65E54}",
+      "organization": "VBG 990 AOA LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0300",
+      "file_name": "Hollingsworth_Notice to Submeter.pdf"
+    }
+  ]
+}

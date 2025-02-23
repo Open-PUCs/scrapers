@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0500",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9E8C731-6188-4177-81E7-91A0E96C8B37}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0500",
+      "file_name": "166-C_17g0500 - 3.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Respone to Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FCDF4FB-3D22-4C4C-96E4-1AE57A0FA3AD}",
+      "organization": "MFS Masonry",
+      "itemNo": "2",
+      "docket_id": "17-G-0500",
+      "file_name": "Respone to Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/25/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A6DC08B-45DC-4394-B04C-3036CB695A9C}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0500",
+      "file_name": "164_17g0500.pdf"
+    }
+  ]
+}

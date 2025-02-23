@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0481",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A95AB9D3-5BB8-4E47-A855-CE3C9822BCF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0481",
+      "file_name": "664_18-V-0481.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0481 C. OF HUDSON PUBLIC NOTICE OF APPLICATION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={686E1987-6605-4A98-92B6-A8ED3B3B0CFE}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0481",
+      "file_name": "18-V-0481 C. OF HUDSON PUBLIC NOTICE OF APPLICATION.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the City of Hudson, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AF37331-AE68-4CEC-8154-50D83456770F}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0481",
+      "file_name": "CITY OF HUDSON FRANCHISE RENEWAL JULY 2018.pdf"
+    }
+  ]
+}

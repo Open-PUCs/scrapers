@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0646",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={227DD6C6-5104-41AE-83EB-C903D529A036}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0646",
+      "file_name": "662_22-V-0646.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AFADD3E-3AC0-463F-BFA5-6B95B3869D9F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0646",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Clarksville_11.14.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAE8A899-4E1D-450D-A3E0-15CD9610F133}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0646",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Clarksville_11.14.22 R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications T. Clarksville Request for Renewal-Certificate of Confirmation(Redacted) 11.14.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5BC94FF-64E9-4703-B0C7-F387161B2C27}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0646",
+      "file_name": "Charter Communications T. Clarksville Request for Renewal-Certificate of Confirmation(Redacted) 11.14.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications T. Clarksville Cover Letter Request - for Renewal Certificate of Confirmation 11.14.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29749F71-62FE-462A-B788-72A733921189}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0646",
+      "file_name": "Charter Communications T. Clarksville Cover Letter Request - for Renewal Certificate of Confirmation 11.14.22.pdf"
+    }
+  ]
+}

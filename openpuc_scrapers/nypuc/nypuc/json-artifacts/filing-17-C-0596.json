@@ -1,0 +1,60 @@
+{
+  "case": "17-C-0596",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/02/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={475A09DF-1FB6-42BE-9A38-E05370B29C2F}",
+      "organization": "Electric Lightwave, LLC",
+      "itemNo": "5",
+      "docket_id": "17-C-0596",
+      "file_name": "Consummation Letter - Case 17-C-0596.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition Approval Pursuant to Sections 99 and 100 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D946A74-74BF-442B-98F2-BF42A5E63C95}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-C-0596",
+      "file_name": "17-C-0596 Zayo Approval Letter - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E94F5A01-7150-44D5-A95D-90CB556F5284}",
+      "organization": "Zayo Group, LLC",
+      "itemNo": "3",
+      "docket_id": "17-C-0596",
+      "file_name": "NY 2nd Supplemental Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={930803DD-F2CD-41C5-ADFF-880235E2D23E}",
+      "organization": "Allstream Business US, Inc., Electric Lightwave Communications, Inc., Electric Lightwave Parent, Inc., Electric Lightwave, LLC, Zayo Group, LLC",
+      "itemNo": "2",
+      "docket_id": "17-C-0596",
+      "file_name": "NY Supplemental Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Zayo Group, LLC, Electric Lightwave, LLC, Licensee, Electric Lightwave Communications, Inc., Allstream Business US, Inc., and Electric Lightwave Parent, Inc. for Approval to Merge Electric Lightwave Communications, Inc. and Electric Lightwave Parent, Inc. with and into Zayo Group, LLC and to Convert Allstream Business US, Inc. to a Limited Liability Company.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC5E0D65-CE1A-4C24-A9CA-B460346912A2}",
+      "organization": "Allstream Business US, Inc., Electric Lightwave Communications, Inc., Electric Lightwave Parent, Inc., Electric Lightwave, LLC, Zayo Group, LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0596",
+      "file_name": "Entity Consolidation Filing.pdf"
+    }
+  ]
+}

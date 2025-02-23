@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0347",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Update - Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={800BB092-0000-C914-91D8-780E5F3DE12F}",
+      "organization": "27-34 Jackson LLC",
+      "itemNo": "4",
+      "docket_id": "24-E-0347",
+      "file_name": "Update (24-E-0347) (10.21.24).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60686792-0000-C910-86BC-756F9D45B0EC}",
+      "organization": "27-34 Jackson LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0347",
+      "file_name": "Update (24-E-0347) (10.3.24).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Updated Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3090E191-0000-C719-82DB-957FFC70A5D2}",
+      "organization": "27-34 Jackson LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0347",
+      "file_name": "Updated Submetering ID (24-E-0347).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent_43-14 Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C029E98F-0000-C312-B473-95593437E51C}",
+      "organization": "27-34 Jackson LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0347",
+      "file_name": "Notice of Intent_43-14 Queens (6.4.2024).pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0650",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F1B6CB3-934A-43F0-8451-F5A35CDF1B2A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0650",
+      "file_name": "662_22-V-0650 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4EB701B-D153-4A76-84A9-6FE6B9A838D7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0650",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Williamsvilled Letter R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D74E991-4315-4A2C-A851-2BF983B5EDCB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0650",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Williamsvilled Letter R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Williamsville Cover Letter Request - for Renewal, Certificate of Confirmation 11.16.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17B7716F-3BE5-4948-B27A-DDE817B71B41}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0650",
+      "file_name": "Charter Communications, V. Williamsville Cover Letter Request - for Renewal, Certificate of Confirmation 11.16.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Williamsville -Request for Renewal, Certificate of Confirmation (Redacted) 11.16.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9D9F161-694E-4E4A-B1BE-013E94D5FA3B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0650",
+      "file_name": "Charter Communications, V. Williamsville -Request for Renewal, Certificate of Confirmation (Redacted) 11.16.22.pdf"
+    }
+  ]
+}

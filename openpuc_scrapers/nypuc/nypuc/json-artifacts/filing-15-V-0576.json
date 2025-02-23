@@ -1,0 +1,93 @@
+{
+  "case": "15-V-0576",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5ED6AA63-369F-4128-B077-51B776D79E3B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-V-0576",
+      "file_name": "662_15V0576.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Plattekill Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47E44165-0C23-44E9-811E-D13E85DD95EA}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-V-0576",
+      "file_name": "Plattekill Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Plattekill Exhibit II - Revised",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32AD61E4-B12F-4F22-9F69-503D82AD6EB5}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0576",
+      "file_name": "Plattekill Exhibit II Revised.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Plattekill Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={882F0923-EE1C-4E1F-AE33-C67D844000AD}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0576",
+      "file_name": "Plattekill Application Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Plattekill Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46A0662C-B0B3-4393-B3DE-CA1C6374BA9E}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0576",
+      "file_name": "Plattekill Exhibit IV.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Plattekill Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AC32B3F-0F83-4B65-8C81-97B8BF165D1D}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0576",
+      "file_name": "Plattekill Exhibit III.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Plattekill Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C38503E-8122-4455-ACBD-F00013695382}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0576",
+      "file_name": "Plattekill Exhibit II.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Plattekill Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66942522-2055-4E8C-A3DA-930D14A91FF9}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0576",
+      "file_name": "Plattekill Exhibit I.pdf"
+    }
+  ]
+}

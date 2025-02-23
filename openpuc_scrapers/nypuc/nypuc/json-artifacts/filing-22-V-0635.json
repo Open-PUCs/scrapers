@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0635",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64E93693-BC9E-42E5-AF87-9D632530A5EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0635",
+      "file_name": "662_22-V-0635.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={117D447D-4694-4B21-852C-1685C8B2AE6F}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0635",
+      "file_name": "AUSA Newspaper Cover Letter - Islandia, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Islandia, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BDADE66-1DCC-4DC6-B071-6D0D9B16718F}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0635",
+      "file_name": "AUSA Newspaper Affidavit - Islandia, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0B8D88B-5CA0-46F3-9E38-2B46AC4C0AB5}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "22-V-0635",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Islandia, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0091910E-1277-4E19-A09A-6ACBEEAE9082}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "22-V-0635",
+      "file_name": "Exhibit IV - Islandia, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E280DF5C-4A55-4682-9670-480B1B144982}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "22-V-0635",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={152D6DD2-7318-4510-92FC-1B3FCF69B865}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "22-V-0635",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E0E98F-F945-46DD-AD91-7D923BF4F561}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "22-V-0635",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A079588-3B44-4AC1-9684-54C6A99C8004}",
+      "organization": "Samson Cablevision Corp.",
+      "itemNo": "1",
+      "docket_id": "22-V-0635",
+      "file_name": "Application Cover Letter - Islandia, V..pdf"
+    }
+  ]
+}

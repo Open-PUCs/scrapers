@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0496",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "requested information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60CC2B93-0000-C511-A1B4-20F0A1193166}",
+      "organization": "GW Ryer LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0496",
+      "file_name": "requested information.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application (21)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80A7C291-0000-C41E-A97D-B96F947E554F}",
+      "organization": "GW Ryer LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0496",
+      "file_name": "submetering application (21).pdf"
+    }
+  ]
+}

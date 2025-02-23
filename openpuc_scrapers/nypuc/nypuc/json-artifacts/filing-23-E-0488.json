@@ -1,0 +1,104 @@
+{
+  "case": "23-E-0488",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dupont Street Owner LLC - Updated Submeterer ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0279192-0000-C623-AAB9-88FBB8DBA016}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0488",
+      "file_name": "Dupont Street Owner LLC - Updated Submeterer ID Form.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dupont Street Owner LLC - Updated Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0279192-0000-C245-A1A7-FF32CA3B2D8F}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0488",
+      "file_name": "Dupont Street Owner LLC - Updated Lease Rider.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dupont Street Owner LLC - Updated HEFPA Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0279192-0000-C268-9F5E-38EB2E7BAA96}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0488",
+      "file_name": "Dupont Street Owner LLC - Updated HEFPA Plan.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dupont Street Owner LLC - Executed Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0279192-0000-C936-BE89-FD820E11C6E9}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0488",
+      "file_name": "Dupont Street Owner LLC - Executed Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0279192-0000-C911-97CF-21B782B0A7F5}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0488",
+      "file_name": "Dupont Street Owner LLC - Certificate of Compliance Updated Documents Cover Letter (10.15.24).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30EC7591-0000-C217-B45A-4B14EA784EC7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0488",
+      "file_name": "365_23-E-0488 .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/26/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Waiver Withdrawal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90FE468D-0000-C418-8FBA-C913A83B194F}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0488",
+      "file_name": "Cover Letter_Waiver Withdrawal.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/05/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Dupont Street Owner LLC - NOI Package",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05E658A-0000-CA1D-B5C4-1D2C56FD25F7}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0488",
+      "file_name": "Dupont Street Owner LLC - NOI Package_Final.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/05/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F05E658A-0000-C81B-8F68-08DCDF6323D1}",
+      "organization": "Dupont Street Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0488",
+      "file_name": "Cover Letter - 65 Dupont Street NOI to Submeter.pdf"
+    }
+  ]
+}

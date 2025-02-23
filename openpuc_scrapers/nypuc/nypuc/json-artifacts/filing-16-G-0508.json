@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0508",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B1EA345-576A-4654-B29C-F7CDF1C07E39}",
+      "organization": "Ardent Site Development Corp.",
+      "itemNo": "2",
+      "docket_id": "16-G-0508",
+      "file_name": "2016_11_29_11_07_50.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CE6B41E-3A26-4DB4-9A7F-B01CEDA05809}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0508",
+      "file_name": "165_16g0508.pdf"
+    }
+  ]
+}

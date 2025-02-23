@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0074",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={801AB987-0000-CE18-9054-5CA12842EE91}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0074",
+      "file_name": "662_23-V-0074.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59189AF7-7BD9-4E52-AC5E-807A014B8F36}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0074",
+      "file_name": "AUSA Newspaper Cover Letter - Lloyd Harbor, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Lloyd Harbor, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FC784A6-7F5C-4802-AAAA-680EC8BA4E5B}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0074",
+      "file_name": "AUSA Newspaper Affidavit - Lloyd Harbor, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB926760-797A-4BAD-A2E1-79C539B29D59}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0074",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Huntington Corporation for Approval of the Renewal of its Franchise with the Village of Lloyd Harbor, Suffolk County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C256F530-981B-4DDF-914D-E026E61DCC86}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0074",
+      "file_name": "Application Cover Letter - Lloyd Harbor, V..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Lloyd Harbor, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D018C3F9-B6C3-4091-88E2-D485369E1093}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0074",
+      "file_name": "Exhibit IV - Lloyd Harbor, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C0923BE-8633-43A5-8949-D3A8DDC90720}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0074",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E81FDD2-5E62-4612-A2DA-9F2E100B8275}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0074",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F090C839-5B65-4DC4-BDCD-DA82274F5756}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0074",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

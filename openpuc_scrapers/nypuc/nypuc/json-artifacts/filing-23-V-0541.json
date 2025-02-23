@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0541",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06D168C-0000-C618-948E-C70B5ECF5AA4}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-V-0541",
+      "file_name": "661_23-V-0541 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00972 Letter to Building Owner Offering Facilitation 170 Norfolk",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6018238A-0000-C71F-ACF9-7D3687A69754}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "23-V-0541",
+      "file_name": "23-00972 Letter to Building Owner Offering Facilitation 170 Norfolk.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06A198A-0000-C21F-B6F2-D5C3B64B58D3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "23-V-0541",
+      "file_name": "230821_23-00972_170 NORFOLK ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00972 Letter to Verizon New York Inc. - 170 Norfolk St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0356F89-0000-CE19-9931-0870CA09514C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0541",
+      "file_name": "23-00972 Letter to Verizon New York Inc. - 170 Norfolk St.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00972 Letter to Building Owner - 170 Norfolk St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B74888-0000-C115-879E-AA6296BB8260}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0541",
+      "file_name": "23-00972 Letter to Building Owner - 170 Norfolk St.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 170 Norfolk Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3041E287-0000-C81D-8CC8-2EB5D2B28A8D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0541",
+      "file_name": "230503-15 Petition (170 NORFOLK ST) (Post-CODA).pdf"
+    }
+  ]
+}

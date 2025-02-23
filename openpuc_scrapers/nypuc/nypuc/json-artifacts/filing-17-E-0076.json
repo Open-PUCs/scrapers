@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0076",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess granting a withdrawal of a petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14132198-204A-4AC8-B74B-D9073AF2AA5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0076",
+      "file_name": "17-E-0076 Letter from Sec Burgess regarding withdrawal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8F93C7D-7A12-4D67-8BB1-13A84A52C73A}",
+      "organization": "255 Huguenot Owner LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0076",
+      "file_name": "LTR to close case 17-E-0076.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 255 Huguenot Owner LLC to Submeter Electricity at 255 Huguenot St, New Rochelle, NY 10801, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76DF7259-1DA9-4D65-816A-F47941D656C8}",
+      "organization": "255 Huguenot Owner LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0076",
+      "file_name": "Petition of 255 Huguenot Owner LLC to Submeter Electricity at 255 Huguenot St, New Rochelle, NY 10801, Located in the Territory of Consolidated Edison Company..pdf"
+    }
+  ]
+}

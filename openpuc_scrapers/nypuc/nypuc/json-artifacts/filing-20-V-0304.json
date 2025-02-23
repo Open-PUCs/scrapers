@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0304",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "E. Nassau AFP Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={618EA268-BD04-41AE-A8A8-B30258A97258}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "4",
+      "docket_id": "20-V-0304",
+      "file_name": "01.06.20 E. Nassau AFP Affidavit, cover letter filed PSC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Adam M. Acquario, Mayor, Village of East Nassau, Regarding Alternative Franchising Procedure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0508067C-B558-444F-B207-EBB6E7EAE5B8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0304",
+      "file_name": "20-V-0304 AFP Spectrum V of East Nassau Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/01/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "E.Nassau-Notification to Surrounding Muni and Providers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45C272CF-50BC-4E8F-828E-7E2C662EAED6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "20-V-0304",
+      "file_name": "07.01.20 Case 20-V-0304 - E.Nassau-Notification to surrounding Muni and Providers.pdf (3 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for Waiver of Part 894 -V. East Nassau",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0B02BD3-E53F-4EA5-A3EB-5F2AFE624CD6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0304",
+      "file_name": "2020.06.17(2) Chtr to PSC - Request for Waiver of Part 894 -V. East Nassau.pdf (486 KB)"
+    }
+  ]
+}

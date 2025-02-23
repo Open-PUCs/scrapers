@@ -1,0 +1,115 @@
+{
+  "case": "19-F-0461",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Closure of the Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A83B2DDA-C049-436E-B4D7-E76342ABFDAE}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "7",
+      "docket_id": "19-F-0461",
+      "file_name": "19-F-0461 - EDF Solar - Notice of Closure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Transferring Application to 94-c and Closing A10 Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CF31411-A1D3-4F1D-91AD-E202FD1B045B}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "6",
+      "docket_id": "19-F-0461",
+      "file_name": "210504 Letter Transfering Application to 94-c and Closing A10 Proceeding_Rich Road.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/20/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Article 10 Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F219AE64-03AB-473B-BA6C-42F36148A391}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "19-F-0461",
+      "file_name": "19-F-0461-Rich Road Solar EWL-County Admin. Doyle.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/20/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Article 10 Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8691C443-8238-4C2C-930B-13AE192FBDDF}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "4",
+      "docket_id": "19-F-0461",
+      "file_name": "19-F-0461-Rich Road Solar EWL-Canton Supervisor Ashley.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Rich Road Solar PIP Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0FA2ABD-30A1-41AF-AC55-E986925D9347}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0461",
+      "file_name": "190816 Rich Road Solar PIP Plan_Final.pdf (3 MB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4008202D-509C-422D-A267-3450D7D4C767}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0461",
+      "file_name": "190816 Ltr to Secretary Burgess filing Applicant's Comment Response & Final PIP.pdf (433 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Applicant's Response to DPS Staff PIP Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08B1EAC2-715D-49CA-A214-F68D52F3B72C}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0461",
+      "file_name": "190816 Applicant's Response to DPS Staff PIP Comments.pdf (152 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/17/2019",
+      "nypuc_doctype": "Comments",
+      "name": "DPS Staff Comments on Rich Road Solar PIP Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4B02F3B-14B9-4DBD-BE54-DB9FAA596EEF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-F-0461",
+      "file_name": "Case 19-F-0461 - Rich Road Solar PIP Plan_DPS Staff Comments_7_17_19.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Rich Road Solar PIP Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D115AF70-9A7F-4E43-8706-84C1E14589CB}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-F-0461",
+      "file_name": "Rich Road Solar PIP Plan_Draft_June 2019.pdf (3 MB)"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FABCF74-963C-4CEB-AD1A-A0A58352183B}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-F-0461",
+      "file_name": "Cover Letter Filing Rich Road PIP.pdf (300 KB)"
+    }
+  ]
+}

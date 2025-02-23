@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0766",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/17/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding On-Site Generation Limits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E8FA1D0-720A-40FA-BFC2-6B79E2CEEC15}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0766",
+      "file_name": "301_18-E-0766.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to the Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B9D4FD7-EDE4-4A71-8818-A790CB06BF6E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-E-0766",
+      "file_name": "CE-JFK Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB528A72-21E6-490E-93FA-39447EB86FB2}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-E-0766",
+      "file_name": "Case 18-E-0766 - Petition for a Declaratory Ruling CL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York Power Authority and the Port Authority of New York & New Jersey for a Declaratory Ruling Concerning the 5 MW Aggregated Generation Capacity Limit Under the Consolidated Edison Company of New York Inc. Value Stack Tariff.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB626D74-459B-4C86-81CC-7F9C2C2DC36D}",
+      "organization": "New York Power Authority",
+      "itemNo": "1",
+      "docket_id": "18-E-0766",
+      "file_name": "20181214 - Request For Declaratory Order.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={397690CB-D917-44DC-B5B9-AF31A815483C}",
+      "organization": "New York Power Authority",
+      "itemNo": "1",
+      "docket_id": "18-E-0766",
+      "file_name": "20181214 - Cover Letter.pdf"
+    }
+  ]
+}

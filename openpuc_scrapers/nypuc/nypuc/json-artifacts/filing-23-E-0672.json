@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0672",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C001978F-0000-CA71-AFD3-86B2CB9A1A3B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0672",
+      "file_name": "368_23-E-0672.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "ORU_Letter of intent for Case 23_E_0672 (2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C3688C-0000-C615-80AE-BE848C5CBDF5}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0672",
+      "file_name": "ORU_Letter of intent for Case 23_E_0672 (2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Grid Solutions, LLC for Approval of 345kV Voltage Transformer.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B088B98B-0000-C776-94AD-581897085C6D}",
+      "organization": "Grid Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0672",
+      "file_name": "Voltage Transformer.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B088B98B-0000-CE52-8E40-EF56FFF69B7B}",
+      "organization": "Grid Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0672",
+      "file_name": "NY State voltage transformer approval.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "CERDA Test Report 11173-BY301-00B v1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B088B98B-0000-C339-A055-0D5DAFFC6EE9}",
+      "organization": "Grid Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0672",
+      "file_name": "11173-BY301-00B v1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "CERDA Test Report 11173-BY301-00A v1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B088B98B-0000-C51C-9D55-714626D61530}",
+      "organization": "Grid Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0672",
+      "file_name": "11173-BY301-00A v1.pdf"
+    }
+  ]
+}

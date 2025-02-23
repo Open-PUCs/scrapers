@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={025599D1-FBB0-430D-B4A3-367A87C9265E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0503",
+      "file_name": "366 20-E-0503 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={601E25EC-6BE0-425F-B935-FDFC00C3F189}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0503",
+      "file_name": "017279 Siedlecki_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5752A79-1757-4ADA-981B-41D77FEB1EBC}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-E-0503",
+      "file_name": "Appeal 017279_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/13/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6A5FAD6-45AC-4382-8E2B-8EFA22A7B821}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0503",
+      "file_name": "Case 017279 IH denial letter - BPP Charge_Redacted.pdf"
+    }
+  ]
+}

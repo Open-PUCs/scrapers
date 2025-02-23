@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0710",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10E1FD88-0000-C911-8FAF-62C369A5BAC4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0710",
+      "file_name": "363_22-E-0710 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Residents Regarding Petition to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2AE777F-26BB-4280-ADFD-1D61A27AE2A1}",
+      "organization": "Park Slope Homes, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0710",
+      "file_name": "NOTICE OF INTENT TO SUBMETER PUBLICATION. PARK SLOPE HOMES.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47F78C82-D686-49EF-A6B8-B427480ABFA9}",
+      "organization": "Park Slope Homes, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0710",
+      "file_name": "PARK SLOPE HOMES. COVER LETTER. NOTICE OF PUBLICATION.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Park Slope Homes, Inc. to Submeter Electricity at 521-531 41st Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F97C8BE-7E77-4273-929D-25A9B4EEE177}",
+      "organization": "Park Slope Homes, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0710",
+      "file_name": "12.19.22.Petition For Submetering Executive Summary. 521-531 41st St. Brooklyn NY 11232.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1127F4A2-8C8C-445B-AE15-43EF221521A9}",
+      "organization": "Park Slope Homes, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0710",
+      "file_name": "PARK SLOPE HOMES. COVER LETTER.pdf"
+    }
+  ]
+}

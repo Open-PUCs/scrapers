@@ -1,0 +1,60 @@
+{
+  "case": "15-E-0434",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/11/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Withdrawal of Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1443B26C-4D56-45A5-9589-BBB7D940C945}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0434",
+      "file_name": "15e0434 Letter Closing Proceeding.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/10/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition From Central Hudson Gas & Electric Corporation for Approval of its Community Solar Demonstration Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A54C3D4B-B637-48E2-B624-CA50893896D6}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "15-E-0434",
+      "file_name": "Request to Withdraw Petition for Community Solar 12-10-2015.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Comments",
+      "name": "IPPNY Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A68DCE9B-41D2-4165-A46B-34B4E8861F50}",
+      "organization": "Independent Power Producers of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0434",
+      "file_name": "IPPNY Comments.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0EA6126-3F87-4BAC-B87C-57CF50B75E4D}",
+      "organization": "Independent Power Producers of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0434",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Central Hudson Gas & Electric Corporation for Approval of Its Community Solar Demonstration Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EDCCF1A-4A29-4BB2-8FE5-9162D65F6FB9}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-E-0434",
+      "file_name": "{BCCDEA3A-A391-441E-B25E-131F2F98EADD}.pdf"
+    }
+  ]
+}

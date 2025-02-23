@@ -1,0 +1,49 @@
+{
+  "case": "19-G-0203",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-G-0203 Cambreleng Ack Letter 03282019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E2C8489-58E2-40DB-8A01-CD621E02764D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-G-0203",
+      "file_name": "19-G-0203 Cambreleng Ack Letter 03282019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-G-0203 Cambreleng Rehearing Request 03272019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8064BBCF-C728-41D7-AD1A-13557BD3A41B}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-G-0203",
+      "file_name": "19-G-0203 Cambreleng Rehearing Request 03272019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-G-0203 Cambreleng SMD Final 02282019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58747B06-9F1E-48F6-BC71-3B77ABFF0406}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-G-0203",
+      "file_name": "19-G-0203 Cambreleng SMD Final 02282019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8F52586-CB49-4CF8-8FC3-CD31557D5B31}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0203",
+      "file_name": "161 Letter_Redacted.pdf"
+    }
+  ]
+}

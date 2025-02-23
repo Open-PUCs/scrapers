@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0631",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2020",
+      "nypuc_doctype": "Compliance",
+      "name": "Comunilife Woodhull HDFC Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26B1C07F-66EF-4276-B60E-95F77B9656CC}",
+      "organization": "Comunilife Woodhull HDFC",
+      "itemNo": "5",
+      "docket_id": "18-E-0631",
+      "file_name": "Order Certification Comunilife Woodhull HDFC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of Individual Metering Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0A90D59-1EB1-4A23-981D-D2E31CB3EBBA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0631",
+      "file_name": "365_18-E-0631 Order .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Supplemental Filing and Request for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E10D073A-2643-4C5F-81DF-14A202D463F4}",
+      "organization": "Comunilife Woodhull HDFC",
+      "itemNo": "3",
+      "docket_id": "18-E-0631",
+      "file_name": "Case 18-E-0631 - Woodhull Supplemental Filing 7-31-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/28/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2BB30BA-463F-4054-A0B7-30FA4232B2AC}",
+      "organization": "Comunilife Woodhull HDFC",
+      "itemNo": "2",
+      "docket_id": "18-E-0631",
+      "file_name": "Case 18-E-0631 - Woodhull Supplemental Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/04/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comunilife Woodhull HDFC to Submeter Electricity at 179 Throop Avenue, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17622A2E-EABC-4A8E-A6F5-64CEF2146888}",
+      "organization": "Comunilife Woodhull HDFC",
+      "itemNo": "1",
+      "docket_id": "18-E-0631",
+      "file_name": "Submetering Notice of Intent - Woodhull Residence 10-4-18 AS FILED.pdf"
+    }
+  ]
+}

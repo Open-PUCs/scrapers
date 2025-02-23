@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0644",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240202 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90830A8E-0000-CE1A-BD50-F55248859CE3}",
+      "organization": "Crisafulli Trucking, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-G-0644",
+      "file_name": "20240202 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E9EE8C-0000-C010-9E01-4E5396E0F683}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0644",
+      "file_name": "161-A_23-G-0644.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0050",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0050 Nelson Ack Letter 01152021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14AB838B-1D72-4D3A-B753-93A280E9B9CC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-E-0050",
+      "file_name": "21-E-0050 Nelson Ack Letter 01152021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-E-0050 Nelson Rehearing Request 01122021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55260D5B-64CE-4060-9131-DC1162955918}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-E-0050",
+      "file_name": "21-E-0050 Nelson Rehearing Request 01122021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0050 Nelson SMD Final 12152020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DF0B49D-8FAE-40FC-93F7-34A9E3F485EB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-E-0050",
+      "file_name": "21-E-0050 Nelson SMD Final 12152020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E44FB9D-44FE-4AEC-A9C4-35B7BE2247F9}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0050",
+      "file_name": "368 Letter_Redacted.pdf"
+    }
+  ]
+}

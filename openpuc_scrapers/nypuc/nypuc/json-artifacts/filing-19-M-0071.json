@@ -1,0 +1,27 @@
+{
+  "case": "19-M-0071",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/09/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Making Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E12BD18-82AC-4558-A037-EC8E29DE179D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-M-0071",
+      "file_name": "263_19-M-0071.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Greenidge Pipeline LLC;Greenidge Pipeline Properties Corporation for Authority to Issue Corporate Debt",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD918D71-BA12-4DED-8A09-C67D2D1BF093}",
+      "organization": "Greenidge Generation LLC, Greenidge Pipeline LLC, Greenidge Pipeline Properties Corporation",
+      "itemNo": "1",
+      "docket_id": "19-M-0071",
+      "file_name": "Petition for Financing 2-4-19.pdf"
+    }
+  ]
+}

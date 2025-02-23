@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0295",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0190A91-0000-CE11-86CF-2989B29B5B74}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0295",
+      "file_name": "362_24-E-0295_73124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Acts Against 6 Distributed Energy Resource Providers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E0C690-0000-C312-A029-1F7D0E43A785}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0295",
+      "file_name": "pr24064.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Long Island Solar Solutions - Notice of Apparent Violation - 24-00865",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00661B8F-0000-CC19-8C49-7E7737C8C7AE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0295",
+      "file_name": "Long Island Solar Solutions - Notice of Apparent Violation - 24-00865.pdf"
+    }
+  ]
+}

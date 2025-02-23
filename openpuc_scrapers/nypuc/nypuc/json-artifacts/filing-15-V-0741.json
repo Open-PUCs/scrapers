@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0741",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF9C3124-5A23-4429-834A-BD7E362987D3}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-V-0741",
+      "file_name": "15-V-0741 Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCED89AC-9489-4185-A68A-576FD64103D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-V-0741",
+      "file_name": "665_15-V-0741 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EEC9474-937F-4943-AA30-D1AE8CCE50FF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "15-V-0741",
+      "file_name": "Signed EAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Transmittal Letter Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5D98904-C7DB-4B66-B5AA-F52AC9A2CEC9}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-V-0741",
+      "file_name": "Transmittal Letter Signed 11-04-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Full Environmental Assessment Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95FD8CA9-14D4-4C85-8A06-D96913FAC400}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-V-0741",
+      "file_name": "Town of Stamford Signed Full Environmental Assessment Form 10-25-16 OCR.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/23/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Legal Notice and Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEC8500A-9595-4009-8B99-E4AC3227EBB6}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0741",
+      "file_name": "Town of Stamford.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7275EF98-AAF0-4930-9209-AB305E704339}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0741",
+      "file_name": "Jason Miller.pdf"
+    }
+  ]
+}

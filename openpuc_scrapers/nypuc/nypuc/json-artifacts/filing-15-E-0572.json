@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0572",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/15/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "6",
+      "docket_id": "15-E-0572",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/19/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8092791-8AAD-4504-A837-C3E61C3DE325}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0572",
+      "file_name": "15e0572 Extension Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2016",
+      "nypuc_doctype": "Motions",
+      "name": "O&R submits request for extension.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFE386BD-C7B5-4D6E-A069-3CA12773EEFF}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-E-0572",
+      "file_name": "Case 15-E-0572 - Request for Extension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/27/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Modified Relief and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EE17181-BEBD-4B6F-A0AC-56A05BC36388}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-E-0572",
+      "file_name": "375_15e0572.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/07/2015",
+      "nypuc_doctype": "Comments",
+      "name": "JU Comments on Net Metering Anniversary Month (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCB8D77F-725B-4E54-A015-C156B4AFABFA}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "15-E-0572",
+      "file_name": "JU Comments on Net Metering Anniversary Month (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/22/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition for Change in Residential PV Net-Metering Anniversary Month Rule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31FBAD32-538B-40EB-986D-64038BF7B87E}",
+      "organization": "CIR Electrical Construction Corp., EarthKind Energy, Inc., Empire Clean Energy Supply, Frey Electric Construction Company, Multiple Individuals, New York Geothermal Energy Organization, PUSH Buffalo, Renewable Energy Task Force, Renewable Rochester, Sierra Club Niagara Group, Solar Liberty Energy Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0572",
+      "file_name": "PSC Petition - PV Net-Metering Anniversary Month Rule - Final - September 17 2015.pdf"
+    }
+  ]
+}

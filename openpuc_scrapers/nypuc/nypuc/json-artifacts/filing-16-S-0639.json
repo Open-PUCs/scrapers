@@ -1,0 +1,38 @@
+{
+  "case": "16-S-0639",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={831A045D-1F1D-4214-9C58-855C0C5B0C01}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-S-0639",
+      "file_name": "267-16-S-0639.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/13/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44DD1A70-3324-4F29-AB0E-344D0F2DC854}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-S-0639",
+      "file_name": "Affidavit Letter Steam AC discount.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/09/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-S-0639",
+      "file_name": ""
+    }
+  ]
+}

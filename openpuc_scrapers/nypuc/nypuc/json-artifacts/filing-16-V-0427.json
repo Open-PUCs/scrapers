@@ -1,0 +1,115 @@
+{
+  "case": "16-V-0427",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04017E2B-A4CC-406B-9BAD-002BA5F3ACDE}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "16-V-0427",
+      "file_name": "16-V-0427 Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51B1EA2A-5A5E-4BE1-B795-CF4E69D30004}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "16-V-0427",
+      "file_name": "667_16-V-0427.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2017",
+      "nypuc_doctype": "Exhibits",
+      "name": "EAF Part 1 16-V-0427",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52C9B01A-C982-449F-A6C7-0FE551A2A76D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "16-V-0427",
+      "file_name": "EAF Part 1 16-V-0427.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/14/2017",
+      "nypuc_doctype": "Exhibits",
+      "name": "EAF Parts 2 and 3 16-V-0427",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DDDD7F3-6833-433F-AA0B-504E848FFCB2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "16-V-0427",
+      "file_name": "EAF Parts 2 and 3 16-V-0427.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "3rd Corrected NPV Long EAF Form Part 1 City of Batavia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EFB2CA2-215A-41AD-A19B-4DC83801F0B6}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "6",
+      "docket_id": "16-V-0427",
+      "file_name": "3rd Corrected NPV Long EAF Form Part 1 City of Batavia.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/25/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Corrected NPV Long EAF Form Part 1 City of Batavia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E78B68F-1A64-4FB1-98C2-4D9C308D0D0E}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "5",
+      "docket_id": "16-V-0427",
+      "file_name": "2nd Corrected NPV Long EAF Form Part1 City of Batavia (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/25/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Corrected NPV Long EAF Form Part 1 City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E3A5C97-4FE0-4C23-9131-527B86EC91F6}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "4",
+      "docket_id": "16-V-0427",
+      "file_name": "2nd Corrected NPV Long EAF Form Part1 City of Batavia.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/23/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Notice NPV Certificate of Confirmation City of Batavia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1378387-6929-4A04-9C00-1973477C34A1}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "3",
+      "docket_id": "16-V-0427",
+      "file_name": "Supplemental Filing 16-V-0427 Proof of Notice NPV Certificate of Confirmation City of Batavia.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected EAF Part 1 NPV - City of Batavia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80075221-9500-4406-BF3A-AA8BD3229A9D}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "2",
+      "docket_id": "16-V-0427",
+      "file_name": "Corrected NPV Long EAF Form Part1 City of Batavia.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Community Cable Corporation d/b/a North Penn Video for a Certificate of Confirmation for its Franchise with the City of Batavia, Genesee County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DAF2287-D690-4EA9-A5D9-B7899DBCA0F9}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "1",
+      "docket_id": "16-V-0427",
+      "file_name": "NPV City of Batavia Certificate of Confirmation Application.pdf"
+    }
+  ]
+}

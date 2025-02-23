@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0028",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D196AFA-8DE2-4DEC-A435-04C254ACBB53}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0028",
+      "file_name": "661_22-V-0028.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02040 Letter to Building Owner 10.13.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57BA2DB7-C4DF-47CD-AA25-98E8C4BFDAD9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0028",
+      "file_name": "21-02040 Letter to Building Owner 10.13.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 11 Chatham Square, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={854C1FB0-0F1A-40E8-A677-15AF926D0641}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0028",
+      "file_name": "7-210923 Petition (11 CHATHAM SQ) (Complete).pdf"
+    }
+  ]
+}

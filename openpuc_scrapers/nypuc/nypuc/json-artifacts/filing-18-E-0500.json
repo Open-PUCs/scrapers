@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0500",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "18-E-0500",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F87EE4E-395D-4D29-8D1F-3A151C511EC3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0500",
+      "file_name": "372_18-E-0500.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation for Proposed Amendment to Standby Service Multi-Party Offset Tariff Provision with Draft Tariff Leaf",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DF8C171-F3B0-4258-B931-765EB07BCA70}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-E-0500",
+      "file_name": "NiMoSC7 MultiPartyOffsetPetition.pdf"
+    }
+  ]
+}

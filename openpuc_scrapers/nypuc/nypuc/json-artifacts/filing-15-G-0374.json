@@ -1,0 +1,60 @@
+{
+  "case": "15-G-0374",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45DF8A11-93E3-4DDD-9145-15448AC12FA1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0374",
+      "file_name": "163_15-G-0373 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D8E642B-08E2-4D4A-BBB4-22B719753B3C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0374",
+      "file_name": "163_15-G-0373 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Denial of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74B9EFE4-A2E0-49D1-BC3F-8907005EAE32}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-G-0374",
+      "file_name": "SCO Family of Services Appeal Ack Ltr 6 23 15.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/24/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Hearing Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD13E26D-7D41-41CE-9A08-C82229AC4D61}",
+      "organization": "SCO Family of Services",
+      "itemNo": "2",
+      "docket_id": "15-G-0374",
+      "file_name": "SCO Appeal 6 19 15.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/24/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Denial of Informal Hearing Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F035DFBD-06A7-4EE3-A69E-286E2DE6F6D3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-G-0374",
+      "file_name": "SCO IH Denial 6 19 15.pdf"
+    }
+  ]
+}

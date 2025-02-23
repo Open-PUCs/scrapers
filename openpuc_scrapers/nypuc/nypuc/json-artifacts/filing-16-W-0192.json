@@ -1,0 +1,27 @@
+{
+  "case": "16-W-0192",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Petition to Transfer Assets",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C020C190-0000-C612-83FC-1207920E9AB1}",
+      "organization": "Woodbury Heights Estates Water Co., Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0192",
+      "file_name": "Case 16-W-0192 -- Water Supply Petition.PDF"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Woodbury Heights Estates Water Co., Inc. for Approval of a Transfer or Lease of all the Water Supply Assets Serving the Woodbury Heights Estates Subdivision to the Village of Kiryas Joel.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DA51C92-7D94-4028-ABF2-26BCA3D08E12}",
+      "organization": "Village of Kiryas Joel, Woodbury Heights Estates Water Co., Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0192",
+      "file_name": "David Gubits.pdf"
+    }
+  ]
+}

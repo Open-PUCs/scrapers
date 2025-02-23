@@ -1,0 +1,82 @@
+{
+  "case": "18-T-0021",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/09/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Kevin M. Bernstein, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F80E4C18-E2F5-4F5B-9C75-6234E4EB7014}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-T-0021",
+      "file_name": "18-T-0021-CHGE-East Fishkill Trans. Line-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "EF Line Part 102 - Attachment C - Agency Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07C6201-03B3-4FBC-A83C-5C73723CF7D1}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "18-T-0021",
+      "file_name": "EF Line Part 102 - Attachment C - Agency Correspondence.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E53B0AC1-C6CB-406B-A14B-8CDAA55921BB}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "18-T-0021",
+      "file_name": "Burgess Ltr 18-T-0021 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFD53991-BDC6-4015-AB10-2131209DD55C}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0021",
+      "file_name": "Burgess Ltr.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "CHGE EF Line Rebuild Part 102 Report - Part 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B99D89-1B8A-4F66-A2D6-720BB5507559}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0021",
+      "file_name": "CHGE EF Line Rebuild 20180111 Part 102 Report - Part 3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "CHGE EF Line Rebuild Part 102 Report - Part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21F5F722-D801-4A91-A923-487851B256DF}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0021",
+      "file_name": "CHGE EF Line Rebuild 20180111 Part 102 Report - Part 2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "CHGE EF Line Rebuild Part 102 Report - Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E4DC4BA-12FC-4152-8B09-FC13287E998A}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-T-0021",
+      "file_name": "CHGE EF Line Rebuild 20180111 Part 102 Report - Part 1.pdf"
+    }
+  ]
+}

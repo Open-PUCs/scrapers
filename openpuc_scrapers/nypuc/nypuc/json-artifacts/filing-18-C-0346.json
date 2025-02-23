@@ -1,0 +1,38 @@
+{
+  "case": "18-C-0346",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/12/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control and Associated Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC80ADC5-6986-4495-98FA-DACF721D5144}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-C-0346",
+      "file_name": "561_18-C-0346.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00667C37-643C-4792-837E-20812674E39B}",
+      "organization": "Mitel Cloud Services, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-C-0346",
+      "file_name": "NY TOC Supplement Filing 5.1.18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mitel Cloud Services, Inc., Mitel Networks Corporation, Mitel US Holdings, Inc., Mitel (Delaware), Inc. and Mitel Networks, Inc. for Approval of a Transfer of Control of Mitel Cloud Services, Inc. to Mitel Networks, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={384E6359-F752-4F0A-958C-55950051D6F4}",
+      "organization": "Mitel (Delaware), Inc., Mitel Cloud Services, Inc., Mitel Networks Corporation, Mitel Networks, Inc., Mitel US Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0346",
+      "file_name": "NY TOC Application EFiling 4.18.18 (Mitel Cloud).pdf"
+    }
+  ]
+}

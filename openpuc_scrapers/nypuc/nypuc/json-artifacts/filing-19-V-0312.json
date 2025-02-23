@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0312",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96524B7E-824C-45A2-B349-B0602885F4D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0312",
+      "file_name": "665_19-V-0312.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/07/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={429CBA21-714F-4E96-A748-15981BA08ADF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0312",
+      "file_name": "080719 Ltr to Secretary _T.Lewis Resolution-Corrected, Case 19-V-0312.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/07/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected T. Lewis Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63910C93-94E6-4C38-879D-BF6F51900091}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0312",
+      "file_name": "T. Lewis Resolution 031819 (2).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Lewis, Lewis County, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8BA1447-2D15-432D-BA35-F3001A5BFE7C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0312",
+      "file_name": "043019 T. LEWIS FRANCHISE SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

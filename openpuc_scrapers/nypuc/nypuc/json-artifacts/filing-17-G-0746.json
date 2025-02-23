@@ -1,0 +1,49 @@
+{
+  "case": "17-G-0746",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-G-0746 Lall Ack Letter 12012017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8714BC8A-F6D2-4FE2-A373-7B312A428338}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "17-G-0746",
+      "file_name": "17-G-0746 Lall Ack Letter 12012017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-G-0746 Lall Rehearing Request 11292017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55A67780-37E0-4CBB-A472-410489E7D3BB}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "17-G-0746",
+      "file_name": "17-G-0746 Lall Rehearing Request 11292017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-G-0746 Ramsaran SMD Final 11072017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1078647C-7BE3-4FA4-B2C6-2F77A9F2C472}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-G-0746",
+      "file_name": "17-G-0746 Ramsaran SMD Final 11072017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a petition for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8AFB8AE-1C8D-4950-945C-B6DB41491A4A}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0746",
+      "file_name": "161 Letter_Redacted.pdf"
+    }
+  ]
+}

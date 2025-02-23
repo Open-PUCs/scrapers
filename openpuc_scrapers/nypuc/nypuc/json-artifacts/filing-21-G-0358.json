@@ -1,0 +1,60 @@
+{
+  "case": "21-G-0358",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/10/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding Jurisdiction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BC03A2D-18E5-4D9A-9965-C09189257481}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0358",
+      "file_name": "168_21-G-0358 DTE Transmission Dec Ruling_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCAABD2A-0EA0-4886-85EA-186CA6DE336E}",
+      "organization": "DTE Renewable Holdings, LLC",
+      "itemNo": "2",
+      "docket_id": "21-G-0358",
+      "file_name": "Case 21-G-____ - Letter to J. Vigars - Critical Infrastructure Information Protection Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "DTERH Petition to PSC for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C04DFED-2259-408A-AFA5-D28A3865E3EC}",
+      "organization": "DTE Renewable Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "21-G-0358",
+      "file_name": "DTERH Petition to PSC for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23A761F4-9CAD-427E-A907-76ADFC9FB7DD}",
+      "organization": "DTE Renewable Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "21-G-0358",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendix A Cover REDACTED VERSION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D40B1BD-82F7-46DF-A508-1791746D8EBB}",
+      "organization": "DTE Renewable Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "21-G-0358",
+      "file_name": "Appendix A Cover REDACTED VERSION.pdf"
+    }
+  ]
+}

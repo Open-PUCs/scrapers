@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0525",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0575493-0000-C11A-A1FF-56207480AB67}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0525",
+      "file_name": "661_24-V-0525.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BAE291-0000-CF5D-B55A-C9185421DD5B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0525",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Cochecton 9.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BAE291-0000-CB1A-93E4-0D92B02027D4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0525",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Cochecton 9.11.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications-T. Cochecton_Request for Renewal and Certificate of Confirmation(redacted) 9.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BAE291-0000-CC96-ADF9-4F839A583CAE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0525",
+      "file_name": "Charter Communications-T. Cochecton_Request for Renewal and Certificate of Confirmation(redacted) 9.11.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications-T. Cochecton Cover Letter, Request for Renewal and Certificate of Confirmation 9.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BAE291-0000-C873-81F3-D1A34F11ADE3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0525",
+      "file_name": "Charter Communications-T. Cochecton Cover Letter, Request for Renewal and Certificate of Confirmation 9.11.24.pdf"
+    }
+  ]
+}

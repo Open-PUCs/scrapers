@@ -1,0 +1,60 @@
+{
+  "case": "21-W-0364",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61164202-9026-4AB1-8F95-23A8AB88F582}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "3",
+      "docket_id": "21-W-0364",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Copy of Pension settlement losses 22-W-0404",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DE2BF11-9359-4A64-A48F-9AB752928EFE}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "3",
+      "docket_id": "21-W-0364",
+      "file_name": "Copy of Pension settlement loss entries for 2016 2020 2021 Case 17-W-0062.xlsx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Deferral Accounting and Amortization of Pension Settlement Loss",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EDBD4AE-F019-4727-8030-73B86FC8D44B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-W-0364",
+      "file_name": "461_17-W-0062 et. al final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York American Water Company, Inc. Requesting Deferral Accounting and Amortization of Pension Settlement Losses.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C077950A-06C2-4C56-95C8-A02F6201CCDC}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0364",
+      "file_name": "NYAW Petition re 2020 Pension Loss combined.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7137E7EE-A1A0-47E8-A7F1-73510CDC33B2}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0364",
+      "file_name": "Case 21-W- - NYAW Verified Petition Pension Loss Filing Letter.pdf"
+    }
+  ]
+}

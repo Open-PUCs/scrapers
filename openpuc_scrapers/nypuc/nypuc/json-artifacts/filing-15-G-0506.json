@@ -1,0 +1,60 @@
+{
+  "case": "15-G-0506",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/05/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Withdrawing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5988858-5C05-4A09-AAFA-0B50AB9044D9}",
+      "organization": "NYU Hospitals Center d/b/a NYU Langone Medical Center",
+      "itemNo": "5",
+      "docket_id": "15-G-0506",
+      "file_name": "Burgess_Letter Withdrawing Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "CECONY Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60ECBF07-94B8-4254-902F-E305661704E9}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-G-0506",
+      "file_name": "CECONY Response to Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/16/2015",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8C5B7B3-2C64-4C82-8DE0-56D4CD31F3E0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-G-0506",
+      "file_name": "15G0506 Con Edison-Extension Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2015",
+      "nypuc_doctype": "Motions",
+      "name": "CECONY Request for Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CA7C641-ACE1-4A2B-B74E-1BFCFCA94BC8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-G-0506",
+      "file_name": "CECONY Request for Extension.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/27/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of NYU Hospitals Center d/b/a NYU Langone Medical Center for a Declaratory Ruling regarding Rider H of Consolidated Edison Company of New York, Inc.'s Schedule for Gas Service.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EE67802-680B-4E2E-B584-F8F010E3BB44}",
+      "organization": "NYU Hospitals Center d/b/a NYU Langone Medical Center",
+      "itemNo": "1",
+      "docket_id": "15-G-0506",
+      "file_name": "NYU Rider H Petition 8-27-15.pdf"
+    }
+  ]
+}

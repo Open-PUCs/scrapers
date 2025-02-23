@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0098",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D8488B-0000-CE13-93A7-219FCA265BFA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0098",
+      "file_name": "663 - 23-V-0098 - Letter 101923_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D8488B-0000-CC3E-A755-01B38CCE4298}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0098",
+      "file_name": "663 - 23-V-0098 - Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D797C5B3-E050-4D27-87AE-CF86B78274DE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0098",
+      "file_name": "2023 02 14 Case No. 984162 (Amanda & Salvatore Annarino v Spectrum) Ack letter Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "2023 02 08 RE_ Appeal of Informal Hearing _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5392054-B5C5-4B45-B3BB-C6D7E8B28A02}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-V-0098",
+      "file_name": "2023 02 08 RE_ Appeal-Fwd_ Case 984162 - Informal Hearing - Annarino - Spectrum _Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Letters",
+      "name": "2023 01 23 Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF6C0203-C6AE-4CDB-A254-8CC5D2EF4897}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-V-0098",
+      "file_name": "2023 01 23 IHO decision_case_984162 Redlined_Redacted.pdf"
+    }
+  ]
+}

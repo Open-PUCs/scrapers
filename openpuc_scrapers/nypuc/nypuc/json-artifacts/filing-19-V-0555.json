@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0555",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0059DC0E-B767-4DEB-A2D0-CE172A7ED611}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0555",
+      "file_name": "664_19-V-0555 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Dansville, County of Steuben.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DF8D64B-4665-4D05-9C1D-1EAB3069C8A7}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0555",
+      "file_name": "T DANSVILLE RENEWAL SUBMISSION TO PSC 08.28.19.pdf"
+    }
+  ]
+}

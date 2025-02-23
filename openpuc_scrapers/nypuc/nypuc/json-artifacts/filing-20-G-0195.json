@@ -1,0 +1,49 @@
+{
+  "case": "20-G-0195",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/31/2020",
+      "nypuc_doctype": "Comments",
+      "name": "NFGDC Response to 2019 Pipeline Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A3306C1-E94A-4CB2-A3ED-F50000465B57}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "20-G-0195",
+      "file_name": "NFGDC Response to 2019 Pipeline Safety Performance Measures Report 12-31-20.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/31/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FD06758-C24B-47C2-980E-907540BE4360}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "20-G-0195",
+      "file_name": "NFGDC Cover Letter 12-31-2020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/11/2020",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service, Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD4A2F06-A4FE-4817-93FA-E4772D3A11F0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0195",
+      "file_name": "pr20052.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/11/2020",
+      "nypuc_doctype": "Reports",
+      "name": "2019 Pipeline Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6ABD756-755B-4E83-9C6D-7575A5292AA6}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-G-0195",
+      "file_name": "101_20-G-0195 2019 Performance Measures Report.pdf"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "case": "22-E-0068",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "CECONY Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51C651F1-E095-4B50-A184-E860B7A135D2}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "11",
+      "docket_id": "22-E-0068",
+      "file_name": "CECONY Letter - 22-E-0068.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/15/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Related Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8D0E071-80D5-49C5-BEC8-05FF2E3F850C}",
+      "organization": "Related Companies",
+      "itemNo": "10",
+      "docket_id": "22-E-0068",
+      "file_name": "Related Response to Con Edison Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/15/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7588A1E-F8AF-46F6-B6D9-1E0F886E8D02}",
+      "organization": "Related Companies",
+      "itemNo": "10",
+      "docket_id": "22-E-0068",
+      "file_name": "Response Filing Ltr 7-15-2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E42493E2-9D32-4DB1-8F0A-B7E453BB3F55}",
+      "organization": "NineDot Energy",
+      "itemNo": "9",
+      "docket_id": "22-E-0068",
+      "file_name": "22-E-0068 NineDot Support Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={898B6883-4A41-4B8F-A6BE-760D8E0B6530}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "22-E-0068",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "CECONY Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE4D2BA0-840B-49A8-AFDB-4A78B1A0E6C4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "22-E-0068",
+      "file_name": "CECONY Reply.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bloom Support Letter Related petition for submission",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A57BB9A-058F-414B-997A-D828452DF4AB}",
+      "organization": "Bloom Energy Corporation",
+      "itemNo": "6",
+      "docket_id": "22-E-0068",
+      "file_name": "Bloom Support Letter Related petition for submission.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYECC's Letter in Support of the Related Companies' Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={968F9272-3D91-43C2-AE89-6AAAB8461751}",
+      "organization": "New York Energy Consumers Council, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-E-0068",
+      "file_name": "NYECC's Letter in Support of the Related Companies' Petition.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/11/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Northeast Clean Heat and Power Initiative Comments.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E4EB381-747A-4DB2-9A4A-53218E0198D2}",
+      "organization": "Northeast Clean Heat and Power Initiative",
+      "itemNo": "4",
+      "docket_id": "22-E-0068",
+      "file_name": "Northeast Clean Heat and Power Initiative Comments..pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/08/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Support Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={953CA41A-F5E6-462B-894B-583847530BCC}",
+      "organization": "The Durst Organization, Inc.",
+      "itemNo": "3",
+      "docket_id": "22-E-0068",
+      "file_name": "Support Letter.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "07/08/2022",
+      "nypuc_doctype": "Comments",
+      "name": "ConEd Offset Tarrif Petition Support",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CDCC1A6-33AC-48B8-BE28-C8CA407FC49C}",
+      "organization": "Blueprint Power Technologies, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0068",
+      "file_name": "ConEd Offset Tarrif Petition Support.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "01/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Related Companies for Modification of Consolidated Edison Company of New York Inc. Standby Service Offset Tariff.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB20F5E9-9FAF-4848-B988-7BDB6D99022E}",
+      "organization": "Related Companies",
+      "itemNo": "1",
+      "docket_id": "22-E-0068",
+      "file_name": "Related Offset Petition - Final.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "01/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D32563D-1784-420E-9EC7-04512E15E4B8}",
+      "organization": "Related Companies",
+      "itemNo": "1",
+      "docket_id": "22-E-0068",
+      "file_name": "Related Offset Petition Filing Ltr.pdf"
+    }
+  ]
+}

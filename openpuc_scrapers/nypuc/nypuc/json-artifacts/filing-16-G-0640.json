@@ -1,0 +1,49 @@
+{
+  "case": "16-G-0640",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "515441 Bellantoni Ack Letter 11142016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={927FBE68-A010-4B66-A1E5-E727B6ED0989}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-G-0640",
+      "file_name": "515441 Bellantoni Ack Letter 11142016_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "515441 Bellantoni Rehearing Request 11142016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD878626-0C08-4F23-9E22-23CB41D44770}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "16-G-0640",
+      "file_name": "515441 Bellantoni Rehearing Request 11142016_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "545441 Bellantoni SMD Final 10132016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB682584-ABD1-46A1-AE58-84141A4E69EF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-G-0640",
+      "file_name": "545441 Bellantoni SMD Final 10132016_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/31/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a petition for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CA16C77-92B2-41AB-8E24-011F653B4283}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0640",
+      "file_name": "163_16-G-0640 Letter_Redacted.pdf"
+    }
+  ]
+}

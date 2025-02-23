@@ -1,0 +1,115 @@
+{
+  "case": "22-E-0613",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter for Clause 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A033DB90-0000-C511-BB45-DACF00595A73}",
+      "organization": "Bud South LLC",
+      "itemNo": "9",
+      "docket_id": "22-E-0613",
+      "file_name": "Letter 7-22-2024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0DBDC8A-0000-CF18-8063-C2A109C8A597}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "8",
+      "docket_id": "22-E-0613",
+      "file_name": "in-service meter test plan (2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance of All Submetering Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={004C1C89-0000-C21A-9BBE-BAE22EA12FEE}",
+      "organization": "Bud North LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0613",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0844488-0000-C34A-9BA8-164C71338568}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0613",
+      "file_name": "371_22-E-0613.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209C9987-0000-CA11-9C8D-3F712D6345BD}",
+      "organization": "Bud South LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0613",
+      "file_name": "response letter 4-18-23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "waiver letter withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE2CC62D-499A-4A89-B9FD-86150C9B3BDA}",
+      "organization": "Bud South LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0613",
+      "file_name": "waiver letter withdrawal.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/05/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "model specifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B19F4DD-2B6B-4D8D-BAD8-B3FF5A7BA3B5}",
+      "organization": "Bud South LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0613",
+      "file_name": "model specifications.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/05/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6737EB1-048D-4B3F-A738-BEF71E58F0E3}",
+      "organization": "Bud South LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0613",
+      "file_name": "Response Letter 1-5-23.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/01/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 2-20 Malt Drive, Long Island, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A17AB51B-217F-4A72-86F9-6855C96DAD1D}",
+      "organization": "Bud South LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0613",
+      "file_name": "additional informtion.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Bud North LLC to Sub-meter electricity at a building located at 2-20 Malt Drive, Long Island City, New York 11101 Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26706C78-5004-4F96-BBF2-20B5E8386EDB}",
+      "organization": "Bud South LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0613",
+      "file_name": "submetering application (6).pdf"
+    }
+  ]
+}

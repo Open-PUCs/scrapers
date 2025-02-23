@@ -1,0 +1,115 @@
+{
+  "case": "18-E-0022",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F56E2AA-BE11-405A-8C83-99B5069E7632}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0022",
+      "file_name": "18-E-0022-MP Owner LLC-Extension Ruling-11-21-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86EC215C-6CB8-49BF-94C6-0FAFB222787D}",
+      "organization": "MP Owner LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0022",
+      "file_name": "Case 18-E-0022_Letter to Secretary re extension request of in-service meter test form filing deadline.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A19A3529-C007-40E5-8912-DCC52D0B6FE3}",
+      "organization": "MP Owner LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0022",
+      "file_name": "Case 18-E-0022 - Updated Lease Rider.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA32123A-4047-484E-B4EB-4C0E5AC76E82}",
+      "organization": "MP Owner LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0022",
+      "file_name": "Case 18-E-0022 - Updated ID Form.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated HEFPA Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={792F1636-AD0C-4B31-B831-FFA0EDB0250E}",
+      "organization": "MP Owner LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0022",
+      "file_name": "Case 18-E-0022 - Updated HEFPA Plan 4837-2170-1226 v.1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BEB7506C-9CEF-4E29-BFFE-E6B35B58F3B7}",
+      "organization": "MP Owner LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0022",
+      "file_name": "Case 18-E-0022_Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F44FFE3A-8453-48F4-8C18-C5A5526D0475}",
+      "organization": "MP Owner LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0022",
+      "file_name": "Case 18-E-0022 - Cover letter to Secretary filing updated submetering materials and certificate of compliance.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0219DA92-D1F1-4AEE-A0E9-700122312266}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0022",
+      "file_name": "364_18-E-0022.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of MP Owner LLC to Submeter Electricity at 146 Pierrepont Street, Brooklyn, New York 11201, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={359D7A05-A053-4D30-9154-9BC22734EFB4}",
+      "organization": "MP Owner LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0022",
+      "file_name": "Case 18-E-____Pierrepont_Notice of Intent to Submeter Electricity.PDF"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B80250A-FECA-4F7E-BDD5-1584F8D6766A}",
+      "organization": "MP Owner LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0022",
+      "file_name": "Case_18-E-_____-_Cover_letter_to_Secretary_filing_Notice_of_Intent.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0774",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Form R2 - Village of Lake Placid",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={429DF226-720A-4C1B-835D-3A848CB28A80}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0774",
+      "file_name": "R2 - Village of Lake Placid.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E813E0C7-7FC5-4A18-B943-EFA11C1FBEEE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0774",
+      "file_name": "Charter Communications, Inc. - Letter to PSC Secretary -Franchise Information - Lake Placid.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79CD81E5-9DAC-4B94-B4F8-D28E5372DE62}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0774",
+      "file_name": "662_19-V-0774 Cable Renewal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Lake Placid, County of Essex.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A86E0FB5-6CCE-4D5E-9A54-0E8F4257F4B1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0774",
+      "file_name": "V LakePlacidNY PSC Renewal Package Dec2019.pdf"
+    }
+  ]
+}

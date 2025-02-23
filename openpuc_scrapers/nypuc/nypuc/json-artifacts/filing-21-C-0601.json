@@ -1,0 +1,104 @@
+{
+  "case": "21-C-0601",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/05/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY GC Pivotal Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF1701DE-9997-4A66-9CF6-6939652A068C}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC, GTT Communications, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-C-0601",
+      "file_name": "2023-01-05 NY GC Pivotal Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35DDF0EE-DB80-4407-B9D2-E0EF4D6083A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-C-0601",
+      "file_name": "562_21-C-0601 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "GTT - New York Supplemental Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67AC812D-B4B1-4BC0-AB89-3E9F3F0F3A2D}",
+      "organization": "GC Pivotal LLC dba Global Capacity",
+      "itemNo": "4",
+      "docket_id": "21-C-0601",
+      "file_name": "GTT - New York Supplemental Application.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F80F02D5-2DBE-4C97-B010-1142C90FA569}",
+      "organization": "GC Pivotal LLC dba Global Capacity",
+      "itemNo": "4",
+      "docket_id": "21-C-0601",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE26B3A7-6A91-4C13-9B57-D47E792FAB7D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-C-0601",
+      "file_name": "562_21-C-0601.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B0FED16-4ACE-4D67-B5F4-8BDA4D616740}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC, GTT Communications, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-C-0601",
+      "file_name": "2021-12-20 GTT - NY PSC - Ltr Notifying of Ch 11 Plan Approval.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Confirmation Order and Approved Bankruptcy Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7E87590-2B84-4631-8993-A870C44AD3B3}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC, GTT Communications, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-C-0601",
+      "file_name": "Attachment - Confirmation Order and Approved Bankruptcy Plan.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "GTT - New York Transfer of Control Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={229512A3-996B-4276-887D-F302B198D91B}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC, GTT Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0601",
+      "file_name": "2021-11-18 - GTT - New York Transfer of Control Application.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7AB6ED79-E736-4E4B-AB16-3ACD7D7A7D2A}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC, GTT Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0601",
+      "file_name": "2021-11-18 - Cover Letter - GTT GC Pivotal Petition for Transfer of Control.pdf"
+    }
+  ]
+}

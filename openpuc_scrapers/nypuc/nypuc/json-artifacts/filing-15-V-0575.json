@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0575",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D55F0FB3-7C77-4F60-B18B-D21D4AC94724}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0575",
+      "file_name": "662_15V0575.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Philipstown North Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F05B3FB-DDE2-4C42-8463-9BD29721C744}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0575",
+      "file_name": "Philipstown North Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Philipstown North Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6051BC5-7F88-4127-85CC-0242268C7132}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0575",
+      "file_name": "Philipstown North Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Philipstown North Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C58CA61C-4E4F-42D4-9EC8-1A4BFB17AB64}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0575",
+      "file_name": "Philipstown North Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Philipstown North Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6455D9B4-31D1-4A0C-BB5F-85322CC2E488}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0575",
+      "file_name": "Philipstown North Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Philipstown North Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={452C1409-F860-4BC7-9A60-339FC07AE5F5}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0575",
+      "file_name": "Philipstown North Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Philipstown North Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF259906-C0C9-4B6D-884A-A6D44B92FA6D}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0575",
+      "file_name": "Philipstown North Application Cover Letter.pdf"
+    }
+  ]
+}

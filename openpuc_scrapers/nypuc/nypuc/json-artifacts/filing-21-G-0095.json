@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0095",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B28C7EDB-9393-4CAA-9235-D6C43D2284A4}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "21-G-0095",
+      "file_name": "165-C_21-G-0095 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDABE264-45A5-43F7-BCC5-7A2E4DF294B5}",
+      "organization": "Norman Keil Nurseries Inc.",
+      "itemNo": "5",
+      "docket_id": "21-G-0095",
+      "file_name": "Request for Rehearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/25/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA831949-C76E-4E4E-AB96-4D4ECADEC169}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0095",
+      "file_name": "168-A_21-G-0095.pdf"
+    }
+  ]
+}

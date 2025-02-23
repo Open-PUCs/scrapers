@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0636",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Use of the AMETEK JEMStar II Digital Power Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12EF59F1-38E6-4866-BE5F-4C091338FED8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-E-0636",
+      "file_name": "361_15e0636.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Letter in Support for Ametek's JEMStar II Electric Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AE8E71B-78A1-41DE-AE39-D9093E0890F1}",
+      "organization": "AMETEK, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0636",
+      "file_name": "Ametek JEMStar II_Sponsorship.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/29/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AMETEK, Inc. for Approval of the JEMStar II Digital Power Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9D7180B-9CB8-4A8E-A07C-A2359FF4BE25}",
+      "organization": "AMETEK, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0636",
+      "file_name": "JEMStar II PSC Approval Application 10_25_15.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/29/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "JEMStar II Modem Scheme",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C960A909-1044-4C81-9668-8396416B09A1}",
+      "organization": "AMETEK, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0636",
+      "file_name": "JEMStar II Modem Scheme.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/29/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "JEMStar II Data Sheet - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8A17047-991E-4A5A-B964-40E613DBF80A}",
+      "organization": "AMETEK, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0636",
+      "file_name": "JEMStar II Data Sheet - Final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/29/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "EMCandTEL83571-ANSI_MET",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12D647F3-D62A-4863-ADBF-CD0EFE6B45AE}",
+      "organization": "AMETEK, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0636",
+      "file_name": "EMCandTEL83571-ANSI_MET.pdf"
+    }
+  ]
+}

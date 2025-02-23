@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0111",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0111 Ashenberg Ack Letter 02172021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72D337A1-94CF-4FF5-AC05-E6449C5061DE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-E-0111",
+      "file_name": "21-E-0111 Ashenberg Ack Letter 02172021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-E-0111 Ashenberg Rehearing Request 02162021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86CE10A6-95CA-48FD-BA35-BB68FE18E30B}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-E-0111",
+      "file_name": "21-E-0111 Ashenberg Rehearing Request 02162021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0111 Ashenberg SMD Final 02112021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85BF005F-9D81-49E1-9492-E12D36A40494}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-E-0111",
+      "file_name": "21-E-0111 Ashenberg SMD Final 02112021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Reahearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4B7768A-74BF-45AD-8247-A6D533C7D7F6}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0111",
+      "file_name": "361 Letter 21-E-0111 final_Redacted.pdf"
+    }
+  ]
+}

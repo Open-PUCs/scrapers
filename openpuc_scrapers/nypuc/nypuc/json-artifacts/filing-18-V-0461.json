@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0461",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={995B2D07-F3F4-4AE1-9276-68D82D8ED1FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0461",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3014C1D7-107A-4C17-BF6C-2D6D28E05CE1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0461",
+      "file_name": "17-01762 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 455 Central Park West, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C0A4267-E2D6-4501-A9A4-D097BFEEF086}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0461",
+      "file_name": "Petition (455 Central Pk W).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={806E81B2-38FE-41E8-B555-3DB5776A6EB4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0461",
+      "file_name": "Exhibit 2 (455 Central Pk W).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A24462AE-F7ED-42B8-B972-2D7E5FDD07A5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0461",
+      "file_name": "Exhibit 1 (455 Central Pk W).pdf"
+    }
+  ]
+}

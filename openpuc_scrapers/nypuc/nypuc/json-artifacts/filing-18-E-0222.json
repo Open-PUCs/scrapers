@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0222",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0222-3 Finnerty Ack Letter 04122018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1550A0FA-00FF-4680-8693-FE2BD4309F82}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0222",
+      "file_name": "18-E-0222-3 Finnerty Ack LEtter 04122018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0222-2 Finnerty Rehearing Request 03272018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A874B9B-0088-4981-9AF8-B11ECBC71E28}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0222",
+      "file_name": "18-E-0222-2 Finnerty Rehearing Request 03272018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0222 Finnerty SMD Final 03132018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFEFCDDD-B5E6-428F-9AA6-A25668211527}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0222",
+      "file_name": "18-E-0222 Finnerty SMD Final 03132018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burges regarding a rehearing petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BECF317-1311-4F65-90F7-799FFBB65303}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0222",
+      "file_name": "363 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3B13D34-7872-48EA-98DD-1DB412992164}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0222",
+      "file_name": "363 Determination.pdf"
+    }
+  ]
+}

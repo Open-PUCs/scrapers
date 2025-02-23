@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0604",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240723 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={000CE690-0000-CE12-BF59-81289956DC59}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0604",
+      "file_name": "20240723 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240723 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={000CE690-0000-CB3C-A0E9-431148B43765}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0604",
+      "file_name": "20240723 - Citation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240409 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F2C38E-0000-C21B-AE38-4E54640F24D5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0604",
+      "file_name": "20240409 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240409 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F2C38E-0000-CA7D-ADC3-212877D68751}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0604",
+      "file_name": "20240409 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240409 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F2C38E-0000-CD5D-953D-4E9B526F77AB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0604",
+      "file_name": "20240409 - Citation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240401 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F2C38E-0000-CD3F-AD6A-7675F34DB9B6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0604",
+      "file_name": "20240401 - Origin of Investigation.pdf"
+    }
+  ]
+}

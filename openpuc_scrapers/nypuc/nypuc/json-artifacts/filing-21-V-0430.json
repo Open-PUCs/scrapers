@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0430",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={959C33C0-E5CA-4F59-863A-9A51DE02C1BC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0430",
+      "file_name": "661_21-V-0430.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Lincoln, Madison County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={368DCBBD-C2C0-45F5-B4D0-092528101032}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0430",
+      "file_name": "T. Lincoln to be filed with PSC.pdf"
+    }
+  ]
+}

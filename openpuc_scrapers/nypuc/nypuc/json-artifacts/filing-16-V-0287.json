@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0287",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EC135C2-9A1F-4A9C-9C81-5B7AA229A48D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0287",
+      "file_name": "661_16v0287.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Crawford, Orange County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFEB55D9-D056-495E-B5B9-F3FCEC14D7D7}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0287",
+      "file_name": "05122016 submission to the psc - t of crawford.pdf"
+    }
+  ]
+}

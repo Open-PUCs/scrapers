@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0313",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8934620-F8A1-4722-8E00-4181A9825DD4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0313",
+      "file_name": "663_21-V-0313 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Hamden Cable Franchise Letter Regarding Public Hearing Date Discrepancy",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2778E79-C2B2-412F-9514-E44C3FE95615}",
+      "organization": "DTC Cable, Inc., Town of Hamden",
+      "itemNo": "2",
+      "docket_id": "21-V-0313",
+      "file_name": "Town of Hamden Cable Franchise Letter Regarding Public Hearing Date Discrepancy 6-15-2021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for Approval of the Renewal of its Franchise with the Town of Hamden, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CE58716-E098-47C9-9B46-6F79EB1870FE}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0313",
+      "file_name": "Town of Hamden Cable Franchise Package -PSC 6-07-2021.pdf"
+    }
+  ]
+}

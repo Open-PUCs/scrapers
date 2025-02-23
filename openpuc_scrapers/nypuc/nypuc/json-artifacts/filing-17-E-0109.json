@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0109",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D8C9B10-146E-4161-BCDB-6066E1876631}",
+      "organization": "320 East 82nd Owner, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0109",
+      "file_name": "320 East 82nd St Owner Acceptance of PSC Order Metering Conditions.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2DBCFB6-7869-4136-AB2B-56D069593F44}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0109",
+      "file_name": "363_17-E-0109.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DD22327-BE1B-4719-AEA3-5A2287F0D9AD}",
+      "organization": "320 East 82nd Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0109",
+      "file_name": "PSC response to requests 5-12-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 320 East 82nd, Street, New York, NY 10028 Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F02D2C7B-7940-44C1-98D0-8EF6C648C7E7}",
+      "organization": "320 East 82nd Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0109",
+      "file_name": "Notice of Intent to Submeter 320 E 82nd, Owner LLC.pdf"
+    }
+  ]
+}

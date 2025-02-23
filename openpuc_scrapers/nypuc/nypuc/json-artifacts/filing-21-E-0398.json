@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0398",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={747F5219-3C30-4175-AA8B-9159F64AFC7D}",
+      "organization": "186N6 Owner LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0398",
+      "file_name": "compliance letter (2).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAC56C6B-2F91-42C7-9685-F8115F7F7358}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0398",
+      "file_name": "365_21-E-0398_final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 186 North 6th Street, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06130CB1-353E-49BB-A1C6-0C124EA13232}",
+      "organization": "186N6 Owner LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0398",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309C0A6A-BCC6-4BF8-B8AE-609F9FAE7AC1}",
+      "organization": "186N6 Owner LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0398",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Sub-meter electricity at abuilding located at 186 North 6th Street, Brooklyn,New York 11211.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B26CF57-7AFD-4BBA-8200-031A725B565B}",
+      "organization": "186N6 Owner LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0398",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

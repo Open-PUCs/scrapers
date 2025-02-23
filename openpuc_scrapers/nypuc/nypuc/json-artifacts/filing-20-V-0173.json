@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0173",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8271FDA8-B59A-4C87-8902-A8BB8A84F844}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0173",
+      "file_name": "664_20-V-0173 Notice of Determination of Significance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33EBBDD9-0D99-44D7-849F-009D6F05355D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0173",
+      "file_name": "664_20-V-0173 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2020",
+      "nypuc_doctype": "Reports",
+      "name": "20-V-0173 Empire Video V of S. Corning SEAF Parts 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A83AC8-663A-4D1F-8286-60662A48FA4B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-V-0173",
+      "file_name": "20-V-0173 Empire Video V of S. Corning SEAF Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/20/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of the Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94064E24-2F5C-4851-BFD5-F4C7E8C83E54}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "20-V-0173",
+      "file_name": "Affidavit of the Proof of Publication Case 20-V-0173.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Village of South Corning, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3E0B797-A3BF-4E96-9DAA-541A9D123C33}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "20-V-0173",
+      "file_name": "Empire Video Services Corp_Village of South Corning Franchise Filing 3_25_2020.pdf (1 MB)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "19-M-0782",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-M-0782 Sicherer Additiona Corr. 03192020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A5971D2-DE49-4DE1-B1BC-21D240CC0322}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "19-M-0782",
+      "file_name": "19-M-0782 Sicherer Additiona Corr. 03192020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0782 Sicherer Ack Letter 12312019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF3BC51A-FD50-441B-B563-45916C489D5D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-M-0782",
+      "file_name": "19-M-0782 Sicherer Ack Letter 12312019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-M-0782 Sicherer Rehearing Request 12242019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EFC11E8-34E1-4EE4-85B6-E804BC642414}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-M-0782",
+      "file_name": "19-M-0782 Sicherer Rehearing Request 12242019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0782 Sicherer SMD Final 11252019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52C0DFC8-A704-4EBB-A774-340CAADB8964}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-M-0782",
+      "file_name": "19-M-0782 Sicherer SMD Final 11252019.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/16/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A116E87E-33BB-40F9-86DF-0877BC43DEF1}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0782",
+      "file_name": "261 Letter_Redacted.pdf"
+    }
+  ]
+}

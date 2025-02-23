@@ -1,0 +1,93 @@
+{
+  "case": "18-W-0600",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/01/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Three Bears Water Supply Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF364007-9615-4316-BC77-DBA8A18FAEBE}",
+      "organization": "Three Bears Water Supply",
+      "itemNo": "6",
+      "docket_id": "18-W-0600",
+      "file_name": "Three Bears Water Supply Customer Notification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/01/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D460462-C5E4-49C4-9552-A97BAC062335}",
+      "organization": "Three Bears Water Supply",
+      "itemNo": "6",
+      "docket_id": "18-W-0600",
+      "file_name": "Three Bears Water Supply customer notice filing letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2019",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={728210ED-D8A1-46F4-BC44-CED53F0D8088}",
+      "organization": "Three Bears Water Supply",
+      "itemNo": "5",
+      "docket_id": "18-W-0600",
+      "file_name": "LETT.Three Bears Water Supply.Canc.4.30.19.final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2019",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cancellation Supplement No. 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AC19874-FDBC-410B-827C-F9A1D16F6D17}",
+      "organization": "Three Bears Water Supply",
+      "itemNo": "5",
+      "docket_id": "18-W-0600",
+      "file_name": "SUPP.Cancel.Three Bear Water Supply PSC No. 1.4.30.19.final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/24/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Initial Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08687D0C-1766-43FC-A2E0-AAD2FB01AF2C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-W-0600",
+      "file_name": "462_18-W-0600.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/12/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B34D5242-0DBD-44B4-AFA8-9B2E4F7DE753}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-W-0600",
+      "file_name": "18-W-0600 Postponement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/06/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Three Bears Water Supply",
+      "itemNo": "2",
+      "docket_id": "18-W-0600",
+      "file_name": ""
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/12/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Three Bears Water Supply",
+      "itemNo": "1",
+      "docket_id": "18-W-0600",
+      "file_name": ""
+    }
+  ]
+}

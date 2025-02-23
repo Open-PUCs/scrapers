@@ -1,0 +1,38 @@
+{
+  "case": "22-C-0432",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AMP Capital-Everstream-DB Puma-New York (NY) Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33EA6689-312F-48F2-8FB8-35515A4AD33A}",
+      "organization": "AMP Capital Investors International Holdings Ltd., DB Puma GIF II GP Holdco, LLC, Everstream Solutions LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0432",
+      "file_name": "AMP Capital-Everstream-DB Puma-New York (NY) Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01472 Everstream Solutions OOL Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A5F670C-4C82-487D-98BA-8DF042E15E9D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0432",
+      "file_name": "22-01472 Everstream Solutions OOL Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of AMP Capital Investors International Holdings Ltd., Everstream Solutions LLC, and DB Puma GIF II GP Holdco, LLC for Approval to Transfer Indirect Control of Everstream Solutions LLC to DB Puma GIF II GP Holdco, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EADDB41F-922E-4DD9-9A2D-5018E7D0DBEC}",
+      "organization": "AMP Capital Investors International Holdings Ltd., DB Puma GIF II GP Holdco, LLC, Everstream Solutions LLC",
+      "itemNo": "1",
+      "docket_id": "22-C-0432",
+      "file_name": "Everstream Solutions LLC New York (NY) Transfer of Indirect Control Petition.pdf"
+    }
+  ]
+}

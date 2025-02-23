@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0136",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/29/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE686A71-657A-4E5A-AC36-84E26997672D}",
+      "organization": "Harmony Mills South LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0136",
+      "file_name": "Order Certification.90 State.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AE6A144-F671-435A-977A-338B91990CBC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0136",
+      "file_name": "363_18-E-0136.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to questions from Department of Public Service Staff",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F33615F7-4A8C-4BC2-9A9D-3CA34A47C353}",
+      "organization": "Harmony Mills South LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0136",
+      "file_name": "Staff Questions_4.24.18_90 State.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent of Harmony Mills South LLC - updated Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7397A240-5619-41DB-B534-1E6CA9CAF0D4}",
+      "organization": "Harmony Mills South LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0136",
+      "file_name": "Burgess_unit number update.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Harmony Mills South LLC to Submeter Electricity at 90 State Street, Albany, Located in the Territory of Niagara Mohawk Power Corporation d/b/a National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D03A58D2-6010-4725-ADB8-54B7290215DA}",
+      "organization": "Harmony Mills South LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0136",
+      "file_name": "90 State St - Submetering Notice of Intent - final.pdf"
+    }
+  ]
+}

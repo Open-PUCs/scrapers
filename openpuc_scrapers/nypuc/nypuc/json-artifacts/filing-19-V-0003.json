@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71B95AA8-A2A7-40AE-A0F9-6A29115BE834}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0003",
+      "file_name": "668_19-V-0003.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={264E91C0-AE21-4819-828F-87A08603C7F5}",
+      "organization": "Atlantic Broadband (Penn), LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0003",
+      "file_name": "Salamanca Four Communities Letter to the NYPSC with Affidavit of Notice 2-4-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Atlantic Broadband (Penn), LLC for Approval of the Renewal of its Franchise with the Town of Great Valley, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B6C77F7-6BB7-4E23-94A2-7D10066A1CDB}",
+      "organization": "Atlantic Broadband (Penn), LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0003",
+      "file_name": "Town of Great Valley PSC Applicant packet 1-5-19.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0172",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/18/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={731A51DA-D47E-4838-A57B-6EBEDA403593}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0172",
+      "file_name": "437939_Acknowledgement Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/18/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB340FF3-E06F-4287-9A22-06909C567EA0}",
+      "organization": "Down Under Pubs, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0172",
+      "file_name": "437939_Appeal_Petition (002).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/18/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CA3C517-DB41-4C08-9E3D-5DAE5344E9AE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0172",
+      "file_name": "437939_IR.pdf"
+    }
+  ]
+}

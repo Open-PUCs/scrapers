@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0032",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60195093-0000-C01F-B8D7-4F7C1C6C813C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0032",
+      "file_name": "379_24-E-0032_112124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Nostrand Green LLC - NOI Application Package",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3041F58C-0000-CA38-9CB2-A486EACDD2B8}",
+      "organization": "Nostrand Green LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0032",
+      "file_name": "Nostrand Green LLC - NOI Application Package.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3041F58C-0000-C218-8294-37BE1911679B}",
+      "organization": "Nostrand Green LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0032",
+      "file_name": "Nostrand Green LLC - NOI Cover Letter.pdf"
+    }
+  ]
+}

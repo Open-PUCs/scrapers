@@ -1,0 +1,27 @@
+{
+  "case": "21-W-0625",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Cancellation of Statements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCE3C3A2-2DE3-4816-A48C-5BEC6F0C7862}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-W-0625",
+      "file_name": "461_21-W-0625.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/13/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Arrow Park, Inc",
+      "itemNo": "1",
+      "docket_id": "21-W-0625",
+      "file_name": ""
+    }
+  ]
+}

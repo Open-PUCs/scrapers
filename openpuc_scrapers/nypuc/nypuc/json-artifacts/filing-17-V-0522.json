@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0522",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDDF3EF4-9821-48EB-88EE-70D0ADCCCA9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0522",
+      "file_name": "661_17-V-0522.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1C5405A-3957-444C-91FE-01377736C925}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0522",
+      "file_name": "zitonewyorktownoflockeaffidavitofpublication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Wxhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={270045BB-0749-4577-8AA6-8B72E78F8F1C}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0522",
+      "file_name": "zitonewyorktownoflockeexhibitIII.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Zito New York, LLC for Approval of the Renewal of its Franchise with the Town of Locke, Cayuga County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A18300F-2E84-413A-84C4-2CD304CA2331}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0522",
+      "file_name": "zitonewyorktownoflockecoverletter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5B8D51B-2199-4D20-82E0-DC1729F46A07}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0522",
+      "file_name": "zitonewyorktownoflockeexhibitIV.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FE34113-EE12-40B3-98DC-70AC8AF3D062}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0522",
+      "file_name": "zitonewyorktownoflockeexhibitII.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73049166-0FA4-48AC-AA85-A51730DF3CC1}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0522",
+      "file_name": "zitonewyorktownoflockeexhibitI.pdf"
+    }
+  ]
+}

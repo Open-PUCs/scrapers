@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0068",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/30/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F95614A5-7ACB-4690-8441-D0A3690E99B7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0068",
+      "file_name": "661_20-V-0068.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Holley, Orleans County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0EFC5572-6418-4AF6-A4A9-89E4D80424FE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0068",
+      "file_name": "V. HOLLEY RENEWAL SUBMISSION TO PSC 020720.pdf (1 MB)"
+    }
+  ]
+}

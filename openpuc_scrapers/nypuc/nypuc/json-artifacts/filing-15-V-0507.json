@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0507",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={412F6224-9783-4C40-B62B-EFD74344EF44}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0507",
+      "file_name": "663_15V0507.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/27/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Bridgewater, Oneida County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F91F1292-B56F-46DD-A906-00E7FB960FE0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0507",
+      "file_name": "08272015 submission to psc.pdf"
+    }
+  ]
+}

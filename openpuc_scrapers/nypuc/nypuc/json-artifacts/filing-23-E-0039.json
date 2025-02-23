@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0039",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/04/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Meter Test Plan for 131-02A, 13 1-02B 4Oth Road, Flushing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10965792-0000-CC1C-A5D9-D4BC0738B4DB}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "23-E-0039",
+      "file_name": "in-service meter test plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1043B689-0000-C01C-91A6-505B4D384126}",
+      "organization": "Flushing Point Property LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0039",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B38889-0000-CF1E-9730-C58696E9EAB4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0039",
+      "file_name": "370_23-E-0039 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4026A486-0000-C219-AD6E-12DC3DCB9709}",
+      "organization": "Flushing Point Property LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0039",
+      "file_name": "response letter (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Flushing Point Property LLC. to submeter electricity at a building complex at 131-02A, 131-02B, 40th Road, Flushing. New York, in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CC69B9D-C669-46F0-8A76-12236DC4B3D8}",
+      "organization": "Flushing Point Property LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0039",
+      "file_name": "submetering application (7).pdf"
+    }
+  ]
+}

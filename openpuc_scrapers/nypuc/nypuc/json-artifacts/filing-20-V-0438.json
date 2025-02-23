@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0438",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={454AF17D-2827-4BD5-808A-23C3DFC0E983}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-V-0438",
+      "file_name": "664_20-V-0438 NegDec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4E7632E-688A-4FF3-B807-60C3A282587F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0438",
+      "file_name": "664_20-V-0438 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "20-V-0438 Town of Hope SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F658F5C-F347-4C93-98AF-3D196325CD0E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-V-0438",
+      "file_name": "20-V-0438 Town of Hope SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/08/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Filing of Correction and Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D444DCF-6BA1-49BF-BE24-5C37314AE010}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "20-V-0438",
+      "file_name": "2020.10.08-2 T. Hope Add'l filing to Case 20-V-0438.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for a Certificate of Confirmation for its Franchise with the Town of Hope, Hamilton County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D892FF44-E2A3-432B-B2E5-FEC5FB45FAB4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0438",
+      "file_name": "2020.08.31 T. HOPE INITIAL FILING FOR CERT OF CONFIRMATION.pdf"
+    }
+  ]
+}

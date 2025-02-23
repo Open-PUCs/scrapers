@@ -1,0 +1,49 @@
+{
+  "case": "15-E-0462",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2015",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of a Merger Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={593BF4C0-E75F-47FE-B8DF-45A5533F0784}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-E-0462",
+      "file_name": "364_15e0462.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0FAC2AA-840E-42CC-BADC-78F026D5FEAB}",
+      "organization": "New Athens Generating Co.,LLC",
+      "itemNo": "2",
+      "docket_id": "15-E-0462",
+      "file_name": "Case 15-E-0462 MACH Gen LLC Request for Exception from Disclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of MACH Gen, LLC; New MACH Gen, LLC; Silver Oak Capital, LLC, and New Athens Generating Company, LLC for a Declaratory Ruling.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A16BF66-1C1A-4C46-A71C-94ECE2829F8D}",
+      "organization": "MACH Gen, LLC, New Athens Generating Co.,LLC, New MACH Gen, LLC, Silver Oak Capital, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0462",
+      "file_name": "Petition of MACH Gen, LLC, et al_.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter to MACH Gen, LLC, et al Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6E2177F-E58A-4EB3-8D34-410E9741346A}",
+      "organization": "MACH Gen, LLC, New Athens Generating Co.,LLC, New MACH Gen, LLC, Silver Oak Capital, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0462",
+      "file_name": "Cover Letter to MACH Gen, LLC, et al Petition.pdf"
+    }
+  ]
+}

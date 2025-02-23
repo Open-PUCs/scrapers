@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0061",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03D934CC-A2AA-41C7-93B4-1A23693CEDC0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0061",
+      "file_name": "663_21-V-0061 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Addition to Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD2A9CAB-807C-4A76-9CFC-E33CC62C635E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0061",
+      "file_name": "01.22.21 - Matter 21-00113 - T. Andover Add'l Filing -PH Date.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Andover, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98DA5C83-926A-480A-A463-7B18E6FD14B5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0061",
+      "file_name": "2021.01.20 T. ANDOVER RENEWAL TO PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0147",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9ADF418-0ECA-4DBC-84E2-62462FE1CA5B}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-G-0147",
+      "file_name": "162-C_21-G-0147 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23DFC833-377D-4027-A99D-888934EFFAD8}",
+      "organization": "Titan Drilling Specialists, Inc.",
+      "itemNo": "5",
+      "docket_id": "21-G-0147",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={287FE083-5F68-4524-90EE-E83F2977B02F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0147",
+      "file_name": "162-A_21-G-0147.pdf"
+    }
+  ]
+}

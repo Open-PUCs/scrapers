@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0137",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D65090-0000-CE1A-89AD-9DC48EDE726A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0137",
+      "file_name": "377_24-E-0137_62524final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "471839 SMR Ack Letter Singh_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={303CFC8D-0000-C013-A2E6-8146D2654BC1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0137",
+      "file_name": "471839 SMR Ack Letter Singh_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "417839 SMR Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={003BFC8D-0000-CE16-9A9F-1C855BD03792}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0137",
+      "file_name": "417839 SMR Request_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "245159_Rampersad_SMD_Final_02272024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4037FC8D-0000-CE1C-8AAA-74F99AD85A5C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0137",
+      "file_name": "245159_Rampersad_SMD_Final_02272024 (1)_Redacted.pdf"
+    }
+  ]
+}

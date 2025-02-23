@@ -1,0 +1,38 @@
+{
+  "case": "20-T-0437",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/30/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Karla Corpus Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0C3A761-6FC8-4CD0-B4FB-3062CB2068BD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-T-0437",
+      "file_name": "20-T-0437 Hook Road - Elbridge Part 102 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of the Part 102 Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the Hook Road \u00bf Elbridge #7 115kV Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FA24132-6970-429E-8F35-B5B25296F311}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0437",
+      "file_name": "National Grid- Hook Road- Elbridge #7 Conductor Clearance Refurbishment Project-Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/01/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={955A5B41-2BFE-4C6F-A6BA-F25B43273B0A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0437",
+      "file_name": "National Grid -- Hook Road-Elbridge #7 CCR Part 102 -- Karla Corpus Cover Letter.pdf"
+    }
+  ]
+}

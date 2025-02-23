@@ -1,0 +1,49 @@
+{
+  "case": "24-G-0185",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={503DA18F-0000-CD7A-961C-0477B3658FC8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-G-0185",
+      "file_name": "161_24-G-0185.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240329 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4091EC8E-0000-C037-BD5B-B979CBD6D3EE}",
+      "organization": "NISI Building & Remodeling, Corp.",
+      "itemNo": "3",
+      "docket_id": "24-G-0185",
+      "file_name": "20240329 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240205 - Payment - Return Letter - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4091EC8E-0000-CB12-89F5-EFD64C8617DD}",
+      "organization": "NISI Building & Remodeling, Corp.",
+      "itemNo": "3",
+      "docket_id": "24-G-0185",
+      "file_name": "20240205 - Payment - Return Letter - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240205 - Payment - Return $2,500 Payment Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80CE7F8D-0000-C01D-8CC0-878D7A6814AD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0185",
+      "file_name": "20240205 - Payment - Return $2,500 Payment Letter.pdf"
+    }
+  ]
+}

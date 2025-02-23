@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0225",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Merriam Ave Assoc Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A002A78F-0000-CC17-98AD-81278E7D3C1C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0225",
+      "file_name": "24-G-0225 Con Edison Response to Merriam Ave Assoc Appeal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50525D8F-0000-CF3C-A2A5-D7A06A3DD61F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-G-0225",
+      "file_name": "24-G-0225 - Con Edison Appeal Ext. Ruling 5.8.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70FF538F-0000-CA1D-A224-7473D755189F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0225",
+      "file_name": "24-G-0225 Extension Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 04 08 DPS - Acknowledgment Scheduling Letter #160614 _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={504BC48E-0000-C136-A8D8-199564AD120B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0225",
+      "file_name": "2024 04 08 DPS - Acknowledgment Scheduling Letter - Merriam v ConEd #160614 (FINAL)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 04 08 Appeal of Informal Decision (#160614)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3049C48E-0000-CD33-9C73-DA3F93FA365A}",
+      "organization": "Merriam Ave Associates LP",
+      "itemNo": "2",
+      "docket_id": "24-G-0225",
+      "file_name": "2024 04 08 Appeal of Informal Decision (#160614)_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 04 02 Informal Hearing Decision #160614_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6047C48E-0000-C230-82AD-9F2D37AE5773}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0225",
+      "file_name": "2024 04 02 Informal Hearing Decision #160614_Redacted.pdf"
+    }
+  ]
+}

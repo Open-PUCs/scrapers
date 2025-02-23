@@ -1,0 +1,93 @@
+{
+  "case": "23-G-0123",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "EMNO 5 Canterbury Lane Delmar",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80861A8E-0000-CB1B-B42B-397345F46A93}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-G-0123",
+      "file_name": "EMNO 5 Canterbury Lane Delmar.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109EBE87-0000-C112-8778-7DE3B6D1D52A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0123",
+      "file_name": "162-A_23-G-0123 23-G-0124 final 4.26.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "20220425 Response to NOPV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={603F1A8E-0000-CD19-BB3B-7AB0A5C50505}",
+      "organization": "753 Respondents",
+      "itemNo": "2",
+      "docket_id": "23-G-0123",
+      "file_name": "20220425 Response to NOPV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Notices",
+      "name": "20220124 NOPV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703F1A8E-0000-CC2C-995B-D5F953330FF8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0123",
+      "file_name": "20220124 NOPV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "753 Evidence",
+      "name": "20211001 Staff Photos",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703F1A8E-0000-C244-8017-A89EA70B63B1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0123",
+      "file_name": "20211001 Staff Photos.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Reports",
+      "name": "20211001 Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703F1A8E-0000-CE6A-B8EA-E7497D111C91}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0123",
+      "file_name": "20211001 Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Reports",
+      "name": "20211001 Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703F1A8E-0000-C88D-9F25-11C921B813C9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0123",
+      "file_name": "20211001 Origin of Investigation.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Citation",
+      "name": "20210927 Citation (#8506)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={803F1A8E-0000-C618-99ED-C3BDCE22AB8C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0123",
+      "file_name": "20210927 Citation.pdf"
+    }
+  ]
+}

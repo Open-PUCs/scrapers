@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0425",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={105A1F92-0000-C210-9D77-8E3CBC6B5868}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0425",
+      "file_name": "661_24-V-0425.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C001C190-0000-CD37-A5DD-F20CBCFF6FE2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0425",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Parma 7.17.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B001C190-0000-CE17-B485-156D4EECBB98}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0425",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Parma 7.17.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Parma Request for Renewal and Certificate of Confirmation(redacted) 07.17.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C001C190-0000-C87D-BB06-DB3E6BAF28F4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0425",
+      "file_name": "Charter Communications, T. Parma Request for Renewal and Certificate of Confirmation(redacted) 07.17.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Parma Cover Letter- Request for Renewal and Certificate of Confirmation 07.17.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C001C190-0000-CA52-816E-A4A991C291C2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0425",
+      "file_name": "Charter Communications, T. Parma Cover Letter- Request for Renewal and Certificate of Confirmation 07.17.24.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0422",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Modifying Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0D0A092-0000-CA1E-93FF-C555A1BBBC39}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0422",
+      "file_name": "380_24-E-0422_101824final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition - Modification of Financing Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30B8C090-0000-C72A-8B84-8DDB04021D76}",
+      "organization": "Greenbacker Renewable Energy Corporation, Hecate Energy Cider Solar LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0422",
+      "file_name": "Cider Solar - Verified Joint Petition - Modification of Financing Approval (24-E-XXXX).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B8C090-0000-C81B-95BA-A8EEAFDFEE8E}",
+      "organization": "Greenbacker Renewable Energy Corporation, Hecate Energy Cider Solar LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0422",
+      "file_name": "Cider Solar - Cover Letter - Joint Petition for Modification.pdf"
+    }
+  ]
+}

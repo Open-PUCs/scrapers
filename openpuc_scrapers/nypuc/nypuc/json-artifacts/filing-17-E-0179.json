@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0179",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29B4EE9D-E54F-4B85-BF4E-1D1F609DF51B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "17-E-0179",
+      "file_name": "Case 17-E-0179 - Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F7AB86E-F609-4F45-8BB8-396BC9E98DF9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0179",
+      "file_name": "376 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2A37DA8-CFA5-412F-B5CA-741640EC6309}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0179",
+      "file_name": "376 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2254B762-C0C2-4B98-BC27-02A5567DE716}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0179",
+      "file_name": "Rauch Ack Letter 633178 (002)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/30/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7D37C68-4E6B-48F7-B124-444EF16ACFE8}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "17-E-0179",
+      "file_name": "Case No. 633178 - National Grid Appeal.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35EA99B2-F4B9-4E92-89CD-BD27CC959C87}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0179",
+      "file_name": "Case 633178 Martin Rauch IH Decision (002)_Redacted.pdf"
+    }
+  ]
+}

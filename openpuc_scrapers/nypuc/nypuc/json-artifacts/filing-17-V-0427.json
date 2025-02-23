@@ -1,0 +1,93 @@
+{
+  "case": "17-V-0427",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D87B671F-FE87-48B9-81D4-35C681C429A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-V-0427",
+      "file_name": "663_17-V-0427.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F4FF72E-2ADB-47C6-B5A9-1FD1ACC64F6E}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "5",
+      "docket_id": "17-V-0427",
+      "file_name": "zitonewyorktownofgenoaaffidavitofpublication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FDFB0BB-AD3D-4D0B-B97F-CCAA8D112A79}",
+      "organization": "Town of Genoa",
+      "itemNo": "2",
+      "docket_id": "17-V-0427",
+      "file_name": "Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "zitonewyorktownofgenoaexhibitIII",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3BBB88B-1725-489C-886F-4BCCE757E5A6}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0427",
+      "file_name": "zitonewyorktownofgenoaexhibitIII.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "zitonewyorktownofgenoaexhibitII",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB1EAC40-C9A1-48DF-9DD8-658B9FD632CD}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0427",
+      "file_name": "zitonewyorktownofgenoaexhibitII.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "zitonewyorktownofgenoaexhibitI",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={859CB143-BE70-48D0-9212-324E274436C2}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0427",
+      "file_name": "zitonewyorktownofgenoaexhibitI.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Zito New York, LLC for Approval of the Renewal of its Franchise with Town of Genoa, Cayuga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF504278-C9A1-4972-B3AC-A633949CD025}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0427",
+      "file_name": "zitonewyorktownofgenoaexhibitIV.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0EEA0E77-6143-4355-AA39-B50178CC8BC0}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0427",
+      "file_name": "zitonewyorktownofgenoacoverletter.pdf"
+    }
+  ]
+}

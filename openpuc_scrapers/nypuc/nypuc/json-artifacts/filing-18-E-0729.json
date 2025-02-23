@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0729",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01D877D0-7E49-40DF-A57D-C0FB1ECB2A8C}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0729",
+      "file_name": "362 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B043584E-C2B0-4765-A080-A8C5AC9A0767}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0729",
+      "file_name": "362 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/28/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={612534ED-08F7-4B88-8ADA-936F597C49AA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0729",
+      "file_name": "711984 Gottlieb - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/28/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={379902D0-6B77-4D32-9A80-A77C28559A7E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-E-0729",
+      "file_name": "Gottlieb Appeal - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/28/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A6AB458-9476-4F84-A954-AA1CFDE4465B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0729",
+      "file_name": "Case 711984 Gottlieb Closing decision - Redacted.pdf"
+    }
+  ]
+}

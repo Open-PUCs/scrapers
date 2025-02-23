@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0575",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007D928C-0000-C01C-8931-026AA2431D38}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0575",
+      "file_name": "662_23-V-0575 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={607FFC8A-0000-CA3B-9C06-FA9541DF2F0A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0575",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Whitesboro 10.4.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={507FFC8A-0000-C711-AE7D-E2B0ECB8FF59}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0575",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Whitesboro 10.4.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Whitesboro-Request for Renewal and Certificate of Confirmation (redacted) 10.4.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={607FFC8A-0000-CA7F-97E7-0913BE4545B0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0575",
+      "file_name": "Charter Communications, V. Whitesboro-Request for Renewal and Certificate of Confirmation (redacted) 10.4.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Whitesboro-Cover Letter-Request for Renewal and Certificate of Confirmation 10.4.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={607FFC8A-0000-C151-BDAC-6C53CD87FF36}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0575",
+      "file_name": "Charter Communications, V. Whitesboro-Cover Letter-Request for Renewal and Certificate of Confirmation 10.4.23.pdf"
+    }
+  ]
+}

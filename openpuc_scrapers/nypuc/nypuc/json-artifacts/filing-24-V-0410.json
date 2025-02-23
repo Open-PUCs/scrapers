@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0410",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0541F92-0000-CF1E-8D41-F56967438F0F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0410",
+      "file_name": "661_24-V-0410.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F99C90-0000-C756-AF8F-BD09998CDA4C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0410",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Floyd 7.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F99C90-0000-C11A-AD4A-4693C42500E2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0410",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Floyd 7.10.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications-T. Floyd Request for Renewal and Certificate of Confirmation(redacted)7.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F99C90-0000-C594-AE3D-18BA40DA17BF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0410",
+      "file_name": "Charter Communications-T. Floyd Request for Renewal and Certificate of Confirmation(redacted)7.10.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Floyd-Cover Letter-Request for Renewal and Certificate of Confirmation 7.10.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F99C90-0000-C677-9880-DDE31E307D36}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0410",
+      "file_name": "Charter Communications, T. Floyd-Cover Letter-Request for Renewal and Certificate of Confirmation 7.10.24.pdf"
+    }
+  ]
+}

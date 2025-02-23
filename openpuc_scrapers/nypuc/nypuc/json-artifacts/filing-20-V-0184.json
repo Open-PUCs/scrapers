@@ -1,0 +1,82 @@
+{
+  "case": "20-V-0184",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAD7ED53-45B9-4537-9F09-82D5A93739D0}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0184",
+      "file_name": "20-V-0184-Verizon-Case Closure Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4501939-F4A1-445B-9539-3D45B555EA2C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "20-V-0184",
+      "file_name": "210415 VZ Letter re Matter 19-00693.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D0CCB7E-7625-4D93-88CA-C6CED6CE1834}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0184",
+      "file_name": "200916 VZ Letter re 192 Spencer St (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B647689-0212-4355-887B-2E0AE6C1D18E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0184",
+      "file_name": "19-00693 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 192 Spencer Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA2709DE-9F7A-4F6C-A1D7-FD6518E0B2D1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0184",
+      "file_name": "Petition (192 Spencer St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F836DD03-AC4A-459D-937B-E947DB247807}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0184",
+      "file_name": "Exhibit 2 (192 Spencer St).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABD912F4-F018-45F6-8B63-89878415269D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0184",
+      "file_name": "Exhibit 1 (192 Spencer St).pdf"
+    }
+  ]
+}

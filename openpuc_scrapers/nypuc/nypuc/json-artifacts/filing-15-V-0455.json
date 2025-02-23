@@ -1,0 +1,38 @@
+{
+  "case": "15-V-0455",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B38C006-44EE-4AD1-B89A-E62060C4DD08}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0455",
+      "file_name": "663_15V0455.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/04/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "REVISED Renewal of Cable Franchise Submitted on behalf of - Time Warner Cable/Town of Avon",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={898F2435-41D7-4416-A7AF-87D4C656F37F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "15-V-0455",
+      "file_name": "AVON, TOWN RENEWAL DOCS FOR PSC, 07.31.15, Re-Submitted 08.03.15.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Avon, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EA4D3AA-CDCF-4AE3-AE36-1E0F974BC3C9}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0455",
+      "file_name": "AVON, TOWN RENEWAL DOCS FOR PSC, 07.31.15.pdf"
+    }
+  ]
+}

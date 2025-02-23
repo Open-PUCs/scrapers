@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0660",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD6A72E9-28D8-4922-ADD9-A3D3200162A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "17-V-0660",
+      "file_name": "17-V-0660 Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20D2825B-D10A-40D0-8B0F-3F63E5780F88}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-V-0660",
+      "file_name": "664_17-V-0660.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/15/2018",
+      "nypuc_doctype": "Letters",
+      "name": "17-V-0660.Signed EAF Hilltop Communications.Town of Gallatin",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3C66C60-066C-4CF2-BBBD-81DBB194A3BA}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "5",
+      "docket_id": "17-V-0660",
+      "file_name": "17-V-0660.Signed EAF Hilltop Communications.Town of Gallatin.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9388852A-E631-4086-870A-FBDF20F70E87}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0660",
+      "file_name": "Case 17-V-0660 Town of Gallatin.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E90B5B07-D2A6-4FDC-A945-611E78F91D28}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-V-0660",
+      "file_name": "Case 17-V-0660 searchable.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/02/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Hilltop Communications, Inc. for a Certificate of Confirmation for its Franchise with the Town of Gallatin, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77D6B1EC-FA04-4CAF-A425-47D12199CFE7}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0660",
+      "file_name": "Town of Gallatin Franchise Agreement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Hilltop Communications, Inc. for a Certificate of Confirmation for its Franchise with the Town of Gallatin, Columbia County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4F043C2-EE18-41B9-A2FA-DD1F6CDFAAD5}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0660",
+      "file_name": "Letter of Intent.pdf"
+    }
+  ]
+}

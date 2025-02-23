@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0252",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F8E235-C5B7-430C-B839-7A275DF79AAA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0252",
+      "file_name": "663_20-V-0252 Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Hurley, Ulster County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8800E815-43C4-41EE-9ED9-C70586D91B4F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0252",
+      "file_name": "06.03.20 T. HURLEY RENEWAL FILING - PSC.pdf (2 MB)"
+    }
+  ]
+}

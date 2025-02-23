@@ -1,0 +1,104 @@
+{
+  "case": "20-E-0081",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/30/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Compliance 839856 Berkowitz",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7D20543-2FE1-471D-ACE4-D69443974FC4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "20-E-0081",
+      "file_name": "20-E-0081 Con Edison Compliance 839856 Berkowitz.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/23/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D852D4B-9600-4F2C-BB29-BD3F1BC1D3DD}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "20-E-0081",
+      "file_name": "370_20-E-0081 Determination final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF6C058B-B4EA-4E0E-8CB0-91637B00D5D9}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0081",
+      "file_name": "370_20-E-0081 Letter final_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C8C30BA-DBA8-4038-B3B3-F44D47915BF5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "20-E-0081",
+      "file_name": "839856 Berkowitz ack_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5416D4EF-E930-4D0A-8733-3324599B7D31}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "20-E-0081",
+      "file_name": "Berkowitz Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E751E5C-DE27-4936-B713-9EA111BB44DF}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "20-E-0081",
+      "file_name": "Berkowitz IH Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F8491E3-95B7-4922-9930-C37DBAE149AE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0081",
+      "file_name": "839856-Berkowitz-Extension Ruling_Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E395C317-FF26-4811-B893-9907F08DCBBE}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-E-0081",
+      "file_name": "Berkowitz Extension Request.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7B3F2D9-C2B5-4B00-9453-9C5D3A6E6741}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0081",
+      "file_name": "IH Case 839856 (Berkowitz-PULP vs Con Edison) closing decision_Redacted.pdf"
+    }
+  ]
+}

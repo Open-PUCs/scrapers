@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0364",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40A4F604-B293-4997-8C5A-70CC104ECB44}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0364",
+      "file_name": "661_17-V-0364.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Celoron, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75D2BA90-4E5A-40B7-A694-18B67BE01B9C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0364",
+      "file_name": "06.26.17 - V.CELORON RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

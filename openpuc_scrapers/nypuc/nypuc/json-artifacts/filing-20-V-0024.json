@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0024",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87A2CC72-81A0-41DF-B053-DAF7B6BD9553}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0024",
+      "file_name": "661_20-V-0024 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "In the matter of application of Spectrum Northeast, LLC locally known as Charter Communications for renewal of its Certificate of Confirmation and Cable Television Franchise in the VILLAGE OF NELLISTON, County of Montgomery, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89B80295-32D8-46EB-AFB0-6AFF2DD90966}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0024",
+      "file_name": "VNellistonNY PSC franchise renewal searchable.pdf"
+    }
+  ]
+}

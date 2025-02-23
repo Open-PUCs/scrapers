@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0484",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/13/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Adam T. Conway, Esq. Acknowledging Withdrawal and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64D3DB73-E30B-48AC-B211-A22E2F706369}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0484",
+      "file_name": "18-E-0484-LakeAvePlaza-Case Closure Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45A7D415-2310-4746-9A08-501E263410AB}",
+      "organization": "Lake Ave Plaza, LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0484",
+      "file_name": "Letter Requesting Withdrawal of Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Lake Ave Plaza, LLC to Submeter Electricity at 30 Lake Avenue, Saratoga Springs, New York Located in the Territory of Niagara Mohawk Power Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B54EFB-24FC-4049-AEBC-CB7026B5B516}",
+      "organization": "Lake Ave Plaza, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0484",
+      "file_name": "Submetering Petition - Pavilion Grand Hotel_FINAL.pdf"
+    }
+  ]
+}

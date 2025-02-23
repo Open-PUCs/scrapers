@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0451",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCDE3730-6463-4906-B0D4-3D31ED607AB8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0451",
+      "file_name": "661_20-V-0451 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2020.09.10 T. Meredeth Renewal - Filed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D347E0C-3485-4519-8CB5-5B2549A28998}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0451",
+      "file_name": "2020.09.10 T. Meredeth Renewal - Filed.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "16-C-0008",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Completed Transfers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3571E953-2C57-4B33-8EAE-41B551298C25}",
+      "organization": "Cornerstone Telephone Company, LLC, Public Interest Network Services, Inc., X5 OpCo LLC",
+      "itemNo": "5",
+      "docket_id": "16-C-0008",
+      "file_name": "Notice of Completed Transfers.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "X5 OpCo LLC Transaction Consumation and Service Initiation Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60A8BCEC-58B7-41C3-B2C4-913CF2BABD37}",
+      "organization": "X5 OpCo LLC",
+      "itemNo": "4",
+      "docket_id": "16-C-0008",
+      "file_name": "X5 OpCo LLC Transaction Consumation and Service Initiation Notification.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Assets",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A68DF2F-6DB6-4201-8EDD-523585BF2630}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-C-0008",
+      "file_name": "565_16c0008.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/10/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "X5 OpCo LLC CornerStone Telephone Company LLC Amendment to Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={440C0F55-4B8B-4155-8978-7AAE4473C2A1}",
+      "organization": "X5 OpCo LLC",
+      "itemNo": "2",
+      "docket_id": "16-C-0008",
+      "file_name": "X5 OpCo LLC CornerStone Telephone Company LLC Amendment to Joint Petition Case No. 15-02571 12.10.15.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/10/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment to Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9B0E1E1-59E9-4E7F-89DF-E1FED3A90B6E}",
+      "organization": "X5 OpCo LLC",
+      "itemNo": "2",
+      "docket_id": "16-C-0008",
+      "file_name": "X5 OpCo LLC New York Amended Joint Petition Transmittal Case No. 15-02571 12.10.15.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "X5 OpCo LLC Cornerstone Telephone Company, LLC New York Asset Transfer Joint Petition 12.7.15",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={619D70CF-C0E2-4DD2-A4FD-169753A20A84}",
+      "organization": "Cornerstone Telephone Company, LLC, Public Interest Network Services, Inc., X5 OpCo LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0008",
+      "file_name": "X5 OpCo LLC Cornerstone Telephone Company, LLC New York Asset Transfer Joint Petition 12.7.15.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of X5 OpCo LLC, Assignee and Cornerstone Telephone Company, LLC and Public Interest Network Services, Inc., Assignors for Approval for Assignee to Acquire All Regulated Telecommunications Assets Including Assignor Subscribers in New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6980360C-F3E6-4AA7-AC4E-9EB2C21B21A9}",
+      "organization": "Cornerstone Telephone Company, LLC, Public Interest Network Services, Inc., X5 OpCo LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0008",
+      "file_name": "X5 OpCo LLC Cornerstone Telephone Company, LLC New York Asset Transfer Transmittal 12.7.15.pdf"
+    }
+  ]
+}

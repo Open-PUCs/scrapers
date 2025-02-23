@@ -1,0 +1,49 @@
+{
+  "case": "17-V-0469",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A27B8DE4-114A-4849-A11B-B09E3CBA338C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-V-0469",
+      "file_name": "661_17-V-0469.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "17-V-0469 Sparta Letter explaining date of PH for PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB4DEAC4-C795-4D84-BDF0-CDFF3B5943CB}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "17-V-0469",
+      "file_name": "17-V-0469 Sparta Letter explaining date of PH for PSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/26/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "17-V-0469 March_16_2017_minutes Sparta Town",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F957DB93-70F5-490F-9421-EF2FAE06BFA7}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0469",
+      "file_name": "17-V-0469 March_16_2017_minutes Sparta Town.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Sparta, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA8E8003-9B20-4225-BBBD-7C6A62F07238}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0469",
+      "file_name": "08.02.17 - SPARTA, TOWN RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

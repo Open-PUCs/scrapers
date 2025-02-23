@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0581",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Kara J. Krueger, Esq. from Secretary Phillips Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC719989-DE18-4103-8E21-9BD66FC15937}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0581",
+      "file_name": "21-G-0581-Nat. Grid-Closing Ltr. 12.15.21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid Waiver Withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={469C7E46-964A-4D35-8256-EE733609309E}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "2",
+      "docket_id": "21-G-0581",
+      "file_name": "Case 21-G-0581 - National Grid Waiver Withdrawal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/03/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid Waiver and Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C08BC8D-1558-422F-A391-2C97598BA9AB}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "21-G-0581",
+      "file_name": "Case 21-G-XXXX - National Grid Waiver and Extension Request.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "18-E-0273",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated Submeter Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6040B28C-0000-CD1C-93BB-C4EC1766B9FA}",
+      "organization": "Oskar",
+      "itemNo": "8",
+      "docket_id": "18-E-0273",
+      "file_name": "Submetering id form- 572 11th ave.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice to Residents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05F80BE-A7FC-40F3-B4EE-2AAA448C024B}",
+      "organization": "Mezuyon LLC",
+      "itemNo": "7",
+      "docket_id": "18-E-0273",
+      "file_name": "compliance letter 3-13-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 572 11th Avenue, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A91287E-D850-448F-9914-5052AA21CFF9}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "18-E-0273",
+      "file_name": "compliance letter 1-8-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C3C302E-FE78-4E99-B6AF-07BA383FA3C9}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0273",
+      "file_name": "367_18-E-0273.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/22/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE8493C8-E1E7-470F-9844-12C79DD06237}",
+      "organization": "Mezuyon LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0273",
+      "file_name": "response letter 8-21-18.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E38B816A-75D6-4CB8-BDFB-B3BC7BC8E233}",
+      "organization": "Mezuyon LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0273",
+      "file_name": "response letter 8-8-18.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/17/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8635EDE7-79D6-41F6-8236-8528C0DE1DB2}",
+      "organization": "Mezuyon LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0273",
+      "file_name": "response letter 5-16-18.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/08/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of intent of Mezuyon LLC to Submeter Electricity at 572 11th Avenue, New York in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9966642C-27A4-4334-9BDA-4E3244B79CA8}",
+      "organization": "Mezuyon LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0273",
+      "file_name": "submetering application 5-8-18.pdf"
+    }
+  ]
+}

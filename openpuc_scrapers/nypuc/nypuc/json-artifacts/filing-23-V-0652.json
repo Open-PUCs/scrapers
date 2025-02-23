@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0652",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00A1378D-0000-C31A-864E-6A837C7D9785}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0652",
+      "file_name": "661_23-V-0652 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06F8C8B-0000-C139-B28C-9E3C96ADE8C9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0652",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/01/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Cape Vincent 11.1.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06F8C8B-0000-C416-9112-07D83D5500AF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0652",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Cape Vincent 11.1.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/01/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Cape Vincent-Request for Renewal and Certificate of Confirmation(redacted)11.1.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06F8C8B-0000-CD7A-9D60-63929E4B220D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0652",
+      "file_name": "Charter Communications, T. Cape Vincent-Request for Renewal and Certificate of Confirmation(redacted)11.1.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/01/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Cape Vincent-Cover Letter-Request for Renewal and Certificate of Confirmation 11.1.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06F8C8B-0000-CB59-8883-D7B7FD5FE561}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0652",
+      "file_name": "Charter Communications, T. Cape Vincent-Cover Letter-Request for Renewal and Certificate of Confirmation 11.1.23.pdf"
+    }
+  ]
+}

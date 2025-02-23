@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0001",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/02/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Halletts Building 1 SPE LLC, Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD819BD8-DC64-4A65-8D3B-112C975F947A}",
+      "organization": "Halletts Building 1 SPE LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0001",
+      "file_name": "Order Certification.Halletts 1.as filed.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE99E3A9-D03C-409B-AE95-EC9B89EB983A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0001",
+      "file_name": "365_18-E-0001.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/23/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DFCDDE3-5701-42D2-A556-9DD120625DF0}",
+      "organization": "Halletts Building 1 SPE LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0001",
+      "file_name": "Staff Questions_4.23.18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/02/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of Halletts Building 1 SPE LLC to Submeter Electricity at 1-02 26th Avenue, Queens, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44D3BCA5-201A-46EA-AF8B-6F84FEDEB664}",
+      "organization": "Halletts Building 1 SPE LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0001",
+      "file_name": "Submetering Notice of Intent_1 Halletts Point.FINAL.pdf"
+    }
+  ]
+}

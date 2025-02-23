@@ -1,0 +1,38 @@
+{
+  "case": "23-G-0707",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240219 - Payment - $10,000 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={006A0A8E-0000-CA1D-9628-AB0F2A0538BF}",
+      "organization": "Wonderland Tree Care, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-G-0707",
+      "file_name": "20240219 - Payment - $10,000 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30B5418D-0000-C11C-9281-84429650859B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0707",
+      "file_name": "161-A_23-G-0707.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/01/2023",
+      "nypuc_doctype": "Reports",
+      "name": "20231201 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40BF268C-0000-C31F-8B87-E12D9D049B3B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0707",
+      "file_name": "20231201 - Staff Investigative Report.pdf"
+    }
+  ]
+}

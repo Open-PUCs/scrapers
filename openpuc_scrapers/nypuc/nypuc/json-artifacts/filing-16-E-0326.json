@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0326",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess granting withdrawal of Notice of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BCA69E2-2ED2-4AE1-815B-4378060A520F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0326",
+      "file_name": "16-E-0326-Walnut Ave.Homes-Close-Out Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77BEC5A1-2C03-42B7-A7D6-4039FA3464EA}",
+      "organization": "Walnut Avenue Homes, LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0326",
+      "file_name": "Case 16-E-0326 Letter Cancelling Submetering Petition (7-31-17).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/27/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Provide Data Logging in Lieu of Submetering for Electricity at 607 Walnut Avenue, Niagara Falls, New York 14301, Located in the Territory of National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03FEB310-A49D-4FE5-A8C4-586EE45CDBF1}",
+      "organization": "Walnut Avenue Homes, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0326",
+      "file_name": "607 Walnut Avenue Data Logger Petition (6-27-16).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/27/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Provide Data Logging in Lieu of Submetering for Electricity at 607 Walnut Avenue, Niagara Falls, New York 14301, Located in the Territory of National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={542AA377-8250-4F1F-AF9D-C9D2B3E925E6}",
+      "organization": "Walnut Avenue Homes, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0326",
+      "file_name": "607 Walnut Avenue Data Logger Petition (5-27-16).pdf"
+    }
+  ]
+}

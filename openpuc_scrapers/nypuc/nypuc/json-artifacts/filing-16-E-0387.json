@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0387",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5BE3CBB-1491-4B57-92B5-2756752307AF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0387",
+      "file_name": "364_16-E-0387.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Flushing Commons Property Owner, LLC to Submeter Electricity at 138-35 39th Avenue, Flushing, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D45F88AD-2E7D-4605-AC4C-21C29E7EFD82}",
+      "organization": "Flushing Commons Property Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0387",
+      "file_name": "submetering application 6-27-16.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0669",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CA5009D-0048-4F11-A4BD-D0724594AE4D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0669",
+      "file_name": "363_16-E-0669.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/26/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02E8B4A2-3560-4297-8E5F-FBCCF1FB24FA}",
+      "organization": "One West End Avenue Condominium",
+      "itemNo": "2",
+      "docket_id": "16-E-0669",
+      "file_name": "additional information 1-25-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of One West End Condominium to Submeter Electricity at 1 West End Avenue, New York, NY 10023 Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F456EDC0-4AD1-42D2-9543-3F89A9FC56BA}",
+      "organization": "One West End Avenue Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0669",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

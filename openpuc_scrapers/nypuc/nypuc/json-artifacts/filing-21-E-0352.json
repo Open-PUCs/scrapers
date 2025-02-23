@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0352",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/06/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16F82A5C-3EEC-4F20-99E3-7536E42EA64C}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0352",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/06/2022",
+      "nypuc_doctype": "Motions",
+      "name": "2022-05-06 NYSEG & Town of Horseheads Street Lighting Final Journal Entry - TS Letter (21-E-0352)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DF9FE2A-19D4-42FB-B9B5-01CF377AF747}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0352",
+      "file_name": "2022-05-06 NYSEG & Town of Horseheads Street Lighting Final Journal Entry - TS Letter (21-E-0352).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/06/2022",
+      "nypuc_doctype": "Workpapers",
+      "name": "2022-05-06 NYSEG & Town of Horseheads Street Lighting Final Journal Entry - PUBLIC (21-E-0352)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5358E612-58E2-47D1-B29F-5F19E3472154}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0352",
+      "file_name": "2022-05-06 NYSEG & Town of Horseheads Street Lighting Final Journal Entry - PUBLIC (21-E-0352).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2022-05-06 NYSEG & Town of Horseheads Street Lighting Final Journal Entry - Cover Letter (21-E-0352)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D62DF27-0CCC-43B8-9C9A-7051CCC219F4}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0352",
+      "file_name": "2022-05-06 NYSEG & Town of Horseheads Street Lighting Final Journal Entry - Cover Letter (21-E-0352).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98B8A33A-FEF0-48BA-8CFF-C163EB547CEE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0352",
+      "file_name": "366_21-E-0352 Neg. Dec.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EEA15C8-1108-475B-8BBA-469E4259E9E1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0352",
+      "file_name": "366_21-E-0352 final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG & Town of Horseheads Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCD94B4A-99DD-4D20-92BE-39D6369AC0E2}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "21-E-0352",
+      "file_name": "2021-09-01 NYSEG & Town of Horseheads Section 70 Petition CORRECTION.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Town of Horseheads Section 70 SL Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEDB425D-7F32-43DA-95A5-BBA100E37607}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "21-E-0352",
+      "file_name": "NYSEG Town of Horseheads Section 70 SL Petition.pdf"
+    }
+  ]
+}

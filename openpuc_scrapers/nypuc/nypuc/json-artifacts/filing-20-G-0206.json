@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0206",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/14/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76B68C27-FE99-4BDA-9132-B2B826789755}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0206",
+      "file_name": "162_20-G-0206 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit and Published Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={224DBDB8-6569-4508-9A87-267A648F3EFA}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-G-0206",
+      "file_name": "Tear Pages and Affidavit Letter Gas Non-Firm Revenue Sharing Adjustments Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-G-0206",
+      "file_name": ""
+    }
+  ]
+}

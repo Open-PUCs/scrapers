@@ -1,0 +1,71 @@
+{
+  "case": "23-G-0331",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/05/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0B6DA8C-0000-C81C-B4E7-C4CCDD89A2A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-G-0331",
+      "file_name": "161-C_23-G-0331.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0E489-0000-CF7C-9CC1-94FAFFA05316}",
+      "organization": "Terri Associates Landscape Corp.",
+      "itemNo": "5",
+      "docket_id": "23-G-0331",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Check Receipt",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0E489-0000-C75F-9C8F-567AB57D1119}",
+      "organization": "Terri Associates Landscape Corp.",
+      "itemNo": "5",
+      "docket_id": "23-G-0331",
+      "file_name": "Check receipt.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Case 23-G-0331",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0E489-0000-CF30-90B6-5643EAD39BCA}",
+      "organization": "Terri Associates Landscape Corp.",
+      "itemNo": "5",
+      "docket_id": "23-G-0331",
+      "file_name": "Case 23-G-0331.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "ACH RECEIPT",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0E489-0000-C81D-8105-803BFC65F496}",
+      "organization": "Terri Associates Landscape Corp.",
+      "itemNo": "5",
+      "docket_id": "23-G-0331",
+      "file_name": "ACH RECEIPT.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/02/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9063B789-0000-CC18-9B60-EA43FBCAB118}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0331",
+      "file_name": "161-A_23-G-0331.pdf"
+    }
+  ]
+}

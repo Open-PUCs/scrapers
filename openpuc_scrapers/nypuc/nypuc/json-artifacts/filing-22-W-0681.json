@@ -1,0 +1,27 @@
+{
+  "case": "22-W-0681",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4D6B4E1-9295-4231-9CCE-E8E26CB26C15}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-W-0681",
+      "file_name": "462_22-W-0681.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/05/2020",
+      "nypuc_doctype": "Notices",
+      "name": "20200930 NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80BC8C27-5C08-4770-9FE2-5F20DF68FC70}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-W-0681",
+      "file_name": "20200930 NOPV Letter.pdf"
+    }
+  ]
+}

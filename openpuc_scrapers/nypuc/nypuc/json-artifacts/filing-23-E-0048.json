@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0048",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan for 510 Driggs Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0F8888D-0000-C010-B884-B8AF59E04E27}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "23-E-0048",
+      "file_name": "in-service meter test plan (6).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 510 Driggs Avenue, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8069EF8C-0000-C310-99BB-699C6F6B76AB}",
+      "organization": "Driggs Partners LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0048",
+      "file_name": "complaince letter (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7010128C-0000-CC18-AFB2-ACCD01F94C15}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0048",
+      "file_name": "368_23-E-0048.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 510 Driggs Avenue, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={706EB88A-0000-C61B-BC94-F3EF42607D1E}",
+      "organization": "Driggs Partners LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0048",
+      "file_name": "additional information .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Driggs Partners LLC to Submeter Electricity at 510 Driggs Avenue, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E87A99A-8D4F-4233-B3D7-D17F0FD6E275}",
+      "organization": "Driggs Partners LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0048",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0649",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0962397A-1784-41D4-9E7A-0CDF4A340D3C}",
+      "organization": "Apex Rochester, LLC",
+      "itemNo": "7",
+      "docket_id": "19-E-0649",
+      "file_name": "19-E-0649 Submetering ID Form.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/08/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Apex Rochester Submetering Certification - Executed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF8A493B-60AB-47EC-84E5-E1DF4E390C24}",
+      "organization": "Apex Rochester, LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0649",
+      "file_name": "Apex Rochester Submetering Certification - Executed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FC4F27F-182C-4E19-8DAC-0B6BFAE613B6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0649",
+      "file_name": "368_19-E-0649 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/23/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C769621-1A79-4C1C-8E67-D13A2CAC88E2}",
+      "organization": "Apex Rochester, LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0649",
+      "file_name": "Response to Request for Additional Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2DCB4F7-2D21-48F6-BEB2-052471812F16}",
+      "organization": "Apex Rochester, LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0649",
+      "file_name": "Case 19-E-0649 Response to Request for Additional Information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71FCD860-80FA-42F7-97C0-296A4D87BE0E}",
+      "organization": "Apex Rochester, LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0649",
+      "file_name": "Case 19-E-0649- Request for Additional Information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Apex Rochester, LLC to Submeter Electricity at 380 John St. Rochester, NY, 14623 Located in the Territory of Rochester Gas and Electric Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9ADAA66-8709-4653-8018-F97183E59D98}",
+      "organization": "Apex Rochester, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0649",
+      "file_name": "Petition of Apex Rochester, LLC to Submeter Electricity at 380 John St. Rochester, NY, 14623 Located in the Territory of Rochester Gas and Electric Corporation..pdf (1 MB)"
+    }
+  ]
+}

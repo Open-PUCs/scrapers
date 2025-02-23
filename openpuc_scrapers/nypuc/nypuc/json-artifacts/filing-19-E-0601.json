@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0601",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0601 Singh Ack Letter 09232019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41972361-0E0B-4A54-851C-8D9D8937507D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-E-0601",
+      "file_name": "19-E-0601 Singh Ack Letter 09232019_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0601 Singh Rehearing Request 09172019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11AB3AF0-C0A7-454C-8A6A-CB39E74D29D9}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-E-0601",
+      "file_name": "19-E-0601 Singh Rehearing Request 09172019_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0601 Quist SMD Final 08142019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21D7408A-2219-445E-90ED-DD80E37CF687}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-E-0601",
+      "file_name": "19-E-0601 Quist SMD Final 08142019_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter From Secretary Phillips Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B58FCA86-AA47-4A12-B4FB-5FA7AC1DE4AF}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0601",
+      "file_name": "362 Letter_Redacted.pdf"
+    }
+  ]
+}

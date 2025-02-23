@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0616",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10000389-0000-C811-8722-04DB1B3E21D8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0616",
+      "file_name": "161-C_22-G-0616 6.28.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FA75B3C-DF76-479D-8559-FECAC32520BD}",
+      "organization": "MM Interstate Concrete Corp.",
+      "itemNo": "3",
+      "docket_id": "22-G-0616",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F806A013-F32B-458A-AFB6-10DDE4225BAE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0616",
+      "file_name": "161-A_22-G-0616.pdf"
+    }
+  ]
+}

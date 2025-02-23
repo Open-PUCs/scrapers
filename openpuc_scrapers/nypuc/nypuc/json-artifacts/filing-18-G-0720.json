@@ -1,0 +1,27 @@
+{
+  "case": "18-G-0720",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/17/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Housekeeping Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66BB170C-F1DB-4146-B413-92C8EC28CB26}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-G-0720",
+      "file_name": "163_18-G-0720.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Valley Energy, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0720",
+      "file_name": ""
+    }
+  ]
+}

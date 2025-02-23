@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0365",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82A702DB-44CF-4411-BF47-EF7154926C1F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0365",
+      "file_name": "661_20-V-0365 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Delhi, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5B0E53B-8535-45D7-BA92-952672FBF249}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0365",
+      "file_name": "2020.07.22 T. DELHI, NY FRANCHISE RENEWAL E-Filed, PSC, KE.pdf (8 MB)"
+    }
+  ]
+}

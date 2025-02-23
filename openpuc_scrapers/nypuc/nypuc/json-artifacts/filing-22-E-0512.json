@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0512",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={194A0A28-2B02-44E0-B0F4-5679BC97E6B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0512",
+      "file_name": "364_22-E-0512 Letter.Redact final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "248247 Persaud SMR Ack Letter 09062022 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94D0CCAC-87F5-4255-936E-54945A8A2D3D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0512",
+      "file_name": "248247 Persaud SMR Ack Ltr 09062022 redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "SMR Request rec'd 09022022 Tenant 220998 248247",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5973C9AA-DD9D-4D5E-AA78-8B4BEEC34A63}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-E-0512",
+      "file_name": "SMR Request rec'd 09022022 Tenant 220998 248247.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "220998 Persaud SMD Final 08242022 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={691666F5-F02B-412D-AEEB-77818EBBF4A3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0512",
+      "file_name": "220998 Persaud SMD Final 08242022 redacted.pdf"
+    }
+  ]
+}

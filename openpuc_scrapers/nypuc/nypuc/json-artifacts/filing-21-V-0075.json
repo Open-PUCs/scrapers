@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0075",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56795EEB-265F-4847-9B17-BCC192745DA8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0075",
+      "file_name": "662_21-V-0075 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Millport, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B5AF70D-37BB-44DE-B9E2-AA7C1A351DB6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0075",
+      "file_name": "2021.02.01 V. MILLPORT RENEWAL FILED - PSC.pdf"
+    }
+  ]
+}

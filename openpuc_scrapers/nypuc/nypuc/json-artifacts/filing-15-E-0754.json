@@ -1,0 +1,38 @@
+{
+  "case": "15-E-0754",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CCD0087-37BF-4198-8D63-39A63D7965EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-E-0754",
+      "file_name": "263_15e0754 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavits of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A58158E-3DB2-4F8A-864A-7A0F6DC49499}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0754",
+      "file_name": "Residential Meter Access.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/23/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0754",
+      "file_name": ""
+    }
+  ]
+}

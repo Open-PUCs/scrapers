@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0390",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4019EE8B-0000-C417-8902-FEFAE01E3FB8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0390",
+      "file_name": "379_23-E-0390 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Advances Three Major Transmission Line Projects to Support Renewable Generation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={804DD98B-0000-C250-A579-AB3E80656711}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0390",
+      "file_name": "pr23117.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York Transco LLC for an Order Approving Financing Pursuant to Section 69 of the Public Service Law and Lightened Regulation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00565789-0000-CB15-959B-C50A018B15C0}",
+      "organization": "New York Transco LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0390",
+      "file_name": "Case 23-E-____ Petition for Order Approving Financing Pursuant to PSL 69.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10565789-0000-CE2C-BD05-F4742895EDC4}",
+      "organization": "New York Transco LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0390",
+      "file_name": "Cover Letter Filing NYT Verified Petition for an Order Approving Financing.pdf"
+    }
+  ]
+}

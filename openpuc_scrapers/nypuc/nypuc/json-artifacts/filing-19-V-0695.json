@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0695",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E974409-D848-4642-BBAA-C475815DA1C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0695",
+      "file_name": "664_19-V-0695.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEB9FCB1-05F2-42A5-B659-3AAE0642C827}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0695",
+      "file_name": "Fishkill Supplemental Exhibit E.pdf (109 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of its Franchise with the Town of Fishkill, Dutchess County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AF17021-63CB-42EB-BB65-333A89FA6213}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0695",
+      "file_name": "Fishkill Renewal Petition (Complete).pdf (1 MB)"
+    }
+  ]
+}

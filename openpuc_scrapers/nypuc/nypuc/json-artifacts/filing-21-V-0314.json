@@ -1,0 +1,60 @@
+{
+  "case": "21-V-0314",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E669455F-2ADE-4486-B51E-E4CDC2CDB7F5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0314",
+      "file_name": "661_21-V-0314.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Comcast Affidavit of Publication - Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={202D873E-52E3-4AF7-938C-87AE740E57E7}",
+      "organization": "Comcast New York, LLC",
+      "itemNo": "3",
+      "docket_id": "21-V-0314",
+      "file_name": "Matter No. 21-V-0314_Comcast Affidavit of Publication - Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Comcast Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A70E9A4-D304-416C-8A03-B01B8A8D406C}",
+      "organization": "Comcast New York, LLC",
+      "itemNo": "3",
+      "docket_id": "21-V-0314",
+      "file_name": "Matter No. 21-V-0314_Comcast Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/08/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FDE6495-FB38-4AF1-A00D-6A60EC4E8BD7}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0314",
+      "file_name": "21-V-0314 - Comcast Letter to RAO - Somers Franchise Renewal - Optimized.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Application of Comcast of NY LLC for CATV Franchise with Somers, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F1C785-1161-492E-B690-AFCFF7D39CB0}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0314",
+      "file_name": "Application of Comcast of NY LLC for CATV Franchise with Somers, NY.pdf"
+    }
+  ]
+}

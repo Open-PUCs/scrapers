@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0460",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85EBCAE9-0853-4873-9E46-AE5A3566E4AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0460",
+      "file_name": "663_18-V-0460.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={392D42BC-2836-4C41-B2C6-55E26FA6AC37}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0460",
+      "file_name": "17-01761 Merged Letters.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 3500 Snyder Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EBE23CC-C6F6-47F2-B0A1-9DFEB984D21E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0460",
+      "file_name": "Petition (3500 Snyder Av).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={952785E5-3D96-4A3B-BCAA-ECFF2B89DDC2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0460",
+      "file_name": "Exhibit 2 (3500 Snyder Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8FDA254-7BF4-481F-93FF-38173BA997ED}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0460",
+      "file_name": "Exhibit 1 (3500 Snyder Av).pdf"
+    }
+  ]
+}

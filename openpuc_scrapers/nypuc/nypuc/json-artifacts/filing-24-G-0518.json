@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0518",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241115 - Payment - $2,000 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0ED4F93-0000-C817-8855-082CF759F3B4}",
+      "organization": "Graziadei Building Group, Inc.",
+      "itemNo": "8",
+      "docket_id": "24-G-0518",
+      "file_name": "20241115 - Payment - $2,000 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9050BF92-0000-C913-86D0-A680AF5B00DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0518",
+      "file_name": "161-A_24-G-0518.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={707C2790-0000-CA1C-B5F1-3D3EA903E42E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "24-G-0518",
+      "file_name": "20240617 - Consent Offer Letter.pdf"
+    }
+  ]
+}

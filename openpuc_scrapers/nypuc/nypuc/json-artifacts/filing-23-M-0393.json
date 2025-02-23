@@ -1,0 +1,93 @@
+{
+  "case": "23-M-0393",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06A9F8E-0000-CF1A-B15C-A62966E151EB}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-M-0393",
+      "file_name": "23-M-0393-Alberici-extension ruling 4.2.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Letter to PSC req extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C068588E-0000-CA1B-8908-DC28336B0AD2}",
+      "organization": "J. Alberici & Sons Inc.",
+      "itemNo": "5",
+      "docket_id": "23-M-0393",
+      "file_name": "Letter to PSC req extension for LOC.pdf (2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903B1A8E-0000-C61F-96DE-E3364C15D994}",
+      "organization": "J. Alberici & Sons Inc.",
+      "itemNo": "4",
+      "docket_id": "23-M-0393",
+      "file_name": "Letter to PSC req extension for LOC.pdf.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/13/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Extension of Development Periods Due to the Covid-19 Construction Moratorium",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0172A8B-0000-CD46-80FA-5C36241EE1F4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-M-0393",
+      "file_name": "266_23-M-0040_101323.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/13/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Follow up to Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0FCDB86-0000-C21B-8764-8473D2545792}",
+      "organization": "J. Alberici & Sons Inc., Town of Cicero",
+      "itemNo": "2",
+      "docket_id": "23-M-0393",
+      "file_name": "Ltr to Secretary f-up to letter req extension.pdf.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of J. Alberici & Sons Inc. for an Extension through May 1, 2025 of the Five-Year Agreement Concerning Builder Development Funds.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B6A786-0000-C116-B040-94258DA7882A}",
+      "organization": "J. Alberici & Sons Inc.",
+      "itemNo": "1",
+      "docket_id": "23-M-0393",
+      "file_name": "Ltr from J. Alberici 02.23.2023.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Ltr to PSC req extension thru 05.01.2025",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B6A786-0000-C736-8738-D07B7F4382CA}",
+      "organization": "J. Alberici & Sons Inc.",
+      "itemNo": "1",
+      "docket_id": "23-M-0393",
+      "file_name": "Ltr to PSC req extension thru 05.01.2025.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Ltr from National Grid 12.07.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B6A786-0000-CC16-96D5-8D471CDA27C2}",
+      "organization": "J. Alberici & Sons Inc.",
+      "itemNo": "1",
+      "docket_id": "23-M-0393",
+      "file_name": "Ltr from National Grid 12.07.2022.pdf"
+    }
+  ]
+}

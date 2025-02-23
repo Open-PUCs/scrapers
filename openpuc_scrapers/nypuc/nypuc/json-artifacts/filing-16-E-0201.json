@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0201",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/02/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDEBC841-4379-4AF8-9BAB-8A63FBBD3769}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0201",
+      "file_name": "364_16e0201.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AP Cricket Valley Holdings I Inc.;AP Cricket Valley Holdings II Inc.;Cricket Valley Energy Center, LLC;Cricket Valley Energy Holdings, LLC for a Declaratory Ruling and Approvals Under Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D458AA65-7E93-487B-841E-B94A45B1B38B}",
+      "organization": "AP Cricket Valley Holdings I Inc., AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings, LLC, MC CVEC Project Holdings I, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0201",
+      "file_name": "CVEC Section 70 Petition 4-11-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E70B32F-6885-4C97-8E18-4CB483850E44}",
+      "organization": "AP Cricket Valley Holdings I Inc., AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings, LLC, MC CVEC Project Holdings I, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0201",
+      "file_name": "Cover letter 4-11-16.pdf"
+    }
+  ]
+}

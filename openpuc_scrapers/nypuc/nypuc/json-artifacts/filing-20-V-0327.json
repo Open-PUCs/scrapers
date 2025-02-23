@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0327",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77D9E021-75F5-4686-974B-A60685EFE21C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0327",
+      "file_name": "661_20-V-0327 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with City of Mechanicville, Saratoga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B372AF07-69FA-4BFF-9897-B1C0BC713926}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0327",
+      "file_name": "C. MECHANICVILLE RENEWAL SUBMISSION TO PSC 07.13.20.pdf (9 MB)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B5F719B-390B-424B-AABD-AC398485ADDC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0003",
+      "file_name": "661_23-V-0003 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02052 Letter to Building Owner_228 Ave B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6583EB87-E01C-4708-A867-94487D7B096D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0003",
+      "file_name": "22-02052 Letter to Building Owner_228 Ave B.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 228 Avenue B, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F174A69-9883-4CF7-848E-0F83CCAEC0A2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0003",
+      "file_name": "221019-7 Petition (228 AVENUE B) (Post-Survey).pdf"
+    }
+  ]
+}

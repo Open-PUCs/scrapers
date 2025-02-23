@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0071",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "022278_Barry_SMR_Ack_Ltr_01272021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8F618F1-F02A-4E0A-9175-29885EECFA0B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-G-0071",
+      "file_name": "022278_Barry_SMR_Ack_Ltr_01272021_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "022278_Barry Rehearing Request 01262021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18DA1F9A-6C96-4918-8E5C-47A0A88102CB}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-G-0071",
+      "file_name": "022278_Barry Rehearing Request 01262021_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "022278_Barry_SMD_Final_12292020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48B6B1E2-0657-4932-805C-4006B7736D6A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-G-0071",
+      "file_name": "022278_Barry_SMD_Final_12292020_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F6F93EB-F4C9-4CB8-B5E8-0D28221B7D28}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-G-0071",
+      "file_name": "164_ 21-G-0071 Letter final_Redacted.pdf"
+    }
+  ]
+}

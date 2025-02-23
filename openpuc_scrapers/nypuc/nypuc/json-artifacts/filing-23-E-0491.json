@@ -1,0 +1,27 @@
+{
+  "case": "23-E-0491",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Concerning Applicability of Submetering Regulations to a Heating System",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90471C8C-0000-CB14-8BFB-F26A83046B05}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0491",
+      "file_name": "372_23-E-0491_112923 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "76 Locust Hill LP co Westhab Inc - Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C05D758A-0000-CB17-80BF-03F7B6020A2A}",
+      "organization": "76 Locust Hill, L.P. c/o Westhab, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0491",
+      "file_name": "76 Locust Hill LP co Westhab Inc - Petition for Declaratory Ruling - 9.7.23.pdf"
+    }
+  ]
+}

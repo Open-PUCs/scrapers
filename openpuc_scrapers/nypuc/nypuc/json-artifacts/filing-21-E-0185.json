@@ -1,0 +1,104 @@
+{
+  "case": "21-E-0185",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C -Town of New Hartford",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3140C9F-0F3A-421A-880E-777BE4E62ECB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0185",
+      "file_name": "Schedule C -Town of New Hartford.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/11/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4745B73-6D80-4C2B-B3F3-1608CECAA3A9}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0185",
+      "file_name": "Town of New Hartford Journal Entry Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24A55926-52B5-49BC-86B1-6C0527EA6256}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0185",
+      "file_name": "376_21-E-0185_Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={737CD295-CAAF-4573-8B37-EB787009A4A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0185",
+      "file_name": "376 - 21-E-0185 - Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE794502-6340-4923-80BC-71DA838BA1AC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-E-0185",
+      "file_name": "New Hartford Request for Confidentiality.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of New Hartford - Schedule C Workpaper",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A71593FA-43EA-4C37-9DF9-1CE1DF49DE1A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0185",
+      "file_name": "Town of New Hartford - Schedule C Workpaper.xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Work Papers for Town of New Hartford Street Light Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78E76779-C09A-4B3D-AF07-45FB79B0DFD1}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0185",
+      "file_name": "Schedule D Work Papers for Town of New Hartford Street Light Sale.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "New Hartford Section 70 Petition and Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC8D4A5F-1D1D-4D3B-8138-B68FD7EE7B9B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0185",
+      "file_name": "New Hartford Section 70 Petition and Schedules.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7A18D39-0D91-4E6A-B217-BBF7764EDB8D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0185",
+      "file_name": "New Hartford Section 70 Cover Letter.pdf"
+    }
+  ]
+}

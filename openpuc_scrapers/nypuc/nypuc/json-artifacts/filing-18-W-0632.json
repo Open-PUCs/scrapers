@@ -1,0 +1,49 @@
+{
+  "case": "18-W-0632",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water Westchester Inc.",
+      "itemNo": "4",
+      "docket_id": "18-W-0632",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/26/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water Westchester Inc.",
+      "itemNo": "3",
+      "docket_id": "18-W-0632",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/17/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Surcharge",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EF32CD6-0C1A-4465-84F9-6FBC2FA354E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-W-0632",
+      "file_name": "461_18-W-0632.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/04/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Eastchester Pursuant to Chapter 433 of the Laws of 2013 Related to Fire Hydrant Service.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB53C234-4C87-484A-AC3C-093A60EE6F7C}",
+      "organization": "Town of Eastchester",
+      "itemNo": "1",
+      "docket_id": "18-W-0632",
+      "file_name": "Petition.pdf"
+    }
+  ]
+}

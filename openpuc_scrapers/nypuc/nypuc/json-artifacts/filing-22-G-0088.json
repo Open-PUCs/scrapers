@@ -1,0 +1,27 @@
+{
+  "case": "22-G-0088",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "20220421 Response to Final Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06C0ACC5-1D18-41AC-BCB6-4B6A6CCE4ACD}",
+      "organization": "753 Respondents",
+      "itemNo": "4",
+      "docket_id": "22-G-0088",
+      "file_name": "20220421 Response to Final Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D651327-C0EF-496E-8DBB-E324B2C1615A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0088",
+      "file_name": "161-A_22-G-0088 final.pdf"
+    }
+  ]
+}

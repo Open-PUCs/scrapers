@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0010",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02B01C65-A25C-4B16-8537-5564D764472A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0010",
+      "file_name": "366_16e0010.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22E4BBE8-8F55-4D2C-AD50-8301958E88AF}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "16-E-0010",
+      "file_name": "Cover Letter 6-24-2016 (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/07/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 31 Lincoln Road Development LLC to Submeter Electricity at 510 Flatbush Avenue, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A888EB2-5DAD-4317-9D04-CAE21603A20E}",
+      "organization": "31 Lincoln Road Development LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0010",
+      "file_name": "{27D367F3-9454-43B5-927D-5F40A1372C0A}.pdf"
+    }
+  ]
+}

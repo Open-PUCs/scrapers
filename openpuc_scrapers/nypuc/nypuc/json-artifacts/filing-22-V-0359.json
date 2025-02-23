@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0359",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABC01DEC-A1F0-4C28-8A60-362592C28C1E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0359",
+      "file_name": "661_22-V-0359.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F8F5282-C5E7-4DE8-93C5-31FD4AC7FE81}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0359",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. Rensselaer-6.20.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={237FAC2D-F552-4A96-9B43-B553CB63FDE4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0359",
+      "file_name": "Charter Confidential Treatment Request to RAO C. Rensselaer-6.20.22 R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, C. Rensselaer Cover Letter Request - for Renewal, Certificate of Confirmation 6.20.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B14F2FA-3C6A-48C7-9D17-A5768DC4B1BD}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0359",
+      "file_name": "Charter Communications, C. Rensselaer Cover Letter Request - for Renewal, Certificate of Confirmation 6.20.2022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, C. Rensselaer Request - for Renewal, Certificate of Confirmation REDACTED 6.20.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={307113A9-BDA4-40C4-83E5-4C82A8B1E126}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0359",
+      "file_name": "Charter Communications, C. Rensselaer Request - for Renewal, Certificate of Confirmation REDACTED 6.20.2022.pdf"
+    }
+  ]
+}

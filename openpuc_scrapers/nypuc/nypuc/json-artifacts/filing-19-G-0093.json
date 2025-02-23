@@ -1,0 +1,27 @@
+{
+  "case": "19-G-0093",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/30/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Case 19-E-0065 19-G-0066 18-E-0067 18-G-0068 Con Edison Next Generation Customer Experience 2021Q2 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36261B98-7DCC-4040-A484-E6B1A9C968C7}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-G-0093",
+      "file_name": "Case 19-E-0065 19-G-0066 18-E-0067 18-G-0068 Con Edison Next Generation Customer Experience 2021Q2 Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00BCDCDC-B5C5-4B3C-849F-439FAF0CEC52}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0093",
+      "file_name": "162-B_19-G-0093.pdf"
+    }
+  ]
+}

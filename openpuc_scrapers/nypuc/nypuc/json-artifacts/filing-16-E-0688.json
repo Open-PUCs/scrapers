@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0688",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={833EE617-A3F5-4494-BD06-8EBE9A7DF448}",
+      "organization": "Red Hook 160 LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0688",
+      "file_name": "10-2-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAD795B0-F3D3-40FC-AF00-90D898ED96A4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0688",
+      "file_name": "365_16-E-0688.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={919E61D5-048F-49C5-92E7-F4D18CB473EF}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "16-E-0688",
+      "file_name": "response letter 7-19-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/03/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01FBC528-09AF-4028-A833-5E9D5222572F}",
+      "organization": "Red Hook 160 LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0688",
+      "file_name": "completed submetering application 2-3-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/01/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Red Hook 160, LLC to Submeter Electricity at 160 Imlay Street, Brooklyn, New York, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={317EB493-CB62-427C-942E-E779EF8EBDD7}",
+      "organization": "Red Hook 160 LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0688",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}
