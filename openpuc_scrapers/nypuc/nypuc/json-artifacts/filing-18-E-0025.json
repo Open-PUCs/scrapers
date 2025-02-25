@@ -1,0 +1,104 @@
+{
+  "case": "18-E-0025",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFEAA9BC-8884-4B86-933D-AD5B4FF58D2F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "8",
+      "docket_id": "18-E-0025",
+      "file_name": "2018-08-22 NYSEG Section 70 - Final JE Update (18-E-0025,17-E-0737, 17-E-0666, 17-E-0658).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A9B0F01-4143-4D53-8DF9-8EEFDED9E8A9}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "8",
+      "docket_id": "18-E-0025",
+      "file_name": "2018-08-22 NYSEG SL Sales Attachment JE8 (18-E-0025,17-E-0737, 17-E-0666, 17-E-0658).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Journal Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFAC6708-2744-458B-B46E-EEB1C371261D}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "7",
+      "docket_id": "18-E-0025",
+      "file_name": "2018-08-10 NYSEG Section 70 - Village of Owego Final JEs (18-E-0025).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/20/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79C6AE73-8E69-4B0B-BBF3-759CA1608E8C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-E-0025",
+      "file_name": "18-E-0025-NYSEG-Owego-Streetlighting-Extension Ruling-7-20-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/20/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFDF0229-80EC-4500-B81B-FA6D9D05374B}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "18-E-0025",
+      "file_name": "NYSEG Section 70 - Village of Owego SL Sale Extension Request.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={808F78D4-CDB6-4071-8AB7-CD745297B651}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0025",
+      "file_name": "18-E-0025 Notice .pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities to the Village of Owego",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C99B5AE-8A0B-41FF-B9ED-36345816CB25}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0025",
+      "file_name": "369_18-E-0025 Order.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/07/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Short Environmental Assessment Form Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95A758F9-819F-4C20-BD02-8C0491D16D1D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0025",
+      "file_name": "Cover Letter and SEAF Part 2&3.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York State Electric & Gas Corporation to Sell Certain Street Lighting Facilities to the Village of Owego, Pursuant to Public Service Law Section 70.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38055308-2060-4A14-9A98-1ADA83D9504A}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0025",
+      "file_name": "2018-01-16 NYSEG Section 70 Petition -Village of Owego SL Sale.pdf"
+    }
+  ]
+}

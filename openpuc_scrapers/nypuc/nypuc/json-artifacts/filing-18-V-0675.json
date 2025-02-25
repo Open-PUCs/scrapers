@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0675",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4448F09B-0ACB-4697-9C22-B15466B7F9B9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0675",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Sodus Point, Wayne County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EBA7674-153B-4B82-AC78-80BE33D60674}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0675",
+      "file_name": "SODUS POINT, VLG FRANCHISE RENEWAL SUBMISSION TO PSC 103118.pdf"
+    }
+  ]
+}

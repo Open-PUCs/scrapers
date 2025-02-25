@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0606",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3420C0A8-C20A-4A9F-8597-3A9D9256FBEA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0606",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06D8AC71-FD8E-4890-B922-119D1EEAB793}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0606",
+      "file_name": "18-00421 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry to Upgrade Cable Television Equipment and Facilities Pursuant to Section 228 of the NYS Public Service Law at 2145 Ocean Avenue, Brooklyn, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3F0CB7D-C1FD-453E-88A3-B955EEAD9677}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0606",
+      "file_name": "Petition (2145 Ocean Av).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 (2145 Ocean Av)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F658D05-3EC3-4D7B-A86B-8E7A90E3FD9B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0606",
+      "file_name": "Exhibit 2 (2145 Ocean Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 (2145 Ocean Av)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0FED11C-E1BD-4035-BFC8-982C10BA6CDB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0606",
+      "file_name": "Exhibit 1 (2145 Ocean Av).pdf"
+    }
+  ]
+}

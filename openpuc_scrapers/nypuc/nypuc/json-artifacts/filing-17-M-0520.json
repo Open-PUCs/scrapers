@@ -1,0 +1,60 @@
+{
+  "case": "17-M-0520",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Amending Residential Bill Estimation Procedures for Customers With Advanced Metering Infrastructure Meters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EA18B1F-E3D8-4EF1-9781-1F3B51835A00}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-M-0520",
+      "file_name": "265_17-M-0419 and 17-M-0520.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Response to Con Ed and ORU Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90BC37E4-ABAD-4F10-99C4-4F67977E30B9}",
+      "organization": "UtiliSave, LLC.",
+      "itemNo": "4",
+      "docket_id": "17-M-0520",
+      "file_name": "12-14-17 UtiliSave Response to Con Ed and ORU Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Comments",
+      "name": "CECONY and O&R Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58DFD87A-9FD8-4CF7-B456-08F54500C0FA}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-M-0520",
+      "file_name": "CECONY and O&R Response to UtiliSave.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/20/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of UtiliSave, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94CFE764-F630-41D7-B9F8-F53B62F4FB20}",
+      "organization": "UtiliSave, LLC.",
+      "itemNo": "2",
+      "docket_id": "17-M-0520",
+      "file_name": "UtiliSave.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment to Bill Estimation Procedures",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B888034-BCA0-42F5-AB79-812B6966FBB2}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-M-0520",
+      "file_name": "CECONY AMI Estimation Methodology Filing.pdf"
+    }
+  ]
+}

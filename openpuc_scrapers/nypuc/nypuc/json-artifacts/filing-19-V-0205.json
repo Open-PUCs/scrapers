@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0205",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C40200AB-E180-4788-A168-36F7689BD81F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0205",
+      "file_name": "663_19-V-0205.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit and Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={814025BB-D10C-463A-9DD8-36ADB6CB39AA}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0205",
+      "file_name": "Affidavit and Public Notice - Comcast of NY PSC Application for Brewster Village Franchise Renewal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast of New York, LLC for Approval of the Renewal of its Franchise with the Village of Brewster, Putnam County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22B835B1-F358-43B5-9781-6F8DD1C68DC4}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0205",
+      "file_name": "Application of Comcast of New York, LLC for Approval of Renewal Franchise & Certificate of Confirmation for Village o.pdf"
+    }
+  ]
+}

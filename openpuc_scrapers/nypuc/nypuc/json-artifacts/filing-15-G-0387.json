@@ -1,0 +1,49 @@
+{
+  "case": "15-G-0387",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Sunoco Big Flats Pipeline - Site Specific Procedures Manual August 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C71C8D-0000-C31D-8CEA-0A1CFFDC8250}",
+      "organization": "Sunoco, LLC",
+      "itemNo": "4",
+      "docket_id": "15-G-0387",
+      "file_name": "Sunoco_Big Flats Pipeline_Site Specific Procedures Manual_August 2023 (rev 1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver with Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={100B7989-0000-CD18-8135-C24E0E679077}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-G-0387",
+      "file_name": "162_15-G-0387 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding the Request for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97DC3938-C1A1-4D60-9800-7283F91AB6C7}",
+      "organization": "Sunoco, LLC",
+      "itemNo": "2",
+      "docket_id": "15-G-0387",
+      "file_name": "Letter Regarding the Request for Waiver.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Superior Plus Energy Services for a Waiver of the Requirements of 16 NYCRR, Section 258.9 Pertaining to Liquid Petroleum Pipeline Facilities Leak Detection Systems.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={455A0C45-AF3D-4C76-B468-16C5273F7EEF}",
+      "organization": "Sunoco, LLC, Superior Plus Energy Services Inc.",
+      "itemNo": "1",
+      "docket_id": "15-G-0387",
+      "file_name": "Superior Plus Energy Services.pdf"
+    }
+  ]
+}

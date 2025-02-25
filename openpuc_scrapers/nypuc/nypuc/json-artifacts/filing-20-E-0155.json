@@ -1,0 +1,115 @@
+{
+  "case": "20-E-0155",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4704B322-E5AE-4684-B4D3-AB18EBC9B020}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "20-E-0155",
+      "file_name": "371_20-E-0155 Confirming Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Omni Navitas Response to Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C7D92AB-A688-41ED-9C5B-30E1CD92808D}",
+      "organization": "Omni Navitas Holdings,LLC",
+      "itemNo": "8",
+      "docket_id": "20-E-0155",
+      "file_name": "Omni Navitas Response to Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Sky Solar Inc Public Comment Submission",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C49787DB-92CA-4D2B-B320-B2DAD877C2CF}",
+      "organization": "Sky Solar Inc.",
+      "itemNo": "7",
+      "docket_id": "20-E-0155",
+      "file_name": "Sky Solar Inc Public Comment Submission.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Confirming and Modifying Suspension of Interconnection Payment Deadlines",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={860F7501-8FCC-419B-A8CC-BB0F299057E7}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0155",
+      "file_name": "20-E-0155 OCO Confirming Interconnection Deadline Order Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Borrego Solar Systems",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9568A1C4-3343-4780-9A21-89A923CD0E6C}",
+      "organization": "Borrego Solar Systems, Inc.",
+      "itemNo": "5",
+      "docket_id": "20-E-0155",
+      "file_name": "In the Matter of Interconnection Deadline Modifications - Borrego Comments.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Joint CCSA NYSEIA SEIA Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F26A6EE7-D512-45B1-8A0C-A12C1D874678}",
+      "organization": "Coalition for Community Solar Access, New York Solar Energy Industries Association, Solar Energy Industries Association",
+      "itemNo": "4",
+      "docket_id": "20-E-0155",
+      "file_name": "CCSA NYSEIA SEIA IX Deadline Modification Comments Final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49514C65-FCE9-4908-8521-8B15FEC1CE84}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0155",
+      "file_name": "371_20-E-0155 Confirming Order.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/14/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSERDA-COVID-19-Resources",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD783FB3-6FBD-4077-AC90-F54F92A0FEE8}",
+      "organization": "New York State Energy Research and Development Authority",
+      "itemNo": "2",
+      "docket_id": "20-E-0155",
+      "file_name": "NYSERDA-COVID-19-Resources (2).pdf (87 KB)"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/14/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5028665-0FF1-4659-8047-4B9CB191C67B}",
+      "organization": "New York State Energy Research and Development Authority",
+      "itemNo": "2",
+      "docket_id": "20-E-0155",
+      "file_name": "NYSERDA Covid 19 Resources Cover Letter April 13.pdf (458 KB)"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/06/2020",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Suspending Certain Interconnection Payment Deadlines",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={154489AE-33C9-41C3-AC03-8758EBB9FCF3}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0155",
+      "file_name": "20-E-0155 OCO Suspending Interconnection Deadlines 4-6 Final.pdf"
+    }
+  ]
+}

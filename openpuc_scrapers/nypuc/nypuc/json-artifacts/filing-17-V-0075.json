@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0075",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25012C8A-C65D-4FFC-B7F0-7CCB99415CCA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0075",
+      "file_name": "661_17-V-0075.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Tioga, County of Tioga, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92B89BD6-1C3D-4333-9E42-13AE1E07B2A3}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0075",
+      "file_name": "T.Tioga Franchise Renewal Complete - to PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0553",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B9228D-0000-C910-B7D6-3DB06354AFD2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0553",
+      "file_name": "363_23-E-0553 final 1.19.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Calpine Corporation, ECP ControlCo, LLC and Bridgepoint OP LP for a Declaratory Ruling That Public Service Law Section 70 Does Not Apply to the Proposed Transaction or In the Alternative, For Approval of Proposed Transaction Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0FAF68A-0000-CA36-918F-E75B4313BD94}",
+      "organization": "Bridgepoint OP LP, Calpine Corporation, ECP ControlCo, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0553",
+      "file_name": "Calpine Petition 10-3-23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0FAF68A-0000-CF1F-9F88-82DF00F32312}",
+      "organization": "Bridgepoint OP LP, Calpine Corporation, ECP ControlCo, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0553",
+      "file_name": "Cover letter 10-3-23.pdf"
+    }
+  ]
+}

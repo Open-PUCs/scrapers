@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0161",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A6F664C-A5F4-4C9E-B73D-2A09135CC298}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0161",
+      "file_name": "667_21-V-0161 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/31/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Edmeston Reso Correction to PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F4D2218-12B7-4582-A109-F7705576BCC3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0161",
+      "file_name": "T. Edmeston Reso Correction to PSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Edmeston, Otsego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={941ACA5A-5269-4AEB-B9F6-86206CEC47A4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0161",
+      "file_name": "T. Edmeston To File with PSC.pdf"
+    }
+  ]
+}

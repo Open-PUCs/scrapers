@@ -1,0 +1,159 @@
+{
+  "case": "16-E-0604",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "13",
+      "docket_id": "16-E-0604",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "12",
+      "docket_id": "16-E-0604",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "11",
+      "docket_id": "16-E-0604",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/23/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "10",
+      "docket_id": "16-E-0604",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/23/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "9",
+      "docket_id": "16-E-0604",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "8",
+      "docket_id": "16-E-0604",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/02/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Providing for Eligibility of Non-Metered Accounts for Remote Net Metering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A106A36-013E-4505-B25E-42F0B80B3DE3}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-E-0604",
+      "file_name": "377_16-E-0604.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/02/2017",
+      "nypuc_doctype": "Press Releases",
+      "name": "PSC Moves to Reduce Municipal Street-Lighting Costs with Solar Power",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B27B9FB-7647-4B46-9226-34BB626ECA35}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0604",
+      "file_name": "pr17058.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Joint Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3309750-30B7-428D-9728-ECCB3B9CF8E5}",
+      "organization": "Central Hudson Gas & Electric Corporation, New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "16-E-0604",
+      "file_name": "2017-01-03 Sunlight Beacon Petition - Comments.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Con Edison-Street Lighting Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={904F9363-9FD7-4CC3-8E88-8EC9EA0BF7CF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-E-0604",
+      "file_name": "Con Edison-Street Lighting Comments.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "11/04/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter in Support",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={049D8CFC-010E-496E-B66E-2CE4435497F7}",
+      "organization": "New York Solar Energy Industries Association",
+      "itemNo": "3",
+      "docket_id": "16-E-0604",
+      "file_name": "16-E-0604_LOS_NYSEIA_11.3.2016.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "11/03/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of support of DPW Street Light Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={514E82FC-0404-4618-8E74-027A24F0C268}",
+      "organization": "City of Olean",
+      "itemNo": "2",
+      "docket_id": "16-E-0604",
+      "file_name": "20161103161456360.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "10/18/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BQ Energy and Sunlight Beacon-C2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6747E887-D536-4C7A-BC98-FC0151CFC78F}",
+      "organization": "BQ Energy, LLC, Sunlight Beacon LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0604",
+      "file_name": "Petition of BQ Energy and Sunlight Beacon-C2.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "10/18/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCD431C0-282B-4409-8314-92BC0A1F618A}",
+      "organization": "BQ Energy, LLC, Sunlight Beacon LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0604",
+      "file_name": "BQ Energy - Filing Letter-C2.pdf"
+    }
+  ]
+}

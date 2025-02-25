@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0464",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46108216-73E7-426A-B060-71676D35DA3F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0464",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F930EAA3-7A41-43E6-982A-06099A97546A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0464",
+      "file_name": "17-01792 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 922 and 1101 Forbell Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14C4AEF6-F628-4EAE-AC8A-FFD6CFF91E96}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0464",
+      "file_name": "Petition (922 and 1101 Forbell St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7583AA81-0F1A-4983-B02A-EFF67274D615}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0464",
+      "file_name": "Exhibit 2 (922 and 1101 Forbell St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B054508-5BA6-4A7B-88AA-DC295210623D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0464",
+      "file_name": "Exhibit 1 (922 and 1101 Forbell St).pdf"
+    }
+  ]
+}

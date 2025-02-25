@@ -1,0 +1,49 @@
+{
+  "case": "22-C-0661",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D4A4FC4-94AE-4DDA-8ECF-F7EAFAF70F8C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-C-0661",
+      "file_name": "562_22-C-0661 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "IM Telecom Letter to Supplement ETC Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E91F6AF5-4F2F-424E-9268-D67797F22FD4}",
+      "organization": "IM Telecom, LLC d/b/a Infiniti Mobile",
+      "itemNo": "2",
+      "docket_id": "22-C-0661",
+      "file_name": "IM Telecom Letter to Supplement ETC Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of IM Telecom, LLC d/b/a Infiniti Mobile for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02E35BFF-F84A-4428-87B9-33077FD86E87}",
+      "organization": "IM Telecom, LLC d/b/a Infiniti Mobile",
+      "itemNo": "1",
+      "docket_id": "22-C-0661",
+      "file_name": "IM Telecom ETC Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D58D0892-F814-46C7-9D96-CD4C0B56C5D3}",
+      "organization": "IM Telecom, LLC d/b/a Infiniti Mobile",
+      "itemNo": "1",
+      "docket_id": "22-C-0661",
+      "file_name": "IM Telecom ETC Petition Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "17-G-0081",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACE53D8A-B2CA-4901-908D-C0D0668B7582}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-G-0081",
+      "file_name": "161A_17g0081 - 12.26.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6212C557-23D9-4B58-AD39-76C28026768A}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0081",
+      "file_name": "169_17g0081.pdf"
+    }
+  ]
+}

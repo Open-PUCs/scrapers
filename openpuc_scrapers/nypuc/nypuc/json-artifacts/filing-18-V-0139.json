@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0139",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE5CD82F-813F-4B6E-90D9-9959F23AE4BE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0139",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Mansfield, County of Cattaraugus.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E62C70A-D591-4112-AB44-692E2E2A4053}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0139",
+      "file_name": "T. MANSFIELD RENEWAL SUBMISSION TO PSC 022718.pdf"
+    }
+  ]
+}

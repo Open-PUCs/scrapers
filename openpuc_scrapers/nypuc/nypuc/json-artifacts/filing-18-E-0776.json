@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0776",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/30/2019",
+      "nypuc_doctype": "Reports",
+      "name": "NYPSC Annual In-service Submeter Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D323CC2-B8B4-4B10-A42B-A57F77E38BBC}",
+      "organization": "283 Greene LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0776",
+      "file_name": "NYPSC annual in-service submeter report 283 GREENE AVE. BROOKLYN, NY 11238.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/30/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66CBFD5D-368A-4343-AC41-2271609CC876}",
+      "organization": "283 Greene LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0776",
+      "file_name": "CASE 18-E-0776 ORDER ACCEPTANCE LETTER.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8762AAED-CFF5-4E42-9202-78C2498AF0B1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0776",
+      "file_name": "365_18-E-0776.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information II to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CCF8D9B-687F-4691-A463-2803B97BEC75}",
+      "organization": "283 Greene LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0776",
+      "file_name": "Additional Information II Case Number 18-E-0776.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information Regarding the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D42CE08D-FA4F-44EF-A2FC-B0C28C625991}",
+      "organization": "283 Greene LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0776",
+      "file_name": "Additional Information Case Number 18-E-0776.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 283 Greene LLC to Submeter Electricity at 283 Greene Ave, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9F92122-3C79-4D00-A920-F89CBD829D06}",
+      "organization": "283 Greene LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0776",
+      "file_name": "283 Greene Ave. Notice of Intent to Submetering.pdf"
+    }
+  ]
+}

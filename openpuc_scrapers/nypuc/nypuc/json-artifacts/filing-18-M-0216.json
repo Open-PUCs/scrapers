@@ -1,0 +1,27 @@
+{
+  "case": "18-M-0216",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8198B93-CBE3-44DB-AC2D-595D25435D3E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-M-0216",
+      "file_name": "261_18-M-0216.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BA991EE-3DC8-4302-AD14-C3A018E90A7A}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-M-0216",
+      "file_name": "261_18-M-0216.pdf"
+    }
+  ]
+}

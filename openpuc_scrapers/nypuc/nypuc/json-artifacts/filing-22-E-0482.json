@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0482",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B7F813-E915-4438-B144-D8EC65AA667F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0482",
+      "file_name": "385_22-E-0482 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Letters",
+      "name": "210620 SMR Ack Letter Gonzalez",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B86FE182-7497-48D4-9259-B6A25E386332}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0482",
+      "file_name": "210620 SMR Ack Letter Gonzalez.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "210620 SMR Request Gonzalez",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E1CDBF2-20F1-4D65-A434-A794DDA3C3C4}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-E-0482",
+      "file_name": "210620 SMR Request Gonzalez.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Letters",
+      "name": "210620_Gonzalez_SMD_Final_07182022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6288277-4913-45ED-A2F0-C859ACE5C987}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0482",
+      "file_name": "210620_Gonzalez_SMD_Final_07182022 (1).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0221",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Ms. Zafonte regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={549E8389-FF1F-45AD-8BB6-B41E2132A4C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0221",
+      "file_name": "18-T-0221 16 NYCRR Part 102.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/11/2018",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid -- Collamer Tap Line Part 102 -- Report (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94F1827D-486F-4D8E-94DF-671C4D1BC734}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0221",
+      "file_name": "National Grid -- Collamer Tap Line Part 102 -- Report (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/11/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Collamer Tap Line Part 102 -- Zafonte Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={991D9FAC-6A03-4C4A-AF10-74EF7432006B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0221",
+      "file_name": "Collamer Tap Line Part 102 -- Zafonte Cover Letter.pdf"
+    }
+  ]
+}

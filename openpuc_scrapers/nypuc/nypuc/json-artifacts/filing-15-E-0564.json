@@ -1,0 +1,104 @@
+{
+  "case": "15-E-0564",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Enetics LD-1110",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06BF93DB-F8AE-43A0-AABC-7DB06853830F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0564",
+      "file_name": "361_15e0564.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/11/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request Letter to the Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D693E270-38B6-4484-8B21-0AF1117205E7}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-E-0564",
+      "file_name": "Request Letter to the Secretary.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/11/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "NG Support Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D6DE51-0C93-45EB-B68A-94426A024874}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-E-0564",
+      "file_name": "NG Support Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/09/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Recommendation Letter to the Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C08C7757-9161-4187-9785-6D1D205EF9F8}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-E-0564",
+      "file_name": "RecommendationLettertotheSecretary.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/09/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={634AE575-8E45-4D7E-A293-365E73F9AED9}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-E-0564",
+      "file_name": "Filing Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/09/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Enetics LD-1XXX NILM Recorder",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2092ECFB-FE2A-43AF-8423-0A3A176AD563}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-E-0564",
+      "file_name": "Enetics LD-1XXX NILM Recorder.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "LD-1203 Installation manual v3.1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF07C371-D875-4BF1-8A9B-76F15B9C3130}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0564",
+      "file_name": "LD-1203 Installation manual v3.1.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "LD-1110 Installation Manual 32",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5076078C-065C-410D-AC4E-271AEBFE2AD6}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0564",
+      "file_name": "LD-1110 Installation Manual 32.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/22/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Enetics, Inc. for Approval of Non-Intrusive Appliance Load Monitoring Equipment.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62CE8C3D-4785-4E8F-8CDF-9EFDBA38F03F}",
+      "organization": "Enetics, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-E-0564",
+      "file_name": "PetitiontotheSecretary.pdf"
+    }
+  ]
+}

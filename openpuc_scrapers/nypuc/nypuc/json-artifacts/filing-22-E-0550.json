@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0550",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "22-E-0550 55 Central Park West Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50A06989-0000-CE1A-BC69-08A5EC84D0F5}",
+      "organization": "Accurate Energy Group",
+      "itemNo": "4",
+      "docket_id": "22-E-0550",
+      "file_name": "22-E-0550 55 Central Park West Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30AEB487-0000-C290-A188-326DF22609F3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0550",
+      "file_name": "377_22-E-0550.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/08/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00BEC286-0000-CC12-922A-3A37D71E33C1}",
+      "organization": "Accurate Energy Group",
+      "itemNo": "2",
+      "docket_id": "22-E-0550",
+      "file_name": "55 Central Park West Case 22-E-0550 Submeter App AEG Response to PSC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/05/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 55 Street Corp. to Submeter Electricity at 55 Central Park West, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FF195DE-D867-43ED-9C99-59878EEAA49A}",
+      "organization": "55 Street Corp.",
+      "itemNo": "1",
+      "docket_id": "22-E-0550",
+      "file_name": "Notice of Intent.pdf"
+    }
+  ]
+}

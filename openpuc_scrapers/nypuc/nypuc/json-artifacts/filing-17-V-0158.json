@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0158",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8CAC566-93EA-4750-8852-EADDFC84ABA3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0158",
+      "file_name": "661_17-V-0158.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast, LLC for Approval of the Renewal of its Franchise with Village of Bergen, County of Genesee, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={757698F4-D612-4005-9119-A65CC171C5F5}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0158",
+      "file_name": "BERGEN, VLG RENEWAL DOCS TO PSC, 03.14.17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "20-W-0021",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Owera Customer Notification of Commission Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8829AA7E-4ED0-45BE-8E09-A92773FFC1A8}",
+      "organization": "Owera Water Works Transportation Corporation",
+      "itemNo": "5",
+      "docket_id": "20-W-0021",
+      "file_name": "Owera Customer Notification of Commission Decision.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24D0D85C-3D6C-49F0-9850-81F2E60CF44C}",
+      "organization": "Owera Water Works Transportation Corporation",
+      "itemNo": "5",
+      "docket_id": "20-W-0021",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/29/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Owera Water Works Transportation Corporation",
+      "itemNo": "4",
+      "docket_id": "20-W-0021",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving New Tariff and Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BE823E3-4777-4901-AFB9-844FB6E0F136}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-W-0021",
+      "file_name": "462_20-W-0021.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F602E41-005B-412F-80EE-2E72170CC3B1}",
+      "organization": "Owera Water Works Transportation Corporation",
+      "itemNo": "2",
+      "docket_id": "20-W-0021",
+      "file_name": "OWERA Water Works Transportation Corp Tariff Notification Cover Letter(3.2.2020).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F85D1C7A-9CA3-46A1-BC16-52295025891E}",
+      "organization": "Owera Water Works Transportation Corporation",
+      "itemNo": "2",
+      "docket_id": "20-W-0021",
+      "file_name": "OWERA Water Works Transportation Corp Tariff Notification (3.2.2020).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/15/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Owera Water Works Transportation Corporation",
+      "itemNo": "1",
+      "docket_id": "20-W-0021",
+      "file_name": ""
+    }
+  ]
+}

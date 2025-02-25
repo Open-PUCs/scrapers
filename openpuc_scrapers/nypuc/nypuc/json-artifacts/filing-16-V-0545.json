@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0545",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0293F9DE-968F-4340-9063-190A1A7C2873}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0545",
+      "file_name": "661_16v0545.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={718E069B-B6B7-4253-94EF-601C3E75A844}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0545",
+      "file_name": "Putnam Valley Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Westchester Corporation for Approval of the Renewal of its Cable Television Franchise with the Town of Putnam Valley, Putnam County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5A28344-EE23-4206-A061-B13B59BC1775}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0545",
+      "file_name": "Putnam Valley Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10053D2C-B3EB-4C56-A18A-B60A22869E6C}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0545",
+      "file_name": "Putnam Valley Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D53CE79-6229-4866-B119-54FC5EF7A47E}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0545",
+      "file_name": "Putnam Valley Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01A26377-A5A5-4BF8-9CDD-5224D1E9021A}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0545",
+      "file_name": "Putnam Valley Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67845B5C-24C2-4058-82B0-F14E735A35D4}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0545",
+      "file_name": "Putnam Valley Application Cover Letter.pdf"
+    }
+  ]
+}

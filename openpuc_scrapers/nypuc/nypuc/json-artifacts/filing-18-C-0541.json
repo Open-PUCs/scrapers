@@ -1,0 +1,60 @@
+{
+  "case": "18-C-0541",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/04/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16613D9C-06A4-463E-815A-109840C87E7E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "18-C-0541",
+      "file_name": "190304 Verizon Comments.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Inviting Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={964E4D2B-3CDC-4EFF-B25A-63DE8AE2DF33}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-C-0541",
+      "file_name": "18-C-0541 Notice Seeking Comments.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Suffolk County 311 and Caller ID Unblocking Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29BB5AF1-AE4A-454B-B091-BB63404ED8D1}",
+      "organization": "County of Suffolk",
+      "itemNo": "2",
+      "docket_id": "18-C-0541",
+      "file_name": "PSC - 311 call unblocking electronic request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of the County of Suffolk to Implement a Countywide 311 Non-Emergency Service.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CD4E1D7-E006-452D-BD08-4A6542B4FF1B}",
+      "organization": "County of Suffolk",
+      "itemNo": "1",
+      "docket_id": "18-C-0541",
+      "file_name": "311 request to PSC.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "311 Contact for PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7365B011-F398-440C-8593-97EF71989F1D}",
+      "organization": "County of Suffolk",
+      "itemNo": "1",
+      "docket_id": "18-C-0541",
+      "file_name": "311 contact for PSC.pdf"
+    }
+  ]
+}

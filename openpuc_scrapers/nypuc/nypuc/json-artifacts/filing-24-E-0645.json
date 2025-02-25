@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0645",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYISO Letter to LIPA re: PPTNs 2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0824093-0000-CD1B-ACA6-943632046630}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0645",
+      "file_name": "20241118_NYISO Ltr to LIPA_PPTN.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0824093-0000-CD3D-AAFB-38AABED6B9BC}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0645",
+      "file_name": "20241118_CvrLtr to PSC re LIPA PPTN Ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B12B93-0000-C332-BFA7-846392000403}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0645",
+      "file_name": "20241114_NYISO Flng Ltr_PSC Prpsd PPTNs.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment A: Proposed Public Policy Transmission Needs for Consideration for 2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B12B93-0000-CB13-B843-06B68237A9E6}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0645",
+      "file_name": "Attachment A_Proposed PPTNs_2024-2025 cycle.pdf"
+    }
+  ]
+}

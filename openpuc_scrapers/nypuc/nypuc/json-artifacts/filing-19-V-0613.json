@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0613",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5100B71C-0925-4DCE-81E5-797C84CCA1C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0613",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBC9D2C9-D8DD-4A96-86EE-805790689010}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-V-0613",
+      "file_name": "18-01337 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/25/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={119F64D0-D8D0-44E9-BBB5-1FC26C35524E}",
+      "organization": "915 West End Avenue Owner II LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0613",
+      "file_name": "915 West End Ave Owner II, LLC Response to Petition (Matter 18-01337).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 915 West End Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D4B7CD7-7C30-4A49-ADE0-E4A687C653ED}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0613",
+      "file_name": "Petition (915 West End Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={174C06D6-F30C-41EE-BB87-E25972CCD830}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0613",
+      "file_name": "Exhibit 2 (915 West End Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F72C75F1-3CB8-4336-A33D-DD185A5D0EB1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0613",
+      "file_name": "Exhibit 1 (915 West End Av).pdf"
+    }
+  ]
+}

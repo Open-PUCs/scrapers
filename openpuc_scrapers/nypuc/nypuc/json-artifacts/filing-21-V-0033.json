@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0033",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5506861A-29A8-47F3-BF0A-1EEB98F3CB3A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0033",
+      "file_name": "661_21-V-0033 Cable Renewal .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Catlin, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17884875-BF1B-47DE-89C6-34532811EF26}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0033",
+      "file_name": "2021.01.06 T. CATLIN RENEWAL FILED TO PSC lk.pdf"
+    }
+  ]
+}

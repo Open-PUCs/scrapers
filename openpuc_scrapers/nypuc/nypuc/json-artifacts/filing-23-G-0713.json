@@ -1,0 +1,49 @@
+{
+  "case": "23-G-0713",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241017 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502DAF92-0000-C117-BD9F-2A4DB15BCFED}",
+      "organization": "A.L.A.C. Contracting Corp.",
+      "itemNo": "6",
+      "docket_id": "23-G-0713",
+      "file_name": "20241017 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F67A91-0000-C81C-8BDD-361F52A38DD9}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0713",
+      "file_name": "161-C_23-G-0713.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00BC8E8D-0000-C619-89FB-A4282DA07A74}",
+      "organization": "A.L.A.C. Contracting Corp.",
+      "itemNo": "4",
+      "docket_id": "23-G-0713",
+      "file_name": "Response_NYS PSC Order Determining Penalty.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10BA418D-0000-CA14-834C-97F56EEBF477}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0713",
+      "file_name": "161-A_23-G-0713.pdf"
+    }
+  ]
+}

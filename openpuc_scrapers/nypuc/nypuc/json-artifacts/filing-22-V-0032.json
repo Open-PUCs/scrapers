@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0032",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C80BBA05-8E8B-46CC-B079-B383C62B1F22}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0032",
+      "file_name": "661_22-V-0032.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02185 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D757140-9634-4FC1-9EF1-DF8400E38483}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0032",
+      "file_name": "21-02185 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 100 Madison Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FC30566-49AC-4DB5-9FDA-AE19454BF0C6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0032",
+      "file_name": "3-211014 Petition (100 MADISON ST) (Post-Survey).pdf"
+    }
+  ]
+}

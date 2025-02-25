@@ -1,0 +1,49 @@
+{
+  "case": "21-C-0231",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/17/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DFC81B5-590A-4B28-AAAD-FC08C7C819B1}",
+      "organization": "ANPI Business, LLC, ANPI, LLC, Broadvox-CLEC, LLC, GTCR Onvoy Holdings LLC, Neutral Tandem - New York, LLC",
+      "itemNo": "3",
+      "docket_id": "21-C-0231",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00837 Onvoy et al OOL Letter - signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCA9985C-C662-4296-B2B3-DA0BB43A467B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-C-0231",
+      "file_name": "21-00837 Onvoy et al OOL Letter - signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60D93A50-C559-4537-B62C-B982D7205B89}",
+      "organization": "ANPI Business, LLC, ANPI, LLC, Broadvox-CLEC, LLC, GTCR Onvoy Holdings LLC, Neutral Tandem - New York, LLC, Onvoy, LLC, Sinch US Holding Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0231",
+      "file_name": "NY Transmittal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of GTCR Onvoy Holdings, LLC, Transferor, Onvoy, LLC, Broadvox-CLEC, LLC, ANPI Business, LLC, ANPI, LLC, and Neutral Tandem-New York, LLC, Licensees, and Sinch US Holding Inc., Transferee, for Approval to Transfer Indirect Control of Licensees to Transferee; and for Licensees to Participate in Certain Financing Arrangements.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={164E3AEF-35A1-4413-B396-D8B3ABAB1B84}",
+      "organization": "ANPI Business, LLC, ANPI, LLC, Broadvox-CLEC, LLC, GTCR Onvoy Holdings LLC, Neutral Tandem - New York, LLC, Onvoy, LLC, Sinch US Holding Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0231",
+      "file_name": "NY Joint Petition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "17-G-0416",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1D483EB-8BD7-418F-931F-3495539C7488}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0416",
+      "file_name": "163 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Letter Denying Request for Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0C8C981-BE72-404B-8391-7956B6A0930C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-G-0416",
+      "file_name": "718780 Alli_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Letter Denying Request for Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={873E385F-A4D9-4584-B305-152220457BE6}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-G-0416",
+      "file_name": "Alli Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/11/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54F90476-B72A-4126-BC9C-0D785362F12E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-G-0416",
+      "file_name": "Case #718780 Bebi Alli vs Con edison -062117_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "15-C-0433",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2962D0A3-D575-4C73-A0B6-B665933CEAB4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-C-0433",
+      "file_name": "562_Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB96A756-2635-4929-8DA6-B098ED2C9053}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-C-0433",
+      "file_name": "562_Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={899B0513-2497-4E52-9155-5CCB4B5C3A53}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-C-0433",
+      "file_name": "330852_AckLetter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Table of Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={768393DA-348A-4CC5-BB20-93BA3C51EEFD}",
+      "organization": "Caledonia Mumford SD",
+      "itemNo": "2",
+      "docket_id": "15-C-0433",
+      "file_name": "330852_Table of Exhibits - Caledonia.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE4B5F02-5FA6-4A61-B8EE-8DFA09B93ABF}",
+      "organization": "Caledonia Mumford SD",
+      "itemNo": "2",
+      "docket_id": "15-C-0433",
+      "file_name": "330852_appeal_petition07-16kb.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4E20CD1-01A1-4A31-B82C-9E13B12121BA}",
+      "organization": "Caledonia Mumford SD",
+      "itemNo": "2",
+      "docket_id": "15-C-0433",
+      "file_name": "330852_Appeal Exhibits 7-16-15.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/22/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04B92561-AC01-488C-A402-FC0774ABC6E7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-C-0433",
+      "file_name": "330852_IHD.pdf"
+    }
+  ]
+}

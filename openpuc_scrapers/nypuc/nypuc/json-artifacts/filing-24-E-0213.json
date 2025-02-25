@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0213",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0D6DB90-0000-CF18-A8DE-C0EDD7AD3D26}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0213",
+      "file_name": "374_24-E-0213_71824final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "East River ESS (174 Power Global) - Petition for Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E029AB8E-0000-C018-8575-FF9FB55FD881}",
+      "organization": "East River ESS, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0213",
+      "file_name": "Case 24-E-____ - East River ESS (174 Power Global) - Verified Petition for Order Approving Financing (4.4.2024).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E029AB8E-0000-C93B-A04A-BC99579E212B}",
+      "organization": "East River ESS, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0213",
+      "file_name": "Case 24-E-____ - East River ESS (174 Power Global) - COVER LETTER - Verified Petition for Order Approving Financing (4.4.2024).pdf"
+    }
+  ]
+}

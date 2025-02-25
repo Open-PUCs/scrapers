@@ -1,0 +1,82 @@
+{
+  "case": "17-E-0413",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/16/2019",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid Compliance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F6C3467-3692-44D0-A2C0-4DFE3C1DFFE4}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "17-E-0413",
+      "file_name": "Case 17-E-0413 - National Grid Compliance Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98192C07-04E1-4408-BFA9-0D1D407E5C25}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0413",
+      "file_name": "378_17-E-0413.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2017",
+      "nypuc_doctype": "Comments",
+      "name": "National Grid Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E98AE9F9-E92F-426A-A1E3-4959BE3646E3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "17-E-0413",
+      "file_name": "Case 17-E-0413 - National Grid Comments.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/04/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Reply to NiMo Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9930C0E7-38FB-47E6-8139-9CBDBE28722B}",
+      "organization": "Fortress Partners, LLC, United Residential Group, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0413",
+      "file_name": "Reply to NiMo Comments.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Comments",
+      "name": "National Grid Reply Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={748986C1-A40A-4337-8656-17AE27977047}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "17-E-0413",
+      "file_name": "Case 17-E-0413 - National Grid Reply Comments.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EB5240D-8899-4334-857C-DFC8425312D7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "17-E-0413",
+      "file_name": "Case 17-E-0413 - National Grid Filing Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint of United Residential Group, LLC and Fortress Partners, LLC Against Niagara Mohawk Power Corporation d/b/a National Grid Concerning Non-Refundable Deposits for Upgrades.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE587B67-4F9D-4433-A7D0-C406735D8A30}",
+      "organization": "Fortress Partners, LLC, United Residential Group, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0413",
+      "file_name": "United Residential-Fortress Verified Petition & Complaint 7-7-17 FINAL w-Exhs.pdf"
+    }
+  ]
+}

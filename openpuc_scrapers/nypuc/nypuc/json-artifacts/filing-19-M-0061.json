@@ -1,0 +1,49 @@
+{
+  "case": "19-M-0061",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0061 Shariff Ack Letter 01292019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D9509EA-7057-41D9-AD77-C2DFC3F4D9C8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-M-0061",
+      "file_name": "19-M-0061 Shariff Ack Letter 01292019_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-M-0061 Shariff Request for Rehearing 01282019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92E7AD9E-C838-4D94-8C04-7399F1E6F231}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-M-0061",
+      "file_name": "19-M-0061 Shariff Request for Rehearing 01282019_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0061 Shariff SMD Final 01152019 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C582F69-19D5-4D78-8873-3941C830CC40}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-M-0061",
+      "file_name": "19-M-0061 Shariff SMD Final 01152019 Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding A Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F312473E-20A1-42E5-B92C-8CF078400221}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0061",
+      "file_name": "262 Letter_Redacted.pdf"
+    }
+  ]
+}

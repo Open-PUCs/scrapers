@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0349",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Sabovic Ack Letter 06232021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={916F8499-1A4C-4741-B9D5-DA951465CBB9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-G-0349",
+      "file_name": "21-G-0349 Sabovic Ack Letter 06232021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Sabovic Rehearing Request 06172021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA1B117E-69EC-4385-BD68-46FFBD8D82B3}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-G-0349",
+      "file_name": "21-G-0349 Sabovic Rehearing Request 06172021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Sabovic SMD Final 05252021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={235F77D8-7989-435E-B516-AC9ED9618422}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-G-0349",
+      "file_name": "21-G-0349 Sabovic SMD Final 05252021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F6F603C-809A-49DF-AF51-B8804B191053}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-G-0349",
+      "file_name": "164_21-G-0349 Letter_Redacted.pdf"
+    }
+  ]
+}

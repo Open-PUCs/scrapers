@@ -1,0 +1,49 @@
+{
+  "case": "20-M-0492",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/30/2021",
+      "nypuc_doctype": "Letters",
+      "name": "983394 Deeb Ack Letter 10072020 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E5F2239-834E-4D0C-882A-9B78A5248071}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-M-0492",
+      "file_name": "983394 Deeb Ack Letter 10072020 Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/30/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "983394 Deeb Rehearing Request Redacted 10062020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B49D4FCE-9EBB-41E2-ADDE-A6E64A9FB2EC}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-M-0492",
+      "file_name": "983394 Deeb Rehearing Request Redacted 10062020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/30/2021",
+      "nypuc_doctype": "Letters",
+      "name": "983394 Deeb SMD Final 09232020 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DF5CD96-CB94-4ED7-8CC9-21D73A766EB7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-M-0492",
+      "file_name": "983394 Deeb SMD Final 09232020 Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={779C1364-A031-4987-9744-BF5CDE6842AF}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-M-0492",
+      "file_name": "262_Letter 20-M-0492_Redacted.pdf"
+    }
+  ]
+}

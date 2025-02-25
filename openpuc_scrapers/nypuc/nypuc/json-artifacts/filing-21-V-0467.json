@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0467",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A215878-3979-4E90-A0A9-CB4C8A6C2A81}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0467",
+      "file_name": "661_21-V-0467.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit 7 Legal Notice Proof of Pub. and Affidavit Colchester Franchise Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57BC5746-D41D-41D9-9183-657892D17BB1}",
+      "organization": "Margaretville Telephone Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-V-0467",
+      "file_name": "Exhibit 7 Legal Notice Proof of Pub. and Affidavit Colchester Franchise Renewal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/30/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Colchester Franchise Renewal 2021 - Exhibits 1-9",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91CE7D34-7F2D-41CD-AC1E-B12926CE1E39}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "21-V-0467",
+      "file_name": "Colchester Franchise Renewal 2021 - Exhibits 1-9.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "16-G-0325",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of 150-Day Provision of the Commission's Statement of Policy on Test Periods in Rate Proceedings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={922A470D-3A71-49A9-8CB5-4CF15F179E61}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-G-0325",
+      "file_name": "167_16g0325 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Proposed SAPA Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6FB2B8F-2EB4-44E9-A1A5-50DFCF0C992B}",
+      "organization": "Corning Natural Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "16-G-0325",
+      "file_name": "SAPA Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Corning Natural Gas Corporation for a Waiver of 150 Day Provision of Statement of Policy on Test Periods in Rate Proceedings.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12AC3A7D-1DA0-4408-AA48-8D81CA73AB90}",
+      "organization": "Corning Natural Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "16-G-0325",
+      "file_name": "Letter to Secretary Burgess.pdf"
+    }
+  ]
+}

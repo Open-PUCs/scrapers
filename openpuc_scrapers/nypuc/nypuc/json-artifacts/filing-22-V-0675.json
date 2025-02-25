@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0675",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B784C495-A8BE-4F26-94E3-9179F6344DC8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0675",
+      "file_name": "661_22-V-0675.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01860 Letter to Building Owner 10.12.22_225 Madison St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={999EA11E-1B21-444C-B20B-D10C39EE27D8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0675",
+      "file_name": "22-01860 Letter to Building Owner 10.12.22_225 Madision St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 225 Madison Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AA26D6C-20DA-4C50-8955-1E16F11BAF83}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0675",
+      "file_name": "220921-7 Petition (225 MADISON ST) (Post-Survey).pdf"
+    }
+  ]
+}

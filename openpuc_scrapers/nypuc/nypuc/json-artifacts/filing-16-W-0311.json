@@ -1,0 +1,49 @@
+{
+  "case": "16-W-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Birch Hill Water Company Inc.",
+      "itemNo": "4",
+      "docket_id": "16-W-0311",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Birch Hill Water Company Inc. Certificate of Dissolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C8E7AA3-036A-4A33-A311-92A830E27BE9}",
+      "organization": "Birch Hill Water Company Inc.",
+      "itemNo": "3",
+      "docket_id": "16-W-0311",
+      "file_name": "Certificate of Dissolution Scanned.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Dissolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA0F1AED-C571-46E0-960B-B6BA81B6707C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-W-0311",
+      "file_name": "461_16-W-0311.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Birch Hill Water Company Inc. for Approval of the Transfer of all of the Water Supply Assets to the Town of Southeast.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B36CD7AE-3C13-4082-A418-17F29E61B25E}",
+      "organization": "Birch Hill Water Company Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0311",
+      "file_name": "Birch Hill Petition.pdf"
+    }
+  ]
+}

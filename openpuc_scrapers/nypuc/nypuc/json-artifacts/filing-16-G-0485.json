@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0485",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B93D78E-E266-4904-A0A9-AF8CACC416C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-G-0485",
+      "file_name": "165_16g0485 16g0486 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/25/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "KeySpan Gas East Corp. dba Brooklyn Union of L.I.",
+      "itemNo": "1",
+      "docket_id": "16-G-0485",
+      "file_name": ""
+    }
+  ]
+}

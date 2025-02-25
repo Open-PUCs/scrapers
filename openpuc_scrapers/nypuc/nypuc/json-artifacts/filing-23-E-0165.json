@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0165",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D3108F-0000-C440-B28A-5ACC1ADFD5A5}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0165",
+      "file_name": "366_23-E-0165.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submeterer-Identification-Form 9 15 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={805C998A-0000-CE13-A5D4-AE56F7F7E0B5}",
+      "organization": "UB Family, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0165",
+      "file_name": "submeterer-identification-form 9 15 2023.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={805C998A-0000-CE30-BECD-803537309201}",
+      "organization": "UB Family, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0165",
+      "file_name": "Cover Letter - Ewing questions 9 15 2023.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/12/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Water St Bing Apts - PSC Questions re Submetering Application Owner Responses 8 16 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10C8898A-0000-C71D-A53A-6F4E8EFB2FFE}",
+      "organization": "UB Family, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0165",
+      "file_name": "Water St Bing Apts - PSC Questions re Submetering Application Owner Responses 8 16 2023.Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/12/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={203E8A8A-0000-CB1B-93BA-E363DA28D163}",
+      "organization": "UB Family, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0165",
+      "file_name": "Cover Letter - Ewing questions.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of UB Family, LLC to Submeter new 123 residential apartments located at 183 Water Street, Binghamton, NY, Located in the Territory of NYS Electric and Gas Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30165887-0000-CF1E-9948-F00FCE28FD69}",
+      "organization": "United Development Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0165",
+      "file_name": "PSC Submetering Notice of Intent Executed.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40165887-0000-C32D-8328-6A029A62C56D}",
+      "organization": "United Development Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0165",
+      "file_name": "Cover Letter - NOI for Submetering.pdf"
+    }
+  ]
+}

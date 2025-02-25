@@ -1,0 +1,38 @@
+{
+  "case": "16-M-0712",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Pilot Agreement and Sale-Leaseback Type Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={518E737F-1454-4592-915D-088CA3D24AC7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-M-0712",
+      "file_name": "269_16-M-0712.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Nine Mile Point Nuclear Station, LLC for a Declaratory Ruling Regarding Lease-Leaseback Transaction and Related PILOT Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF262FCB-72D8-47CE-8483-FDD98E796ABE}",
+      "organization": "Nine Mile Point Nuclear Station, LLC",
+      "itemNo": "1",
+      "docket_id": "16-M-0712",
+      "file_name": "NMP Petition for DR re lease (HBROC-2985028 v1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA3B604A-3817-43EA-AB38-A8247F2D4EA9}",
+      "organization": "Nine Mile Point Nuclear Station, LLC",
+      "itemNo": "1",
+      "docket_id": "16-M-0712",
+      "file_name": "NMP cover (HBROC-2985129 v1).pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "24-M-0482",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0CD4A93-0000-C117-B8E6-54468F92E015}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-M-0482",
+      "file_name": "267_24-M-0482_112024final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Takes Action Against Three ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C08E2B93-0000-C414-AFA7-74E0753F8E9C}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-M-0482",
+      "file_name": "pr 24099 ESCOs.pdf"
+    }
+  ]
+}

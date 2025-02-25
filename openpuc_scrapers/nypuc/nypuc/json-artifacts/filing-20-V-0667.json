@@ -1,0 +1,104 @@
+{
+  "case": "20-V-0667",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A3AA2FB-2B93-438A-851E-96C4D7DC6D46}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0667",
+      "file_name": "661_20-V-0667 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DCB5699-6794-418D-A8C8-13D6AD73063C}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "20-V-0667",
+      "file_name": "Cover Letter for CSC Acquisition-NY, Inc. Publication Affidavit (Sag Harbor).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "CSC Acquisition-NY, Inc. Publication Affidavit (Sag Harbor)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF40FEEA-A71F-4324-80BE-93FD2CE312AB}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "20-V-0667",
+      "file_name": "CSC Acquisition-NY, Inc. Publication Affidavit (Sag Harbor).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance (Sag Harbor)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DBB647C-0EED-4868-B325-D35CE99DE540}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0667",
+      "file_name": "Proof of Performance (Sag Harbor).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Franchise Renewal Agreement (Sag Harbor)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={797FCDCD-858D-4A2B-9E29-D11041EE810E}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0667",
+      "file_name": "Exhibit IV - Franchise Renewal Agreement (Sag Harbor).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Municipal Resolution (Sag Harbor)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73F2E0F7-AB53-444E-9429-22AD7E5AD25E}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0667",
+      "file_name": "Exhibit III - Municipal Resolution (Sag Harbor).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit II - Municipal Newspaper Publication Affidavit (Sag Harbor)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17B7B436-4FC5-4FC2-A408-81071AEEBA2D}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0667",
+      "file_name": "Exhibit II - Municipal Newspaper Publication Affidavit (Sag Harbor).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2 Application for Renewal of Franchise + Attachments (Sag Harbor)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EF98FCA-3682-495D-A545-4A7B93518E33}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0667",
+      "file_name": "Exhibit I - R-2 Application for Renewal of Franchise + Attachments (Sag Harbor).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={234F8B44-C3D7-4027-9C8E-7F3507F619C5}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0667",
+      "file_name": "Application Cover Letter (Sag Harbor).pdf"
+    }
+  ]
+}

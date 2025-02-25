@@ -1,0 +1,82 @@
+{
+  "case": "16-W-0302",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/05/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "PHWC Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B666E72-BCDE-4A33-94FD-F82B5A7F1620}",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "6",
+      "docket_id": "16-W-0302",
+      "file_name": "PHWC Customer Notification Letter.1.3.17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/05/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C439786-BA40-47CC-A79A-07D2E820AB65}",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "6",
+      "docket_id": "16-W-0302",
+      "file_name": "LETT.Pheasant Hill.16-W-0302.Compliance.Cust.Notification.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/28/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "5",
+      "docket_id": "16-W-0302",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E0CD47A-AC84-45FD-8EA3-4F42915EECFF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-W-0302",
+      "file_name": "462_16w0302.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FEDC8A8-E444-4083-B68C-DE55BF7E17BC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-W-0302",
+      "file_name": "16-W-0302 Pheasant Hill Postponement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/15/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "2",
+      "docket_id": "16-W-0302",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/17/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "1",
+      "docket_id": "16-W-0302",
+      "file_name": ""
+    }
+  ]
+}

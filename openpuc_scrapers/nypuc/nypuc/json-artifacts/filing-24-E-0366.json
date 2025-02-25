@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0366",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Cancellation of Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009A9B92-0000-C317-B840-0B0B3815399F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-E-0366",
+      "file_name": "369_24-E-0366 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "24-E-0366",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "24-E-0366",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0366",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0366",
+      "file_name": ""
+    }
+  ]
+}

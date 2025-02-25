@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0758",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87E69CBB-0992-4E81-8724-EC9CC9C929C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0758",
+      "file_name": "666_15v0758.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/30/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Village of Coxsackie, Greene County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC35BF0A-2D4B-4714-B4D0-3ACC0394D77C}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0758",
+      "file_name": "VILLAGE OF COXSACKIE FRANCHISE RENEWAL.pdf"
+    }
+  ]
+}

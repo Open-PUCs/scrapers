@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0177",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={555C2070-041A-4DEA-85D3-B65A780884A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0177",
+      "file_name": "665_20-V-0177 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6DDCCA7-551B-4C64-A397-356ECC3196E6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0177",
+      "file_name": "19-00849 Merged Letters.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 41-56 Denman Street, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCF1AF0D-2214-4B51-B7F4-D2F9D1049146}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0177",
+      "file_name": "Petition (41-56 Denman St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F4F9A64-C5A3-4733-AB77-9640CE663D54}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0177",
+      "file_name": "Exhibit 2 (41-56 Denman St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAFEF317-75FD-48B8-A230-D85877E1525A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0177",
+      "file_name": "Exhibit 1 (41-56 Denman St).pdf"
+    }
+  ]
+}

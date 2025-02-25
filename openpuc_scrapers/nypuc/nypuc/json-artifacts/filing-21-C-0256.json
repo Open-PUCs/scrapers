@@ -1,0 +1,27 @@
+{
+  "case": "21-C-0256",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DCT Telecom Group, LLC Under Section 101 of the Public Service Law For Authority to Participate in a Financing Arrangement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50870C5C-638A-4B44-894F-5ED4888494FC}",
+      "organization": "DCT Telecom Group, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0256",
+      "file_name": "MBS DCT NY PSC Financing Application (4-28-21).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E78B230A-382B-4747-8A96-449F36F40E11}",
+      "organization": "DCT Telecom Group, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0256",
+      "file_name": "MBS DCT NY PSC Cover Letter for Financing Application-c3.pdf"
+    }
+  ]
+}

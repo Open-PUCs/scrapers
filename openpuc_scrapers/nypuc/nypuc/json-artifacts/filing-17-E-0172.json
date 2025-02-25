@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0172",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "716624 Genre Ack Letter 03272017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95571700-5E98-46F5-8CDD-47B63F90749F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0172",
+      "file_name": "716624 Genre Ack Letter 03272017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "716624 Genre Rehearing Request 03222017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D2F75FA-0318-4BE1-8254-D20490F4E9CD}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0172",
+      "file_name": "716624 Genre Rehearing Request 03222017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "716624 Shufelt SMD Final 03062017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E83DF75-C33B-4C96-A67C-1CF4772254EF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0172",
+      "file_name": "716624 Shufelt SMD Final 03062017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5862F3B4-1DB0-47FF-A5A4-2B0FE0F25A23}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0172",
+      "file_name": "364_17-E-0172 Letter_Redacted.pdf"
+    }
+  ]
+}

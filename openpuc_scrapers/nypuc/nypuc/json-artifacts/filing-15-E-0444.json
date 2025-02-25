@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0444",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={565B90BA-73A1-40DB-94B8-1309A1C44111}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0444",
+      "file_name": "362_15e0444.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AE9A800-E042-4CEC-ADB9-44103E48C2DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0444",
+      "file_name": "15e0444 Postponement of tariff filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "15-E-0444",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/14/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated Q4-2014 FERC Form 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0427468B-1E5C-4D1B-9A2D-8D88AFDFF55D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "15-E-0444",
+      "file_name": "Updated Q4-2014 FERC Form 1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/30/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "15-E-0444",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/27/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "15-E-0444",
+      "file_name": ""
+    }
+  ]
+}

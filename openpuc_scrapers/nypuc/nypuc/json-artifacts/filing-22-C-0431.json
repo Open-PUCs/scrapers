@@ -1,0 +1,27 @@
+{
+  "case": "22-C-0431",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FC12B57-51EA-414D-AA10-294B6F6984A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-C-0431",
+      "file_name": "561_22-C-0431 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "DISH Wireless LLC ETC Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4CB52B2-8A5C-4A06-B0D9-0C1B90F3855E}",
+      "organization": "DISH Wireless L.L.C.",
+      "itemNo": "1",
+      "docket_id": "22-C-0431",
+      "file_name": "DISH Wireless LLC ETC Petition.pdf"
+    }
+  ]
+}

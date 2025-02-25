@@ -1,0 +1,49 @@
+{
+  "case": "16-M-0300",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition Regarding Property Tax Benefits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EADA4439-C881-4EBC-A221-5BB67344042B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-M-0300",
+      "file_name": "261_16-M-0300.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Postponing Evidentiary Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFE1475D-1F3E-414A-9211-1747D44FE9D8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-M-0300",
+      "file_name": "16m0300 et al Notice Postponing Evidentiary Hearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Consolidated Edison Company of New York, Inc. and Orange and Rockland Utilities, Inc. for Approval Regarding Disposition of Property Tax Benefits from the Town of Ramapo.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9AEA73FD-B59E-4C4B-9ADA-5527D5288674}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-M-0300",
+      "file_name": "Cover Letter - Ramapo Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "CE & OR Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D41287C9-34B9-4311-802B-4CC4DC7A3653}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-M-0300",
+      "file_name": "CE & OR Petition.pdf"
+    }
+  ]
+}

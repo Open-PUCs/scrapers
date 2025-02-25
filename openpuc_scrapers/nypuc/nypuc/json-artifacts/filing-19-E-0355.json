@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0355",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EE5D364-1901-4490-BEE9-CDB80DA90EEC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0355",
+      "file_name": "368_ 19-E-0355 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C23AC35-FDFB-4F8C-A642-46B87D76BB8F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0355",
+      "file_name": "368 19-E-0355 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBC5FE09-0610-412F-B64A-C10DD1129020}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0355",
+      "file_name": "954272 235 W 108 St Corp.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5001DEA-638E-40B5-B8FF-121C33F48BD5}",
+      "organization": "235 W 108 Street Corp.",
+      "itemNo": "2",
+      "docket_id": "19-E-0355",
+      "file_name": "954272 235 W 108 Street v Con Ed Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for an Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A6CE013-66BF-4778-8740-106F93B5346F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0355",
+      "file_name": "Case #954272 - (235 W 108 St Corp) Informal Hearing Denial Request Ltr final.pdf"
+    }
+  ]
+}

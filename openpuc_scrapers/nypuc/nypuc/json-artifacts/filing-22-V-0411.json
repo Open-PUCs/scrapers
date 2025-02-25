@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0411",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A45A8D9-9375-41D0-9266-CEA99EFF39E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0411",
+      "file_name": "663_22-V-0411 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00965 Letter to Building Owner 849 St Nicholas Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A47CBFA7-3456-4738-8CB5-101EB686CE1F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0411",
+      "file_name": "22-00965 Letter to Building Owner 849 St Nicholas Ave.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 849 St. Nicholas Avenue, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E13FE6C-0FB7-4C0D-94C1-E21B20B1EB2F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0411",
+      "file_name": "220504-14 Petition (849 ST NICHOLAS AV) (Post-Survey).pdf"
+    }
+  ]
+}

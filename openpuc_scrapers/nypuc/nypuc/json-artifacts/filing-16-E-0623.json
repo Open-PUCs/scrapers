@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0623",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Concurrence Tariff",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94E1046A-CB6B-4620-9FE3-0E27635FD127}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0623",
+      "file_name": "366_16e0623.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/23/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Solvay, Electric Department",
+      "itemNo": "3",
+      "docket_id": "16-E-0623",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Solvay, Electric Department",
+      "itemNo": "2",
+      "docket_id": "16-E-0623",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/31/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Solvay, Electric Department",
+      "itemNo": "1",
+      "docket_id": "16-E-0623",
+      "file_name": ""
+    }
+  ]
+}

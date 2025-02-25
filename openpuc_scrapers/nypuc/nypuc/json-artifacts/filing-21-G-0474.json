@@ -1,0 +1,104 @@
+{
+  "case": "21-G-0474",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50020389-0000-C61F-8124-DDD80B6AD507}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "21-G-0474",
+      "file_name": "163_21-G-0474 6.28.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Con Ed Rehearing - Acknowledgement Letter 120222",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBCBCC41-1165-4B14-B46D-7E7F20D2E77C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "21-G-0474",
+      "file_name": "Con Ed Rehearing 21-G-0474 et al - Ack Letter 120222.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6811111-0B76-41C4-8A53-64C17A0AE22B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "21-G-0474",
+      "file_name": "2022-11-17 Con Edison Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hausen Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={932D2160-8DF4-4B37-9323-8D1E9A60F41E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-G-0474",
+      "file_name": "Hausen Compliance Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD953C66-8139-4062-AF2D-8BC88C183354}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0474",
+      "file_name": "166_21-G-0503 et al Determination & Attachment.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51E6E729-F21D-437C-97C9-31C31192CD30}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-G-0474",
+      "file_name": "166_21-G-0474 letter.Redact - David Hausen final_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/08/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC3C4384-A137-4009-A384-305B884D4BA7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0474",
+      "file_name": "154875 Hausen Ack _Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/08/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52A7236B-2D8F-4AD6-A78D-548372648D96}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-G-0474",
+      "file_name": "Appeal 154875_Redacted.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/08/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F64808C-22B1-4099-93B8-AFBE1EFDC9D9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0474",
+      "file_name": "IH Denial 154875_Redacted.pdf"
+    }
+  ]
+}

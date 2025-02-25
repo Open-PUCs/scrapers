@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0289",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B09D5F90-0000-CA16-A4E2-83BA1ECAA628}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-G-0289",
+      "file_name": "161-A_24-G-0289 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240327 - Response to Consent Offer Letter - will not sign",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={101D9A8E-0000-C71D-908D-BF84429294D9}",
+      "organization": "Pilon Construction Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0289",
+      "file_name": "20240327 - Response to Consent Offer Letter - will not sign.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DAC68D-0000-CE1C-AF32-950D450F7626}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0289",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

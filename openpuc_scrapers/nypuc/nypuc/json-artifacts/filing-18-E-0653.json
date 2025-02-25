@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0653",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF430F1F-7663-4AB6-9536-99FF3E68124F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0653",
+      "file_name": "367_18-E-0653.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of AP Cricket Valley Holdings II, Inc., Shoseki US Capital Inc., Cricket Valley Energy Center LLC, and Cricket Valley Energy Partners LLC, for a Declaratory Ruling Regarding a Transfer of Ownership Interests or, in the Alternative, an Approval Pursuant to Section 70 of the Public Service Law and for a Declaratory Ruling on Jurisdiction.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D176BEA0-3EAC-4AF5-9B31-E07C0F6EF30B}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Partners, LLC, Shoseki US Capital Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0653",
+      "file_name": "CVEC Petition 10-12-18..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B99E1C9C-B82B-462A-B4F5-C315F7B9EB86}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Partners, LLC, Shoseki US Capital Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0653",
+      "file_name": "Cover Letter 10-12-18.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0572",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C Village of Fredonia",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C831FF0-232E-452D-9AD4-9B0514C37A36}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "21-E-0572",
+      "file_name": "Schedule C Village of Fredonia.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F94665F-DB57-4F40-8511-CFF500A880D7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "21-E-0572",
+      "file_name": "Village of Fredonia JE Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E9BE9566-7BF5-402C-AB0F-B7B0E489E60A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0572",
+      "file_name": "362_21-E-0572 Neg. Dec. .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE095F87-1FB0-4927-8369-02BAEC6733F0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0572",
+      "file_name": "362_21-E-0572 Order.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Fredonia Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07D6DC06-8227-4084-9060-B6FEF0DFA736}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0572",
+      "file_name": "Village of Fredonia Section 70 Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Fredonia - Schedule D Workpaper",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E79BF151-4FCC-4644-8D89-EDBA0C6D5EFE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0572",
+      "file_name": "Village of Fredonia - Schedule D Workpaper.xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Fredonia - Schedule C Workpaper",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25A87C56-261F-4F0C-BE77-C096A5F2D606}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0572",
+      "file_name": "Village of Fredonia - Schedule C Workpaper.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE090929-A585-4A83-BE9F-7887CE352517}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0572",
+      "file_name": "Village of Fredonia Section 70 Filing Letter.pdf"
+    }
+  ]
+}

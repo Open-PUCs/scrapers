@@ -1,0 +1,27 @@
+{
+  "case": "18-E-0539",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A9CFC42-F84C-4626-B376-26C36587CF7E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0539",
+      "file_name": "363_18-E-0539.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for a Declaratory Ruling Regarding the Transfer of Upstream Interests in Astoria Energy II LLC or, In the Alternative, Approval Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DC1536A-9155-481F-8886-65A357361C7C}",
+      "organization": "Astoria Energy II LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0539",
+      "file_name": "Section 70 Petition as filed 8-16-18.pdf"
+    }
+  ]
+}

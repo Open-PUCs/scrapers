@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0531",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Meter Test Plan_75 Lewis Avenue LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90866C8B-0000-C113-839C-1EF59E1A2FD9}",
+      "organization": "75 Lewis Avenue LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0531",
+      "file_name": "Meter Test Plan_75 Lewis Avenue LLC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/07/2023",
+      "nypuc_doctype": "Reports",
+      "name": "75 Lewis Avenue LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={604B5C87-0000-CD17-8402-E85886D901D7}",
+      "organization": "75 Lewis Avenue LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0531",
+      "file_name": "75 Lewis Avenue LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0370587-0000-CC1F-85B9-E6877223A3D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0531",
+      "file_name": "371_22-E-0531 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 75 Lewis Avenue LLC to Submeter Electricity at 75 Lewis Avenue, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59518817-F3C2-4E59-AE98-DE544312873D}",
+      "organization": "75 Lewis Avenue LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0531",
+      "file_name": "Submetering Notice of Intent 75 Lewis Avenue.pdf"
+    }
+  ]
+}

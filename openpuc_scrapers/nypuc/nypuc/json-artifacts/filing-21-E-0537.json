@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0537",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "21-E-0537",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Dynamic Load Management Program Changes",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BAF314B-B7C5-4AD5-A447-167522563E9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "21-E-0537",
+      "file_name": "372_09-E-0115 et al final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT - Tariff Amendment Electric, P.S.C. No. 10, to Modify Provisions in Rider T - Commercial Demand Response Programs.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8DCC0F9-B108-46FA-A94F-7DC1E387116A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0537",
+      "file_name": "e.21-E-0537.p1.ConEdison.RiderT.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/10/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "21-E-0537",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Comments",
+      "name": "AEMA Comments ConEdison ProposedRiderT ChangesFIN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B29C4A90-1A0A-43B0-AEEC-87E471E782C4}",
+      "organization": "Advanced Energy Management Alliance",
+      "itemNo": "4",
+      "docket_id": "21-E-0537",
+      "file_name": "AEMA Comments ConEdison ProposedRiderT ChangesFIN.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/17/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Meeting",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01A566EB-A8F3-41A6-95CD-BAD2CDFCEA52}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0537",
+      "file_name": "14-E-0423 et. al. Notice Announcing Meeting.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/10/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "CE Elec Rider T Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4E8DFBA-F7C5-47BF-AB3A-95C5535F679F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0537",
+      "file_name": "CE Elec Rider T Proof of Publication 2021 1210.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/27/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0537",
+      "file_name": ""
+    }
+  ]
+}

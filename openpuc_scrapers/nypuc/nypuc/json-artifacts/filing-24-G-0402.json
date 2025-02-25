@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0402",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={303E8091-0000-C01D-A44D-48A9F5785BDC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0402",
+      "file_name": "161-A_24-G-0402.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240416 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D0E78E-0000-CD16-9B0E-9643F22D95D0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0402",
+      "file_name": "20240416 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240416 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D0E78E-0000-CD78-8444-C5AF3073C620}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0402",
+      "file_name": "20240416 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240416 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D0E78E-0000-C551-B782-532080A2A1F9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0402",
+      "file_name": "20240416 - Citation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240401 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D0E78E-0000-C733-A5AD-87B644A23E5D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0402",
+      "file_name": "20240401 - Origin of Investigation.pdf"
+    }
+  ]
+}

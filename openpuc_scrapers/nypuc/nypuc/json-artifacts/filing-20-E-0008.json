@@ -1,0 +1,71 @@
+{
+  "case": "20-E-0008",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "July 10 2020 Smart AC Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={246856BE-6FE7-4A6F-9477-EA8BBFAEC6FD}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0008",
+      "file_name": "July 10 2020 Smart AC Letter.pdf (121 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/27/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "20-E-0008",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/15/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Petition to Discontinue Smart AC Kit Program",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4FB6989-450B-4784-9DFD-9DE1CA57C677}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0008",
+      "file_name": "371_20-E-0008 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "April 15 2020 Smart AC Update Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F4A9437-F251-4955-A239-038323EDA81A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0008",
+      "file_name": "April 15 2020 Smart AC Update Letter.pdf (121 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Petition to Discontinue the Smart AC Kit Program within Rider L.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F90CA968-9C79-4BC3-984A-FFED0894EC7D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0008",
+      "file_name": "Rider L 1-7-20.pdf (1021 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. to Discontinue the Smart AC Kit Program within Rider L.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96915D3B-56D6-4A55-9E84-EC3A7AAE5B33}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0008",
+      "file_name": "Rider L 1-6-20.pdf"
+    }
+  ]
+}

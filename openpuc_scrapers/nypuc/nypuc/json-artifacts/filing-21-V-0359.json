@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0359",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C161036-6734-46D5-801A-A454C0139B43}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0359",
+      "file_name": "661_21-V-0359.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Potsdam, Massena County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E84D048-CDD1-4826-A122-2C2E68085072}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0359",
+      "file_name": "2021.06.25 - V. POTSDAM RENEWAL FILED-PSC.pdf"
+    }
+  ]
+}

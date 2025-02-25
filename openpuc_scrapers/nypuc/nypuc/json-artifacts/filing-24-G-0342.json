@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0342",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240808 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E69891-0000-C31E-B1DD-A8B0B3237392}",
+      "organization": "Delta Phase Electrical Corp.",
+      "itemNo": "3",
+      "docket_id": "24-G-0342",
+      "file_name": "20240808 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40081491-0000-C71B-A785-3CED3BE8060A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0342",
+      "file_name": "161-B_24-G-03428224final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240326 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0419A8E-0000-CA1D-B536-07CC2DB7378B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0342",
+      "file_name": "20240326 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240326 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0419A8E-0000-CC7C-AD29-CC47097B1834}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0342",
+      "file_name": "20240326 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240326 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0419A8E-0000-C752-8E19-4156E3DB4E33}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0342",
+      "file_name": "20240326 - Citation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240308 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0419A8E-0000-C638-B831-85B6133D8A29}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0342",
+      "file_name": "20240308 - Origin of Investigation.pdf"
+    }
+  ]
+}

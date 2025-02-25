@@ -1,0 +1,82 @@
+{
+  "case": "21-G-0019",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70261CDC-191C-45CD-9DD8-C7349FF0D00A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "21-G-0019",
+      "file_name": "21-G-0019 019654-Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75CF18AF-5F59-4D96-8C41-1D4567F8FD13}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-G-0019",
+      "file_name": "165_21-G-0019 Determination final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={064FA4BB-7471-4A21-9975-558FB8D6C038}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0019",
+      "file_name": "165_21-G-0019 Letter final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE948D4F-9933-4FF7-AD04-53202047BD88}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-G-0019",
+      "file_name": "Case 21-G-0019 Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5DE4B97-1362-4F34-B92B-84B395E42AAF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0019",
+      "file_name": "019654 S Bronx Housing Development ack letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/04/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79CB6348-B2A3-47DD-81F1-C3FE2CD55E7A}",
+      "organization": "South Bronx Housing Development FD/Wavecrest Management B#950",
+      "itemNo": "2",
+      "docket_id": "21-G-0019",
+      "file_name": "South Bronx HDFC v Con Edison (019654) - Appeal of Informal Decision.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D5F14FC-C997-4D8B-8EB0-FC14F38438CD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0019",
+      "file_name": "019654- South Bronx Housing Development FD- Wavecrest Management B#950 vs. Con Edison.pdf"
+    }
+  ]
+}

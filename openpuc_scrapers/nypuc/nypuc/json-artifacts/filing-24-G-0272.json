@@ -1,0 +1,49 @@
+{
+  "case": "24-G-0272",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B06F5590-0000-C11E-8F51-0378A016AB87}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "24-G-0272",
+      "file_name": "161-B_24-G-0272 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240507 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0AB598F-0000-C110-BC80-489E437F84D8}",
+      "organization": "Carver Companies, Inc. d/b/a Carver Companies, Altamont",
+      "itemNo": "8",
+      "docket_id": "24-G-0272",
+      "file_name": "20240507 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240328 - Payment ($500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={601BE88E-0000-C01D-9B88-0CC486EEA3BE}",
+      "organization": "Carver Companies, Inc. d/b/a Carver Companies, Altamont",
+      "itemNo": "7",
+      "docket_id": "24-G-0272",
+      "file_name": "20240328 - Payment ($500) - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240226 - Training Documentation - CEP 20 Employees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F1EB8D-0000-C61B-99FE-0146D9FF28FC}",
+      "organization": "Carver Companies, Inc. d/b/a Carver Companies, Altamont",
+      "itemNo": "6",
+      "docket_id": "24-G-0272",
+      "file_name": "20240226 - Training Documentation - CEP \u00bf 20 Employees.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "15-E-0690",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93EE84D2-0682-4FCB-B4AB-F6C2272AC7BE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-E-0690",
+      "file_name": "365_15e0690.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of EO 180 Water LLC to Submeter Electricity at 180 Water Street, New York City, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDB3D605-80C6-4E81-8B8D-67084E4C2359}",
+      "organization": "EO 180 Water LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0690",
+      "file_name": "submetering application 11-24-15.pdf"
+    }
+  ]
+}

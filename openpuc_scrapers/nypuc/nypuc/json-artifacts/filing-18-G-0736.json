@@ -1,0 +1,71 @@
+{
+  "case": "18-G-0736",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/06/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess closing case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F3FFC18-C55B-480F-94BF-A60EC2B0BAFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0736",
+      "file_name": "18-G-0736-EastCoastPower-Gas-Case Closure Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D78EDB-7DF6-4B50-A068-4CE60C3D94CA}",
+      "organization": "East Coast Power & Gas, LLC",
+      "itemNo": "3",
+      "docket_id": "18-G-0736",
+      "file_name": "Notice of Withdrawal 2-5-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Initial Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC4A2729-B789-4031-95C4-B9822B0E05C6}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "2",
+      "docket_id": "18-G-0736",
+      "file_name": "Case 18-G-0376 National Grid Initial Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Motions",
+      "name": "ECPG Request for PSC Dispute Res. re. NG-KEDNY (Trade Secret Request)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08902097-DF16-49CC-8DF3-83266CD5D30C}",
+      "organization": "East Coast Power & Gas, LLC",
+      "itemNo": "1",
+      "docket_id": "18-G-0736",
+      "file_name": "ECPG Request for PSC Dispute Res. re. NG-KEDNY (Trade Secret Request).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "ECPG Request for PSC Dispute Res. re. NG-KEDNY (Cover)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5132406E-1297-451A-AD39-B8823359C824}",
+      "organization": "East Coast Power & Gas, LLC",
+      "itemNo": "1",
+      "docket_id": "18-G-0736",
+      "file_name": "ECPG Request for PSC Dispute Res. re. NG-KEDNY (Cover).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "2018-12-05_ECPG Request for PSC Dispute Res. re. NG-KEDNY (PUBLIC)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={462651DC-DC06-4424-9FF7-E579DA3D31E2}",
+      "organization": "East Coast Power & Gas, LLC",
+      "itemNo": "1",
+      "docket_id": "18-G-0736",
+      "file_name": "2018-12-05_ECPG Request for PSC Dispute Res. re. NG-KEDNY (PUBLIC).pdf"
+    }
+  ]
+}

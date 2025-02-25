@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0006",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF058B52-8B04-4C03-A04E-0F2BB16FAA64}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0006",
+      "file_name": "161-C_21-G-0006 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CBD0F80-1DD8-4101-9411-BAD04FE2DDB5}",
+      "organization": "G. Devincentis & Son Construction Co., Inc.",
+      "itemNo": "3",
+      "docket_id": "21-G-0006",
+      "file_name": "Hon.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment to Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50115A82-B2D4-4D01-AE8F-647E74143462}",
+      "organization": "G. Devincentis & Son Construction Co., Inc.",
+      "itemNo": "3",
+      "docket_id": "21-G-0006",
+      "file_name": "20210222 Attachment to Petition for Rehearing 21-G-0006.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/18/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71B85706-8B80-467F-82C0-1C32A5715A0B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0006",
+      "file_name": "162-A_21-G-0006 final.pdf"
+    }
+  ]
+}

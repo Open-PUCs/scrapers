@@ -1,0 +1,313 @@
+{
+  "case": "20-E-0376",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/27/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E63D107-514A-4B94-A1E4-01848E5F05AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "25",
+      "docket_id": "20-E-0376",
+      "file_name": "362_20-E-0376 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement - Central Hudson tariff filings in the Matter of the 2019 Amendment to the Public Authorities Law, Section, 1005 (C. 58, L. 2019)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C55895C3-B6C1-4BB7-8BD3-D9D5573BF8BE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "24",
+      "docket_id": "20-E-0376",
+      "file_name": "CH 20-E-0376 pp.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement - NIMO tariff filings in the Matter of the 2019 Amendment to the Public Authorities Law, Section, 1005 (C. 58, L. 2019)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3666C567-E72E-408E-9127-3F8E9E69B418}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "23",
+      "docket_id": "20-E-0376",
+      "file_name": "NiMo 20-E-0376 pp.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement - RGE tariff filings in the Matter of the 2019 Amendment to the Public Authorities Law, Section, 1005 (C. 58, L. 2019)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={886FABC8-FE34-4D57-976D-47E31FE51070}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "22",
+      "docket_id": "20-E-0376",
+      "file_name": "RGE 20-E-0376 pp.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement - NYSEG tariff filings in the Matter of the 2019 Amendment to the Public Authorities Law, Section, 1005 (C. 58, L. 2019)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29D74509-05AD-4EBA-B3F4-D376B9F0EB32}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "21",
+      "docket_id": "20-E-0376",
+      "file_name": "NYSEG 20-E-0376 pp.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement - Con Edison tariff filings in the Matter of the 2019 Amendment to the Public Authorities Law, Section, 1005 (C. 58, L. 2019)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06E62D31-E7D3-47D7-9B73-56D97B6FCC93}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "20",
+      "docket_id": "20-E-0376",
+      "file_name": "CECONY 20-E-0376 pp.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement - Orange and Rockland tariff filings in the Matter of the 2019 Amendment to the Public Authorities Law, Section, 1005 (C. 58, L. 2019)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B1DFEEC-EC24-4126-B501-757FCAF71D9B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "19",
+      "docket_id": "20-E-0376",
+      "file_name": "OR 20-E-0376 pp.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "18",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "17",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "16",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "11",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "15",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "12",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "14",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "13",
+      "date_filed": "12/16/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "13",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "14",
+      "date_filed": "12/15/2020",
+      "nypuc_doctype": "Comments",
+      "name": "RESA PSC-Support JU Tarriff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BE0772F-CB80-468D-A113-1E68C0FBD714}",
+      "organization": "Retail Energy Supply Association",
+      "itemNo": "12",
+      "docket_id": "20-E-0376",
+      "file_name": "RESA PSC-Support JU Tarriff Amendments.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "12/15/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19F02F96-E391-40FD-99C2-C23E7E2286E1}",
+      "organization": "Retail Energy Supply Association",
+      "itemNo": "12",
+      "docket_id": "20-E-0376",
+      "file_name": "Letter NY State Public Service Commission.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Joint Utilities Response to NYPA Comments on the JU Proposed Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01F53881-4242-491C-A38A-9CF627825F75}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "11",
+      "docket_id": "20-E-0376",
+      "file_name": "Joint Utilities Response to NYPA Comments on the JU Proposed Tariff Amendments.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "11/30/2020",
+      "nypuc_doctype": "Comments",
+      "name": "NYPA Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FB90A4-AD7E-42DA-A0F3-E59A43749518}",
+      "organization": "New York Power Authority",
+      "itemNo": "10",
+      "docket_id": "20-E-0376",
+      "file_name": "20201130 - NYPA Cover Letter - 20-E-0376.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "11/30/2020",
+      "nypuc_doctype": "Comments",
+      "name": "NYPA Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31A84FEC-BDD5-4D1C-8148-B208B71FDEBD}",
+      "organization": "New York Power Authority",
+      "itemNo": "10",
+      "docket_id": "20-E-0376",
+      "file_name": "Case 20-E-0376 - NYPA Comments.pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "11/30/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3740C9A-389D-4EE4-BB7A-75D0B89B1B1A}",
+      "organization": "Multiple Intervenors",
+      "itemNo": "9",
+      "docket_id": "20-E-0376",
+      "file_name": "NYPA Allocation Filing Letter.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "11/30/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of MI and PEP on New NYPA Allocations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={570BC459-4DCE-4E16-9314-4CE6F95743DC}",
+      "organization": "Multiple Intervenors",
+      "itemNo": "9",
+      "docket_id": "20-E-0376",
+      "file_name": "Comments of MI and PEP on New NYPA Allocations.pdf"
+    },
+    {
+      "serial": "21",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "22",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "7",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "23",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "6",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "24",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "25",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "26",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "20-E-0376",
+      "file_name": ""
+    },
+    {
+      "serial": "27",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "PAL Amendments Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC20E1B8-EDD5-4BAC-9537-147062D03510}",
+      "organization": "New York Municipal Power Agency",
+      "itemNo": "2",
+      "docket_id": "20-E-0376",
+      "file_name": "PAL Amendments Letter.pdf"
+    },
+    {
+      "serial": "28",
+      "date_filed": "07/29/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Tariff Filings Due to Amendment of the Public Authorities Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3E17894-41E6-43C9-97B6-2215E57043EE}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0376",
+      "file_name": "20-E-0376 Notice of PAL Amendment and Requiring Tarif Filings Final.pdf"
+    }
+  ]
+}

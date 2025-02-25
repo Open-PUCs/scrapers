@@ -1,0 +1,93 @@
+{
+  "case": "23-E-0268",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additoanal information 10-31-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0083E392-0000-C614-B166-515FCB3B2B62}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "8",
+      "docket_id": "23-E-0268",
+      "file_name": "Additoanal information 10-31-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Address Change to 488 Degraw from 267 Bond",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0D05D8F-0000-C210-902F-F96CF8998A7C}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "7",
+      "docket_id": "23-E-0268",
+      "file_name": "2024_05_06 Notice of Address Change to 488 Degraw from 267 Bond Case #23-E-0268.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70C38D8C-0000-CA1A-8FFE-631CC058C8DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-E-0268",
+      "file_name": "370_23-E-0268_122123 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Withdrawing 8/16/23 Motion",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D018048A-0000-C918-BF18-BC7A9EE766E0}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0268",
+      "file_name": "letter 8-17-23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Waiver Withdrawal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0039008A-0000-C71E-8B5B-20849E5E3A86}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0268",
+      "file_name": "waiver withdrawal letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/01/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50A7B289-0000-CF1F-8E28-AF8680BDBC6E}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0268",
+      "file_name": "additional information requested (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60C3E888-0000-CB1E-BF1B-4DD5863790F6}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0268",
+      "file_name": "additional information 6-23-23.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application (19)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30282588-0000-CD15-B789-542C51CD9538}",
+      "organization": "Gowcan Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0268",
+      "file_name": "submetering application (19).pdf"
+    }
+  ]
+}

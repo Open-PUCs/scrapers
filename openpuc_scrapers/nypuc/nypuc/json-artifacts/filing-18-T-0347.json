@@ -1,0 +1,104 @@
+{
+  "case": "18-T-0347",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Update Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F064868E-0000-CA12-BFAE-B75663FFB318}",
+      "organization": "City of Binghamton",
+      "itemNo": "7",
+      "docket_id": "18-T-0347",
+      "file_name": "03282024_Economic Development Office.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB2F44E8-E0D8-4D63-81B1-98151914EE56}",
+      "organization": "Binghamton BOP LLC",
+      "itemNo": "6",
+      "docket_id": "18-T-0347",
+      "file_name": "Compliance filing..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={844E377B-A638-4C74-A7BD-E8B664901A0A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-T-0347",
+      "file_name": "376_18-T-0347 Notice of Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfers and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA7FEF2E-E3D7-4FFD-98EF-FA56B5645E2B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-T-0347",
+      "file_name": "376_18-T-0347 Order.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4F2090D-74CE-4B51-A81C-271038D1DB1A}",
+      "organization": "City of Binghamton",
+      "itemNo": "3",
+      "docket_id": "18-T-0347",
+      "file_name": "Letter Murphy to Burgess 191113 Petition to PSC 22 Charles St.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36342776-CE4D-4DB4-9EE9-3A0E06A4E406}",
+      "organization": "Binghamton BOP LLC",
+      "itemNo": "2",
+      "docket_id": "18-T-0347",
+      "file_name": "NYSEG Confirmation Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter and BBOP Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70C9E711-FE78-496D-AADF-EF3D8C8519A7}",
+      "organization": "Binghamton BOP LLC",
+      "itemNo": "2",
+      "docket_id": "18-T-0347",
+      "file_name": "BBOP Supplemental Filing.lt. 05 29 2019.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/07/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Binghamton BOP LLC and The City of Binghamton for a Declaratory Ruling Concerning an 8-Inch, 0.2 Mile Long Buried Gas Pipeline in the City of Binghamton, Broome County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8AC3D8E-1771-4416-BFF6-8CBB6C323A54}",
+      "organization": "Binghamton BOP LLC, City of Binghamton",
+      "itemNo": "1",
+      "docket_id": "18-T-0347",
+      "file_name": "BBOP Verified Petition 6-7-18.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/07/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E6925AC-9B3B-49B5-90F3-03FB18FF56D1}",
+      "organization": "Binghamton BOP LLC, City of Binghamton",
+      "itemNo": "1",
+      "docket_id": "18-T-0347",
+      "file_name": "Letter to PSC Verified Petition 6-7-18.pdf"
+    }
+  ]
+}

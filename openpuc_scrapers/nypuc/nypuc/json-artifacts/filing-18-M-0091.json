@@ -1,0 +1,27 @@
+{
+  "case": "18-M-0091",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Property Tax Benefits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25FB45F8-6FFA-425D-A3B5-208AEAF9BA1C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-M-0091",
+      "file_name": "Property Tax Benefits.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. Regarding Disposition of Property Tax Benefits From the City of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DAD19B0-AE2B-40FB-9383-1701CBA93C69}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-M-0091",
+      "file_name": "Tax Petition Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case": "20-F-0019",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Closure of the Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6859C1EB-2125-4C2F-AD56-FCE463BB8CEC}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "8",
+      "docket_id": "20-F-0019",
+      "file_name": "20-F-0019_Notice of Closure of Proceeding_White Creek Solar.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "210204 Ltr to Secretary Transferring A10 Application to 94-c_White Creek",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CBE9E0D-7FEF-4834-AB74-4320197660D9}",
+      "organization": "White Creek Solar LLC",
+      "itemNo": "7",
+      "docket_id": "20-F-0019",
+      "file_name": "210204 Ltr to Secretary Transferring A10 Application to 94-c_White Creek.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to York Town Supervisor Gerald Deming Regarding Ad Hoc Nominations Process",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={092FE0CE-1B82-455D-9D7D-4CFC850B847B}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "6",
+      "docket_id": "20-F-0019",
+      "file_name": "20-F-0019-White CreekSolar-York Town Supervisor Deming EWL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/20/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Leicester Town Supervisor David Fanaro Regarding Ad Hoc Nominations Process",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F8DC0D2-98AB-484A-8C92-E47AEB46567A}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "20-F-0019",
+      "file_name": "20-F-0019-White CreekSolar-Leicester Town Supervisor Fanaro EWL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Livingston County Administrator Ian Coyle Regarding Ad Hoc Nominations Process",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71FC794D-976D-4047-B90F-47B0C628835E}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "4",
+      "docket_id": "20-F-0019",
+      "file_name": "20-F-0019 -White CreekSolar-Livingston County Admin Coyle EWL.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/18/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Updated PIP Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9BABA7C-02C8-46D2-B0A8-6381936FD7D5}",
+      "organization": "White Creek Solar LLC",
+      "itemNo": "3",
+      "docket_id": "20-F-0019",
+      "file_name": "Updated White Creek PIP Plan.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/18/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Response to Staff PIP Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17E57B06-95F3-429E-90BE-494165DE701F}",
+      "organization": "White Creek Solar LLC",
+      "itemNo": "3",
+      "docket_id": "20-F-0019",
+      "file_name": "White Creek Response to Staff PIP Comments.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Comments",
+      "name": "PIP Plan - DPS Recommendations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCD25D3E-9A86-443C-AC57-5B50555E7241}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-F-0019",
+      "file_name": "Case 20-F-0019 - White Creek Solar - DPS PIP Plan Recommendations.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/14/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "White Creek Solar PIP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74905A3B-AF62-4B9A-9B88-C9D98A20A0DB}",
+      "organization": "White Creek Solar LLC",
+      "itemNo": "1",
+      "docket_id": "20-F-0019",
+      "file_name": "White Creek Solar PIP.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/14/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter - White Creek Solar PIP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B23ED85-F867-4D56-ACC8-94997A7B1B88}",
+      "organization": "White Creek Solar LLC",
+      "itemNo": "1",
+      "docket_id": "20-F-0019",
+      "file_name": "Cover Letter - White Creek Solar PIP.pdf"
+    }
+  ]
+}

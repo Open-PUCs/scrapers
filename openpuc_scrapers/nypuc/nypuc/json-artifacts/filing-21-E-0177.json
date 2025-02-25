@@ -1,0 +1,27 @@
+{
+  "case": "21-E-0177",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service, Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8955682D-E2BF-4A9D-9E5D-200ACD776098}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0177",
+      "file_name": "pr21064.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "2020 Electric Safety Standards Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA6FE59A-90A4-4BB8-A8F2-32E1DD8825EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0177",
+      "file_name": "301_20-E-0177 - 2020 Electric Safty Standards Report.pdf"
+    }
+  ]
+}

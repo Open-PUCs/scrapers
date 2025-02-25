@@ -1,0 +1,49 @@
+{
+  "case": "21-M-0040",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-M-0040 Bruskin Ack Letter 01112021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600D3B34-3240-4C2E-8F4D-09E0A8647A52}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-M-0040",
+      "file_name": "21-M-0040 Bruskin Ack Letter 01112021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-M-0040 Bruskin Rehearing Request 01082021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A77A5AA6-3184-4BD7-8FD5-FD1A2ED1C58E}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-M-0040",
+      "file_name": "21-M-0040 Bruskin Rehearing Request 01082021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-M-0040 Bruskin SMD Final 12092020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C32EB4E0-0FB0-4AE1-A360-E52377BA8701}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-M-0040",
+      "file_name": "21-M-0040 Bruskin SMD Final 12092020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E11B9E2-EC5A-4F8A-871B-A850CC89960E}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-M-0040",
+      "file_name": "261 Letter_Redacted.pdf"
+    }
+  ]
+}

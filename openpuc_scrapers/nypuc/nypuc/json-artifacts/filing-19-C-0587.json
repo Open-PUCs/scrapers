@@ -1,0 +1,38 @@
+{
+  "case": "19-C-0587",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "DSCI-TPx-Tango - New York Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB77E492-231D-4A6D-940F-583A1521D340}",
+      "organization": "DSCI, LLC, U.S. TelePacific Corporation dba TelePacific Communications",
+      "itemNo": "3",
+      "docket_id": "19-C-0587",
+      "file_name": "DSCI-TPx-Tango - New York Consummation Notice.pdf (305 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/13/2019",
+      "nypuc_doctype": "Letters",
+      "name": "19-C-0587 DSCI LLC - OOL Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7AAA01C3-C57F-4AB6-9638-85304A2AC0A5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-C-0587",
+      "file_name": "19-C-0587 DSCI LLC - OOL Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/12/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of DSCI, LLC, U.S. TelePacific Holdings Corp., and Tango Private Holdings II, LLC for Approval to Transfer Indirect Control of DSCI, LLC to Tango Private Holdings II, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A2BED30-E21A-4659-8085-8BB9626105D9}",
+      "organization": "DSCI, LLC",
+      "itemNo": "1",
+      "docket_id": "19-C-0587",
+      "file_name": "Tango - NY Application.pdf (533 KB)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "18-E-0208",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D920A6A-5BF8-4749-8CF5-F561A8768089}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0208",
+      "file_name": "361_18-E-0208.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Arteche USA for Approval of the Arteche Medium Voltage Metering Class Instrument Transformers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B104F22-8E8A-44E6-A9DC-75C7327295E5}",
+      "organization": "Arteche USA",
+      "itemNo": "1",
+      "docket_id": "18-E-0208",
+      "file_name": "Application.pdf"
+    }
+  ]
+}

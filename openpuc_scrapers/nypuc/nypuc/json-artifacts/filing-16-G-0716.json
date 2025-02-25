@@ -1,0 +1,60 @@
+{
+  "case": "16-G-0716",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={799C7A3A-6804-4BE9-918A-F9AB134F460C}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-G-0716",
+      "file_name": "162_16-G-0716.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/07/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "LETT237",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4C824B1-6E2E-4723-85FA-150B5CC5CA17}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "16-G-0716",
+      "file_name": "LETT237.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D43A3F5-A3E0-46E7-87AA-9AB6C0B0FF8F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-G-0716",
+      "file_name": "16-G-0716 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/02/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "16-G-0716",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/21/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "16-G-0716",
+      "file_name": ""
+    }
+  ]
+}

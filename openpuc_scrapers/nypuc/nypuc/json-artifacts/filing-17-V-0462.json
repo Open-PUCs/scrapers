@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0462",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C059FE6-0A7B-430E-987F-2FCB522C6259}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0462",
+      "file_name": "663_17-V-0462.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3808E99F-B9A4-4D0E-B771-46FF82FD7E21}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0462",
+      "file_name": "Bayville Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Bayville, Nassau County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={665BE7DC-F7E3-425D-89FA-D98085D1F481}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0462",
+      "file_name": "Bayville Renewal Petition (Complete).pdf"
+    }
+  ]
+}

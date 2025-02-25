@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0161",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FF95636-8B7D-43A9-8827-1E2F2CE202B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0161",
+      "file_name": "661_17-V-0161.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Wawayanda, Orange County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3025010-CEE4-44C2-80FA-542F86B90E0A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0161",
+      "file_name": "3 15 17 T Wawayanda PSC submission app.pdf"
+    }
+  ]
+}

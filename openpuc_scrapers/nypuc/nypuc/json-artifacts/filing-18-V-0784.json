@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0784",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D9E1CD7-5C85-4707-88FE-74254C64929B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0784",
+      "file_name": "668_18-V-0784.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63D10276-1697-41FD-BFC1-4C9FFBFB1599}",
+      "organization": "Atlantic Broadband (Penn), LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0784",
+      "file_name": "Salamanca Four Communities Letter to the NYPSC with Affidavit of Notice 2-4-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/24/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Atlantic Broadband (Penn), LLC for Approval of the Renewal of its Franchise with the Town of Salamanca, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DA57570-FCF8-4834-A2E9-F5EF5EB07277}",
+      "organization": "Atlantic Broadband (Penn), LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0784",
+      "file_name": "Town of Salamanca PSC Application Packet - 12-22-18.pdf"
+    }
+  ]
+}

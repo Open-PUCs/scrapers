@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0605",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D083928C-0000-CF15-BE92-E775EFB63086}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0605",
+      "file_name": "662_23-V-0605 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40003F8B-0000-C455-9DD7-C41C180B9DCA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0605",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Adams 10.17.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40003F8B-0000-C21D-B330-DD18401AB702}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0605",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Adams 10.17.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Adams-Request for Renewal and Certificate of Confirmation(redacted) 10.17.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50003F8B-0000-CC23-9625-BB417F552BF1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0605",
+      "file_name": "Charter Communications, T. Adams-Request for Renewal and Certificate of Confirmation(redacted) 10.17.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Adams-Cover Letter-Request for Renewal and Certificate of Confirmation 10.17.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40003F8B-0000-CF7D-AA1D-3A6F07353F62}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0605",
+      "file_name": "Charter Communications, T. Adams-Cover Letter-Request for Renewal and Certificate of Confirmation 10.17.23.pdf"
+    }
+  ]
+}

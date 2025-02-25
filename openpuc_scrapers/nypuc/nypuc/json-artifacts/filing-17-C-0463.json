@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0463",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6895042-B9FE-4772-945E-151625DB8C7F}",
+      "organization": "Crown Castle International Corp., Fiber Technologies Networks, L.L.C, Fibertech Facilities Corp., LTS Group Holdings LLC, Lightower Fiber Networks I, LLC, Lightower Fiber Networks II, LLC",
+      "itemNo": "3",
+      "docket_id": "17-C-0463",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "17-01661.Crown Castle Transfer Control Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBDE4EE1-CE86-44E2-8256-4F6B2AFFEC28}",
+      "organization": "Crown Castle International Corp., Fibertech Facilities Corp., Fibertech Networks, LLC, LTS Group Holdings LLC",
+      "itemNo": "2",
+      "docket_id": "17-C-0463",
+      "file_name": "17-01661.Crown Castle Transfer Control Approval.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84A95DC8-1615-4FEB-919B-72D3CE3654B4}",
+      "organization": "Crown Castle International Corp., Fiber Technologies Networks, L.L.C, Fibertech Facilities Corp., LTS Group Holdings LLC, Lightower Fiber Networks I, LLC, Lightower Fiber Networks II, LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0463",
+      "file_name": "NY Transmittal Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/31/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Crown Castle International Corp., LTS Group Holdings LLC, and Fiber Technologies Networks, L.L.C., Fibertech Facilities Corp., Lightower Fiber Networks I, LLC, and Lightower Fiber Networks II, LLC, for Approval to Transfer Indirect Control of Licensees to Crown Castle International Corp..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={992FE922-75B9-4BD1-8C40-8FA20F0090EC}",
+      "organization": "Crown Castle International Corp., Fiber Technologies Networks, L.L.C, Fibertech Facilities Corp., LTS Group Holdings LLC, Lightower Fiber Networks I, LLC, Lightower Fiber Networks II, LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0463",
+      "file_name": "NY Transfer Application.pdf"
+    }
+  ]
+}

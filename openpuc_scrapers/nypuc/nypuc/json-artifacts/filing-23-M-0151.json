@@ -1,0 +1,38 @@
+{
+  "case": "23-M-0151",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/15/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D042998A-0000-C317-90E5-4FCBD37C96CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-M-0151",
+      "file_name": "262_23-M-0151_9.15.23 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0043588-0000-CB1F-98FA-99D58C3B0682}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-M-0151",
+      "file_name": "263_23-M-0151.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Light Power and Gas of NY LLC NOAV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80A39E86-0000-C51E-A8AB-E7DC1584C0EB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-M-0151",
+      "file_name": "Light Power and Gas of NY LLC NOAV.pdf"
+    }
+  ]
+}

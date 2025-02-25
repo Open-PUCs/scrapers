@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0423",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E86FD20-6561-4EE5-B7D8-77E6CF665A32}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0423",
+      "file_name": "664_16v0423.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5650BDCC-3FAF-45A1-A3BB-83CD89ADA6F3}",
+      "organization": "Charter Communications",
+      "itemNo": "1",
+      "docket_id": "16-V-0423",
+      "file_name": "Charter Communications ltr to NY PSC with Chatham (Village) NY Franchise Renewal 8-4-16 S.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Chatham (Village) NY Town Resolution approving Charter Franchise Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27390051-DFC3-4119-9115-9C0679A8B34C}",
+      "organization": "Charter Communications",
+      "itemNo": "1",
+      "docket_id": "16-V-0423",
+      "file_name": "Chatham (Village) NY Town Resolution approving Charter franchise renewal 031016 S.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Chatham (Village) NY Affidavit and Publication of Legal Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F61DBDEB-99CF-41F6-B2F7-779D72A896C7}",
+      "organization": "Charter Communications",
+      "itemNo": "1",
+      "docket_id": "16-V-0423",
+      "file_name": "Chatham (Village) NY Affidavit and Publication of Legal Notice 072716 S .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter R-2 Form Chatham (Village) NY with CLU S",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={433464CC-9D08-4BBF-B930-0F76E2D1521F}",
+      "organization": "Charter Communications",
+      "itemNo": "1",
+      "docket_id": "16-V-0423",
+      "file_name": "Charter R-2 Form Chatham (Village) NY with CLU S.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter -Chatham (Village) NY Affidavit and Publication of Legal Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73B87B83-D8B4-4D3D-828C-030C396297F0}",
+      "organization": "Charter Communications",
+      "itemNo": "1",
+      "docket_id": "16-V-0423",
+      "file_name": "Charter -Chatham (Village) NY Affidavit and Publication of Legal Notice 080516 S.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter - Chatham (Village) NY Franchise Renewal Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C1BB5CA-0A06-478C-8D51-75FBC5453EBF}",
+      "organization": "Charter Communications",
+      "itemNo": "1",
+      "docket_id": "16-V-0423",
+      "file_name": "Charter - Chatham (Village) NY Franchise Renewal Agreement 070616 S .pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "23-V-0479",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C05B5D8B-0000-CE1E-BC71-019193FA6C85}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0479",
+      "file_name": "662_23-V-0479 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01282 20-Day Letter to Building Owners-120 W 1 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C56989-0000-C31F-BD52-B9498F11EB9D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0479",
+      "file_name": "23-01282 20-Day Letter to Building Owners-120 W 1 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter - Notice of Intent - 120 W. 1st St.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70226589-0000-CE1B-9ABC-939C22645530}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0479",
+      "file_name": "Cover Letter - Notice of Intent - 120 W. 1st St..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "120 W 1st St. - Landowner Notices of Intent to Access_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70226589-0000-C938-BDA1-BBB970FBAA01}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0479",
+      "file_name": "120 W 1st St. - Landowner Notices of Intent to Access_.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Entry - 120 West 1st Street - 6.15.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E057C588-0000-CD34-B655-3C11E5750705}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0479",
+      "file_name": "Petition for Order of Access - 120 West 1st Street - 6.15.2023_Final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 120 W 1st St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E057C588-0000-CF5F-8AE0-A69F5EE2584A}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0479",
+      "file_name": "Exhibit 2 - 120 W 1st St.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - 120 W 1ST ST",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E057C588-0000-C27B-90E4-42680FB87417}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0479",
+      "file_name": "Exhibit 1 - 120 W 1ST ST.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E057C588-0000-CD1B-9093-060F70AB1DAF}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0479",
+      "file_name": "Cover Letter - 120 West 1st St.pdf"
+    }
+  ]
+}

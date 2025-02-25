@@ -1,0 +1,93 @@
+{
+  "case": "20-V-0671",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={204F167B-85C8-4F30-A53A-0A4CCCF1BB20}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0671",
+      "file_name": "665_20-V-0671 Neg Dec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73B5F6F3-C587-4055-9B1B-7D46D829EE85}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0671",
+      "file_name": "665_20-V-0671 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/15/2021",
+      "nypuc_doctype": "Reports",
+      "name": "20-V-0671 Heart of the Catskills Communications, Inc. dba MTC Cable T of Stamford SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E71BC468-AE11-4734-AF87-DFD0B337AFAC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-V-0671",
+      "file_name": "20-V-0671 Heart of the Catskills Communications, Inc. dba MTC Cable T of Stamford SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "PSC Cover Letter Submission 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F039C895-7856-428E-ADFE-158E5F861A87}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "20-V-0671",
+      "file_name": "PSC Cover Letter Submission 2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit10",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91A80576-7436-4EDF-946B-B615A3C283DB}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "20-V-0671",
+      "file_name": "Exhibit10.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 9FCC Technical Standards (Proof of Performance) Compressed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51DFE9A3-246B-4EA0-9409-60292218CA35}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "20-V-0671",
+      "file_name": "Exhibit 9FCC Technical Standards (Proof of Performance) Compressed.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 11",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8170864D-779D-406D-9886-604DE4913571}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "20-V-0671",
+      "file_name": "Exhibit 11.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Heart of the Catskills Communications, Inc. dba MTC Cable for a Certificate of Confirmation for its Franchise with the Town of Stamford, Fairfield County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CE755BD-4FC9-471A-9FD4-9EBF21D8705E}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "20-V-0671",
+      "file_name": "Stamford Sub 1.pdf"
+    }
+  ]
+}

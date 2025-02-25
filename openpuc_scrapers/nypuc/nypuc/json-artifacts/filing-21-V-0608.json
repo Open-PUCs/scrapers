@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0608",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65119BD1-CF22-4673-8569-6B0E20095E68}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0608",
+      "file_name": "662_21-V-0608.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01849 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB77A190-27A7-4437-9B15-EE3EE980BD2B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0608",
+      "file_name": "21-01849 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 618 West 142nd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={324EE0BF-6F2B-4416-BD03-8F156904F45C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0608",
+      "file_name": "14-210826 Petition (618 W 142 ST) (Complete).pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "23-W-0695",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/07/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "4",
+      "docket_id": "23-W-0695",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/13/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={900D398E-0000-CB12-AD02-AD78D07EA67F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-W-0695",
+      "file_name": "23-W-0695.Pheasant Hill.PP FINAL 3.12.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "2",
+      "docket_id": "23-W-0695",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/05/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Pheasant Hill Water Corporation",
+      "itemNo": "1",
+      "docket_id": "23-W-0695",
+      "file_name": ""
+    }
+  ]
+}

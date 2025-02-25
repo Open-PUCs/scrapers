@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0480",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 08 14 Acknowledgement Scheduling Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30655C91-0000-C013-85A7-E3E647EBAF72}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0480",
+      "file_name": "2024 08 14 Acknowledgement Scheduling Ltr - Knittle v CenHud #241238_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 08 12 Appeal of Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0635C91-0000-CE42-9549-BDE70C216ECD}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0480",
+      "file_name": "2024 08 12 Appeal of Decision #241238_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/16/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 08 08 Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0605C91-0000-C816-ABB7-2396AAC3E18E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0480",
+      "file_name": "2024 08 08 Informal Hearing Decision #241238_Redacted.pdf"
+    }
+  ]
+}

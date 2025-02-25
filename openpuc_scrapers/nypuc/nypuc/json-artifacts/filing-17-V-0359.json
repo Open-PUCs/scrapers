@@ -1,0 +1,93 @@
+{
+  "case": "17-V-0359",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23587291-999C-4DEA-85A2-792D3DB388D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0359",
+      "file_name": "663_17-V-0359.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A501565-59D1-4EBB-9DF1-ABCEC5073EA5}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0359",
+      "file_name": "Chester Village Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision of Warwick, LLC for Approval of the Renewal of its Franchise with Village of Chester, Orange County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C77FACE-3E64-43EF-8AA2-393A318EAD10}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0359",
+      "file_name": "Chester Village Application Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Chester Village Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31EFA516-A76B-430E-9380-5FD095156D12}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0359",
+      "file_name": "Chester Village Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Chester Village Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D460DBF6-796D-4C95-A961-5C3C6CA23A8F}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0359",
+      "file_name": "Chester Village Exhibit IV.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Chester Village Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97A237B4-0E6A-4079-B519-0B2ED0B2113C}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0359",
+      "file_name": "Chester Village Exhibit III.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Chester Village Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0BB27BF-E30D-43AD-9815-5A2AD61885AD}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0359",
+      "file_name": "Chester Village Exhibit II.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Chester Village Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA4BE07E-2E94-4A31-84C7-E4E2651CD685}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0359",
+      "file_name": "Chester Village Exhibit I.pdf"
+    }
+  ]
+}

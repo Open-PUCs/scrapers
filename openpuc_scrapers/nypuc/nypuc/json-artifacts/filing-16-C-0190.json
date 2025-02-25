@@ -1,0 +1,60 @@
+{
+  "case": "16-C-0190",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/12/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB44AE46-4998-44F6-86BA-060DC5482822}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-C-0190",
+      "file_name": "16-C-0186 16-C-0190 Ruling on Extension.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/15/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC5FA395-09BB-4228-99E7-908874C37B8B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-C-0190",
+      "file_name": "562_16c0190 and 16c0186.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2016",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - Let Your Fingers Do the Walking Online: Verizon to Stop Printing, Delivering Business Telephone Books in New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CC878D3-5C50-4C74-B1A4-EAF5A8303A1F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-C-0190",
+      "file_name": "pr16045.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Amended Petition of Dex Media, Inc. for Additional Waiver of New York Code of Rules and Regulations, Title 16, \u00a7 602.10(b) Pertaining to the Distribution of Telephone Directories",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07E07A66-A0ED-4922-8446-016997DDE238}",
+      "organization": "Dex Media, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-C-0190",
+      "file_name": "NY DEX Amended Waiver Pet 4-12-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Dex Media, Inc., for Additional Waiver of New York Code of Rules Pertaining to the Distribution of Telephone Directories.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={665D4755-3087-4706-BB50-C446113E5CBF}",
+      "organization": "Dex Media, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-C-0190",
+      "file_name": "NY Dex Petition Final 3-28-16.pdf"
+    }
+  ]
+}

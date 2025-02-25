@@ -1,0 +1,93 @@
+{
+  "case": "17-E-0290",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F003C0B-0AF7-4CBC-A163-CAC4A8B57616}",
+      "organization": "The Charles Condominiums, LLC",
+      "itemNo": "8",
+      "docket_id": "17-E-0290",
+      "file_name": "compliance letter 2-8-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FEE4CCB-DB81-4719-A248-CDE0BEAFF420}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "17-E-0290",
+      "file_name": "363_17-E-0290.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6EB708A-2DCB-4C13-A640-587057E28EDE}",
+      "organization": "The Charles Condominiums, LLC",
+      "itemNo": "6",
+      "docket_id": "17-E-0290",
+      "file_name": "response letter 12-1-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/20/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACD133EA-26FF-4728-996A-258E7F9FDF56}",
+      "organization": "The Charles Condominiums, LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0290",
+      "file_name": "response letter 10-20-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={677005A8-9977-4EF6-B018-8252C60D7CD1}",
+      "organization": "The Charles Condominiums, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0290",
+      "file_name": "response letter -10-11-2017.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E2B5BFF-D1DE-439B-8E56-BBF8792C7AEE}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "17-E-0290",
+      "file_name": "response letter-w-17.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to requested information for 117 East 37th Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73E11BE6-CD43-4E27-A8D1-966BB3F20598}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "17-E-0290",
+      "file_name": "response letter 9-28-17.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/23/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of The Charles Condominiums, LLC to Submeter Electricity at a Building Located at 1355 First Avenue, New York, New York, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CD3823A-2171-4815-9DC2-A381EDE8ADD4}",
+      "organization": "The Charles Condominiums, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0290",
+      "file_name": "submetering application (1).pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "19-W-0460",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/31/2020",
+      "nypuc_doctype": "Reports",
+      "name": "RRWD Customer Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D76C081-563F-4F29-A87C-0D7BF993AA4B}",
+      "organization": "River Road Water District",
+      "itemNo": "4",
+      "docket_id": "19-W-0460",
+      "file_name": "Lett.19-W-0584.RRWD.Customer Notice .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/31/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5182E532-2B2A-4460-813D-1379DE25B8DC}",
+      "organization": "River Road Water District",
+      "itemNo": "4",
+      "docket_id": "19-W-0460",
+      "file_name": "Lett.19-W-0584.RRWD.Compliance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2019",
+      "nypuc_doctype": "Tariffs",
+      "name": "Escrow Statement No. 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={013EC414-FB69-47F5-AB9E-F6515D57DA9D}",
+      "organization": "River Road Water District",
+      "itemNo": "3",
+      "docket_id": "19-W-0460",
+      "file_name": "STAT.River Road WD Escrow Statement No. 2.FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/28/2019",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00FA16A-6D68-490C-AD85-DBAFC222BD26}",
+      "organization": "River Road Water District",
+      "itemNo": "3",
+      "docket_id": "19-W-0460",
+      "file_name": "LETT.River Road.Compliance.FINAL.10.28.19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/28/2019",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cancellation Supplement No. 4",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E023A316-93E8-475C-9B45-6B78A73B1EC0}",
+      "organization": "River Road Water District",
+      "itemNo": "3",
+      "docket_id": "19-W-0460",
+      "file_name": "SUPP.River Road.CANC.FINAL.11.1.19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/21/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Escrow Account With Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C9A7E92-6094-4DA5-8B9A-2C8CDF611174}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-W-0460",
+      "file_name": "461_19-W-0460 19-W-0644.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Tariffs",
+      "name": "Tariff filing by River Road Water District to Establish and Implement Escrow Account Statement No. 1, to P.S.C. No. 1 - Water.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C12F0E6-E5AB-4E21-87F0-CCE9A7B2AB74}",
+      "organization": "River Road Water District",
+      "itemNo": "1",
+      "docket_id": "19-W-0460",
+      "file_name": "STAT.River Road WD Escrow Statement No. 1.FINAL.6.17.19.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD30298A-A39C-47AA-9D13-50402D7EB4B9}",
+      "organization": "River Road Water District",
+      "itemNo": "1",
+      "docket_id": "19-W-0460",
+      "file_name": "LETT.River Road WD Escrow filing.FINAL.6.17.19.pdf"
+    }
+  ]
+}

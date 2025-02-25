@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0308",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF2DB7B3-FC27-4809-AA23-95F43DAA4A54}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "22-V-0308",
+      "file_name": "661_22-V-0308.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01837 Letter to Building Owner Offering Facilitation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C61F2AF8-E8B1-4908-A5B4-2B1CACFC901B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "22-V-0308",
+      "file_name": "21-01837 Letter to Building Owner Offering Facilitation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61C1B199-03E4-4622-9E55-A9F884467735}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "22-V-0308",
+      "file_name": "220321_21-01837_606 W 145 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F47E998F-BDEE-43C3-87B7-B97A619A9C91}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0308",
+      "file_name": "220222_21-01837_606 W 145 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B252FED-F696-49BD-B61F-FEFCB6F11A0A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0308",
+      "file_name": "220120_21-01837_606 W 145 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01837 Letter to Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0C148DD-BCAE-45C8-8C3E-29D41470EF9B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0308",
+      "file_name": "21-01837 Letter to Verizon New York Inc..pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01837 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={603088DD-00B6-41C1-B807-8A7D013C7F43}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0308",
+      "file_name": "21-01837 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 606 West 145th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1BA6586-8683-4712-8644-9B91864FDC4C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0308",
+      "file_name": "4-210826 Petition (606 W 145 ST) (Complete).pdf"
+    }
+  ]
+}

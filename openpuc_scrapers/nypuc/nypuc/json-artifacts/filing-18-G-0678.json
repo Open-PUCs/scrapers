@@ -1,0 +1,49 @@
+{
+  "case": "18-G-0678",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0678 Weltman Ack Letter 11062018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDB41A68-6FFC-4FCD-B501-80C4192AA11D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-G-0678",
+      "file_name": "18-G-0678 Weltman Ack Letter 11062018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-G-0678 Weltman Rehearing Request 10182018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8CB07CB-E22A-484F-8EC7-06C66A16714B}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-G-0678",
+      "file_name": "18-G-0678 Weltman Rehearing Request 10182018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-G-0678 Weltman SMD Final 10052018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={874F5AE7-3E74-471B-8857-4E9205BFF507}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-G-0678",
+      "file_name": "18-G-0678 Weltman SMD Final 10052018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2BAD507C-7CB3-42C9-8DBD-86AB1C58EA35}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0678",
+      "file_name": "167 Letter_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0053",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FDCA438-20C4-49F4-ABE8-D7B91DB20226}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0053",
+      "file_name": "669_17-V-0053.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Adams CATV, Inc. for Approval of the Renewal of its Franchise with Town of Afton, Chenango County, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C1105EC-532B-4CAA-883B-BA27DF9520C4}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0053",
+      "file_name": "Petition.pdf"
+    }
+  ]
+}

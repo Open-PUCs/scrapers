@@ -1,0 +1,82 @@
+{
+  "case": "22-V-0594",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8835AEFE-DACB-46F2-A984-DEF6247EA098}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "22-V-0594",
+      "file_name": "661_22-V-0594.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00962 Letter to Building Owner Offering Facilitation 518 W 134th St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F06F036-BB60-4EC3-A494-2C265022D620}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "22-V-0594",
+      "file_name": "22-00962 Letter to Building Owner Offering Facilitation 518 W 134th St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08DE5FA2-E7BA-4DE2-A633-141035E2516F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0594",
+      "file_name": "220920_22-00962_518 W 134 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/19/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A0B0DCC-BCB5-450F-A182-05BEC0E28963}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0594",
+      "file_name": "220819_22-00962_518 W 134 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00962 Letter to Verizon Cooperation 518 W 134 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50EDF91D-47E3-48A9-810F-B3737C077A2F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0594",
+      "file_name": "22-00962 Letter to Verizon Cooperation 518 W 134 St - final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00962 Letter to Building Owner 518 W 134 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8249C6A-9500-49A2-8F0E-384483E5B4B5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0594",
+      "file_name": "22-00962 Letter to Building Owner 518 W 134 St.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 518 West 134rd Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDD71526-9693-4D25-AF1A-169258457D97}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0594",
+      "file_name": "220504-11 Petition (518 W 134 ST) (Post-Survey).pdf"
+    }
+  ]
+}

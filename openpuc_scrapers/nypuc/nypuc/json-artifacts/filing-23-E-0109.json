@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0109",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/06/2024",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan - 83 Thompson Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A40293-0000-CD18-8E73-59BE81B09CC6}",
+      "organization": "Spring Street Owner LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0109",
+      "file_name": "in-service meter test plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Meter Installation Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={603D0293-0000-C423-84A7-CE81BD70466D}",
+      "organization": "Spring Street Owner LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0109",
+      "file_name": "meter installation letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10BEB08B-0000-CB11-8CDB-F57CF3F23BC4}",
+      "organization": "Spring Street Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0109",
+      "file_name": "compliance letter (3).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C1438B-0000-C71A-BEFF-25A72D66F30A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0109",
+      "file_name": "381_23-E-0109 _101823.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/30/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information Requested for 83 Thompson Street, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A01E6E88-0000-CA14-8210-565BE2756CFC}",
+      "organization": "Spring Street Owner LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0109",
+      "file_name": "additional information (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spring Street owner, LLC to Submeter Electricity at 83 Thompson Street, New York, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30B0A286-0000-C515-8444-01B973D1B608}",
+      "organization": "Spring Street Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0109",
+      "file_name": "submetering application (13).pdf"
+    }
+  ]
+}

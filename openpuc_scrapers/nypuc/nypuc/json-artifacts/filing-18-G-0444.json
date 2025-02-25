@@ -1,0 +1,71 @@
+{
+  "case": "18-G-0444",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Gas Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1BA4AED-F918-4C5C-9ECC-928CDF1B270C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0444",
+      "file_name": "163_18-G-0444.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44F153E6-FD5A-472D-BC58-AADD5D2FA799}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "18-G-0444",
+      "file_name": "Measurement Systems Corrector Test Stand Letter of Intent 2019-09-25.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrector Prover PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B51E7400-13A5-44F8-A177-A3C28DA3474D}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "18-G-0444",
+      "file_name": "Corrector Prover PSC.pdf (433 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrector Prover MANUAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB15FCE7-E124-456C-8D8F-8D26AA132BB0}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "18-G-0444",
+      "file_name": "Corrector Prover MANUAL.pdf (3 MB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Measurement Systems Corrector Test Stand Letter of Intent & Additional Documentation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={864B8337-C418-4552-A561-F508DF5CA1C3}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "18-G-0444",
+      "file_name": "Measurement Systems Corrector Test Stand Letter of Intent & Additional Documentation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Central Hudson Gas & Electric Corporation for Approval of Measurement Systems Corrector Test Stand.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA6ACC72-DA09-46F4-B044-D3D41739DF56}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-G-0444",
+      "file_name": "Central Hudson - Measurement Systems Corrector Test Stand Letter of Sponsorship.pdf"
+    }
+  ]
+}

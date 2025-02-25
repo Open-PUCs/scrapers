@@ -1,0 +1,71 @@
+{
+  "case": "23-C-0534",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1055A48E-0000-CF1B-A68E-4CB1C305B7B9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "23-C-0534",
+      "file_name": "240403 Part 4 Ext Request.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90AE938A-0000-C92A-A9D0-C37E42F3560E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0534",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "230914 Richmondville Numbering Waiver Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0CB938A-0000-C515-B14D-9F44B5B1C2C1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0534",
+      "file_name": "230914 Richmondville Numbering Waiver Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "230914 Richmondville NY Temporary LRN Application docs (REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90AE938A-0000-CC6A-AFA8-CD30AD7323E3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0534",
+      "file_name": "230914 Richmondville NY Temporary LRN Application docs (REDACTED).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "230914 Letter of Intent - Richmondville Central Office Code Assignment (REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AE938A-0000-C55D-A8BC-70E02F9EE05C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0534",
+      "file_name": "230914 Letter of Intent - Richmondville Central Office Code Assignment (REDACTED).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/14/2023",
+      "nypuc_doctype": "Motions",
+      "name": "230914 Confidentiality Request - Richmondville Central Office Code Assignment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AE938A-0000-C015-8212-90A1A9A9088D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0534",
+      "file_name": "230914 Confidentiality Request - Richmondville Central Office Code Assignment.pdf"
+    }
+  ]
+}

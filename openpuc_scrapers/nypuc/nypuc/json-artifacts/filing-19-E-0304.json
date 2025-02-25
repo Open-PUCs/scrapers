@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0304",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE296C6A-C916-4B70-9A02-02EA7D9F0B73}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0304",
+      "file_name": "362 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC591C3F-0422-4969-A929-FFFEB19D2A19}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0304",
+      "file_name": "362 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3155E13C-B516-4DBC-84DD-2AF219D2E2FC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0304",
+      "file_name": "Johnson Ack Letter 2019.04.15_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F939F20-EEB0-4459-89F7-CCAC6A719A25}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-E-0304",
+      "file_name": "Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA1B9A40-F11C-470A-9C8E-E40AF845A0BB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0304",
+      "file_name": "833073- IH Decision Letter - (Geethamma Johnson vs. Con Edison)_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "20-E-0128",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0FE0487-0000-CA12-AAF5-35CE74A3D082}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "7",
+      "docket_id": "20-E-0128",
+      "file_name": "in-service meter test plan 3-21-23 (4).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 2555 Broadway, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={433AFFDA-252E-423C-9215-6B530F5460FD}",
+      "organization": "Paragon JV Prop III LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0128",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={140B7B7A-39ED-44D3-8A28-92B596A6903B}",
+      "organization": "DD West 29th LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0128",
+      "file_name": "20-E-0128.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1256DD6A-F9F7-49AB-99A8-F3685ABA78F1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0128",
+      "file_name": "376_20-E-0128 Submetering Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7D67C5C-FFA2-4E69-B349-801BEFC232D9}",
+      "organization": "DD West 29th LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0128",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2BE21263-81F0-455D-B596-9D8111ACF3D6}",
+      "organization": "DD West 29th LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0128",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of DD West 29th LLC to Submeter Electricity at 311 11th Avenue, New York, New York 10001, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AFE5D1A-1672-489E-BD7F-CB82305F3330}",
+      "organization": "DD West 29th LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0128",
+      "file_name": "submetering application 3-11-2020.pdf"
+    }
+  ]
+}

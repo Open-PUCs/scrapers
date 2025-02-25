@@ -1,0 +1,82 @@
+{
+  "case": "17-E-0796",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05AD0105-FAE3-4527-A040-2C08D99B9D61}",
+      "organization": "650 Met Partners, LLC",
+      "itemNo": "7",
+      "docket_id": "17-E-0796",
+      "file_name": "compliance letter 2-8.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={183BD101-A5E9-43B6-9B62-9987E8367A60}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0796",
+      "file_name": "371_17-E-0796.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/31/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F8CD0EE-140A-407B-B274-FF493F13959F}",
+      "organization": "650 Met Partners, LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0796",
+      "file_name": "response letter 10-31-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={738086F6-DAA2-45D1-9949-EC21FD3BCCC6}",
+      "organization": "650 Met Partners, LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0796",
+      "file_name": "revised response letter 9-28-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Requested response for 195 Clarkson Avenue, Brooklyn,NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3479742-3CD6-4E5E-B125-1161FECAA94B}",
+      "organization": "650 Met Partners, LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0796",
+      "file_name": "response letter 9-20-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62C6C068-49A5-4D90-85C1-07903B9460DB}",
+      "organization": "650 Met Partners, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0796",
+      "file_name": "revised submetering application 4-5-18.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 650 Met Partners, LLC to Submeter Electricity at 195 Clarkson Avenue, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5029A6A-83B2-4014-94FD-6B86D83D262F}",
+      "organization": "650 Met Partners, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0796",
+      "file_name": "submetering application 12-19-17.pdf"
+    }
+  ]
+}

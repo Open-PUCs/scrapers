@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0415",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0415 Casserly Untimely SMR Rejection 10202021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E3CE3C0-ED21-4D2E-BC0B-0A00005412FA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-E-0415",
+      "file_name": "21-E-0415 Casserly Untimely SMR Rejection 10202021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0415 Casserly Ack Letter 07302021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D669888-57D8-40AA-84C6-C34C2DBD1490}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0415",
+      "file_name": "21-E-0415 Casserly Ack Letter 07302021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-E-0415 Casserly Rehearing Request 07282021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74297A34-82C7-4581-A19F-BB61A7FCBB9F}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-E-0415",
+      "file_name": "21-E-0415 Casserly Rehearing Request 07282021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0415 Casserly SMD Final 06222021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05AC20E-0D73-4F94-94AC-ACFAB92ED2BE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0415",
+      "file_name": "21-E-0415 Casserly SMD Final 06222021.pdf"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "case": "22-E-0700",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20FB618E-0000-C014-A589-A5F9FAA4542A}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "22-E-0700",
+      "file_name": "387_22-E-0700 32124 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Reply to Con Ed 1-10-24 Response_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50B6178D-0000-C336-B33E-A34BDB6D7722}",
+      "organization": "Individual",
+      "itemNo": "9",
+      "docket_id": "22-E-0700",
+      "file_name": "Reply to Con Ed 1-10-24 Response re Case 22-E-0700_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Response to Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C077F48C-0000-C113-BCC6-B704F7C0C644}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "22-E-0700",
+      "file_name": "2024-01-10 Con Edison Response to Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/26/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3006A78C-0000-C720-BFE4-1245E94BE637}",
+      "organization": "Individual",
+      "itemNo": "7",
+      "docket_id": "22-E-0700",
+      "file_name": "Petition for Rehearing_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0121C8C-0000-CA1D-8B1A-3761EB507484}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0700",
+      "file_name": "361- 22-E-0700 - Letter 11.29.23 - Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0121C8C-0000-C53A-B569-E643D903E0BC}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0700",
+      "file_name": "361_22-E-0700_Determination 112923 final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response - Siegel Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA387792-D93A-4794-814A-F34E906B20D2}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-E-0700",
+      "file_name": "Con Edison Response - Siegel Complaint.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA641464-BDEE-499E-982F-C99775943115}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-E-0700",
+      "file_name": "Ack letter_Redacted.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7ABDAE65-91DA-4E6E-979E-99D38F9C4C21}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0700",
+      "file_name": "Case_214017__-Siegel_-_Con_Edison_-_IH Letter_11.28.22_Redacted.pdf"
+    }
+  ]
+}

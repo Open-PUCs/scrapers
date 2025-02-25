@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0644",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/26/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding appeal redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D09CB08-CC03-439C-9075-D6798FE3A956}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-E-0644",
+      "file_name": "15-E-0644 - Levy Closing letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Agway's Letter dated 11-12-15_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC31AA12-ADB1-4EA6-A4B6-FC75B2A19225}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "15-E-0644",
+      "file_name": "Response to Agway's Letter dated 11-12-15_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/12/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Agway Energy Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B626D16E-BFA6-4846-A249-076F3FB8D370}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "15-E-0644",
+      "file_name": "Response to Agway Energy Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/12/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Reply of Agway Energy Services, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA188F7E-DA2C-40CD-93FA-EF17BDB5CA10}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "4",
+      "docket_id": "15-E-0644",
+      "file_name": "15-E-0644 Agway Reply 11.12.15.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5898A42F-BF60-4682-90B5-D1B7FAE5EC45}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0644",
+      "file_name": "416097_AckLet_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={246F08D7-3308-462B-B71D-8B20410C98D1}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "2",
+      "docket_id": "15-E-0644",
+      "file_name": "case 416097 Agway Appeal 10 29 15_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/03/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B37B9A27-46D5-47CD-A727-61BE0B89EF50}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-E-0644",
+      "file_name": "416097_IH_Redacted.pdf"
+    }
+  ]
+}

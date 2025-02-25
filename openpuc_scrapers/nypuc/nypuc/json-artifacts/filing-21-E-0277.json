@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0277",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2022",
+      "nypuc_doctype": "Compliance",
+      "name": "2050 Grand Concourse - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={261EC560-6F3F-45E4-A9E9-89DE5C231CA3}",
+      "organization": "2050 G.C., L.P.",
+      "itemNo": "5",
+      "docket_id": "21-E-0277",
+      "file_name": "2050 Grand Concourse - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E5C55B8-E9D5-4F18-AAE8-A5E0BFB7D668}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0277",
+      "file_name": "361_21-E-0277 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/07/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75DDEF37-E338-45E6-825C-C7F07790FF35}",
+      "organization": "2050 G.C., L.P.",
+      "itemNo": "3",
+      "docket_id": "21-E-0277",
+      "file_name": "Supplemental Filing_2050 Grand Concourse_9-7-21.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A740D41-F27B-4922-9366-F8CB5D46E62E}",
+      "organization": "2050 G.C., L.P.",
+      "itemNo": "2",
+      "docket_id": "21-E-0277",
+      "file_name": "Supplemental Filing_2050 Grand Concourse_7-8-21 (2).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/07/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 2050 G.C., L.P. to Submeter Electricity at 2050 Grand Concourse, Bronx, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC356FF6-5CD2-4539-A595-35B161B6CCB7}",
+      "organization": "2050 G.C., L.P.",
+      "itemNo": "1",
+      "docket_id": "21-E-0277",
+      "file_name": "Submetering Notice of Intent - 2050 Grand Concourse 5-7-21 FINAL AS FILED.pdf"
+    }
+  ]
+}

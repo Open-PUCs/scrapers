@@ -1,0 +1,269 @@
+{
+  "case": "22-E-0121",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90352088-0000-CA7B-BB03-B7C9F0132EBE}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0121",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Motions",
+      "name": "RAO Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90352088-0000-C03A-8124-5B4CB9B94F6F}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.05.15 ltr re confidentiality.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Letter to DPS",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90352088-0000-CD54-A74E-A86B01138577}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.05.15 ltr to DPS.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90352088-0000-CB90-9097-BC7E31192FBD}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0121",
+      "file_name": "Exhibit B - Average EDI Records.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Exhibit A (REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90352088-0000-C4D1-9C2F-CFA200C66F86}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0121",
+      "file_name": "Exhibit A - Sample Accounts.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90352088-0000-C41D-AE03-EEF388E260F7}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.05.15 cover ltr.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500E2F87-0000-C1C9-A90B-D0428F7F2798}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "22-E-0121",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Central Hudson Response to Agway Motion 03 29 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600E2F87-0000-C81B-9739-42E266B27F03}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "22-E-0121",
+      "file_name": "Central Hudson Response to Agway Motion 03 29 2023.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Attachment 2 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500E2F87-0100-C940-AB62-E97FCFEA6108}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "22-E-0121",
+      "file_name": "Attachment 2 Redacted.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Attachment 1 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600E2F87-0000-CD38-BC2F-D207E8D0B6D9}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "22-E-0121",
+      "file_name": "Attachment 1 Redacted.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Motions",
+      "name": "22-E-0121 CHGE Request for Confidential Treatment 03 29 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500E2F87-0100-CF22-808C-EAFAD697F3E5}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "22-E-0121",
+      "file_name": "22-E-0121 CHGE Request for Confidential Treatment 03 29 2023.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Motion for Initial Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A20587-0000-C791-99C8-D2E85FE20FA4}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.03.21 Motion for Initial Decision.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Cover Letter for Filing Motion for Initial Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A20587-0000-C671-9FF9-F274C724B032}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.03.21 Cover Letter for Filing Motion for Initial Decision.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Affidavit of Anthony Garofalo in support of motion, with exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A20587-0000-C1BA-80B9-42411EF14DA7}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.03.17 Affidavit of A. Garofalo - final.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "01/30/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Agway 01 30 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1B040A2-AE8B-4C8D-80B8-5272BA777EE9}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0121",
+      "file_name": "Response to Agway 01 30 2023.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "01/30/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74CBCA65-BB7F-4A17-88A8-17FC9B31696F}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0121",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "01/30/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Central Hudson Attachment 1 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={371E3C54-2777-466F-84D4-03860570C4A2}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0121",
+      "file_name": "Central Hudson Attachment 1 Redacted.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "01/30/2023",
+      "nypuc_doctype": "Motions",
+      "name": "CHGE Request for Confidential Treatment 01 30 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB1F1DA7-0E05-43B9-BF4A-490FEFBD64D7}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0121",
+      "file_name": "CHGE Request for Confidential Treatment 01 30 2023.pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C701C1B3-7DB2-4B54-BF64-BAFD126945A8}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.01.24 cover ltr.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "2023.01.24 ltr to PSC re Central Hudson",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={987CCBA8-B9C7-4F79-A014-BF25830EE30D}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0121",
+      "file_name": "2023.01.24 ltr to PSC re Central Hudson.pdf"
+    },
+    {
+      "serial": "21",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Motion to Dismiss",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDD51CB7-0E0F-48D8-8F07-58B1E39FEC73}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "22-E-0121",
+      "file_name": "22-E-0121 Central Hudson Response Filed 03182022.pdf"
+    },
+    {
+      "serial": "22",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "RESA Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C6FA41C-2D9F-4AEE-A4C7-2A5E75323B9E}",
+      "organization": "Retail Energy Supply Association",
+      "itemNo": "2",
+      "docket_id": "22-E-0121",
+      "file_name": "RESA Response.pdf"
+    },
+    {
+      "serial": "23",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "LTR NYS Public Service Commission",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BDBFFCD-A1F1-41D5-A677-792A8B6233E3}",
+      "organization": "Retail Energy Supply Association",
+      "itemNo": "2",
+      "docket_id": "22-E-0121",
+      "file_name": "LTR NYS Public Service Commission.pdf"
+    },
+    {
+      "serial": "24",
+      "date_filed": "02/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Agway Energy Services, LLC for a Declaratory Ruling Concerning regarding failure of Central Hudson Gas and Electric Corporation to provide accurate Electronic Data Interchange information or provide accurate client bills.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C9B5084-5067-4241-B12F-204DED866C2E}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0121",
+      "file_name": "2022.02.25 Petition to PSC - final.pdf"
+    }
+  ]
+}

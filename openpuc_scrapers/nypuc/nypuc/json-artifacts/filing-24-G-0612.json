@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0612",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240911 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508DE291-0000-CA26-B311-3938F58FAC97}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0612",
+      "file_name": "20240911 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240911 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508DE291-0000-CA3C-A304-2F7F0B1FBF1C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0612",
+      "file_name": "20240911 - Citation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240828 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05D9A91-0000-C74A-9812-2E5C42F0B423}",
+      "organization": "Best Quality Swimming Pool Service Inc",
+      "itemNo": "3",
+      "docket_id": "24-G-0612",
+      "file_name": "20240828 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240828 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05D9A91-0000-C928-8530-1DE8F43F364D}",
+      "organization": "Best Quality Swimming Pool Service Inc",
+      "itemNo": "3",
+      "docket_id": "24-G-0612",
+      "file_name": "20240828 - Citation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240805 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CE2391-0000-CB24-A3ED-3ECFE457A4C3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0612",
+      "file_name": "20240805 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240805 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CE2391-0000-C22A-8589-818FBB9E25FB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0612",
+      "file_name": "20240805 - NOPV Letter.pdf"
+    }
+  ]
+}

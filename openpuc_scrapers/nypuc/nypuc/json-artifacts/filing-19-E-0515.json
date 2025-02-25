@@ -1,0 +1,115 @@
+{
+  "case": "19-E-0515",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={872C8234-9F7F-445C-B2FD-32D525B1F88C}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "10",
+      "docket_id": "19-E-0515",
+      "file_name": "compliance letter 1-6-2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2421FD92-922C-4F2F-913B-07AF32D1AC81}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "19-E-0515",
+      "file_name": "364_19-E-0515.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/21/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE001214-03D0-4794-8862-B2111C943904}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "8",
+      "docket_id": "19-E-0515",
+      "file_name": "additional information 11-21-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF28F811-5537-4846-A7D3-06AA2F4E51C4}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "7",
+      "docket_id": "19-E-0515",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D17C3724-08AF-4924-A83C-B13E25E1DDE0}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "6",
+      "docket_id": "19-E-0515",
+      "file_name": "response letter 11-07-2019.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/07/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF1D5AA2-4089-4CCE-8C4E-0E138E928F6B}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "5",
+      "docket_id": "19-E-0515",
+      "file_name": "response letter 11-7-19.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/06/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Waiver Request of 16 NYCRR 96.5 (k)(3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04E6EA1C-7090-4367-B24B-7EE13E604A53}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "4",
+      "docket_id": "19-E-0515",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBE7B2F1-C98B-43BC-A2E7-2C1240010F0F}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "3",
+      "docket_id": "19-E-0515",
+      "file_name": "response letter 9-6-19.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABF035C4-364E-4FAA-9306-176DDC81F710}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "2",
+      "docket_id": "19-E-0515",
+      "file_name": "respons letter 8-5-19.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 10 Minerva Place L.P. to Submeter Electricity at 2865 Creston Avenue, Bronx, New York in the territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86683491-7A9C-4849-8398-22EACCBC7CAF}",
+      "organization": "10 Minerva Place L.P.",
+      "itemNo": "1",
+      "docket_id": "19-E-0515",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

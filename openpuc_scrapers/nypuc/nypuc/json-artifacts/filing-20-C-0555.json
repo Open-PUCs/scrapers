@@ -1,0 +1,49 @@
+{
+  "case": "20-C-0555",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2385C744-7F6F-4DF1-B18E-0A702581A6D5}",
+      "organization": "Baltimore-Washington Telephone Company",
+      "itemNo": "3",
+      "docket_id": "20-C-0555",
+      "file_name": "NY TOC Consummation Notice Efiling 3.1.21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-02396 Baltimore-Washington OOL Final-Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BDD03A9-380D-4C27-A392-622F463898AC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0555",
+      "file_name": "20-02396 Baltimore-Washington OOL Final-Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "NY TOC EFiling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5E5C50E-E7F4-49F8-9E32-FF748522B018}",
+      "organization": "Baltimore-Washington Telephone Company, NDS Technologies, LLC, Voxology Group, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-C-0555",
+      "file_name": "NY TOC EFiling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A26F79E-0E72-4498-BAC8-A5C31019CFBD}",
+      "organization": "Baltimore-Washington Telephone Company, NDS Technologies, LLC, Voxology Group, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-C-0555",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "23-G-0260",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/05/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petitions for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0B7DA8C-0000-C212-9496-ABC56CBF62D3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0260",
+      "file_name": "161-C_23-G-0259 and 23-G-0260 final 1524.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06B6E89-0000-C71D-A0F3-9AD0A6D9FF6F}",
+      "organization": "NC & Son Construction, LLC",
+      "itemNo": "4",
+      "docket_id": "23-G-0260",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D02C3189-0000-C912-B65C-E17BC7E9093D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0260",
+      "file_name": "161-A_23-G-0259 and 23-G-0260.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0357",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/16/2020",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F641FAAF-A4EF-4F66-9326-15B3D253821D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0357",
+      "file_name": "369 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/16/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E9C28EA-AF01-4A7E-9B61-70CDB1615E50}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0357",
+      "file_name": "369 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EE7E04F-FA8B-41D5-B4D5-1733F81A4776}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0357",
+      "file_name": "954256 551 W 21 St.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CAB9A1F-6222-4CC2-AC5A-529EC9877666}",
+      "organization": "551 West 21 Street Condo",
+      "itemNo": "2",
+      "docket_id": "19-E-0357",
+      "file_name": "954256 551 West 21 Street Condo v Con Ed Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for an Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={448E2F4E-0935-4015-9804-5C6B0B9F7D6B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0357",
+      "file_name": "Case #954256 - (551 W 21 St Condo) IH Denial Request Ltr.pdf"
+    }
+  ]
+}

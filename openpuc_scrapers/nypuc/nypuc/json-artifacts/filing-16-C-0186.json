@@ -1,0 +1,82 @@
+{
+  "case": "16-C-0186",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/13/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06F28530-F1B4-4A9C-BEE4-80B017FEBADD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "16-C-0186",
+      "file_name": "16-C-0186 DPS Letter 12-13-2018 mxi - jba SIGNED 121318.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/16/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Directory Distribution Report Termination Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE5A9B9D-D8A0-412D-9701-BDC8C696B9B8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "16-C-0186",
+      "file_name": "Directory Distribution Report Termination Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/12/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA321897-261A-41DB-8584-25A73470543D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-C-0186",
+      "file_name": "16-C-0186 16-C-0190 Ruling on Extension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/12/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CFAEE4E-2E69-4BEB-A745-522DF3B16243}",
+      "organization": "Charter Communications",
+      "itemNo": "4",
+      "docket_id": "16-C-0186",
+      "file_name": "16-C-0186 Charter Request for Extension.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/15/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46E37590-0B07-4A4C-81D2-3C95F0BFA8EC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-C-0186",
+      "file_name": "562_16c0190 and 16c0186.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/14/2016",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - Let Your Fingers Do the Walking Online: Verizon to Stop Printing, Delivering Business Telephone Books in New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F28F3AD-35D0-4C3E-9385-32E3E63FA9CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0186",
+      "file_name": "pr16045.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Additional Waiver of New York Code of Rules and Regulations, Title 16, Section 602.10(b) Pertaining to the Distribution of Telephone Directories",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEAFD98A-3664-4795-8057-53677584EDA6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "16-C-0186",
+      "file_name": "160323 NY Petition for Directory Distribution Waiver.pdf"
+    }
+  ]
+}

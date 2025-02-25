@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0631",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30CDFA20-BE95-4FAD-99DF-AF2DAA4941CF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0631",
+      "file_name": "661_ 15v0631.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Hermon, St. Lawrence County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9607779C-EC26-499F-B792-E5A8E42BED34}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0631",
+      "file_name": "SKMBT_22315102310471.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0472",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Petition for a Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0775291-0000-C23B-8629-CB7C35AB5EB7}",
+      "organization": "Edgewood Energy, LLC, Equus Power I, L.P., MPH Cross Island Power, LLC, Pinelawn Power LLC, Shoreham Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0472",
+      "file_name": "J-Power Declaratory Ruling Petition 8.13.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0775291-0000-CE1C-93E1-91E3A4E439F2}",
+      "organization": "Edgewood Energy, LLC, Equus Power I, L.P., MPH Cross Island Power, LLC, Pinelawn Power LLC, Shoreham Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0472",
+      "file_name": "Cover letter 8-13-24.pdf"
+    }
+  ]
+}

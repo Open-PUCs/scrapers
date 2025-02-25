@@ -1,0 +1,27 @@
+{
+  "case": "19-G-0765",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31A416BB-6A26-43E4-A407-5C26E64E0164}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-G-0765",
+      "file_name": "161_19-G-0765.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/11/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "19-G-0765",
+      "file_name": ""
+    }
+  ]
+}

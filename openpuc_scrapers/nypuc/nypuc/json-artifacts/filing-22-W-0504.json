@@ -1,0 +1,60 @@
+{
+  "case": "22-W-0504",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00635A88-0000-C710-89D2-3EC798687AAD}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "22-W-0504",
+      "file_name": "22-W-054 230525 Juncta Compliance Cover Ltr to Phillips w permit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2023",
+      "nypuc_doctype": "Reports",
+      "name": "230525 Juncta DEC Permit - Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00635A88-0000-C933-92E4-70B00BEE58A3}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "22-W-0504",
+      "file_name": "22-W-054 230525 Juncta DEC Permit Issued 230515 ext.WW.Ren 1 Mod 1.Permit.051523.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF239AC0-F77B-4110-9D60-E9A8FA641E3B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-W-0504",
+      "file_name": "461_22-W-0504.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-Juncta Letter of Transmittal 220901",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F6585E4-4222-4470-8697-6158D2EDC0E2}",
+      "organization": "Saratoga Water Co Inc",
+      "itemNo": "1",
+      "docket_id": "22-W-0504",
+      "file_name": "SWS-Juncta Letter of Transmittal 220901.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition by Saratoga Water Services, Inc. and Juncta, LLC, for Approval of an Extension Agreement and Waivers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8541CB83-4DB6-4406-9E46-F286A5726464}",
+      "organization": "Saratoga Water Co Inc",
+      "itemNo": "1",
+      "docket_id": "22-W-0504",
+      "file_name": "SWS-Juncta Petition to Extn Serv Area w 220826.pdf"
+    }
+  ]
+}

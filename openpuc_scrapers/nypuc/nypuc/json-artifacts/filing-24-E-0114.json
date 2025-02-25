@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0114",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0BA878F-0000-CC19-97EC-1A32B20933FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0114",
+      "file_name": "361_24-E-0114 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00A6AF8E-0000-C13B-9F31-DA65AF19B4C6}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0114",
+      "file_name": "Case 24-E-0114 - FOIL Letter for Astoria GenCo Draft Easement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Empire Offshore Wind LLC and Astoria Generating Company, L.P. for a Declaratory Ruling Concerning Waiving the Review of Grant of Easement or, in the Alternative, for Expedited Approval of Easement Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={602CC78D-0000-CC18-B78B-58E7B559E2E6}",
+      "organization": "Astoria Generating Company,L.P., Empire Offshore Wind LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0114",
+      "file_name": "Empire and Astoria - Verified Joint Petition - PSL 70 Decl. Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={602CC78D-0000-C13B-A37D-4EEB09EBC2C1}",
+      "organization": "Astoria Generating Company,L.P., Empire Offshore Wind LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0114",
+      "file_name": "Cover Letter - Empire and Astoria - Verified Joint Petition - PSL 70 Decl. Ruling.pdf"
+    }
+  ]
+}

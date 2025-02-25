@@ -1,0 +1,60 @@
+{
+  "case": "19-C-0305",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F285BAD-B884-42D1-8018-2150DAEB6A15}",
+      "organization": "PEG Bandwidth NY Telephone Corp.",
+      "itemNo": "4",
+      "docket_id": "19-C-0305",
+      "file_name": "NY Consummation Notice.pdf (78 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Letters",
+      "name": "19-01065.PEG Bandwidth.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AC64AA1-FB4D-463F-B53B-23C63A269900}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-C-0305",
+      "file_name": "19-01065.PEG Bandwidth.Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplement Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={639D4ECF-A476-4D1B-AC03-1641D51B92FA}",
+      "organization": "PEG Bandwidth NY Telephone Corp., PEG Bandwidth NY, LLC",
+      "itemNo": "2",
+      "docket_id": "19-C-0305",
+      "file_name": "NY Supplement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B61F39C-4FC1-436B-A428-632F2C79D6F9}",
+      "organization": "PEG Bandwidth NY Telephone Corp., PEG Bandwidth NY, LLC",
+      "itemNo": "1",
+      "docket_id": "19-C-0305",
+      "file_name": "Transmittal Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of PEG Bandwidth NY, LLC and PEG Bandwidth NY Telephone Corp. for Approval of a Pro Forma Change in Intermediate Ownership and Control.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C60C578C-3536-4AFA-8D27-C8BDFD259718}",
+      "organization": "PEG Bandwidth NY Telephone Corp., PEG Bandwidth NY, LLC",
+      "itemNo": "1",
+      "docket_id": "19-C-0305",
+      "file_name": "Petition for Pro Forma Change..pdf"
+    }
+  ]
+}

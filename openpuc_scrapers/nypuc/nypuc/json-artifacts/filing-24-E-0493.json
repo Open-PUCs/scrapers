@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0493",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG and RG&E Securitization Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80638091-0000-CF26-AA31-10F50A9E5BB8}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0493",
+      "file_name": "NYSEG and RG&E Securitization Petition FINAL.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70638091-0000-C012-8700-540C233ABF7E}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0493",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachments E-L",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70638091-0000-C035-9662-495618A85F82}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0493",
+      "file_name": "Attachments E-L.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachments A-D",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70638091-0000-C350-8AC5-A48EF3694F31}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0493",
+      "file_name": "Attachments A-D.pdf"
+    }
+  ]
+}

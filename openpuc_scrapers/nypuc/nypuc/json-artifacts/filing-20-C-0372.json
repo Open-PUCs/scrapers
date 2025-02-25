@@ -1,0 +1,38 @@
+{
+  "case": "20-C-0372",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0280EF3-41F6-4A4C-A7AD-5FDFA6BA4E3B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-C-0372",
+      "file_name": "561_20-C-0372 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "ETC Petition for Wireless",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D14C536-040D-41D1-B5D3-B38694FF02E9}",
+      "organization": "Xchange Telecom LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0372",
+      "file_name": "ETC Petition for Wireless 7.24.2020.pdf (891 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A6E261F-870F-4AFC-ACF4-060F72DBCAB0}",
+      "organization": "Xchange Telecom LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0372",
+      "file_name": "Cover Letter - ETC Filing - 7.24.20.pdf (142 KB)"
+    }
+  ]
+}

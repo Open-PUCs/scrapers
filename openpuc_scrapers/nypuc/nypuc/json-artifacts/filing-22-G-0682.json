@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0682",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/05/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B7DA8C-0000-CD7A-8E6B-0D973EC2F114}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0682",
+      "file_name": "161-C_22-G-0682.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CF943B4-60A8-4DAB-B1B5-BF80D1C9EF3F}",
+      "organization": "A Septic Service LLC",
+      "itemNo": "5",
+      "docket_id": "22-G-0682",
+      "file_name": "cert. dig safe 2021 (2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/26/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={838C31A4-622A-48EA-9AA1-C6901A71A550}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0682",
+      "file_name": "163_22-G-0682.pdf"
+    }
+  ]
+}

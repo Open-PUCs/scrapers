@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0607",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan for 2-21 Malt Drive, Long Island City, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8060DD8A-0000-C318-B63C-C77520069D88}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "22-E-0607",
+      "file_name": "in-service meter test plan (3).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/24/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance filing for 2-21 Malt Drive, Long Island City, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CC278A-0000-C619-BFA7-814053DD7718}",
+      "organization": "Bud North LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0607",
+      "file_name": "compliance letter (3).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00ED188A-0000-CA15-98E8-A2F229E40834}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0607",
+      "file_name": "366_22-E-0607 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Withdrawal of Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A046C886-0000-C510-853E-AFB1B96B9869}",
+      "organization": "Bud North LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0607",
+      "file_name": "response letter 3-9-23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/08/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1071C186-0000-CE18-B04B-385B812FD9A7}",
+      "organization": "Bud North LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0607",
+      "file_name": "response letter (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Bud North LLC to Submeter Electricity at 2-21 Malt Drive, Long Island City, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CDC171D4-592F-4CFB-B2E1-F088E0E0C045}",
+      "organization": "Bud North LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0607",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

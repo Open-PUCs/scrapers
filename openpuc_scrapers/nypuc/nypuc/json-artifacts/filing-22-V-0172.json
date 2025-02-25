@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0172",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={010E2B34-768B-4150-9B6E-F975EB539D7B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0172",
+      "file_name": "662_22-V-0172.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00077 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45F0F622-9E7C-4466-A5BF-0D54F1BEB1B2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0172",
+      "file_name": "22-00077 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 380 Riverside Drive, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DDF504B-41B9-4350-B9BC-97D22001B5EF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0172",
+      "file_name": "220112-10 Petition (380 RIVERSIDE DR) (Post-Survey).pdf"
+    }
+  ]
+}

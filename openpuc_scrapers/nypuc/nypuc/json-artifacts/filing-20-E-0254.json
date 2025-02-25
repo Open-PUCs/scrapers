@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0254",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0254 Galvin Ack Letter 06042020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={887B92F9-DCCA-42D1-9A43-803472D70DE5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0254",
+      "file_name": "20-E-0254 Galvin Ack Letter 06042020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0254 Galvin Rehearing Request 05202020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06E1C829-8A42-4C7D-8F92-0C7B5587C561}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0254",
+      "file_name": "20-E-0254 Galvin Rehearing Request 05202020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0254 Galvin SMD Final 04222020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56FC780F-88E1-41D7-8A4C-8BE76A4BAB65}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0254",
+      "file_name": "20-E-0254 Galvin SMD Final 04222020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF8540FC-2A2E-4A4C-9969-868C418314F5}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0254",
+      "file_name": "363 Letter Final_Redacted.pdf"
+    }
+  ]
+}

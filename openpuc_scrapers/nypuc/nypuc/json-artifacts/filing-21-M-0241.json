@@ -1,0 +1,71 @@
+{
+  "case": "21-M-0241",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/16/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Upstream Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={877D1B6B-CB3C-4A95-8912-5687F2AB880F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-M-0241",
+      "file_name": "266_21-M-0241 Dec. Ruling final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Lockport Proposed Ownership Diagram 0511",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89EDA778-9463-4690-B84C-3A596AE93416}",
+      "organization": "Lockport Energy Associates, L.P.",
+      "itemNo": "2",
+      "docket_id": "21-M-0241",
+      "file_name": "Lockport Proposed Ownership Diagram 0511.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Lockport Current Ownership Diagram 0511",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F378E601-6D8C-4738-8674-14BAF5865CD4}",
+      "organization": "Lockport Energy Associates, L.P.",
+      "itemNo": "2",
+      "docket_id": "21-M-0241",
+      "file_name": "Lockport Current Ownership Diagram 0511.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16C6CAA9-17A1-4CA3-B9C1-A592999561D1}",
+      "organization": "Lockport Energy Associates, L.P.",
+      "itemNo": "2",
+      "docket_id": "21-M-0241",
+      "file_name": "Cover Letter 6-22-21.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Lockport Energy Associates, L.P., Petition for Declaratory Ruling Regarding Application of Sections 70 and 83 of the New York State Public Service Law, and, in the Alternative, Approval Under Sections 70 and 83",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3776C4D-6471-448A-B531-ECF920C65208}",
+      "organization": "Lockport Energy Association L.P.",
+      "itemNo": "1",
+      "docket_id": "21-M-0241",
+      "file_name": "Lockport Verified Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B715450A-87D6-4123-83E9-90ABFEC82691}",
+      "organization": "Lockport Energy Association L.P.",
+      "itemNo": "1",
+      "docket_id": "21-M-0241",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

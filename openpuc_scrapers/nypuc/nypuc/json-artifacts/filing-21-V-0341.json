@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0341",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D536B26-2DB6-4A8C-87D3-8500DAADD351}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0341",
+      "file_name": "663_21-V-0341 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Sherman, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0E1927C-36C6-400A-A28B-CB7DF90B2E43}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0341",
+      "file_name": "2021.06.14 T. SHERMAN RENEWAL FILED-PSC.pdf"
+    }
+  ]
+}

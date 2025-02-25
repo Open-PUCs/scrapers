@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0475",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver, in Part, and Extending Development Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B174A6E9-E00E-4057-B40F-B7DBD8C1CB9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0475",
+      "file_name": "367_21-E-0475_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/06/2021",
+      "nypuc_doctype": "Comments",
+      "name": "Pinebrook-NGrid Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D308243B-6A47-41B0-8826-11E1D72C2FC2}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-E-0475",
+      "file_name": "21-E-0475-Pinebrook-NGrid Response-Extension 5-Year Agreement (PSC 12-6-2021).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter to Secretary to the Commission National Grid",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DA25F73-B858-4042-91B5-D4EDAA1A1A71}",
+      "organization": "Pinebrooke Falls, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0475",
+      "file_name": "Letter to Secretary to the Commission National Grid.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "CNB Letter of Credit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28C7AB2B-3C7B-4DA6-8B8C-37D482819BE1}",
+      "organization": "Pinebrooke Falls, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0475",
+      "file_name": "CNB Letter of Credit.pdf"
+    }
+  ]
+}

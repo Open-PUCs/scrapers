@@ -1,0 +1,38 @@
+{
+  "case": "18-C-0092",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Part of the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E679ECE5-9782-4EF7-9239-97F05E0FB76F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "18-C-0092",
+      "file_name": "180522 Letter to Commission.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Reply of Verizon New York Inc. to the Answer of Optical Communications Group, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1904D6C2-E849-4C11-8DD6-4ACD0FFEDBD9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "18-C-0092",
+      "file_name": "180221 Reply to Answer.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. to Compel Optical Communications Group, Inc. to Enter Into an Agreement or, in the Alternative, to Authorize Termination of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={939EC8C4-8212-447E-939B-DE2218211656}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0092",
+      "file_name": "180126 OCG Petition.pdf"
+    }
+  ]
+}

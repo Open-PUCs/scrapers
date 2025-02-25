@@ -1,0 +1,49 @@
+{
+  "case": "19-T-0722",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/10/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Brian Bury Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4212A892-8A3B-4D4D-8B38-A18D9F2F783E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-T-0722",
+      "file_name": "19-T-0722-WillitSubstationRelocationProject-Part 102 Ltr..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/13/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Willet Substation Part 102 FINAL - Report & Figures",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C692EA3B-8262-486B-B7A1-37C16C585F74}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "19-T-0722",
+      "file_name": "Willet Substation Part 102 FINAL 11-08-19 - Report & Figures.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Willet Substation Part 102 FINAL - Appendices",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8F88E86-D39E-40DD-8690-B7BFCB6F6DB7}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "19-T-0722",
+      "file_name": "Willet Substation Part 102 FINAL 11-08-19 Appendices.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/13/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B14A49BE-8B26-4E56-BE5A-166BCFE9B06A}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "19-T-0722",
+      "file_name": "NYSEG Line 945 Structure Additions Part 102 Cover Letter 11-13-19.pdf"
+    }
+  ]
+}

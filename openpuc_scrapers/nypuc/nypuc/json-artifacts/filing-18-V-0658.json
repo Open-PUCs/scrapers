@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0658",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={148A2F75-F62A-4284-8102-FAAF5E2E1162}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0658",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Sodus, Wayne County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86BE0964-24A1-406B-B3D0-0C0E17955496}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0658",
+      "file_name": "101718 V SODUS FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

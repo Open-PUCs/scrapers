@@ -1,0 +1,60 @@
+{
+  "case": "17-T-0511",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={762DE0E4-4FF6-41CB-A307-CDE71A040F70}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0511",
+      "file_name": "17-T-0511-NiagaraMohawk-Part 102-9-18-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Tilden Cortland Part 102 - Exhibits C-D",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CED0B1E3-979F-4D34-AE4E-30619BE85A2E}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0511",
+      "file_name": "Tilden Cortland Part 102 - Exhibits C-D.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Tilden Cortland Part 102 - Exhibits A-B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADB236DA-B8AA-476A-BD5E-A705B9D23A90}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0511",
+      "file_name": "Tilden Cortland Part 102 - Exhibits A-B.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Report of Niagara Mohawk Power Corporation Concerning the Tilden-Cortland #18 115 kV Transmission Line Conductor Clearance Refurbishment Project Part 102.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4CE6D18-B466-4D37-82AA-97FA81F603DE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0511",
+      "file_name": "Tilden Cortland Part 102 Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={806B9FCF-C2E1-41CB-BD46-27169FC499E3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0511",
+      "file_name": "Filing Letter (Tilden Cortland Part 102 Report).pdf"
+    }
+  ]
+}

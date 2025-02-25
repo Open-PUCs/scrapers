@@ -1,0 +1,104 @@
+{
+  "case": "21-V-0493",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5E9EA8F-218B-4040-8A85-65432872695B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0493",
+      "file_name": "661_21-V-0493.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Poof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78F0571F-3507-4420-90E1-D02123881772}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "21-V-0493",
+      "file_name": "AUSA Newspaper Affidavit - Florida.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E343323-886D-41DE-95F2-CCCF814A5D9A}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "21-V-0493",
+      "file_name": "AUSA Cover Letter - Newspaper Affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance - Florida",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3160486-4AB4-4125-81AB-89C1FFBE5BC5}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0493",
+      "file_name": "Proof of Performance - Florida.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with the Village of Florida, Orange County. Initial Docket # 10-V-0305.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={577C7BD2-8D56-4327-A156-0F76C2F2CA7D}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0493",
+      "file_name": "Application Cover Letter - Florida.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Florida, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B942051-0A90-4244-8C63-D025F392E7DB}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0493",
+      "file_name": "Exhibit IV - Florida, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24700241-F1EE-4C20-9C06-6FB97D905D8A}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0493",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CE585D0-3AF6-48F9-B764-4999DAD707F6}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0493",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B55A18D7-DFAE-42CF-8CE0-E75DC630EF34}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0493",
+      "file_name": "Exhibit I - R2 .pdf"
+    }
+  ]
+}

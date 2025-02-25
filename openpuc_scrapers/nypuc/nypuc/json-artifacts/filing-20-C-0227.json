@@ -1,0 +1,60 @@
+{
+  "case": "20-C-0227",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4DCB8A3-A410-4A23-9C95-D5EE5AE91F0F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-C-0227",
+      "file_name": "565 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DAAF9432-08B9-43E1-816D-2546354AFB46}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-C-0227",
+      "file_name": "565 Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/08/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63C2C098-AAC3-4915-80F0-4CC91FC2D4C1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-C-0227",
+      "file_name": "944978 Chen Ack FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/08/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Information Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A34F5A7-AA6F-494B-AEB5-70FA7B4E6469}",
+      "organization": "Lily Lan Chen 84 Inc.",
+      "itemNo": "2",
+      "docket_id": "20-C-0227",
+      "file_name": "Appeal 944978.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/08/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FDBB57E-5DB1-4EC0-900D-EA866D42ADCB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-C-0227",
+      "file_name": "944978 Chen IH.pdf"
+    }
+  ]
+}

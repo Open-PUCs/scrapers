@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0555",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/29/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "539 Vanderbilt Partners LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC531BC4-8EB4-40D6-A2B4-88E8FA6B488F}",
+      "organization": "539 Vanderbilt Partners LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0555",
+      "file_name": "539 Vanderbilt Partners LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3FC97AA-8069-43BF-87D5-C1491729290B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0555",
+      "file_name": "378_21-E-0555.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - 539 Vanderbilt Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={521D0875-B737-40C5-A6E4-018E5E9F49BA}",
+      "organization": "539 Vanderbilt Partners LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0555",
+      "file_name": "Supplemental Filing_539 Vanderbilt Avenue.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Notice of Intent and Waiver Request of 539 Vanderbilt Partners LLC to Submeter Electricity at 539 Vanderbilt Avenue, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53E71D7E-9222-4082-B6CE-B9D0B9050D52}",
+      "organization": "539 Vanderbilt Partners LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0555",
+      "file_name": "Submetering notice of intent - 539 Vanderbilt Partners LLC - 539 Vanderbilt Avenue.pdf"
+    }
+  ]
+}

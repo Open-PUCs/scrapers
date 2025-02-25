@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0536",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40595493-0000-CF12-B488-FC953B4FE9CB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0536",
+      "file_name": "661_24-V-0536.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0360B92-0000-CE5E-86AF-D706AABC549C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0536",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/19/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. Troy Letter 9.19.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0360B92-0000-CE1C-B1E2-E17E52DD6FDE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0536",
+      "file_name": "Charter Confidential Treatment Request to RAO C. Troy Letter 9.19.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/19/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, C. Troy-Request for Renewal and Certificate of Confirmation (redacted) 9.19.24.SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0360B92-0000-C990-BB7C-7070A1091747}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0536",
+      "file_name": "Charter Communications, C. Troy-Request for Renewal and Certificate of Confirmation (redacted) 9.19.24.SP.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, C. Troy Cover letter-Request for Renewal and Certificate of Confirmation 9.19.24.SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0360B92-0000-C473-94FC-AEB65A36F377}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0536",
+      "file_name": "Charter Communications, C. Troy Cover letter-Request for Renewal and Certificate of Confirmation 9.19.24.SP.pdf"
+    }
+  ]
+}

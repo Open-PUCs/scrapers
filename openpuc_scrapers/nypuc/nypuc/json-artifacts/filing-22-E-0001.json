@@ -1,0 +1,27 @@
+{
+  "case": "22-E-0001",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "CECONY Reply to URAC Petitions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3694FF50-0F79-4B58-9C99-A5B40EF84172}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0001",
+      "file_name": "CECONY Reply to URAC Petitions_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utility Rate Analysis Consultants for a Declaratory Ruling Concerning. Failure of Consolidated Edison Company of New York to a provide fair investigation and prompt response, in a reasonable amount of time, during the PSC\u00bfs complaint process (16 NYCRR \u00a712) to Office of Consumer Services Case 029653 Driver Development v. Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07BC25BC-09B7-402D-A977-09E7B5250F0D}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "22-E-0001",
+      "file_name": "Petition for Declaratory Ruling - Con Ed and OCS Tardiness.pdf"
+    }
+  ]
+}

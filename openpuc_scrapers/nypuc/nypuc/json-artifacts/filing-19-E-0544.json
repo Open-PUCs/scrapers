@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0544",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FACDDBE8-AEA0-4597-A1E8-E14595FA4EA0}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-E-0544",
+      "file_name": "364 19-E-0544 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Denial of an Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8FBBB91-3E85-44A6-8863-78F52970D172}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-E-0544",
+      "file_name": "713214 Feinman - Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/14/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6C2EE1D-7EF6-46B9-8216-DD0FAF5AE5B3}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "19-E-0544",
+      "file_name": "#713214-FEINMAN-APPEAL - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/14/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "July 25, 2019 Ruling on Extension Request - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1DE66C0-D939-4056-9A5E-678AD8ACF963}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0544",
+      "file_name": "713214-Feinmanv.ConEdison - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/14/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension of Time to File an Appeal - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A598E59D-9024-46FE-891D-A113E948A1E1}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-E-0544",
+      "file_name": "713214 Appeal Ext request - Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/14/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for an Informal Hearing - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B58AFF64-EE52-4131-8961-6E1D4F1B2080}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0544",
+      "file_name": "713214 Feinman IH request - redacted.pdf"
+    }
+  ]
+}

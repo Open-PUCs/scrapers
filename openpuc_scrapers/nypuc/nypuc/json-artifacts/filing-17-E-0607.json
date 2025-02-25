@@ -1,0 +1,93 @@
+{
+  "case": "17-E-0607",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4829A035-83E5-43BD-AEA8-7992F7FF699C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "17-E-0607",
+      "file_name": "Joseph Moore Appeal - case 17-E-06007.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/02/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8A7FF59-972D-4D79-9792-35C5D0C609A0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "17-E-0607",
+      "file_name": "Joseph Moore Appeal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/23/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31137F57-2A3D-4746-8823-D2FAD99BF067}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0607",
+      "file_name": "364 Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/23/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding an Appeal of Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73D56D14-FA9D-4A52-A248-903EDD2F4705}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0607",
+      "file_name": "364 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/12/2018",
+      "nypuc_doctype": "Press Releases",
+      "name": "Commission Issues Preliminary January 18, 2018 Agenda",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD7890CC-0EA5-4231-960B-837F812AE062}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0607",
+      "file_name": "pr18001 - Prelim Agenda.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6321461-47A5-4AE7-B2BE-7A6E1DEA0B50}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0607",
+      "file_name": "435463 Moore Acknowledgment Letter _Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={055CF4CF-6D9C-4138-8B9F-0F929934B32C}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0607",
+      "file_name": "Case #435463 - Customer's Appeal Letter 92271_Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21E6B5BF-791B-4B4B-99CC-A5BE4EB6DE2F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0607",
+      "file_name": "Joseph Moore vs Con Edison case 435463_Redacted.pdf"
+    }
+  ]
+}

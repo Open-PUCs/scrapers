@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0254",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "2019 Electric Summer Preparedness Presentation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={344C6951-DDDE-4A18-97FD-EB4968D80CB1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-E-0254",
+      "file_name": "301 - 2019 Electric Summer Preparedness Presentation.pptx"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - Summer Electric Prices Expected to Stay Near Historically Low Levels",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C71F881-D559-4DE4-A5B7-D33B1E6C7D5E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0254",
+      "file_name": "pr19045.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DFE4E33-F7C9-4F57-AD32-F6BC6F144613}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-E-0254",
+      "file_name": "CII & TS Request - Summer Transmission Prepardness Survey.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBF5D283-AF6E-4912-B4C4-6D56CE4660A2}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "19-E-0254",
+      "file_name": "19-00880 CHGE Request for Confidential Treatment 04232019.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6CED5DCC-4BC3-4FD5-BCFD-DDBA9AC45CE9}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-E-0254",
+      "file_name": "Matter 19-00880-In the Matter of 2019 Summer Electric Ssystem--ltr. to RAO requesting confidential treatment.pdf"
+    }
+  ]
+}

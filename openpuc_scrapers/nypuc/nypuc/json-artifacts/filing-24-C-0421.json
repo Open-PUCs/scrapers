@@ -1,0 +1,49 @@
+{
+  "case": "24-C-0421",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Fairport Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1031B890-0000-C22F-AEE4-386D11FDB3A0}",
+      "organization": "Village of Fairport",
+      "itemNo": "1",
+      "docket_id": "24-C-0421",
+      "file_name": "Final Fairport Complaint_7-15-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Exhibit 2 - Electronic Proof of Claim_DH#EP28783",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0031B890-0000-C25C-86B7-284C9513ADED}",
+      "organization": "Village of Fairport",
+      "itemNo": "1",
+      "docket_id": "24-C-0421",
+      "file_name": "Exhibit 2 - Electronic Proof of Claim_DH#EP28783.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Exhibit 1 - Rochester Telephone AKA Frontier Telephone Joint Pole Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0031B890-0000-CD33-9B3E-7B88DAC29B09}",
+      "organization": "Village of Fairport",
+      "itemNo": "1",
+      "docket_id": "24-C-0421",
+      "file_name": "Exhibit 1 - Rochester Telephone AKA Frontier Telephone Joint Pole Agreement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0031B890-0000-CA1E-BA16-920F442D8ED2}",
+      "organization": "Village of Fairport",
+      "itemNo": "1",
+      "docket_id": "24-C-0421",
+      "file_name": "Cover - Frontier Complaint 7-15-24.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0185",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83D42B4F-82EC-448D-ACEB-E7DBF85B633C}",
+      "organization": "Red Apple Surf Realty III",
+      "itemNo": "5",
+      "docket_id": "18-E-0185",
+      "file_name": "compliance letter 3-14-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/13/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83227021-0C4F-40D6-AB06-4943AD3D7D44}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0185",
+      "file_name": "361_18-E-0185.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D90583B-4A34-4788-BE82-69A34413F94B}",
+      "organization": "Red Apple Surf Realty III",
+      "itemNo": "3",
+      "docket_id": "18-E-0185",
+      "file_name": "response letter 11-21-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8334FE94-1F9D-404C-9481-ABEA1B96F1FC}",
+      "organization": "Red Apple Surf Realty III",
+      "itemNo": "2",
+      "docket_id": "18-E-0185",
+      "file_name": "response letter 6-20-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Red Apple Surf Realty III to Submeter Electricity at 3514 Surf Avenue, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C30AE6A8-C4B6-4A38-9485-D567D9991F17}",
+      "organization": "Red Apple Surf Realty III",
+      "itemNo": "1",
+      "docket_id": "18-E-0185",
+      "file_name": "submetering application 3-21-18.pdf"
+    }
+  ]
+}

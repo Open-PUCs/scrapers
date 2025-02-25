@@ -1,0 +1,49 @@
+{
+  "case": "22-V-0662",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B097B38A-0000-CA1B-A419-3BAA0A011E16}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0662",
+      "file_name": "662_22-V-0662 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Hancock Franchise Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E08D9789-0000-C41C-9B1A-D0CC1B1A62B6}",
+      "organization": "Han Cel, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-V-0662",
+      "file_name": "Village of Hancock Franchise Application.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Hancock Telephone Company for Approval of the Renewal of its Franchise with the Village of Hancock, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18B2F475-67A9-4B56-A272-F6DFE8D8CB12}",
+      "organization": "Han Cel, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0662",
+      "file_name": "Village of Hancock Video Franchise 2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A976033-6184-4323-BC56-C5224851F0DF}",
+      "organization": "Han Cel, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0662",
+      "file_name": "Secretary Phillips Village Franchise Renewal 2022.pdf"
+    }
+  ]
+}

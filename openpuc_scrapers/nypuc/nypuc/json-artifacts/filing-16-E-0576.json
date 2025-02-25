@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0576",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACF81C99-BC5A-4172-92F9-55FD6A995606}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0576",
+      "file_name": "364_16-E-0576.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD267F78-0300-4E02-B41B-8AF3C012108A}",
+      "organization": "172 Madison Avenue",
+      "itemNo": "4",
+      "docket_id": "16-E-0576",
+      "file_name": "response letter 3-21-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/09/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "172 Madison Avenue submits additional information requested for 172 Madison Avenue, New York, NY 10016",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12CB2934-29E5-4200-A96D-AD8F0664DDCC}",
+      "organization": "172 Madison Avenue",
+      "itemNo": "3",
+      "docket_id": "16-E-0576",
+      "file_name": "letter 3-9-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised submetering cover letter for 172 Madison Avenue, New York, NY 10016.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B734CBDC-9111-44DA-82DB-2736C897BC9C}",
+      "organization": "172 Madison Avenue",
+      "itemNo": "2",
+      "docket_id": "16-E-0576",
+      "file_name": "revised cover letter 10-27-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 172 Madison Condominium to Submeter Electricity at 172 Madison Avenue New York, NY 10016, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8032F1E4-D17D-42A3-B88A-B4E5520CDE64}",
+      "organization": "172 Madison Avenue",
+      "itemNo": "1",
+      "docket_id": "16-E-0576",
+      "file_name": "submetering application 10-17-16.pdf"
+    }
+  ]
+}

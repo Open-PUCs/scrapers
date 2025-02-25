@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0162",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "PSC Order Agreement Silo",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86D8A21C-8BE4-4434-862C-5CD6256F6CC6}",
+      "organization": "Silo Ridge Condominiums II",
+      "itemNo": "5",
+      "docket_id": "21-E-0162",
+      "file_name": "PSC Order Agreement Silo Case 21-E-0162.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5E66267-AE03-4434-80C0-FA00388F694A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0162",
+      "file_name": "369_21-E-0162 Confirming Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F095568-46E9-4B92-B1C5-035A3D7B9FD9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0162",
+      "file_name": "365_21-E-0162 OCO mp rvwd.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Informaion",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBAA6B7E-28BC-49E3-AB0E-784505228D13}",
+      "organization": "Silo Ridge Condominiums II",
+      "itemNo": "2",
+      "docket_id": "21-E-0162",
+      "file_name": "Additional Informaion.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Silo Ridge Condominiums II to Submeter Electricity at 5021 Route 44 Amenia, NY 12501, Located in the Territory of New York State Electric and Gas Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A69AB8F5-8C24-4FB9-85CC-B63CCC4114A3}",
+      "organization": "Silo Ridge Condominiums II",
+      "itemNo": "1",
+      "docket_id": "21-E-0162",
+      "file_name": "Silo Ridge Condominium II Notice of Intent to Submeter Filing.pdf"
+    }
+  ]
+}

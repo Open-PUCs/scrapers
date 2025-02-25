@@ -1,0 +1,115 @@
+{
+  "case": "15-W-0515",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/12/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Customers Regarding Approved Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC08AF33-4E0B-4D91-A3DE-DD8809AB9323}",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "10",
+      "docket_id": "15-W-0515",
+      "file_name": "WC CustLtr for 2016 Tariff notice IMG_20160412_0001.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "9",
+      "docket_id": "15-W-0515",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/18/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47C7CB96-33F3-4AB1-A858-42D8144C3B9C}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "15-W-0515",
+      "file_name": "461_15w0515.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Further Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2065439B-CC35-490E-B4CF-7A249FA53A1A}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-W-0515",
+      "file_name": "15w0515 Further Postponement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/20/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "6",
+      "docket_id": "15-W-0515",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/24/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of minor rate filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BEF3BD9-6B57-4B75-B7E0-18D6A5C3B992}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-W-0515",
+      "file_name": "15W0515 Postponement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "4",
+      "docket_id": "15-W-0515",
+      "file_name": ""
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/11/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CD775D2-2E3F-47E2-BE34-E3D243F2A7B5}",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "3",
+      "docket_id": "15-W-0515",
+      "file_name": "Updated Information.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/10/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F90364B9-9252-4AF7-B540-727FCE011DA6}",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "2",
+      "docket_id": "15-W-0515",
+      "file_name": "Windham Ridge Water Corp.-Minor Rate.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/09/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Windham Ridge Water Corp.",
+      "itemNo": "1",
+      "docket_id": "15-W-0515",
+      "file_name": ""
+    }
+  ]
+}

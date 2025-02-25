@@ -1,0 +1,82 @@
+{
+  "case": "22-E-0163",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEC3191F-7508-48B4-8CB4-436B2D9870E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0163",
+      "file_name": "364_22-E-0163 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9761AE6A-1DED-480C-8D0A-049BA3156F38}",
+      "organization": "Landis+Gyr Inc.",
+      "itemNo": "4",
+      "docket_id": "22-E-0163",
+      "file_name": "Landis+Gyr Revelo Meter Technical Manual Confidentiality Request Letter-06212022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Reports",
+      "name": "REDACTED 98-2748 LG Revelo Technical Manual",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A90903D4-82D0-4C83-82B7-FAF9462F7332}",
+      "organization": "Landis+Gyr Inc.",
+      "itemNo": "4",
+      "docket_id": "22-E-0163",
+      "file_name": "REDACTED 98-2748 LG Revelo Technical Manual.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Landis+Gyr Revelo E360 - Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A467066-CFE3-45AE-B43E-634BA93F5E59}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "22-E-0163",
+      "file_name": "Landis+Gyr Revelo E360 - Letter of Intent.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/24/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24498752-4AAB-4069-88F1-3B4EBE841D16}",
+      "organization": "Landis+Gyr Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0163",
+      "file_name": "Landis+Gyr Revelo Meter Confidentiality Request Letter-03242022.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/24/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Landis+Gyr Revelo Meter Approval Request.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2E9AF8B-DF82-4485-A3A9-D48C0376D31D}",
+      "organization": "Landis+Gyr Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0163",
+      "file_name": "Landis+Gyr Revelo Meter Approval Request-03242022.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/24/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment B Revelo Eurofins Test Report Summary Rev 4.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B949B40-89EE-4DA4-A500-B306FD877F0B}",
+      "organization": "Landis+Gyr Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0163",
+      "file_name": "Att_B_Revelo Eurofins Test Report Summary Rev 4.pdf"
+    }
+  ]
+}

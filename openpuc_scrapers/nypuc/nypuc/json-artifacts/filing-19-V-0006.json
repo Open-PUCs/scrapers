@@ -1,0 +1,104 @@
+{
+  "case": "19-V-0006",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Thomas T. Ranallo Granting Request to Withdraw Complaint and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2005BD86-0000-C713-9E6F-7D8948E4C1E6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "19-V-0006",
+      "file_name": "mlp_ltr_granting withdrawal_t.ranallo_19-V-0006_030623.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Geneva Complaint Withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9002B886-0000-C91D-BE90-094B49B93552}",
+      "organization": "Town of Geneva",
+      "itemNo": "9",
+      "docket_id": "19-V-0006",
+      "file_name": "3.6.23 Town of Geneva Complaint Withdrawal - NYSPSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "TB to NYSPSC re Town of Geneva",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CBF9037-94DA-41C3-8A55-CBB991EB98A1}",
+      "organization": "Troy & Banks, Inc.",
+      "itemNo": "8",
+      "docket_id": "19-V-0006",
+      "file_name": "6.15.22 TB to NYSPSC re Town of Geneva.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "TB to NYSPSC re Town of Geneva",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43F46370-0638-4F17-9C45-44010FA2EFDA}",
+      "organization": "Troy & Banks, Inc.",
+      "itemNo": "7",
+      "docket_id": "19-V-0006",
+      "file_name": "6.6.22 TB to NYSPSC re Town of Geneva Case 19-V-0006.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for NYSPSC Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0431CDA-1989-436F-8FDE-65DDE32ABCC9}",
+      "organization": "Town of Geneva",
+      "itemNo": "5",
+      "docket_id": "19-V-0006",
+      "file_name": "10.28.21 TB Request for NYSPSC Ruling the Town of Geneva.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter's Response to Request for Enforcement by the Town of Geneva",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={364E4CD4-9F8B-494E-857C-E1C85D6EB523}",
+      "organization": "Town of Geneva",
+      "itemNo": "4",
+      "docket_id": "19-V-0006",
+      "file_name": "6.15.21 Charter Response to Case 19-V-0006 Town of Geneva NY.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Response to Geneva's Request for Enforcement Action",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03992796-289C-492C-9EFE-DCA113B24032}",
+      "organization": "Charter Communications, Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0006",
+      "file_name": "Charter Response to Geneva_s Request for Enforcement Action.PDF"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Geneva Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1641A893-587A-4076-B126-63150FE8D0BA}",
+      "organization": "Town of Geneva",
+      "itemNo": "2",
+      "docket_id": "19-V-0006",
+      "file_name": "4.12.21 to NYSPSC re Town of Geneva NY.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/07/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint of Town of Geneva Against Time Warner Cable Concerning Franchise Agreement Fees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6C1929E-E33F-41DE-B149-3DF7D80E0002}",
+      "organization": "Town of Geneva",
+      "itemNo": "1",
+      "docket_id": "19-V-0006",
+      "file_name": "Complaint.pdf"
+    }
+  ]
+}

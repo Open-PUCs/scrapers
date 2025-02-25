@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0226",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8061BA92-0000-C51B-8618-CB53F2FA3F11}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0226",
+      "file_name": "367_24-E-0226 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FE4892-0000-C833-A927-C9D7229FE97C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-E-0226",
+      "file_name": "Cover leter for test data for CTE Bar Type 600 to 5 amp Current Transformers.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "CTE Manufacturer Test Data",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FE4892-0000-C51C-83DC-C2437F51690A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-E-0226",
+      "file_name": "CTE manufacturer test data.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Evaluation Report for CTE Tech Co. LTD. Model CP-4 High Accuracy Extended Range and Accuracy Bar Type CT",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CFD38E-0000-C71E-81A6-6480646E9FA8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0226",
+      "file_name": "Evaluation Report for CTE Tech Co. LTD. Model CP-4 High Accuracy Extended Range and Accuracy Bar Type CT.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10CFD38E-0000-C215-B47A-DBEBCE5B048E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0226",
+      "file_name": "Cover Letter for Posting of Consolidated Edison Test Report for CTE Tec Co. Ltd. Model CP-4 High Accuracy Extended Range Bar Type CT.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval of CTE Tech Co. Ltd. Model CP-4 High Accuracy/Extended Range Bar Type Current Transformers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D036C48E-0000-C314-9D45-9091ABF4A8B0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0226",
+      "file_name": "Letter of Intent to use CTE Tech Co. Ltd CP-4 Bar Type Extended Accuracy and Range CT.pdf"
+    }
+  ]
+}

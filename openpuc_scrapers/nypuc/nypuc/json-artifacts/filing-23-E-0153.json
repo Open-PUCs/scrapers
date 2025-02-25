@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0153",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "compliance letter for 495 11th Avenue, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B055EF8C-0000-C019-91B9-BAB60345F8C1}",
+      "organization": "495 11th Avenue Owner Realty LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0153",
+      "file_name": "compliance letter (4).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5012128C-0000-C818-8FBF-169D5770CD4F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0153",
+      "file_name": "380_23-E-0153.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional responses for 495 11th Avenue, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F3038A-0000-C513-AA39-E0C161C61E55}",
+      "organization": "495 11th Avenue Owner Realty LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0153",
+      "file_name": "additional information 8-17-23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information requested for 495 11th Avenue, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90C2D988-0000-CB1E-B10B-88CF1C8F163D}",
+      "organization": "495 11th Avenue Owner Realty LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0153",
+      "file_name": "additional information (4).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/30/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 495 11th Avenue Owner Realty LLC to Submeter Electricity at 495 11th Avenue, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20933287-0000-C01E-9551-858F9F1B8BFB}",
+      "organization": "495 11th Avenue Owner Realty LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0153",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

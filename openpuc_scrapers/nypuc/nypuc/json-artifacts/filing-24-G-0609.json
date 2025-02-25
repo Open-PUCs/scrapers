@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0609",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240910 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2042D791-0000-C131-8241-127A77B70667}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0609",
+      "file_name": "20240910 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240905 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1042D791-0000-C156-A93A-E565B58619D4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0609",
+      "file_name": "20240905 - Staff Investigative Report.pdf"
+    }
+  ]
+}

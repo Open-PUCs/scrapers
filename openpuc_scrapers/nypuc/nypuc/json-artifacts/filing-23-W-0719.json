@@ -1,0 +1,38 @@
+{
+  "case": "23-W-0719",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C09FD48C-0000-CF18-B733-3E7F81453DB3}",
+      "organization": "Great Expectations LLC",
+      "itemNo": "2",
+      "docket_id": "23-W-0719",
+      "file_name": "23-W-0719 Petition cover letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Great Expectations Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D09FD48C-0000-CB23-8893-91861E425042}",
+      "organization": "Great Expectations LLC",
+      "itemNo": "2",
+      "docket_id": "23-W-0719",
+      "file_name": "Case 23-W-0719 - Great Expectations Customer Notification (002).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/12/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Great Expectations LLC to Increase Escrow Account.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10635E8C-0000-CE1E-9D5E-80D0668E7FF3}",
+      "organization": "Great Expectations LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0719",
+      "file_name": "Great Expectations Escrow Acct and File Stmt No 4 (2).pdf"
+    }
+  ]
+}

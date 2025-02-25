@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0363",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8E5A65D-5CBB-4744-BF4E-B424FD3C5F45}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0363",
+      "file_name": "661_22-V-0363.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9AEE5B6E-027D-4503-A043-0302AFEDF649}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0363",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Montgomery 6.24.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58DF2473-0CAB-4736-B651-98094D49DE2C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0363",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Montgomery 6.24.22 R-2 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Montgomery Request - for Renewal and Certificate of Confirmation REDACTED 06.24.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={082D43D7-E649-441B-AE21-8520BEC7E98D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0363",
+      "file_name": "Charter Communications, V. Montgomery Request - for Renewal and Certificate of Confirmation REDACTED 06.24.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Montgomery Cover Letter - Request for Renewal and Certificate of Confirmation 06.24.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3AF4372-9F91-4586-93F3-2AC28EDC0DAA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0363",
+      "file_name": "Charter Communications, V. Montgomery Cover Letter - Request for Renewal and Certificate of Confirmation 06.24.22.pdf"
+    }
+  ]
+}

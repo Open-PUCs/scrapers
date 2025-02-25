@@ -1,0 +1,93 @@
+{
+  "case": "18-V-0261",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3543EA3-03B4-4777-8575-63C4672309E9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0261",
+      "file_name": "661_18-V-0261.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6FE638E-94A8-44D5-9216-6E03018615EE}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0261",
+      "file_name": "Letter_Affidavit of Publication_Newspaper.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "White Plains Proof Of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47EAAC1C-2D67-4090-9B2A-74F41E9AE07C}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0261",
+      "file_name": "White Plains Proof Of Performance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/26/2018",
+      "nypuc_doctype": "Exhibits",
+      "name": "White Plains Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06567A37-4304-4E1C-9FAD-7079910BB6E0}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0261",
+      "file_name": "White Plains Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/26/2018",
+      "nypuc_doctype": "Exhibits",
+      "name": "White Plains Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A3A81E5-8C8A-48FB-B5EC-D78956B473AD}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0261",
+      "file_name": "White Plains Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/26/2018",
+      "nypuc_doctype": "Exhibits",
+      "name": "White Plains Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F176DC23-C221-4E76-90C1-8B0645A39655}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0261",
+      "file_name": "White Plains Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "White Plains Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82DBEC65-F09D-4920-A13E-BED3ADFBCF72}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0261",
+      "file_name": "White Plains Application Cover Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/26/2018",
+      "nypuc_doctype": "Exhibits",
+      "name": "White Plains Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D4034D7-E244-42D6-B787-DDE221928705}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0261",
+      "file_name": "White Plains Exhibit IV.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "18-E-0032",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7F64C3C-8F73-4970-9638-7EBA357634B7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0032",
+      "file_name": "372_18-E-0032.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Fortistar North Tonawanda Inc., for Order Approving Financing Pursuant to Sections 69 and 82 of the New York State Public Service Law and Declaratory Ruling Regarding Application of Sections 70 and 83 of the New York State Public Service Law, and, in the Alternative, Sections 70 and 83 Approval.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E9148E43-580C-49FF-9F98-B0E549130321}",
+      "organization": "Fortistar North Tonawanda Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0032",
+      "file_name": "FNT 69 and 70 Petition 1-17-18.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "18-E-0543",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/01/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={329E9BDF-3ADA-4A02-9048-21FFB7F3B13D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "18-E-0543",
+      "file_name": "Cases 18-E-0543 and 11-E-0321 National Grid Trade Secret Request Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/31/2021",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid Nets Costs or Savings for Project Production Associated with RNM Limited Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B38DBCB-7A17-4BD9-A044-CD4CDE7586ED}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "18-E-0543",
+      "file_name": "Cases 18-E-0543 and 11-E-0321 National Grid Nets Costs or Savings for Project Production Associated with RNM Limited Waiver.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid Compliance Filing Regarding Action Implemented",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA2D62D6-A2E6-4A61-BD91-2D6D66CA3C22}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "18-E-0543",
+      "file_name": "Cases 18-E-0543 and 11-E-0321 National Grid Compliance Filing Regarding Action Implemented.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petitions Regarding Remote Net Metering Projects",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3D3E210-4202-4042-B015-C199630F389B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0543",
+      "file_name": "381_18-E-0543 et al.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/07/2018",
+      "nypuc_doctype": "Comments",
+      "name": "National Grids Response to Petition of AES for a Declaratory Ruling regarding Remote Net Metering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7EA7D16-6100-4E44-95DF-8224F9313462}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "18-E-0543",
+      "file_name": "Case 18-E-0543 - National Grids Response to Petition of AES for a Declaratory Ruling regarding Remote Net Metering.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/17/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0181AE53-FEC8-410D-B843-96687CEA6CC0}",
+      "organization": "AES Distributed Energy",
+      "itemNo": "2",
+      "docket_id": "18-E-0543",
+      "file_name": "Case 18-E-____ - Letter to RAO Vigars Requesting Confidential Protection of Certain Confidential Information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/17/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AES Distributed Energy for a Declaratory Ruling Interpreting Public Service Law Section 66-j and Authorizing Remote Net Metering Transactions.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1A310F9-53D2-4CC5-884B-26AC3A5C360A}",
+      "organization": "AES Distributed Energy",
+      "itemNo": "1",
+      "docket_id": "18-E-0543",
+      "file_name": "Case 18-E-____ - REDACTED_Petition for Declaratory Ruling (AES) 4843-7764-9008 v.5.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/17/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B79AF88C-BCBC-42B6-A316-F30DA5DCF7A9}",
+      "organization": "AES Distributed Energy",
+      "itemNo": "1",
+      "docket_id": "18-E-0543",
+      "file_name": "Case 18-E____ - Cover Letter to Secretary Filing Petition for Declaratory Ruling.pdf"
+    }
+  ]
+}

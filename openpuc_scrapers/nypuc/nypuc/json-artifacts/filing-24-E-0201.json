@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0201",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={305A2A92-0000-C91D-B22D-75C7E0C3F44F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0201",
+      "file_name": "377_24-E-0201_92524final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of AB Stable LLC to Submeter Electricity at 305 Park Avenue, New York, Located in the Territory of Consolidated Edison Utility Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4094A08E-0000-CB3B-B48F-68C4F821E12C}",
+      "organization": "AB Stable LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0201",
+      "file_name": "Notice of Intent of AB Stable LLC to Submeter Electricity at 305 Park Avenue New York NY 10022 Located in the Territory of Consolidated Edison U.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4094A08E-0000-CE1E-A1CB-73B7CF05F91A}",
+      "organization": "AB Stable LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0201",
+      "file_name": "Cover Letter - AB Stable LLC Notice of Intent to Submeter at 305 Park Avenue.pdf"
+    }
+  ]
+}

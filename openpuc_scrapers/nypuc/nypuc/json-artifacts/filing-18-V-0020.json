@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0020",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={946C15F8-AC91-4047-A8EB-1AAA3AC71204}",
+      "organization": "Catskill Mountain Cablevision, Inc., Employee Stock Ownership Trust, Mid-Hudson Cablevision Holdings, Inc., Mid-Hudson Cablevision, Inc.",
+      "itemNo": "5",
+      "docket_id": "18-V-0020",
+      "file_name": "Request for Confidential Status Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Closing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DF77F4C-42F3-469E-9933-FD98365798AB}",
+      "organization": "Catskill Mountain Cablevision, Inc., Employee Stock Ownership Trust, Mid-Hudson Cablevision Holdings, Inc., Mid-Hudson Cablevision, Inc.",
+      "itemNo": "4",
+      "docket_id": "18-V-0020",
+      "file_name": "Notice of Closing Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D3A7B3E-7C7F-4E98-A9CA-BFFAF796047E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0020",
+      "file_name": "667_18-V-0020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/11/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D80730A8-D642-4960-B4FE-8B009A923028}",
+      "organization": "Catskill Mountain Cablevision, Inc., Employee Stock Ownership Trust, Mid-Hudson Cablevision Holdings, Inc., Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0020",
+      "file_name": "Recrds Access Officer letter - 2018-01-10 17.04.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Secretary to the Commission letter - 2018-01-10 17.05",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E44A56E7-0151-4241-BDEF-91D65C4BE930}",
+      "organization": "Catskill Mountain Cablevision, Inc., Employee Stock Ownership Trust, Mid-Hudson Cablevision Holdings, Inc., Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0020",
+      "file_name": "Secretary to the Commission letter - 2018-01-10 17.05.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "NYPSC Filing with Redacted Docs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0959885E-3FC9-47E6-9926-81B0C8F1811D}",
+      "organization": "Catskill Mountain Cablevision, Inc., Employee Stock Ownership Trust, Mid-Hudson Cablevision Holdings, Inc., Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0020",
+      "file_name": "NYPSC Filing with Redacted Docs.pdf"
+    }
+  ]
+}

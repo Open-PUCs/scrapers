@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0375",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Haskins Ack Letter 06292020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19DE73B1-968A-4949-967E-01EBEA3A0413}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0375",
+      "file_name": "20-E-0375 Haskins Ack Letter 06292020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Haskins Rehearing Request 07252020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D8C911D-5B80-41C3-B516-15598D6E4E81}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0375",
+      "file_name": "20-E-0375 Haskins Rehearing Request 07252020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Haskins SMD Final 06262020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61B96DB4-15AD-4AB6-BB49-1914FDF445CE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0375",
+      "file_name": "20-E-0375 Haskins SMD Final 06262020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC6E800B-D900-465C-AA7A-1C41D8A7C52D}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0375",
+      "file_name": "363 Letter final_Redacted.pdf"
+    }
+  ]
+}

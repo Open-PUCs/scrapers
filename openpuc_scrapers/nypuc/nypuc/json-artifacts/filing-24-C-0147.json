@@ -1,0 +1,60 @@
+{
+  "case": "24-C-0147",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Direct Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D3E090-0000-C116-88CC-E169D05AF61A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-C-0147",
+      "file_name": "562_24-C-0147_72324final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E12690-0000-CA1A-B79A-397969C7E5F0}",
+      "organization": "Lance J.M. Steinhart, P.C.",
+      "itemNo": "4",
+      "docket_id": "24-C-0147",
+      "file_name": "NY TOC Supplement Ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-C-0147 IRU Networks USAD Stop the Clock.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00428A8E-0000-C61E-8887-EF7C23A944A6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-C-0147",
+      "file_name": "24-C-0147 IRU Networks USAD Stop the Clock.Signed.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/28/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY TOC Supplement Letter Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0BF868E-0000-CD11-86E9-1A4958F51BB2}",
+      "organization": "IRU Networks, LLC, USA Digital Communications, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-C-0147",
+      "file_name": "NY TOC Supplement Letter Filing 3.28.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of IRU Networks, LLC and USA Digital Communications, Inc for Approval of a Transfer of Control.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C092B28D-0000-C012-9772-3383182BAF5F}",
+      "organization": "IRU Networks, LLC, USA Digital Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-C-0147",
+      "file_name": "NY Revised TOC Efiling 2.16.24.pdf"
+    }
+  ]
+}

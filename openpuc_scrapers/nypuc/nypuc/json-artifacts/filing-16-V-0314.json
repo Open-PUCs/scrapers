@@ -1,0 +1,93 @@
+{
+  "case": "16-V-0314",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E09226C-6B5C-4F8C-926C-BE7B3EC916A8}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "16-V-0314",
+      "file_name": "665_16v0314.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC15FF9F-1BBB-4FF1-A38A-B34E016B9750}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "16-V-0314",
+      "file_name": "16-V-0314 Signed EAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Corrected EVSC-Village of Penn Yan Cable Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A1DA883-7FD4-4911-ACF5-3B0D4FD726E0}",
+      "organization": "Village of Penn Yan",
+      "itemNo": "6",
+      "docket_id": "16-V-0314",
+      "file_name": "2nd Corrected Enclosure 1 EVSC - Village of Penn Yan Franchise Agreement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Corrected EVSC-Village of Penn Yan Cable Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F018CF20-8A8F-41F4-8DDF-1647C4D9EA55}",
+      "organization": "Village of Penn Yan",
+      "itemNo": "5",
+      "docket_id": "16-V-0314",
+      "file_name": "2nd Corrected Enclosure 1 EVSC - Village of Penn Yan Franchise Agreement.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected Village of Penn Yan - EVSC Long EAF Part1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A899F134-20EA-4224-BCDD-AD9E4C9B2044}",
+      "organization": "Village of Penn Yan",
+      "itemNo": "4",
+      "docket_id": "16-V-0314",
+      "file_name": "Corrected Village of Penn Yan - EVSC Long EAF Part1.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected Enclosure 1 EVSC - Village of Penn Yan Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AE496E2-24B8-45CB-9934-B8165039D78E}",
+      "organization": "Empire Video Services Corporation, Village of Penn Yan",
+      "itemNo": "3",
+      "docket_id": "16-V-0314",
+      "file_name": "Corrected Enclosure 1 EVSC - Village of Penn Yan Franchise Agreement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - Village of Penn Yan - EVSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BEB9BF1-ABFF-4731-89C0-710E99B3E8DD}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0314",
+      "file_name": "Supplemental filing for 16-V-0314 Village of Penn Yan.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Village of Penn Yan, Yates County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AA1A908-B9AF-4DA6-97CC-21B48739B2CE}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0314",
+      "file_name": "Village of Penn Yan Certificate of Confirmation Filing - EVSC.pdf"
+    }
+  ]
+}

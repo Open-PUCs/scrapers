@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0132",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C22C88BC-2532-4547-B09F-ED121D3AD6C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0132",
+      "file_name": "662_21-V-0132 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "2021.03.01 T. CHAUTAUQUA RENEWAL FILED-PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={617358B0-B341-4029-A3FC-579795670CBE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0132",
+      "file_name": "2021.03.01 T. CHAUTAUQUA RENEWAL FILED-PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "case": "22-V-0534",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CC8889-0000-C210-B21D-2C75AC7807D5}",
+      "organization": "Public Service Commission",
+      "itemNo": "14",
+      "docket_id": "22-V-0534",
+      "file_name": "662_22-V-0534_72423final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/21/2023",
+      "nypuc_doctype": "Letters",
+      "name": "22-01592 Letter to Building Owner Offering Facilitation 267 Edgecombe",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F4A387-0000-C515-9ED8-CEBE5043E9A8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "13",
+      "docket_id": "22-V-0534",
+      "file_name": "22-01592 Letter to Building Owner Offering Facilitation 267 Edgecombe.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00F59F87-0000-C410-B06A-B8064968AEBF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "12",
+      "docket_id": "22-V-0534",
+      "file_name": "230420_22-01592_267 EDGECOMBE AV_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50A5FF86-0000-CD7A-8232-BFB84BE7FED8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "11",
+      "docket_id": "22-V-0534",
+      "file_name": "230320_22-01592_267 EDGECOMBE AV_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA0C894C-65DE-44F7-8DEE-53F739638AE8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "10",
+      "docket_id": "22-V-0534",
+      "file_name": "230221_22-01592_267 EDGECOMBE AV_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D8D106F-31C5-4C11-A71C-A1E47A3489B3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "9",
+      "docket_id": "22-V-0534",
+      "file_name": "230120_22-01592_267 EDGECOMBE AV_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1D89FFB-010C-4800-8086-684DE12355A4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "8",
+      "docket_id": "22-V-0534",
+      "file_name": "221220_22-01592_267 EDGECOMBE AV_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/18/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9865CEF-4EE6-4941-9D17-428A4AE75551}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "22-V-0534",
+      "file_name": "221118_22-01592_267 EDGECOMBE AV_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-V-0534 Letter to Verizon requesting updates 267 Edgecombe Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF61997C-19DD-4F76-BD27-C34F3CEC63C9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "22-V-0534",
+      "file_name": "22-V-0534 Letter to Verizon requesting updates 267 Edgecombe Ave.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Reply to Verified Answer (CORRECTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2B6EF02-5E95-48A0-8181-436537573E71}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0534",
+      "file_name": "220913 Reply to Verified Answer re 267 Edgecombe Avenue.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Reply to Verified Answer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={734F6538-6E88-42D1-B240-6BE6CADFAC9F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0534",
+      "file_name": "220913 Reply to Verified Answer re 267 Edgecombe Avenue.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "08/31/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={661E2A00-5A72-4F0E-B582-7DFEE6003CDE}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "22-V-0534",
+      "file_name": "verizon letter.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01592 Letter to Building Owner_267 Edgecombe",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A46DD72-4936-48EB-A897-5466809E3362}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0534",
+      "file_name": "22-01592 Letter to Building Owner_267 Edgecombe.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 267 Edgecombe Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CADCC538-6594-4131-BD70-A2ED289552B0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0534",
+      "file_name": "220810-3 Petition (267 EDGECOMBE AV) (Post-Survey).pdf"
+    }
+  ]
+}

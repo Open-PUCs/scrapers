@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0616",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC38E661-6E44-450D-A9B6-BEAFE2FFD318}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0616",
+      "file_name": "18-T-0616-BethlehemEnergyCenter-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the Bethlehem Energy Center Uprate Line 9 Reactor Station.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A42DF667-5644-4B53-A328-9BED62964CC1}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0616",
+      "file_name": "National Grid--Bethlehem Energy Center Part 102 Report (With Figures and.._.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={777DC6C8-D705-4861-A67F-546BDAB3AEAD}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0616",
+      "file_name": "National Grid--Bethlehem Energy Center Part 102 Report-- Zafonte Cover L.._.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "18-C-0205",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/07/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56A12112-D396-4671-9385-478213FD470F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-C-0205",
+      "file_name": "Approval Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/30/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85DDBC4C-8B9C-4259-BB74-0976B937282F}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "18-C-0205",
+      "file_name": "March 30 2018 Letter to Jessica Vigars Records Access Officer.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Long Distance Corporation d/b/a Empire Access to Issue Long Term Debt Pursuant to Public Service Law Section 101 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BDE11D4-AD79-4281-AC82-B7B5621118EA}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "18-C-0205",
+      "file_name": "101 Petition (Redacted).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2835906F-02B2-41F8-B32A-B2B439A99274}",
+      "organization": "Empire Long Distance Corporation d/b/a Empire Access",
+      "itemNo": "1",
+      "docket_id": "18-C-0205",
+      "file_name": "March 30 2018 Letter to Hon. Kathleen Burgess.pdf"
+    }
+  ]
+}

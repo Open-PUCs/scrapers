@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0401",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B0780AA-29B3-46FF-A41A-D6E252EAA3FB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0401",
+      "file_name": "663_15V0401.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Lewiston, Niagara County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={750B3CF7-59E7-449A-B2A7-C72F05190616}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0401",
+      "file_name": "LEWISTON, TOWN - RENEWAL DOCUMENTS.pdf"
+    }
+  ]
+}

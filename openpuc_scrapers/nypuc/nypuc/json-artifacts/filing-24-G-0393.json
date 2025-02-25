@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0393",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240912 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0901F92-0000-CD10-A7F7-9498507D9A25}",
+      "organization": "American Homes of Syracuse",
+      "itemNo": "3",
+      "docket_id": "24-G-0393",
+      "file_name": "20240912 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20348091-0000-C617-9A53-77CE7F3DB6C9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0393",
+      "file_name": "161-A_24-G-0393.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240326 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A39A8E-0000-C34D-8586-F3A8F5968C90}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0393",
+      "file_name": "20240326 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240222 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A39A8E-0000-C722-9135-ED112F1CEE1F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0393",
+      "file_name": "20240222 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240215 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0A39A8E-0000-C718-9FFD-8BE182B8D313}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0393",
+      "file_name": "20240215 - Origin of Investigation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240215 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A39A8E-0000-C66C-91A3-FA71E03B3061}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0393",
+      "file_name": "20240215 - Citation.pdf"
+    }
+  ]
+}

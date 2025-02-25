@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0129",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27C4DEAA-96F1-4728-B01C-B9285EE830F7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0129",
+      "file_name": "662_21-V-0129 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Samford, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CDF34A73-B440-4C88-964E-35F2C420C73A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0129",
+      "file_name": "T. Stamford_ To be Filed with PSC.pdf"
+    }
+  ]
+}

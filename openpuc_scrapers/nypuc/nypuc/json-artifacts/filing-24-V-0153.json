@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0153",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80799C8F-0000-C877-8536-E57D5F4E4A88}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0153",
+      "file_name": "663_24-V-0153_52124 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/08/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CB1E8E-0000-CF56-B6E1-567782ABAC68}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0153",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/08/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Cheektowaga Letter 3.8.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CB1E8E-0000-CB17-A7CA-F3E5503BC862}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0153",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Cheektowaga Letter 3.8.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Cheektowaga- Request for Renewal and Certificate of Confirmation(redacted) 03.8.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CB1E8E-0000-C799-8418-EAE5DD94BF74}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0153",
+      "file_name": "Charter Communications, T. Cheektowaga- Request for Renewal and Certificate of Confirmation(redacted) 03.8.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Cheektowaga Cover Letter- Request for Renewal and Certificate of Confirmation 03.8.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CB1E8E-0000-CA7C-B223-9FB2B1733146}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0153",
+      "file_name": "Charter Communications, T. Cheektowaga Cover Letter- Request for Renewal and Certificate of Confirmation 03.8.24.pdf"
+    }
+  ]
+}

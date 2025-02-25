@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0187",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C915055-F7D1-4F74-A7F4-9902537B13A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0187",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Sharon, County of Schoharie, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B3F8DC3-F67F-4551-9055-061F688E3A05}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0187",
+      "file_name": "T SHARON RENEWAL TO PSC 3.14.2019.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "23-W-0071",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition without Prejudice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={005B1C8C-0000-CB19-84D5-95A10E00D4D1}",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-W-0071",
+      "file_name": "Cases 23-W-0071 - Request to Withdraw Petition without Prejudice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Veolia Water New York Petition for Approval of MACH 10 Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78B5C044-E209-4802-A84B-CF179D11BE8B}",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0071",
+      "file_name": "Veolia Water New York Letter Petition for Approval of MACH 10 Meter(20419217.2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendices to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46CAC787-6585-46C6-8DBB-F94B6C65CEC3}",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0071",
+      "file_name": "Appendices to VWNY Letter Petition for MACH 10 Meter Approval.pdf"
+    }
+  ]
+}

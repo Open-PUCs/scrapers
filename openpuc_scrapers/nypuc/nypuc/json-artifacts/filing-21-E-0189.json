@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0189",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "compliance letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A445786-5656-4991-A45F-71772A7BE658}",
+      "organization": "52-03 Center LLC",
+      "itemNo": "6",
+      "docket_id": "21-E-0189",
+      "file_name": "compliance letter1.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B93A23F4-A835-46F6-9D46-28E95A1D69D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0189",
+      "file_name": "369_21-E-0189 Order Fin final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 52-03 Center Blvd., Long Island City, New York 11101.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC58FE9A-8901-4472-BF72-842BFF73F7D8}",
+      "organization": "52-03 Center LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0189",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B637CA9-7498-40FD-B6FF-54155D53E34E}",
+      "organization": "52-03 Center LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0189",
+      "file_name": "additional information .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/21/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AFFBE1A-ECB5-4D47-B674-22F3038E22E2}",
+      "organization": "52-03 Center LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0189",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/31/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 52-03 Center LLC to Submeter Electricity at 52-03 Center Boulevard, Long Island City, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={495DD9EE-9780-4A51-B3FB-477C248FD335}",
+      "organization": "52-03 Center LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0189",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

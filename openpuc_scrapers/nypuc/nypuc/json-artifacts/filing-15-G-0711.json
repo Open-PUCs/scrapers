@@ -1,0 +1,49 @@
+{
+  "case": "15-G-0711",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Deferral",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E266BE01-F1DA-420D-B171-1F578A393D9F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-G-0711",
+      "file_name": "166_15-G-0711.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/04/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedules to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D59A2D1-A653-490C-AF9A-AF6A78320296}",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-G-0711",
+      "file_name": "Schedules Case 11-G-0565 Horseheads .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/04/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of St. Lawrence Gas Company, Inc. for Authority to Defer Incremental Expense Related To Risk Assessment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21C95E58-2EF4-4A98-AAA3-5F0A5EF24EA8}",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-G-0711",
+      "file_name": "Deferral Petition on Risk Assessment 11-G-0565 Horseheads.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/04/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0210CC2F-F413-4843-9E80-00B9BAAE45F4}",
+      "organization": "St. Lawrence Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-G-0711",
+      "file_name": "Cover Letter Case 11-G-0565 Horseheads.pdf"
+    }
+  ]
+}

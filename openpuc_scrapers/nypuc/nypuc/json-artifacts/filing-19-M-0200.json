@@ -1,0 +1,49 @@
+{
+  "case": "19-M-0200",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Request for Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2925EC43-CA46-431F-AFDC-A5D67308571D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-M-0200",
+      "file_name": "265_19-M-0200.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/30/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E3062B1-F9AC-45FE-93A7-E77A30913284}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "19-M-0200",
+      "file_name": "Case 19-M-0200 - National Grid Reply.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Morningview, LLC for a Limited and Conditional Waiver of Niagara Mohawk Power Corporation's Tariff.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B43262BF-A25D-426B-BA64-B18D00071AC2}",
+      "organization": "Morningview, LLC",
+      "itemNo": "1",
+      "docket_id": "19-M-0200",
+      "file_name": "NationalGridRequest.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8107882E-E8C9-46A7-B05E-802921288E15}",
+      "organization": "Morningview, LLC",
+      "itemNo": "1",
+      "docket_id": "19-M-0200",
+      "file_name": "SKM_C28719032211530.pdf"
+    }
+  ]
+}

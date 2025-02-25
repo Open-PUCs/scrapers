@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0551",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/11/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to John Amandolare and Wilfred J. Bay Granting Request and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1048FA8C-0000-CE12-AD36-3469933D5C8C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0551",
+      "file_name": "23-E-0551-Secretary Approval Letter .1.11.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2023",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0D4268C-0000-C515-BBFF-B74AB8344305}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0551",
+      "file_name": "23-E-0551-National Grid-DPS Staff Extension Ruling - 12.1.23 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/01/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={702D268C-0000-C019-8648-E26DCF5A7A8A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0551",
+      "file_name": "Case 23-E-0551 Deadline Extension Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "NMPC Request for Exception re Wuersching Subdivision Overhead Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B5F18A-0000-C372-BD4E-7162F3877664}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-E-0551",
+      "file_name": "NMPC Request for Exception re Wuersching Subdivision Overhead Service.pdf"
+    }
+  ]
+}

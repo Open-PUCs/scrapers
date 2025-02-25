@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0545",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Comments",
+      "name": "NRG letter in support JU Petition on EDL Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5093C291-0000-C413-86AF-6C1F1B964DCA}",
+      "organization": "Direct Energy Business Marketing, LLC, Direct Energy Business, LLC, Direct Energy Services LLC, Energy Plus Holdings LLC, Energy Plus Natural Gas LLC, Gateway Energy Services Corporation, Green Mountain Energy Company, INDEPENDENCE ENERGY GROUP, LLC, NRG Energy, Inc., Reliant Energy Northeast LLC, Stream Energy New York, LLC, XOOM Energy New York, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0545",
+      "file_name": "nrg letter in support JU Petition on EDL Waiver 090524.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of the Joint Utilities for Permanent Waiver of Order Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B4A491-0000-C73F-91AB-85605805D117}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., KeySpan Gas East Corporation d/b/a National Grid, New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "24-E-0545",
+      "file_name": "2024-8-30 JU Env Disc Labels Petition FINAL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B4A491-0000-CD19-B728-FEE8E82C1805}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., KeySpan Gas East Corporation d/b/a National Grid, New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "24-E-0545",
+      "file_name": "2024-8-30 JU EDP Petition Filing Letter.pdf"
+    }
+  ]
+}

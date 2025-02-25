@@ -1,0 +1,82 @@
+{
+  "case": "21-G-0156",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "018994 - Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6EFD06B-1877-4650-8F46-7B7AFB448D53}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "21-G-0156",
+      "file_name": "21-G-0156 018994-Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7BC4AD9-14B5-403D-9B45-7CE0AD572AC4}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-G-0156",
+      "file_name": "162_21-G-0156 Determination final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC96FE59-EB0B-49D6-96F0-6D1CDFD52053}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0156",
+      "file_name": "162 21-G-0156 Letter final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E9B4B7E-69EA-40CD-8480-5DB3489690A3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-G-0156",
+      "file_name": "Case 21-G-0156 Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/11/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B26AB03D-0C95-4749-AFFC-F897FCCC079A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0156",
+      "file_name": "018994 Boricua Village Ack letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/11/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF898C42-D887-4D5C-88C2-2A9ACDCDA9E6}",
+      "organization": "Boricua Village B LLC/Wavecrest Management B#116",
+      "itemNo": "2",
+      "docket_id": "21-G-0156",
+      "file_name": "018994 - Boricua Village v Con Edision - Appeal of Informal Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/11/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE45932A-B714-4F79-886A-8DBFBE73EE49}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0156",
+      "file_name": "018994-_Boricua_Village_B_LLC-_Wavecrest_Management_116_vs._Con_Edison.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0133",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/18/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97FA590C-58FA-4770-AFCF-C73D5C87625E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0133",
+      "file_name": "661_21-V-0133 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0FD9CAF9-EC7A-4889-9F95-353437F07D2D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "21-V-0133",
+      "file_name": "Glen Cove Supplemental Attachment E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of an Amendment to a Cable Television Franchise Agreement with the City of Glen Cove, Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE79EF26-B30C-48FC-AB6E-4A28386FF09D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0133",
+      "file_name": "Glen Cove Amendment (Complete Petition).pdf"
+    }
+  ]
+}

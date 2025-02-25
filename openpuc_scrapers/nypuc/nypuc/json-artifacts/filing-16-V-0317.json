@@ -1,0 +1,71 @@
+{
+  "case": "16-V-0317",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F79B1C3F-3D70-4E42-8792-7C472693FB25}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-V-0317",
+      "file_name": "661_16-V-0317.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F0B8785-A566-4EA0-A3FF-42A4A3B9FA92}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "16-V-0317",
+      "file_name": "16-V-0317 Signed EAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Correction EAP Part 1 - Village of Dansville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B893B4D8-0B60-4BAB-9BDA-BA2AEF2BEE2B}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "4",
+      "docket_id": "16-V-0317",
+      "file_name": "2nd Correction-NPV Long EAP Part 1 - Village of Dansville.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected EAF Part 1 NPV - Village of Dansville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20821774-E5B2-456D-A68F-19851A066BB3}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "3",
+      "docket_id": "16-V-0317",
+      "file_name": "Corrected Village of Dansville - NPV Long EAF Part1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of the Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94953523-9780-4509-A974-53CC776FAA59}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "2",
+      "docket_id": "16-V-0317",
+      "file_name": "Supplemental Filing 16-V-0317 Affidavit of Proof of Notice of the Filing of Certificate of Confirmation Village of Dansvill.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Community Cable Corporation d/b/a North Penn Video for a Certificate of Confirmation for its Franchise with the Village of Dansville, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6411102F-2012-427D-9E7D-478356C3F23E}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "1",
+      "docket_id": "16-V-0317",
+      "file_name": "Village of Dansville Certificate of Confirmation Filing - NPV.pdf"
+    }
+  ]
+}

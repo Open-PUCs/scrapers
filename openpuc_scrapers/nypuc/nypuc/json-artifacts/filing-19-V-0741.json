@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0741",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB632AA7-B566-43B6-8BC1-18FDB1FE7ABF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0741",
+      "file_name": "662_19-V-0741 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Rush, County of Monroe.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71EEFB9B-4DB0-490A-B749-38E58472319F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0741",
+      "file_name": "12.05.19 - T. RUSH RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

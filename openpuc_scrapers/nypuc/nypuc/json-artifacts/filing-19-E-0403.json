@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0403",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Withdrawal and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54FB8187-E21C-4A49-A971-F336608AE751}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0403",
+      "file_name": "19-E-0403 Case Closure Letter 5.18.2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D6A6D69-4D5C-46BF-AAE2-E69DE66B56C1}",
+      "organization": "Horizon at Webster Condominium",
+      "itemNo": "4",
+      "docket_id": "19-E-0403",
+      "file_name": "response letter 8-21-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/02/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8FC507E-20D5-4D84-86A1-65B82E5919AB}",
+      "organization": "Horizon at Webster Condominium",
+      "itemNo": "3",
+      "docket_id": "19-E-0403",
+      "file_name": "withdrawal letter 8-2-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/26/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF8E4186-272F-45B0-888F-FA22160A2F97}",
+      "organization": "Horizon at Webster Condominium",
+      "itemNo": "2",
+      "docket_id": "19-E-0403",
+      "file_name": "response letter 6-25-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2ADF274C-59EE-45C9-A31B-17FDA0D12EBD}",
+      "organization": "Horizon at Webster Condominium",
+      "itemNo": "1",
+      "docket_id": "19-E-0403",
+      "file_name": "submetering application 3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7CD9E44-423C-4A69-AA81-E4D972ACB71C}",
+      "organization": "Horizon at Webster Condominium",
+      "itemNo": "1",
+      "docket_id": "19-E-0403",
+      "file_name": "submetering application 2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Horizon at Webster Condominium to Submeter Electricity at 264 Webster Avenue, Brooklyn, NY Located in the Territory of Consolidated Edison Company.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B53FF55-CBB7-4201-B485-3EB9120C9554}",
+      "organization": "Horizon at Webster Condominium",
+      "itemNo": "1",
+      "docket_id": "19-E-0403",
+      "file_name": "submetering application 1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "15-G-0565",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AECC762A-598C-46F1-9C98-C2A26B64DABA}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-G-0565",
+      "file_name": "163_Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8C5B845-92A9-47B7-9AE2-28E3BD703700}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-G-0565",
+      "file_name": "163_ Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Revised Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88E5B642-AA66-45CA-8277-7C2D5280907E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "15-G-0565",
+      "file_name": "Courtlandt Corners APL Ack Ltr 346972 CORRECTED.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/22/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF3703AB-715D-43A1-8F89-57A47235EB1A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-G-0565",
+      "file_name": "Courtlandt Corners.APL Ack Ltr.346972.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/22/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3F25B6F-D0FF-4E18-A87D-3E9205CDC992}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "2",
+      "docket_id": "15-G-0565",
+      "file_name": "346972 Courtlandt Corners Appeal.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/22/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C59A2B5-78C7-4C1B-B6AA-EC145F78AFD0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-G-0565",
+      "file_name": "Courtlandt Corners.Informal Review Decision.pdf"
+    }
+  ]
+}

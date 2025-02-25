@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0156",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA776EC9-4AA6-40A0-8FC0-CAC566CE5B24}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0156",
+      "file_name": "661_17-V-0156.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast, LLC for Approval of the Renewal of its Franchise with Town of Chemung, County of Chemung, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75065263-801C-4302-9077-7C6F9AFA4459}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0156",
+      "file_name": "CHEMUNG, TOWN - RENEWAL DOCS TO PSC, 03.14.17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0396",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/05/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Erratum Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D37677DC-EC29-4BB9-95BE-A3ABDD59A3E2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0396",
+      "file_name": "19-V-0396_Erratum Notice Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99F78006-78DD-4165-B1F7-4E2FECD382C3}",
+      "organization": "     Erratum Notice - 11/05/2019",
+      "itemNo": "Public Service Commission",
+      "docket_id": "19-V-0396",
+      "file_name": "3"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={548C3B1D-840D-4E23-9130-782A3F4E8E0F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0396",
+      "file_name": "17-02871 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 149 Clinton Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59E042DE-5BB2-4D02-9C14-33F9C5F4CAF7}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0396",
+      "file_name": "Petition (149 Clinton Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F6A5494-3AA7-4E3E-84D2-6FB5A9B0EC02}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0396",
+      "file_name": "Exhibit 2 (149 Clinton Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE4B1D87-4368-4951-BD5C-3C19946D3590}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0396",
+      "file_name": "Exhibit 1 (149 Clinton Av).pdf"
+    }
+  ]
+}

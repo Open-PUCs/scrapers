@@ -1,0 +1,115 @@
+{
+  "case": "21-E-0039",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AA68EC1-7726-4AD8-9FEB-6ABFC2D9B481}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "7",
+      "docket_id": "21-E-0039",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E93CD381-AEBF-4964-A60B-4FA24447267A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0039",
+      "file_name": "361_21-E-0039 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 111 Varick Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E21453B-A726-49F2-AA32-9F27CFE26A4F}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0039",
+      "file_name": "response letter 9-28-21.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/27/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4E01541-B29B-4C43-A6F7-53C74171D902}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0039",
+      "file_name": "energy waiver letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E71BE06-A1D8-4C78-AA0B-F8F810ED132D}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0039",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88461A2F-DDD2-4147-9459-8A4641FC4E2F}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0039",
+      "file_name": "Submetering Lease Rider.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0649FE83-11F2-4605-A566-A1D5E61A4B49}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0039",
+      "file_name": "Submetering Identification Form.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC78FEB8-4FC8-4B39-95B0-4CE55DBDDA8D}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0039",
+      "file_name": "Submetering Application Part 1.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C46DF137-162E-4E3F-9300-08103935CE7B}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0039",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Coned signature Pages",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E5A59F1-09CF-4909-B081-DC0D86499F77}",
+      "organization": "111 Varick, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0039",
+      "file_name": "Coned signature Pages.pdf"
+    }
+  ]
+}

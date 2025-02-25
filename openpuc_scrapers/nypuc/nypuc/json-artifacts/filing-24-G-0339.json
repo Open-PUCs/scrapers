@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0339",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20241118 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0394F93-0000-CB15-AB9C-F14865BA1A6F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "24-G-0339",
+      "file_name": "20241118 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240827 - Petition for Rehearing - Telephone Call",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F00B9A91-0000-C443-8C12-2D4DDB647712}",
+      "organization": "Hercules Brothers Construction Corp.",
+      "itemNo": "6",
+      "docket_id": "24-G-0339",
+      "file_name": "20240827 - Petition for Rehearing - Telephone Call.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "20240823 - Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F00B9A91-0000-C618-92EE-008B13136D43}",
+      "organization": "Hercules Brothers Construction Corp.",
+      "itemNo": "6",
+      "docket_id": "24-G-0339",
+      "file_name": "20240823 - Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C31391-0000-CA1C-9D5C-1FC28ABDD037}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-G-0339",
+      "file_name": "161-B_24-G-03398224final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00DD5C8E-0000-CA17-88BC-5C95E2159217}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0339",
+      "file_name": "20240313 - Consent Offer Letter.pdf"
+    }
+  ]
+}

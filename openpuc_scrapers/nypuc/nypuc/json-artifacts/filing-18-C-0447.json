@@ -1,0 +1,60 @@
+{
+  "case": "18-C-0447",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY - Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88CC655B-CB23-4559-99EA-30DBD43DD616}",
+      "organization": "Birch Communications of the Northeast, Inc. d/b/a Birch",
+      "itemNo": "4",
+      "docket_id": "18-C-0447",
+      "file_name": "NY - Notice of Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/09/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-C-0447.Transfer Indirect Control.Lingo Communications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3FE39D7-D49C-4ACB-82CD-E72954B86FD4}",
+      "organization": "Birch Communications of the Northeast, Inc. d/b/a Birch, Lingo Communications, LLC, Matrix Telecom, TNCI Impact LLC",
+      "itemNo": "3",
+      "docket_id": "18-C-0447",
+      "file_name": "18-C-0447.Transfer Indirect Control.Lingo Communications.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF470758-69FB-40F6-B266-0920F99DCD0C}",
+      "organization": "Birch Communications of the Northeast, LLC d/b/a Birch, Lingo Communications, LLC, Matrix Telecom, TNCI Impact LLC",
+      "itemNo": "2",
+      "docket_id": "18-C-0447",
+      "file_name": "NY RAO Letter re Confidentiality Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "NY Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E7E7187-1342-49AC-85CE-241B687C6ADA}",
+      "organization": "Birch Communications of the Northeast, LLC d/b/a Birch, Lingo Communications, LLC, Matrix Telecom, TNCI Impact LLC",
+      "itemNo": "1",
+      "docket_id": "18-C-0447",
+      "file_name": "NY Transmittal Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/19/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Lingo Communications, LLC, TNCI Impact LLC, Matrix Telecom, LLC, and Birch Communications of the Northeast, LLC for Approval (1) of the Proposed Transfer of Indirect Control of Matrix Telecom, LLC to Lingo Communications, LLC and (2) for Matrix Telecom, LLC and Birch Communications of the Northeast, LLC to Participate in Certain Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76326086-916F-4E39-BEDF-E7724389456F}",
+      "organization": "Birch Communications of the Northeast, LLC d/b/a Birch, Lingo Communications, LLC, Matrix Telecom, TNCI Impact LLC",
+      "itemNo": "1",
+      "docket_id": "18-C-0447",
+      "file_name": "NY REDACTED Petition.pdf"
+    }
+  ]
+}

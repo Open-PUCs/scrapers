@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0529",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6997102-EE65-4AD3-BDBA-6B54971873FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0529",
+      "file_name": "664_19-V-0529.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Palatine, Montgomery County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04261AB2-9666-46EA-9515-B37A89E3AECC}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0529",
+      "file_name": "TPalatine PSC franchise renewal 82019.pdf"
+    }
+  ]
+}

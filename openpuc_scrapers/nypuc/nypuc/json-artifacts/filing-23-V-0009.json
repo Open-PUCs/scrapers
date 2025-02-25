@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0009",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF89FB2E-619F-4FF0-A92F-2257DEBCE91E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0009",
+      "file_name": "661_23-V-0009 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02061 Letter to Building Owner_335 Edgecombe Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA5C4C47-0549-4A27-BFB0-1056D460261C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0009",
+      "file_name": "22-02061 Letter to Building Owner_335 Edgecombe Ave.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 335 Edgecombe Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1FBD227-6C1C-4022-85C8-16A0CA52DD6C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0009",
+      "file_name": "221019-16 Petition (335 EDGECOMBE AV) (Post-Survey).pdf"
+    }
+  ]
+}

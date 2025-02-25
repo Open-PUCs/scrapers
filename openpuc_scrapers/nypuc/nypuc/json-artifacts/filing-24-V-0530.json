@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0530",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90585493-0000-C210-8681-B3EB6EAC7205}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0530",
+      "file_name": "661_24-V-0530.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209DE791-0000-CC58-990C-B0C090E9D281}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0530",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Delaware 9.12.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209DE791-0000-CE10-B679-5421F090FB2C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0530",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Delaware 9.12.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications-T. Delaware_Request for Renewal and Certificate of Confirmation(redacted) 9.12.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209DE791-0000-C094-9C0D-6BC5B997C788}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0530",
+      "file_name": "Charter Communications-T. Delaware_Request for Renewal and Certificate of Confirmation(redacted) 9.12.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications-T. Delaware Cover Letter, Request for Renewal and Certificate of Confirmation 9.12.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209DE791-0000-CE7D-8A56-654488006EF0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0530",
+      "file_name": "Charter Communications-T. Delaware Cover Letter, Request for Renewal and Certificate of Confirmation 9.12.24.pdf"
+    }
+  ]
+}

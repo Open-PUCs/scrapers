@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0195",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9411DD9-7CA2-4177-AF0B-05D92EADB063}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0195",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Middleburgh, Schoharie County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61976E2E-B650-4F8E-96D1-C3B7A8954A71}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0195",
+      "file_name": "T MIDDLEBURGH FRANCHISE RENEWAL TO PSC, 031919.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0016",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240229 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10F9138E-0000-CB13-862B-B898C3C05C2E}",
+      "organization": "Fairfield Properties Group LLC",
+      "itemNo": "3",
+      "docket_id": "24-G-0016",
+      "file_name": "20240229 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30EBD68D-0000-CB1A-83F0-7B0D5A03AFDA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0016",
+      "file_name": "162-A_24-G-0016.pdf"
+    }
+  ]
+}

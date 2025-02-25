@@ -1,0 +1,93 @@
+{
+  "case": "15-G-0601",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={387C70A7-6C00-49A5-BA3F-6CEFBF3B0382}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "15-G-0601",
+      "file_name": "162_15g0601 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAFC2B31-1591-45F8-8F89-918702DF270F}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "15-G-0601",
+      "file_name": "15G0601 Postponement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "15-G-0601",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/21/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Gas Tariff Revision Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B47A63D6-87FF-4F27-ABFC-FFC47419B52A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-G-0601",
+      "file_name": "Gas Tariff Revision Comments.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/09/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit Letter Rider H",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E06A37A-1497-4C02-AA6F-E122EEA1FC59}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-G-0601",
+      "file_name": "Affidavit LetterRiderH.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/01/2015",
+      "nypuc_doctype": "Comments",
+      "name": "CPA comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7023D59-79EF-4C99-B358-95F1797177F6}",
+      "organization": "Consumer Power Advocates",
+      "itemNo": "3",
+      "docket_id": "15-G-0601",
+      "file_name": "CPA comments.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/01/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of NYU Hospitals Center d/b/a NYU Langone Medical Center",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E82B463C-7817-4173-BECC-03434E96518C}",
+      "organization": "NYU Hospitals Center d/b/a NYU Langone Medical Center",
+      "itemNo": "2",
+      "docket_id": "15-G-0601",
+      "file_name": "Burgess Letter in Support 12-1-15.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/16/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-G-0601",
+      "file_name": ""
+    }
+  ]
+}

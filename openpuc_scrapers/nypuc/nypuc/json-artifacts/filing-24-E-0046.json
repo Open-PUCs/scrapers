@@ -1,0 +1,82 @@
+{
+  "case": "24-E-0046",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Response Update",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0501C93-0000-CF19-B6AE-FC2B3D529687}",
+      "organization": "The Twelve Seventy Fifth Ave. Cooperative, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-E-0046",
+      "file_name": "Response Update (11.11.24).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Update (8.2.24)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={102B1491-0000-C917-B6FF-71B0937EA547}",
+      "organization": "The Twelve Seventy Fifth Ave. Cooperative, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-E-0046",
+      "file_name": "Update (8.2.24).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Response to Information Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D22B90-0000-C219-AB11-2FD1FD532117}",
+      "organization": "The Twelve Seventy Fifth Ave. Cooperative, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-E-0046",
+      "file_name": "Response to Information Request (6.18.24).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Comment Summary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E0C58F-0000-CE17-8273-AB4D0F3CD869}",
+      "organization": "The Twelve Seventy Fifth Ave. Cooperative, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-E-0046",
+      "file_name": "Comment Summary (5.29.24).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Summary of Comments & Responses",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3028C48E-0000-C71A-A96A-06620277DBBA}",
+      "organization": "The Twelve Seventy Fifth Ave. Cooperative, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-E-0046",
+      "file_name": "Summary of Comments & Responses (4.9.24).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/26/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Update Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A027E78D-0000-C918-BDCE-5E1250597C76}",
+      "organization": "The Twelve Seventy Fifth Ave. Cooperative, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0046",
+      "file_name": "Update (2.26.2024).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/19/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of The Twelve Seventy Fifth Ave. Cooperative, Inc. to Submeter Electricity at 1270 Fifth Avenue, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D02C238D-0000-C61D-886C-71CBE7172126}",
+      "organization": "The Twelve Seventy Fifth Ave. Cooperative, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0046",
+      "file_name": "NOI_1270 5th (1.19.24).pdf"
+    }
+  ]
+}

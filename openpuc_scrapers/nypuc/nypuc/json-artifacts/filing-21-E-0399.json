@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0399",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={219E05F8-779D-4630-B427-228CA10FB4E7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0399",
+      "file_name": "376_21-E-0399 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Short EAF Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E40CE0A-C442-48C9-85C9-934239B0666E}",
+      "organization": "Ball Hill Wind Energy, LLC, Bluestone Wind, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0399",
+      "file_name": "Short EAF Part 1.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/02/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1DFF555-C9FB-4602-84EB-C87FAEC872D6}",
+      "organization": "Ball Hill Wind Energy, LLC, Bluestone Wind, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0399",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Section 69 Pet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6623EDE1-3CDF-4B38-BF7F-16FBB9CD98B8}",
+      "organization": "Ball Hill Wind Energy, LLC, Bluestone Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0399",
+      "file_name": "Section 69 Pet.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SEAF Short Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3D2AF33-5A30-4CD4-AEDD-7EDEBEF7598F}",
+      "organization": "Ball Hill Wind Energy, LLC, Bluestone Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0399",
+      "file_name": "SEAF Short Form.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34C84A8E-BADD-4DCA-8466-608A604CC4EE}",
+      "organization": "Ball Hill Wind Energy, LLC, Bluestone Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0399",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0596",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information (7)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20472C93-0000-C53B-94E0-5318EEC96D1B}",
+      "organization": "Bedford Beverly B LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0596",
+      "file_name": "additional information (7).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application (30)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0E0E292-0000-C328-8E83-3682172E40C2}",
+      "organization": "Bedford Beverly B LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0596",
+      "file_name": "submetering application (30).pdf"
+    }
+  ]
+}

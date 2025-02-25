@@ -1,0 +1,71 @@
+{
+  "case": "16-V-0021",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19B28B15-4A2E-4214-A880-6326C4A155AB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0021",
+      "file_name": "662_16v0021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEA2A9DF-9462-48F4-B2F5-6D6B84C6B2C3}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-V-0021",
+      "file_name": "Hyde Park Public Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Hyde Park Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F3714B6-48C8-4C6C-BA28-C77B5856F87B}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0021",
+      "file_name": "Hyde Park Application Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={161F9163-22E8-4A8C-BE46-9E299D36D604}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0021",
+      "file_name": "Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={895AE009-002D-436D-A7E8-6BD0F31BB2CE}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0021",
+      "file_name": "Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F4C95AF-B463-4B93-87DF-4B601903B8A9}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0021",
+      "file_name": "Exhibit I.pdf"
+    }
+  ]
+}

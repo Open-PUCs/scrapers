@@ -1,0 +1,27 @@
+{
+  "case": "24-C-0043",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as an Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30900B8F-0000-CE38-8156-E4EEAC18770B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-C-0043",
+      "file_name": "562_24-C-0043 42324 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of TruConnect Communications, Inc. for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70A2188D-0000-CA1A-B5FD-17FDA2EC78D8}",
+      "organization": "TruConnect Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-C-0043",
+      "file_name": "TruConnect NY ETC Petition - As Filed 01.17.2024.pdf"
+    }
+  ]
+}

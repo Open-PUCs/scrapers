@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0120",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC29E788-C105-43C7-92BF-AAE9442827AF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0120",
+      "file_name": "370_16-E-0120.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request to Waive 96.5(k)(3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDA46F9C-C244-4543-9ED5-866A820CAA06}",
+      "organization": "BAM GO Developers, LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0120",
+      "file_name": "Waiver of Energy Audit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Revision to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5485B562-DA06-4F2C-A079-141F873196BB}",
+      "organization": "BAM GO Developers, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0120",
+      "file_name": "2016-04-19 New York State Public Service Commission Notice of Intent.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BAM GO Developers LLC to Submeter Electricity at 250 Ashland Place, Brooklyn, NY, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={565598A7-0EF1-4E9B-8AE2-57BC3C090033}",
+      "organization": "BAM GO Developers, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0120",
+      "file_name": "01-New York State Public Service Commission Petition.pdf"
+    }
+  ]
+}

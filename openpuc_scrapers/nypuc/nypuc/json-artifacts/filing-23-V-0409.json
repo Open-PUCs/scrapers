@@ -1,0 +1,27 @@
+{
+  "case": "23-V-0409",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10A2B38A-0000-C615-A74A-70B64A81A854}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0409",
+      "file_name": "662_23-V-0409 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Hancock Franchise Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0A29789-0000-CD17-996B-ECE4B2A71E7A}",
+      "organization": "Han Cel, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0409",
+      "file_name": "Town of Hancock Franchise Application (1).pdf"
+    }
+  ]
+}

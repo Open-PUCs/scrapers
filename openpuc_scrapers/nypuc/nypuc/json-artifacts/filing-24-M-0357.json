@@ -1,0 +1,82 @@
+{
+  "case": "24-M-0357",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20999B92-0000-C811-8398-F2D7C51F140B}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-M-0357",
+      "file_name": "264_24-M-0357_101724final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit and Copies of the Published Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B03ED791-0000-C219-BDDB-BABF76E1FC82}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-M-0357",
+      "file_name": "CE Elec Proof of Publication EAP no GRT.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of Tariff Filings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0597691-0000-CB19-A82B-94C83348B3DE}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-M-0357",
+      "file_name": "24-M-0357.CECONY Low Income Program Tax PP Notice.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-M-0357",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-M-0357",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/10/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-M-0357",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/10/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-M-0357",
+      "file_name": ""
+    }
+  ]
+}

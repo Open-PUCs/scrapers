@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0011",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={947F8675-336F-44EF-9E0F-2D892905DAAB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0011",
+      "file_name": "661_22-V-0011.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02035 Letter to Building Owner 10.13.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75E7C81C-D872-4604-916C-44E30E96BA27}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0011",
+      "file_name": "21-02035 Letter to Building Owner 10.13.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 250 East Houston Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2817B246-BB1C-423E-9E5B-91932054CB75}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0011",
+      "file_name": "2-210923 Petition (250 E HOUSTON ST) (Complete).pdf"
+    }
+  ]
+}

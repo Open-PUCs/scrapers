@@ -1,0 +1,60 @@
+{
+  "case": "21-C-0488",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Withdrawal of CPC Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10CF54A5-845F-4044-8338-B08F7C321556}",
+      "organization": "Combined Public Communications, LLC",
+      "itemNo": "2",
+      "docket_id": "21-C-0488",
+      "file_name": "Withdrawal of CPC Application -- New York PSC (WBK 10.15.21).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={415789D0-16AB-4F88-9BB9-BD9B1AE9DCA0}",
+      "organization": "Combined Public Communications, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0488",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Confidential Treatment - CPC New York PSC Application (WBK 9.14.21)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E8D0853-889C-434D-9B4D-16B3DD1CAB05}",
+      "organization": "Combined Public Communications, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0488",
+      "file_name": "Request for Confidential Treatment - CPC New York PSC Application (WBK 9.14.21).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Public- CPC New York PSC Application (WBK 9.14.21)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF9C99EC-0F83-4A6D-AD8C-C857C908F50F}",
+      "organization": "Combined Public Communications, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0488",
+      "file_name": "Public- CPC New York PSC Application (WBK 9.14.21).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter - CPC New York PSC Application (WBK 9.14.21)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F4988EB-5B14-4048-B920-F63970EC988E}",
+      "organization": "Combined Public Communications, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0488",
+      "file_name": "Cover Letter - CPC New York PSC Application (WBK 9.14.21).pdf"
+    }
+  ]
+}

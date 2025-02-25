@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0550",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7A2F9D7-B7F4-4B19-9E64-995961BCB324}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0550",
+      "file_name": "663_15V0550.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Pulaski, Oswego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C94F505-BA54-4B65-8597-E133F33AF0A7}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0550",
+      "file_name": "PULASKI, VILLAGE RENEWAL DOCS TO THE PSC.pdf"
+    }
+  ]
+}

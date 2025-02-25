@@ -1,0 +1,38 @@
+{
+  "case": "18-G-0738",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E5D3660-D2A7-4F48-9EAB-FFBE07CBC51B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0738",
+      "file_name": "164_18-G-0738.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Request for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={643D2E6E-7B1F-4F8D-9383-5FF0EB8C5606}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "18-G-0738",
+      "file_name": "LETT Requesting Newspaper Waiver.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-G-0738",
+      "file_name": ""
+    }
+  ]
+}

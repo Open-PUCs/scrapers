@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0524",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={906F168C-0000-CF13-9ECA-7AFB65CAA394}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0524",
+      "file_name": "662_23-V-0524 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703B858A-0000-CB51-8442-36DA7DC1BFB6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0524",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Colden Letter 09.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703B858A-0000-CB18-8CC6-BFD4370CC42A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0524",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Colden Letter 09.11.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Colden Cover Letter - Request for Renewal and Certificate of Confirmation 9.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703B858A-0000-C67B-AE0E-910DEC5DC06E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0524",
+      "file_name": "Charter Communications, T. Colden Cover Letter - Request for Renewal and Certificate of Confirmation 9.11.23 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Colden - Request for Renewal and Certificate of Confirmation (redacted) 9.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703B858A-0000-CB93-B6D7-61DA6DE798D5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0524",
+      "file_name": "Charter Communications, T. Colden - Request for Renewal and Certificate of Confirmation (redacted) 9.11.23 .pdf"
+    }
+  ]
+}

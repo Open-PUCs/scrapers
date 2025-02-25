@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0395",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={409EB38A-0000-C919-A905-DEE42546334E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0395",
+      "file_name": "662_23-V-0395 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={908E6A89-0000-CC22-A9D0-C9DBA250C2A4}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0395",
+      "file_name": "AUSA Newspaper Cover Letter - Lynbrook, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Lynbrook, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={808E6A89-0000-C41E-AFEE-C02DE07D1998}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0395",
+      "file_name": "AUSA Newspaper Affidavit - Lynbrook, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40666A89-0000-C15A-9EF1-A085BC403CFA}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0395",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of CSC Acquisition-MA, Inc. for Approval of the Renewal of its Franchise with the Village of Lynbrook, Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40666A89-0000-CB1A-818D-303F9B02744B}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0395",
+      "file_name": "Application Cover Letter - Lynbrook, V.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Lynbrook, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40666A89-0000-CF90-9A5E-EEDCF6E1033C}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0395",
+      "file_name": "Exhibit IV - Lynbrook, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40666A89-0000-CF73-9849-9740FE8F10E5}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0395",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40666A89-0000-CEB7-8078-83961FC29562}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0395",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40666A89-0000-C835-BF21-182F860D0363}",
+      "organization": "CSC Acquisition-MA, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0395",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

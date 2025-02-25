@@ -1,0 +1,115 @@
+{
+  "case": "22-V-0307",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13ACE8E0-1045-4527-A4EC-2519EFF83D59}",
+      "organization": "Public Service Commission",
+      "itemNo": "11",
+      "docket_id": "22-V-0307",
+      "file_name": "661_22-V-0307.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/02/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01934 Letter to Building Owner Offering Facilitation.re-send 5.2.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1062FB21-328B-4EC5-A7B1-132A9ABC9418}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "22-V-0307",
+      "file_name": "21-01934 Letter to Building Owner Offering Facilitation.re-send 5.2.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/21/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01934 Letter to Building Owner Offering Facilitation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E6317EE-8E12-4485-9868-7864B42311C8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "9",
+      "docket_id": "22-V-0307",
+      "file_name": "21-01934 Letter to Building Owner Offering Facilitation.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5B1DACE-CAD4-408C-9904-51C0D0097919}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "8",
+      "docket_id": "22-V-0307",
+      "file_name": "220420_21-01934_587 RIVERSIDE DR_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0135FA6-7B76-49DC-ABFD-B978A3CB4DC8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "22-V-0307",
+      "file_name": "220321_21-01934_587 RIVERSIDE DR_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DCBA972-6482-4016-A38C-74936EE083BD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0307",
+      "file_name": "220222_21-01934_587 RIVERSIDE DR_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73B03594-D845-42EF-9457-B6A6A19E243A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0307",
+      "file_name": "220120_21-01934_587 RIVERSIDE DR_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01934 Letter to Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBF0DBA1-BA5C-4809-B05B-3CCF2F8AC588}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0307",
+      "file_name": "21-01934 Letter to Verizon New York Inc..pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01934 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={711F87FA-9A70-4447-A242-741B9FD0D42E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0307",
+      "file_name": "21-01934 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 587 Riverside Drive, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1117180F-E1C0-4517-A40A-CF1C43C173DF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0307",
+      "file_name": "3-210909 Petition (587 RIVERSIDE DR) (Complete).pdf"
+    }
+  ]
+}

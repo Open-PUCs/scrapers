@@ -1,0 +1,71 @@
+{
+  "case": "15-E-0499",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/31/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter regarding meters installed in building",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08497D95-A028-450D-B123-813C1ECDB54C}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "15-E-0499",
+      "file_name": "150 Charles Street_Ltr to Secretary re Meters Installed in Building.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D85F4F9C-C2E4-44C5-A6D4-8114456AABE2}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0499",
+      "file_name": "369_15e0499.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3D39A93-0245-4267-9192-36066FB5D71B}",
+      "organization": "150 Charles Street Holdings LLC",
+      "itemNo": "4",
+      "docket_id": "15-E-0499",
+      "file_name": "letter 1-18-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Submetering Offering Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAA27B84-8E70-4D7F-9FF7-561EA89A99D2}",
+      "organization": "150 Charles Street Holdings LLC",
+      "itemNo": "3",
+      "docket_id": "15-E-0499",
+      "file_name": "Revised Submetering Offering Plan.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/27/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AAA9952-546D-4FF0-A974-DE60C4F450EE}",
+      "organization": "150 Charles Street Holdings LLC",
+      "itemNo": "2",
+      "docket_id": "15-E-0499",
+      "file_name": "Revised cover letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 150 Charles Street Holdings LLC to Submeter Electricity at 150 Charles Street, New York City, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1311AB0C-8FC7-4C0B-9552-5AD1E98A8926}",
+      "organization": "150 Charles Street Holdings LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0499",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

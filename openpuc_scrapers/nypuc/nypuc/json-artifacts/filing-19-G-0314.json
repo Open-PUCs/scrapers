@@ -1,0 +1,38 @@
+{
+  "case": "19-G-0314",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73BE12CC-9040-4CA1-A419-1D82C0C7C433}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "19-G-0314",
+      "file_name": "2021-11-30 NYSEG-RGE NWA Filing Letter (19-E-0378 et.al.).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2021",
+      "nypuc_doctype": "Reports",
+      "name": "2021-11-29 NYSEG-RGE NWA Quarterly Report Q3 (19-E-0378 et.al.)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2AE1441-BB54-4B55-85E7-2548CCDC6460}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "19-G-0314",
+      "file_name": "2021-11-29 NYSEG-RGE NWA Quarterly Report Q3 (19-E-0378 et.al.).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DB81553-4A36-4FB3-88FB-9E3EEC8A29CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0314",
+      "file_name": "162-A_19-G-0314.pdf"
+    }
+  ]
+}

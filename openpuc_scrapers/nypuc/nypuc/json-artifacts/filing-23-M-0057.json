@@ -1,0 +1,27 @@
+{
+  "case": "23-M-0057",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Extension of Development Periods Due to the Covid-19 Construction Moratorium",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0172A8B-0000-C33A-8BF4-5E483E3017E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-M-0057",
+      "file_name": "266_23-M-0040_101323.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cabbage Patch Partners, LLC for Utility Refund Time Extension for Whispering Oaks Section 4 Phase 1.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9605B4C-B0E6-4D64-81FD-02B12E4F2F3E}",
+      "organization": "Cabbage Patch Partners, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0057",
+      "file_name": "RELIEF LETTER TO NYS PSC SIGNED 011723.pdf"
+    }
+  ]
+}

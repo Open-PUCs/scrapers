@@ -1,0 +1,49 @@
+{
+  "case": "18-T-0617",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AE74904-7C89-43F8-9667-775DC206F7F4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0617",
+      "file_name": "18-T-0617-Nat.Grid-Amsterdam 69 kV-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08EF6A42-8722-45E1-95FF-ACAEAC0CF133}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0617",
+      "file_name": "NG Filing Ltr for Amsterdam Reconfiguration Part 102.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Amsterdam Reconfiguration Part 102 Report Exhibits A - C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F22E234C-F5FD-4157-B822-5AB1CB725445}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0617",
+      "file_name": "Amsterdam Reconfiguration Part 102 Report Exhibits A - C.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Amsterdam Reconfiguration Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FE61A67-423F-49D6-8C94-98ED3EA2060B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0617",
+      "file_name": "Amsterdam Reconfiguration Part 102 Report.pdf"
+    }
+  ]
+}

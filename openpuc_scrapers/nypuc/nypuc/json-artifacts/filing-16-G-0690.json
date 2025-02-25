@@ -1,0 +1,71 @@
+{
+  "case": "16-G-0690",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Receipt of Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DEDF1F3-EFA9-49A0-A7B4-1D5278C3EC99}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "16-G-0690",
+      "file_name": "16-G-0690 Addtl Info Received.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/26/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Letter from Con Edison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41543710-A414-4B0D-954A-5C60B5C073CD}",
+      "organization": "West Fordham Restaurant, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-G-0690",
+      "file_name": "Case 426291 Utility Check response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/23/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C2E9768-DAC4-4302-A781-22CC1D1C3231}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-G-0690",
+      "file_name": "Case 426291 Con Edison Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/02/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1051C5F5-0EAF-43BE-B4E1-439DD1C4EE3C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0690",
+      "file_name": "426291 Ack Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/02/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2825EB2F-2A8D-46CC-BB52-ADDE9DF86E75}",
+      "organization": "West Fordham Restaurant, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0690",
+      "file_name": "West Fordham-Case 426291.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/02/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42BCA092-300E-4CF8-8513-8EC267205AA7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0690",
+      "file_name": "West Fordham Restorant Inc. vs Con Ed 426291.pdf"
+    }
+  ]
+}

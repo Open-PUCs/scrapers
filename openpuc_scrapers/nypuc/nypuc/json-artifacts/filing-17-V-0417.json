@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0417",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3E99861-1A54-418A-B255-DAD9DFD90813}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0417",
+      "file_name": "661_17-V-0417.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Lumberland, Sullivan County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0ABB43AE-85EE-4FC8-B7B2-88A892EE7C51}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0417",
+      "file_name": "T Lumberland Charter PSC cable franchise renewal application.pdf"
+    }
+  ]
+}

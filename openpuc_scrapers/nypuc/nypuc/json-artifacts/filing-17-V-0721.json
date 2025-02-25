@@ -1,0 +1,93 @@
+{
+  "case": "17-V-0721",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E759613E-0241-4999-8808-7686CD0FFCA1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-V-0721",
+      "file_name": "17-V-0721 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54409D66-A60A-4989-BC8E-5DB02B7F21B8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "17-V-0721",
+      "file_name": "201110 Letter re Matter 17-00833 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F7C2A1F-BDB2-49EC-AF70-5CA53DAE5BEE}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0721",
+      "file_name": "190213 VZ Letter re 170427 Petition-2 (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={469162F8-43AE-4AFA-950F-5DBDE65AC42A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-V-0721",
+      "file_name": "17-00833 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96FAD82F-5890-47C8-8E55-4383358E861D}",
+      "organization": "Apartment Management Associates, LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0721",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2940 and 3000 Ocean Parkway, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D4A7EA7-0A2D-47D6-9565-8139658943F2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0721",
+      "file_name": "170424 Petition re 2940 and 3000 Ocean Pkwy.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D34A60D-5411-4256-A1EB-54F27A69870E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0721",
+      "file_name": "Exhibit 2 (2940 and 3000 Ocean Pkwy).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A18EAABC-D014-42CD-91D1-B11E8490D4D1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0721",
+      "file_name": "Exhibit 1 (2940 and 3000 Ocean Pkwy).pdf"
+    }
+  ]
+}

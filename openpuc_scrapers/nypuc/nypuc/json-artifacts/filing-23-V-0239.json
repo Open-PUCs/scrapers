@@ -1,0 +1,82 @@
+{
+  "case": "23-V-0239",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7098B38A-0000-C71A-8854-28E7FA7C5A50}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0239",
+      "file_name": "662_23-V-0239 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Walton Corrected Reso",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A08B7389-0000-C034-A407-318A08ADCBFB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0239",
+      "file_name": "Village of Walton Corrected Reso.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A08B7389-0000-C210-B4B4-CEF4B96F1ADA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "23-V-0239",
+      "file_name": "Village of Walton Corrected Cover ORCd 7.20.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "V. Walton filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6014FD87-0000-CE94-891F-DAA684DC5038}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0239",
+      "file_name": "V. Walton filing (Redacted).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/08/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6014FD87-0000-C37E-ADE2-2807E8FB164B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0239",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/08/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Walton 5.8.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6014FD87-0000-CE5E-93B9-CF99AE6A5A2B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0239",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Walton 5.8.2023.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/08/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications V. Walton-Cover Letter Request for Renewal and Certificate of Confirmation 5.08.23 SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6014FD87-0000-C03F-81C9-6A0C2338D6F2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0239",
+      "file_name": "Charter Communications V. Walton-Cover Letter Request for Renewal and Certificate of Confirmation 5.08.23 SP.pdf"
+    }
+  ]
+}

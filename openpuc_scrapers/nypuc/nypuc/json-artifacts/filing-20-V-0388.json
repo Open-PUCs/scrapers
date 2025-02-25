@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0388",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3302F87F-7CC0-4CB9-A6C9-442460F11D78}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0388",
+      "file_name": "661_20-V-0388 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/05/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Nichols, Tioga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FABDF733-4E6C-4EFA-9D4B-3047FEC90B0F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0388",
+      "file_name": "2020.08.04 V.NICHOLS, NY FRANCHISE TO PSC.lk.pdf"
+    }
+  ]
+}

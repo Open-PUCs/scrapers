@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0146",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 161-01 89th Avenue, Jamaica, New York 11432.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECD1ED43-2C83-4D1C-BB12-B6E2D3FC54A9}",
+      "organization": "TSINY 89th Avenue, L.P.",
+      "itemNo": "6",
+      "docket_id": "21-E-0146",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2BE0E8F-B9BE-41C3-8483-6C016627BFD1}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0146",
+      "file_name": "369_21-E-0146 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5915D3BA-07DA-48DD-95FF-FE6623648EC5}",
+      "organization": "TSINY 89th Avenue, L.P.",
+      "itemNo": "4",
+      "docket_id": "21-E-0146",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74949D46-F778-4669-BD1F-39E4DD3A607A}",
+      "organization": "TSINY 89th Avenue, L.P.",
+      "itemNo": "3",
+      "docket_id": "21-E-0146",
+      "file_name": "additional information .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 161-01 89th Avenue, Jamaica, New York 11432.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46E48E50-E717-4016-B69C-36B65C32106E}",
+      "organization": "TSINY 89th Avenue, L.P.",
+      "itemNo": "2",
+      "docket_id": "21-E-0146",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Notice of lntent to Sub-meter electricity at a building located at 161-01 Bgth Avenue, Jamaica, New York 11432. Located in the Territory of Consolidated Edison Company, lnc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AFACCDA-46F9-4CB4-B6EA-E64708E86CC5}",
+      "organization": "TSINY 89th Avenue, L.P.",
+      "itemNo": "1",
+      "docket_id": "21-E-0146",
+      "file_name": "Submetering Application.pdf"
+    }
+  ]
+}

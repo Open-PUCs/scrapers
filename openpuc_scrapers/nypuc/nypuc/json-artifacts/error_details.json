@@ -1,0 +1,22 @@
+[
+  {
+    "case_id": "17-M-0520",
+    "error": "Failed to verify docket ID. Status code: 502\nResponse:\nBad Gateway",
+    "error_type": "Exception"
+  },
+  {
+    "case_id": "23-G-0430",
+    "error": "Failed to process filing object. Status code: 502, Response: Bad Gateway",
+    "error_type": "Exception"
+  },
+  {
+    "case_id": "17-M-0525",
+    "error": "HTTPSConnectionPool(host='api.kessler.xyz', port=443): Max retries exceeded with url: /v2/public/conversations/verify (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0250f081a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))",
+    "error_type": "ConnectionError"
+  },
+  {
+    "case_id": "17-G-0489",
+    "error": "Failed to process filing object. Status code: 502, Response: Bad Gateway",
+    "error_type": "Exception"
+  }
+]

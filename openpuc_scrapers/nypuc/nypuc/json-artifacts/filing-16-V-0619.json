@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0619",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF338661-8CF3-48A8-B270-12878C735953}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0619",
+      "file_name": "663_16-V-0619.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Nelsonville Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02DD6DA1-53B1-4ED5-BD57-8C0626845D28}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-V-0619",
+      "file_name": "Nelsonville Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision of Wappingers Falls, Inc. for Approval of the Renewal of its Franchise with Village of Nelsonville of Nelsonville, Putnam County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D254D2C-DC59-4CEC-A5D7-2EAD4557E6CB}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0619",
+      "file_name": "Nelsonville Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Nelsonville Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D7FD01E-1BBF-44D4-9583-B55A6C531B63}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0619",
+      "file_name": "Nelsonville Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Nelsonville Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0417798F-0C4A-4422-A624-234F0F6BEC48}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0619",
+      "file_name": "Nelsonville Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Nelsonville Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61E861AE-BD9F-4324-A201-BFF3CF12FD04}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0619",
+      "file_name": "Nelsonville Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Nelsonville Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCC363B5-4434-46DB-B3B1-E2B117C9260D}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0619",
+      "file_name": "Nelsonville Application Cover Letter.pdf"
+    }
+  ]
+}

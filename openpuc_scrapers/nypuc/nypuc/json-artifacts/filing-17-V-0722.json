@@ -1,0 +1,60 @@
+{
+  "case": "17-V-0722",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A8CF77-74BD-40B9-BB5A-E16E6458AF67}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0722",
+      "file_name": "662_17-V-0722.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB40351C-807B-4957-96FF-8CC3AD4A995A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0722",
+      "file_name": "17-00834 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 1152 Colgate Avenue, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A91C3BC0-BCD7-4B84-9A4D-1942FDE92E3C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0722",
+      "file_name": "170424 Petition re 1152 Colgate Av.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E9FC6B48-B756-48FA-8A9D-495E673EDAF3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0722",
+      "file_name": "Exhibit 2 (1152 Colgate Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EC9CB04-C849-452F-AFA7-C9F2D1C502F4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0722",
+      "file_name": "Exhibit 1 (1152 Colgate Av).pdf"
+    }
+  ]
+}

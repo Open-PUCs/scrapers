@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0080",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/08/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Thomas M. Blair Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D56F34D4-93EB-4E4A-BDBE-6F33C52A680B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0080",
+      "file_name": "21-V-0080 Sec Ltr Approving Withdrawal-4.8.21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/30/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NOTICE OF WITHDRAWAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7599B26-DCF2-472D-B9F1-F0C0C08414B2}",
+      "organization": "Town of Moravia, Town of Moravia",
+      "itemNo": "2",
+      "docket_id": "21-V-0080",
+      "file_name": "NOTICE OF WITHDRAWAL_03302021095031.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/03/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Moravia for a Waiver of the Requirements of 16 NYCRR, Sections 894.1 through 894.4 Regarding Franchise Procedures.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D32FE04-4992-4D65-AE6F-20B4636A026F}",
+      "organization": "Town of Moravia",
+      "itemNo": "1",
+      "docket_id": "21-V-0080",
+      "file_name": "Cable Franchise Waiver Zito NY LLC. and T. Moravia (002).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information (3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60440E91-0000-C321-A800-43835F2DCC90}",
+      "organization": "19 Rockwell Place LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0311",
+      "file_name": "additional information (3).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C07AC190-0000-CC1C-BFF1-BED233E88500}",
+      "organization": "19 Rockwell Place LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0311",
+      "file_name": "Letter 7-17-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 19 Rockwell Place LLC to Submeter Electricity at 19 Rockwell Place, Brooklyn, Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0A8A08F-0000-C911-BBA4-F35D6C8AAD63}",
+      "organization": "19 Rockwell Place LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0311",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

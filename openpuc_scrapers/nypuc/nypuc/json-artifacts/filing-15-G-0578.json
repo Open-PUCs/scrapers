@@ -1,0 +1,82 @@
+{
+  "case": "15-G-0578",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Consolidated Edison Company of New York Inc.\u00bfs report in response to the Commission\u00bfs December 17, 2015 Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A4AF13E-EEC2-42BC-BFE5-F3D436EA1BFD}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-G-0578",
+      "file_name": "PSCReport - MSS.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83852C28-EF3F-40CC-8AF1-AFCB6A6DC9F6}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-G-0578",
+      "file_name": "170_15g0578.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F14A0C5-7725-4954-ACA8-182994F8FFFF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-G-0578",
+      "file_name": "Affidavit LetterMSS.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/22/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Small Customer Marketer Coalition supports and agrees with the comments filed by GEE.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B147F931-2A27-4337-92D5-633A686DF4F8}",
+      "organization": "Small Customer Marketer Coalition",
+      "itemNo": "4",
+      "docket_id": "15-G-0578",
+      "file_name": "15-G-0578 LOS.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/21/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Great Eastern Energy",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={485F6D0C-B4F1-4D7F-9B6E-CB953ED63FDE}",
+      "organization": "BBPC, LLC",
+      "itemNo": "3",
+      "docket_id": "15-G-0578",
+      "file_name": "Comments of Great Eastern Energy.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/29/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-G-0578",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/28/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-G-0578",
+      "file_name": ""
+    }
+  ]
+}

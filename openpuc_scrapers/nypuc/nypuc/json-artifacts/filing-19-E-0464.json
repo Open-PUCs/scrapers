@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0464",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "19-E-0464",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={733021E2-B1B9-4B51-A299-EA7866A30E2E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-E-0464",
+      "file_name": "375_19-E-0464.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Promotes Renewable Energy Projects in New York City",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F229B7BF-9BF4-4733-A140-F8DDF82DBD4E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0464",
+      "file_name": "pr19092.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6509DA0C-2735-469D-AF0B-9908D09AC7AE}",
+      "organization": "City of New York",
+      "itemNo": "4",
+      "docket_id": "19-E-0464",
+      "file_name": "City of New York Comments on NYPA VDER Tariffs.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/13/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84B3E940-27EB-498A-BE05-3AD490CCF11D}",
+      "organization": "New York Power Authority",
+      "itemNo": "3",
+      "docket_id": "19-E-0464",
+      "file_name": "20190912 - NYPA Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/13/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of the New York Power Authority",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={733162AB-D775-431B-B7F3-EFF4F15A69DE}",
+      "organization": "New York Power Authority",
+      "itemNo": "3",
+      "docket_id": "19-E-0464",
+      "file_name": "20190912 - NYPA - VDER tariff comments.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B72FE77-07C8-41B6-82AA-5A136875EE89}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0464",
+      "file_name": "CE Elec NYPA VDER Proof of Publication 2019 0805.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0464",
+      "file_name": ""
+    }
+  ]
+}

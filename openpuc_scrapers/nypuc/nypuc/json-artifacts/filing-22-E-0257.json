@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0257",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "414 Gerard Owner LLC - Approval Order Compliance Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={302F8F87-0000-CD12-954E-84AB6A49D06D}",
+      "organization": "414 Gerard Owner LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0257",
+      "file_name": "414 Gerard Owner LLC - Approval Order Compliance Filing Letter - Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D46A2A6-F6BF-431F-BA27-88A7FDEC632B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0257",
+      "file_name": "367_22-E-0257 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/30/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing_414 Gerard Ave_1.30.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE4D3AF6-1A79-4885-925B-5BF803F59D0F}",
+      "organization": "414 Gerard Owner LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0257",
+      "file_name": "Supplemental Filing_414 Gerard Ave_1.30.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing_414 Gerard Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6927FC99-E2F7-4AEC-A348-A2B175B217FD}",
+      "organization": "414 Gerard Owner LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0257",
+      "file_name": "Supplemental Filing_414 Gerard Ave.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 414 Gerard Owner LLC to Submeter to Submeter Electricity at 414 Gerard Avenue, Bronx, New York, Located in the Territory of Consolidated Edison Company of New York, Inc",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67A0B2B1-964F-4425-B750-C39966808297}",
+      "organization": "414 Gerard Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0257",
+      "file_name": "Submetering notice of intent 414 Gerard Ave.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CCA0616-4B86-4AE0-BE75-89261110CBE8}",
+      "organization": "414 Gerard Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0257",
+      "file_name": "Filing Letter_414 Gerard Ave.pdf"
+    }
+  ]
+}

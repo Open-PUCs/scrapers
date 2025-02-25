@@ -1,0 +1,60 @@
+{
+  "case": "22-G-0076",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5725C87-C2E4-445F-9A56-0E26746C91A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0076",
+      "file_name": "166_21-G-0503 et al Determination & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1ED6D1C-9350-4B5F-BA49-365FE55E9BE1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0076",
+      "file_name": "166_22-G-0076 letter.Redact - Jeffrey Robinson final_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/07/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF7B9A66-5F70-4EFC-9C26-B8E25EE9E66C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0076",
+      "file_name": "165802_Robinson_Ack_ (1)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/07/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4ABF066-B7BE-44C4-8F28-C677360518D6}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-G-0076",
+      "file_name": "Appeal_165802 (1)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/07/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08699738-C51E-4B77-828E-69680581BA5F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0076",
+      "file_name": "Case_165802_-_J_Robinson_-_Gas_Fee_Denial_(Final_10-7-21) (1)_Redacted.pdf"
+    }
+  ]
+}

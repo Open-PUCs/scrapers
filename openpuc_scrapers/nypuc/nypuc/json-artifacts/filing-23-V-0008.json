@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0008",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6059E76-1CFE-4299-8A74-21064B92376C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0008",
+      "file_name": "661_23-V-0008 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02060 Letter to Building Owner_512 W 136 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={401D0FD9-F0C4-4B93-A57D-4AD574758881}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0008",
+      "file_name": "22-02060 Letter to Building Owner_512 W 136 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 512 West 136th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED0E8363-0DAC-4176-A3C1-FCEBD46EDA5A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0008",
+      "file_name": "221019-15 Petition (512 W 136 ST) (Post-Survey).pdf"
+    }
+  ]
+}

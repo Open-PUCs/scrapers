@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0004",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5096D18D-0000-C112-9EA2-6B02C31F1DBA}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0004",
+      "file_name": "162-B_24-G-0004 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240108 - Training Documentation - 19 Trainings duplicates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8075FF8C-0000-C71B-A67A-E172FC8D9F0B}",
+      "organization": "Adhan Piping Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0004",
+      "file_name": "20240108 - Training Documentation - 19 Trainings duplicates.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240103 - Training Documentation - 22 Trainings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40DCD08C-0000-C11A-9C56-D64863EB6267}",
+      "organization": "Adhan Piping Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0004",
+      "file_name": "20240103 - Training Documentation - 22 Trainings.pdf"
+    }
+  ]
+}

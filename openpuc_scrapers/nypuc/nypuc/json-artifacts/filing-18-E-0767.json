@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0767",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0767 Mohabir Ack Letter 12172018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65151DF7-A54D-4747-8BDA-2A1CB66C9B88}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0767",
+      "file_name": "18-E-0767 Mohabir Ack Letter 12172018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0767 Mohabir Rehearing Request 12142018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8378366-7A21-4A39-A235-7491FE860F85}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0767",
+      "file_name": "18-E-0767 Mohabir Rehearing Request 12142018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0767 Mohabir SMD Final 11152018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB6E4E77-A75B-4335-9091-7EBC405D8E74}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0767",
+      "file_name": "18-E-0767 Mohabir SMD Final 11152018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding A Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={081579A2-A331-40E4-B368-AD330ED0A767}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0767",
+      "file_name": "361 Letter_Redacted.pdf"
+    }
+  ]
+}

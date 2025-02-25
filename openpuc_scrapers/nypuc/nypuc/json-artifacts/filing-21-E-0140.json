@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0140",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-E-0140",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9881E3D-0D4E-47B3-BC4A-240D476A91FF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0140",
+      "file_name": "364_21-E-0140 Order Approving Tariff Filing final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Con Ed amendments for housekeeping purposes.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7060BD8B-5956-44DB-879A-94EA3C044CD5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-E-0140",
+      "file_name": "e.21-E-0140 ConEdPP3.4.21FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/04/2021",
+      "nypuc_doctype": "Tariffs",
+      "name": "Updated Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59148DAB-099E-4E32-B033-99B492645DF3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0140",
+      "file_name": "LETT Housekeeping merge- 2021 0203-revised (003).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/02/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-E-0140",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/03/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc., Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0140",
+      "file_name": ""
+    }
+  ]
+}

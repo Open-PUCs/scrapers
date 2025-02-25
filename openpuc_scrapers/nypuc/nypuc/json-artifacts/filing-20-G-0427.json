@@ -1,0 +1,49 @@
+{
+  "case": "20-G-0427",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-G-0427 Walters Ack Letter 08242020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66F1C66E-EF6A-45EC-8048-9A612CCDAEA4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-G-0427",
+      "file_name": "20-G-0427 Walters Ack Letter 08242020_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-G-0427 Walters Rehearing Request 06112020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAB853F1-30EC-4CDC-BB97-B53031029FB9}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-G-0427",
+      "file_name": "20-G-0427 Walters Rehearing Request 06112020_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-G-0427 Walters SMD Final 05132020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA2B5C01-9F30-453F-ACDB-95937AED1081}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-G-0427",
+      "file_name": "20-G-0427 Walters SMD Final 05132020_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F01886-BB63-48DB-83C0-3B2084EFF55E}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-G-0427",
+      "file_name": "162 Letter final_Redacted.pdf"
+    }
+  ]
+}

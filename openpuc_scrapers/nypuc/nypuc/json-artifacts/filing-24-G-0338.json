@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0338",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240820 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0339991-0000-CC18-B428-79B1AF77E83B}",
+      "organization": "A. Calvi Inc",
+      "itemNo": "8",
+      "docket_id": "24-G-0338",
+      "file_name": "20240820 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0C21391-0000-CB15-86DE-A8B5984FF436}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0338",
+      "file_name": "161-B_24-G-03388224final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240306 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C022158E-0000-C319-A2B0-AF473F7CE2B7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "24-G-0338",
+      "file_name": "20240306 - Consent Offer Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0613",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0C60952-F3A7-4152-B8C2-8B2E85175138}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0613",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Wheatfield, Niagara County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA2574AE-46A0-4EB8-8561-2F73934F0D38}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0613",
+      "file_name": "09.25.18 - T. WHEATFIELD FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

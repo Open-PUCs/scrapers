@@ -1,0 +1,49 @@
+{
+  "case": "16-W-0245",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EEA926-EB0B-4EC7-AE74-C807EED487F0}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-W-0245",
+      "file_name": "464_16-W-0245.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "NYAW Update to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5386EBC-C6D8-4D98-BD11-1F8EC1EDA29D}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-W-0245",
+      "file_name": "2017.02.07_NYAW Update to Petition_Case 16-W-0245.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "New York American Water Company, Inc. submits updates to its petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59AF9D81-FFCA-45E6-8327-C4E73DF5A522}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0245",
+      "file_name": "2017.02.07_NYAW Update to Petition_Case 16-W-0245.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York American Water Company, Inc. for Approval to Use Badger Meter HR E LCD Encoder Registers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A1108FC-3018-4983-A85E-9D3A73D442B1}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0245",
+      "file_name": "2016.04.22_NYAW Petition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "22-E-0485",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Shared Meter Rehearing Request_20220808_144616_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57F35A59-95DC-457A-BB38-0A70B59EF6A9}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-E-0485",
+      "file_name": "Scanned_Document_20220808_144616_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Letters",
+      "name": "141414_Corona_SMD_Final_12012021_Corona (1)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D4CA952-77BE-4133-80A1-BE9EC2A34B6A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0485",
+      "file_name": "141414_Corona_SMD_Final_12012021_Corona (1)_Redacted.pdf"
+    }
+  ]
+}

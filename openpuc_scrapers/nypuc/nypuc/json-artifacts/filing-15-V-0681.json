@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0681",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBB4B360-BA14-4AC5-95CF-B4F6F409918B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0681",
+      "file_name": "661_15v0681.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Binghamton, Broome County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF99D8D9-480A-4378-9020-2CA581C7E9D1}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0681",
+      "file_name": "11172015 t of binghamton psc submission.pdf"
+    }
+  ]
+}

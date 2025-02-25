@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0303",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/10/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Generation Ownership and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88A81C06-C620-4C4E-8EF0-E43D2BF7615F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0303",
+      "file_name": "383_21-E-0303 NGV Dec Ruling_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of National Grid PLC and NGV Ventures Emerald, LLC for a Declaratory Ruling Regarding Ownership of a 50 Percent Upstream Interest in the Calverton Solar Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1711E0C-D75A-46FE-B877-A19762E86992}",
+      "organization": "NGV Ventures Emerald, LLC, National Grid PLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0303",
+      "file_name": "Calvert Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1860F7E0-EE2C-4915-8171-EE630A63CD33}",
+      "organization": "NGV Ventures Emerald, LLC, National Grid PLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0303",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0310",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10000F91-0000-C576-9DD5-080ADC6C9DA3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0310",
+      "file_name": "662_24-V-0310.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E39B8F-0000-C421-8B0C-A2633D43AF41}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0310",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Cherry Creek 5.21.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E39B8F-0000-C616-B694-2C47F168D9ED}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0310",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Cherry Creek 5.21.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Cherry Creek Request for Certificate of Confirmation(redacted)5.21.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E39B8F-0000-C761-90C5-1E9BD0DC3855}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0310",
+      "file_name": "Charter Communications, T. Cherry Creek Request for Certificate of Confirmation(redacted)5.21.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Cherry Creek Cover letter-Request for Certificate of Confirmation 5.21.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E39B8F-0000-CE49-8D36-81F960E0F7DE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0310",
+      "file_name": "Charter Communications, T. Cherry Creek Cover letter-Request for Certificate of Confirmation 5.21.24.pdf"
+    }
+  ]
+}

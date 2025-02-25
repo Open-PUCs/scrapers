@@ -1,0 +1,71 @@
+{
+  "case": "20-E-0190",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Order Approval Certification Filing QPP LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAF9CA9B-DDE5-4DB2-BF13-BA3ED657F9F6}",
+      "organization": "QPP LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0190",
+      "file_name": "Order Approval Certification Filing QPP LLC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1BB7883-98A2-49A9-9AB7-7304E49886BE}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0190",
+      "file_name": "381_20-E-0190 QPP Submetering Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/05/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDBED6C8-1994-4DCA-993F-EBDAFE96901B}",
+      "organization": "QPP LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0190",
+      "file_name": "Supplemental Filing_QPP LLC_10.5.20.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/01/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "QPP LLC - Proof of Service to Con Ed - filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7A370AE-0F08-4BD9-8E84-59B0F97674D9}",
+      "organization": "QPP LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0190",
+      "file_name": "QPP LLC - Proof of Service to Con Ed - filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BCFD1E5-9D95-4D51-BA70-87FCD06A921D}",
+      "organization": "QPP LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0190",
+      "file_name": "QPP LLC - Updated Submetering Identification Form - PSC filing.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/13/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Notice of Intent QPP LLC Northern Blvd.Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={312BDD67-D1D2-4B92-A612-6CE24BB18BBD}",
+      "organization": "QPP LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0190",
+      "file_name": "Submetering Notice of Intent_QPP LLC_29-59 Northern Blvd.Queens [Sven] (1).pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0127",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A93ADDD1-C033-4C50-A1B3-AC2BA5539C90}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0127",
+      "file_name": "667_16v0127.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Airmont Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4D71E8D-D0E0-49DE-8B6B-69358D6B0C76}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0127",
+      "file_name": "Airmont Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Airmont Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3DE76C0-9B71-4E4C-823F-14A761C1FEF7}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0127",
+      "file_name": "Airmont Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Airmont Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BF1CFAC-7B3A-4DA4-9C15-25EE61995CE6}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0127",
+      "file_name": "Airmont Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Airmont Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44E4BF2F-79FF-4713-AECE-38A8A7E9C153}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0127",
+      "file_name": "Airmont Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Airmont Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C6F969B-8FB5-4A3F-9017-A6D45F9677AA}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0127",
+      "file_name": "Airmont Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Airmont Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFE7005B-392E-40D5-A809-FBC79C33F51C}",
+      "organization": "Cablevision of Rockland/Ramapo, LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0127",
+      "file_name": "Airmont Application Cover Letter.pdf"
+    }
+  ]
+}

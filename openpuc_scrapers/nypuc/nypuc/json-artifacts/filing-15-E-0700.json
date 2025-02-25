@@ -1,0 +1,115 @@
+{
+  "case": "15-E-0700",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21EA6AE6-EE74-42CD-A69D-23A45992BE3B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "8",
+      "docket_id": "15-E-0700",
+      "file_name": "Cases 15-E-0050 and 15-E-0700 - Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABE4E928-A642-4301-BAEE-53D442F3A383}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "15-E-0700",
+      "file_name": "Cases 15-E-0500 and 15-E-0700 - National Grid Compliance Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2018",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={427A5C22-7D95-452C-B901-F8105C977121}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0700",
+      "file_name": "15-E-0050 & 15-E-0700 Extension Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Motions",
+      "name": "National Grid Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA278CB7-1093-44F8-9B90-45526450E04B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "15-E-0700",
+      "file_name": "Case 15-E-0500 and 15-E-0700 - Extension Request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/25/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Resolving Petitions Requesting Revenue Assurance Calculation Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F00D240-1A66-4B03-BFBB-EE012CFCA0E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0700",
+      "file_name": "367 15-E-0500 et al.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/22/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Tiashoke Farm Petition NG Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={803D5C86-E16B-4428-841B-8889319B7FB6}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "15-E-0700",
+      "file_name": "Tiashoke Farm Petition NG Comments Feb 22 2016.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/08/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CDC7CE06-BF81-4588-9EAC-775C08565048}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "15-E-0700",
+      "file_name": "Case 15-E-0700 Tiashoke Farms Cost Estimate Confidentiality Request.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Tiashoke Farms Revenue Assurance PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DCFD738-75EE-4011-B6AC-AB9711C95691}",
+      "organization": "Tiashoke Farm",
+      "itemNo": "1",
+      "docket_id": "15-E-0700",
+      "file_name": "Tiashoke Farms Revenue Assurance PSC.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "ESB120 SERVICE PROPOSAL - WR 20089085 _Options 1 2 and 3_ 10-15-15",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F66EE46-BA87-4D69-B789-102175ED5B92}",
+      "organization": "Tiashoke Farm",
+      "itemNo": "1",
+      "docket_id": "15-E-0700",
+      "file_name": "ESB120 SERVICE PROPOSAL - WR 20089085 _Options 1 2 and 3_ 10-15-15.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "19884562 SA_OF_Electric_Service_Proposal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1377DD5-1074-4625-8799-72252CEFF42A}",
+      "organization": "Tiashoke Farm",
+      "itemNo": "1",
+      "docket_id": "15-E-0700",
+      "file_name": "19884562 SA_OF_Electric_Service_Proposal.pdf"
+    }
+  ]
+}

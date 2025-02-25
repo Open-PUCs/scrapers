@@ -1,0 +1,71 @@
+{
+  "case": "17-M-0422",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter for Appeal of Declaratory Ruling on Lease Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAD5C980-1F9A-44F3-8ACD-36F2A065DAA1}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-M-0422",
+      "file_name": "262 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Exhibit A - Site Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E08E3A-F7AE-419F-9F44-8B933B730FB9}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "17-M-0422",
+      "file_name": "Site Plan .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Appeal of the Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87B2723C-12B0-4D26-B01D-94AE4E7400EA}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "17-M-0422",
+      "file_name": "Appeal of the Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/19/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Lease Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13F610D7-42F7-4CA2-BFBD-EB7FEADA4051}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-M-0422",
+      "file_name": "268_17-M-0422.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/17/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E1EF0CA-8560-4790-893E-3FEBD1E45E51}",
+      "organization": "National Grid Generation LLC",
+      "itemNo": "2",
+      "docket_id": "17-M-0422",
+      "file_name": "East_Hampton_trade_secret_ltr.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of National Grid Generation LLC for a Declaratory Ruling Concerning 3 Cove Hollow Road, East Hampton, NY, to East Hampton Energy Storage Center, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E5E9802-DF95-46A1-8827-4E3485272E0C}",
+      "organization": "National Grid Generation LLC",
+      "itemNo": "1",
+      "docket_id": "17-M-0422",
+      "file_name": "NationalGridPetitionDecRulingEast_Hampton.pdf"
+    }
+  ]
+}

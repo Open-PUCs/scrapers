@@ -1,0 +1,71 @@
+{
+  "case": "19-W-0441",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter From Secretary Burgess Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19603090-A713-4287-B640-1539644F7FE5}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-W-0441",
+      "file_name": "19-W-0441-Vann v. American Water-Withdrawal Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/29/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC6D262C-F3D5-4EBE-97D8-75F887194B68}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "19-W-0441",
+      "file_name": "Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B634DCE-464B-404B-94B5-56088A8FC845}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-W-0441",
+      "file_name": "813166 Vann_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/06/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Vann Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B46333E9-AE64-4EDE-8B23-34CF2F7982B3}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-W-0441",
+      "file_name": "Vann Appeal .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/06/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7028E5F8-54B3-41ED-BB17-044493FC5F6F}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-W-0441",
+      "file_name": "Vann Appeal1_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/06/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31302769-C192-49DB-8779-7E5F5E098A94}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-W-0441",
+      "file_name": "813166 IH Michael Vann (NYAW)_Redacted.pdf"
+    }
+  ]
+}

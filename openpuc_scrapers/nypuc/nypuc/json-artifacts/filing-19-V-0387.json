@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0387",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A24C4C61-E66C-49A6-B833-DE1136BE9735}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0387",
+      "file_name": "664_19-V-0387.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={073C3267-3921-469A-B07E-A749D15FF2F4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0387",
+      "file_name": "17-02656 Merged Letters.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 450 West 147th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA3F3FBC-2B7C-4EEC-AA38-F125552BE478}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0387",
+      "file_name": "Petition (450 W 147 St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3CF9133-52EF-4848-B8A4-76CED24249D9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0387",
+      "file_name": "Exhibit 2 (450 W 147 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CAE999F-A549-4DA2-89B4-CC319CFA7216}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0387",
+      "file_name": "Exhibit 1 (450 W 147 St).pdf"
+    }
+  ]
+}

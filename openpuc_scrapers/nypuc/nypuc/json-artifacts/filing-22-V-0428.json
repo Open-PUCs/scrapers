@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0428",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5BD3DE5-8CA9-408D-91C4-7E913C5433DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0428",
+      "file_name": "662_22-V-0428 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93F4A5A2-B840-40DF-966C-04BE8DEFF708}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0428",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Bloomingburg Letter R-2 071922",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD883191-0A99-4A84-AA91-06E1A38DACC9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0428",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Bloomingburg Letter R-2 071922.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Bloomingburg- Request for Renewal and Certificate of Confirmation- REDACTED 07.19.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70FED6EF-B184-4A05-B798-EE07FDEE8248}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0428",
+      "file_name": "Charter Communications, V. Bloomingburg- Request for Renewal and Certificate of Confirmation- REDACTED 07.19.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Bloomingburg Cover Letter-Request for Renewal and Certificate of Confirmation 07.19.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B42188C-FE5F-43BC-8A20-FF8FD8460DBA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0428",
+      "file_name": "Charter Communications, V. Bloomingburg Cover Letter-Request for Renewal and Certificate of Confirmation 07.19.22.pdf"
+    }
+  ]
+}

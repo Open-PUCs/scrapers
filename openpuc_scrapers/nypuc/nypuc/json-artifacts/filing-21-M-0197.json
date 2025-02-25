@@ -1,0 +1,60 @@
+{
+  "case": "21-M-0197",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/14/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2FB39F4-5769-430A-BB23-AB763A47D1EF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-M-0197",
+      "file_name": "269_21-M-0197_final .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pre and Post Transaction Organization",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED3FC33E-E859-4E40-BED7-44C530D870A3}",
+      "organization": "Ironclad Energy Holdings LLC, Ironclad Energy Partners LLC, Ironclad Energy Thermal LLC, Red-Rochester, LLC, SEEIT Red Holdco LLC",
+      "itemNo": "2",
+      "docket_id": "21-M-0197",
+      "file_name": "Pre and Post Transaction Organization.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={529B4825-8483-45BA-8DC0-A40D3007F8A7}",
+      "organization": "Ironclad Energy Holdings LLC, Ironclad Energy Partners LLC, Ironclad Energy Thermal LLC, Red-Rochester, LLC, SEEIT Red Holdco LLC",
+      "itemNo": "2",
+      "docket_id": "21-M-0197",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Ironclad Energy Holdings LLC, Ironclad Energy Thermal LLC, Ironclad Energy Partners LLC, RED-Rochester, LLC, and SEEIT Red Holdco LLC for a Declaratory Ruling Establishing the Wallkill Presumption to a Proposed Transaction or, in the Alternative, Approval of a Proposed Transaction for a Declaratory Ruling Concerning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24052C44-0A06-4EC3-8D4F-B93BD19D95EA}",
+      "organization": "Ironclad Energy Holdings LLC, Ironclad Energy Partners LLC, Ironclad Energy Thermal LLC, Red-Rochester, LLC, SEEIT Red Holdco LLC",
+      "itemNo": "1",
+      "docket_id": "21-M-0197",
+      "file_name": "RED-Rochester et al. Petition for a Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEC385AB-DD5A-4E0F-B299-3E4313FDB445}",
+      "organization": "Ironclad Energy Holdings LLC, Ironclad Energy Partners LLC, Ironclad Energy Thermal LLC, Red-Rochester, LLC, SEEIT Red Holdco LLC",
+      "itemNo": "1",
+      "docket_id": "21-M-0197",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

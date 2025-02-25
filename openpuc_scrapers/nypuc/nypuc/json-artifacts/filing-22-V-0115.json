@@ -1,0 +1,71 @@
+{
+  "case": "22-V-0115",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F0DFCEB-C9C7-4E28-A9A6-0DBB598ED5E2}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "22-V-0115",
+      "file_name": "662_22-V-0115 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/03/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01933 Letter to Building Owner 2.3.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78580D90-DDDF-4C6B-A87F-416FC57F6E0F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "22-V-0115",
+      "file_name": "21-01933 Letter to Building Owner 2.3.2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7A7645A-48F5-45A1-A37F-5FE5F2012250}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0115",
+      "file_name": "220120_21-01933_617 W 141 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01933 Letter to Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CBF55E7C-1D21-4FC7-A588-9B061E94CCC7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0115",
+      "file_name": "21-01933 Letter to Verizon New York Inc..pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01933 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0EF3B30B-9F7C-47AA-AC8F-AB437A3C54F5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0115",
+      "file_name": "21-01933 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 617 West 141st Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8771C44A-2E1A-4406-82AE-E3A7CA5148F2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0115",
+      "file_name": "2-210909 Petition (617 W 141 ST) (Complete).pdf"
+    }
+  ]
+}

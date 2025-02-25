@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0781",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "TD150002EN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4841D9A2-8A4F-4421-BF24-D07AA115168E}",
+      "organization": "Eaton Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0781",
+      "file_name": "TD150002EN.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Supplemental Approval of Two Additional Metering Accessories to be used with Eaton Corporation\u00bfs Power Xpert Multipoint Meter for Tenant Loads above 400 Amps.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF50E862-4F6D-4C48-AB92-83E2FB7DB897}",
+      "organization": "Eaton Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0781",
+      "file_name": "Petition for Supplemental Approval - Eaton PXMP Accessories PXMP-MM10MA and CS005.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "IL02601003E",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B494772-3F31-4AC0-B58C-7FC791BF8061}",
+      "organization": "Eaton Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0781",
+      "file_name": "IL02601003E.pdf"
+    }
+  ]
+}

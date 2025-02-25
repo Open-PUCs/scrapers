@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0303",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={804D238A-0000-C510-991B-C1411C5F7FE2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0303",
+      "file_name": "661_23-V-0303 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0729788-0000-C151-9936-566D4F23860E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0303",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Yorkville 6.7.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0729788-0000-C61F-811D-DC106D123235}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0303",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Yorkville 6.7.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Yorkville -Cover Letter-Request for Renewal and Certificate of Confirmation 6.7.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0729788-0000-C07D-9DCC-67DD73743D81}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0303",
+      "file_name": "Charter Communications, V. Yorkville -Cover Letter-Request for Renewal and Certificate of Confirmation 6.7.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Yorkville - Request for Renewal and Certificate of Confirmation (redacted) 6.7.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0729788-0000-CE95-8DC2-AF18930880CF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0303",
+      "file_name": "Charter Communications, V. Yorkville - Request for Renewal and Certificate of Confirmation (redacted) 6.7.23.pdf"
+    }
+  ]
+}

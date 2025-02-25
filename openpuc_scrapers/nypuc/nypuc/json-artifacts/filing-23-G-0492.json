@@ -1,0 +1,71 @@
+{
+  "case": "23-G-0492",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={607D618E-0000-C219-8395-5A6A38600E0B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0492",
+      "file_name": "164_23-G-0492 _Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Tenant Petition 09082023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40F4B38A-0000-C223-89EB-D4357002B956}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "23-G-0492",
+      "file_name": "Tenant Petition 09082023_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Tenant Petition 09072023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30F4B38A-0000-C412-B2F8-C8026EA095D1}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "23-G-0492",
+      "file_name": "Tenant Petition 09072023_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/08/2023",
+      "nypuc_doctype": "Letters",
+      "name": "351525 Lew SMR Acknowledgement 09082023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109F758A-0000-C21F-8366-23DF6710219A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0492",
+      "file_name": "351525 Lew SMR Acknowledgement 09082023_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/08/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Petition for Rehearing_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109E758A-0000-C91D-AC09-C910CA7692FF}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-G-0492",
+      "file_name": "Petition for Rehearing_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/08/2023",
+      "nypuc_doctype": "Letters",
+      "name": "226173_Marquis_SMD_Final_08092023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109C758A-0000-C21C-9450-F5A340104362}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0492",
+      "file_name": "226173_Marquis_SMD_Final_08092023 (2)_Redacted.pdf"
+    }
+  ]
+}

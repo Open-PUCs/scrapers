@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0245",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "NFG Response - 2016 Gas Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77C4F609-AC45-4933-8174-2E5ADB33D16F}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "17-G-0245",
+      "file_name": "NFG Response to NYDPS Letter in Case 17-G-0245 - 2016 Gas Safety Performance Measures Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2017",
+      "nypuc_doctype": "Reports",
+      "name": "2016 Gas Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C0C99EB-FB8A-4E91-969C-9FD3F2FD13FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-G-0245",
+      "file_name": "102_17-G-0245 2016 Gas Safety Performance Measures Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/15/2017",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Assesses Electric Reliability, Customer Service and Gas and Electric Safety of State\u00bfs Large Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={079B4EDC-BFDE-404A-83A3-D40ABC135659}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0245",
+      "file_name": "pr17045.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "16-V-0115",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69A2F418-8E1F-47D1-B2C1-5068B82D9643}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-V-0115",
+      "file_name": "661_16v0115.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/12/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65E94004-4733-449E-80CD-D853A1BF9317}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-V-0115",
+      "file_name": "16-V-0115 Signed EAF.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99F5BF0E-564C-4736-AF55-F232AD8AD9D8}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "2",
+      "docket_id": "16-V-0115",
+      "file_name": "Affidavit of Proof of Publication.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Community Cable Corporation d/b/a North Penn Video for a Certificate of Confirmation for its Franchise with the Village of Elmira Heights, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE06557C-96C7-4B04-8FD7-A8C0C05AFC6D}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "1",
+      "docket_id": "16-V-0115",
+      "file_name": "Application Village of Elmira Heights - NPV.pdf"
+    }
+  ]
+}

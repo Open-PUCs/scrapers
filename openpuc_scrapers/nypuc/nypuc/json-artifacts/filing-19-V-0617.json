@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0617",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6381536B-587E-4978-A61A-EE5838E89902}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0617",
+      "file_name": "662_19-V-0617 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D6898D3-DC04-4749-AA7A-D22F7621A31A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0617",
+      "file_name": "18-01359 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 125 East 93rd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48251269-BE4C-4D41-B2AD-70DA3760E01D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0617",
+      "file_name": "Petition (125 E 93 St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC0CDB41-AF9B-4109-AC90-C7C59D92E279}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0617",
+      "file_name": "Exhibit 2 (125 E 93 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEE192D9-641A-474F-8F8C-A5F9904CF691}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0617",
+      "file_name": "Exhibit 1 (125 E 93 St).pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0371",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FD7A91-0000-C611-8025-D62E5A4ABDEE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0371",
+      "file_name": "661_24-V-0371.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0063790-0000-C357-B8D9-56C7EA648598}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0371",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Naples Letter 6.20.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0063790-0000-C11B-8883-8DED52AD21E8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0371",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Naples Letter 6.20.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "2024.06.20 V. Naples Cover Letter-Request for Renewal and Certificate of Confirmation. lk",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0063790-0000-C27A-A60F-24A00D979694}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0371",
+      "file_name": "2024.06.20 V. Naples Cover Letter-Request for Renewal and Certificate of Confirmation. lk.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2024.06.20 Charter Communications-V. Naples -Request for Renewal and Certificate of Confirmation(redacted). lk",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0063790-0000-C490-B8D4-BB82FE2C840D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0371",
+      "file_name": "2024.06.20 Charter Communications-V. Naples -Request for Renewal and Certificate of Confirmation(redacted). lk.pdf"
+    }
+  ]
+}

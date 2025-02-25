@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0123",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Submetering ID_3475 3rd Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60D39F8E-0000-CB12-BA49-2785C2897500}",
+      "organization": "3475 Third Avenue Owner Realty LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0123",
+      "file_name": "Submetering ID_3475 3rd Ave (4.2.24).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E635C15-74D1-4F80-ADEE-860034B00B8D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0123",
+      "file_name": "377_16-E-0123.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00B9B2D-3056-4735-B9FE-C1F1CBCF167A}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "16-E-0123",
+      "file_name": "Response to Request for Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information Requested",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={346720B8-66D9-48F5-8ACF-00B24068DA38}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "16-E-0123",
+      "file_name": "Additional Information Requested.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/24/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24054454-DEF0-4A81-95DA-756B9B36E86C}",
+      "organization": "3475 Third Avenue Owner Realty LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0123",
+      "file_name": "Submetering Application.pdf"
+    }
+  ]
+}

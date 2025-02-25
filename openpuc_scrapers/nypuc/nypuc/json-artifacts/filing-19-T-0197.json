@@ -1,0 +1,38 @@
+{
+  "case": "19-T-0197",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Brian Bury Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A11D820-DE1F-4F63-B7F6-5B612FD29402}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-T-0197",
+      "file_name": "19-T-0197-NYSEG-Line-69 WatercureRd.-Part 102 Ltr.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of New York State Electric & Gas Corporation Concerning the Relocation of Line 69 into Watercure Road Substation Town of Elmira, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D83E833-9389-4150-9E79-66C302CC7575}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "19-T-0197",
+      "file_name": "Line 69 Watercure Substation Part 102 (Report, Figures, Appendices).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEC5EE82-FFCC-47BC-B847-A0491D590C4A}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "19-T-0197",
+      "file_name": "Cover Letter (16NYCRR).pdf"
+    }
+  ]
+}

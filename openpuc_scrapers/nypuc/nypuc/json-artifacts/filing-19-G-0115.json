@@ -1,0 +1,38 @@
+{
+  "case": "19-G-0115",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/24/2020",
+      "nypuc_doctype": "Affidavit of Service",
+      "name": "20200213 Final Order Service Affidivat",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={084CDCE9-175D-45C1-BF44-1A9B7C9EB580}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-G-0115",
+      "file_name": "20200213 Final Order Service Affidivat.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/13/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB48A2E7-7C5D-45E9-AC2B-76C350D356A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-G-0115",
+      "file_name": "164-A_19-G-0115.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF438915-D4AB-4EC1-87C5-E0DB48047A94}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0115",
+      "file_name": "163-B_19-G-0115.pdf"
+    }
+  ]
+}

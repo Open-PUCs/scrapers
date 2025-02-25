@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0595",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F3999AF-051D-4D42-A977-71DCDCB51146}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0595",
+      "file_name": "661_22-V-0595.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/13/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01659 Letter to Building Owner 416 W 129",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D8DBD54-E790-478D-9B88-D242F7FF16F0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0595",
+      "file_name": "22-01659 Letter to Building Owner 416 W 129.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 416 West 129th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51F15C93-3C6E-44B2-A11D-386A8217883E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0595",
+      "file_name": "220823-3 Petition (416 W 129 ST) (Post-Survey).pdf"
+    }
+  ]
+}

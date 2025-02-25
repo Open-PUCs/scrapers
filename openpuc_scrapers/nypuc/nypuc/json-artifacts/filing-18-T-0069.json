@@ -1,0 +1,71 @@
+{
+  "case": "18-T-0069",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/06/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Regarding Withdrawal Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E0A5268-06E5-496B-B034-53868DE8D530}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-T-0069",
+      "file_name": "18-T-0069-Mountain-Lockport-Withdrawal Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF96168C-360F-4C51-800F-CA43569E6E2A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "18-T-0069",
+      "file_name": "PSC Case 18-T-0069 Mountain- Lockport.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/31/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Approval of Proposed Corrective Action",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B99B73AD-83EB-493B-8E4F-BE977F6EBC92}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "18-T-0069",
+      "file_name": "SSYR13818053115020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq., National Grid USA, Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA39C229-55FA-450D-91D1-E4B2851713C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0069",
+      "file_name": "18-T-0069-Mountain-Lockport-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Part 102 Report of Niagara Mohawk Power Corporation Concerning the National Grid Mountain-Lockport 103/104 115kV Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44BEE377-A932-438E-9E4B-40BC4FFB98EC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0069",
+      "file_name": "Mountain-Lockport 103_104 Final Part 102 Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5C553E8-75B1-43E8-A5D9-12A7EE161C98}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0069",
+      "file_name": "Mountain-Lockport 103-104 CCR Part 102 -- Zafonte Cover Letter.pdf"
+    }
+  ]
+}

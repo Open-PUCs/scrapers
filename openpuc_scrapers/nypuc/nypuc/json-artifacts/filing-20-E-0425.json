@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0425",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0425 Delaglio Ack Letter 08242020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D52C03C-33B3-4A34-B48B-70743A37EEC8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0425",
+      "file_name": "20-E-0425 Delaglio Ack Letter 08242020_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0425 Delaglio Rehearing Request 05072020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={688910D0-0B8A-4E72-94F1-59873E9136C2}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0425",
+      "file_name": "20-E-0425 Delaglio Rehearing Request 05072020_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0425 Delaglio SMD Final 04222020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={005A7720-66F1-456A-ACB0-4764E01EA074}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0425",
+      "file_name": "20-E-0425 Delaglio SMD Final 04222020_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E26BF91D-FD79-4C4A-8A78-B7ED6F1C877E}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0425",
+      "file_name": "365 Letter final_Redacted.pdf"
+    }
+  ]
+}

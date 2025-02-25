@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0487",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40EB5292-0000-C112-8286-401CCF025EE6}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "4",
+      "docket_id": "23-E-0487",
+      "file_name": "in-service meter test plan (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3087148E-0000-CB19-8B2D-2929306C29A6}",
+      "organization": "Hanover Tower Owner LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0487",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FCCC8D-0000-C91F-B34F-9425AB9AD43E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0487",
+      "file_name": "367_23-E-0487 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/05/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Hanover Tower Owner LLC to submeter electricity at 17 Hanover Place, Brooklyn, NY in the territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A00D678A-0000-CE1B-8A6A-867FE0B51B45}",
+      "organization": "Hanover Tower Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0487",
+      "file_name": "submetering application (26).pdf"
+    }
+  ]
+}

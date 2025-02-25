@@ -1,0 +1,60 @@
+{
+  "case": "17-V-0725",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDF68A0A-6866-4E2F-B87D-BA836801F199}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0725",
+      "file_name": "661_17-V-0725.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDC126F6-2559-4E6D-9D27-FA488672247E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0725",
+      "file_name": "17-00869 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2800 Heath Avenue, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2BBAC1D-4B43-4C48-8E38-2F9FEAD3228F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0725",
+      "file_name": "170427 Petition re 2800 Heath Av.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FC2761B-87C9-4BE7-BD93-FA7910F29167}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0725",
+      "file_name": "Exhibit 2 (2800 Heath Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05EA943A-9E03-4DD2-9B0E-05945B153BFD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0725",
+      "file_name": "Exhibit 1 (2800 Heath Av).pdf"
+    }
+  ]
+}

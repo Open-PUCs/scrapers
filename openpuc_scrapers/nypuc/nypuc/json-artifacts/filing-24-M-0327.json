@@ -1,0 +1,38 @@
+{
+  "case": "24-M-0327",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Avangrid Inc. - Iberdrola Verification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7022DF8F-0000-CA14-870D-117CEF2197C3}",
+      "organization": "AVANGRID, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-M-0327",
+      "file_name": "Case 24-M-0327 - Avangrid Inc. - Final Iberdrola Verification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/31/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "PSL Section 70 Petition - Avangrid, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3050D08F-0000-C51F-9A55-DC7E8891D048}",
+      "organization": "AVANGRID, Inc., Iberdrola S.A.",
+      "itemNo": "1",
+      "docket_id": "24-M-0327",
+      "file_name": "Case 24-M-___ - PSL Section 70 Petition - Avangrid, Inc. (5.31.24).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/31/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3050D08F-0000-C43D-BDEA-1F08762F4BF7}",
+      "organization": "AVANGRID, Inc., Iberdrola S.A.",
+      "itemNo": "1",
+      "docket_id": "24-M-0327",
+      "file_name": "Case 24-M-____ - PSL Section 70 Petition - Avangrid Inc. - Cover Letter (5.31.24).pdf"
+    }
+  ]
+}

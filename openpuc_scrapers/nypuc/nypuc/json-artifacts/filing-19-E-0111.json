@@ -1,0 +1,115 @@
+{
+  "case": "19-E-0111",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Carlos Gavilondo Granting Request to Withdraw Petition and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87F3F3D8-9964-41DB-B4B6-1D613EC3C6D4}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "19-E-0111",
+      "file_name": "19-E-0111-Nat. Grid-Clifton Park Demand Project-Closure Ltr. 2.16.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter Withdrawing Innovative Pricing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D343F81-6B73-4B25-A962-22D0F34BF79C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "19-E-0111",
+      "file_name": "01.07.22 Letter Withdrawing Innovative Pricing Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/27/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Comments in Opposition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A64A4642-25E1-4C2D-B298-EBD1166CF9D7}",
+      "organization": "Multiple Intervenors",
+      "itemNo": "6",
+      "docket_id": "19-E-0111",
+      "file_name": "Comments in Opposition (REV Demo Budget January Filing).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing and Response to Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={061833BB-42F1-48BB-8EB6-F8EE72531036}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "19-E-0111",
+      "file_name": "Comments_2020_Jan_24.pdf (58 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB7971E9-32C5-45C9-B841-609FA192E75E}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "19-E-0111",
+      "file_name": "Sec_ltr_01242020.pdf (44 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/08/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Multiple Intervenors",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65EEBB7F-B40C-4A76-B22F-B951A940369A}",
+      "organization": "Multiple Intervenors",
+      "itemNo": "4",
+      "docket_id": "19-E-0111",
+      "file_name": "Comments in Opposition (REV Demo Budget October Filing).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation d/b/a National Grid to Modify the Clifton Park Demand Reduction REV Demonstration Project to Test Innovative Pricing Proposals on an Opt-Out Basis.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1378D6EC-CF28-4F50-9D2B-D5814DB3D927}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "19-E-0111",
+      "file_name": "Case 19-E-0111_Petition_10222019.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D43F653B-E707-4086-BD8A-F2B5DFDF2D37}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "19-E-0111",
+      "file_name": "Case 19-E-0111_Cover Letter_10222019.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Multiple Intervenors - Comments in Partial Opposition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={067370CE-B930-424C-A6AA-558F20D3F778}",
+      "organization": "Multiple Intervenors",
+      "itemNo": "2",
+      "docket_id": "19-E-0111",
+      "file_name": "Comments in Opposition (REV Demo Budget).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/15/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Niagara Mohawk Power Corporation d/b/a National Grid to Modify the Clifton Park Demand Reduction REV Demonstration Project to Test Innovative Pricing Proposals on an Opt-Out Basis.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00A3F914-1552-4076-9230-7779F01AC86C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-E-0111",
+      "file_name": "02.14.19 Clifton Park Innovative Pricing Demonstration Proposal.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0286",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E18F300-4DA7-4338-BAA0-2577B8599E6E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0286",
+      "file_name": "662_21-V-0286 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Village of Woodbury for a Waiver of the Requirements of 16 NYCRR, Sections 894.1 - 894.4",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59E4C071-D8D4-4330-A8FD-B0053233433B}",
+      "organization": "Village of Woodbury",
+      "itemNo": "1",
+      "docket_id": "21-V-0286",
+      "file_name": "Village of Woodbury (002).pdf"
+    }
+  ]
+}

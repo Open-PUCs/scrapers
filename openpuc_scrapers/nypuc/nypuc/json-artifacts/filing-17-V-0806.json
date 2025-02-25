@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0806",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6B60A0B-298E-4AE3-9FD7-051F70C2133C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0806",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Rutland, Jefferson County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70405064-6382-41A0-9C1A-020BD378813E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0806",
+      "file_name": "12.27.17 T Rutland Charter PSC cable franchise renewal.pdf"
+    }
+  ]
+}

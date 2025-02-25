@@ -1,0 +1,104 @@
+{
+  "case": "23-C-0698",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50FF578E-0000-CB14-A7A7-E3E28C2C11C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-C-0698",
+      "file_name": "561_23-C-0698 _31924final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to Stock Transfer Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30A4C68D-0000-CD55-9058-B551686DCA74}",
+      "organization": "Multiple Individuals",
+      "itemNo": "4",
+      "docket_id": "23-C-0698",
+      "file_name": "Supplement to stock transfer petition 02162024.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to Stock Petition Exhibit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30A4C68D-0000-CD35-9818-5F69AFE46612}",
+      "organization": "Multiple Individuals",
+      "itemNo": "4",
+      "docket_id": "23-C-0698",
+      "file_name": "Supplement to stock petition exhibit 02162024.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30A4C68D-0000-C915-8D99-EBB0D3B1C031}",
+      "organization": "Multiple Individuals",
+      "itemNo": "4",
+      "docket_id": "23-C-0698",
+      "file_name": "Supplement to Petition 02162024 Secretary.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplement to Petition 02162024 Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06FC68D-0000-CE70-816A-518D54BC8886}",
+      "organization": "Multiple Individuals",
+      "itemNo": "3",
+      "docket_id": "23-C-0698",
+      "file_name": "Supplement to Petition 02162024 Secretary.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06FC68D-0000-C534-B699-40913A4AF910}",
+      "organization": "Multiple Individuals",
+      "itemNo": "3",
+      "docket_id": "23-C-0698",
+      "file_name": "Supplement to Petition RAO 02162024.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-C-0698 MidTel Stock Transfer StoptheClock.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0FA828C-0000-C219-950D-101537ED5F2D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-C-0698",
+      "file_name": "23-C-0698 MidTel Stock Transfer StoptheClock.Signed.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Multiple Individuals for Authority, Pursuant to Sections 99 and 100 of the Public Service Law, to Transfer and Acquire Common Stock of The Middleburgh Telephone Company and its Regulated Affiliates, and for Waiver of 16 N.Y.C.R.R. Parts 18, 31, and 39.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9034408C-0000-CB3C-A89B-2719DE48DFCC}",
+      "organization": "Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "23-C-0698",
+      "file_name": "Stock transfer petition final clean 120623.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9034408C-0000-C917-99B8-7FC02D02B661}",
+      "organization": "Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "23-C-0698",
+      "file_name": "Stock transfer petition cover letter 120623.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0324",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Arteche IRH-12 Similarity Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B229EAEC-A2A8-4BE3-9065-6422802530A1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0324",
+      "file_name": "Arteche IRH-12 Similarity Approval.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8D83692-8586-46C4-A6E8-E963DD498E66}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0324",
+      "file_name": "367_18-E-0324.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Arteche USA for Approval of the Arteche Low Voltage Metering Class Instrument Transformers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={556F3B72-8169-4BF7-9573-196BA1F7838B}",
+      "organization": "Arteche USA",
+      "itemNo": "1",
+      "docket_id": "18-E-0324",
+      "file_name": "Arteche.pdf"
+    }
+  ]
+}

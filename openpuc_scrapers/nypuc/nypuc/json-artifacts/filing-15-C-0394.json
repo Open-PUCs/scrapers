@@ -1,0 +1,115 @@
+{
+  "case": "15-C-0394",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Amended Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DCE57D-F209-44FE-B4F6-00AC46A965F6}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "15-C-0394",
+      "file_name": "561_15c0394.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/18/2015",
+      "nypuc_doctype": "Motions",
+      "name": "CLI's Opposition to AT&T's Motion to Strike",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F7D651D-91FE-4051-BDD2-FC10E8FB1D9B}",
+      "organization": "Cablevision Lightpath, Inc.",
+      "itemNo": "9",
+      "docket_id": "15-C-0394",
+      "file_name": "CLI Opposition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2015",
+      "nypuc_doctype": "Motions",
+      "name": "ATT Motion to Strike",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56B7DCFD-CCA6-42B4-A275-CA999EFE4990}",
+      "organization": "Mayer Brown LLP",
+      "itemNo": "8",
+      "docket_id": "15-C-0394",
+      "file_name": "NY PSC Case 15-C-0394, ATT Motion to Strike.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Reply ATT PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9AE50ED7-CE18-4BBB-873E-B67AF7690E81}",
+      "organization": "Cablevision Lightpath, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-C-0394",
+      "file_name": "Reply ATT PSC_Sept 16 2015 FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/04/2015",
+      "nypuc_doctype": "Motions",
+      "name": "AT&T's Response to Motion to Dismiss",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7ECAAA3F-9438-470F-A341-B333426A16B2}",
+      "organization": "AT&T Corp.",
+      "itemNo": "6",
+      "docket_id": "15-C-0394",
+      "file_name": "NY PSC No. 15-C-0394, AT&T response to MTD.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/20/2015",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C68975C-0F75-4952-8E37-93F05EDBE34B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-C-0394",
+      "file_name": "15-C-0394-ATT-Extension final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D68FAA2-5C2D-4DE2-8CBE-E86D4581AFE9}",
+      "organization": "AT&T Corp.",
+      "itemNo": "4",
+      "docket_id": "15-C-0394",
+      "file_name": "No. 15-C-0394, Motion to Extend Time.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/13/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21855623-9D51-4710-81EB-C5B5FD4D7AA4}",
+      "organization": "Cablevision Lightpath, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-C-0394",
+      "file_name": "PSC Letter 8-13-15.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/14/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "AT&T Corp.\u00bfs and TC Systems, Inc.\u00bfs Amended Complaint against Cablevision Lightpath, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95C6B99A-2412-4E04-BD65-462B86174E13}",
+      "organization": "AT&T Corp., TC Systems, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-C-0394",
+      "file_name": "Amended Complaint of ATT Corp and TC Systems, Inc Against Cablevision Lightpath Inc 2015.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/06/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint of ATT Corp and TC Systems, Inc Against Cablevision Lightpath Inc 2015",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5AE37120-C34C-48CC-BCE1-462F8424A0CA}",
+      "organization": "AT&T Corp., TC Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-C-0394",
+      "file_name": "Complaint of ATT Corp and TC Systems, Inc Against Cablevision Lightpath Inc 2015.pdf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case": "17-C-0097",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5006EDDF-F8F3-4243-A78D-8F84F6DA18F4}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "17-C-0097",
+      "file_name": "564 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9EB93FD-C63A-45EC-8E40-0F1AC7C05CA6}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "17-C-0097",
+      "file_name": "564 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to MetTel's letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD84C6C1-EEF7-43F4-98EC-0D91ABC7B58E}",
+      "organization": "Allan Rotto Consultants, Inc.",
+      "itemNo": "7",
+      "docket_id": "17-C-0097",
+      "file_name": "Sevenson 4.3.18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "MetTel Letter Re NY Supreme Court Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={234A13FC-8892-4741-A2FE-6466F4D8D6C9}",
+      "organization": "Metropolitan Telecommunications",
+      "itemNo": "6",
+      "docket_id": "17-C-0097",
+      "file_name": "2018-03-06 MetTel Letter Re NY Supreme Court Decision w Attachments.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Manhattan Telecommunications Corporation letter regarding Sevenson Complaint.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={764AB630-A992-4D42-9E08-ACC032B7FB9C}",
+      "organization": "Manhattan Telecommunications Corp.",
+      "itemNo": "5",
+      "docket_id": "17-C-0097",
+      "file_name": "2017-05-23 MetTel Letter Re Sevenson Complaint.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/23/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Attachment 1 - SES Summons and Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E525771E-0697-4974-9208-03C63060632E}",
+      "organization": "Manhattan Telecommunications Corp.",
+      "itemNo": "5",
+      "docket_id": "17-C-0097",
+      "file_name": "Attachment 1 - SES Summons and Complaint.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/16/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "MetTel Response to Sevenson Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C446AF49-F692-4137-BEDB-F309F2F68989}",
+      "organization": "Metropolitan Telecommunications dba MetTel",
+      "itemNo": "4",
+      "docket_id": "17-C-0097",
+      "file_name": "MetTel Response to Sevenson Appeal.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/14/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB057F8F-268E-45CF-8DA8-D17BAEE84AF3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-C-0097",
+      "file_name": "Sevenson Ack Letter 546816.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/14/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1DBC514-CC2B-4BC5-ACAB-0D4B1051EBE2}",
+      "organization": "Sevenson Environmental Services, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0097",
+      "file_name": "Sevenson Appeal 546816.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/14/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC2A6B44-629F-4ABF-B89F-CE74C0E3B5CB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-C-0097",
+      "file_name": "Sevenson Environmental Service, Inc IH Decision 546816.pdf"
+    }
+  ]
+}

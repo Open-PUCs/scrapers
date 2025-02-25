@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0399",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A656E52-9BD4-4324-B9EF-52582ED00656}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0399",
+      "file_name": "375_16-E-0399.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/06/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Petititon",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={279470CD-E3A7-4712-BD8F-8B16C149CFA0}",
+      "organization": "Satec, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-E-0399",
+      "file_name": "325KentLLC_Case16-E-0399_Revised.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 325 Kent LLC c/o Two Trees Management Co., LLC to Submeter Electricity at 325 Kent Ave, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={197E75FC-2321-45F8-AF3C-E7A49021DB4E}",
+      "organization": "Satec, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0399",
+      "file_name": "325KentAveBrooklynNY.pdf"
+    }
+  ]
+}

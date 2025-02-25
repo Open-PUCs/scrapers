@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0474",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1BA8F93-3EAE-4FC7-9E1B-1108F981C8C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "22-V-0474",
+      "file_name": "661_22-V-0474.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00075 Letter to Building Owner Offering Facilitation 601 W 142 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={006E2668-EB3A-4748-B3B0-7C7951E09450}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "22-V-0474",
+      "file_name": "22-00075 Letter to Building Owner Offering Facilitation 601 W 142 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={699D5202-7477-4CEC-91BC-3536C17C14B4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0474",
+      "file_name": "220617_22-00075_601 W 142 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={295C601B-EB92-49AF-9C09-54BC008384CA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0474",
+      "file_name": "220520_22-00075_601 W 142 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7332A0D2-2B6F-476A-8631-65122F0A1AFA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0474",
+      "file_name": "220420_22-00075_601 W 142 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00075 Letter to Verizon 601 West 142nd Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={967D334E-E0D0-4D54-8F29-020A3D23D8DA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0474",
+      "file_name": "22-00075 Letter to Verizon 601 West 142nd Street.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00075 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B509CF3A-35FD-4A62-8CA9-5B673C0FD9A7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0474",
+      "file_name": "22-00075 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 601 West 142nd Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E95C4DD-25DC-4BB5-8598-31649C647C92}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0474",
+      "file_name": "220112-8 Petition (601 W 142 ST) (Post-Survey).pdf"
+    }
+  ]
+}

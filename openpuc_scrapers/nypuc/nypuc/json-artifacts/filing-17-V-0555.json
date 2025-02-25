@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0555",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C87D83A9-6947-429B-9511-CCEA235874CF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0555",
+      "file_name": "664_17-V-0555.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Groveland, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6420AB93-3F06-4B55-B4F0-FAE5D020589F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0555",
+      "file_name": "091817 TN.GROVELAND RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

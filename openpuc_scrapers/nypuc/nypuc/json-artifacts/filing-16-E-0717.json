@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0717",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0939B09-1356-46A1-897F-7A44CFBD3989}",
+      "organization": "Himrod Development LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0717",
+      "file_name": "letter 10-2-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/07/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F557C59D-5AFC-4CB8-BFC7-7865CEA298D8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0717",
+      "file_name": "376_16-E-0717.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Monthly Credit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8404FF64-2232-455F-B0B3-7D33D3BC7D37}",
+      "organization": "Himrod Development LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0717",
+      "file_name": "response letter 7-26-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/20/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C98F093C-D0B0-456D-B61A-B6DD7AD6B2B6}",
+      "organization": "Himrod Development LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0717",
+      "file_name": "revised cover letter 1-20-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Himrod Development LLC to Submeter Electricity at a building located at 336 Himrod Street, Brooklyn, New York 11237, Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={382131C0-B4AB-463D-A4C0-1F269F381043}",
+      "organization": "Himrod Development LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0717",
+      "file_name": "submetering application 12-22-16.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "23-G-0021",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing and Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80F57A91-0000-C217-978E-A749BBD9E188}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-G-0021",
+      "file_name": "161-C_23-G-0021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240708 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109F9390-0000-C41E-BE94-881AAE60B339}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "23-G-0021",
+      "file_name": "20240708 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/01/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={203A6A8D-0000-C615-80EC-76AE924F973B}",
+      "organization": "Bolla Construction, LLC",
+      "itemNo": "4",
+      "docket_id": "23-G-0021",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={607B3C8D-0000-C118-9ADA-11CC9749D729}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0021",
+      "file_name": "161-A_23-G-0021.pdf"
+    }
+  ]
+}

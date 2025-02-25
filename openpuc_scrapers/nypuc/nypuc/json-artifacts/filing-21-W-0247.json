@@ -1,0 +1,49 @@
+{
+  "case": "21-W-0247",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D04356B-840E-4587-8EF9-9994C02E50E5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-W-0247",
+      "file_name": "461_21-W-0247 Confirming Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04972358-B80E-415D-B552-0DB90AA6A6D5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-W-0247",
+      "file_name": "462_21-W-0247 OCO mp rvwd sb.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/11/2021",
+      "nypuc_doctype": "Tariffs",
+      "name": "Revised Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57931214-B336-440F-AF13-9EA682162CE9}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "2",
+      "docket_id": "21-W-0247",
+      "file_name": "LETT PHILLIPS SWNY 19-W-0168_0726 EFF 7_1_2021v1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0247",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "24-C-0107",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60799C8F-0000-CE1E-9040-112786F968CA}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-C-0107",
+      "file_name": "562_24-C-0107_Letter_52124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60799C8F-0000-C539-8AD5-243B7B310FF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-C-0107",
+      "file_name": "562_24-C-0107_Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Email Regarding Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0202A8F-0000-C135-AA8C-D07EC9EFC837}",
+      "organization": "North Meadows Associates, Ltd.",
+      "itemNo": "5",
+      "docket_id": "24-C-0107",
+      "file_name": "Fw_ Case 24-C-0107 (Case #312200)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E09BAE8D-0000-CF17-967C-77AB77A2A5E5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "24-C-0107",
+      "file_name": "240215 Response to Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 02 14 Acknowledgement Letter - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E079AD8D-0000-CB1A-93D2-B6A710358D26}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-C-0107",
+      "file_name": "2024 02 14 Acknowledgement Letter Royall v. Verizon #312200_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 02 09 Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1076AD8D-0000-CD39-B7F2-28C7C479B087}",
+      "organization": "North Meadows Associates, Ltd.",
+      "itemNo": "2",
+      "docket_id": "24-C-0107",
+      "file_name": "2024 02 09 Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 01 25 Informal_Hearing_Request - PSC Response Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D073AD8D-0000-C625-A42A-42D5CA78E160}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-C-0107",
+      "file_name": "2024 01 25 Informal_Hearing_Request -PSC response letter-#312200_Redacted.pdf"
+    }
+  ]
+}

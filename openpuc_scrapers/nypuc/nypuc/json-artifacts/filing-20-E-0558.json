@@ -1,0 +1,104 @@
+{
+  "case": "20-E-0558",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/08/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Jonathan S. Penna Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72F7F158-C614-4FA1-BF94-45B46A2F2B5E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0558",
+      "file_name": "20-E-0558 - Sec Ltr Approving Withdrawal-4-8-21 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "DePaul Albion Housing Development Fund Corporation Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41DC8BD4-CF81-4861-8E4A-B46937FE8F4C}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "2",
+      "docket_id": "20-E-0558",
+      "file_name": "DePaul Albion Housing Development Fund Corporation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "SAPA Notice for DePaul Albion Petition for Waiver of Individual Metering Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71EA81D8-A7B8-41C1-8F08-90A0CEA00D9A}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0558",
+      "file_name": "SAPA Notice for DePaul Albion Petition for Waiver of Individual Metering Requirements.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Case 20-E-___ - Albion Verified Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5CAEE10-AF4D-4E06-9220-EB0CCA6A7E7E}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0558",
+      "file_name": "Case 20-E-___ - Albion Verified Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Case 20-E-__ - Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76DC4564-B2D1-4A20-9FF8-F75A0DBE495C}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0558",
+      "file_name": "Case 20-E-__ - Transmittal Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Attachment",
+      "name": "Attachment D - DePaul Properties Inc_Signed NYSERDA Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F5B5E0-D532-48CF-BA99-D9A7062051C6}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0558",
+      "file_name": "Attachment D - DePaul Properties Inc_Signed NYSERDA Acceptance Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Attachment",
+      "name": "Attachment C - HCR SHOP Commitment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={126D78D2-73AD-4D97-9AE1-B694665E5BC1}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0558",
+      "file_name": "Attachment C - HCR SHOP Commitment.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Attachment",
+      "name": "Attachment B - ESSHI Commitment (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4B18519-FC21-46FC-AD11-46E45B6BE5A7}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0558",
+      "file_name": "Attachment B - ESSHI Commitment (1).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/12/2020",
+      "nypuc_doctype": "Attachment",
+      "name": "Attachment A - DePaul Albion Housing Development Fund Corporation (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1C9E94F-B590-42B7-B64F-2FBAAA9D7480}",
+      "organization": "DePaul Albion Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "20-E-0558",
+      "file_name": "Attachment A - DePaul Albion Housing Development Fund Corporation (1).pdf"
+    }
+  ]
+}

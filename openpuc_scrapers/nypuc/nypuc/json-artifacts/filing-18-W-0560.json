@@ -1,0 +1,38 @@
+{
+  "case": "18-W-0560",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/10/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "SUEZ Water Westchester Inc.",
+      "itemNo": "3",
+      "docket_id": "18-W-0560",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Surcharge",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D872C4E-E99F-48EC-9A64-15C00A311D2A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-W-0560",
+      "file_name": "463_18-W-0560.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of City of Rye pursuant to Chapter 433 of 2013 to Distribute Public Safety Infrastructure Costs Across Water Rate Base.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD8B9745-78D7-40F3-8F26-1C24430A9920}",
+      "organization": "City of Rye",
+      "itemNo": "1",
+      "docket_id": "18-W-0560",
+      "file_name": "letter-application-petition-City of Rye-8-29-18.pdf"
+    }
+  ]
+}

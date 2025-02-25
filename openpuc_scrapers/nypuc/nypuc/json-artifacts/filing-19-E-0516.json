@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0516",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38F3D382-E844-41B3-BA50-5AA13487B19D}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "19-E-0516",
+      "file_name": "362 Determination 2.17.2021 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30C16557-C5F5-4799-9AA0-AA75B772AE4F}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0516",
+      "file_name": "362 Letter 2.17.2021 Redact final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F530EB46-9596-48D6-BE3E-73958ED81DFE}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "19-E-0516",
+      "file_name": "Case 19-E-0516 Con Edison Response..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Review_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A33A7E5-CD03-4F2C-9F8C-296FE589D9B2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-E-0516",
+      "file_name": "926250 Cambero_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Informal Review Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A33E3E3E-B45D-436C-AD54-28A952531EF0}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "19-E-0516",
+      "file_name": "Cambero Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={213FB292-A763-4BAF-8902-A7F66EC89AE2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0516",
+      "file_name": "Cases826250 & 643288-Cambero Extension Ruling_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D82F81D5-A877-4CEC-B6ED-6EE7CE6AC5D1}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-E-0516",
+      "file_name": "Cambero Ext request .pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F18A6ABA-FAE3-4834-8A28-74A79B3BE93E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0516",
+      "file_name": "IR Cases 643288 & 826250 (Ms. Cambero vs Con Edison) Closing decision_Redacted.pdf"
+    }
+  ]
+}

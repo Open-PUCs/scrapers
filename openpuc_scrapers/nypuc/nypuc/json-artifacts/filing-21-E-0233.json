@@ -1,0 +1,82 @@
+{
+  "case": "21-E-0233",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/10/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB2B1643-8F6E-44E8-ADF2-89A9476743AF}",
+      "organization": "445 Gerard LLC",
+      "itemNo": "7",
+      "docket_id": "21-E-0233",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1022F59C-DE30-48B2-8895-A239B3EF65B2}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0233",
+      "file_name": "364_21-E-0233.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/30/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74CAA4FA-D529-4BCF-BA1F-501CB5C2F699}",
+      "organization": "445 Gerard LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0233",
+      "file_name": "response letter 9-29-21.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF95C71E-415F-464D-8B2D-D03418B7E6D4}",
+      "organization": "445 Gerard LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0233",
+      "file_name": "additional information .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 445 Gerard Avenue, Bronx, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FC480C5-6077-4A4A-BC1A-F64498DE0232}",
+      "organization": "445 Gerard LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0233",
+      "file_name": "additional information 5-13-21.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information for 445 Gerard",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B64956BD-3A4F-43AE-B9A7-BF966A516A61}",
+      "organization": "445 Gerard LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0233",
+      "file_name": "Additional Information for 445 Gerard.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 445 Gerard LLC to submeter electricity at 445 Gerard Avenue, Bronx, NY in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A51E947A-02E8-439E-B87C-E4E58C6A066C}",
+      "organization": "445 Gerard LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0233",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

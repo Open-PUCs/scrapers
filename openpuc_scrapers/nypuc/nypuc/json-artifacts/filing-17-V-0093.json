@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0093",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF273433-87B5-444C-8D94-3C4702BD4CD2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0093",
+      "file_name": "661_17-V-0093.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Public Hearing Notice and Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={105FAD4E-AF08-4748-8B6D-8DFCCFD6E70E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0093",
+      "file_name": "Town of Friendship Replacement Notice pdf.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Friendship, County of Allegany, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01E1A66E-5FEC-46FB-8BB9-7E42D44F6713}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0093",
+      "file_name": "02.13.17 - TOWN OF FRIENDSHIP RENEWAL DOCS-SUBMIT TO PSC.pdf"
+    }
+  ]
+}

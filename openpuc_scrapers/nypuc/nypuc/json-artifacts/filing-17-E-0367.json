@@ -1,0 +1,126 @@
+{
+  "case": "17-E-0367",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/27/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFF99C09-9249-4917-99A2-F7A361D76C6D}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "11",
+      "docket_id": "17-E-0367",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E4B9767-C8C2-4B5A-AF42-B86D750F935A}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "17-E-0367",
+      "file_name": "364_17-E-0367.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3ADCD916-487E-46D5-9BBA-660663CB5574}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "9",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 11-19-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/17/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61D24437-7980-4E1A-AEFB-071AA351C7B0}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "8",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 10-16-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/03/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF392D06-8FBF-467C-A313-B550EA5B57B5}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "7",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 10-3-18.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEF19949-AAF5-49C9-97BD-27C7C0F21E76}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "6",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 9-10-18.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/04/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5276BC89-6316-49F0-9B0C-A300C49A3CCC}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "5",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 5-4-18.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D747518-32C4-4B48-A4BA-2EDF073EEF1C}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "4",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 11-15-17.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E98412D-4CD1-4E63-B037-E811F76E3710}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "3",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 10-11-2017.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5624EEC1-B8B8-443E-B665-9774E49C81DA}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "2",
+      "docket_id": "17-E-0367",
+      "file_name": "response letter 7-13-17.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "06/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 11737 Owners Corp. to Submeter Electricity at 117 East 37th Street, New York, NY Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E503B05D-0BCB-45A9-857F-4C73B5185E2C}",
+      "organization": "11737 Owners Corp.",
+      "itemNo": "1",
+      "docket_id": "17-E-0367",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

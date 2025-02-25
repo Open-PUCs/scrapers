@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0454",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73710073-D36F-4782-9383-9C7C8EE24E63}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0454",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Fort Ann, Washington County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B12BFF3-12E0-4298-9D95-80984D943459}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0454",
+      "file_name": "PSC VFortAnnNY June2019.pdf"
+    }
+  ]
+}

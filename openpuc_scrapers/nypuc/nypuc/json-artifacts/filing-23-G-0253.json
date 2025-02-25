@@ -1,0 +1,93 @@
+{
+  "case": "23-G-0253",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "KeySpan Gas East Corp. dba Brooklyn Union of L.I.",
+      "itemNo": "9",
+      "docket_id": "23-G-0253",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "The Brooklyn Union Gas Company",
+      "itemNo": "8",
+      "docket_id": "23-G-0253",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/24/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "KeySpan Gas East Corp. dba Brooklyn Union of L.I.",
+      "itemNo": "7",
+      "docket_id": "23-G-0253",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/24/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "The Brooklyn Union Gas Company",
+      "itemNo": "6",
+      "docket_id": "23-G-0253",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Waiver and Modification of Tariff Provisions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B5098A-0000-C716-9074-32FD7DED60F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0253",
+      "file_name": "162_23-G-0253_81823final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "05.24.23 Notice of KEDNY_KEDLI NUP Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={802D4E88-0000-CB1F-BE77-BD7B68EE6CAF}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "23-G-0253",
+      "file_name": "05.24.23 Notice of KEDNY_KEDLI NUP Filing.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Amended KEDNY and KEDLI Net Utility Plant and Depreciation Expense Petition for Waiver and Modification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B03488-0000-C515-96DB-E9363661BBE2}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "3",
+      "docket_id": "23-G-0253",
+      "file_name": "Amended KEDNY and KEDLI Net Utility Plant and Depreciation Expense Petition for Waiver and Modification.docx (FINAL).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/12/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "KEDNY and KEDLI Net Utility Plant and Depreciation Expense Petition for Waiver and Modification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007B1188-0000-C41F-97E8-D61A1D534B13}",
+      "organization": "KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "23-G-0253",
+      "file_name": "KEDNY and KEDLI Net Utility Plant and Depreciation Expense Petition for Waiver and Modification.docx (FINAL).pdf"
+    }
+  ]
+}

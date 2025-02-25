@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0409",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Submetering at 211 Sea Foam Meter Testing Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A375DB44-B6F8-4BB4-B2A2-B4F4A586927D}",
+      "organization": "211 Sea Foam Properties, LLC",
+      "itemNo": "7",
+      "docket_id": "19-E-0409",
+      "file_name": "Submetering at 211 Sea Foam Meter Testing Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/23/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88904CBB-9899-4CA8-B38D-B606A62B878D}",
+      "organization": "211 Sea Foam Properties, LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0409",
+      "file_name": "211_Seafoam_Acceptance Letter_(19-E-0409)..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5B5CA2F-3F1A-49A3-8C54-68CBF0C7399D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0409",
+      "file_name": "368_19-E-0409.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FB5185D-16B8-4686-965F-896C1C132712}",
+      "organization": "211 Sea Foam Properties, LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0409",
+      "file_name": "211 Seafoam_Information Request_9-10-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/05/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC1F5801-4D27-4F20-9AD1-352379254ED5}",
+      "organization": "211 Sea Foam Properties, LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0409",
+      "file_name": "211 Seafoam_Waiver Request 96.5-k-3 (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Additional Documentation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FEE2409-A032-420F-BB35-56BE19952CA0}",
+      "organization": "211 Sea Foam Properties, LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0409",
+      "file_name": "211 Seafoam_Document Request 96.5-L 06.05.2019.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 211 Sea Foam Properties, LLC to Submeter Electricity at 211 West 29th Street, New York, NY 10001, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89F623FE-5DD2-464A-B421-01D692906EB1}",
+      "organization": "211 Sea Foam Properties, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0409",
+      "file_name": "211_Seafoam_Petition_to_Submeter_to_PSC_5-29-19_(2).pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0010",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07ADD8C5-CC69-47E6-AD76-3022C05ECCA9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0010",
+      "file_name": "661_20-V-0010 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Great Valley, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FE1D9D8-4ED5-4EC9-9764-8A2C531027F0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0010",
+      "file_name": "010820 - T. GREAT VALLEY RENEWAL TO PSC.pdf (7 MB)"
+    }
+  ]
+}

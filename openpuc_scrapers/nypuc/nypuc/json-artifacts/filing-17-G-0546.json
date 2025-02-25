@@ -1,0 +1,60 @@
+{
+  "case": "17-G-0546",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3406F1AA-7CD2-419A-8816-4705C600CC1E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0546",
+      "file_name": "162 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E8A25CC-A619-4EA2-B09B-6E0EFB9A50BF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0546",
+      "file_name": "162 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/08/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0BE1B96-0E67-4AA6-87B0-133149E066A7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-G-0546",
+      "file_name": "323651-323653 Appeal ACK Letter-FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/08/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE6C8E51-DF3A-4394-9273-A4B95CB56F1C}",
+      "organization": "Park City Estates Tenants Corporation",
+      "itemNo": "2",
+      "docket_id": "17-G-0546",
+      "file_name": "Park City Appeal 323651.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/08/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF6EC67B-C7FC-4EFB-9793-7C55B30BFA9A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-G-0546",
+      "file_name": "Park City- Informal Review Decision.pdf"
+    }
+  ]
+}

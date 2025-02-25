@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0436",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter From Secretary Burgess Closing Matter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DED99697-780E-451B-994B-1524BEEE1139}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0436",
+      "file_name": "Matter 16-01176-Verizon-Closure Ltr..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABAD2DF6-D798-49A4-854B-D1BC25AE2135}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0436",
+      "file_name": "191007 Letter re 123 Bank St (withdrawal).pdf (57 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner regarding Verizon Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A2363B5-6FB7-4758-9CEF-5861EAF8212F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-V-0436",
+      "file_name": "16-01176 Master Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADD54C9C-E640-417E-A195-6D6B0BBD2899}",
+      "organization": "Elk Investors",
+      "itemNo": "2",
+      "docket_id": "17-V-0436",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/06/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 123 Bank Street, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2687078-1670-46C5-9A88-1EE082AAEF00}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0436",
+      "file_name": "160606 Petition re 123 Bank Street.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/06/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF650AD1-C105-4EBF-98B8-6072E5CD3035}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0436",
+      "file_name": "160606 Exhibit 2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/06/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FB213E5-549A-4649-B00E-56BA5727234B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0436",
+      "file_name": "160606 Exhibit 1.pdf"
+    }
+  ]
+}

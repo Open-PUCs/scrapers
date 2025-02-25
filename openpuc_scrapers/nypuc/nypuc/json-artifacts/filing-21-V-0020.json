@@ -1,0 +1,60 @@
+{
+  "case": "21-V-0020",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={867D6170-C4BF-4044-8B2C-BBA5FA991D10}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0020",
+      "file_name": "662_21-V-0020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02768.Order of Entry Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E39AD991-5722-4A5E-90A5-3BD64325E35C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0020",
+      "file_name": "19-02768.Order of Entry Letter.docx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 35 East 9th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={198C2F54-87A5-4D59-93E4-2B65B109AAE0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0020",
+      "file_name": "Petition (35 E 9 ST).pdf (95 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D30D27B8-69BE-4FAE-8C75-4E45C4D1CBB0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0020",
+      "file_name": "Exhibit 2 (35 E 9 ST).pdf (88 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BAB15F0-20E7-4564-A408-3CDD27BABBFF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0020",
+      "file_name": "Exhibit 1 (35 E 9 ST).pdf (1 MB)"
+    }
+  ]
+}

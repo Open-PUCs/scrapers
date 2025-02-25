@@ -1,0 +1,49 @@
+{
+  "case": "15-V-0459",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DD04916-5608-4835-8210-762B4854E6CC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0459",
+      "file_name": "663_15V0459.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Claverack public notice for filing to PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67B65BC4-FFDF-46B1-BC03-90A96B5CAD11}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0459",
+      "file_name": "Town of Claverack public notice for filing to PSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/24/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6389BCC2-7BB1-4806-8329-12F2B94CC87C}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0459",
+      "file_name": "Filing Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/06/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Town of Claverack (including the Village of Philmont), Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A6E6A3A-B578-4F2D-AB9E-409E67F1260C}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0459",
+      "file_name": "MHC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "20-V-0419",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD4DC603-A6CD-49CD-9486-960FF10A3156}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0419",
+      "file_name": "661_20-V-0419 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12F99FB2-E499-4A8C-99F1-8B57FAB99024}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0419",
+      "file_name": "Babylon Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Town of Babylon, Suffolk County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89B40C2F-7E87-406B-A3AE-AD0E3D029487}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0419",
+      "file_name": "Babylon Renewal Petition (complete).pdf"
+    }
+  ]
+}

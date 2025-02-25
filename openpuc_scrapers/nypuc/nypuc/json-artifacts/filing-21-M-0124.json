@@ -1,0 +1,49 @@
+{
+  "case": "21-M-0124",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "032464_Lumsden_SMR_Ack_022221_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71BEE022-1FEC-4CE4-81FE-D62B5F2FFCB4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-M-0124",
+      "file_name": "032464_Lumsden_SMR_Ack_022221_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "032464_Lumsden_Rehearing Request 02212021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E0CE430-77BA-406C-8D14-B5C89879DA7E}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-M-0124",
+      "file_name": "032464_Lumsden_Rehearing Request 02212021_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "032464_Lumsden_SMD_Final_012721_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D24A0D20-7C95-490D-A650-699C0CDF8BA3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-M-0124",
+      "file_name": "032464_Lumsden_SMD_Final_012721_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9908C390-1D25-4F89-9EB8-F93EB19CDCBC}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-M-0124",
+      "file_name": "262 Letter 21-M-0124 final_Redacted.pdf"
+    }
+  ]
+}

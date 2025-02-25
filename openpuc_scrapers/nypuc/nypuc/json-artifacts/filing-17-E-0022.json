@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0022",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "518115 1219 W Realty Ack Letter 01192017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67A65FCB-A92B-49A9-80DB-E8D3EBC18E48}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "17-E-0022",
+      "file_name": "518115 1219 W Realty Ack Letter 01192017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "518115 1219 W Realty Rehearing Request 01102017",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1032C8A5-BDDB-4573-BEDF-E62DC529CADD}",
+      "organization": "1219 W. Realty LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0022",
+      "file_name": "518115 1219 W Realty Rehearing Request 01102017 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "518115 1219 W Realty SMD Final 10112016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B89F5E60-FCA9-4584-80E8-FA0BC3F1EBD9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0022",
+      "file_name": "518115 1219 W Realty SMD Final 10112016_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B1C2428-A172-4199-9AFC-6153EB2269D5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0022",
+      "file_name": "518115 17-E-0022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a rehearing petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={000A3297-517A-4E39-91ED-DED21DFE87B8}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0022",
+      "file_name": "383_17-E-0022 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={168AE4A7-8D60-456B-8A36-7A92568C262C}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0022",
+      "file_name": "383_17-E-0022 Determination.pdf"
+    }
+  ]
+}

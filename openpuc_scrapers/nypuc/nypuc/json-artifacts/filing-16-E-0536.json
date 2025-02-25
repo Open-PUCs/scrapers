@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0536",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/18/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={443949D6-C795-4DD8-AC11-0111ED3EC6F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0536",
+      "file_name": "373_16e0536.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6E937C8-4210-4A33-BE44-CD1B0D373B98}",
+      "organization": "Noble Altona Windpark, LLC, Noble Bliss Windpark, LLC, Noble Chateaugay Windpark, LLC, Noble Clinton Windpark, LLC, Noble Ellenburg Windpark, LLC, Noble Environmental Power, LLC, Noble Wethersfield Windpark, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0536",
+      "file_name": "Noble Trade Secret Request 09-16-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Noble Altona Windpark, LLC; Noble Bliss Windpark, LLC; Noble Chateaugay Windpark, LLC; Noble Clinton Windpark, LLC; Noble Ellenburg Windpark, LLC; Noble Environmental Power, LLC; Noble Wethersfield Windpark, LLC for a Declaratory Ruling Invoking the Wallkill Presumption or for Expedited Approval Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C5B924F-1212-4AD7-9307-8AC4EA33123F}",
+      "organization": "Noble Altona Windpark, LLC, Noble Bliss Windpark, LLC, Noble Chateaugay Windpark, LLC, Noble Clinton Windpark, LLC, Noble Ellenburg Windpark, LLC, Noble Environmental Power, LLC, Noble Wethersfield Windpark, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0536",
+      "file_name": "PSC Secretary 09-16-16 - FINAL.pdf"
+    }
+  ]
+}

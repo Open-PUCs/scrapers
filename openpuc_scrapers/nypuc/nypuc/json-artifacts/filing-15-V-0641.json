@@ -1,0 +1,60 @@
+{
+  "case": "15-V-0641",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76BA3CAA-8E2B-47E2-9B9F-BF5E75F18E9A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-V-0641",
+      "file_name": "665_15v0641.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "TOWN OF LONG LAKE LEGAL NOTICE",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25CBD26A-F4A7-492B-84E8-F0B9AD0AADEB}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-V-0641",
+      "file_name": "TOWN OF LONG LAKE LEGAL NOTICE.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9322A4CC-53E4-410D-8FD7-372FD1F465FA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-V-0641",
+      "file_name": "Signed EAF.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/12/2015",
+      "nypuc_doctype": "Reports",
+      "name": "Town of Long Lake-SEQR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E67E836-E9B4-4C81-AE5F-9B47F6471F27}",
+      "organization": "Town of Long Lake",
+      "itemNo": "2",
+      "docket_id": "15-V-0641",
+      "file_name": "Long Lake SEQR Packet.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of SLIC Network Solutions, Inc. for a Certificate of Confirmation for its Franchise with the Town of Long Lake, Hamilton County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60E30F06-CFCE-4B9F-97E8-7B78B2B9D06E}",
+      "organization": "SLIC Network Solutions, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0641",
+      "file_name": "Long Lake Franchise Packet.pdf"
+    }
+  ]
+}

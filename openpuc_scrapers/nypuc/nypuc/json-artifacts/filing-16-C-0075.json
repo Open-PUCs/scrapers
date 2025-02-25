@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0075",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/10/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY_Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C08EBC45-30FF-4011-AC7C-607350583698}",
+      "organization": "PEG Bandwidth NY, LLC",
+      "itemNo": "3",
+      "docket_id": "16-C-0075",
+      "file_name": "NY_Notice of Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/17/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53233A28-C667-4123-8265-34251F54CCB9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0075",
+      "file_name": "563_16c0075.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/14/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Communications Sales & Leasing, Inc. and PEG Bandwidth Holdings, LLC and PEG Bandwidth NY, LL for Approval to Transfer Control of PEG Bandwidth NY, LL to Communications Sales & Leasing, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8ECF3AD5-BE12-489A-A9D9-78E0D1D23F56}",
+      "organization": "Communications Sales & Leasing, Inc., PEG Bandwidth Holdings, LLC, PEG Bandwidth NY, LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0075",
+      "file_name": "CSAL_PEG BandwidthTransfer Application.pdf"
+    }
+  ]
+}

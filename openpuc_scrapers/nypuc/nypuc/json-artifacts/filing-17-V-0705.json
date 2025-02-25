@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0705",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={459BA87D-C768-4018-827A-EA5EF971DE81}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0705",
+      "file_name": "661_17-V-0705.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Palatine Bridge of Montgomery County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF63C101-B23E-4982-BE5D-4BEC9FAEC650}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0705",
+      "file_name": "11.15.17 V Palatine Bridge Chater PSC cable franchise renewal application.pdf"
+    }
+  ]
+}

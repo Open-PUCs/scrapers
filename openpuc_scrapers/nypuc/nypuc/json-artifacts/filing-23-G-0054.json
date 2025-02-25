@@ -1,0 +1,71 @@
+{
+  "case": "23-G-0054",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B096488B-0000-C01B-998C-CA285B1E8FCC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0054",
+      "file_name": "163 - 23-G-0054 - Letter 101923.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B096488B-0000-CF3B-91E9-34C84F93B75B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-G-0054",
+      "file_name": "163 - 23-G-0054 - Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Company Response Appeal OCS Case 949598 Diane Wright",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80F01E8A-0000-C010-AC0A-77BB8BA1579F}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "23-G-0054",
+      "file_name": "Company Response Appeal OCS Case 949598 Diane Wright.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/31/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EFDE81E-5BFA-4AFD-81E2-FEB75A1B9781}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0054",
+      "file_name": "2023 01 30 Case No. 949598 Diane Wright v Brooklyn Union Gas Company Ack letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/31/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4352346C-30CC-482A-B2D2-E53611F1DD42}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-G-0054",
+      "file_name": "Diane Wright APPEAL Complete Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/31/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_01.09.23 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C38772A-513F-4DD0-BA0B-1D1FBF79730A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0054",
+      "file_name": "DPS_Case_949598_(Diane_Wright_vs_National_Grid)_Informal_Hearing_decision_01.09.23Redacted.pdf"
+    }
+  ]
+}

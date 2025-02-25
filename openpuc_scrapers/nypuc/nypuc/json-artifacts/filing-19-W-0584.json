@@ -1,0 +1,82 @@
+{
+  "case": "19-W-0584",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/31/2020",
+      "nypuc_doctype": "Reports",
+      "name": "RRWD Customer Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93E09277-06D0-4CAE-8141-5446BE757F01}",
+      "organization": "River Road Water District",
+      "itemNo": "5",
+      "docket_id": "19-W-0584",
+      "file_name": "Lett.19-W-0584.RRWD.Customer Notice .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/31/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5737DB69-CC10-4849-8E22-61B31CAA1297}",
+      "organization": "River Road Water District",
+      "itemNo": "5",
+      "docket_id": "19-W-0584",
+      "file_name": "Lett.19-W-0584.RRWD.Compliance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Tariffs",
+      "name": "SUPP.River Road.CANC.2.1.20w.19-W-0584.RR.CancSup",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C2C0B82-A83E-4158-84A7-AECFC2E53DF0}",
+      "organization": "River Road Water District",
+      "itemNo": "4",
+      "docket_id": "19-W-0584",
+      "file_name": "SUPP.River Road.CANC.2.1.20w.19-W-0584.RR.CancSup.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Tariffs",
+      "name": "LETT.19-W-0584.River Road Cancellation.2.1.20 (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3659BCD8-4A6D-46E8-9C88-E062578E702F}",
+      "organization": "River Road Water District",
+      "itemNo": "4",
+      "docket_id": "19-W-0584",
+      "file_name": "LETT.19-W-0584.River Road Cancellation.2.1.20 (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "River Road Water District",
+      "itemNo": "3",
+      "docket_id": "19-W-0584",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Rate Increase",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98089B67-6165-42D4-9CA9-57ECB816CE54}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-W-0584",
+      "file_name": "462_19-W-0584.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/11/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "River Road Water District",
+      "itemNo": "1",
+      "docket_id": "19-W-0584",
+      "file_name": ""
+    }
+  ]
+}

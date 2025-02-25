@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0499",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEB94969-BD60-4E15-A700-91163577410E}",
+      "organization": "123 Linden LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0499",
+      "file_name": "Order Certification_123 Linden_PSC filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28318563-C7E2-446C-88F0-F3E22030F3D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0499",
+      "file_name": "366_19-E-0499.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/29/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DBB4F92-70C6-4024-B6DD-7D7139564C92}",
+      "organization": "123 Linden LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0499",
+      "file_name": "Supplemental Filing_10.29.19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D93408E-532F-4856-99F1-2872A7801A97}",
+      "organization": "123 Linden LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0499",
+      "file_name": "Staff Questions_123 Linden.as filed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/09/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of 123 Linden LLC to Submeter Electricity at 123 Linden Boulevard, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DAD8FF7-F2B9-4594-8957-9FF6A2F0A3C6}",
+      "organization": "123 Linden LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0499",
+      "file_name": "Submetering Notice of Intent_123 Linden Boulevard.pdf"
+    }
+  ]
+}

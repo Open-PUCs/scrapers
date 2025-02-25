@@ -1,0 +1,71 @@
+{
+  "case": "16-G-0470",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD428554-A3BB-44EE-8350-EC77626B9EAF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-G-0470",
+      "file_name": "164 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1890D1FA-C1C5-493D-B489-DA5DCC9D86F4}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-G-0470",
+      "file_name": "164 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Utility Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2BD30BF6-186A-41B6-942B-442DD521C95E}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "16-G-0470",
+      "file_name": "Saunders Street 091916.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C83CD401-809F-40C2-8F6D-A7AF9A803CFC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0470",
+      "file_name": "427613 Acknowledgement Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/18/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={731C9B94-9542-438C-AC74-4E9BC1AF478E}",
+      "organization": "6561 Saunders Street Association",
+      "itemNo": "2",
+      "docket_id": "16-G-0470",
+      "file_name": "427613 6561 Saunders v National Grid.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/18/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0196B06-B128-4EB3-A593-1569ADCBBF20}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0470",
+      "file_name": "6561 Saunders Street Assoc. vs NG NY 427613.pdf"
+    }
+  ]
+}

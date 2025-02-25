@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0481",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F05E5D8B-0000-CE12-A3CE-CA213546253B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0481",
+      "file_name": "662_23-V-0481 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01408 20-Day Letter to Building Owner 85-15 120th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0AC6889-0000-C91B-853F-8F42A8A34B9A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0481",
+      "file_name": "23-01408 20-Day Letter to Building Owner 85-15 120th Street.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition - Courtyard Gardens 6.28.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A07A0389-0000-CF2F-83B9-224D3CB724A8}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0481",
+      "file_name": "Petition - Courtyard Gardens 6.28.2023.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - Courtyard Gardens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907A0389-0000-CD12-AB79-B3FE48800511}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0481",
+      "file_name": "Exhibit 2 - Courtyard Gardens.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - Courtyard Gardens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907A0389-0000-CA51-A23D-CB1FF444C68D}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0481",
+      "file_name": "Exhibit 1 - Courtyard Gardens.xlsx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907A0389-0000-CB3A-8AE5-6246D7D8269B}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0481",
+      "file_name": "Cover Letter - Courtyard Gardens- Order of Access.pdf"
+    }
+  ]
+}

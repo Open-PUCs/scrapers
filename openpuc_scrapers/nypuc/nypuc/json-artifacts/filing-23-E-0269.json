@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0269",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107F328D-0000-CA12-B12A-81118C09D230}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0269",
+      "file_name": "368_23-E-0269_1.22.24_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2023",
+      "nypuc_doctype": "Letters",
+      "name": "233765 Coffey SMR Ack 05082023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B03A2688-0000-CD19-A708-3C3877010A34}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0269",
+      "file_name": "233765 Coffey SMR Ack 05082023_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "233765 Request for Rehearing_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80392688-0000-C819-8E60-3FB6A8BF51A2}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0269",
+      "file_name": "233765 Request for Rehearing_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/16/2023",
+      "nypuc_doctype": "Letters",
+      "name": "233765_Coffey_SMD_Final_04052023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30372688-0000-C313-83F6-01892836C3E1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0269",
+      "file_name": "233765_Coffey_SMD_Final_04052023_Redacted.pdf"
+    }
+  ]
+}

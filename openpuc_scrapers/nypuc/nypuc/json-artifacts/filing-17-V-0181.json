@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0181",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/23/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE78F63F-9001-4711-A7A5-0AAA592F550C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0181",
+      "file_name": "663_17-V-0181.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/31/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Jerusalem, Yates County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F975D8F-EB57-4E8F-948C-9FEC47DB1BDE}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0181",
+      "file_name": "JERUSALEM, TOWN RENEWAL DOCS TO PSC, 03.14.17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0653",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AE3D3F2-6F62-4E83-B2CC-AF13DA0B067C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0653",
+      "file_name": "662_22-V-0653 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D626923-24CE-4EC5-BB8F-5ED47C5A86E3}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "2",
+      "docket_id": "22-V-0653",
+      "file_name": "AUSA Newspaper Cover Letter - Lindenhurst, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Lindenhurst, V",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BE2A485-AFA5-49CF-9600-DBF1B8642477}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "2",
+      "docket_id": "22-V-0653",
+      "file_name": "AUSA Newspaper Affidavit - Lindenhurst, V.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F74D50E2-AB5C-42D8-B71F-F4DB48355867}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0653",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Lindenhurst, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BB23A67-678F-48D4-AE2E-8B6909C42915}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0653",
+      "file_name": "Exhibit IV - Lindenhurst, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9AA39611-7577-4E03-BD1E-5A17D4C30911}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0653",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05DCDFE5-5AF0-43CE-9883-169DF9556634}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0653",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={094A987F-AAE8-40B1-8A78-659DC29DD430}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0653",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56E2C830-4BDC-46E5-B2E8-DA9CEF139560}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0653",
+      "file_name": "Application Cover Letter - Lindenhurst, V..pdf"
+    }
+  ]
+}

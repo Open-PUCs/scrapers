@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0637",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "EDF - AES petition final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D03F0C93-0000-C124-B59C-9D4A44679357}",
+      "organization": "ACE DevCo NC, LLC, EDF-RE US Development, LLC, Homer Solar Energy Center, LLC, Moraine Solar Energy Center, LLC, Tracy Solar Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0637",
+      "file_name": "EDF - AES petition final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C03F0C93-0000-CD1A-8B4C-1495F3ECD23C}",
+      "organization": "ACE DevCo NC, LLC, EDF-RE US Development, LLC, Homer Solar Energy Center, LLC, Moraine Solar Energy Center, LLC, Tracy Solar Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0637",
+      "file_name": "cover letter.pdf"
+    }
+  ]
+}

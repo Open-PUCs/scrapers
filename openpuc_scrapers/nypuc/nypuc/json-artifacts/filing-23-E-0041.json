@@ -1,0 +1,115 @@
+{
+  "case": "23-E-0041",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/12/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Revelo E660 w Ferrites Similarity Approval UPDATED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06E0D90-0000-CC13-B330-7E7505630DD3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "23-E-0041",
+      "file_name": "Revelo E660 w Ferrites Similarity Approval UPDATED (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Landis+Gyr Revelo E660 With Ferrite - Letter of Intent - Revised",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B1378D-0000-C01B-AA6B-4ABEE1A6F2EC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "23-E-0041",
+      "file_name": "Landis+Gyr Revelo E660_With_Ferrite - Letter of Intent-012324.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Intent to Use Landis+Gyr Revelo E660 1.2 Wi-SUN Meters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A006EA8C-0000-C21A-9443-AD14B3159EA6}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "23-E-0041",
+      "file_name": "Landis+Gyr Revelo E660 1_2 - Letter of Intent-010824-US-L-J178DB3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Meter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10EE188A-0000-CA1D-ACFD-BE67FB4F89D0}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0041",
+      "file_name": "364_23-E-0041 .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/21/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6027A587-0000-C41A-91F9-7CD09D24B299}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "4",
+      "docket_id": "23-E-0041",
+      "file_name": "Landis+Gyr Revelo E660 Meter Confidentiality Request Letter-042123.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/21/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Landis+Gyr Revelo E660 Test Report Summary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={408FA487-0000-CD34-9997-8D1B9C3BA57F}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "3",
+      "docket_id": "23-E-0041",
+      "file_name": "Landis+Gyr Revelo E660 Test Report Summary.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/21/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={408FA487-0000-C21C-9427-76573BDBFDB2}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "3",
+      "docket_id": "23-E-0041",
+      "file_name": "Cover Letter - Meter Test Report 23-E-0041.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Landis+Gyr Revelo E660 - Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C42D63A5-7A4A-48D5-8EEA-12A52BA3820C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0041",
+      "file_name": "Landis+Gyr Revelo E660 - Letter of Intent.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Landis+Gyr Revelo E660 Meter Approval Request.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFB3BEC5-3C1F-4FD8-9F50-233EF753307E}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0041",
+      "file_name": "Landis+Gyr Revelo E660 Meter Approval Request 18-Jan-2023.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter - Meter Approval Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1F3207C-F8A8-41A8-9152-A228976B84BE}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0041",
+      "file_name": "Cover Letter - Meter Approval Request.pdf"
+    }
+  ]
+}

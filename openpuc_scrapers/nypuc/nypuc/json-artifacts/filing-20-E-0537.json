@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0537",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "414 Onderdonk Ack Letter 10232020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD5400D3-7EAC-43EC-9BF8-395FFA70797B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0537",
+      "file_name": "20-E-0537 414 Onderdonk Ack Letter 10232020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "414 Onderdonk Rehearing Request 10202020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1417C215-14F6-4BCA-9F82-30EE35B8D5E6}",
+      "organization": "414 Onderdonk LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0537",
+      "file_name": "20-E-0537 414 Onderdonk Rehearing Request 10202020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "414 Onderdonk SMD Final 09252020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FE2A9DF-EEE2-4C09-8C9E-B124AC14379C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0537",
+      "file_name": "20-E-0537 414 Onderdonk SMD Final 09252020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A67317D-4BE2-415E-A334-688C9D900FEA}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0537",
+      "file_name": "361 Letter_Redacted.pdf"
+    }
+  ]
+}

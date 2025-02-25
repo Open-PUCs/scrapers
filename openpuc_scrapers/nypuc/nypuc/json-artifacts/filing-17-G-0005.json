@@ -1,0 +1,71 @@
+{
+  "case": "17-G-0005",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D959285-C726-4579-8E56-DB1CF399FE9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-G-0005",
+      "file_name": "168 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC9AF071-4F51-4289-B09D-BE2BE7BA6976}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-G-0005",
+      "file_name": "168 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/31/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Customer's Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC90E457-7FA6-4D6F-B3C5-732E0CCE4975}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-G-0005",
+      "file_name": "Case 511799 Con Edison Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/12/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6F2D892-54DB-45D9-B0E7-F27CEE26D19E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-G-0005",
+      "file_name": "511799 Ack Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DEBD6EF-AD64-4117-8ADC-A6C0098023CD}",
+      "organization": "Green Park Sussex Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0005",
+      "file_name": "Green Park Sussex - PSC 511799 (002).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36F56ACC-717C-492A-83E8-88985C13BE2E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-G-0005",
+      "file_name": "Green Park Sussex Inc URAC vs Con Ed 511799.pdf"
+    }
+  ]
+}

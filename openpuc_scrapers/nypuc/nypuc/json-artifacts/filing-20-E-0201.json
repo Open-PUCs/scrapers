@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0201",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0201 Han Yang Ack Letter 05012020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48F12E1F-5748-4520-8A47-056C107FDE64}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0201",
+      "file_name": "20-E-0201 Han Yang Ack Letter 05012020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0201 Han Yang Rehearing Request 04292020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92C9ABD7-3F79-4B85-BFBC-2BF84551B607}",
+      "organization": "Han Yang International, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0201",
+      "file_name": "20-E-0201 Han Yang Rehearing Request 04292020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0201 Han Yang SMD Final Han Yang 04102020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77A91175-F35D-4B44-A7FC-C25D84066CC9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0201",
+      "file_name": "20-E-0201 Han Yang SMD Final Han Yang 04102020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={362F7570-E8CB-4366-AC99-A99D4DCB3181}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0201",
+      "file_name": "361 Letter_Redacted.pdf"
+    }
+  ]
+}

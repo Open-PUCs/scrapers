@@ -1,0 +1,93 @@
+{
+  "case": "17-E-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A24AE21-7058-45DD-A5C2-83A068EC8F51}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "17-E-0003",
+      "file_name": "Binder1.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Attachment - V2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE491ED0-D9B6-4B30-B8FD-11638046AE4A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "17-E-0003",
+      "file_name": "v2.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Attachment - V1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B9B888-9D0E-419A-9B94-6357DA90DED6}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "17-E-0003",
+      "file_name": "V1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7C7FE93-34D2-469B-A43A-B70BCFFC4442}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0003",
+      "file_name": "375 Letter _Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109F4E29-6A2D-4EFB-A959-4F7A9CBF0D67}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0003",
+      "file_name": "375 Determination.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/12/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBF410DA-A15E-4724-973A-AF302CEB39E9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0003",
+      "file_name": "534630 Ack Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75ADA262-9C00-46CB-8326-09556818C33A}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0003",
+      "file_name": "534630appeal.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7F09B94-6B6A-48BA-AC9F-A8AF939C03D5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0003",
+      "file_name": "Willliams J vs Con Edison SMD 534630 - Final 102716.pdf"
+    }
+  ]
+}

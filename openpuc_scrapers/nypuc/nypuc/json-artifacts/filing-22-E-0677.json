@@ -1,0 +1,93 @@
+{
+  "case": "22-E-0677",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D9CDD19-8181-4885-BE69-8495986F65A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0677",
+      "file_name": "361_22-E-0677 - Confirming Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/28/2022",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "One Commissioner Declaratory Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC5CE8B6-63B6-46EE-BB65-E833B495A84C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0677",
+      "file_name": "22-E-0677_Eight Point Wind Transfer - One Commissioner Order .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06D469FC-DFC9-41EA-9E27-D19AFCFE7431}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0677",
+      "file_name": "Case 22-E-0677 - Cover Letter - ATA.BOS.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Asset Transfer Agreement And Bill of Sale_NYSEG&Eight Point_Fully Executed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3674C116-40DE-48FC-8585-61843CFB3791}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0677",
+      "file_name": "Asset Transfer Agreement And Bill of Sale_NYSEG&Eight Point_Fully Executed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/16/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "EPW Supporting Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C046BF56-E502-4769-84B3-0E6A4029EAC1}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0677",
+      "file_name": "Case 22-E-0677 - EPW Supporting Affidavit.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/16/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC9ED2A2-2DCC-4CA0-B0EC-C9A4712E6D64}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0677",
+      "file_name": "Case 22-E-0677 - Cover Letter Filing Supporting Affidavit.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Eight Point Wind, LLC for an Expedited Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98802D56-82E2-44EF-BF13-268F1475B086}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0677",
+      "file_name": "Case 22-E-___ Petition of Eight Point Wind, LLC for an Expedited Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E870EE6A-666C-4EAE-81AA-14399C002F72}",
+      "organization": "Eight Point Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0677",
+      "file_name": "Case 22-E-___ - Cover Letter filing Petition of Eight Point Wind, LLC.pdf"
+    }
+  ]
+}

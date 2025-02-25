@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0345",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Material",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30FC7989-0000-CC14-8B42-E18A34A17E2E}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "23-E-0345",
+      "file_name": "Case 23-E-0345 - Additional Material IH 223708 07 21 2023.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B6E888-0000-C91D-BB10-C20E88E3B24F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-E-0345",
+      "file_name": "Ack letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60B3E888-0000-C278-943A-B4E930DC7AD1}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "23-E-0345",
+      "file_name": "CHGE Request for Confidential Treatment 06202023.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Central Hudson Appeal of Informal Hearing Decision 06 20 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40AFE888-0000-C050-909C-891CB1A83B67}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "23-E-0345",
+      "file_name": "Central Hudson Appeal 06 20 2023.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Attachments 1-4 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40AFE888-0000-C631-9627-1196FDCD690E}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "23-E-0345",
+      "file_name": "Attachments 1-4 Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Attachment 5",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40AFE888-0000-C713-A88A-E386A65EA42F}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "23-E-0345",
+      "file_name": "Attachment 5.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/21/2023",
+      "nypuc_doctype": "Letters",
+      "name": "2023 06 02 Informal Hearing Decision #223708",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20ACE888-0000-CF15-BFF1-3AD0AF357E54}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0345",
+      "file_name": "2023 06 02 Informal Hearing Decision #223708.pdf"
+    }
+  ]
+}

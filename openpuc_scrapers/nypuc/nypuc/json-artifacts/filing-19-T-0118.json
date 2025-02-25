@@ -1,0 +1,38 @@
+{
+  "case": "19-T-0118",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/16/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1D99FD3-1819-44E5-A349-8C3ECB62CA8A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-T-0118",
+      "file_name": "19-T-0118-GE-Geres Lock 8- Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the General Electric-Geres Lock #8 115kV Transmission Line Reconductoring Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0289A7CA-6A97-45B2-9DEF-D4BBB8F94127}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0118",
+      "file_name": "NG Geres Lock Part 102 Report Draft 02142019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37BFF1D5-BE8A-456E-AD28-ABF34C29FADF}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0118",
+      "file_name": "Geres-Lock 8 Part 102 Cover Letter.pdf"
+    }
+  ]
+}

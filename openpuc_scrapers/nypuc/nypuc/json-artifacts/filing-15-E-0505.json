@@ -1,0 +1,126 @@
+{
+  "case": "15-E-0505",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of the Sierra Club",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CF7A533-B15E-4838-9C9C-E2E32E01FD62}",
+      "organization": "Sierra Club",
+      "itemNo": "12",
+      "docket_id": "15-E-0505",
+      "file_name": "2016 01 19 Comments on Huntley Retirement.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to NYISO regarding Huntley Power LLC, Proposal to Retire Generating Units 67 and 68",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9328EAFB-EC1B-4EEC-BA28-B18AD8F07873}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "11",
+      "docket_id": "15-E-0505",
+      "file_name": "Letter response to NYISO re Huntley_12162015.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Huntley Power LLC Final Determination Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={171ABC62-5F8E-4AF8-AB4F-8F517C2105CA}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "10",
+      "docket_id": "15-E-0505",
+      "file_name": "National_Grid_letter_12_11_2015.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/06/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Request for Confidential Treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E08CE2B3-1644-4039-98FB-281779AED0F0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "9",
+      "docket_id": "15-E-0505",
+      "file_name": "15E0505_Notice_ltr_Sec_11052015.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/06/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CF03028-8A98-4A61-9DC7-496C9F3CC6FA}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "8",
+      "docket_id": "15-E-0505",
+      "file_name": "15E0505_RAO_ltr_11052015.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/30/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYISO letter regarding Retirement of NRG Energy, Inc./Huntley Power LLC Generation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65596AB7-8F2A-4D2B-BCE1-2DC470DF0846}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-E-0505",
+      "file_name": "NYISO_PSC_letter_Huntley_2015-10-30_clean.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/30/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Grid letter regarding proposed retirement of Huntley generating units",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={946391F4-7032-496C-8252-1C9D75783477}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "15-E-0505",
+      "file_name": "Huntley_retire_10302015_final.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/24/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid - Huntley & Dunkirk update",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFFC2ADF-439B-4899-A48E-25049C5B23A6}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "15-E-0505",
+      "file_name": "15E0505_Huntley_retire_update_09242015.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/24/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYISO letter regarding Huntley & Dunkirk",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F72615-D6E5-4345-9470-79FFA39C9A37}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-E-0505",
+      "file_name": "20150924_NYISO_letter_Huntley_Dunkirk.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/28/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Huntley - National Grid NYISO Reliability Analysis Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8AEAF3B-79B0-4E4C-9F6D-2AC31C82C2A4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-E-0505",
+      "file_name": "Huntley - National Grid NYISO Reliability Analysis Request.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "08/25/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent to Retire Huntley Units 67 and 68.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E9B8CF81-A2E0-426C-A472-CD4F2FB741F2}",
+      "organization": "Huntley Power, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0505",
+      "file_name": "NYPSC Retirement Notice.pdf"
+    }
+  ]
+}

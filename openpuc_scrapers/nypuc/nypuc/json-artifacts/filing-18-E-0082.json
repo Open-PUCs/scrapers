@@ -1,0 +1,82 @@
+{
+  "case": "18-E-0082",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding request for appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBC79FE7-EFC3-4E6E-B9A7-E155BB2578A4}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "18-E-0082",
+      "file_name": "365 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Request for Rehearing of the Commission's Appeal Determination - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CDA9474-B889-4D93-9815-3ECBAB076644}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "18-E-0082",
+      "file_name": "739233 Bannigan RHG ack (002)_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Request for Rehearing of the Commission's Appeal Determination _ Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7BA9E79-57A4-4982-B79D-23997D325489}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "18-E-0082",
+      "file_name": "Banigan rehearing request (002)_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07A823A3-BC3D-4BF0-AFFA-509A0D93F010}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0082",
+      "file_name": "364 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Denial_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7315926F-3322-4CA9-8639-2A275C5D24E5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0082",
+      "file_name": "739233 Bannigan_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Letter Denying Request for an Informal Hearing_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7CE7356-E518-4DE9-8520-CE5B6573CAB5}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-E-0082",
+      "file_name": "Bannigan Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for an Informal Hearing _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3ACA74B-6022-40B7-8E57-A0F38021F7D2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0082",
+      "file_name": "739233 Bannigan final_Redacted.pdf"
+    }
+  ]
+}

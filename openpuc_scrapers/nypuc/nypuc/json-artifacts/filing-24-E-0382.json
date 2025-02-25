@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0382",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D8AF92-0000-CE16-9A6F-CFF33DA27D85}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-E-0382",
+      "file_name": "373_24-E-0382_102124final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Owner 07082024 Response_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50329990-0000-CA12-8165-8A22AD997BAD}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "24-E-0382",
+      "file_name": "Owner 07082024 Response_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/02/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Thomas Ack Letter 07022024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00157490-0000-C813-B8D1-52A2C02E914D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0382",
+      "file_name": "Thomas Ack Letter 07022024_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/02/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Shawna Thomas SMR Request 06292024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0137490-0000-C319-8976-D200F3A3FEC8}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0382",
+      "file_name": "Shawna Thomas SMR Request 06292024_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/02/2024",
+      "nypuc_doctype": "Letters",
+      "name": "263111_Austin_SMD_Final_06122024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50107490-0000-C418-B1E0-2A32BB69EF75}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0382",
+      "file_name": "263111_Austin_SMD_Final_06122024_Redacted.pdf"
+    }
+  ]
+}

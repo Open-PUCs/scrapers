@@ -1,0 +1,49 @@
+{
+  "case": "16-V-0114",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F17C53FD-D01C-485C-87BF-0E4423CEFE07}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-V-0114",
+      "file_name": "665_16v0114.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/12/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24BC8208-84E4-47DD-8F81-A1EF630BFAD4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-V-0114",
+      "file_name": "16-V-0114 Signed EAF.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D311223-BF21-4C1B-890E-00E5724BFD77}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0114",
+      "file_name": "Affidavit of Proof of Publication.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Village of Elmira Heights, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31F1B417-6FB8-429F-8FB9-EAA4D6FE089A}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0114",
+      "file_name": "Application Village of Elmira Heights - EVSC.pdf"
+    }
+  ]
+}

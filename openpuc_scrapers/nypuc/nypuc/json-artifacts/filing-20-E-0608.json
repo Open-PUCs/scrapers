@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0608",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0608 Capital A Ack Letter 12032020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E59C44B-DA8B-49A4-8AF1-704806C3F607}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0608",
+      "file_name": "20-E-0608 Capital A Ack Letter 12032020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0608 Capital A Rehearing Request 12022020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1461111-BFE2-4C96-A395-920045E8C7E8}",
+      "organization": "Capital A Management NY Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0608",
+      "file_name": "20-E-0608 Capital A Rehearing Request 12022020.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0608 Capital A SMD Final 11242020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCAB5D89-7949-4D48-B75E-BA7B623AF14E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0608",
+      "file_name": "20-E-0608 Capital A SMD Final 11242020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BAB3E74-055B-40B0-AB8B-3A550FF3B005}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0608",
+      "file_name": "361 Letter 2.17.2021.pdf"
+    }
+  ]
+}

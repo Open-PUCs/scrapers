@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0170",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31ECABDB-AD61-442D-96B4-856ED824C2FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0170",
+      "file_name": "661_20-V-0170 Notice of Determination of Significance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3634ACD0-41D0-49F8-96BF-FA0E10F5E372}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0170",
+      "file_name": "661_20-V-0170 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2020",
+      "nypuc_doctype": "Reports",
+      "name": "20-V-0170 DTC Cable Inc. T of Afton SEAF Parts 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4B4FA4B-6893-40E0-B727-24A1D0EB9912}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-V-0170",
+      "file_name": "20-V-0170 DTC Cable Inc. T of Afton SEAF Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Afton Attested and Notarized Statement Regarding Term of Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57968B66-98EC-4A08-A3FF-2579A06EFEC5}",
+      "organization": "Delhi Telephone Company",
+      "itemNo": "2",
+      "docket_id": "20-V-0170",
+      "file_name": "Town of Afton Attested and Notarized Statement Regarding Term of Agreement-April 2020.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/07/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. a subsidiary of Delhi Telephone Company for a Certificate of Confirmation for its Franchise with the Town of Afton, County of Chenango, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E6B69AA-A45D-4AD1-8915-F458571F4DD0}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0170",
+      "file_name": "Town of Afton OCR File for PSC April 2020.pdf"
+    }
+  ]
+}

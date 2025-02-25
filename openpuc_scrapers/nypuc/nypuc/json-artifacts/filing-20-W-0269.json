@@ -1,0 +1,82 @@
+{
+  "case": "20-W-0269",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF1613A1-EC8E-44CA-888A-543AB171C0BC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "20-W-0269",
+      "file_name": "Case 20-W-0269 Customer Notitfication with CL.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/30/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "River Road Water District",
+      "itemNo": "4",
+      "docket_id": "20-W-0269",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Escrow Increase with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17193D0F-42BA-4339-B6AD-49576BD168B9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-W-0269",
+      "file_name": "461_20-W-0269 Order final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "RRWD Customer Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E3D88FC-9DBC-457C-94AE-6D2297D9F56E}",
+      "organization": "River Road Water District",
+      "itemNo": "2",
+      "docket_id": "20-W-0269",
+      "file_name": "RRWD Customer Notice.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6060351-7D37-4655-ACA1-FF6F33E17E62}",
+      "organization": "River Road Water District",
+      "itemNo": "2",
+      "docket_id": "20-W-0269",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of River Road Water District to Increase Escrow Account Surcharge and Account Maximum Balance and to Establish a One-Time Surcharge to Recover Leak Repair Expense.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8ED5812-26EA-4403-BB93-CE96D7A5085B}",
+      "organization": "River Road Water District",
+      "itemNo": "1",
+      "docket_id": "20-W-0269",
+      "file_name": "Petition to Increase Escrow Account Surcharge.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Draft ESCROW STAT No.2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DB5DC37-BFAB-4B03-BF79-91564261F93D}",
+      "organization": "River Road Water District",
+      "itemNo": "1",
+      "docket_id": "20-W-0269",
+      "file_name": "Draft ESCROW.STAT.No.2.pdf"
+    }
+  ]
+}

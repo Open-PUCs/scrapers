@@ -1,0 +1,93 @@
+{
+  "case": "22-E-0649",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan - 312 West 43 Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3064158E-0000-C61E-A2C4-6434C09DE7E6}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "8",
+      "docket_id": "22-E-0649",
+      "file_name": "in-service meter test plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 312 West 43rd Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A061EF8C-0000-CC1D-9C40-E9C40D7629E9}",
+      "organization": "311 West 42nd Street Associates LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0649",
+      "file_name": "compliance letter (5).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Erratum Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9040408C-0000-CD14-9D7B-0EBF161FC20E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0649",
+      "file_name": "22-E-0649_Erratum Notice 12623.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0F3118C-0000-C617-AB63-27B5E89B63E9}",
+      "organization": "     Erratum Notice - 12/06/2023",
+      "itemNo": "Public Service Commission",
+      "docket_id": "22-E-0649",
+      "file_name": "4"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 312 West 43rd Street.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B04AB588-0000-C81A-9A0A-3FD01783891D}",
+      "organization": "311 West 42nd Street Associates LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0649",
+      "file_name": "additional information (2).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "submetering identification form for 312 West 43rd Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB6E18D6-BBE1-463C-B424-43E9C4ECC7C8}",
+      "organization": "311 West 42nd Street Associates LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0649",
+      "file_name": "submetering identification form (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F127A9D-A122-42E5-A473-BA591AC8EFA0}",
+      "organization": "311 West 42nd Street Associates LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0649",
+      "file_name": "submetering part 2.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 311 West 42nd Street Associates LLC to Submeter Electricity at 312 West 43rd Street, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA9C39C1-AAA7-4180-8705-0A9C825486AD}",
+      "organization": "311 West 42nd Street Associates LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0649",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "case": "20-E-0234",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F540EEB2-75A1-412B-9561-FF66E04FFF19}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "9",
+      "docket_id": "20-E-0234",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDA5D1EE-63FD-4461-B34A-816BFB3C4E77}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "20-E-0234",
+      "file_name": "364_20-E-0234 52-41 Center Blvd Submetering Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CEFBB8E-C625-40EA-8AB9-DE2612AAA16E}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "7",
+      "docket_id": "20-E-0234",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/01/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 52-41 Center Boulevard, Long Island City, New York 11101.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD9559E9-AC3B-475E-AD2E-13F2A05E604D}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0234",
+      "file_name": "additional information 12-1-20.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/25/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Thermostat Product Data",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={721C811E-2B05-43BF-B410-740A47DC5E4C}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0234",
+      "file_name": "Thermostat Product Data.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/25/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16E520F9-DB1A-4E31-8C7B-71C91E68AE84}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0234",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/26/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information Requested for 52-41 Center Boulevard",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F27D8E19-C12B-4F03-A91A-217DE1B2A6D7}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0234",
+      "file_name": "Additional Information Requested for 52-41 Center Boulevard.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/15/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={914E4F74-81B6-4401-BF95-1F5F110F7565}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0234",
+      "file_name": "Submetering Identification Form.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/15/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8A9A2E9-4B19-4259-8A3E-5D6D025757BF}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0234",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/26/2020",
+      "nypuc_doctype": "Motions",
+      "name": "52-41 Center LLC Waiver Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8BEC45B-FB06-4CDE-AA65-38C153DFBEEF}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0234",
+      "file_name": "52-41 Center LLC Waiver Letter.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering lease rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF0FF148-6C8B-4ACB-A0FB-999C10E17D4F}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "submetering lease rider.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "energy saving ideas",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54704167-343A-4B71-BD5E-3591ACC9399F}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "energy saving ideas.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "cover Letter for application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={846295F6-364D-48C4-87B2-95914086CF81}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "cover Letter for application.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "con ed letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E8BF4F3-ED10-4E1E-9387-E9458B438874}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "con ed letter.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Special Protections Registration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={555B3E06-1DDE-4D65-AB33-309565531D89}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Special Protections Registration.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Sample SC1 Invoice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FA01E48-EC37-41BF-BB40-4A3248EA59F1}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Sample SC1 Invoice.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "SC-1 Bill Breakdown",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0395E11A-AE6F-4A9A-8771-6CF7004886F4}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "SC-1 Bill Breakdown.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Resident Assest form (12)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52AB5C18-9761-4752-B951-081F228C9294}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Resident Assest form (12).pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Quarterly Billing Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F929231-8555-412C-97CB-669B2F6976BA}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Quarterly Billing Plan.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Past Due Reminder Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={466BD90F-D12E-4ACE-BD38-5B279580D6FD}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Past Due Reminder Notice.pdf"
+    },
+    {
+      "serial": "21",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notification of Rights (24)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6423F-E906-4D88-817B-3F2906E67026}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Notification of Rights (24).pdf"
+    },
+    {
+      "serial": "22",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice to Social Services",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83F3C857-AD79-4E66-8CFB-AB6F7EBB5822}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Notice to Social Services.pdf"
+    },
+    {
+      "serial": "23",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Final Termination Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C78325D2-4DAF-4EC4-B13C-289A673FA94D}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Final Termination Notice.pdf"
+    },
+    {
+      "serial": "24",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Failure to Make Payment Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={233B542A-C1AC-44C8-82F7-F7C42BA8BF3C}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Failure to Make Payment Notice.pdf"
+    },
+    {
+      "serial": "25",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Deferred Payment Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42032512-81C6-476A-A280-8157C600A111}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Deferred Payment Agreement.pdf"
+    },
+    {
+      "serial": "26",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7AE6002-15B5-4AC3-B84A-3447B92D5851}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Cover Letter (1).pdf"
+    },
+    {
+      "serial": "27",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Certificate of Amendment - 52-41 Center LLC (mv)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1858216B-66CE-415E-BB83-A510C092EC9D}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Certificate of Amendment - 52-41 Center LLC (mv).pdf"
+    },
+    {
+      "serial": "28",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Budget Billing Plan - v2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7BBFD44-CDBA-4F43-9BD0-454C059C57A4}",
+      "organization": "52-41 Center LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0234",
+      "file_name": "Budget Billing Plan - v2.pdf"
+    }
+  ]
+}

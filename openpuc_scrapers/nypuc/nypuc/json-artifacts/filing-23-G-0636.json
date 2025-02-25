@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0636",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240117 - Response to Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={206F228D-0000-C410-8EDE-AD4882388E1B}",
+      "organization": "GF Construction Inc",
+      "itemNo": "4",
+      "docket_id": "23-G-0636",
+      "file_name": "20240117 - Response to Order Determining Penalty and Directing Payment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80FCE98C-0000-C11A-BB8C-9C854652C6A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-G-0636",
+      "file_name": "161-A_23-G-0636.pdf"
+    }
+  ]
+}

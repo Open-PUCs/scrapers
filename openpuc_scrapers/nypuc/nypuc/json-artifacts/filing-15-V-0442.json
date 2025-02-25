@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0442",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4751BC4-65B3-4BFA-9088-00C55CF656E8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0442",
+      "file_name": "662_15V0442.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/28/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Wales, Erie County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={423CCC07-26BF-4A7A-9AE9-3049331F87C2}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0442",
+      "file_name": "WALES, TOWN - RENEWAL DOCS TO PSC, 07.28.15.pdf"
+    }
+  ]
+}

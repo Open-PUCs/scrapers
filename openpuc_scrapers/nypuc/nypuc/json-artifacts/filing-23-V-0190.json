@@ -1,0 +1,49 @@
+{
+  "case": "23-V-0190",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={005D4E88-0000-CC1B-8A45-C8FC4E7006C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0190",
+      "file_name": "663_23-V-0190 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/10/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00274 Letter to Building Owner 610 W 139 St 3.10.23 2nd mailing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0C8CB86-0000-C216-AB3A-5136B4E2BE59}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0190",
+      "file_name": "23-00274 Letter to Building Owner 610 W 139 St 3.10.23 2nd mailing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00274 Letter to Building Owner 610 W 139th 2.28.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20829886-0000-CC1E-954B-2F82A59F9434}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0190",
+      "file_name": "23-00274 Letter to Building Owner 610 W 139th 2.28.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 610 West 139th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A48C7EA-2735-4BF8-B1E7-50E85B479BFC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0190",
+      "file_name": "230208-12 Petition (610 W 139 ST) (Post-CODA).pdf"
+    }
+  ]
+}

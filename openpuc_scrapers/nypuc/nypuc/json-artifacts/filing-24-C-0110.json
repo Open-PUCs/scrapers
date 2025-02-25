@@ -1,0 +1,82 @@
+{
+  "case": "24-C-0110",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Department of State Reg (ATT Enterprises LLC)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B05B0890-0000-C73A-B0BD-3DD361030143}",
+      "organization": "AT&T Communications of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-C-0110",
+      "file_name": "NY Department of State Reg (ATT Enterprises LLC).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Department of State - Wdr (ATT Enterprises Inc.)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B05B0890-0000-C354-B3CB-41B99A8AF478}",
+      "organization": "AT&T Communications of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-C-0110",
+      "file_name": "NY Department of State - Wdr (ATT Enterprises Inc.).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B05B0890-0000-CC1A-8FA0-C9598B9927EB}",
+      "organization": "AT&T Communications of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-C-0110",
+      "file_name": "NY Secretary of State Certification and Compliance Letter 6-11-24 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Merger and Restructure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20900B8F-0000-C213-92BC-CEE3B7403928}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-C-0110",
+      "file_name": "561_24-C-0110 final 42324.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/26/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05B7B8E-0000-CC30-9950-BA0D8618B728}",
+      "organization": "AT&T Communications of New York, Inc., AT&T Corp., AT&T Enterprises, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-C-0110",
+      "file_name": "ATT Corp. ATT Enterprises Inc. and ATT Communications of New York Inc.'s Supplemental Petition Requesting Expedited Approval for a Transfer of Control of ATT Communi.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/26/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05B7B8E-0000-CF18-856E-F9D7656FB6D3}",
+      "organization": "AT&T Communications of New York, Inc., AT&T Corp., AT&T Enterprises, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-C-0110",
+      "file_name": "NY PSC 24-00310 ATT Letter Supplemental Response 3-26-24.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ATT Joint Petition for Approval of a Certificate of Merger",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D057B28D-0000-CF17-8105-EDAB7B9E0228}",
+      "organization": "AT&T Communications of New York, Inc., AT&T Corp., AT&T Enterprises, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-C-0110",
+      "file_name": "NY ATT Joint Petition.pdf"
+    }
+  ]
+}

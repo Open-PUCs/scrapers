@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0527",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess acknowledging withdrawal of petition and closing case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F76C8028-D7FC-471A-805B-76B2D729617B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0527",
+      "file_name": "17-E-0527 Letter Closing Case.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B506E1B2-C818-46A2-8F10-F6AFE84F7AC3}",
+      "organization": "Hanehan Family Dairy, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0527",
+      "file_name": "Hanehan Letter Withdrawing Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Hanehan Family Dairy, LLC for Assistance with its Contract with New York State Electric & Gas Corporation to Provide Three-Phase Electric Service with Sufficient Capacity to Meet the Farm's Planned Expansion Needs.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F08555B-937A-40C1-99F8-C8E73C45D710}",
+      "organization": "Hanehan Family Dairy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0527",
+      "file_name": "Scan Aug 23, 2017.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Letter to Matt Hanehan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FBA313E-3814-4D81-81EF-9EB28DF66D4D}",
+      "organization": "Hanehan Family Dairy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0527",
+      "file_name": "nyseg 01.08.16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Letter to Charles Hanehan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B9AA5B9-B359-4CE3-BF10-E281BA997FD7}",
+      "organization": "Hanehan Family Dairy, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0527",
+      "file_name": "NYSEG 7-2017.pdf"
+    }
+  ]
+}

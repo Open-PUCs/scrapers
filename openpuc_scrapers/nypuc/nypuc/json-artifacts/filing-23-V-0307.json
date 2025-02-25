@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0307",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={404E238A-0000-CF1C-A0BC-70850E7C70F6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0307",
+      "file_name": "661_23-V-0307 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Monticello filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A069A188-0000-C292-AA6D-61EDA8408FBC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0307",
+      "file_name": "Village of Monticello filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A069A188-0000-C455-AF1D-8B04A1604F5E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0307",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Monticello Letter 04.17.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A069A188-0000-C815-B865-AF89605DB500}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0307",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Monticello Letter 04.17.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications V. Monticello -Cover Letter-Request for Renewal and Certificate of Confirmation 05.09.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A069A188-0000-C272-B7FD-1F6D6152241D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0307",
+      "file_name": "Charter Communications V. Monticello -Cover Letter-Request for Renewal and Certificate of Confirmation 05.09.23.pdf"
+    }
+  ]
+}

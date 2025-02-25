@@ -1,0 +1,115 @@
+{
+  "case": "24-W-0326",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ltr to Michelle Phillips, PSC Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D07CCA8F-0000-C226-8D7B-3DC216C6F7EE}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "ltr to Michelle Phillips, PSC Secretary.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "SEAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07CCA8F-0000-CD2B-A0DC-72C36775B30E}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "SEAF.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D07CCA8F-0000-CF4E-A689-CD0893DB2901}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "JD Water Company Appraisal 5 16 2020 (4)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07CCA8F-0000-C2A7-8E48-FD2F47B83408}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "JD Water Company Appraisal 5 16 2020 (4).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "JD Water Co Sales Contract (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07CCA8F-0000-C84C-961D-FA9036327098}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "JD Water Co Sales Contract (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2023 JD Water Company Return (2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07CCA8F-0000-C964-A5F8-C3107DE09393}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "2023 JD Water Company Return (2).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2022 JD Water Company Return (5)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07CCA8F-0000-CD8D-A3A1-920B1D6FDEAC}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "2022 JD Water Company Return (5).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2021 JD Water Company Return",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107DCA8F-0000-C321-A302-6F087625C918}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "2021 JD Water Company Return.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2020 JD Water Company Return",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F07CCA8F-0000-CC4C-84CE-DED412186A97}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "2020 JD Water Company Return.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2019 JD Water Company Return",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F07CCA8F-0000-C129-A40F-55E8B59B2E9B}",
+      "organization": "JD Water Company, Inc., JD Water Holding CO, LLC, Town of Bethel",
+      "itemNo": "1",
+      "docket_id": "24-W-0326",
+      "file_name": "2019 JD Water Company Return.pdf"
+    }
+  ]
+}

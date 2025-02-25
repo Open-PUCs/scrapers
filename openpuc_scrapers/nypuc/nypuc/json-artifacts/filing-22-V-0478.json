@@ -1,0 +1,71 @@
+{
+  "case": "22-V-0478",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5C1D89E-FF49-4D58-9344-021054AC5570}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-V-0478",
+      "file_name": "662_22-V-0478 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Catskill Affidavit 2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2473606-A29C-4B0A-B473-AF178FA9A4E2}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0478",
+      "file_name": "TOWN OF CATSKILL AFFIDAVIT 2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D6645A1-09E7-4C26-888F-D308595BC752}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0478",
+      "file_name": "Cover Letter- Town of Catskill affidavidt.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "TOWN OF CATSKILL RESOLUTION READABLE",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1344398-7A05-45B8-93D5-BCB011EF440C}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "3",
+      "docket_id": "22-V-0478",
+      "file_name": "TOWN OF CATSKILL RESOLUTION READABLE.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Catskill Franchise Renewal 2022 Readable",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD8E821A-98B3-4683-8685-B5321087F37C}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0478",
+      "file_name": "Town of Catskill Franchise Renewal 2022 Readable.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40BC0CF7-F00A-415A-BFED-6B2FB891C048}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0478",
+      "file_name": "TOWN OF CATSKILL PSC COVER FOR FILING.pdf"
+    }
+  ]
+}

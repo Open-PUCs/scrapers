@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0657",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A1378D-0000-C25B-89BA-935F24F8AD5C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0657",
+      "file_name": "661_23-V-0657 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8003968B-0000-CF5A-8E1A-D05FC67962B6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0657",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. Syracuse 11.3.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8003968B-0000-C610-90D9-9C35D79EA950}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0657",
+      "file_name": "Charter Confidential Treatment Request to RAO C. Syracuse 11.3.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, C. Syracuse-Request for Renewal and Certificate of Confirmation(redacted) 11.3.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8003968B-0000-C394-8603-8A4846229CDF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0657",
+      "file_name": "Charter Communications, C. Syracuse-Request for Renewal and Certificate of Confirmation(redacted) 11.3.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, C. Syracuse-Cover Letter-Request for Renewal and Certificate of Confirmation 11.3.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8003968B-0000-CD77-8556-37F61B39E99C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0657",
+      "file_name": "Charter Communications, C. Syracuse-Cover Letter-Request for Renewal and Certificate of Confirmation 11.3.23.pdf"
+    }
+  ]
+}

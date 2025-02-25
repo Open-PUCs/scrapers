@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0107",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD928DC3-8333-4B93-8F87-9CA5A6B737D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0107",
+      "file_name": "662_22-V-0107.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/09/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02470 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC9BA8ED-322B-484F-A4DB-954B807C25D2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0107",
+      "file_name": "21-02470 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 424 East 10th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07CF8A7D-4CB4-4F90-A73B-02B83945DEF6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0107",
+      "file_name": "4-211119 Petition (424 E 10 ST) (Post-Survey).pdf"
+    }
+  ]
+}

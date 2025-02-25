@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0196",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240620 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A85F90-0000-CA1D-AD25-02D06893C649}",
+      "organization": "Syracuse Signal Systems, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-G-0196",
+      "file_name": "20240620 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304AA18F-0000-C473-8A4C-240DBE167DD4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0196",
+      "file_name": "161_24-G-0196 52224final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "22-E-0417",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F091958B-0000-CC1D-B98A-C2E5CE3FD571}",
+      "organization": "30 West Broad Street, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0417",
+      "file_name": "Case 22-E-0417 Meter Test Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0E9F888-0000-C233-A4AB-DBDFC7AF58E5}",
+      "organization": "30 West Broad Street, LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0417",
+      "file_name": "Case 22-E-0417 Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit, Certificate, and Resident Notices",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0E9F888-0000-C115-9562-A5A384EB7E19}",
+      "organization": "30 West Broad Street, LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0417",
+      "file_name": "Case 22-E-0417 Complete Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0844488-0000-C61D-8962-43A00C88F5A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0417",
+      "file_name": "362_22-E-0417.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DC6C87-0000-C61B-8AEA-20900A6D9209}",
+      "organization": "30 West Broad Street, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0417",
+      "file_name": "Case 22-E-0417 - Supplement Response(4771557.1)-C.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 30 West Broad Street, Rochester, New York, Located in the Territory of Rochester Gas and Electric.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08AEFC0B-B385-4C0C-8C8A-AE4E88D8296D}",
+      "organization": "30 West Broad Street, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0417",
+      "file_name": "30 West Broad NOI - Final 7.13.2022-C.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={208A60B9-A390-4818-8C8B-5D093CF4D631}",
+      "organization": "30 West Broad Street, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0417",
+      "file_name": "30 West Broad Submeter Cover Letter 7.13.2022-C.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0434",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Second Resident Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207F2693-0000-C334-9D1E-7A6BF728F05E}",
+      "organization": "Deepdale Gardens Corporation",
+      "itemNo": "3",
+      "docket_id": "24-E-0434",
+      "file_name": "second resident notification letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information Requested for Deepdale Gardens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06F4D92-0000-C65A-BFDA-7F42AE7A0E65}",
+      "organization": "Deepdale Gardens Corporation",
+      "itemNo": "2",
+      "docket_id": "24-E-0434",
+      "file_name": "resposne letter 10-2-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Deepdale Gardens Corporation to Submeter Electricity at Deepilale Gardens, Little Neck, New York, NY 11362, Located in the Territory of Con Edison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80D3DF90-0000-C618-A96C-ECB41CFE4C2F}",
+      "organization": "Deepdale Gardens Corporation",
+      "itemNo": "1",
+      "docket_id": "24-E-0434",
+      "file_name": "submetering application (16).pdf"
+    }
+  ]
+}

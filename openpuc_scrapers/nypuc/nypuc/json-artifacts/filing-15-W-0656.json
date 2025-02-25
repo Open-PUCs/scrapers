@@ -1,0 +1,49 @@
+{
+  "case": "15-W-0656",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A45228AE-5573-4B2F-9AE3-7F88FACE9F85}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-W-0656",
+      "file_name": "15-W-0656-HomeDepot-Case Closure Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Withdrawing Petition against Independent Water-Works, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B840D295-35D1-4123-8E41-24CA5749DFA4}",
+      "organization": "Home Depot U.S.A., Inc.",
+      "itemNo": "3",
+      "docket_id": "15-W-0656",
+      "file_name": "181227 Secretary, PSC, Case 15-W-0656, Letter Withdrawing Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CE5EFF4-91BE-4DB5-8952-A3DB80614171}",
+      "organization": "Independent Water Works, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-W-0656",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of the Review and Reduction in the Rates Charged by Independent Water Works, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={861F3C54-178D-4B62-9A9F-38ECA5B898CE}",
+      "organization": "Home Depot U.S.A., Inc.",
+      "itemNo": "1",
+      "docket_id": "15-W-0656",
+      "file_name": "Petition by Home Depot, U.S.A., Inc. to Reduce the Rates Charged by for Independent Water Works 151116.pdf"
+    }
+  ]
+}

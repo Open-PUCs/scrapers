@@ -1,0 +1,38 @@
+{
+  "case": "20-T-0483",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/06/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Karla Corpus Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A18A007F-6A2F-43F1-94A0-3EA1617DA9A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-T-0483",
+      "file_name": "20-T-0483_Part 102 Letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Part 102 Report of Niagara Mohawk Power Corporation d/b/a National Grid Concerning the Proposed Construction of a 115kV Conductor Clearance Refurbishment Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3C8398A-A7B7-4EA4-A0A8-8A646B416A69}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0483",
+      "file_name": "National Grid -- Indeck Bundle CCR Part 102 report_09042020_Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D7D2BBA-CAF9-4FE3-819A-535E9E138315}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-T-0483",
+      "file_name": "National Grid -- Indeck Bundle CCR Part 102 -- Karla Corpus Cover Letter.pdf"
+    }
+  ]
+}

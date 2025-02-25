@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0459",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48137200-DA1E-41C7-BE82-1540C7786E62}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0459",
+      "file_name": "662_21-V-0459.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00598 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EC0DF7B-D61C-44C0-96C0-AFF9E531D6A5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0459",
+      "file_name": "21-00598 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 334 East 78th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7E77E44-6678-4913-A4B9-93A1141B8F20}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0459",
+      "file_name": "5-Petition (334 E 78 ST) (Complete).pdf"
+    }
+  ]
+}

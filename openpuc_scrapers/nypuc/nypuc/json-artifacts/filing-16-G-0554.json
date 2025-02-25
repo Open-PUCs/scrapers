@@ -1,0 +1,60 @@
+{
+  "case": "16-G-0554",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Waiver With Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F7F1287-E558-4D6A-BB83-0FE4BA00F1B8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-G-0554",
+      "file_name": "170_16g0554 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of the National Energy Marketers Association",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F036F0FA-B758-4242-84AC-6574326D99EF}",
+      "organization": "National Energy Marketers Association",
+      "itemNo": "4",
+      "docket_id": "16-G-0554",
+      "file_name": "NEM cmts on annual gas cost recon.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/04/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Great Eastern Energy's Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EDF2B77-A8F2-414A-A651-B87E6628A33D}",
+      "organization": "Great Eastern Energy",
+      "itemNo": "3",
+      "docket_id": "16-G-0554",
+      "file_name": "NatGrid_GEECOMMENTS_Annual_Reconciliation_10.2016.docx.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/30/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Urac",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FFAF800-25F3-46CB-92C4-1C8070B69C63}",
+      "organization": "Urac Corp",
+      "itemNo": "2",
+      "docket_id": "16-G-0554",
+      "file_name": "CommentRateCase 16-G-0554 National Grid.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/29/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Brooklyn Union Gas Company d/b/a National Grid NY for Waiver of its Annual Reconciliation of Gas Costs Mechanism",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B8295D6-CE52-45CD-B323-33145DE99E38}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "16-G-0554",
+      "file_name": "KEDNY Commodity Adjustment Petition (Final).pdf"
+    }
+  ]
+}

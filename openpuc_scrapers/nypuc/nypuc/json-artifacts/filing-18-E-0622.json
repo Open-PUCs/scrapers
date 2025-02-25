@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0622",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E30354B-FC83-44EA-9474-D3668FA03193}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0622",
+      "file_name": "368_18-E-0622.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AMP Oratam Investments LLC for a Declaratory Ruling Regarding Financing or, in the Alternative, an Order Approving Financing Pursuant to Section 69 of the New York State Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F708F45-A7BC-4CF8-9F80-8DE61C46B426}",
+      "organization": "AMF Oratam Investments, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0622",
+      "file_name": "Hudson Transmission Project Section 69 Declaratory Ruling Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EAE75B8-BF4D-4B53-881C-B23C1F294D11}",
+      "organization": "AMF Oratam Investments, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0622",
+      "file_name": "Burgess Cover Letter - Hudson Section 69 Petition.pdf"
+    }
+  ]
+}

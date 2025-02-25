@@ -1,0 +1,137 @@
+{
+  "case": "20-E-0142",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Agreement Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C98CDB-3708-48EF-893F-D2CD56D1FC83}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "20-E-0142",
+      "file_name": "371_20-E-0142 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9ADC6006-F567-47BB-81A2-BC61E65D920A}",
+      "organization": "Nucor Steel Auburn, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0142",
+      "file_name": "20-E0142_Trade Secret Status Request_7-17-20.pdf (618 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57DE2BDE-CC8C-4F36-A184-BBF791511F77}",
+      "organization": "Nucor Steel Auburn, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0142",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Nucor ESA History_REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59870FF3-A39A-497C-B641-1CC4BAC8A005}",
+      "organization": "Nucor Steel Auburn, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0142",
+      "file_name": "20-E-0142_Nucor ESA History_REDACTED.pdf (69 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Contract",
+      "name": "NYSEG-Nucor Agreement 2002 Update_REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F693C42-9B60-449B-8AD9-0CFD269186EA}",
+      "organization": "Nucor Steel Auburn, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0142",
+      "file_name": "20-E-0142_NYSEG-Nucor Agreeement 2002 Update_REDACTED.pdf (140 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09FA36A4-AAB2-4EF5-A911-DAB3E1ADD556}",
+      "organization": "Nucor Steel Auburn, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0142",
+      "file_name": "20-E-0142_Nucor ESA CL_7-17-20.pdf (276 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/23/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26EFDEDB-C8A6-45D3-AA19-95F928A1B5AB}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "20-E-0142",
+      "file_name": "TS Request - 20-E-0142 Nucor invoices and usage info.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/20/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F7C474C-DCFA-4906-B3D3-BC714A09879A}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "20-E-0142",
+      "file_name": "TS Request - 20-E-0142 Nucor invoices and usage info.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/06/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8EDBDFB7-7438-442E-BB13-1B3C91C73A3F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "20-E-0142",
+      "file_name": "TS Request - 20-E-0142 Nucor billing usage for peak times.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/06/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3080D11D-5C07-4062-9E9C-CDD2FEE206AE}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "20-E-0142",
+      "file_name": "TS Request - 20-E-0142 Nucor contract and invoice.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "03/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E41EBF2-D4F0-47B8-B9B8-8063B565A983}",
+      "organization": "Nucor Steel Auburn, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0142",
+      "file_name": "Cover letter 2020 Joint Petition NYSEG and Nucor--Sixth Amendment to ESA.pdf (39 KB)"
+    },
+    {
+      "serial": "12",
+      "date_filed": "03/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2020 Joint Petition NYSEG and Nucor--Sixth Amendment to ESA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67BB557B-1385-4960-8A0D-0474B5F4B9B0}",
+      "organization": "Nucor Steel Auburn, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0142",
+      "file_name": "2020 Joint Petition NYSEG and Nucor--Sixth Amendment to ESA.pdf (536 KB)"
+    }
+  ]
+}

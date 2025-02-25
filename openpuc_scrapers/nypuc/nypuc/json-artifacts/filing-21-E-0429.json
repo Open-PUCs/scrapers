@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0429",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bill Insert",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69127837-FB2F-4DCD-9CBA-0C49B2ACBC19}",
+      "organization": "Village of Angelica",
+      "itemNo": "5",
+      "docket_id": "21-E-0429",
+      "file_name": "Case 21-E-0429 - Bill Insert.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D858127F-FD0D-4A29-9B44-7BD422619106}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0429",
+      "file_name": "372_21-E-0429 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of Minor Rate Filing by the Village of Angelica",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EFCB9AD-DF32-45BF-8A4E-530CDCC331FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0429",
+      "file_name": "e.21-E-0429 Angelica Rates Postponement.11.4.21.SIGNED.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/29/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Angelica",
+      "itemNo": "2",
+      "docket_id": "21-E-0429",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/27/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Angelica",
+      "itemNo": "1",
+      "docket_id": "21-E-0429",
+      "file_name": ""
+    }
+  ]
+}

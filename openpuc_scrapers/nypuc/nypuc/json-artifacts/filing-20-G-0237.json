@@ -1,0 +1,71 @@
+{
+  "case": "20-G-0237",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/19/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C1B3380-908B-4ACE-AFC1-4A5BD4904863}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-G-0237",
+      "file_name": "161_20-G-0237 Determination & Appendix.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2500186-F186-4FAD-BECF-0964D77A6F1F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0237",
+      "file_name": "161_20-G-0237 Letter Redact final_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter to the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B389127F-8C62-4928-B440-C003E20B4F94}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "20-G-0237",
+      "file_name": "Case 947229.Chen.IHO Decision Response Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10665E0C-53F7-4D18-96CF-4DD211203715}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-G-0237",
+      "file_name": "947229 Chen_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal 947229_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D800926E-1038-43B8-B7BD-665F4A402473}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-G-0237",
+      "file_name": "Appeal 947229_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Request Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6169328D-C979-4876-92D7-09D8CA972D54}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-G-0237",
+      "file_name": "947229 Chen-National Grid IH request_Redacted.pdf"
+    }
+  ]
+}

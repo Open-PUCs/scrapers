@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0406",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92DF4A67-8173-4C65-B3D3-1138ACD4A23E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0406",
+      "file_name": "370_17-E-0406.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/11/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A681684-3E9B-423F-B27B-A13ECF2740E3}",
+      "organization": "Satec, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-E-0406",
+      "file_name": "Vigars_Request for Confidential Treatment_BFMII.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "SATEC, Inc. - Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A277AAB-8A8D-4CD0-ABDC-0928164D2315}",
+      "organization": "Satec, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0406",
+      "file_name": "BFM-II_Staff Update.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C5B5502-0E18-468C-960C-541BDF292CAD}",
+      "organization": "Satec, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0406",
+      "file_name": "LetterOfPetition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "BFM-II-Datasheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C286F4D-2255-4E1E-8464-6AD76C63850A}",
+      "organization": "Satec, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0406",
+      "file_name": "BFM-II-Datasheet.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "BFM-II-Brochure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D8E5F6F-287F-4D86-94BD-06775AE15DA0}",
+      "organization": "Satec, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0406",
+      "file_name": "BFM-II-Brochure.pdf"
+    }
+  ]
+}

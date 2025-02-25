@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0308",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/10/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Mr. Bertil B. Christian regarding request for a revised order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={243D32F7-D742-4011-96FB-1AAB9F06463D}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0308",
+      "file_name": "16-E-0308-Letter regarding request for revised order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/16/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A6C41AC-B02F-43AF-9AFF-7E84E4291DCC}",
+      "organization": "VNO 225 West 58th Street LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0308",
+      "file_name": "FL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/16/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance of the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={761B1C90-93F7-48D3-B3FB-D54C96B23A77}",
+      "organization": "VNO 225 West 58th Street LLC",
+      "itemNo": "5",
+      "docket_id": "16-E-0308",
+      "file_name": "Notice of Intent Ltr_10.13.17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/31/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petitions for Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={155D4BA2-4DA2-45F5-93E4-8926C4A63622}",
+      "organization": "Satec, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-E-0308",
+      "file_name": "UpdatePetitionName16-E-0308.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petitions for Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D525BCB9-8BDA-4C1F-B125-2A6F9B9130D3}",
+      "organization": "Satec, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-E-0308",
+      "file_name": "UpdatePetition16-E-0308.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F6A3606-8DA1-4A3A-9CE6-2CED7EB8469A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0308",
+      "file_name": "364_16-E-0308.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of VNO 225W 58th St LLC to Sub-meter at 220 Central Park South, New York City, Located in the Territory of Consolidated Edison of New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A19C0B0E-E89D-46B8-B594-3F9997841271}",
+      "organization": "Satec, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0308",
+      "file_name": "FinalPetition220CentralParkSouthNYC.pdf"
+    }
+  ]
+}

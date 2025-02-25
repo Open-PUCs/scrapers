@@ -1,0 +1,126 @@
+{
+  "case": "23-E-0685",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B001B38D-0000-C217-BD4B-6D3C0D7B5489}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0685",
+      "file_name": "379_23-E-0685_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CF408C-0000-C958-98BF-C8CDD1FA2C8A}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0685",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Contract",
+      "name": "Executed Version_Morris Ridge Solar LGIA_88381783_51_REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CF408C-0000-CD7D-8711-2EED6F692FEC}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0685",
+      "file_name": "Executed Version_Morris Ridge Solar LGIA_88381783_51_REDACTED.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "231206 Ltr to Secretary filing Verified Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CF408C-0000-C630-9345-BCB9076719FC}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0685",
+      "file_name": "231206 Ltr to Secretary filing Verified Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Motions",
+      "name": "231206 Cover Ltr Filing Confid Docs Updated Comp Filing V_Morris Ridge",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CF408C-0000-CE1C-85E0-23753F07398E}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0685",
+      "file_name": "231206 Cover Ltr Filing Confid Docs Updated Comp Filing V_Morris Ridge.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C021F88B-0000-CD5C-B018-3B89A41CB35D}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0685",
+      "file_name": "231122 Letter filing Affidavit of Service to Utility(ies).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "231122 Affidavit of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D021F88B-0000-CC15-BC9F-22423E212006}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0685",
+      "file_name": "231122 AoS_Mail Svc upon Natl Grid Gen Counsel.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107AF38B-0000-C01A-95A1-5798CC275E2F}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0685",
+      "file_name": "231121 Ltr to Secretary filing Verified Petition.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "231121 Section 70 Affidavit_MRSEC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107AF38B-0000-CC33-9959-C8AAC9BE6A2C}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0685",
+      "file_name": "231121 Section 70 Affidavit_MRSEC.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "231110 Section 70 Verification_MRSEC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107AF38B-0000-C95B-A100-C000FC0B7BCE}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0685",
+      "file_name": "231110 Section 70 Verification_MRSEC.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "11/21/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "231110 Section 70 Petiton_MRSEC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107AF38B-0000-CF72-8058-9E50A4FAB7B5}",
+      "organization": "Morris Ridge Solar Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0685",
+      "file_name": "231110 Section 70 Petiton_MRSEC_Final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "23-W-0543",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to close the case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50BCC492-0000-C820-80F3-8C87F3C2A5F1}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-W-0543",
+      "file_name": "241025 to Phillips to Withdraw Ptn after Sale 23-W-0543 (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B079328D-0000-C412-8542-135530B7C457}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-W-0543",
+      "file_name": "462_23-W-0543 1.22.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90E4D68A-0000-C413-90DC-E4FB474745E9}",
+      "organization": "Pine Crest Trailer Park, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0543",
+      "file_name": "SWS-Hanson Pine Crest , to Phillips, Letter of Transmittal 230726.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Saratoga Water Services, Inc. and Pine Crest Trailer Park for Approval of a Water Main Extension Agreement and Waivers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90E4D68A-0000-C632-8904-36001DC7420E}",
+      "organization": "Pine Crest Trailer Park, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-W-0543",
+      "file_name": "SWS-Hanson Pine Crest Ptn to Extn Serv Area 230925 w Attachment.pdf"
+    }
+  ]
+}

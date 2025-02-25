@@ -1,0 +1,49 @@
+{
+  "case": "15-W-0437",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/30/2015",
+      "nypuc_doctype": "Reports",
+      "name": "LI RPT Compliance Filing to Secretary Burgess",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E975885D-366F-463E-8B19-ECD8338D3EB6}",
+      "organization": "New York American Water Company, Inc. f/k/a Long Island Water Corporation",
+      "itemNo": "4",
+      "docket_id": "15-W-0437",
+      "file_name": "LI RPT Compliance Filing to Secretary Burgess.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/29/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-W-0437",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Use of Funds",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C5B7307-0324-4C39-9E7A-DA0A33BDFAAE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-W-0437",
+      "file_name": "462_15w0437 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/20/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York American Water Company, Inc. for Approval to Offset the RAC/PTR Surcharge, PSC 1.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BB190C2-08CA-4CF9-B375-F4F83B23D4A2}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-W-0437",
+      "file_name": "LI RPT Update Letter to Secretary Burgess.pdf"
+    }
+  ]
+}

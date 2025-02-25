@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0465",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/14/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27A45CA7-1E1F-47FD-96A3-9AD598836866}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0465",
+      "file_name": "18-V-0465-Verizon-Closing Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/13/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE96E8B5-A0CD-42FB-99D5-6B51A9B026F3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0465",
+      "file_name": "190213 VZ Letter re 170825 Petition (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D5F8F90-DBFA-40C8-AE40-85CFD1B53F2F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0465",
+      "file_name": "17-01833 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 33 East End Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57C7AA38-DF8B-4505-8B4F-14BD4CA824AF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0465",
+      "file_name": "Petition (33 East End Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DEF8F92-85D8-439A-BC66-CC10FB4BE826}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0465",
+      "file_name": "Exhibit 2 (33 East End Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={131BC69A-5A3B-416F-A5D8-56AD1C6F6CA5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0465",
+      "file_name": "Exhibit 1 (33 East End Av).pdf"
+    }
+  ]
+}

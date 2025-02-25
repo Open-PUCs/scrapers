@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0173",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/10/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C4A2026-2CD3-409F-A232-94E8D9FC4892}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-G-0173",
+      "file_name": "162_21-G-0173 and 21-G-0174 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of NYSEG/RGE Gas Tariffs Referring to Dominion Transportation Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B36719B7-1364-4FBD-A408-461E2CF4F7BA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0173",
+      "file_name": "g.21-G-0173.21-G-0174.NYSEG.RGE.PP1 SIGNED.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/23/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "21-G-0173",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/18/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "21-G-0173",
+      "file_name": ""
+    }
+  ]
+}

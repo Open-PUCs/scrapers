@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0406",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={914EB8C9-D5EC-407E-B418-5D8DFC49B69A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0406",
+      "file_name": "663_22-V-0406 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00952 Letter to Building Owner 144 Ludlow St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF871935-B75D-4FA4-95F7-622AC8D6A96F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0406",
+      "file_name": "22-00952 Letter to Building Owner 144 Ludlow St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 144 Ludlow Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8D3DAD3-BA2E-44EB-95C8-C7D6C41F6AA4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0406",
+      "file_name": "220504-1 Petition (144 LUDLOW ST) (Post-Survey).pdf"
+    }
+  ]
+}

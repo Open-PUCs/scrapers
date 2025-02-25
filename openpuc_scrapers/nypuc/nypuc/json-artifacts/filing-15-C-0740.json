@@ -1,0 +1,27 @@
+{
+  "case": "15-C-0740",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B0731DC-F65D-4EC9-8F0B-19D79C0E12F5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-C-0740",
+      "file_name": "562_15c0740.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Integrated Path Communications, LLC for an Expansion of its ETC Designation to Include High Cost Support in Certain Rate Centers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83C48CC2-461B-4D4B-BF4E-D27DC3577FDF}",
+      "organization": "Integrated Path Communications, LLC",
+      "itemNo": "1",
+      "docket_id": "15-C-0740",
+      "file_name": "New York ETC Expansion to High Cost.pdf"
+    }
+  ]
+}

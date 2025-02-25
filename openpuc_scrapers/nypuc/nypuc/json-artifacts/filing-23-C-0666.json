@@ -1,0 +1,82 @@
+{
+  "case": "23-C-0666",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Transaction Completion Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00F0EB91-0000-C949-9BD7-E0A3D02A2B28}",
+      "organization": "CIBL, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-C-0666",
+      "file_name": "CIBL Inc - Case No 23-C-0666 - Letter to PSC RE Transactiion Notification 4868-5616-8420 v.1.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Approval to Transfer and Acquire Stock",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40096C91-0000-CF1D-935C-96C4AC66E9E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-C-0666",
+      "file_name": "561_23-C-0666 _81924final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "CIBL Inc - Letter to PSC to Supplement Petition 4886-3204-3474 v.1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F081CB90-0000-CF16-907B-50FBCEC0E69D}",
+      "organization": "Nixon Peabody LLP",
+      "itemNo": "3",
+      "docket_id": "23-C-0666",
+      "file_name": "CIBL Inc - Case No 23-C-0666 - Letter to PSC to Supplement Petition 4886-3204-3474 v.1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-C-0666 CIBL Stock Purchase StopTheClock.Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508C3F8C-0000-C81F-9089-2BBCF48168F7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-C-0666",
+      "file_name": "23-C-0666 CIBL Stock Purchase StopTheClock.Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of CIBL, Inc. for Approval, Pursuant to Section 100 of the Public Service Law, of a Acquisition of Common Stock.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B8AB8B-0000-C11A-9B5E-7152E945E88C}",
+      "organization": "CIBL, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0666",
+      "file_name": "CIBL, Inc. - Verified Petition.PDF"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A - Cert. of Incorp_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B8AB8B-0000-C154-A5D4-0BA330D0AACE}",
+      "organization": "CIBL, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0666",
+      "file_name": "Exhibit A - Cert. of Incorp_.PDF"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/07/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B8AB8B-0000-C93D-B835-0E898FA43402}",
+      "organization": "CIBL, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0666",
+      "file_name": "Cover Letter to Sec'y Phillips.PDF"
+    }
+  ]
+}

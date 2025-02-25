@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0607",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4D15B98-DDA8-4ECA-8D9B-124CB92AC402}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0607",
+      "file_name": "663_19-V-0607.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F7D90F0-85F9-48B5-A600-54E976FB932E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0607",
+      "file_name": "18-00455 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 110-07 73rd Road, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A4DC86B-B606-49AE-974C-D5329CC64DD1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0607",
+      "file_name": "Petition (110-07 73 Rd).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={300FEDEE-8DB2-43CA-AD25-5029B4DC663D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0607",
+      "file_name": "Exhibit 2 (110-07 73 Rd).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7056A7F5-9020-487D-89AB-97B37E5874C7}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0607",
+      "file_name": "Exhibit 1 (110-07 73 Rd).pdf"
+    }
+  ]
+}

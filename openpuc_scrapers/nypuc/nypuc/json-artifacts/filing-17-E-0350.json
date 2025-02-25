@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0350",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D40D647C-4F03-49F5-BA74-46E157AFB193}",
+      "organization": "10 Huron FS Condo LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0350",
+      "file_name": "Burgess 12-11-17 Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26DD6D61-DC5B-43EF-99D6-0B6F7E445B29}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0350",
+      "file_name": "366_17-E-0350 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information for the Notice of Intent and Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE119549-6C24-4421-9DD7-E8A383B24234}",
+      "organization": "10 Huron FS Condo LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0350",
+      "file_name": "Staff Questions_10.12.17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of 10 Huron FS Condo LLC to Submeter Electricity at 23 and 21 India Street, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CB7EDC6-0105-4DAD-846D-5DEDDA759FB4}",
+      "organization": "10 Huron FS Condo LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0350",
+      "file_name": "Submetering Notice of Intent_23_21_India Street_FINAL.pdf"
+    }
+  ]
+}

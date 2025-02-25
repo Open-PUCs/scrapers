@@ -1,0 +1,49 @@
+{
+  "case": "18-V-0007",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37B0353C-6D68-4DEC-887E-AC55CA0B2030}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0007",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/04/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0007 Kinderhook Town Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={294F78ED-C2BD-42F9-B2BB-7BD2D7E97014}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0007",
+      "file_name": "18-V-0007 Kinderhook Town Franchise Agreement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/04/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0007 Kinderhook Renewal Signed p 14 of Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF08FAE6-126F-4C3C-BBCB-134542556902}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0007",
+      "file_name": "18-V-0007 Kinderhook Renewal Signed p 14 of Franchise Agreement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/03/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Kinderhook, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE9697A3-C129-4B14-8782-17900B0EF34A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0007",
+      "file_name": "1.3.18 T Kinderhook Charter PSC cable franchise renewal.pdf"
+    }
+  ]
+}

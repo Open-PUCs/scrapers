@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0245",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Information (547 River Street)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70C3E191-0000-CF18-88F9-AC086B66588F}",
+      "organization": "547 River, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0245",
+      "file_name": "Supplemental Information 9.11.24 (547 River Street).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 547 River, LLC to Submeter Electricity at 547 River Street, Troy, Located in the Service Territory of Niagara Mohawk Power Corporation d/b/a National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D8068F-0000-C616-B2B7-653A56FBEDED}",
+      "organization": "547 River, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0245",
+      "file_name": "Submeter Petition (547 River Street).pdf"
+    }
+  ]
+}

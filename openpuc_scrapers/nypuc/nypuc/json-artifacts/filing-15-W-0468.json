@@ -1,0 +1,71 @@
+{
+  "case": "15-W-0468",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C20812E3-3155-476D-A951-A0F786674C27}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-W-0468",
+      "file_name": "463_15-W-0468.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A8CD047-D6B0-406B-95D6-53886D80B10C}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-W-0468",
+      "file_name": "Petition for Waiver, C 15-W-0468, SWC-Sitwell, with Appendices.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E9F3F79A-1CD7-45D2-9B6B-8FA7D09A2F4A}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-W-0468",
+      "file_name": "Letter of Transmittal, Petition for Waiver, C 15-W-0468, 190119.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/19/2015",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on the Provision of Water Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={866E1B97-C428-4FAC-B28D-EB78B0B0094B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-W-0468",
+      "file_name": "462_15w0468.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/14/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed Full EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D914BC22-15E6-4285-BCD1-A695BED2E8BA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-W-0468",
+      "file_name": "Signed Full EAF.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/14/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Saratoga Water Services, Inc. and Sitwell Enterprises, LLC for a Declaratory Ruling Concerning the Provision of Water Service to a Proposed Project in the Town of Malta, Saratoga County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD40FB95-0982-457A-A2A3-088934CCC467}",
+      "organization": "Saratoga Water Services, Inc., Sitwell Enterprises, LLC",
+      "itemNo": "1",
+      "docket_id": "15-W-0468",
+      "file_name": "doc02084320150814094100.pdf"
+    }
+  ]
+}

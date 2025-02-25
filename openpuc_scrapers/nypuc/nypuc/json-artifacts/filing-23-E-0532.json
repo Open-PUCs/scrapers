@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0532",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Sandy Hollow Power Company Letter Regarding Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60AE5589-0000-CD1D-96AF-383AC5A0D52D}",
+      "organization": "Sandy Hollow Power Company, Inc",
+      "itemNo": "5",
+      "docket_id": "23-E-0532",
+      "file_name": "23-00767prnLtr2DPSsecy3_AllegeNationalGridViolation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/01/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter to the Secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={607BD787-0000-CC1B-8273-69D55FC2E5B6}",
+      "organization": "Sandy Hollow Power Company, Inc",
+      "itemNo": "2",
+      "docket_id": "23-E-0532",
+      "file_name": "prnLtrDPSsecyRespondNoticeViolation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/27/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Sandy Hollow Power Company - Notice of Apparent Violation April 27, 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={307FC387-0000-CA15-8E1F-3BADF3C8DDFF}",
+      "organization": "Sandy Hollow Power Company, Inc",
+      "itemNo": "1",
+      "docket_id": "23-E-0532",
+      "file_name": "Sandy Hollow Power Company - Notice of Apparent Violation.pdf"
+    }
+  ]
+}

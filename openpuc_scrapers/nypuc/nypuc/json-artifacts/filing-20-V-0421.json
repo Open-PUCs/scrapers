@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0421",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D78866F0-D1AC-4A67-B4D6-1CC72CFE91E0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0421",
+      "file_name": "663_20-V-0421 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Lake George, Warren County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={244C1F52-4533-42D7-9B05-B9C86D627EA7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0421",
+      "file_name": "2020.08.20 V.LAKE GEORGE RENEWAL TO PSC.pdf"
+    }
+  ]
+}

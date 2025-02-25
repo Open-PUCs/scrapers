@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0048",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={612A48F4-5412-4536-9337-179F23228F2E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0048",
+      "file_name": "377 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/22/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter From Secretary Burgess Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B5BCD93-CDD3-4C48-93F4-41E3283C274D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0048",
+      "file_name": "377 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91F0E8CF-3692-4A7E-BD67-8C997CEABB92}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0048",
+      "file_name": "512187 Daniels Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4E9EEC5-03DA-4901-80F3-85356017F382}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-E-0048",
+      "file_name": "Scanned from a Xerox Multifunction Printer_19 - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9DA9E83-2858-4C00-8646-EA032BEB30E2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0048",
+      "file_name": "Daniels FINAL Redacted.pdf"
+    }
+  ]
+}

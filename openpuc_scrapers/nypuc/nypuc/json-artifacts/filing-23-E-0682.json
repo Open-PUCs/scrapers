@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0682",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Letters",
+      "name": "244190_Delmont_Untimely_SMR_11.9.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20DBD98B-0000-C111-AE7A-DCF768E0063F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0682",
+      "file_name": "244190_Delmont_Untimely_SMR_11.9.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "244190 Delmont Petition for Rehearing 11062923_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40DAD98B-0000-C81C-8394-A9D51B575454}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0682",
+      "file_name": "244190 Delmont Petition for Rehearing 11062923_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Letters",
+      "name": "244190_Annas_SMD_Final_10062023 (3)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D8D98B-0000-CB10-A693-31F6C1676931}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0682",
+      "file_name": "244190_Annas_SMD_Final_10062023 (3)_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0312",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D363201E-4FFB-4D65-9752-227546519A69}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0312",
+      "file_name": "663_17-V-0312.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Kiantone, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0054A56-E1F2-4C4D-84B7-F4FAC39A878D}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0312",
+      "file_name": "06.09.17 KIANTONE, TOWN RENEWAL SUBMITTED TO PSC.pdf"
+    }
+  ]
+}

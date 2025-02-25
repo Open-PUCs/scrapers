@@ -1,0 +1,82 @@
+{
+  "case": "23-W-0513",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Close Out Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B09C358C-0000-CB1A-9A38-8F11EEC0DB69}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-W-0513",
+      "file_name": "23-W-0513 Close Out Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50EF678B-0000-C819-9E04-8367DFDC7684}",
+      "organization": "Engineering Partners, LLC, Great Expectations LLC",
+      "itemNo": "2",
+      "docket_id": "23-W-0513",
+      "file_name": "GE2EP Letter to Withdraw Petition to Phillips 231025.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Great Expectations LLC and Engineering Partners, LLC for Approval of a Water Facility Sale with an Original Cost of Over $100,000.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8035858A-0000-C275-BD0D-C0C5EFA81BA2}",
+      "organization": "Engineering Partners, LLC, Great Expectations LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0513",
+      "file_name": "GE2EP Petition for trhe transfer of assets 230826.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "GE2EP Petition App 3 Draft SAPA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8035858A-0000-CB30-9D27-81B2C78126B8}",
+      "organization": "Engineering Partners, LLC, Great Expectations LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0513",
+      "file_name": "GE2EP Petition App 3 Draft SAPA.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "GE2EP Petition App 2 EAF Short Form Part 1 230830",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8035858A-0000-C213-B02F-F397D53A9881}",
+      "organization": "Engineering Partners, LLC, Great Expectations LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0513",
+      "file_name": "GE2EP Petition App 2 EAF Short Form Part 1 230830.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "GE2EP Petition App 1 Executed Asset Purchase Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7035858A-0000-C61E-8455-AF49A3B4F207}",
+      "organization": "Engineering Partners, LLC, Great Expectations LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0513",
+      "file_name": "GE2EP Petition App 1 Executed Asset Purchase Agreement(5697606.1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8035858A-0000-C95F-890D-480F775A918E}",
+      "organization": "Engineering Partners, LLC, Great Expectations LLC",
+      "itemNo": "1",
+      "docket_id": "23-W-0513",
+      "file_name": "GE2EP Petition Cover Letter to Sec. Phillips 230911.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0488",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Thomas T. Ranallo Granting Request to Withdraw Complaint and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C52B4938-A92A-49D4-A5A4-0843246196BF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "18-V-0488",
+      "file_name": "18-V-0488 Sec. ltr. Approving Case Closure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "City of Gloversville Withdrawal of Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AFC662C-76A2-4E7D-852F-E99E13234882}",
+      "organization": "City of Gloversville",
+      "itemNo": "5",
+      "docket_id": "18-V-0488",
+      "file_name": "4.13.21 to NYSPSC re City of Gloversville NY.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/19/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Settlement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAB780D2-CE08-448D-8DEB-B1E1E1E2BFE8}",
+      "organization": "Charter Communications",
+      "itemNo": "4",
+      "docket_id": "18-V-0488",
+      "file_name": "Charter Cover Letter - Matter No. 18-01790.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSPSC re City of Gloversville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BC27366-CC88-4A40-A156-56C04F3B87F5}",
+      "organization": "City of Gloversville",
+      "itemNo": "3",
+      "docket_id": "18-V-0488",
+      "file_name": "NYSPSC re City of Gloversville.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4771330C-1105-4F8E-8D7B-DF92F56FE8C6}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0488",
+      "file_name": "Case 18-V-0488 Complaint of City of Gloversville against Time Warner Cable - pdf searchable.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/30/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Complaint of City of Gloversville Against Time Warner Cable Concerning Franchise Agreement Fees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E72A341-230F-4531-8AAB-645F29459528}",
+      "organization": "City of Gloversville",
+      "itemNo": "1",
+      "docket_id": "18-V-0488",
+      "file_name": "Complaint.pdf"
+    }
+  ]
+}

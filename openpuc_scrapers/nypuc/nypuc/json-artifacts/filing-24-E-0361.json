@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0361",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0257191-0000-C815-A18D-BEAFB85E147F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-E-0361",
+      "file_name": "366_24-E-0361 -Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Adom SMR Response_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0CA7390-0000-C411-9CF1-920AA6A10F37}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "24-E-0361",
+      "file_name": "Adom SMR Response_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Letters",
+      "name": "431116 Ephraim SMR Ack. 06132024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40881790-0000-C313-9018-15811864BD82}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0361",
+      "file_name": "431116 Ephraim SMR Ack. 06132024_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Ephraim SMR Request 06102024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907D1790-0000-CC10-AC84-FE4059A401BD}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0361",
+      "file_name": "Ephraim SMR request 06102024_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Letters",
+      "name": "253415_Adom_SMD_Final_05152024_Redacted.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={108B1790-0000-C410-9FF0-CE3628F976E4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0361",
+      "file_name": "253415_Adom_SMD_Final_05152024_Redacted..pdf"
+    }
+  ]
+}

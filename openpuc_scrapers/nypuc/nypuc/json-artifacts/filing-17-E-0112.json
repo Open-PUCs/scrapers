@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0112",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F981829-1CE5-4F5D-9522-B4E66C7001EC}",
+      "organization": "Fulton Street Development, L.L.C.",
+      "itemNo": "3",
+      "docket_id": "17-E-0112",
+      "file_name": "Case_17-E-0112_Letter_to_Secretary_Filing_Certificate_of_Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86EAE544-4CAE-4F59-A389-3AEF30A70A39}",
+      "organization": "Fulton Street Development, L.L.C.",
+      "itemNo": "3",
+      "docket_id": "17-E-0112",
+      "file_name": "Case 17-E-0112_Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3934B9CC-A8E4-469B-B120-F5B5719F0D47}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-E-0112",
+      "file_name": "374_17-E-0112 Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Fulton Street Development, LLC to Submeter Electricity at 1328 Fulton Street, Brooklyn, NY in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34CBF447-FCEC-47F8-AD51-00EE8D05958F}",
+      "organization": "Fulton Street Development, L.L.C.",
+      "itemNo": "1",
+      "docket_id": "17-E-0112",
+      "file_name": "Fulton_Street_Developement_Cover_Letter_Filing_Notice_of_Intent.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Fulton Street Development, L.L.C. to Submeter Electricity at 1328 Fulton Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A08D5B54-A162-4D09-8505-015BF215B5DE}",
+      "organization": "Fulton Street Development, L.L.C.",
+      "itemNo": "1",
+      "docket_id": "17-E-0112",
+      "file_name": "Case 17-E-____ - Notice of Intent of Fulton Street Development, L.L.C. to Submeter Electricity at 1328 Fulton Street.pdf"
+    }
+  ]
+}

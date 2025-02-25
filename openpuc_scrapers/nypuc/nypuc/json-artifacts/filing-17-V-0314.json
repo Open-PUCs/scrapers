@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0314",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DEA296B-88F1-46B8-96D8-E77238FC0549}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0314",
+      "file_name": "661_17-V-0314.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for a Renewal of its Certificate of Confirmation and Cable Television Franchise in the Town of Nunda, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59F5048B-481E-4F82-B30A-CE76A67EC24B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0314",
+      "file_name": "06.12.17 - TN OF NUNDA, NY FRANCHISE SUBMITTED TO PSC.pdf"
+    }
+  ]
+}

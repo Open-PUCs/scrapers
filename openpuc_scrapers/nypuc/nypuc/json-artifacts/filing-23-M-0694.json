@@ -1,0 +1,71 @@
+{
+  "case": "23-M-0694",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/04/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Consolidated Edison Company of New York, Inc. Quarter Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20115892-0000-C025-895B-8CAF09602F3E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "23-M-0694",
+      "file_name": "CECONY_-_3Q_2024_PSC_Notice_of_Debt_Issuance_(Oct__2024).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Consolidated Edison Supplemental Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E93492-0000-C758-A14C-A6C421083240}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-M-0694",
+      "file_name": "LAW1-#1168267-v1-CECONY_2024_A&B_-_PSC_Notice_of_Debt_Issuance_Supplement (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Debt Issuance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F57490-0000-C217-8004-7B98A1887FFA}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-M-0694",
+      "file_name": "CECONY 2024 A.B PSC Notice of Debt Issuance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Consolidated Edison Company of New York, Inc. of the Commission\u00bfs order.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CA618E-0000-C316-91F3-1AEA0814CD20}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-M-0694",
+      "file_name": "LAW1-#1124823-v1-CECONY_Acceptance_of_PSC_order_-_2024.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/15/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Issuance of Securities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F047438E-0000-CE12-950C-35895B965455}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-M-0694",
+      "file_name": "261_23-M-0694_31524 Order & Attachment.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. for Authority, Pursuant to Section 69 of the Public Service Law, to Issue Securities with a Maturity of More than One Year.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4004368C-0000-CE19-A715-BBCF783D32B9}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-M-0694",
+      "file_name": "CECONY PSC Financing Petition 2023.pdf"
+    }
+  ]
+}

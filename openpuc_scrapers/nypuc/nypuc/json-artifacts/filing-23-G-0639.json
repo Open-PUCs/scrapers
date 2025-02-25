@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0639",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240119 - Payment - $2,500_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A082558D-0000-CB1D-A5CA-2977AD45B615}",
+      "organization": "Burrows Bros., Inc.",
+      "itemNo": "3",
+      "docket_id": "23-G-0639",
+      "file_name": "20240119 - Payment - $2,500_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0FEE98C-0000-C11C-B6E9-F38B84353DA9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0639",
+      "file_name": "161-A_23-G-0639.pdf"
+    }
+  ]
+}

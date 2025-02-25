@@ -1,0 +1,82 @@
+{
+  "case": "24-W-0202",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0C40991-0000-CF10-9254-781CAD9B18F6}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-W-0202",
+      "file_name": "24-W-0202.Somerdel.Draft.PP Signed 73124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Somerdel Water-Works Corp.",
+      "itemNo": "5",
+      "docket_id": "24-W-0202",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "SWWC Petition for Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0A6C690-0000-CB17-8D63-7A471D78FE1C}",
+      "organization": "Somerdel Water-Works Corp.",
+      "itemNo": "4",
+      "docket_id": "24-W-0202",
+      "file_name": "SWWC Petition for Transfer.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification Letter to Customers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={906A118F-0000-C610-8090-9BCEDEDA4B15}",
+      "organization": "Somerdel Water-Works Corp.",
+      "itemNo": "3",
+      "docket_id": "24-W-0202",
+      "file_name": "04242024_Somerdel Water Works Corp..pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F4A48E-0000-C339-8A0D-52A7C2FA54F4}",
+      "organization": "Somerdel Water-Works Corp.",
+      "itemNo": "2",
+      "docket_id": "24-W-0202",
+      "file_name": "LETT.Somerdel Filing Cover Letter 4-2-2024.dms.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2024 Filing for Rate Relief Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F4A48E-0000-C41C-965A-D63865C0EA8C}",
+      "organization": "Somerdel Water-Works Corp.",
+      "itemNo": "2",
+      "docket_id": "24-W-0202",
+      "file_name": "2024 Rate Case Exhibits-Revised 3-26-24.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Somerdel Water-Works Corp.",
+      "itemNo": "1",
+      "docket_id": "24-W-0202",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case": "23-E-0355",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Dispute Resolution Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D08A6589-0000-C515-B58C-83BF5FA7CE29}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-E-0355",
+      "file_name": "Dispute Resolution Response.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502E3189-0000-CD11-B934-6A2D873F9D4D}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Ex E - (Redacted) EnergyGuard benefits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502E3189-0100-CC3A-82C1-C50E58D581B8}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "Ex E - (Redacted) EnergyGuard benefits.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Ex D - (Redacted) erroneous drops",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502E3189-0100-C87C-B089-6C516D68714A}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "Ex D - (Redacted) erroneous drops.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Ex C - (Redacted) new designations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502E3189-0100-C15E-8694-3F43740F2ABC}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "Ex C - (Redacted) new designations.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Ex B - (Redacted) erroneous designation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={602E3189-0000-CA22-BD7B-94E88C216002}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "Ex B - (Redacted) erroneous designation.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Ex A - (Redacted) ineligible list May and June",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502E3189-0100-C41E-A6F4-626E1974169B}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "Ex A - (Redacted) ineligible list May and June.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Motions",
+      "name": "2023.07.07 request for confidential treatment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={402E3189-0000-CB1E-80D9-D7D96EC31E83}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "2023.07.07 request for confidential treatment.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "2023.07.07 cover ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502E3189-0000-CA3D-96F6-126121DEB768}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "2023.07.07 cover ltr.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "2023.07.07 (Redacted) Motion for Formal Dispute Resolution - final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502E3189-0000-CAF0-9D42-BC442DDD50C7}",
+      "organization": "Agway Energy Services, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0355",
+      "file_name": "2023.07.07 (Redacted) Motion for Formal Dispute Resolution - final.pdf"
+    }
+  ]
+}

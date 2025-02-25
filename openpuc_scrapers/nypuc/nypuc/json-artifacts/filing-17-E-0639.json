@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0639",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADABC9E1-927A-4BB6-9BD5-8FEAEDD4F003}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0639",
+      "file_name": "371_17-E-0639.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/29/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03EA8E91-F2CB-47C5-8332-937EE3B2B883}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0639",
+      "file_name": "17-E-0639 Postponement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "17-E-0639",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5F6FBAA-21CF-435A-978C-F75A20548056}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0639",
+      "file_name": "CE Elec Interval Charge legal notice 2017 1206.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/17/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0639",
+      "file_name": ""
+    }
+  ]
+}

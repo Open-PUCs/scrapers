@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0476",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD2E61BB-E1AE-47B1-8985-11F37A326A6A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0476",
+      "file_name": "368_16-E-0476.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "HEFPA Quarterly Billing Plan for 301 East 50th Street, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6268AB8-299E-4971-B7D5-193106172780}",
+      "organization": "Camelot Property Management Services Corp.",
+      "itemNo": "2",
+      "docket_id": "16-E-0476",
+      "file_name": "quarterly billing plan.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 301 East 50th Street Condominium to Submeter Electricity at 301East 50th Street, New York, NY 10022, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1C96075-E71D-493B-AAE1-D7450EC08294}",
+      "organization": "301 East 50th Street Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0476",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

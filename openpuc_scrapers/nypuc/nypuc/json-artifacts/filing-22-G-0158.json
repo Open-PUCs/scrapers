@@ -1,0 +1,71 @@
+{
+  "case": "22-G-0158",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90451C8C-0000-C910-B243-2CE3218C59A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0158",
+      "file_name": "162 - 22-G-0158 - Letter 11.29.23 final - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90451C8C-0000-CC38-999C-97BDE19B7FEF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0158",
+      "file_name": "162_22-G-0158_Determination 112923 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "CECONY Reply to Sarah Davis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48CA354D-C0BB-48B2-8466-A1738A379C45}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-G-0158",
+      "file_name": "Case 22-G-0158-CECONY Reply to Sarah Davis.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54A0423B-4F43-4F16-8B0B-B9A611320ED9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0158",
+      "file_name": "162994 ack ltr Sarah Davis v Con Ed_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C909263-D8FB-4104-B8FA-5B30FA676FF7}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-G-0158",
+      "file_name": "162994 Appeal Sarah Davis v Con Ed 3-17-22_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0FBF6137-91A8-4A53-BFD8-932EF32F0ECA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0158",
+      "file_name": "162994 IHD 3-17-22_Redacted.pdf"
+    }
+  ]
+}

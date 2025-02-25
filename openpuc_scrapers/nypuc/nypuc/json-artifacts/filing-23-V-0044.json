@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0044",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90310587-0000-C517-AFEF-F5BB31F7FB52}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0044",
+      "file_name": "663_23-V-0044.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FC9CEB2-D96A-4EB3-9A62-074F43595C59}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0044",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. DeWitt 01.20.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F37635F-95F2-43A4-8770-350FB5F7FD97}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0044",
+      "file_name": "Charter Confidential Treatment Request to RAO T. DeWitt 01.20.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. DeWitt-Request for Renewal, Certificate of Confirmation(Redacted) 1.20.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={927198F0-9937-409B-8E9A-673230B96CC0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0044",
+      "file_name": "Charter Communications, T. DeWitt-Request for Renewal, Certificate of Confirmation(Redacted) 1.20.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. DeWitt-Cover Letter-Request for Renewal and Certificate of Confirmation 1.20.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EBC37B4-DDF9-4B23-BDA3-C809D56BD3FD}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0044",
+      "file_name": "Charter Communications, T. DeWitt-Cover Letter-Request for Renewal and Certificate of Confirmation 1.20.23.pdf"
+    }
+  ]
+}

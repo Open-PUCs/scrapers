@@ -1,0 +1,49 @@
+{
+  "case": "22-M-0054",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/16/2022",
+      "nypuc_doctype": "Reports",
+      "name": "2021 Customer Service Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={643953BA-7737-46EA-BC2E-11FAF55FC7CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-M-0054",
+      "file_name": "201_22-M-0054 - Utility Customer Svs Qty. Perform Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/16/2022",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Gas and Electric Safety, Customer Service of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB0C3A51-E534-4979-B280-24F5B078AB5B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-M-0054",
+      "file_name": "pr22055.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2021 SQPMS Request Waiver for PRA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D962804-2BBA-4E6B-932B-BF745325E1BF}",
+      "organization": "Liberty Utilities (St. Lawrence Gas) Corp.",
+      "itemNo": "3",
+      "docket_id": "22-M-0054",
+      "file_name": "2021 SQPMS Request Waiver for PRA.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2021 SQPMS Request Waiver for NRA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B299A0A9-4396-42E6-A4B7-90644A901599}",
+      "organization": "Liberty Utilities (St. Lawrence Gas) Corp.",
+      "itemNo": "3",
+      "docket_id": "22-M-0054",
+      "file_name": "2021 SQPMS Request Waiver for NRA.pdf"
+    }
+  ]
+}

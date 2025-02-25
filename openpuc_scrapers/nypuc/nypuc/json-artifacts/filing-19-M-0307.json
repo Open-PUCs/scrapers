@@ -1,0 +1,38 @@
+{
+  "case": "19-M-0307",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/14/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service and Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F6E0B4E-AED9-4861-A7F6-8DC20772A426}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-M-0307",
+      "file_name": "pr19054revised.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service and Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F621FE55-6C1D-45F9-9530-5E34785B3F40}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-M-0307",
+      "file_name": "pr19054.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Reports",
+      "name": "2018 Utility Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C17FE248-3A5A-491D-A823-0F1D1D13EFA0}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0307",
+      "file_name": "201_19-M-0307 Energy Utility SQ Report.pdf"
+    }
+  ]
+}

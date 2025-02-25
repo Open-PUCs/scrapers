@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0412",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF2C9E8E-1BA6-46FB-A7F3-C984C090A14F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0412",
+      "file_name": "371 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={904B1CBD-6E7B-4E0D-AA33-24FB502E2F35}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0412",
+      "file_name": "371 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement of Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42161926-DDEB-415D-8E71-DC6C94146589}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0412",
+      "file_name": "527335 Allen Ack_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DBA0069-E3AF-4C7D-9C14-ABB17E75AD3D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0412",
+      "file_name": "Allen Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/07/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={771FA8D3-CBBC-4356-9703-76F26554D329}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0412",
+      "file_name": "Allen IH_Redacted.pdf"
+    }
+  ]
+}

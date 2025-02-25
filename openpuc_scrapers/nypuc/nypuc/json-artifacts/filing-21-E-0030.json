@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0030",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13164BDB-2282-41AB-8203-042A4A6892B5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0030",
+      "file_name": "373_21-E-0030_dec ruling final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Canandaigua Power Partners II, LLC; Canandaigua Power Partners, LLC and Carr Street Generation Station, L.P. for a Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={701B63FB-D991-49CE-A310-C8B0A9F19EC5}",
+      "organization": "Canandaigua Power Partners II, LLC, Canandaigua Power Partners, LLC, Carr Street Generation Station, L P.",
+      "itemNo": "1",
+      "docket_id": "21-E-0030",
+      "file_name": "Cover Letter 1-5-21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Canandaigua Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D50EF4BB-7E16-4ED4-B9BB-BA8CAFB1896A}",
+      "organization": "Canandaigua Power Partners II, LLC, Canandaigua Power Partners, LLC, Carr Street Generation Station, L P.",
+      "itemNo": "1",
+      "docket_id": "21-E-0030",
+      "file_name": "Canandaigua Petition 1-5-21.pdf"
+    }
+  ]
+}

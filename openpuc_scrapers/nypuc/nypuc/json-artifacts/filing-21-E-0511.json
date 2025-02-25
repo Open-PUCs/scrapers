@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0511",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/31/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-E-0511",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/31/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "5",
+      "docket_id": "21-E-0511",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/31/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "21-E-0511",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "21-E-0511",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Interconnection Agreement for Federal Agencies",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F63621E9-3C99-444C-B6A0-CF0268E6F5BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0511",
+      "file_name": "371_21-E-0511.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Joint Utilities Response to VA SIR Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84935A5F-A0BF-49DA-AA84-D88309E04201}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "21-E-0511",
+      "file_name": "JU Response Case 21-E-0511.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B6A067D-0C49-40E0-BA17-49AEA09F3D43}",
+      "organization": "US Department of Veterans Affairs",
+      "itemNo": "1",
+      "docket_id": "21-E-0511",
+      "file_name": "VA Cover Letter 6OCT2021.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendix A VA Redlines 6OCT2021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A29B1CF-DCA2-45DF-B179-9FFF95EC8B07}",
+      "organization": "US Department of Veterans Affairs",
+      "itemNo": "1",
+      "docket_id": "21-E-0511",
+      "file_name": "Appendix A VA Redlines 6OCT2021.pdf"
+    }
+  ]
+}

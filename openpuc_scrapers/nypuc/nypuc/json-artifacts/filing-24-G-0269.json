@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0269",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={106C5590-0000-C833-B3D2-B53FD33FC3A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "24-G-0269",
+      "file_name": "161-B_24-G-0269 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240507 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B4598F-0000-CC1D-A780-D7518591F04D}",
+      "organization": "A-Tech Concrete Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-G-0269",
+      "file_name": "20240507 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240422 - Training Documentation - 4 Employees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={408E2A8F-0000-C413-9587-AA264F4B7AFE}",
+      "organization": "A-Tech Concrete Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0269",
+      "file_name": "20240422 - Training Documentation - 4 Employees.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240314 - Payment - $1,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80EA998E-0000-C71E-8353-1DC472A384A4}",
+      "organization": "A-Tech Concrete Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0269",
+      "file_name": "20240314 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D0C68D-0000-C418-9E63-8DBDD341A5BE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0269",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

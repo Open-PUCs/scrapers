@@ -1,0 +1,71 @@
+{
+  "case": "17-V-0726",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5172BCFA-6C1D-4EFF-9DCE-AFA1165699AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-V-0726",
+      "file_name": "662_17-V-0726.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE2B9634-8979-4E06-86A3-95A57F3592E7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-V-0726",
+      "file_name": "17-00951 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correction to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B791A0E-A604-4830-9837-5880CE69231A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0726",
+      "file_name": "170525 Petition Correction.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 144-76 Sanford Av, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C60170A-893C-41C7-95EB-0D52653ED247}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0726",
+      "file_name": "170503 Petition re 144-76 Sanford Av.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9FAA826-C345-4AC2-BCCE-529440706DD8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0726",
+      "file_name": "Exhibit 2 (144-76 Sanford Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/03/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F5AA8E7-CD96-4304-9928-866A9E0DCCF5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0726",
+      "file_name": "Exhibit 1 (144-76 Sanford Av).pdf"
+    }
+  ]
+}

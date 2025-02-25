@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0471",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5088B592-0000-CE12-8DCA-70EBB07BA574}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0471",
+      "file_name": "661_24-V-0471.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={506A4D91-0000-C832-946E-B2A97E3B5C65}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0471",
+      "file_name": "AUSA Newspaper Cover Letter - Yonkers, City of.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - City of Yonkers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={506A4D91-0000-CB11-A9EF-B266F31A104D}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0471",
+      "file_name": "AUSA Newspaper Affidavit - Yonkers, City of.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0194D91-0000-C880-AFD3-061A9266359A}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0471",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Yonkers, City of AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0194D91-0000-CB6B-BBB6-6C4C599E9329}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0471",
+      "file_name": "Exhibit IV - Yonkers, City of AUSA Franchise.PDF"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0194D91-0000-C64E-AF7E-AFEA4DD772FF}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0471",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - City Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0194D91-0000-C52F-B3C3-82355D16547E}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0471",
+      "file_name": "Exhibit II - City Legal Notice of Hearing.PDF"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0194D91-0000-CB3D-B83A-9B3ABBB93B09}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0471",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0194D91-0000-C814-BF46-E6A833FB8244}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0471",
+      "file_name": "Application Cover Letter - Yonkers, City of.pdf"
+    }
+  ]
+}

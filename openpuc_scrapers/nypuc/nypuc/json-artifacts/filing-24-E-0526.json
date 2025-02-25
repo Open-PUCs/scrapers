@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0526",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "MSA Industry Petition and Proposed Policy",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C8A491-0000-C113-9D99-64F2687F5C55}",
+      "organization": "ConnectDER, Inc., Tesla, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0526",
+      "file_name": "MSA Industry Petition and Proposed Policy.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10EBA491-0000-C317-8507-E69A84A6444C}",
+      "organization": "ConnectDER, Inc., Tesla, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0526",
+      "file_name": "MSA Industry Petition - Cover Letter.pdf"
+    }
+  ]
+}

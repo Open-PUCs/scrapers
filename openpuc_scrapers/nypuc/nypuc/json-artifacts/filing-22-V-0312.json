@@ -1,0 +1,49 @@
+{
+  "case": "22-V-0312",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3839CE27-27E2-4FD1-9BE8-87093FB3F00A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-V-0312",
+      "file_name": "661_22-V-0312.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00068 Letter to Building Owner Offering Facilitation - 417 Riverside Dr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD9F1105-3FF7-4BB6-ABA6-53CBE036CC5C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0312",
+      "file_name": "22-00068 Letter to Building Owner Offering Facilitation - 417 Riverside Dr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00068 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A97EA21-6F61-4BBF-9C56-49EA77518870}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0312",
+      "file_name": "22-00068 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 417 Riverside Drive, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={974F36BA-399F-43C8-AF97-8AFCFC4A18E4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0312",
+      "file_name": "220112-1 Petition (417 RIVERSIDE DR) (Post-CODA).pdf"
+    }
+  ]
+}

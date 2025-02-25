@@ -1,0 +1,38 @@
+{
+  "case": "20-C-0114",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/01/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Transaction Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED609F3F-A1E1-422E-8283-C7793C106B63}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "20-C-0114",
+      "file_name": "200701 Notice of Transaction Consummation.pdf (52 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/10/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-C-0114 MCI-CS to MCI-I OOL Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0427B966-0A14-4E60-828E-AD5825A4EE23}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0114",
+      "file_name": "20-C-0114 MCI-CS to MCI-I OOL Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of MCI Communications Services, Inc. and MCI International, Inc. for Approval of a Transfer of Ownership Pursuant to \u00a7 100 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA05B7C3-4A69-4254-A13D-440D6A777E86}",
+      "organization": "MCI Communications Services, Inc. d/b/a Verizon Business Services",
+      "itemNo": "1",
+      "docket_id": "20-C-0114",
+      "file_name": "200310 Petition (Complete).pdf (3 MB)"
+    }
+  ]
+}

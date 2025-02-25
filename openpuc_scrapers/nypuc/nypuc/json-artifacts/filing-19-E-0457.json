@@ -1,0 +1,27 @@
+{
+  "case": "19-E-0457",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BD600BE-9C55-4715-8D0D-0AAB471C31D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0457",
+      "file_name": "362_19-E-0456 19-E-0457.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0457",
+      "file_name": ""
+    }
+  ]
+}

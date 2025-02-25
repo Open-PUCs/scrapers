@@ -1,0 +1,60 @@
+{
+  "case": "15-G-0399",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86E4CE80-A412-4DA3-B822-BE986B3867C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0399",
+      "file_name": "164_15-G-0399 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A3AAE8F-E6F7-4102-82E5-E5A76FD8295C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0399",
+      "file_name": "164_15-G-0399 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/08/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement of Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFA9E82A-D999-4C8C-9B7E-BA7FECBB4958}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-G-0399",
+      "file_name": "Mazzola vs. NGMetro 227593.IH decision_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC3F3C89-E6B3-463B-B33C-947DD516EE86}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "15-G-0399",
+      "file_name": "227593 Appeal 6 18 15.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/08/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E9A1D2E-3D82-4D59-A92E-6CEB3363DF6A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-G-0399",
+      "file_name": "Mazzola vs. NGMetro 227593.IH decision_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "16-V-0667",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5C7E727A-6918-403A-897A-6E743B49D2B9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-V-0667",
+      "file_name": "663_16-V-0667.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/06/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89EA20AD-2EA7-4EF1-A7C5-9E16342D1FE9}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "3",
+      "docket_id": "16-V-0667",
+      "file_name": "Proof of Publication-12-6-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8658B290-0F1D-44F5-AB08-15868BFD432A}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0667",
+      "file_name": "Request for exception from disclosure 11-15-16 99-V-0231.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/15/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast of New York, LLC for Approval of the Renewal of its Franchise with the Town of Kent, Putnam County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D85E5321-37A6-4B54-8CE2-AEFC9DD6D4CC}",
+      "organization": "Comcast of New York, LLC, Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0667",
+      "file_name": "Comcast Renewal by Option_Kent NY.pdf"
+    }
+  ]
+}

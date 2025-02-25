@@ -1,0 +1,27 @@
+{
+  "case": "22-W-0128",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "WW Transfer Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED2C443B-8389-4458-8F2A-20B40182FB2C}",
+      "organization": "Brewster Industrial Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-W-0128",
+      "file_name": "WW Transfer Cover Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Submission Binder",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DE99419-9543-42EF-81CE-699E4415B54F}",
+      "organization": "Brewster Industrial Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-W-0128",
+      "file_name": "Petition Submission Binder.pdf"
+    }
+  ]
+}

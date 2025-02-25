@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0625",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-01922 Letter to Building Owners 4231 Union St, Flushing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0066792-0000-C11C-9569-CA329FF72299}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-V-0625",
+      "file_name": "24-01922 Letter to Building Owners 4231 Union St, Flushing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 with Cover Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D20092-0000-CA15-9178-9594ED379C97}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0625",
+      "file_name": "Exhibit 2 with Cover Sheet.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 with Cover Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D20092-0000-C534-9A8F-BCD00F0DE80E}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0625",
+      "file_name": "Exhibit 1 with Cover Sheet.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40D20092-0000-CD10-886C-482848D8FECC}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0625",
+      "file_name": "Filing Cover Letter - Order of Access 2024 - 4231 Union Street.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "4231 Union Street - Order of Access Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D20092-0000-C55E-9713-86C6D79817B8}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0625",
+      "file_name": "4231 Union Street - Order of Access Petition_ Final(29767951.1).pdf"
+    }
+  ]
+}

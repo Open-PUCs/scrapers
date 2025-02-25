@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0296",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35E48F54-A70E-486F-87C5-8E5F0DAF6F36}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0296",
+      "file_name": "663_17-V-0296.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Gowanda, of County of Cattaraugus, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10EA79C8-8752-4881-AAC3-5D7C0D52FF09}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0296",
+      "file_name": "GOWANDA, VLG RENEWAL SUBMITTED TO PSC, 05.25.17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0255",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Alex Thompson Granting Request to Withdraw Petition and Closing the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4041AF8A-0000-C611-917D-3114E642221F}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0255",
+      "file_name": "21-E-0255 Sec Letter Granting Withdrawal and Closing Proceeding.9.19.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Close the Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5039058A-0000-CF1B-AD19-A45DE529A057}",
+      "organization": "Byram Laboratories, Inc.",
+      "itemNo": "5",
+      "docket_id": "21-E-0255",
+      "file_name": "NY PUC Case Close.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "93.6 Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3C77663-1166-40B7-912C-D8709B6E68E7}",
+      "organization": "Byram Laboratories, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0255",
+      "file_name": "93.6 Compliance (Autosaved).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/20/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supporting Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={289AAC28-08B6-4BE6-8B71-2BE369FF7A86}",
+      "organization": "Bay City Metering",
+      "itemNo": "3",
+      "docket_id": "21-E-0255",
+      "file_name": "doc01070220210819163458 (002).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={307ECF43-6F1A-4EB1-AD8A-1238D596ABB9}",
+      "organization": "Byram Laboratories, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0255",
+      "file_name": "NY PUC REXU RAO 4282021.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Byram Laboratories, Inc. for Approval of REXU.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71FCA339-8571-46DF-BF0E-C879B0FB9C8F}",
+      "organization": "Byram Laboratories, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0255",
+      "file_name": "NY PUC REXU redacted 2.0.pdf"
+    }
+  ]
+}

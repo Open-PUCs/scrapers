@@ -1,0 +1,71 @@
+{
+  "case": "20-V-0185",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE73064C-318B-4962-9584-8D5B6C1664F9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0185",
+      "file_name": "20-V-0185 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAA5E9E0-FAB0-48FB-A30B-FBE61533EC74}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0185",
+      "file_name": "201110 Letter re Matter 19-00692 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Verizon Suspension Request Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A626624-7052-445E-9D28-4ED098A7EA61}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0185",
+      "file_name": "191007 VZ Letter re 700 West End Av (suspension).pdf (53 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 700 West End Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D09DF862-1047-43A5-904D-DB9CA50BC53B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0185",
+      "file_name": "Petition (700 West End Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CBAD508-E7D0-4FAC-A97C-CB8DB9DBD840}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0185",
+      "file_name": "Exhibit 2 (700 West End Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7D263D4-0C24-4A1B-B995-2697EFF5F696}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0185",
+      "file_name": "Exhibit 1 (700 West End Av).pdf"
+    }
+  ]
+}

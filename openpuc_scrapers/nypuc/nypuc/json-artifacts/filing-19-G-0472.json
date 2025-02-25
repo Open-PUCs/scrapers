@@ -1,0 +1,38 @@
+{
+  "case": "19-G-0472",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8988BD25-24C1-4DA7-B9D4-3B3FCC2B0E60}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-G-0472",
+      "file_name": "162-C_19-G-0472.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23CAA06F-94B6-4477-9D38-D53011C19265}",
+      "organization": "Master Builders of Orange County, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-G-0472",
+      "file_name": "Response to the Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08025F14-E96B-40C5-92AE-9FE33CA3EC6F}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0472",
+      "file_name": "166-A_19-G-0472.pdf"
+    }
+  ]
+}

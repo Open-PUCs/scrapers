@@ -1,0 +1,60 @@
+{
+  "case": "20-E-0554",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Collegium West 120th Street LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={437F079D-A684-4A18-A0B4-5317A3322E1A}",
+      "organization": "Collegium West 120th Street LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0554",
+      "file_name": "Collegium West 120th Street LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72D07B32-13CD-4907-8D8D-380F2C438C63}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0554",
+      "file_name": "363_20-E-0554 Order Authorizing Submetering final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F42AB30A-DB3F-40CF-B7F9-B23040FE2DFC}",
+      "organization": "Collegium West 120th Street LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0554",
+      "file_name": "Collegium West 120th Street LLC - Supplemental Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Collegium West 120th Street LLC - SAPA Notice Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={758B81F9-04BA-472B-8B27-290FE89A5B6A}",
+      "organization": "Collegium West 120th Street LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0554",
+      "file_name": "Collegium West 120th Street LLC - SAPA Notice Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Notice of Intent - Collegium West 120th Street LLC - 415 West 120th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D2D668E-493C-4166-B7E8-98000D68D929}",
+      "organization": "Collegium West 120th Street LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0554",
+      "file_name": "Submetering Notice of Intent - Collegium West 120th Street LLC - 415 West 120th Street.pdf"
+    }
+  ]
+}

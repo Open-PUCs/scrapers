@@ -1,0 +1,71 @@
+{
+  "case": "19-C-0362",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/31/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification of Closing of Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B3BFFCF-A69F-4EB6-B6B2-3EAA92C03C4F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "19-C-0362",
+      "file_name": "622-628 West 153rd Street Notification.pdf (54 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Non-Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D81ECE85-3D30-422E-8D97-A7F6C7BCD929}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-C-0362",
+      "file_name": "561_19-C-0362 Notice of Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AF34A87-7008-48FE-8FC3-A9E5850208E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-C-0362",
+      "file_name": "561_19-C-0362 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/10/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Case 19-C-0362 VZ Property Transfer Review Ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BACF267-8296-4CD5-ABC2-49BB08897E87}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-C-0362",
+      "file_name": "Case 19-C-0362 VZ Property Transfer Review Ltr.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/13/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Submission of Financial Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D424723-D3EF-4C00-9CBF-5B28E04E5C47}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-C-0362",
+      "file_name": "190313 Submission of Financial Exhibits.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Verizon New York Inc. of an Exchange of a Condominium Unit Located at 622-628 West 153rd Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C4AF3B2-B680-4674-A3E3-6AB582F61A58}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0362",
+      "file_name": "190214 Notice of Exchange.pdf"
+    }
+  ]
+}

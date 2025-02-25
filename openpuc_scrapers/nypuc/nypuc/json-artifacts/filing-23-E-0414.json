@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0414",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "336931_SMR_Rejection_as_Untimely-Chatelain_7.7.23_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10099E89-0000-C112-B797-69F5D1A1170D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0414",
+      "file_name": "336931_SMR_Rejection_as_Untimely-Chatelain_7.7.23_final (1)_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/28/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "336931 SMR Request Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0069E89-0000-C319-973E-6ABE2C2B51F4}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0414",
+      "file_name": "336931 SMR Request Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "336931-973638 SMD Final Redacted 02.03.2020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0039E89-0000-CC1E-90C0-D76D1DBAA6CF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0414",
+      "file_name": "336931-973638 SMD Final Redacted.pdf"
+    }
+  ]
+}

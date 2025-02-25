@@ -1,0 +1,93 @@
+{
+  "case": "21-W-0292",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Reports",
+      "name": "SWS-Poppy's 240103 Letter of Withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00EAD08C-0000-C618-AB9E-A52311E6F33C}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "5",
+      "docket_id": "21-W-0292",
+      "file_name": "SWS-Poppy's 240103 Letter of Withdrawal .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/08/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DCDD82A-FD98-4B5D-B375-5CE0CE70643D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-W-0292",
+      "file_name": "461_21-W-0292_Neg. Dec. .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/08/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD9EFFD3-9F31-48D2-AC5D-B4463FB2EE5F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-W-0292",
+      "file_name": "461_21-W-0292 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Saratoga & Poppy's Place EAF Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EBE97F4-57F1-4225-9B48-78672F4A5B94}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-W-0292",
+      "file_name": "Case 21-W-0292 Saratoga & Poppy's Place EAF Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Saratoga & Poppy Place EAF Part II and III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81FB842C-49CF-4FDE-B523-20E9A744BB6E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-W-0292",
+      "file_name": "Case 21-W-0292 Saratoga & Poppy Place EAF Part II and III.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-Poppy's Petition to Extn Serv Area",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FEF6B58-5B28-4AC9-AAE2-31ED5F14C979}",
+      "organization": "Poppy's Place Food Park, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0292",
+      "file_name": "SWS-Poppy's 210518 Petition to Extn Serv Area.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-Poppy's Notice of Proposed Rule Making",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10DAEA80-1903-410F-BFB3-F70CADE086A9}",
+      "organization": "Poppy's Place Food Park, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0292",
+      "file_name": "SWS-Poppy's 210518 Notice of Proposed Rule Making.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-Poppy's Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={857A5668-9460-4115-A89A-2612AE29E5AA}",
+      "organization": "Poppy's Place Food Park, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0292",
+      "file_name": "SWS-Poppy's 210518 Letter of Transmittal.pdf"
+    }
+  ]
+}

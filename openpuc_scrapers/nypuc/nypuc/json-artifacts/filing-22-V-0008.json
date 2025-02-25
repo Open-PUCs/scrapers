@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0008",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={556AD3F5-6098-493D-8ADE-A329DFD30246}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0008",
+      "file_name": "661_22-V-0008.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01944 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={794C22F7-20C7-4C70-87FD-346DCA9766CD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0008",
+      "file_name": "21-01944 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 612 East 11th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34FF1F78-E5CA-4054-8C83-C8234C0EF7E3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0008",
+      "file_name": "13-210909 Petition (612 E 11 ST) (Complete).pdf"
+    }
+  ]
+}

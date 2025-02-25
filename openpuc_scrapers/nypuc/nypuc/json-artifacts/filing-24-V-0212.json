@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0212",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60645A90-0000-CC1D-8E9E-67577712AED8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0212",
+      "file_name": "662_24-V-0212.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Putnman Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90E2AA8E-0000-C17E-9F52-676DF93666B2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0212",
+      "file_name": "T. Putnman Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Putnam Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 04.04.24 SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90E2AA8E-0000-CE59-828D-01A0F3BA64F0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0212",
+      "file_name": "T. Putnam Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 04.04.24 SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90E2AA8E-0000-C339-A0B7-98AC2CE215B2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0212",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Putnam 04.04.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E2AA8E-0000-C113-A0BC-2076FA8613B7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0212",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Putnam 04.04.24.pdf"
+    }
+  ]
+}

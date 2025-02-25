@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0737",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFD36F7D-860B-4EE8-AA11-0F4D7F22910B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-V-0737",
+      "file_name": "664_19-V-0737.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cvr and Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C48394E-1B6F-4D5A-B61D-C738DD28CB57}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0737",
+      "file_name": "Cvr and Proof of Performance.pdf (237 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "AUSA Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5851C8C-2F47-4D91-9931-726C1440D6FB}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0737",
+      "file_name": "AUSA Public Notice.pdf (593 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV Dobbs Ferry Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D00A08B5-D3C9-4E60-B7C2-9921D64A4240}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0737",
+      "file_name": "Exhibit IV Dobbs Ferry Franchise Agreement.pdf (737 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III Dobbs Ferry Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CCECB3E-3E07-4195-B384-1322819844EB}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0737",
+      "file_name": "Exhibit III Dobbs Ferry Resolution.pdf (407 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II Dobbs Ferry Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5C8FBAF-BF94-4A0F-89FC-EB6226CC1306}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0737",
+      "file_name": "Exhibit II Dobbs Ferry Public Notice.pdf (215 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFAFD67D-7856-4D0B-A333-BBABD2B7E788}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0737",
+      "file_name": "Exhibit I R-2.pdf (650 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Dobbs Ferry Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27B6CFB1-E581-474E-849C-0EEA2E0D07B8}",
+      "organization": "Cablevision of Southern Westchester, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0737",
+      "file_name": "Dobbs Ferry Application Cover Letter.pdf (105 KB)"
+    }
+  ]
+}

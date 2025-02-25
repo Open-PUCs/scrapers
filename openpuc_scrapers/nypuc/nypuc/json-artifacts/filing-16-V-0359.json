@@ -1,0 +1,38 @@
+{
+  "case": "16-V-0359",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1A34FF4-3DFA-4383-954D-0C90D0B2FCE5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0359",
+      "file_name": "668_16-V-0359.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Minutes from February 9, 2016, with corrected signatures and dates.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2E026D5-2BC6-4D18-B601-21566CF2CD80}",
+      "organization": "Town of Wayne",
+      "itemNo": "2",
+      "docket_id": "16-V-0359",
+      "file_name": "Amended signature 2.9.16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/08/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Wayne, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D93821D-8252-4637-8ECF-8E4A0FD2F857}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0359",
+      "file_name": "WAYNE, TOWN - RENEWAL DOCS SUBMITTED TO PSC, 06.08.16.pdf"
+    }
+  ]
+}

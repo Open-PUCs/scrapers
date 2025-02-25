@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0098",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FC0B8F-0000-CB65-B540-6E8774F6BDC9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0098",
+      "file_name": "662_24-V-0098 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20528F8D-0000-C136-A5F0-1466D8F26350}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0098",
+      "file_name": "AUSA Newspaper Cover Letter - Brookhaven, T..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Brookhaven, T.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20528F8D-0000-C918-9127-34DA7C6F8B29}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0098",
+      "file_name": "AUSA Newspaper Affidavit - Brookhaven, T..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0208F8D-0000-CF19-BA1F-27205FDFE89E}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0098",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Brookhaven, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0208F8D-0000-C754-A95C-245DF80BA847}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0098",
+      "file_name": "Exhibit IV - Brookhaven, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0208F8D-0000-C834-8EA9-CBF5BBF853E8}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0098",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D03F8F8D-0000-CD10-B673-38A0D0913099}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0098",
+      "file_name": "Exhibit II - Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0208F8D-0000-C238-A60B-816164F9D345}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0098",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0208F8D-0000-C418-9F15-AA9705AE9088}",
+      "organization": "Suffolk Cable Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0098",
+      "file_name": "Application Cover Letter - Brookhaven, T..pdf"
+    }
+  ]
+}

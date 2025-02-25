@@ -1,0 +1,27 @@
+{
+  "case": "24-M-0365",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0170A91-0000-C615-8E6A-DDB8538688C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-M-0365",
+      "file_name": "266_24-M-0365 73124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Acts Against 6 Distributed Energy Resource Providers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0DCC690-0000-C61C-9686-D18A1F7E2274}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-M-0365",
+      "file_name": "pr24064.pdf"
+    }
+  ]
+}

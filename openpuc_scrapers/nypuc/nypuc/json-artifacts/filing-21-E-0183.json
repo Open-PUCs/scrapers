@@ -1,0 +1,104 @@
+{
+  "case": "21-E-0183",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C Village of Adams",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A937729-3E1D-4AE5-B9F4-6B92AD011041}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0183",
+      "file_name": "Schedule C Village of Adams.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/16/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B43535F9-14E1-467C-B0F6-5F0DE26FCFF8}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0183",
+      "file_name": "Village of Adams Journal Entry Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C740382B-0CDA-4070-A4F5-CEA39617C707}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0183",
+      "file_name": "374_21-E-0183 Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BA7CFA1-A9F3-456C-95C1-A7E324847471}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0183",
+      "file_name": "374 - 21-E-0183 - Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A009EC91-77F1-4535-A419-FF34E0F2915A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-E-0183",
+      "file_name": "Adams letter requesting confidentiality.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Adams - Schedule C Workpaper",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D15837D-5941-4E36-B1FF-ECAA4868D70A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0183",
+      "file_name": "Village of Adams - Schedule C Workpaper.xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Work Papers for Village of Adams Street Light Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06B3A038-247E-4B21-B122-9382405DAC83}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0183",
+      "file_name": "Schedule D Work Papers for Village of Adams Street Light Sale.xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF989D45-ED1F-43BE-87D9-C31704B2CE97}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0183",
+      "file_name": "Adams Section 70 cover letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Adams Section 70 Petition and Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={921BD0D7-5861-48E4-8F1E-6BE93430A658}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0183",
+      "file_name": "Adams Section 70 Petition and Schedules.pdf"
+    }
+  ]
+}

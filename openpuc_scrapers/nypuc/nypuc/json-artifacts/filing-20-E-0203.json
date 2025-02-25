@@ -1,0 +1,60 @@
+{
+  "case": "20-E-0203",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A209240E-710D-4B0C-BD28-974E7EFD43FA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0203",
+      "file_name": "371_20-E-0203 Letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/04/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAFFE711-A64A-4FF6-A2E4-C640C1563D2A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0203",
+      "file_name": "976360 AFF WHGA MNIIE.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A7F12BD-2169-4623-9C66-3435AD59B9D9}",
+      "organization": "West Harlem Group Association (AFF WHGA MNIIE)",
+      "itemNo": "2",
+      "docket_id": "20-E-0203",
+      "file_name": "Appeal 976360 Cover.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/04/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Review Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61A99530-3E57-4ACB-B82E-643250B2DFFC}",
+      "organization": "West Harlem Group Association (AFF WHGA MNIIE)",
+      "itemNo": "2",
+      "docket_id": "20-E-0203",
+      "file_name": "Appeal 976360.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/04/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Denial of Informal Review Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEFCE530-4692-4060-99D2-37AE4FF83500}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0203",
+      "file_name": "976360 IR.pdf"
+    }
+  ]
+}

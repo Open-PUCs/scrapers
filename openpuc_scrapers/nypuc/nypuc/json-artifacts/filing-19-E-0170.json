@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0170",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/12/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={317E37EA-9FF3-4D5A-BA29-78FAEDDEFF27}",
+      "organization": "1818 NADLAN LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0170",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/17/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A079C3BC-8119-4B3D-B460-D94FB92BFCC6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0170",
+      "file_name": "364_19-E-0170.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18485791-21BD-4178-8876-13626B79151A}",
+      "organization": "1818 NADLAN LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0170",
+      "file_name": "response letter 6-14-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFDEBC11-BDDE-45FF-97A1-48D57DD64982}",
+      "organization": "1818 NADLAN LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0170",
+      "file_name": "response letter 5-2019.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/14/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 505 West 43rd Street, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E900A7BB-B67A-4EED-9C07-9854B293A99C}",
+      "organization": "1818 NADLAN LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0170",
+      "file_name": "response letter 5-14-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 1818 Nadlan LLC, to Submeter Electricity at 505 West 43rd Street, New York, NY, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={140A0E03-F641-4423-A253-F1E7B4E2589F}",
+      "organization": "1818 NADLAN LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0170",
+      "file_name": "submetering application (2).pdf"
+    }
+  ]
+}

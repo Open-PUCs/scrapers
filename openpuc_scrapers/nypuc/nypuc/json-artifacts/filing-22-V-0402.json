@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0402",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E1CFD7-3BAF-4035-9135-9238C9BDA2E2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-V-0402",
+      "file_name": "664_22-V-0402 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "AUSA Supplemental Filing - North Hempstead Franchise Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0701CAB-90D2-4C72-8593-9E7F8EBF0F8E}",
+      "organization": "Altice USA",
+      "itemNo": "3",
+      "docket_id": "22-V-0402",
+      "file_name": "AUSA Supplemental Filing - North Hempstead Franchise Amendment.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34406B63-57FD-4B9C-B534-71EDD01871E5}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0402",
+      "file_name": "Cover Letter - AUSA Legal Notice.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Town of North Hempstead",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DC6EAAE-98F5-42C4-B362-041884E186B3}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0402",
+      "file_name": "AUSA Newspaper Affidavit - Town of North Hempstead.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Municipal Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1241F13E-9DCB-4E6A-BC7C-F2447A52D199}",
+      "organization": "Altice USA",
+      "itemNo": "1",
+      "docket_id": "22-V-0402",
+      "file_name": "Exhibit IV - Municipal Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Franchise Renewal Agreement & PSC Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15EFBE40-58AA-4896-A9EB-F8420E37D52B}",
+      "organization": "Altice USA",
+      "itemNo": "1",
+      "docket_id": "22-V-0402",
+      "file_name": "Exhibit III - Franchise Renewal Agreement & PSC Order.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Amendment to Cable Franchise Renewal Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B42476C9-4FF7-4AD3-A20F-B6A5FD2E3E38}",
+      "organization": "Altice USA",
+      "itemNo": "1",
+      "docket_id": "22-V-0402",
+      "file_name": "Exhibit II - Amendment to Cable Franchise Renewal Agreement.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B91C4C0-3806-4CE8-BB24-602EA08AA37F}",
+      "organization": "Altice USA",
+      "itemNo": "1",
+      "docket_id": "22-V-0402",
+      "file_name": "Exhibit I - Resolution.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55CB7793-9760-47CB-AF14-42DB0EE2FEFD}",
+      "organization": "Altice USA",
+      "itemNo": "1",
+      "docket_id": "22-V-0402",
+      "file_name": "Cover Letter - North Hempstead, T. Amendment.pdf"
+    }
+  ]
+}

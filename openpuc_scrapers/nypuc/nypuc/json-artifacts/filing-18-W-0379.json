@@ -1,0 +1,38 @@
+{
+  "case": "18-W-0379",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/09/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Cancellation of Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F226A24-0EB7-42E5-9650-9FB412349E3E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-W-0379",
+      "file_name": "461_18-W-0379.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/14/2018",
+      "nypuc_doctype": "Tariffs",
+      "name": "Kiamesha Escrow Account Cancellation Supplement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2DE5E5A-2611-47FE-93B9-B4D6B7D56CCA}",
+      "organization": "Kiamesha Artesian Spring Water Co., Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0379",
+      "file_name": "Kiamesha Escrow Account Cancellation Supplement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/14/2018",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9F225E1-1ACE-46C7-9596-3DE9845EB4F2}",
+      "organization": "Kiamesha Artesian Spring Water Co., Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0379",
+      "file_name": "Kiamesha Escrow Account Cancellation Cover Letter.pdf"
+    }
+  ]
+}

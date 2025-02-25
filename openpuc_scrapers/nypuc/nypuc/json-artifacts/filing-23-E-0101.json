@@ -1,0 +1,104 @@
+{
+  "case": "23-E-0101",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0F6188A-0000-C512-A21C-B561667D48FA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0101",
+      "file_name": "369_23-E-0101.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "VEIKI VNL 9322 KIR-11E",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90457187-0000-C8B9-80AD-9903E737B54D}",
+      "organization": "ABB Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0101",
+      "file_name": "VEIKI VNL 9322 KIR-11E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90457187-0000-C79B-A5D9-CD39B1B5EDC5}",
+      "organization": "ABB Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0101",
+      "file_name": "Secretary Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB Inc L21-6 Certificate of Accreditation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90457187-0000-CC7B-AD79-9FFAC0D5D7E1}",
+      "organization": "ABB Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0101",
+      "file_name": "ABB Inc L21-6 Certificate of Accreditation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "1VLR018836 KIR-11E type test IEEE 2016",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90457187-0000-C459-A658-AB8D211DC3B7}",
+      "organization": "ABB Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0101",
+      "file_name": "1VLR018836 KIR-11E type test IEEE 2016.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "1VAP429142-DB_KIR-11ES",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90457187-0000-C23B-A5DF-077B6F32D22A}",
+      "organization": "ABB Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0101",
+      "file_name": "1VAP429142-DB_KIR-11ES.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "1VAP100179 Declaration of Conformity KIR-11 KIR-11E",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90457187-0000-CF13-8B9A-12AF64F42501}",
+      "organization": "ABB Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0101",
+      "file_name": "1VAP100179 Declaration of Conformity KIR-11 KIR-11E.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "KIR-11ES cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF2A500D-241B-402D-9C25-38BB164DFCA1}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0101",
+      "file_name": "KIR-11ES cover letter (2).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB KIR-11ES - National Grid Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3E352A8-A348-4B71-B4BC-9272B6877831}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0101",
+      "file_name": "ABB KIR-11ES - National Grid Letter of Intent 12-06-22 (1).pdf"
+    }
+  ]
+}

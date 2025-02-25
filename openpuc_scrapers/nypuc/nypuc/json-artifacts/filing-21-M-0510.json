@@ -1,0 +1,49 @@
+{
+  "case": "21-M-0510",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A7BC65D-3F07-4F73-AA34-F8E4013CF40F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-M-0510",
+      "file_name": "261_21-M-0510 letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Request for Rehearing _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CFDA3D3-8171-4D96-84CF-C63651FCD6CF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-M-0510",
+      "file_name": "SMR Ack Letter Sunrise Myrtle_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/05/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Request for Rehearing of the Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A12B2204-19AE-4BAD-AF7A-AFB8BBC41DA4}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-M-0510",
+      "file_name": "162210 SMR Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/05/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "September 15, 2021, Shared Meter Determination_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07A558D-8B33-43CA-924D-0E10AD6F4A9A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-M-0510",
+      "file_name": "162210_Sunrise_Myrtle_SMD_Final_091521_Redacted.pdf"
+    }
+  ]
+}

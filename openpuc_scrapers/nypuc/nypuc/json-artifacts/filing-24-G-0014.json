@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0014",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240319 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00F9998E-0000-CD1F-A739-D94EB6F5E870}",
+      "organization": "McCarey Landscaping, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-G-0014",
+      "file_name": "20240319 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90E9D68D-0000-C61E-837B-73AE9946ED6C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0014",
+      "file_name": "162-A_24-G-0014.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0272",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32862876-301B-4E41-98D9-D715200F4A92}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0272",
+      "file_name": "164-C_20-G-0272.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E73711DB-F148-4DA1-9CD8-E30F1948F506}",
+      "organization": "Peter J. Landi Inc.",
+      "itemNo": "4",
+      "docket_id": "20-G-0272",
+      "file_name": "20-G-0272 Hearing Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={578C0764-CD78-4637-8BD0-5D9630D93279}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0272",
+      "file_name": "162-A_20-G-0272 final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "18-C-0009",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDD45838-C8CA-434E-A19A-FAEA061FD9DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-C-0009",
+      "file_name": "561 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C9AA27D-2848-4656-BE25-49494CBDAC66}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-C-0009",
+      "file_name": "7324656 Bier Ack_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Extending Deadline to Supplement Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FB585B8-F09D-4C94-9214-6B61AEBDD547}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-C-0009",
+      "file_name": "732465 Bier Ack Ext Letter_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Denial Letter _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={889D652F-C523-4A6D-9C4B-8B9A2AF3A0E2}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-C-0009",
+      "file_name": "Bier Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/04/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Denial Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21D12811-22EB-4803-9132-9CC53B19536B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-C-0009",
+      "file_name": "Theodore Bier - IH Denial Letter -Case# 732465 (002)_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "15-E-0378",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65468640-2C48-4C0E-9A79-EF434A111774}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0378",
+      "file_name": "370_15e0378.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Owner's Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A907180F-2EE0-4657-A69E-09CD0A41946F}",
+      "organization": "92nd and 3rd Associates, LLC",
+      "itemNo": "4",
+      "docket_id": "15-E-0378",
+      "file_name": "Owner's Statement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/04/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Letter Requesting a Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72D92CFB-399E-44C8-9BF0-C44D3F668438}",
+      "organization": "92nd and 3rd Associates, LLC",
+      "itemNo": "3",
+      "docket_id": "15-E-0378",
+      "file_name": "Letter Requesting a Waiver.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplement to Notice of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2AAA80D-F5A4-481D-9770-87F273731037}",
+      "organization": "92nd and 3rd Associates, LLC",
+      "itemNo": "2",
+      "docket_id": "15-E-0378",
+      "file_name": "Supplement to Notice of Intent.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/25/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 92nd and 3rd Associates, LLC to Submeter Electricity at 205 E. 92nd Street, New York, NY 10128, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19FCB43A-9AB0-4969-9A99-889A52C5AB6C}",
+      "organization": "92nd and 3rd Associates, LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0378",
+      "file_name": "92nd & 3rd Notice of Intent to Submeter with Exhibits.pdf"
+    }
+  ]
+}

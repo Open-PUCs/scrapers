@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0395",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D021C4DB-DD43-4CCC-AB87-2BDFEA795379}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0395",
+      "file_name": "661_21-V-0395.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "2021. 07.22. Case 21-V-0395, T. Greenwich, PH Affidavit.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19809DA1-0D1C-4846-9E05-E37579A80CE3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0395",
+      "file_name": "2021. 07.22. Case 21-V-0395, T. Greenwich, PH Affidavit..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Greenwich, Washington County .",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E53F14A-57CB-4A22-A0C2-304BBD10A9E0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0395",
+      "file_name": "2021.07.21 T. GREENWICH FRANCHISE RENEWAL FILED.pdf"
+    }
+  ]
+}

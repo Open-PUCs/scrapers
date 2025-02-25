@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0344",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C93C8839-CE36-481D-ADBA-59C11C89E00B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0344",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Port Byron, County of Cayuga.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98566823-E8FE-4108-A18F-DB3C2B77DFEB}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0344",
+      "file_name": "6.6.18 V. PORT BYRON RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

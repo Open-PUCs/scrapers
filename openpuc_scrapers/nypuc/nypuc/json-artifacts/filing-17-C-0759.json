@@ -1,0 +1,71 @@
+{
+  "case": "17-C-0759",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Lettwithdraw-s",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B42DAFB-8A83-41E3-AF1E-73E62AE5B47E}",
+      "organization": "Frontier Communications of Rochester, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-C-0759",
+      "file_name": "Lettwithdraw-s.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cancellation Supplement-s",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED6E5A08-6F8B-4C00-998D-CAF467D3A405}",
+      "organization": "Frontier Communications of Rochester, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-C-0759",
+      "file_name": "Cancellation Supplement-s.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Requiring Cancellation of Tariff Leaf",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={079F1626-277E-4A17-92B8-7F1130BD5CF7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-C-0759",
+      "file_name": "564_17-C-0759.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Lettwithdraw",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27189ED1-C470-4FB7-91DB-82C2F6DE9897}",
+      "organization": "Frontier Communications of Rochester, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-C-0759",
+      "file_name": "Lettwithdraw.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Reports",
+      "name": "NYPSCLtr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={210F7145-26AF-495C-9EEE-777C98450E6C}",
+      "organization": "Frontier Communications of Rochester, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0759",
+      "file_name": "NYPSCLtr.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/06/2017",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cancellation Supplement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE95C819-77EB-4FA2-B97B-A0E6E9A1FAD4}",
+      "organization": "Frontier Communications of Rochester, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0759",
+      "file_name": "Cancellation Supplement.pdf"
+    }
+  ]
+}

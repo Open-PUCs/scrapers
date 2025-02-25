@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0458",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding withdrawal of petitions and closing cases",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7782DD2-A764-4E90-B033-10026FB32FCD}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0458",
+      "file_name": "Matter Nos. 17-01695-17-01835-17-02710-Verizon-Order of Entry Termination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Request to Withdraw Petition and Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={809D7A0B-AF3F-4212-BFA8-9967DACC2B15}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0458",
+      "file_name": "180919 VZ Letter re 170804 Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AB9CC4F-A507-499A-B1CE-EE28E27E4943}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0458",
+      "file_name": "17-01695 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/04/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 711 West End Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8C54C8F-72B0-46EB-8A30-A7A2F290DFFB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0458",
+      "file_name": "Petition (711 West End Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/04/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23EA358D-3FCD-4286-B649-3EB2DDE29F14}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0458",
+      "file_name": "Exhibit 2 (711 West End Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/04/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2D5552C-36E9-4C30-B4F7-E34AD4F189FB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0458",
+      "file_name": "Exhibit 1 (711 West End Av).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "17-M-0735",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64AFA40C-C2F8-485D-AEC4-B1972C6053C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-M-0735",
+      "file_name": "264_17-M-0735.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Sithe/Independence Power Partners, L.P.;Dynegy Inc. for a Declaratory Ruling.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55D46371-1A02-4CAE-88F8-C6DF003B3E46}",
+      "organization": "Dynegy Inc., Sithe/Independence Power Partners, L.P.",
+      "itemNo": "1",
+      "docket_id": "17-M-0735",
+      "file_name": "Joint Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55DCBDCA-831C-4959-BB4C-7316041C37EA}",
+      "organization": "Dynegy Inc., Sithe/Independence Power Partners, L.P.",
+      "itemNo": "1",
+      "docket_id": "17-M-0735",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

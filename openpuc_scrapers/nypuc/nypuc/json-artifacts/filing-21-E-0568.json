@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0568",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB7FAADB-7F64-4D9F-A539-7DBEF9760063}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0568",
+      "file_name": "372_21-E-0568 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Response to DPS Staff Informal Information Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A85BCA6F-FB71-4720-AC77-58C1C60861CC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "21-E-0568",
+      "file_name": "Case 21-E-0568 - National Grid Response to DPS Staff Informal Information Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/07/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Joint Utilities Comments in Response to Noblehurst Farms Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B39B2DF1-D931-4C9E-AF4C-9B97ED42CD97}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "21-E-0568",
+      "file_name": "Case 21-E-0568 Joint Utilities Comments in Response to Noblehurst Farms Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/10/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26A4F0EF-2A96-492B-8538-06465EAE02E4}",
+      "organization": "Alliance for Clean Energy New York, Inc",
+      "itemNo": "2",
+      "docket_id": "21-E-0568",
+      "file_name": "ACE NY Letter_Noblehurst Farms Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "PETITION OF NOBLEHURST FARMS CONCERNING THE COSTS OF INTERCONNECTING A NET METERED FARM WASTE GENERATOR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35EB54E9-AAAD-4180-9B11-E05B1EFE5EFF}",
+      "organization": "Noblehurst Farms",
+      "itemNo": "1",
+      "docket_id": "21-E-0568",
+      "file_name": "Noblehurst Farm Waste PSC Petition (complete) (11-3-21).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Noblehurst Farm Waste Petition Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={117952D5-545B-446A-A624-B35994B3B6BC}",
+      "organization": "Noblehurst Farms",
+      "itemNo": "1",
+      "docket_id": "21-E-0568",
+      "file_name": "Noblehurst Farm Waste Petition Cover Letter.pdf"
+    }
+  ]
+}

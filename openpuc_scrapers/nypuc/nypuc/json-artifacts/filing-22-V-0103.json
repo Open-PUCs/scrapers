@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0103",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68B14313-A499-41A6-B04B-F6FE58FBB8C9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0103",
+      "file_name": "662_22-V-0103 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02192 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1160553-AD0E-4C9F-9895-F005254479BC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0103",
+      "file_name": "21-02192 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 209 Henry Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E443FE5C-8ABE-4EAA-926A-1990A814E18F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0103",
+      "file_name": "10-211014 Petition (209 HENRY ST) (Post-Survey).pdf"
+    }
+  ]
+}

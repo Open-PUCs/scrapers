@@ -1,0 +1,115 @@
+{
+  "case": "20-E-0089",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "WP South Tower LLC Updated Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51644ED1-DCD4-459F-A2D0-E36FD5143F7E}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "10",
+      "docket_id": "20-E-0089",
+      "file_name": "WP South Tower LLC Updated Submetering ID Form.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "WP South Tower Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={731F8C55-7402-45FD-958F-7002794EBEC8}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "9",
+      "docket_id": "20-E-0089",
+      "file_name": "WP South Tower_Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C33B8FC-C997-4F18-A6F0-00AA0FBCADC0}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "20-E-0089",
+      "file_name": "363_20-E-0089 57 Bank St Submetering Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26F0FDC2-90BE-43B0-9864-4C6C2C0C3162}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "7",
+      "docket_id": "20-E-0089",
+      "file_name": "Response to Request for Additional Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/08/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E93D9AC-62E1-45E6-B7E5-1520223E9C08}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0089",
+      "file_name": "Response to Request for Additional Information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/07/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9F3E334-7CC2-487A-9E16-F4B104367130}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0089",
+      "file_name": "20-E-0089 Response to Request for Additional Information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/10/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Waiver of Energy Audit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4927E593-6FF0-4A53-BAAD-F345D7B12D90}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0089",
+      "file_name": "Request for Waiver of Energy Audit.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={575712F0-0B5F-41D5-A1EF-159DE9202997}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0089",
+      "file_name": "Request for Additional Information-Case 20-E-0089.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C357BDC1-6A32-4002-BE25-348B2A9A91F4}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0089",
+      "file_name": "Request for Additional Information_20-E-0089.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/20/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 57 Bank Street White Plains, NY 10606",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01421F3A-700B-4AA1-A348-2A9A75E2F8E6}",
+      "organization": "WP South Tower, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0089",
+      "file_name": "Notice of Intent to Submeter Electricity at 57 Bank Street White Plains, NY 10606.pdf"
+    }
+  ]
+}

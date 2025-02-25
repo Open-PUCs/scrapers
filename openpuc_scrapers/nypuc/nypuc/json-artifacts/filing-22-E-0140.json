@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0140",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/12/2023",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C00F4A89-0000-CB1D-A240-DFD39088FEA7}",
+      "organization": "41-05 29th St. Owner LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0140",
+      "file_name": "in-service meter test plan Case # 22-E-0140.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 41-05 29th Street, Long Island City, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA78CEE4-6A85-46F3-9D08-A206537094CA}",
+      "organization": "41-05 29th St. Owner LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0140",
+      "file_name": "compliance letter .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06467280-67E2-42B9-BE40-66C8C1CD7E28}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0140",
+      "file_name": "361_22-E-0140.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA19B1A0-1F1B-40EC-A8F3-CC6931B0198D}",
+      "organization": "41-05 29th St. Owner LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0140",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29B36D3C-6D9B-4C6F-96D0-DC538B9D147C}",
+      "organization": "41-05 29th St. Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0140",
+      "file_name": "submetering application.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "cover Letter for application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={333AA8FC-043F-4DCD-B801-6DD060F8F7A3}",
+      "organization": "41-05 29th St. Owner LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0140",
+      "file_name": "cover Letter for application.pdf"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "case": "19-F-0201",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Closure of the Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2AB41E7-14C3-47FF-841B-23978A3F28AA}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "10",
+      "docket_id": "19-F-0201",
+      "file_name": "19-F-0201 - Tracy Solar - Notice of Closure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Transferring Application_Tracy",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12F23533-B5EC-4CCC-A54C-B112A317DB2C}",
+      "organization": "Tracy Solar Energy Center, LLC",
+      "itemNo": "9",
+      "docket_id": "19-F-0201",
+      "file_name": "210125 Ltr to Secretary Phillips Transferring Application_Tracy.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Tracy-Solar-Energy-Center-June-13-Meeting-Boards",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FF66D60-17F2-423F-90AD-10D91F18D599}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "8",
+      "docket_id": "19-F-0201",
+      "file_name": "Tracy-Solar-Energy-Center-June-13-Meeting-Boards.pdf (13 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A750113E-0F7A-4CDA-845F-C4A4BA376EA3}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "8",
+      "docket_id": "19-F-0201",
+      "file_name": "Cover Letter Submitting June 13 Open House Materials.pdf (113 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to County Administrator Hagemann, Jefferson County, Regarding Ad Hoc Nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={181E5097-F58C-433A-BB33-8A7244A0E80E}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "7",
+      "docket_id": "19-F-0201",
+      "file_name": "19-F-0201-EDFRenewables-JeffersonCty.Admin.Hagemann Ltr_.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Deputy Town Supervisor Peterson, Town of Clayton, Regarding Ad Hoc Nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81A956B8-8459-4ECB-BF2C-BF8815C1A792}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "6",
+      "docket_id": "19-F-0201",
+      "file_name": "19-F-0201-EDFRenewables-Clayton Supervisor Peterson.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Supervisor Rarick, Town of Orleans, Regarding Ad Hoc Nominations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7AE3A86-2E4B-4670-A27F-7040D7FD8CFE}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "19-F-0201",
+      "file_name": "19-F-0201-EDF Renewables-OrleansTownSupervisorRarick Ltr_.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "TracySolar_OpenHouse_Postcard Invitation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F369CED8-7F88-4774-A396-0EE85CE16353}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-F-0201",
+      "file_name": "TracySolar_OpenHouse_Postcard Invitation.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={860F1BAA-0275-4DD0-B18C-05673910BA24}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-F-0201",
+      "file_name": "Tracy Solar Open House Cover Letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "05/24/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Tracy Solar_Final PIP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2234A471-D568-4982-BE12-482FE1125823}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0201",
+      "file_name": "Tracy Solar_Final PIP_05.23.19.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "05/24/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89678268-F551-41ED-ACF3-E94C0F0F06D4}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-F-0201",
+      "file_name": "Cover Letter Submitting Tracy PIP Responses.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "04/24/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "DPS Staff Recommendations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DDDEFE1-63FD-4B76-A03D-B0198C235BBB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-F-0201",
+      "file_name": "19-F-0201 Tracy Solar PIP -- DPS Staff Recommendations (1).pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "03/25/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Public Involvement Program Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F5407C2-5F72-4036-AD52-E5F86B898F36}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-F-0201",
+      "file_name": "Tracy Solar_PIP.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "03/25/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65C41FB2-44A2-4C43-BA4F-9F7C30176F7B}",
+      "organization": "EDF Renewables Development, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-F-0201",
+      "file_name": "Tracy Solar PIP Cover Letter.pdf"
+    }
+  ]
+}

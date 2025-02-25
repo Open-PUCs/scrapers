@@ -1,0 +1,49 @@
+{
+  "case": "24-G-0288",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241011 - Payment - $1,000 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B026AF92-0000-C614-AAE0-779DA1D629D6}",
+      "organization": "J.A. Land Development Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0288",
+      "file_name": "20241011 - Payment - $1,000 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={709C5F90-0000-C91F-864A-A525E9195BBF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-G-0288",
+      "file_name": "161-A_24-G-0288.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240229 - Payment - $1,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500A148E-0000-C61D-A5D7-4148F052E933}",
+      "organization": "J.A. Land Development Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0288",
+      "file_name": "20240229 - Payment - $1,500 - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10D4C68D-0000-C91F-B29A-44687D622627}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0288",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

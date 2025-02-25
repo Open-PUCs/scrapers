@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0246",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C203471-0243-4557-A971-777ED2ED5619}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0246",
+      "file_name": "663_17-V-0246.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Massena, St. Lawrence County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F54C676D-9CE2-4009-B0DF-E2C6C7CE9D38}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0246",
+      "file_name": "5 5 17 T Massena PSC Submission Documents.pdf"
+    }
+  ]
+}

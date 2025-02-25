@@ -1,0 +1,71 @@
+{
+  "case": "19-G-0563",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-G-0563 White Additonal Corr. 09252019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE91B01C-8B97-4375-B876-86501FE51AD6}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "19-G-0563",
+      "file_name": "19-G-0563 White Additonal Corr. 09252019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "19-G-0563 White Tenant Response 09162019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6413C784-EB3A-4735-8B07-1F2AD975C30B}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "19-G-0563",
+      "file_name": "19-G-0563 White Tenant Response 09162019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-G-0563 White Ack LEtter 09052019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FBB75C3-99D2-4443-A66D-E66CD5F59809}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-G-0563",
+      "file_name": "19-G-0563 White Ack LEtter 09052019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-G-0563 White Rehearing Request 09042019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F2C3C49-05E1-4FA6-8ADE-2B1991A332AB}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-G-0563",
+      "file_name": "19-G-0563 White Rehearing Request 09042019.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-G-0563 White SMD Final 08152019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E5DC2DA-0F8D-4F6F-9602-7BF2200A2AA7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-G-0563",
+      "file_name": "19-G-0563 White SMD Final 08152019.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter From Secretary Phillips Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB81B04D-7B04-4F24-9D6F-098DEA5D98F3}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0563",
+      "file_name": "161 Letter_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "22-V-0177",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB36FDDF-AC62-49E0-8C01-0EE3187A5508}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0177",
+      "file_name": "663_22-V-0177.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/05/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter from Town - Date Discrepancy",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={395F33A6-989E-4F3C-966F-3F7C1235DC13}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0177",
+      "file_name": "04.05.2022 Ltr from Town - Date Discrepancy.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "T Canton Cover Letter Request for Renewal, Certificate Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0028F6E2-BD6B-416F-A279-8ABD47772736}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0177",
+      "file_name": "T Canton Cover Letter Request for Renewal, Certificate Confirmation.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BCAD8DE-3FBA-487F-A7B1-FEC9A05818BE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0177",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "REDACTED R-2 T CANTON PETITION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0256FF02-FE6A-4F6E-911C-F4C9169BCCD4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0177",
+      "file_name": "REDACTED R-2 T CANTON PETITION.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request T Canton R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF8A7582-4A9F-4651-BBB8-1BFEFC2F4CAF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0177",
+      "file_name": "Charter Confidential Treatment Request T Canton R-2.pdf"
+    }
+  ]
+}

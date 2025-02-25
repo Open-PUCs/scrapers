@@ -1,0 +1,27 @@
+{
+  "case": "22-E-0484",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Shared Meter Rehearing Request _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03221714-D64E-45E1-8C0E-1D984FFD112B}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-E-0484",
+      "file_name": "Fw_ A fax has arrived from remote ID 'mFax' - '3122643903'._Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Letters",
+      "name": "184040_Yoon_SMD_Final_06222022 (1)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F4F32FC-3DE5-489E-A897-25A3E1E301B7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0484",
+      "file_name": "184040_Yoon_SMD_Final_06222022 (1)_Redacted.pdf"
+    }
+  ]
+}

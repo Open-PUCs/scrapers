@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0493",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hecate Order Acceptance Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B14C935A-E4AB-4AFA-AF02-C4A9DAC3681A}",
+      "organization": "Hecate Energy Cider Solar LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0493",
+      "file_name": "Hecate Order Acceptance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D8C116C-584C-4696-8BA8-8E815D30F9B6}",
+      "organization": "Hecate Energy Cider Solar LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0493",
+      "file_name": "Hecate Order Acceptance_Cover Letter(11246990.1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Certificate of Public Convenience and Necessity, Providing for Lightened Regulation, and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C036A47-02EB-4C22-B748-AFD74620F022}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0493",
+      "file_name": "372_22-E-0343 et. al 12.16.22 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Hecate Energy Cider Solar LLC for Approval of a Financing Pursuant to Lightened Regulation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1187C967-2B70-4FA2-AFF8-DE4F8B8099B7}",
+      "organization": "Hecate Energy Cider Solar LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0493",
+      "file_name": "Hecate - Cider Solar - Section 69 Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6A4DBC0-22B8-4264-BC7C-7774AE41C837}",
+      "organization": "Hecate Energy Cider Solar LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0493",
+      "file_name": "Hecate - Cider Solar - Cover Letter - Section 69 Petition.pdf"
+    }
+  ]
+}

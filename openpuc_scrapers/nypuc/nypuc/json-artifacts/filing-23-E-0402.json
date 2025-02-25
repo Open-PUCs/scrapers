@@ -1,0 +1,115 @@
+{
+  "case": "23-E-0402",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4014878F-0000-C93A-B41F-64163191F773}",
+      "organization": "BC 35 Broadway LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0402",
+      "file_name": "BC 35 Broadway LLC - Cover Letter - Updated Documents and COC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "BC 35 Broadway LLC - Updated Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4014878F-0000-C655-9149-788BCE8E0C38}",
+      "organization": "BC 35 Broadway LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0402",
+      "file_name": "BC 35 Broadway LLC - Updated Submetering ID Form.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "BC 35 Broadway LLC - Updated Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4014878F-0000-CA7D-AFEE-CEE4DCF140F1}",
+      "organization": "BC 35 Broadway LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0402",
+      "file_name": "BC 35 Broadway LLC - Updated Lease Rider.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "BC 35 Broadway LLC - Updated HEFPA Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4014878F-0000-C098-B9D5-8D9E355A4591}",
+      "organization": "BC 35 Broadway LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0402",
+      "file_name": "BC 35 Broadway LLC - Updated HEFPA Plan.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "BC 35 Broadway LLC - Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4014878F-0000-C611-AF5E-6EC378538BC5}",
+      "organization": "BC 35 Broadway LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0402",
+      "file_name": "BC 35 Broadway LLC - Certificate of Compliance.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F35C8E-0000-CD1B-AEE4-C2F3BE807E3E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0402",
+      "file_name": "369_23-E-0402 32024final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/27/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901FD88A-0000-CB3F-88C6-44D2AFE63C7D}",
+      "organization": "Beacon Communities Services LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0402",
+      "file_name": "Beacon Communities Services LLC - Cover Letter - Updated Lease Rider.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/27/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Beacon Communities Services LLC - Lease Rider - Nat Grid",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901FD88A-0000-C810-B73B-24B16219E068}",
+      "organization": "Beacon Communities Services LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0402",
+      "file_name": "Beacon Communities Services LLC - Lease Rider - Nat Grid.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Beacon Communities Services LLC to Submeter Electricity at 35 Broadway, Menands Located in the Territory of Niagara Mohawk Power Corporation d/b/a National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50018989-0000-C83E-BD61-1B7E83CBE4E9}",
+      "organization": "Beacon Communities Services LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0402",
+      "file_name": "Beacon Communities Services LLC - Petition to Submeter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50018989-0000-CD13-A27C-06701B253FEE}",
+      "organization": "Beacon Communities Services LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0402",
+      "file_name": "Petition to Submeter Cover Letter .pdf"
+    }
+  ]
+}

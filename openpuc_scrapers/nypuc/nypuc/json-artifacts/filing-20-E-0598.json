@@ -1,0 +1,104 @@
+{
+  "case": "20-E-0598",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Certificate of Public Convenience and Necessity and Approving Modified Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E190BCD4-CF0D-4F01-86E4-5A9651207E8B}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "20-E-0598",
+      "file_name": "376_21-E-0425 and 20-E-0598.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2022",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Greenlights Private Financing and Municipal Approvals for Champlain Hudson Transmission Line",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AB4F4BC-81A9-4E6A-9104-A069A12D0702}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0598",
+      "file_name": "pr22085.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "PSL 69 Modification Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F658AAF-2B83-4086-9338-8E8A5FE5999B}",
+      "organization": "CHPE LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0598",
+      "file_name": "PSL 69 modification request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDCAFD44-48C2-4743-98BC-17E17CA2F96B}",
+      "organization": "CHPE LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0598",
+      "file_name": "PSL 69 Mod Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01EFCAD2-ADAE-485F-9BA5-CA073D8F361E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0598",
+      "file_name": "378_20-E-0598 final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "PSL 69 Petition Supplement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65BC12EA-D89C-4ED0-95CD-8248833B32B9}",
+      "organization": "CHPE LLC, CHPE Properties, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0598",
+      "file_name": "PSL 69 Petition Supplement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8AA88E0-06C4-4FF5-B1C1-7E70F1330B4A}",
+      "organization": "CHPE Properties, Inc., Champlain Hudson Power Express, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0598",
+      "file_name": "Lett RAO re PSL 69 petition.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Petition of CHPE LLC and CHPE Properties, Inc. for Approval of Financing Pursuant to Public Service Law Section 69",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB236A94-93AB-46B3-A0A6-9F50C5F2272E}",
+      "organization": "CHPE LLC, CHPE Properties, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0598",
+      "file_name": "CHPE PSL Section 69 Petition REDACTED.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C4B4CF4-F1F9-46C8-83D5-2F77A0D48C73}",
+      "organization": "CHPE LLC, CHPE Properties, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0598",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

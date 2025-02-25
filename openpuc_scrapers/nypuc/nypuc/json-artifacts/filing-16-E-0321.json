@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0321",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02EA9B9A-3E04-4D7C-82C4-62318855D182}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0321",
+      "file_name": "378 16-E-0321 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/27/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68C7B258-2B62-43E8-9FAD-A290BB98224C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0321",
+      "file_name": "378_16-E-0321 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12CD24A4-1C3D-464E-957C-FA2DA702D3D0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0321",
+      "file_name": "904108_Ack_Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F89CEDB2-8F3F-4A2F-AE01-CD5CA4D3D078}",
+      "organization": "143 Chambers, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0321",
+      "file_name": "904108_appeal (002).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62129C38-4934-4494-8564-70EAA6B24DB9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0321",
+      "file_name": "904108_IH.pdf"
+    }
+  ]
+}

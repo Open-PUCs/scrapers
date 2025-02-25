@@ -1,0 +1,71 @@
+{
+  "case": "18-V-0467",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/24/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5422326F-BB3F-489C-9409-79D071D7FEB4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0467",
+      "file_name": "18-V-0467 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={415F7E5F-EF17-4C44-B9E5-48497183DA3C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0467",
+      "file_name": "201110 Letter re Matter 17-01836 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C28C1002-C6DD-477D-BC0E-916258007B21}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0467",
+      "file_name": "17-01836 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 1261 Schenectady Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D56AD675-DB5C-4B4B-987B-B42B94665684}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0467",
+      "file_name": "Petition (1261 Schenectady Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA2A9561-7093-4DD0-9381-F1015DB5236D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0467",
+      "file_name": "Exhibit 2 (1261 Schenectady Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86DD6CE2-D8C9-4D36-B61A-7F21B159FCAF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0467",
+      "file_name": "Exhibit 1 (1261 Schenectady Av).pdf"
+    }
+  ]
+}

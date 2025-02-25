@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0415",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/08/2024",
+      "nypuc_doctype": "Comments",
+      "name": "NYSEIA Comments - RAPID Act",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0236C92-0000-C612-A82C-DD41EB86E166}",
+      "organization": "New York Solar Energy Industries Association",
+      "itemNo": "6",
+      "docket_id": "24-E-0415",
+      "file_name": "NYSEIA Comments - RAPID Act.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/08/2024",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0236C92-0000-CD15-A924-BA18A844F131}",
+      "organization": "New York Solar Energy Industries Association",
+      "itemNo": "6",
+      "docket_id": "24-E-0415",
+      "file_name": "NYSEIA Cover Letter - RAPID Act.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Comments",
+      "name": "Joint Utilities' Response to DPS Staff Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A66892-0000-C049-A560-5C2352DC16BF}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "24-E-0415",
+      "file_name": "Case 24-E-0415 Joint Utilities' Response to DPS Staff Questions in July 16, 2024 Notice Soliciting Comments.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Comments",
+      "name": "PSEG Long Island Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107B6892-0000-C917-9E44-2C11211C0FA2}",
+      "organization": "PSEG Long Island",
+      "itemNo": "4",
+      "docket_id": "24-E-0415",
+      "file_name": "10.7.24 - In re Timely Interconnection of DER - PSEG Long Island Comments.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Comments",
+      "name": "NYC Comments - DER Interconnection Timing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30F76792-0000-C811-B85B-2540868930B8}",
+      "organization": "City of New York",
+      "itemNo": "2",
+      "docket_id": "24-E-0415",
+      "file_name": "NYC Comments - DER Interconnection Timing.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/16/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Soliciting Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C029BC90-0000-C810-8147-96D8BCCACBC7}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-E-0415",
+      "file_name": "23-E-0415_Notice Soliciting Comments .pdf"
+    }
+  ]
+}

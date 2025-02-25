@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0083",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18D13ACA-9786-488F-842B-506EB6D9B2DF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0083",
+      "file_name": "662_21-V-0083 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Castile, Wyoming County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD977051-CC36-4313-A5F7-5C9E1BA54A64}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0083",
+      "file_name": "2021.02.08 T. CASTILE RENEWAL TO PSC.pdf"
+    }
+  ]
+}

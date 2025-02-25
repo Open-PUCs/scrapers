@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0065",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/02/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCAA9D01-4A8E-4C2E-9A04-32CFC6540F44}",
+      "organization": "MIP One Wall Street Acquisition, LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0065",
+      "file_name": "compliance letter 8-1-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98A88A0C-66F3-4332-87F0-C0830653F3FB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0065",
+      "file_name": "365_18-E-0065.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of MIP One Wall Street Acquisition, LLC to Submeter Electricity at One Wall Street, New York, NY in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5797CC62-0106-48AE-A37F-B0884DF56656}",
+      "organization": "MIP One Wall Street Acquisition, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0065",
+      "file_name": "submetering application 1-25-18.pdf"
+    }
+  ]
+}

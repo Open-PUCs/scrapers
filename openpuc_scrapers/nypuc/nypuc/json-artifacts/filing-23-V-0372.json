@@ -1,0 +1,49 @@
+{
+  "case": "23-V-0372",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F053238A-0000-C91C-8401-D5AC2D705FE7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0372",
+      "file_name": "662_23-V-0372 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/12/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00966 Letter to Building Owner 484 Convent Ave 6.12.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6029B088-0000-C410-8B8B-60E58EC29145}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0372",
+      "file_name": "23-00966 Letter to Building Owner 484 Convent Ave 6.12.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00966 Letter to Building Owner - 484 Convent Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0B04888-0000-C118-9DC8-E60DAAE1338A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0372",
+      "file_name": "23-00966 Letter to Building Owner - 484 Convent Ave.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 484 Convent Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4036E287-0000-C33C-B49C-0E9FDF929F5F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0372",
+      "file_name": "230503-9 Petition (484 CONVENT AV) (Post-Survey).pdf"
+    }
+  ]
+}

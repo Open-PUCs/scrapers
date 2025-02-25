@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0421",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAE65302-E7F0-41DA-99AE-FE6C238DEB83}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0421",
+      "file_name": "666_21-V-0421 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00496 Letters to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7498E3B-6A92-4FDD-BBAE-B30ECDBF281B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0421",
+      "file_name": "21-00496 Letters to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2299 Andrews Avenue North, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9970EAB-8256-44A0-8A2B-9E6C49C3E5D4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0421",
+      "file_name": "5-Petition (2299 ANDREWS AV N) (Complete).pdf"
+    }
+  ]
+}

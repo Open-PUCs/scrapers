@@ -1,0 +1,115 @@
+{
+  "case": "15-V-0510",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFB6E845-EF2E-4F22-B19B-DA16A73467DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0510",
+      "file_name": "663_15V0510.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/04/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3144216-926F-49AF-AEA7-F8512CC580A6}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "2",
+      "docket_id": "15-V-0510",
+      "file_name": "Filing Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/04/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications - Copake NY Town Affidavit of Publication and Public Notice re public hearing 6-11-15",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5F718D7-DCAA-445C-B78A-A2361B42C876}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "2",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Communications - Copake NY Town Affidavit of Publication and Public Notice re public hearing 6-11-15.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Town Resolution approving renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71E0F942-443E-435E-BC59-DD5E814152D0}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Communications Copake NY Town Resolution approving renewal 6.11.15 S .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Town Legal Notice re public hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE1A1931-5E76-4639-B55F-D84BA7D01F90}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Communications Copake NY Town Legal Notice re public hearing 6.11.15 S.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Form R-2 Application for Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D62091EA-EED1-4462-8137-EAF1117BEC3D}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Communications - Copake NY Form R-2 Application for Renewal 8-15 S.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB05A3F4-5BE8-4A82-9E3A-C34DE407B3D2}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Communications ltr to NY PSC with Copake NY Franchise Renewal 8-31-15 S.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Executed Franchise Renewal Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BFA5640-AE13-461C-B8AF-9D9FA2F2217B}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Communications - Copake NY Town Executed Franchise Renewal Agreement 08 15 S.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Winter 2015 Chatham POP Workbook",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A65832-AA07-4097-8B51-6380B4DB9D19}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Winter 2015 Chatham POP Workbook(2).xlsm"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/31/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Certified Legal Notice re Franchise Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35E31173-B0C9-481B-ACE4-C24E524C41EA}",
+      "organization": "Charter Communications Entertainment I, LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0510",
+      "file_name": "Charter Communications - Town of Copake NY certified Legal Notice re Franchise Renewal 8-11-15 S.pdf"
+    }
+  ]
+}

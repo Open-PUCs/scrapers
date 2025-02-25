@@ -1,0 +1,49 @@
+{
+  "case": "17-T-0612",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9B55AAF-2AD9-4743-B495-E8423BE4C3A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-T-0612",
+      "file_name": "17-T-0612 Part 102 Ltr..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={049DC63C-D181-4B61-BD93-C13EC65E75BC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "17-T-0612",
+      "file_name": "NG Filing Ltr w Boonville-Rome Part 102 Supp (17-T-0612) 11-9-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DD97766-EF30-4210-8463-9AEF296B62F0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0612",
+      "file_name": "NG Filing Ltr for Boonville-Rome Part 102 - 10-2-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Boonville-Rome Part 102_FINAL 171002",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B0A4983-3A89-43D7-9A0A-B1A1612B8E40}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0612",
+      "file_name": "Boonville-Rome Part 102_FINAL 171002.pdf"
+    }
+  ]
+}

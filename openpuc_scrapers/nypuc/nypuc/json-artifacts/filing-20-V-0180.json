@@ -1,0 +1,71 @@
+{
+  "case": "20-V-0180",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4385F5F-A095-4BA7-A812-4A5EC8909163}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-V-0180",
+      "file_name": "20-V-0180 closing letter 9.18.20.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1938116-FF4A-4132-8AA0-018E93E9C569}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0180",
+      "file_name": "200916 Letter re 220 W 98 St (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F628C199-0CEE-449D-9C6D-D3F396A07C1E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0180",
+      "file_name": "19-00777 Merged Letters.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 220 West 98th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CCC1AE0-D713-45BC-AF9F-EB62B08BB221}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0180",
+      "file_name": "Petition (220 W 98 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3C3C0C6-15BB-4A75-9259-E1D82E8441E1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0180",
+      "file_name": "Exhibit 2 (220 W 98 St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21C00027-8594-415D-9F81-9E8D9C6B5C06}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0180",
+      "file_name": "Exhibit 1 (220 W 98 St).pdf"
+    }
+  ]
+}

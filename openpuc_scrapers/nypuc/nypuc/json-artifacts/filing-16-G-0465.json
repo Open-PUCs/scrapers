@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0465",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/09/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04C5E2AC-512E-47C6-9F1F-1D996E1BF164}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-G-0465",
+      "file_name": "168_16-G-0465.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/09/2017",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - Commission Issues $85,000 Penalty for Dig Safely Violations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BFCE058F-054C-4ADB-AD7B-509A6524AF0E}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0465",
+      "file_name": "Press Release 16-G-0440.16-G-0465.pdf"
+    }
+  ]
+}

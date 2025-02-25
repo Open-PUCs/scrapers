@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0253",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Regarding Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0137691-0000-C43C-AAD5-18CA12CBAAAF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0253",
+      "file_name": "368_24-E-0253_82124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of RED Rochester, LLC for Approval of Current Transformers for NYISO Metering Program.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B0168F-0000-CF3C-89A7-CCEB43A99613}",
+      "organization": "RED Rochester, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0253",
+      "file_name": "RED Rochester NYDPS Metering CT Approval Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/25/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "PEECO_Red Rochester_NYISO CT Request for Approval_Secretary Submission",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B0168F-0000-C112-B61E-7EBD33D0E3DD}",
+      "organization": "RED Rochester, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0253",
+      "file_name": "PEECO_Red Rochester_NYISO CT Request for Approval_Secretary Submission.pdf"
+    }
+  ]
+}

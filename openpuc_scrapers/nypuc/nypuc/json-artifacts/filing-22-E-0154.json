@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0154",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Sutton 58 Holding Company LLC - 430 East 58th Street - Meter Test Plan Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6101DB7F-89AC-4B48-8151-02A8A88E8B5E}",
+      "organization": "Sutton 58 Holding Company, LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0154",
+      "file_name": "Sutton 58 Holding Company LLC - 430 East 58th Street - Meter Test Plan Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Sutton 58 Holding Company LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A283C9B-4FA7-45C2-ACB8-73985188F2D2}",
+      "organization": "Sutton 58 Holding Company, LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0154",
+      "file_name": "Sutton 58 Holding Company LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E43DD82-9C16-4CF7-B6E3-7A878FC4CE99}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0154",
+      "file_name": "363_22-E-0154.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering notice of intent 430 East 58th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94DF4649-CF0E-492C-AA16-A8023F68D8B7}",
+      "organization": "Sutton 58 Holding Company, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0154",
+      "file_name": "Submetering notice of intent 430 East 58th Street.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC6987E9-52F3-4312-A35E-3F2EF2CEAC7C}",
+      "organization": "Sutton 58 Holding Company, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0154",
+      "file_name": "Filing Letter_430 East 58th Street.pdf"
+    }
+  ]
+}

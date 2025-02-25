@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0178",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0178 DKSR Holding Ack Letter 03232021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B80B100-7710-4F46-99BE-13EF006C02FD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-E-0178",
+      "file_name": "21-E-0178 DKSR Holding Ack Letter 03232021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-E-0178 DKSR Holding Rehearing Request 03222021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={679729E4-A391-4E08-A12B-518D78622A36}",
+      "organization": "DKSR Holding LTD",
+      "itemNo": "3",
+      "docket_id": "21-E-0178",
+      "file_name": "21-E-0178 DKSR Holding Rehearing Request 03222021.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0178 DKSR Holding SMD Final 02232021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26D618A9-150F-4D12-92A2-4EEC978A64F2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-E-0178",
+      "file_name": "21-E-0178 DKSR Holding SMD Final 02232021.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9EA8A2C-7016-4548-B4E2-9CA2B58A696B}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0178",
+      "file_name": "371_21-E-0178 Letter final_Redacted.pdf"
+    }
+  ]
+}

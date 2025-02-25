@@ -1,0 +1,38 @@
+{
+  "case": "20-V-0303",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D941CE2-9273-41E5-9133-58E7B580F67B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0303",
+      "file_name": "663_20-V-0303 Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter w. Corrected Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEAA3A0B-8CDB-4056-A402-1EAD086A5ABD}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "20-V-0303",
+      "file_name": "070820 to PSC Secretary w. Corrected Reso V-2.pdf (450 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Marbletown, Ulster County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FAEB1506-7629-4533-A737-854F9337F94E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0303",
+      "file_name": "061920 T.MARBLETOWN RENEWAL SUBMISSION TO PSC.pdf (2 MB)"
+    }
+  ]
+}

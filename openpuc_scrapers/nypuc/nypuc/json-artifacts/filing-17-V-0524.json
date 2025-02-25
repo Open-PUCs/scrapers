@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0524",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A9E87F9C-D7B5-4E2E-8DC2-58B051ACD78C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0524",
+      "file_name": "661_17-V-0524.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Marshall, Oneida County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F7457D2-85A6-4C41-9861-1B405B508F76}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0524",
+      "file_name": "8 23 17 T Marshall Charter cable franchise PSC application.pdf"
+    }
+  ]
+}

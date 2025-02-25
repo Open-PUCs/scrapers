@@ -1,0 +1,126 @@
+{
+  "case": "21-G-0560",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Compliance with Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A791B3E-FD19-4C80-AA86-9BE35113C014}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "9",
+      "docket_id": "21-G-0560",
+      "file_name": "21-G-0560 019926-Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D51E62D-1B6C-4CFA-9364-CD3190D12E06}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "21-G-0560",
+      "file_name": "164_21-G-0560 Determination final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A9298C5-9182-4F24-B87B-4EDC51500D8E}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "21-G-0560",
+      "file_name": "164_21-G-0560 Letter.Redact final_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "GUN HILL ROAD FITNESS - Complainant\u00bfs billing and usage history from the Complainant\u00bfs account\u00bfs inception through November 2019 with corrected",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7308822-BECF-4226-B3C2-7EA72B6EC314}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-G-0560",
+      "file_name": "GUN HILL ROAD FITNESS - Complainant\u00bfs billing and usage history from the Complainant\u00bfs account\u00bfs inception through November 2019 with corrected.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "GUN HILL ROAD FITNESS - Complainant\u00bfs billing and usage history from the Complainant\u00bfs account\u00bfs inception through November 2019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EDE47BF-B289-4CEB-8BD2-CDDAB23EAB1A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-G-0560",
+      "file_name": "GUN HILL ROAD FITNESS - Complainant\u00bfs billing and usage history from the Complainant\u00bfs account\u00bfs inception through November 2019.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BBA25CB-D41A-4AAD-8FF6-B24B387D5693}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-G-0560",
+      "file_name": "Case 21-G-0560 (003).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/05/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Con Ed for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97875193-EBD6-48BC-B81F-E5D69BD21577}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "21-G-0560",
+      "file_name": "Letter to Con Ed for additional information 10-4-22.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={374901B2-0DC3-48FC-AFA7-4383284E7CB7}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-G-0560",
+      "file_name": "Case 21-G-0560 Con Edison Response to Appeal .pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20D25A62-6800-4AD9-9100-83CBDCC3503B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0560",
+      "file_name": "019926 Gunhill Rd LLC Ack.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={127966FC-BDF1-4330-BEAE-BEA81032D452}",
+      "organization": "Gun Hill Road Fitness Group LLC",
+      "itemNo": "2",
+      "docket_id": "21-G-0560",
+      "file_name": "Appeal 019926.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F16DDCD-4BDF-432D-B303-C57672F0BDED}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0560",
+      "file_name": "IH 019926.pdf"
+    }
+  ]
+}

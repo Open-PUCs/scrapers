@@ -1,0 +1,60 @@
+{
+  "case": "17-G-0102",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/19/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "5",
+      "docket_id": "17-G-0102",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C98BED90-71BF-4BDD-A8FE-33912A4D345F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0102",
+      "file_name": "166_17-G-0102.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/02/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE241220-8A38-4285-A2BB-1289CF5485DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0102",
+      "file_name": "17-G-0102 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/28/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "17-G-0102",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "17-G-0102",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0723",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Post-Approval In-Service Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F44892-0000-C556-AC99-64B5FAF51426}",
+      "organization": "4560 BWY Partners LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0723",
+      "file_name": "Post-Approval In-Service Meter Test Plan (23-E-0723).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Post-Approval Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F44892-0000-C717-98D8-B96025BC6846}",
+      "organization": "4560 BWY Partners LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0723",
+      "file_name": "Post-Approval Certification (23-E-0723).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0572A92-0000-CE14-91A3-CEC401AB9200}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0723",
+      "file_name": "369_23-E-0723 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0CD9390-0000-C51A-8E54-AD04D1F9269D}",
+      "organization": "4560 BWY Partners LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0723",
+      "file_name": "Update (7.8.2024).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 4560 BWY Partners LLC to Submeter Electricity at 4568 Broadway, Located in the Territory of territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50EF828C-0000-CF17-827F-D11B46A46C43}",
+      "organization": "4560 BWY Partners LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0723",
+      "file_name": "Largavista NOI_ submeteing Combined Application (1).pdf"
+    }
+  ]
+}

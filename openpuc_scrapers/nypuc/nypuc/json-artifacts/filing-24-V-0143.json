@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0143",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={200D978F-0000-CE15-833C-23E35E8368C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0143",
+      "file_name": "662_24-V-0143 Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={200D978F-0000-C33B-B67D-54EB28F64181}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0143",
+      "file_name": "662_24-V-0143 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-V-0143 Letter to Secretary and SEQRA Part 2&3 Spectrum -T of Benson",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D2E18E-0000-CC1C-8545-BFCA4CCFCABD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0143",
+      "file_name": "24-V-0143 Letter to Secretary and SEQRA Part 2&3 Spectrum -T of Benson.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/08/2024",
+      "nypuc_doctype": "Reports",
+      "name": "T. Benson EAF Mapper Summary Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CF1F8E-0000-CB34-8256-26EC9914DE0F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0143",
+      "file_name": "2024.03.08 - T. Benson EAF Mapper Summary Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/08/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CF1F8E-0000-C51F-ABD6-4D99FE66110C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0143",
+      "file_name": "2024.03.08 Spectrum Northeast, LLC- Cover Letter 2(24-V-0143)-and Town of Benson EAF Summary Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F60F8E-0000-CF3A-8124-81341C784990}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0143",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Benson 03.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0F60F8E-0000-CC19-B742-FD144CF03FC0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0143",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Benson 03.5.24.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "2024.03.05 Spectrum Northeast, LLC-Town-Benson Request for Cert.ofConf-Initial Franchise(redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F60F8E-0000-C07F-AA0B-3CBF3CF66A49}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0143",
+      "file_name": "2024.03.05 Spectrum Northeast, LLC-Town-Benson Request for Cert.ofConf-Initial Franchise(redacted).PDF"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "2024.03.05 Spectrum Northeast, LLC, Cover Letter-Cert.of Confirmation_T. Benson Initial Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F60F8E-0000-CF5B-B601-266CD035E43B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0143",
+      "file_name": "2024.03.05 Spectrum Northeast, LLC, Cover Letter-Cert.of Confirmation_T. Benson Initial Franchise.pdf"
+    }
+  ]
+}

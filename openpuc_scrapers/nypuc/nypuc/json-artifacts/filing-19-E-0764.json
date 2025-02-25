@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0764",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2BB28B0-B780-4231-8F5F-560934B46455}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0764",
+      "file_name": "399 Letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14D98F5D-2E38-44F0-8C2F-EE88FCDF8B33}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-E-0764",
+      "file_name": "Case 19-E-0764 Con Edison Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/10/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Denial of Informal Review Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21E86BE4-876F-4FF4-9EF3-023BC829DB07}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0764",
+      "file_name": "976362 83 Hamilton .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/10/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter - Appeal of Denial of Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6289DA3D-4F17-44A2-80EC-DC0505342068}",
+      "organization": "83 Hamilton Pl Tenant Assoc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0764",
+      "file_name": "Cover Letter - Appeal of Denial of Informal Review - 976362 - 83 Hamilton Place Tenants v Consolidated Edison Company of New York.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/10/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Denial of Informal Review York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7751F462-6556-410B-AD67-2F4D6924ED55}",
+      "organization": "83 Hamilton Pl Tenant Assoc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0764",
+      "file_name": "Appeal of Denial of Informal Review - 976362 - 83 Hamilton Place Tenants v Consolidated Edison Company of New York.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/10/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Request for Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={340415E5-EDFB-4CCD-B3BD-C32B906F2553}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0764",
+      "file_name": "976362 83 Hamilton Pl Tenants Assoc IR request final.pdf"
+    }
+  ]
+}

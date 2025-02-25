@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0400",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5D8EC10-D0BB-4119-BFC4-17F2B27E9475}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0400",
+      "file_name": "362_16-E-0400.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B65C8A1D-0005-45DD-98C5-2F25EE269218}",
+      "organization": "10 Sullivan Condominium",
+      "itemNo": "2",
+      "docket_id": "16-E-0400",
+      "file_name": "response letter 3-20-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 10 Sullivan Condominium to Sub-Meter Electricity at a Building Located at 10 Sullivan Street, New York, NY 10012",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F24B3FEC-D528-4E2A-8F9A-B6BBC3542373}",
+      "organization": "10 Sullivan Condominium",
+      "itemNo": "1",
+      "docket_id": "16-E-0400",
+      "file_name": "10 SULLIVAN.pdf"
+    }
+  ]
+}

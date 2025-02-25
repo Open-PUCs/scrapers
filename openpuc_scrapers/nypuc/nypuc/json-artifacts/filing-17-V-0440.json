@@ -1,0 +1,71 @@
+{
+  "case": "17-V-0440",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEDA20B8-52B5-431B-944F-952873FDAFA8}",
+      "organization": "1050 Tenants Corp.",
+      "itemNo": "4",
+      "docket_id": "17-V-0440",
+      "file_name": "Response to Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={476EC02A-99D9-43BF-B324-C65616BDB8A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0440",
+      "file_name": "662 17-V-0440.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/01/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letters to Building Owner regarding Verizon Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A3D73FD-AB4C-4754-963C-8DA3CA9CF941}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0440",
+      "file_name": "16-01586 Merged Letter .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 1050 5th Avenue, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78072DF2-510A-4B27-B545-B65A051CC0A8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0440",
+      "file_name": "160809 Petition re 1050 5 Av.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07B9312F-5D13-4C8D-8B07-B552BC24057D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0440",
+      "file_name": "160809 Exhibit 2.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82B300A9-F015-48D2-B8D6-0CB155486551}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0440",
+      "file_name": "160809 Exhibit 1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "21-E-0234",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/10/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D5481D4-A769-4985-9216-B360356B74D3}",
+      "organization": "Madison 465 W LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0234",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5F9A808-D998-437E-B187-2DE60E075FF7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0234",
+      "file_name": "365_21-E-0234.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 465 Washington Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={951EFE86-5E03-452C-BEC0-4F4AD535C945}",
+      "organization": "Madison 465 W LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0234",
+      "file_name": "response letter 9-28-21.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/14/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D7695A-F52B-4D03-BFF5-8EB948969D4B}",
+      "organization": "Madison 465 W LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0234",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3EDA1C1-5C50-47B9-9849-4943B9B10246}",
+      "organization": "Madison 465 W LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0234",
+      "file_name": "submetering part 2.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application Part 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B4A38F3-1373-4F43-8956-D8D4AD297163}",
+      "organization": "Madison 465 W LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0234",
+      "file_name": "submetering application Part 3.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1AB2124-4B6E-47D0-8AE2-F94E1984100A}",
+      "organization": "Madison 465 W LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0234",
+      "file_name": "submetering application Part 1.pdf"
+    }
+  ]
+}

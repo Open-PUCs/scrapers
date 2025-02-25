@@ -1,0 +1,60 @@
+{
+  "case": "16-V-0032",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={917731DD-1B86-4092-B235-CC4A0637FC0A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0032",
+      "file_name": "666_16v0032.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Public Hearing Notice - Town of Canajoharie",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5681563-737B-4702-80D7-0CB503DAAE25}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0032",
+      "file_name": "02172016 psc submission with correction from town clerk.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Canajoharie, Montgomery County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A197505C-BC54-482E-8BA2-FEECF40C6C04}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0032",
+      "file_name": "01212016 t canajoharie submission to psc.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Albany TP 2015-1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60AEA54D-9D3C-426E-B63E-429373B458E9}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0032",
+      "file_name": "Albany TP 2015-1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Albany HE 2015-1 (3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78B0576C-90D6-4A2D-A8F5-B808CA49EC51}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0032",
+      "file_name": "Albany HE 2015-1 (3).pdf"
+    }
+  ]
+}

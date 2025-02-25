@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0474",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NGRID - Trench SAA CT Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0815791-0000-C917-96BA-2D39FB0E96EE}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0474",
+      "file_name": "NGRID - Trench SAA CT Letter of Intent 04152024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0815791-0000-C717-8072-7CA2F35907BD}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0474",
+      "file_name": "August 2024 SAA Request Letter Trench Rev2.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Clean AIr CT, SAA 245 Outline dwg 284864",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0815791-0000-C614-8600-E6D14FE2DEC5}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0474",
+      "file_name": "Clean AIr CT, SAA 245 Outline dwg 284864 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Clean AIr CT, SAA 245 Nameplate dwg 606432",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0815791-0000-C621-B6C7-36B6D14F54F7}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0474",
+      "file_name": "Clean AIr CT, SAA 245 Nameplate dwg 606432 .pdf"
+    }
+  ]
+}

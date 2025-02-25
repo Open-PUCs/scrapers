@@ -1,0 +1,49 @@
+{
+  "case": "22-V-0168",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80FAE051-D6B7-47CC-B1DB-86E064736160}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-V-0168",
+      "file_name": "662_22-V-0168.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02186 Letter to Building Owner 01-12-2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4E9012D-A482-4ED1-840E-66B27D135CC5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0168",
+      "file_name": "21-02186 Letter to Building Owner 01-12-2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02186 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A97B8A4-328C-42A5-A560-37800D194F75}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0168",
+      "file_name": "21-02186 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 182 East 2nd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53319ACB-20CF-40B0-9741-2405BAC3DC29}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0168",
+      "file_name": "4-211014 Petition (182 E 2 ST) (Post-Survey).pdf"
+    }
+  ]
+}

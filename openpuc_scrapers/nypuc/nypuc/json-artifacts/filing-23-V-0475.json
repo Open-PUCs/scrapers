@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0475",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0565D8B-0000-CD15-B3E0-6CBAC3FD8612}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0475",
+      "file_name": "662_23-V-0475.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01173 Letter to Building Owner 400 E 84 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A018E388-0000-C111-A5BF-57C6A6318F1C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0475",
+      "file_name": "23-01173 Letter to Building Owner 400 E 84 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition - 400 E 84th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F77C88-0000-CA3D-8698-EFC2768B0988}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0475",
+      "file_name": "Petition - 400 E 84th Street.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 400 E 84th Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F77C88-0000-C35A-A673-0B85EF3438F2}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0475",
+      "file_name": "Exhibit 2 - 400 E 84th Street.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - 400 E 84th SOW",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F77C88-0000-CF71-B41E-56916932F35A}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0475",
+      "file_name": "Exhibit 1 - 400 E 84th SOW.xlsx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F77C88-0000-C416-BC81-E45DBAC2ED54}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0475",
+      "file_name": "Cover Letter - 400 E. 84th St.pdf"
+    }
+  ]
+}

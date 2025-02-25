@@ -1,0 +1,49 @@
+{
+  "case": "16-G-0286",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of a informal hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC9C86A8-DE87-40D6-A4AA-E6B2850B453B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-G-0286",
+      "file_name": "164_16-G-0286 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11F9D109-419C-429C-ADCD-F8BAEFDCCB38}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0286",
+      "file_name": "325010_Ack_Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E68F4EC-81EF-4716-9323-98E95E9B5670}",
+      "organization": "Joyful Heart Baptist Church",
+      "itemNo": "2",
+      "docket_id": "16-G-0286",
+      "file_name": "325010_Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1811588-57DD-40AF-8E25-C5490FB5F90D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0286",
+      "file_name": "325010_Appeal.pdf"
+    }
+  ]
+}

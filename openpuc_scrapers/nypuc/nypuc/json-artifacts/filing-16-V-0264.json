@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0264",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={322581A3-ED9D-4AED-A5C2-3732F4534872}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0264",
+      "file_name": "661_16v0264.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Portville, County of Cattaraugus, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F5F4226-60F8-4ADE-BDBA-86D9282F82C9}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0264",
+      "file_name": "05.05.16 - Portville, Village Franchise Renewal Submitted to PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0657",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2898D83-3FC4-4B66-913F-6FB3846CB961}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0657",
+      "file_name": "668_20-V-0657.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/15/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Lisle, Broome County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFB5DE5C-CA87-47AF-BA89-47005888F0A5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0657",
+      "file_name": "2020.12.15 T. LISLE RENEWAL TO PSC .pdf"
+    }
+  ]
+}

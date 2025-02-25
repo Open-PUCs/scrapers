@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0034",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 58 St.Marks Place, Brooklyn, New York 11217.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBAD59ED-11F6-4FD2-B4EA-31F55E3548A6}",
+      "organization": "4th Avenue Development Owner LLC",
+      "itemNo": "7",
+      "docket_id": "21-E-0034",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE827567-9F9F-44F3-A91F-2100FC8AC614}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0034",
+      "file_name": "394 - 21-E-0034 4th Ave Develop Owner Submetering Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information requested for 58 St. Marks Place, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D60B507-53B4-47B9-A373-1D2BE82FD413}",
+      "organization": "4th Avenue Development Owner LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0034",
+      "file_name": "additional information4.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/07/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B12F6AC9-78C3-4A1E-B0E3-81799CED3B6C}",
+      "organization": "4th Avenue Development Owner LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0034",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "sample bill",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2A0DD7C-8478-40E0-B5DE-418C3A4EF685}",
+      "organization": "4th Avenue Development Owner LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0034",
+      "file_name": "sample bill.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67FD840A-8246-440B-8A77-FDF97CD1B736}",
+      "organization": "4th Avenue Development Owner LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0034",
+      "file_name": "additional information2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B28E4D12-1FDD-442A-8F3A-9A499AAA0414}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "21-E-0034",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Submeter Electricity at a Building Located at 58 St. Marks Place, Brooklyn,",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E62A231C-691C-4851-9307-29FFFDDC5A83}",
+      "organization": "4th Avenue Development Owner LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0034",
+      "file_name": "Petition to Submeter Electricity at a Building Located at 58 St. Marks Place, Brooklyn,.pdf"
+    }
+  ]
+}

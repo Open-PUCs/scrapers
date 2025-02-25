@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0656",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Regarding Compensation Term for Certain Projects",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F657E86F-5C98-45D3-B0B0-6726A3AA320B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-E-0656",
+      "file_name": "379_17-E-0656.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Dynamic Energy Solutions, LLC for Extension of Phase One Net Energy Metering Compensation Term",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FC63B05-FACB-4300-AA0D-6DA8C8EB21DB}",
+      "organization": "Dynamic Energy Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0656",
+      "file_name": "Petition of Dynamic Energy Solutions, LLC for Extension of Phase One Net Energy Metering Compensation Term.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1422484E-C1CA-41C7-B02A-4037AD080431}",
+      "organization": "Dynamic Energy Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0656",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

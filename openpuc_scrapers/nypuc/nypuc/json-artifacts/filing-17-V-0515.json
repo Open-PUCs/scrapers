@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0515",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E645F065-0DF6-4BE3-B51C-0B287BAE5378}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0515",
+      "file_name": "661_17-V-0515.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Cape Vincent, County of Jefferson, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11CE1EFE-35CE-476E-9115-C0B340278E19}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0515",
+      "file_name": "V Cape Vincent Charter PSC application.pdf"
+    }
+  ]
+}

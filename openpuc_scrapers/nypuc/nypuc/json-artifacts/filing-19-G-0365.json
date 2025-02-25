@@ -1,0 +1,27 @@
+{
+  "case": "19-G-0365",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB334D98-16C5-44D9-A4DA-051840E92C13}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-G-0365",
+      "file_name": "164_19-G-0365.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/10/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "19-G-0365",
+      "file_name": ""
+    }
+  ]
+}

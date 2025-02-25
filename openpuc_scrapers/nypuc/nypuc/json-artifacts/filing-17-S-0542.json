@@ -1,0 +1,104 @@
+{
+  "case": "17-S-0542",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43D521F6-C18E-468B-923B-AD99A76CE970}",
+      "organization": "36 East 72 Street Corp.",
+      "itemNo": "7",
+      "docket_id": "17-S-0542",
+      "file_name": "17-S-0542 Withdrawal of Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/12/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF6AE3EF-1A72-4BA3-9EA1-61542371214A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "17-S-0542",
+      "file_name": "17-S-0542 RHG acknowledgement letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43A323BD-10BF-4110-9444-DE9A2E619F99}",
+      "organization": "36 East 72 Street Corp.",
+      "itemNo": "5",
+      "docket_id": "17-S-0542",
+      "file_name": "17-S-0542 36 East 72 Street v. Consolidated Edison Company.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E4CE60D-A149-4090-9978-426CB4A9D3FB}",
+      "organization": "36 East 72 Street Corp.",
+      "itemNo": "5",
+      "docket_id": "17-S-0542",
+      "file_name": "17-S-0542 - CoverLetter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D73FF8A-D3B7-47BE-993A-1CD1D267A81A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-S-0542",
+      "file_name": "264 Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={262FB97B-3CB9-4ED1-8FE4-585192707511}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-S-0542",
+      "file_name": "264 Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2563409F-FAAC-490F-A76D-D9FFA561F376}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-S-0542",
+      "file_name": "72 Street ACK Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79683519-7236-47D8-A9B5-672A31B5807A}",
+      "organization": "36 East 72 Street Corp.",
+      "itemNo": "2",
+      "docket_id": "17-S-0542",
+      "file_name": "72 Street Appeal.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/07/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1F2C79C-A121-49BD-8AE0-336C6A03DDC8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-S-0542",
+      "file_name": "72 Street IH.pdf"
+    }
+  ]
+}

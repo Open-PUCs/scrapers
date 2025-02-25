@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0385",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D09AB38A-0000-C71E-B41A-D2D18F8B6B83}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0385",
+      "file_name": "662_23-V-0385 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90724B89-0000-CC2E-A398-60A5D8115C84}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0385",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Binghamton Letter 07.12.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80724B89-0000-CF12-8BEA-FCC52C909D69}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0385",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Binghamton Letter 07.12.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/12/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Binghamton Cover Letter- Request for Renewal and Certificate of Confirmation 07.12.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90724B89-0000-C445-B371-C99CB02DFE58}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0385",
+      "file_name": "Charter Communications, T. Binghamton Cover Letter- Request for Renewal and Certificate of Confirmation 07.12.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/12/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications - T. Binghamton Request for Renewal and Certificate of Confirmation(redacted) 07.12.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90724B89-0000-C866-89F4-8EE169020DFB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0385",
+      "file_name": "Charter Communications - T. Binghamton Request for Renewal and Certificate of Confirmation(redacted) 07.12.23.pdf"
+    }
+  ]
+}

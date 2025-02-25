@@ -1,0 +1,38 @@
+{
+  "case": "22-E-0539",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Upstream Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D34E776-1628-4587-9E1F-F2CF648B404C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0539",
+      "file_name": "376_22-E-0539 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Eight Point Wind, LLC, et al., for an Expedited Declaratory Ruling Regarding the Transfer of Upstream Ownership Interests in Eight Point Wind, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30A36D81-A8CD-482D-A371-EE543ACD18A5}",
+      "organization": "BAL Investment & Advisory, Inc., ESI Energy, LLC, Eight Point Wind, LLC, Emerald Breeze Class A Holdings, LLC, Emerald Breeze Funding, LLC, Emerald Breeze Holdings, LLC, Emerald Breeze, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0539",
+      "file_name": "Eight Point Wind Petition 9-19-22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF0FA953-EBB4-4054-A99A-85B82945D352}",
+      "organization": "BAL Investment & Advisory, Inc., ESI Energy, LLC, Eight Point Wind, LLC, Emerald Breeze Class A Holdings, LLC, Emerald Breeze Funding, LLC, Emerald Breeze Holdings, LLC, Emerald Breeze, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0539",
+      "file_name": "Cover letter 9-19-22.pdf"
+    }
+  ]
+}

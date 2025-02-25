@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0691",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B65979-8F37-456A-BF85-E7608B269CC9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0691",
+      "file_name": "661_19-V-0691.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Whitney Point, County of Broome.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A251D608-DFB5-45E4-BBB4-F9C37EF6B530}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0691",
+      "file_name": "10281919 V. WHITNEY POINT RENEWAL SUBMISSION TO PSC, lk.pdf"
+    }
+  ]
+}

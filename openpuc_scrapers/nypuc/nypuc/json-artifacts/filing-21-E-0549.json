@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0549",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9A78AA1-8C3E-4AEF-B4B5-FB4595AF5FAF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0549",
+      "file_name": "368_21-E-0549 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "GE JBW-5ER - Type Test Data",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={222A383D-7EDE-416C-8F70-5F1512FEE0D3}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "21-E-0549",
+      "file_name": "GE JBW-5ER - Type Test Data.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "GE JBW-5ER - National Grid Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8DC2810-8491-4BFE-B935-001947CC26D2}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "21-E-0549",
+      "file_name": "GE JBW-5ER - National Grid Letter of Intent_10-20-21.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "GE JBW-5ER - Datasheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C21464F-BF2B-40DD-B1A5-F32F08598C89}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "21-E-0549",
+      "file_name": "GE JBW-5ER - Datasheet.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54BF989F-6A72-4CFA-9E61-DFD2F08614A1}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "21-E-0549",
+      "file_name": "Cover Letter - Matter No. 21-02394.pdf"
+    }
+  ]
+}

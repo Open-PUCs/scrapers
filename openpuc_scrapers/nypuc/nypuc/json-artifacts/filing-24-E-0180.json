@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0180",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Global 1845 Broadway LLC - Order Certifications Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EB4593-0000-C616-9049-211559B31268}",
+      "organization": "Global 1845 Broadway LLC",
+      "itemNo": "4",
+      "docket_id": "24-E-0180",
+      "file_name": "Global 1845 Broadway LLC - Order Certifications Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1072BA92-0000-C814-8A5C-28C0D9537224}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0180",
+      "file_name": "370_24-E-0180 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7097548F-0000-C217-826A-37892A9615B3}",
+      "organization": "Global 1845 Broadway LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0180",
+      "file_name": "Global 1845 Broadway LLC - SAPA Notice Filing (1 W 60th Street).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/28/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Global 1845 Broadway LLC to Submeter Electricity at 1 West 60th Street, New York, Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A02B868E-0000-C414-A2EA-5CBF520A44DF}",
+      "organization": "Global 1845 Broadway LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0180",
+      "file_name": "Notice of Intent to Submeter - Global 1845 Broadway LLC - 1 W 60th St NY NY.pdf"
+    }
+  ]
+}

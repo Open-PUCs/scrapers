@@ -1,0 +1,49 @@
+{
+  "case": "21-V-0035",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/23/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={784BECC1-EC0A-4B7A-8203-1287D111130C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0035",
+      "file_name": "666_21-V-0035 Neg Dec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77493611-A3BA-4CED-9667-3B1A2E47A11D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0035",
+      "file_name": "666_21-V-0035 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/23/2021",
+      "nypuc_doctype": "Reports",
+      "name": "21-V-0035 Town of Bainbridge SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8EACAB4C-A037-4F36-866F-581C185C954B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0035",
+      "file_name": "21-V-0035 Town of Bainbridge SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/07/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for a Certificate of Confirmation for its Franchise with the Town of Bainbridge, Chenango County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBCD954F-7A40-4E11-95FE-85112C55FB20}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0035",
+      "file_name": "Town of Bainbridge Cable Franchise Application Complete.pdf"
+    }
+  ]
+}

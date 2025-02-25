@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0124",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240521 - Payment ($2,500) Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60D33590-0000-CC10-8EEB-CA8D49B815A2}",
+      "organization": "Patriot Contracting Corp.",
+      "itemNo": "3",
+      "docket_id": "24-G-0124",
+      "file_name": "20240521 - Payment ($2,500) Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E008168F-0000-C330-886E-533352F5F396}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0124",
+      "file_name": "161-A_24-G-0124.pdf"
+    }
+  ]
+}

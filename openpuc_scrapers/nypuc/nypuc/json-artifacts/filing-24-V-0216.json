@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0216",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0655A90-0000-C210-93D8-ADE3E1DF3499}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0216",
+      "file_name": "662_24-V-0216 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2097AE8E-0000-C51B-B26B-2874D48681E3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0216",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Manlius, 4.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1097AE8E-0000-C319-A175-A5A853D51899}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0216",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Manlius, 4.5.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Manlius-Cover Letter-Request for Renewal and Certificate of Confirmation 4.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2097AE8E-0000-CE38-ABDB-8DB30E3AC40F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0216",
+      "file_name": "Charter Communications, V. Manlius-Cover Letter-Request for Renewal and Certificate of Confirmation 4.5.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Manlius -Request for Renewal and Certificate of Confirmation(redacted) 4.5.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2097AE8E-0000-C757-AB85-B61B034196A2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0216",
+      "file_name": "Charter Communications, V. Manlius -Request for Renewal and Certificate of Confirmation(redacted) 4.5.24.pdf"
+    }
+  ]
+}

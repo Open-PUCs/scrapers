@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0398",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240930 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0E99B92-0000-CD45-8D56-F6EAD0048CDF}",
+      "organization": "Giuliano's Landscaping & Design Corp.",
+      "itemNo": "3",
+      "docket_id": "24-G-0398",
+      "file_name": "20240930 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50398091-0000-C91C-BCBA-1850415E0729}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0398",
+      "file_name": "161-A_24-G-0398.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240401 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10569B8E-0000-C73D-9AEE-28D2BFA279EE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0398",
+      "file_name": "20240401 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240401 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10569B8E-0000-CA11-A244-3026CEC7757D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0398",
+      "file_name": "20240401 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240401 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10569B8E-0000-CC7C-850F-4B60308C81C4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0398",
+      "file_name": "20240401 - Citation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240319 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10569B8E-0000-C553-8248-DC51D615B5B6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0398",
+      "file_name": "20240319 - Origin of Investigation.pdf"
+    }
+  ]
+}

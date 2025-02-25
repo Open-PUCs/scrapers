@@ -1,0 +1,225 @@
+{
+  "case": "20-E-0672",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3367824A-CFCD-438C-8194-ECB0876D9F5C}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0672",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6B70FBE-2744-47F8-ACDA-84CC9B7A9BB6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0672",
+      "file_name": "383 - 20-E-0672 LS 14 Ave Submetering Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B86F59C5-FB73-4FEF-947D-CF53541EDBD8}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0672",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D93AA01-E039-485F-BC00-B31FEE7AA002}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0672",
+      "file_name": "additional information .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetring Application Part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EFB41E1-BD02-4B56-B189-687AE0E6436B}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Submetring Application Part 2.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Offering Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEC3353F-0E66-40FE-B5DF-AD3AB4AB26D0}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Submetering Offering Plan.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98F27D96-4054-49AF-8B36-DD6AA7A93FFC}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Submetering Identification Form.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Special Protections Registration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7F58025-D205-4791-9A29-CAAB583A4626}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Special Protections Registration.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Resident Assest Form (12)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93A0BC02-5669-4228-A3AA-46EAC69D3987}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Resident Assest Form (12).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Quarterly Billing Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={679F95B5-0BD8-4CF4-BBC3-1C1557D445B6}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Quarterly Billing Plan.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Past Due Reminder Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90385895-7380-40B8-9701-8C0A5386CD57}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Past Due Reminder Notice.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notification of Rights",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5C38559-2336-4FE6-8312-AAB3C379AF6C}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Notification of Rights.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice to Social Services",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CBFF120-F8AA-4DF0-BA54-2694DE73A1A9}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Notice to Social Services.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Final Termination Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD5BFEB0-4130-44CA-B8F8-D384EF838F76}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Final Termination Notice.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Failure to Make Payment Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B02D4C8-3301-40F6-9EC5-30A3055D6138}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Failure to Make Payment Notice.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Deferred Payment Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C6F22B2-D1FD-41F1-927A-698D5157BC15}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Deferred Payment Agreement.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={102DA1CC-8B03-48D5-AE4A-29A1A6011F04}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Ed Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1B5478B-B827-42F1-B776-9F60FAFE7051}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Con Ed Letter.pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Budget Billing Plan - v2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA279E79-F89B-4A67-9897-9A3F73E2BA16}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Budget Billing Plan - v2.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Average Rate Breakdown2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D617B034-3B97-42DF-9DF1-E3EEDC8CA56E}",
+      "organization": "LS-14 AVE LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0672",
+      "file_name": "Average Rate Breakdown2.pdf"
+    }
+  ]
+}

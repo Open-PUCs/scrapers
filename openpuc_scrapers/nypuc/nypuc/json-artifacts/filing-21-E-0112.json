@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0112",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Celia O'Brien and John Carr Granting Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA7D22C0-9868-4B5D-B8EB-6582E588FDE8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0112",
+      "file_name": "21-E-0112 - Letter Authorizing Overhead Installation 4.14.2021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B951FB9-05F3-41A9-BC58-F0E0D69B82C9}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-E-0112",
+      "file_name": "National Grid Correspondence.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Forest Ridge Signed Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5170B275-B41C-4225-8A24-F9165FBA9464}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0112",
+      "file_name": "Forest Ridge signed affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Forest Ridge Petition and Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5811C739-0E1A-4EE0-8C1F-16DA5A451536}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0112",
+      "file_name": "Forest Ridge petition and exhibits.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3AD65BD-7454-47E4-AFDF-35970EBBD8B3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0112",
+      "file_name": "Forest Ridge filing letter.pdf"
+    }
+  ]
+}

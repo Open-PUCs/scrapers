@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0485",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508AB592-0000-C614-B1A5-DE7F054CF718}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0485",
+      "file_name": "661_24-V-0485.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0507091-0000-C536-A9CD-57C19E613308}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0485",
+      "file_name": "AUSA Newspaper Cover Letter - Roslyn Estates, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Roslyn Estates, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0507091-0000-C11C-A061-D764371862DF}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "24-V-0485",
+      "file_name": "AUSA Newspaper Affidavit - Roslyn Estates, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00467091-0000-C75A-B357-04755F7AEFE8}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0485",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Roslyn Estates, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00467091-0000-C69D-860D-9FAAD54A2935}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0485",
+      "file_name": "Exhibit IV - Roslyn Estates, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00467091-0000-CD73-B512-CC383F404F1E}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0485",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00467091-0000-CFBB-9F98-5691AA4AB9CC}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0485",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00467091-0000-CE15-9543-5BF029C865F4}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0485",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00467091-0000-C135-A366-0419A7151B5C}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "24-V-0485",
+      "file_name": "Application Cover Letter - Roslyn Estates, V..pdf"
+    }
+  ]
+}

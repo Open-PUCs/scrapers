@@ -1,0 +1,49 @@
+{
+  "case": "18-C-0183",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44647D93-68C9-49FA-BCEB-443465F0EC8E}",
+      "organization": "Flight Group Holdings LP",
+      "itemNo": "3",
+      "docket_id": "18-C-0183",
+      "file_name": "Notice of Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-C-0183.OHCP.Transfer Indirect Ownership.62518",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A19ED66D-D004-4871-8959-77876B53803E}",
+      "organization": "ION HoldCo, LLC, ION Newco Corp., OHCP Northeastern Fiber Buyer, Inc., TVC Albany, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-C-0183",
+      "file_name": "18-C-0183.OHCP.Transfer Indirect Ownership.62518.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BE0EB4-2F18-4E82-9AD7-21E750563260}",
+      "organization": "186 Communications, LLC, Finger Lakes Technologies Group, Inc., Flight Group Holdings LP, ION HoldCo, LLC, ION Newco Corp., OHCP Northeastern Fiber Buyer Holdco, L.P, TVC Albany, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0183",
+      "file_name": "NY Transmittal Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of OHCP Northeastern Fiber Buyer Holdco, L.P, Transferor TVC Albany, Inc.; ION Holdco, LLC; ION Newco Corp.; Finger Lakes Technology Group, Inc.; and 186 Communications, LLC, Authority Holders , and Flight Group Holdings LP, Transferee , for Approval to Transfer Indirect Ownership of the Authority Holders and for the Authority Holders to Participate in Certain Financing Arrangements.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97D930D1-B046-4320-AFC8-B5334E7625C0}",
+      "organization": "186 Communications, LLC, Finger Lakes Technologies Group, Inc., Flight Group Holdings LP, ION HoldCo, LLC, ION Newco Corp., OHCP Northeastern Fiber Buyer Holdco, L.P, TVC Albany, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0183",
+      "file_name": "NY ToC & Financing Petition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "16-W-0410",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A535211-3E1A-457F-AD2E-8E4D529890F1}",
+      "organization": "New York American Water Company, Inc. - Sea Cliff",
+      "itemNo": "4",
+      "docket_id": "16-W-0410",
+      "file_name": "Sea Cliff RPCRC Compliance Filing to Secretary Burgess.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-W-0410",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Approval to Offset RAC/PTR Surcharge and Deferral",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5614914C-8540-4192-AF8F-7F0623C3012F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-W-0410",
+      "file_name": "463_16W0410.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York American Water Company, Inc. for Approval to Offset the RAC/PTR Surcharge, P.S.C. No. 3.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE3C026B-581E-4EB4-8BF4-E49B33C7AE53}",
+      "organization": "New York American Water Company, Inc. - Sea Cliff, New York American Water Company, Inc. - Sea Cliff",
+      "itemNo": "1",
+      "docket_id": "16-W-0410",
+      "file_name": "2016.07.25_NYAW fka Sea Cliff RPCRC Update.pdf"
+    }
+  ]
+}

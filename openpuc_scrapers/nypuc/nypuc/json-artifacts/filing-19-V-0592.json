@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0592",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB2ADF85-AD65-4519-B99C-162E5C117801}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0592",
+      "file_name": "663_19-V-0592 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Refile PSC Cover Letter for Vlg.N.Hartford Renewal - Spectrum Northeast, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3B08437-93EB-4307-847D-1CD1411267E6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0592",
+      "file_name": "091719 Refile PSC Cover Letter for Vlg.N.Hartford Renewal - Spectrum Northeast, LLC .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "R-2 - Refile V. New Hartford 092419, SpectrumNortheast",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={740B40D9-2D76-43F7-83F7-4164628047BA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0592",
+      "file_name": "R-2 - Refile V. New Hartford 092419, SpectrumNortheast.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of New Hartford, NY, County of Oneida, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={794FD454-3F3A-4121-9AB0-4C21D3560A16}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0592",
+      "file_name": "091719 VLG. NEW HARTFORD RENEWAL SUBMISSION TO PSC .pdf"
+    }
+  ]
+}

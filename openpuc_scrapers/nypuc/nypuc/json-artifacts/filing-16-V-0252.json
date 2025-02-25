@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0252",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23028385-1825-48E9-AE34-D0E7446C803B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0252",
+      "file_name": "663_16v0252.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Turin, Lewis County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9291D654-60C1-4470-96CF-DF567A10006D}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0252",
+      "file_name": "Turin.pdf"
+    }
+  ]
+}

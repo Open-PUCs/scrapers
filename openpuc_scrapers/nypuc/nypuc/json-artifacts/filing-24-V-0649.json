@@ -1,0 +1,71 @@
+{
+  "case": "24-V-0649",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-01921 Letter to Building Owners 417 Flushing Ave, Brooklyn Corrected Mailing Address",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A093B992-0000-C677-BD0C-63A8A481A535}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0649",
+      "file_name": "24-01921 Letter to Building Owners 417 Flushing Ave, Brooklyn Corrected Mailing Address.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-01921 Letter to Building Owners 417 Flushing Ave, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0046792-0000-CF32-ABCC-F989A01EFC20}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-V-0649",
+      "file_name": "24-01921 Letter to Building Owners 417 Flushing Ave, Brooklyn.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D00092-0000-CF7E-8131-F8B1166872E9}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0649",
+      "file_name": "Exhibit 2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D00092-0000-CD18-84DD-13124D509C04}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0649",
+      "file_name": "Exhibit 1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D00092-0000-CC58-B9E2-9BF2087DBCA4}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0649",
+      "file_name": "Filing Cover Letter - Order of Access 2024 - 417 Flushing.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "417 Flushing Ave - Order of Access Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0D00092-0000-C930-8F42-3F0956AB5B67}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0649",
+      "file_name": "417 Flushing Ave - Order of Access Petition_Final(29768015.1).pdf"
+    }
+  ]
+}

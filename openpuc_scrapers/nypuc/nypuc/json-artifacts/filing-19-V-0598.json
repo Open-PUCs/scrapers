@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0598",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance, Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22A0149D-FEE9-4636-83F1-CF7047EF0E03}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0598",
+      "file_name": "661_19-V-0598_Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A2C5C1A-A308-43CA-83B3-4CF9F648177D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0598",
+      "file_name": "661_19-V-0598_Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/09/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "19-V-0598 Haefele TV Inc. - T. of Baldwin SEAF Parts 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1552A983-9FE4-4917-8668-A90D08027D80}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0598",
+      "file_name": "19-V-0598 Haefele TV Inc. - T. of Baldwin SEAF Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Haefele TV Inc, for a Certificate of Confirmation for its Franchise with the Town of Baldwin, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3B7B85F-A40F-4A2A-991F-DB1FAEAD2830}",
+      "organization": "Haefele TV, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0598",
+      "file_name": "Town of Baldwin Confirmation of Franchise Docs_09192019.pdf"
+    }
+  ]
+}

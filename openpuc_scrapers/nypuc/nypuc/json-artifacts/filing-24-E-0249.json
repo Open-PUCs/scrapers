@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0249",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/12/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={900FA790-0000-C314-92F6-CEB3E279AEBE}",
+      "organization": "Sunrise Wind Project Holdings, LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0249",
+      "file_name": "Case 24-E-0249 - Compliance Filing of Eversource Investment, Orsted DevCo, Orsted DevCo II, and SRW Holdings - 7.12.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0CA4B90-0000-CB18-856F-DF1857B15671}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0249",
+      "file_name": "379_24-E-0249 62424 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Eversource Investment, Orsted DevCo, Orsted DevCo II, and SRW Holdings for a Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F022118F-0000-C218-A40E-D58AFC5BC2D8}",
+      "organization": "Eversource Investment LLC, Orsted DevCo II, LLC, Orsted DevCo, LLC, Sunrise Wind Project Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0249",
+      "file_name": "Case 24-E-____ - Verified Joint Petition of Eversource Investment, Orsted DevCo, Orsted DevCo II, and SRW Holdings for a Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F022118F-0000-C939-9EA3-FAEC45003230}",
+      "organization": "Eversource Investment LLC, Orsted DevCo II, LLC, Orsted DevCo, LLC, Sunrise Wind Project Holdings, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0249",
+      "file_name": "Case 24-E-____ - Cover Letter - Verified Joint Petition of Eversource Investment, Orsted DevCo, Orsted DevCo II, and SRW Holdings for a Declaratory Ruling.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0277",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10C58889-0000-CC1F-9285-B15FF9C2F7DE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0277",
+      "file_name": "661_23-V-0277 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0A73488-0000-C825-A065-E0B4B800C3B1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0277",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Potsdam 05.19.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A73488-0000-C416-AE6D-701399CA4C2A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0277",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Potsdam 05.19.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Potsdam-Request for Renewal and Certificate of Confirmation (redacted) 5.19.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0A73488-0000-C868-B6CD-170F1889A92D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0277",
+      "file_name": "Charter Communications, T. Potsdam-Request for Renewal and Certificate of Confirmation (redacted) 5.19.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Potsdam-Cover Letter-Request for Renewal and Certificate of Confirmation 5.19.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0A73488-0000-CE43-B30A-2C3722714E4F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0277",
+      "file_name": "Charter Communications, T. Potsdam-Cover Letter-Request for Renewal and Certificate of Confirmation 5.19.23.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0037",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bethany PSC Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00291E8A-0000-C11F-82E3-F31CCA584113}",
+      "organization": "Bethany Senior Terraces",
+      "itemNo": "5",
+      "docket_id": "23-E-0037",
+      "file_name": "Bethany PSC acceptance of terms_8-22-2023.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80F3188A-0000-C213-8A06-71246ED666A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0037",
+      "file_name": "370_23-E-0037.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bethany PSC Inquiry Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={002E3189-0000-C81A-9E35-C6947F3DC5FD}",
+      "organization": "Bethany Senior Terraces",
+      "itemNo": "3",
+      "docket_id": "23-E-0037",
+      "file_name": "23-E-0037 Bethany PSC inquiry response_7-7-2023.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C080E686-0000-C838-9B13-E37DE43EE58D}",
+      "organization": "Bethany Senior Terraces",
+      "itemNo": "2",
+      "docket_id": "23-E-0037",
+      "file_name": "Bethany PSC REV 3.15.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Submeter ID form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C080E686-0000-CC57-81E4-0393AFB91FAB}",
+      "organization": "Bethany Senior Terraces",
+      "itemNo": "2",
+      "docket_id": "23-E-0037",
+      "file_name": "Bethany PSC Submeter ID form.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Bethany materials log FRIDGE highlighted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C080E686-0000-C113-81D0-F7493E1FF0F8}",
+      "organization": "Bethany Senior Terraces",
+      "itemNo": "2",
+      "docket_id": "23-E-0037",
+      "file_name": "Bethany materials log FRIDGE highlighted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of Bethany Senior Terraces to Submeter Electricity at 604 East 40th Street, Brooklyn, NY 11203, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65351468-5C1E-41F3-A4B0-B1E4EE82956A}",
+      "organization": "Bethany Senior Terraces",
+      "itemNo": "1",
+      "docket_id": "23-E-0037",
+      "file_name": "Bethany PSC 1.17.23.pdf"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "case": "18-E-0485",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding Community Distributed Generation Compensation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC52DA25-0003-450F-AB17-229312732A97}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "18-E-0485",
+      "file_name": "301_18-E-0485.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/04/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Responses to Comments of NRG Community Solar LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={832DF2BE-21D7-498F-B456-5DB9CF5C7BC5}",
+      "organization": "NRG Community Solar LLC",
+      "itemNo": "8",
+      "docket_id": "18-E-0485",
+      "file_name": "Case 18-E-0485 090418 Cover Letter to Secretary 4813-4846-3473 v.1.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/04/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Comments of NRG Community Solar LLC 4842-3342-4241 v.1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9500E443-FDD3-4E1B-9D83-8F7717BB09AD}",
+      "organization": "NRG Community Solar LLC",
+      "itemNo": "8",
+      "docket_id": "18-E-0485",
+      "file_name": "Case 18-E-0485 Response to Comments of NRG Community Solar LLC 4842-3342-4241 v.1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/20/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Central Hudson",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={773F6F23-CC01-44FD-924C-DF32AC8733DF}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "18-E-0485",
+      "file_name": "18-E-0485 Central Hudson Response 08-20-2018.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/17/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE9ED8B6-1219-4CEE-BBD6-8564947DDB47}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "6",
+      "docket_id": "18-E-0485",
+      "file_name": "Response to NRG (003).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/17/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A8DE4DE-CCDA-47B0-83A7-B1478A299BC2}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "6",
+      "docket_id": "18-E-0485",
+      "file_name": "NRG Response Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/14/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Nexamp Letter in Support of NRG Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39916A5D-58C7-40FD-974B-F5C7F84B95A3}",
+      "organization": "Nexamp Inc.",
+      "itemNo": "5",
+      "docket_id": "18-E-0485",
+      "file_name": "Nexamp Letter in Support of NRG Petition 18-E-0485.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "CCR Support Letter for NRG Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CEAA893-6E22-45B3-9BE5-854A82174996}",
+      "organization": "Cypress Creek Renewables",
+      "itemNo": "3",
+      "docket_id": "18-E-0485",
+      "file_name": "CCR Support Letter NRG Petition 8.13.18.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/08/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter of Support for NRG Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8765B0B1-5E89-443E-A2BF-0376E433D31F}",
+      "organization": "Borrego Solar Systems, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-E-0485",
+      "file_name": "Borrego Solar Letter of Support for NRG Petition 8-8-2018.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of NRG Community Solar LLC for a Declaratory Ruling Concerning SC2 and VDER Tariffs for Community Solar Projects, or in the Alternative, for Clarification and/or Modification of the SC2 and VDER Tariffs of Central Hudson Gas and Electric Corporation and Orange and Rockland Utilities, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97AED534-D739-461F-B8AC-CA1D58B518DA}",
+      "organization": "NRG Community Solar LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0485",
+      "file_name": "NRG Petition.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "07/30/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={697A46DB-1F45-4895-B268-8B01FE57128E}",
+      "organization": "NRG Community Solar LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0485",
+      "file_name": "073018 Cover Letter to NRG Community Solar Petition.pdf"
+    }
+  ]
+}

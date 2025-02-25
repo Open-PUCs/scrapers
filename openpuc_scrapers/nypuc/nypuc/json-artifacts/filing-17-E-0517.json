@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0517",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={646D7553-F169-4D18-AD2B-2678DC3DA53B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0517",
+      "file_name": "372 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Denial of Informal Hearing Request - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6E1764E-0AC4-43CA-B5CF-56AB1EC9AB59}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0517",
+      "file_name": "724605 Bevilacqua_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Letter Denying Informal Hearing Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB950A4D-B33A-4ACC-AFBA-9F653F32527A}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0517",
+      "file_name": "Bevilacqua Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Informal Hearing Request - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A5C7F0E-31E1-4C6B-8454-85A2E5EE70F7}",
+      "organization": "Individual",
+      "itemNo": "1",
+      "docket_id": "17-E-0517",
+      "file_name": "Case #724605 James Bevilacqua vs NYSEG IH denial (002)_Redacted.pdf"
+    }
+  ]
+}

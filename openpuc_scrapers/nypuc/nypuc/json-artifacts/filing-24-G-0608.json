@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0608",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240828 - NOPV Letter (Corrected)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00789A91-0000-C981-8E6B-C41B9814A3EA}",
+      "organization": "Juan Carlos Vallin Reyes d/b/a JC Pools",
+      "itemNo": "4",
+      "docket_id": "24-G-0608",
+      "file_name": "20240828 - NOPV Letter (Corrected).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240828 - Citation (Corrected)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10789A91-0000-C33A-85F4-161774B9DC57}",
+      "organization": "Juan Carlos Vallin Reyes d/b/a JC Pools",
+      "itemNo": "4",
+      "docket_id": "24-G-0608",
+      "file_name": "20240828 - Citation (Corrected).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240828 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50659A91-0000-C52B-A4D4-49AC51B930FD}",
+      "organization": "Juan Carlos Vallin Reyes d/b/a JC Pools",
+      "itemNo": "3",
+      "docket_id": "24-G-0608",
+      "file_name": "20240828 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240828 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60659A91-0000-C51D-8323-29537F5AF3E1}",
+      "organization": "Juan Carlos Vallin Reyes d/b/a JC Pools",
+      "itemNo": "3",
+      "docket_id": "24-G-0608",
+      "file_name": "20240828 - Citation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240805 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F02391-0000-C622-ADAE-090D9B32D061}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0608",
+      "file_name": "20240805 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240805 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F02391-0000-C564-B6C4-DB0C8AFCCFF6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0608",
+      "file_name": "20240805 - NOPV Letter.pdf"
+    }
+  ]
+}

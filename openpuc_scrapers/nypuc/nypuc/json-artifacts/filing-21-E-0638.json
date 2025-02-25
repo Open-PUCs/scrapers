@@ -1,0 +1,27 @@
+{
+  "case": "21-E-0638",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/20/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response of Con Edison",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA1AE3AB-956B-4253-9A51-1AFBF3054A21}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0638",
+      "file_name": "CECONY Reply- Case 21-E-0638.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/30/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utility Rate Analysis Consultants for a Declaratory Ruling Concerning Failure of Con Edison Company of New York to issue a refund directed by the Office of Consumer Services in OCS Case 172791 (1 East End Ave v Con Edison).",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0C66946-0D10-47CA-B09F-371EF70F3DC0}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "21-E-0638",
+      "file_name": "OCS Case 172791 1 East End v Con Edison - Petition for Declaratory Ruling.pdf"
+    }
+  ]
+}

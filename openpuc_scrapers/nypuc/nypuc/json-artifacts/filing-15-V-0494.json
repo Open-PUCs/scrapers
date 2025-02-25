@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0494",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/02/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0658DCE1-B764-4180-8239-6A0E6F0A5564}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0494",
+      "file_name": "662_15V0494.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Victor, Ontario County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1A02A7A-ACCE-425C-BAFB-DF2B15C510CF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0494",
+      "file_name": "VICTOR, TOWN - RENEWAL DOCS.pdf"
+    }
+  ]
+}

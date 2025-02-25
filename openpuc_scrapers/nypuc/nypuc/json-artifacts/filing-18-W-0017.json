@@ -1,0 +1,71 @@
+{
+  "case": "18-W-0017",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A3E376D-1119-4656-A9FA-74B5125A433B}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-W-0017",
+      "file_name": "18-W-0017 181004 Compliance Cover Letter to PSC Sec f SWS.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7274EE09-9412-477D-8A4F-4D5F90951CA6}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-W-0017",
+      "file_name": "DEC Approval Blacksmith Dr extension.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8496CCC7-EE61-46A0-9455-B90E43A27A73}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-W-0017",
+      "file_name": "462_18-W-0017.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Saratoga Water Services, Inc., KNC Holdings, Inc., M.A.L. Donut Venture of Saratoga, Ltd., and Malta Diner, Inc. for Approval of a Water Main Extension Agreement and Waivers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53681638-281C-474F-811D-4F088E37C00E}",
+      "organization": "KNC Holdings, Inc., M.A.L. Donut Venture of Saratoga, Ltd., Malta Diner, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0017",
+      "file_name": "Petition for Waivers, SWS Blacksmith Dr Extn w Appendix 180109.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Proposed Rule Making, Proposed, SWC Blacksmith Dr Extn 180109",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={690051AE-2FF2-43BC-A211-A2DF053A238F}",
+      "organization": "KNC Holdings, Inc., M.A.L. Donut Venture of Saratoga, Ltd., Malta Diner, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0017",
+      "file_name": "Notice of Proposed Rule Making, Proposed, SWC Blacksmith Dr Extn 180109.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D07E6952-281A-4690-99D7-D5D87D6EE693}",
+      "organization": "KNC Holdings, Inc., M.A.L. Donut Venture of Saratoga, Ltd., Malta Diner, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0017",
+      "file_name": "Letter of Transmittal, Petn, SWS Blacksmith Dr Extn 180109.pdf"
+    }
+  ]
+}

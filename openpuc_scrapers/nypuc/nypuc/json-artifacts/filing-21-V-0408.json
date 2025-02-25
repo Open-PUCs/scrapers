@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0408",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8C5B0E0-CF80-47D7-B083-BF910978994E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0408",
+      "file_name": "661_21-V-0408.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Kingsbury, Washington County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2D728F3-080F-4B27-BBDE-C8BEB8B863E2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0408",
+      "file_name": "T. Kingsbury To Be filed with PSCpdf.pdf"
+    }
+  ]
+}

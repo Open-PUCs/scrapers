@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0346",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20991391-0000-C71A-B4A0-5636480AE2EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0346",
+      "file_name": "161-A_24-G-0346 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240603 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F038F38F-0000-C11E-A7B9-67D2B7A2EE4D}",
+      "organization": "New York State Department of Public Service, RJ Dillabough Contracting",
+      "itemNo": "6",
+      "docket_id": "24-G-0346",
+      "file_name": "20240603 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240522 - Training Documentation - 3 Employees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F1A08F-0000-CC1E-A788-518442A78C4F}",
+      "organization": "RJ Dillabough Contracting",
+      "itemNo": "5",
+      "docket_id": "24-G-0346",
+      "file_name": "20240522 - Training Documentation - 3 Employees.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240405 - Payment ($850) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70A0EC8E-0000-C31C-BD6A-A192DC18301F}",
+      "organization": "RJ Dillabough Contracting",
+      "itemNo": "4",
+      "docket_id": "24-G-0346",
+      "file_name": "20240405 - Payment ($850) - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60D65C8E-0000-CD15-80B4-3F7A5D8AB8BD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0346",
+      "file_name": "20240313 - Consent Offer Letter.pdf"
+    }
+  ]
+}

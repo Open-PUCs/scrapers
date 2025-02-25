@@ -1,0 +1,60 @@
+{
+  "case": "23-C-0667",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304DB58B-0000-CE53-AC30-3684F2907234}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0667",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "231109 Valley Falls Numbering Waiver Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304DB58B-0000-CA1C-83F0-D6921AF1FA24}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0667",
+      "file_name": "231109 Valley Falls Numbering Waiver Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "231109 Valley Falls NY Temporary LRN Application docs (REDACTED)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304DB58B-0000-C5B0-BF33-1BD6F2D4712F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0667",
+      "file_name": "231109 Valley Falls NY Temporary LRN Application docs (REDACTED).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "231109 Confidentiality Request - Valley Falls Central Office Code Assignment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={204DB58B-0000-C01A-94EC-291B467C66AC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0667",
+      "file_name": "231109 Confidentiality Request - Valley Falls Central Office Code Assignment.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "2311019 Letter of Intent - Valley Falls Central Office Code Assignment (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={304DB58B-0000-CE95-8528-57F2826654BC}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-C-0667",
+      "file_name": "2311019 Letter of Intent - Valley Falls Central Office Code Assignment (Redacted).pdf"
+    }
+  ]
+}

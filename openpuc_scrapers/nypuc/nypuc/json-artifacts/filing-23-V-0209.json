@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0209",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/30/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={300C0D89-0000-C218-9ABD-58247772EC7D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0209",
+      "file_name": "661_23-V-0209 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8094B487-0000-C0D8-99B2-3939AF00E506}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0209",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO Vlg Ellicottville_4.6.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8094B487-0000-CE5D-9E45-41DA4F308C91}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0209",
+      "file_name": "Charter Confidential Treatment Request to RAO Vlg Ellicottville_4.6.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Ellicottville Request for Renewal-Certificate of Confirmation (redacted) 3.31.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8094B487-0000-CB9F-B4BD-BAF426362BDF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0209",
+      "file_name": "Charter Communications, V. Ellicottville Request for Renewal-Certificate of Confirmation (redacted) 3.31.2023.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Ellicottville Cover Letter Request - for Renewal, Certificate of Confirmation 4.06.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8094B487-0000-C4B2-9854-B993A535D270}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0209",
+      "file_name": "Charter Communications, V. Ellicottville Cover Letter Request - for Renewal, Certificate of Confirmation 4.06.23.pdf"
+    }
+  ]
+}

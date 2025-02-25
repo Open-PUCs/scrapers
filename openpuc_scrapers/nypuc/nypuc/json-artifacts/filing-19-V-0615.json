@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0615",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE96154E-32AC-442B-9FBA-01EA958DA489}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0615",
+      "file_name": "663_19-V-0615 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A7AE845-4E0F-4A22-BEDC-20E7057DFA57}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0615",
+      "file_name": "18-01357 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 153 Clinton Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9763A9DE-1D0D-473D-952A-362B7EE00E16}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0615",
+      "file_name": "Petition (153 Clinton Av).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C24F003-783F-4487-9B20-42A6412BA598}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0615",
+      "file_name": "Exhibit 2 (153 Clinton Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/06/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={839199EE-9B56-46C2-9E5D-9804DFAD53AA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0615",
+      "file_name": "Exhibit 1 (153 Clinton Av).pdf"
+    }
+  ]
+}

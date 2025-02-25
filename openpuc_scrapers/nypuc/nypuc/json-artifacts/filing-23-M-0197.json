@@ -1,0 +1,49 @@
+{
+  "case": "23-M-0197",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Declining to Issue Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40287989-0000-C01A-8697-F1D154C0EBA1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-M-0197",
+      "file_name": "262_23-M-0197.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Declaratory Ruling - Supplemental Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5063BF88-0000-C817-B884-BCBF53395DD2}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "3",
+      "docket_id": "23-M-0197",
+      "file_name": "23-M-0197 - Petition for Declaratory Ruling - Supplemental Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Response to Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4050E387-0000-CC15-A3F4-0E5F3B4FD20E}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-M-0197",
+      "file_name": "23-M-0197 Con Edison Response to Petition for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/12/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utility Rate Analysis Consultants for a Declaratory Ruling Concerning Failure of Consolidated Edison Company of New York, Inc. and the Office of Consumer Services to abide by 16 NYCRR 13.5 - Cases 323705 and 323723.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0DE7587-0000-C618-8734-A468B05AFD00}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "23-M-0197",
+      "file_name": "Petition for Declaratory Ruling confirming interpretation of 16 NYCRR 13.15 (a)(1).pdf"
+    }
+  ]
+}

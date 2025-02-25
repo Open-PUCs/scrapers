@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0563",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification Letter - Change of Contact Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CADD8FC5-977D-4A08-86BD-17D8BC30BBBE}",
+      "organization": "846 6th Avenue Venture",
+      "itemNo": "5",
+      "docket_id": "16-E-0563",
+      "file_name": "50 W 30th Submetering Update Package (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51855291-4788-4D52-B0D3-D34CEACA6FD4}",
+      "organization": "846 6th Avenue Venture",
+      "itemNo": "4",
+      "docket_id": "16-E-0563",
+      "file_name": "50 West 30th - System Change Ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72E8311C-B559-42F6-B002-40FFD1C38179}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0563",
+      "file_name": "366_16-E-0563.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/09/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "846 6th Avenue Venture submits the additional information requested for 50 West 30th Street, New York, NY 10001.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90031313-5117-4E8D-A831-B60AEC6B39CA}",
+      "organization": "846 6th Avenue Venture",
+      "itemNo": "2",
+      "docket_id": "16-E-0563",
+      "file_name": "letter 3-8-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 846 6th Avenue Venture to Submeter Electricity at 50 West 30th Street New York, NY 10001, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCA5D6DC-9240-4F20-8346-91161812B445}",
+      "organization": "846 6th Avenue Venture",
+      "itemNo": "1",
+      "docket_id": "16-E-0563",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

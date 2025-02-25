@@ -1,0 +1,60 @@
+{
+  "case": "16-M-0407",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Second Response to the Order to Show Cause (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5B353F2-8409-4494-BA7F-F98D9E6B3E8E}",
+      "organization": "Smart One Energy, LLC",
+      "itemNo": "4",
+      "docket_id": "16-M-0407",
+      "file_name": "Smart_One_s_Second_Response_to_OTSC_(Redacted).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B3C90E3-1EE2-4614-840B-D494CB72E892}",
+      "organization": "Smart One Energy, LLC",
+      "itemNo": "4",
+      "docket_id": "16-M-0407",
+      "file_name": "Corr Sec re Second Response to OTSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/18/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF007F9A-3A7B-46CE-9AE0-A167D97AA33D}",
+      "organization": "Smart One Energy, LLC",
+      "itemNo": "3",
+      "docket_id": "16-M-0407",
+      "file_name": "Corr RAO re Second Response to OTSC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Smart One Initial Response to Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA119DFF-5C19-4CE0-BCB6-8778B991C239}",
+      "organization": "Smart One Energy, LLC",
+      "itemNo": "2",
+      "docket_id": "16-M-0407",
+      "file_name": "Smart One Initial Response to Order to Show Cause.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78A6B2C6-B45D-4A2C-A58D-0133C9E0BACE}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-M-0407",
+      "file_name": "201_16m0407 Final.pdf"
+    }
+  ]
+}

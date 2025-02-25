@@ -1,0 +1,115 @@
+{
+  "case": "24-V-0053",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D8668E-0000-CB13-A9F3-7A2DF8C038F3}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "24-V-0053",
+      "file_name": "661_24-V-0053 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01174 Letter to Building Owner 301 E 62 St 12.29.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70A9B68C-0000-C214-8FF7-CD40DC617582}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "24-V-0053",
+      "file_name": "23-01174 Letter to Building Owner 301 E 62 St 12.29.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/14/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01174 Letter to Building Owner 301 E 62 St 12.14.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2015698C-0000-C511-878F-C2A06B5DC769}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-V-0053",
+      "file_name": "23-01174 Letter to Building Owner 301 E 62 St 12.14.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01174 Letter to Building Owner 301 E 62 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80A26989-0000-CF16-BD45-5FBD85091EE6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0053",
+      "file_name": "23-01174 Letter to Building Owner 301 E 62 St.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter - Notice of Intent - 301 E. 62nd St.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0086589-0000-C41E-B7C8-A500121A4320}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0053",
+      "file_name": "Cover Letter - Notice of Intent - 301 E. 62nd St..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "301 E. 62nd St. - Landowner Notices of Intent to Access_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0086589-0000-C13A-AA95-32811622B901}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0053",
+      "file_name": "301 E. 62nd St. - Landowner Notices of Intent to Access_.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition - 301 E. 62 St.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F97C88-0000-C736-8C15-BA9A8A9EB746}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0053",
+      "file_name": "Petition - 301 E. 62 St..pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 301 E 62nd St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F97C88-0000-C85A-B37F-B24CD0DE1DCC}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0053",
+      "file_name": "Exhibit 2 - 301 E 62nd St.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - 301 E 62nd St SOW",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F97C88-0000-C672-9624-66E72FAE5C2D}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0053",
+      "file_name": "Exhibit 1 - 301 E 62nd St SOW.xlsx"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/02/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F97C88-0000-CB12-A633-7716B6B166B6}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0053",
+      "file_name": "Cover Letter - 301 E. 62nd St.pdf"
+    }
+  ]
+}

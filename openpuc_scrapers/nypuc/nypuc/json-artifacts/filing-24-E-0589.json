@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0589",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Case 350889 - Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B9BF92-0000-C426-9F83-11F0DBBAAE3E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0589",
+      "file_name": "Fw_ Case 350889 - Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 02 22 Informal Hearing Request Response Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B6BF92-0000-CE1E-87F6-836099F96055}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0589",
+      "file_name": "2024 02 22 Informal Hearing Request response ltr #350889_Redacted.pdf"
+    }
+  ]
+}

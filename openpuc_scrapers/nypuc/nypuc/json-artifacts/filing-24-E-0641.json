@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0641",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit D Org Chart",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0212793-0000-C010-86D4-89B6454E65BF}",
+      "organization": "Prattsburgh Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0641",
+      "file_name": "Exhibit D Org Chart.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit C Verification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90212793-0000-CB90-850D-46A2FFE5184D}",
+      "organization": "Prattsburgh Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0641",
+      "file_name": "Exhibit C Verification.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit B NY Bus Reg",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90212793-0000-C374-AD0D-4072B8EB1410}",
+      "organization": "Prattsburgh Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0641",
+      "file_name": "Exhibit B NY Bus Reg.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A Certificate of Formation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90212793-0000-C25C-8FE6-0B6BCAE82321}",
+      "organization": "Prattsburgh Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0641",
+      "file_name": "Exhibit A Certificate of Formation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90212793-0000-C71D-91F7-8695D969FA3B}",
+      "organization": "Prattsburgh Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0641",
+      "file_name": "241113 Ltr filing Section 68 Petition w Exhibits.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "241113 Prattsburgh 68 _69 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90212793-0000-CC39-A8FF-DBA29A84F19B}",
+      "organization": "Prattsburgh Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0641",
+      "file_name": "241113 Prattsburgh 68 _69 Petition.pdf"
+    }
+  ]
+}

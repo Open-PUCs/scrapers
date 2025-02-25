@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0026",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 160 Leroy Street, New York, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AA4ED33-B918-48F3-B4C5-FBD8820A8D1E}",
+      "organization": "160 Leroy LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0026",
+      "file_name": "compliance letter 8-23-18 (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1091F0AC-7BC8-49C9-946A-52FD94B7A3F3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0026",
+      "file_name": "363_18-E-0026.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/07/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 160 Leroy Street, New York, New York 10014.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7016E90B-A418-4CAE-AC76-5A9734328A09}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "18-E-0026",
+      "file_name": "response letter 5-7-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/13/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71AF998E-71B4-4299-9C9F-3564CE7FE746}",
+      "organization": "160 Leroy LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0026",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 160 Leroy LLC to Submeter Electricity at 160 Leroy Street, New York, NY Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27A72FC8-887F-4731-8695-065977B628C5}",
+      "organization": "160 Leroy LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0026",
+      "file_name": "submetering aplication 1-16-18.pdf"
+    }
+  ]
+}

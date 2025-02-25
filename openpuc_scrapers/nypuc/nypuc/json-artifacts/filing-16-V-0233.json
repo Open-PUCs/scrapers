@@ -1,0 +1,60 @@
+{
+  "case": "16-V-0233",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/04/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09BCBDF0-D4C8-4F2F-8C56-A2C4962DB605}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-V-0233",
+      "file_name": "664_16v0233.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/01/2016",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves Expansion of Cable Service in Town of Horseheads",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CF80B25-E61C-4B37-A438-8ACE0FC607D4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-V-0233",
+      "file_name": "pr16053.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Proof of Resolutions/Minutes",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BF11B9E-CB90-469A-B59F-F1A1F958E141}",
+      "organization": "Town of Horseheads",
+      "itemNo": "3",
+      "docket_id": "16-V-0233",
+      "file_name": "Proof of Resolutions Minutes.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/09/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5149E2F8-5B4B-4CEF-ABD6-A147F549C724}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "2",
+      "docket_id": "16-V-0233",
+      "file_name": "Proof of Publication Town of Horseheads NPV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Community Cable Corporation d/b/a North Penn Video for a Certificate of Confirmation for its Franchise with the Town of Horseheads. Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C435156D-3F61-4946-9767-DC0A0D2950AC}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "1",
+      "docket_id": "16-V-0233",
+      "file_name": "NPV - Town of Horseheads Certificate of Confirmation Application.pdf"
+    }
+  ]
+}

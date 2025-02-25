@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B3FB861-2DDC-4187-BF01-13CD97C3EC15}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0003",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/02/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Altamont, Albany County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02CD095D-BEA2-4890-9C0E-89080D8BA3C9}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0003",
+      "file_name": "1.2.18 V Altamont Chater PSC cable franchise renewal.pdf"
+    }
+  ]
+}

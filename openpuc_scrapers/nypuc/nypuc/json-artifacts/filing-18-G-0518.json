@@ -1,0 +1,27 @@
+{
+  "case": "18-G-0518",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B618C893-95D6-432B-A94F-4E3FC82DC6D7}",
+      "organization": "L.L.L. Industries Inc.",
+      "itemNo": "2",
+      "docket_id": "18-G-0518",
+      "file_name": "Letter of Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6051510-3F69-4D5E-9AA3-3B49F83821C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0518",
+      "file_name": "164B_18g0518 - 9.21.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "20-C-0613",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Lingo-BRiley New York Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C47CD6C0-DF6D-4E70-A47F-4B0873C39063}",
+      "organization": "Lingo Communications of the Northeast, LLC, Matrix Telecom, LLC",
+      "itemNo": "3",
+      "docket_id": "20-C-0613",
+      "file_name": "Lingo-BRiley New York consummation notice (6-14-22).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/10/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-02573 Lingo Matrix OOL Final -Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD2B298F-7C4B-48A0-89DB-F69D4AF95D8B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0613",
+      "file_name": "20-02573 Lingo Matrix OOL Final -Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Lingo-BR New York Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF5D5F69-D962-4838-B005-FD2C3A827712}",
+      "organization": "B. Riley Principal Investments, LLC, Lingo Communications of the Northeast, LLC, Lingo Communications, LLC, Matrix Telecom, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0613",
+      "file_name": "Lingo-BR New York Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/04/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E5C4045-7AC6-4C85-AB21-4C4ACBE28183}",
+      "organization": "B. Riley Principal Investments, LLC, Lingo Communications of the Northeast, LLC, Lingo Communications, LLC, Matrix Telecom, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0613",
+      "file_name": "Lingo-BR New York Cover Letter.pdf"
+    }
+  ]
+}

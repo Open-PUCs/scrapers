@@ -1,0 +1,49 @@
+{
+  "case": "18-V-0603",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={133101F6-5DE5-4A98-8778-B0093E0463C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0603",
+      "file_name": "661_18-V-0603.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AA9FA9D-0BEF-4EA1-8C62-4A07E57213A2}",
+      "organization": "Town of Gallatin",
+      "itemNo": "2",
+      "docket_id": "18-V-0603",
+      "file_name": "TOWN OF GALLATIN PUBLIC NOTICE FOR FILING 2018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={251CDF2E-838F-4FAE-A7F5-4EB6F057665C}",
+      "organization": "Town of Gallatin",
+      "itemNo": "2",
+      "docket_id": "18-V-0603",
+      "file_name": "TOWN OF GALLATIN COVER FOR PUBLIC NOTICE FOR FILING 2018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Town of Gallatin, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8CDD630-5A28-470E-A5A8-7B2D100E49AC}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0603",
+      "file_name": "TOWN OF GALLATIN FRANCHISE RENEWAL FILING WITH PSC 2018.pdf"
+    }
+  ]
+}

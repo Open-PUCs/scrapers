@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0099",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={012F6EC0-DB1A-4A65-B789-7AF0C307BCF6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0099",
+      "file_name": "661_17-V-0099.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={325DE537-B933-42AC-8C5E-E33F4AA50F5D}",
+      "organization": "CSC Acquisition_NY, Inc",
+      "itemNo": "2",
+      "docket_id": "17-V-0099",
+      "file_name": "Southold Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Southold Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06FA1B2-2518-4BA4-9806-1C671F410542}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0099",
+      "file_name": "Southold Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Southold Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={614D985A-0043-4E5B-9888-49B64ED1AACE}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0099",
+      "file_name": "Southold Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Southold Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0346216-132A-4F7F-AFA1-4A19A58C4D5B}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0099",
+      "file_name": "Southold Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Southold Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D129F82-CEFA-43DE-BF51-985AAF8CEB40}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0099",
+      "file_name": "Southold Application Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of CSC Acquisition-NY, Inc. for Approval of the Renewal of its Franchise with the Town of Southold, of Suffolk County, New York. - Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={155791C2-30DF-4C5A-93A3-42A7601244F0}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0099",
+      "file_name": "Southold Exhibit I.pdf"
+    }
+  ]
+}

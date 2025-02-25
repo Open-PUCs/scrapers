@@ -1,0 +1,27 @@
+{
+  "case": "21-G-0165",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service, Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8B6A91C-8DA3-4A3E-99B7-C60D16FB4330}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-G-0165",
+      "file_name": "pr21064.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "2020 Pipeline Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F6AA142-F3BB-4BBB-A68D-A5D181BF4D8A}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-G-0165",
+      "file_name": "101_21-G-0165 2020 Performance Measures Report.pdf"
+    }
+  ]
+}

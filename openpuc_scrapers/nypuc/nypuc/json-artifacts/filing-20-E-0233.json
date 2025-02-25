@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0233",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0233 272 4th Ack Letter 05142020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D584F7F-0E1C-43D4-AD78-EFA28C6F979D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0233",
+      "file_name": "20-E-0233 272 4th Ack Letter 05142020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0233 272 4th Rehearing Request 05072020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={137DDC10-9D96-4501-A50C-34B42C33D104}",
+      "organization": "272 Fourth St., LLC.",
+      "itemNo": "3",
+      "docket_id": "20-E-0233",
+      "file_name": "20-E-0233 272 4th Rehearing Request 05072020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0233 272 4th SMD Final 04102020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EFC8848-7548-4B3A-800E-D642D57D0C3D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0233",
+      "file_name": "20-E-0233 272 4th SMD Final 04102020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E0531C6-8103-44DF-AA02-1D7713B98C02}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0233",
+      "file_name": "362 Letter Final_Redacted.pdf"
+    }
+  ]
+}

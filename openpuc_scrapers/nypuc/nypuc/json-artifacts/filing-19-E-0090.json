@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0090",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Electric Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C28413F-7360-4B01-9495-82D25B3D37B6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0090",
+      "file_name": "366_19-E-0090.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={335AC8EA-94DD-4CD9-91D0-661498F37345}",
+      "organization": "Schweitzer Engineering Laboratories",
+      "itemNo": "2",
+      "docket_id": "19-E-0090",
+      "file_name": "Confidentiality request regarding Petition for Commission Approval of the SEL-735 Power Quality and Reveune Meter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "SEL-735 data sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95B27B04-3B74-41A9-9BF4-328D6FD5D373}",
+      "organization": "Schweitzer Engineering Laboratories",
+      "itemNo": "1",
+      "docket_id": "19-E-0090",
+      "file_name": "SEL-735 data sheet.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Schweitzer Engineering Laboratories for Approval of the SEL-735 Power Quality and Revenue Meter under Part 93.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88E6BEBE-3C69-49F0-9C4D-D9D18C44FB79}",
+      "organization": "Schweitzer Engineering Laboratories",
+      "itemNo": "1",
+      "docket_id": "19-E-0090",
+      "file_name": "Petition for Commission Approval of the SEL-735 Power Quality and Revenue Meter under Part 93.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "GIE Letter SEL Sponsorship",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0478053-4047-407A-A08D-EEE43D9826FE}",
+      "organization": "Schweitzer Engineering Laboratories",
+      "itemNo": "1",
+      "docket_id": "19-E-0090",
+      "file_name": "GIE_Letter_SEL_Sponsorship.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "EMC&TEL97795-ANSI Rev. 3 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E11170B4-C8DA-4253-9E5B-4684B3B4A4AC}",
+      "organization": "Schweitzer Engineering Laboratories",
+      "itemNo": "1",
+      "docket_id": "19-E-0090",
+      "file_name": "EMC&TEL97795-ANSI Rev. 3 Redacted.pdf"
+    }
+  ]
+}

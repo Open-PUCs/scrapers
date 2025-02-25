@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0495",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0EAAF92-0000-C217-A648-6C5C714289CB}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0495",
+      "file_name": "383_24-E-0329 and 24-E-0495 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Correction and Response to DPS Staff Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={300B3492-0000-CA1F-9F5E-A8433537BAE5}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0495",
+      "file_name": "24-E-0495 Revised Correction and Response to DPS Staff Final 9-27-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={300B3492-0000-C432-B2EB-B7B718411485}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0495",
+      "file_name": "EOW and EW2 Corrected - Cover Letter - 9-27-24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "PSL 70 Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6091A491-0000-C016-83C5-81CE16F48560}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0495",
+      "file_name": "PSL 70 petition final 8-30-24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5091A491-0000-C71A-AF5E-5ECCE39E0776}",
+      "organization": "Empire Offshore Wind LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0495",
+      "file_name": "EOW and EW2 - Cover Letter - 8-30-24.pdf"
+    }
+  ]
+}

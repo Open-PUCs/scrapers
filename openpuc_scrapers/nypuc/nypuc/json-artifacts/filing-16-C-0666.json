@@ -1,0 +1,82 @@
+{
+  "case": "16-C-0666",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CECFF899-BAEE-459B-A68A-A00E4910DC7D}",
+      "organization": "Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, EarthLink Business, LLC, EarthLink Carrier, LLC, EarthLink Holdings Corp., Lightship Telecom, LLC, Windstream Holdings, Inc.",
+      "itemNo": "6",
+      "docket_id": "16-C-0666",
+      "file_name": "16-C-0666 - Windstream-Earthlink - Request for Protection from Disclosure_030117.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "16-02340 ltr. to J.K. Hage III (2-14-17)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B143ED9-F13D-493C-83D6-32BF8A6F3EA3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "16-C-0666",
+      "file_name": "16-02340 ltr. to J.K. Hage III (2-14-17).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement letter to the Joint Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53BFB7D8-5BF7-4AC8-AF4B-F76C39F04CCC}",
+      "organization": "Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, EarthLink Business, LLC, EarthLink Holdings Corp., Lightship Telecom, LLC, Windstream Holdings, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-C-0666",
+      "file_name": "16-C-0666 - Windstream-EarthLink Supplemental Filing_021017 redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/13/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D81C638-6F7F-47D1-96E2-96474BCBFF8D}",
+      "organization": "Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, EarthLink Business, LLC, EarthLink Carrier, LLC, EarthLink Holdings Corp., Lightship Telecom, LLC, Windstream Holdings, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-C-0666",
+      "file_name": "16-C-0666 - Windstream-Earthlink - Supplemental Request for Protection from Disclosure 2102017.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/23/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D202D8D-EC73-4FFA-BC17-557D2EBC914A}",
+      "organization": "Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, EarthLink Business, LLC, EarthLink Carrier, LLC, EarthLink Holdings Corp., Lightship Telecom, LLC, Windstream Holdings, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-C-0666",
+      "file_name": "16-C-0666 - Windstream-EarthLink Supplemental Filing_012017.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/15/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Application of Business Telecom, LLC, Choice One Communications of New York Inc., Conversent Communications of New York, LLC, CTC Communications Corp., DeltaCom, LLC, EarthLink Business, LLC, EarthLink Carrier, LLC, Lightship Telecom, LLC and EarthLink Holdings Corp. and Windstream Holdings, Inc. for Approval to Transfer Control of Authorized Telecommunications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60FF8CC9-DDA5-4503-AE41-0CDE448A7419}",
+      "organization": "Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, EarthLink Business, LLC, EarthLink Carrier, LLC, Lightship Telecom, LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0666",
+      "file_name": "NYPSC Cover Letter_111516.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/15/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "EarthLink-Windstream_Joint Application for Approval of Transfers of Control_111516",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={472F2E23-FB09-40FD-90FD-9F9066EF2F10}",
+      "organization": "Business Telecom, Inc., CTC Communications Corp., Choice One Communications of New York Inc., Conversent Communications of New York, LLC, Deltacom LLC, EarthLink Business, LLC, EarthLink Carrier, LLC, Lightship Telecom, LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0666",
+      "file_name": "EarthLink-Windstream_Joint Application for Approval of Transfers of Control_111516.pdf"
+    }
+  ]
+}

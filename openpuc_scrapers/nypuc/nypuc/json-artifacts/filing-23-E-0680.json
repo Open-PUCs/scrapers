@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0680",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Neighbors of Watertown - Order Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={200AC092-0000-CD1C-A4FB-84B77D8D4425}",
+      "organization": "Neighbors of Watertown",
+      "itemNo": "5",
+      "docket_id": "23-E-0680",
+      "file_name": "Neighbors of Watertown - Order Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of Individual Metering Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0074BA92-0000-CA15-924A-776875993F6B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0680",
+      "file_name": "385_23-E-0680_102324final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NMPC Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8011CA8F-0000-CB10-956C-57FF85DD263B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "23-E-0680",
+      "file_name": "23-E-0680 NMPC Comments 5.30.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/29/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Neighbors of Watertown - Response to DPS Staff Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FF568D-0000-C31C-8BE7-9AA60829DA25}",
+      "organization": "Neighbors of Watertown",
+      "itemNo": "2",
+      "docket_id": "23-E-0680",
+      "file_name": "Supplemental Filing - Neighbors of Watertown - Response to DPS Staff Questions - 1.29.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "NoW Watertown Apartments PSC Sub-Metering Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50A9D98B-0000-C418-8020-10D58595DE4F}",
+      "organization": "Neighbors of Watertown",
+      "itemNo": "1",
+      "docket_id": "23-E-0680",
+      "file_name": "23-11-16 NoW Watertown Apartments PSC Sub-Metering Waiver (3).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "National Meter Industries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50A9D98B-0000-CD3A-8013-20117EECD797}",
+      "organization": "Neighbors of Watertown",
+      "itemNo": "1",
+      "docket_id": "23-E-0680",
+      "file_name": "23-11-15 National Meter Industries (2).pdf"
+    }
+  ]
+}

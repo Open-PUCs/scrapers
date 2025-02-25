@@ -1,0 +1,49 @@
+{
+  "case": "18-C-0209",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5534F2D-6BBC-42DB-8135-76A7E8271909}",
+      "organization": "GC Pivotal LLC dba Global Capacity, GTT Americas, LLC",
+      "itemNo": "3",
+      "docket_id": "18-C-0209",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/10/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Notifying PSL Section 100 Approval was Deemed Granted by Operation of Law, Effective July 4, 2018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C42D105-6939-41D9-973C-4DE8C05A537B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-C-0209",
+      "file_name": "18-00884 GTT Final Signed.LaBelle.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "NY Minority Transfer Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEAB27D6-2A3A-4185-A62D-E139E6AD380E}",
+      "organization": "GC Pivotal, LLC, GTT Americas, LLC, Transbeam, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0209",
+      "file_name": "NY Minority Transfer Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of GTT Americas, LLC, Transbeam, Inc., and GC Pivotal, LLC d/b/a Global Capacity for Approval of a Change in Indirect Minority",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCB62466-7ECA-41D1-8939-EBE6EA642CAC}",
+      "organization": "GC Pivotal, LLC, GTT Americas, LLC, Transbeam, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0209",
+      "file_name": "NY Minority Transfer Transmittal Letter.pdf"
+    }
+  ]
+}

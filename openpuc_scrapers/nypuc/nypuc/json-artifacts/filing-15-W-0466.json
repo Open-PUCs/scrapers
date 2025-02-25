@@ -1,0 +1,38 @@
+{
+  "case": "15-W-0466",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2015",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on the Provision of Water Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0E57E57-AF72-4763-B227-BDA08C693B4A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-W-0466",
+      "file_name": "461_15w0466.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/20/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Soliciting Interest in Pending Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA6D086F-1BF3-4CA5-9588-CB6DF0786BEF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-W-0466",
+      "file_name": "Soliciting Interest in Pending Case.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Saratoga Water Services, Inc., and Windsor Development Group, LLC for a Declaratory Ruling Concerning the Provision of Water Service to a Proposed Project in the Town of Malta, Saratoga County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFEAA381-8502-4F63-8FD3-C8091233A5D7}",
+      "organization": "Saratoga Water Services, Inc., Windsor Development Group, LLC",
+      "itemNo": "1",
+      "docket_id": "15-W-0466",
+      "file_name": "doc02062320150811105238.pdf"
+    }
+  ]
+}

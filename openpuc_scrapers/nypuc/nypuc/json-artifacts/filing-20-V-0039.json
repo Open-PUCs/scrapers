@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0039",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26A34738-BAB0-4AA3-93EE-FDBE87516615}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0039",
+      "file_name": "661_20-V-0039 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "012720 - T. RICHMOND RENEWAL SUBMISSION TO PSC,LK",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94EC31B5-D967-48D9-BD69-7FA1A2991695}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0039",
+      "file_name": "012720 - T. RICHMOND RENEWAL SUBMISSION TO PSC,LK.pdf (1 MB)"
+    }
+  ]
+}

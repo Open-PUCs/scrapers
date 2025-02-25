@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0377",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E8AF92-0000-CC1A-B651-DCE5F6A2D2A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0377",
+      "file_name": "381_24-E-0377_102124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "High River Solar Petition Section 69",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F07F5F90-0000-C810-BF9B-FECB6B829DC3}",
+      "organization": "High River Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0377",
+      "file_name": "High River Solar Petition Section 69 6-28-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F07F5F90-0000-CA38-9E68-5B9560D9BD22}",
+      "organization": "High River Energy Center, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0377",
+      "file_name": "06-28-24 Phillips.pdf"
+    }
+  ]
+}

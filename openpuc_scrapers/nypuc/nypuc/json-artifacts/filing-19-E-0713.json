@@ -1,0 +1,71 @@
+{
+  "case": "19-E-0713",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/08/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Settlement and Withdrawal of Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FD30742-3927-4467-A0D6-2222C3014B86}",
+      "organization": "North Country Data Center Corp.",
+      "itemNo": "5",
+      "docket_id": "19-E-0713",
+      "file_name": "Case 19-E-0713 - Notice of Withdrawal.pdf (278 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/06/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3ECD226D-FE51-4531-B352-CA4B62FDFD4B}",
+      "organization": "Plattsburgh Municipal Lighting Dept.",
+      "itemNo": "4",
+      "docket_id": "19-E-0713",
+      "file_name": "final - Letter Plattsburgh Appeal 12-5-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/06/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Appeal Acknowledgment Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28A9E6C4-759A-4C18-A847-014DF828F861}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-E-0713",
+      "file_name": "941259 & 953952 Appeal Acknowledgment Letter - NCDCC v Plattsburgh Muni.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/06/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "NCDCC v Plattsburgh Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC175612-114F-44B2-B247-7872344A1A5C}",
+      "organization": "North Country Data Center Corp.",
+      "itemNo": "2",
+      "docket_id": "19-E-0713",
+      "file_name": "NCDCC v Plattsburgh Exhibits.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/06/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB676BCF-07FD-4E3C-9F69-D0ED0F91A263}",
+      "organization": "North Country Data Center Corp.",
+      "itemNo": "2",
+      "docket_id": "19-E-0713",
+      "file_name": "NCDCC v Plattsburgh Muni LIghting Dept Appeal 941259 & 953952.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/06/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={913C5091-4E76-473E-8981-222F6A81CA91}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0713",
+      "file_name": "941259-953952 NCDCC-PMLD IH decision.pdf"
+    }
+  ]
+}

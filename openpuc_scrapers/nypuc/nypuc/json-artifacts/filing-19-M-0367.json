@@ -1,0 +1,27 @@
+{
+  "case": "19-M-0367",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/14/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A53F6D34-FB9C-400D-8EB8-7D9907C8D867}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-M-0367",
+      "file_name": "262_19-M-0367.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Issues Show Cause Enforcement Orders Against Five ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1AF39A2-7FDF-4433-834F-7D0C91008BB3}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0367",
+      "file_name": "pr19053R.pdf"
+    }
+  ]
+}

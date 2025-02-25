@@ -1,0 +1,38 @@
+{
+  "case": "18-G-0035",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Email Regarding Order and the Original Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42B1F2DE-7963-4A2C-A9FE-7B30E24C6F26}",
+      "organization": "Nardone Construction Inc.",
+      "itemNo": "3",
+      "docket_id": "18-G-0035",
+      "file_name": "Email Regarding Order and the Original Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={005C0E65-93AA-44E8-B657-15BA6F5A79E6}",
+      "organization": "Nardone Construction Inc.",
+      "itemNo": "2",
+      "docket_id": "18-G-0035",
+      "file_name": "Response to the Order .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/05/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE480E43-63C9-426D-A097-CC4C267C9E43}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0035",
+      "file_name": "164A_18g0035 - 3.5.pdf"
+    }
+  ]
+}

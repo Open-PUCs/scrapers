@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0790",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5AF052D-86BF-4317-AA39-A9FE131B29AC}",
+      "organization": "Salvatore Basile Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0790",
+      "file_name": "Coverletter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Confirmation Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11D69399-9A6F-4FC3-AFF3-CDACBF575D71}",
+      "organization": "Salvatore Basile Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0790",
+      "file_name": "811.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/25/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={951E3589-89BD-4680-9453-DA06CF9E7122}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0790",
+      "file_name": "161Bc_17g0790 - 1.25.pdf"
+    }
+  ]
+}

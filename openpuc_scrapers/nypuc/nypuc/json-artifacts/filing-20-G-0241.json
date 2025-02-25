@@ -1,0 +1,82 @@
+{
+  "case": "20-G-0241",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0962FA3-6AEB-4BF0-9382-9099FD75F502}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0241",
+      "file_name": "161_20-G-0241 Letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Kaled Mgmt.IHO Decision Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A921EE10-BC28-4879-91A3-CB833D5E1F2E}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "20-G-0241",
+      "file_name": "Case 825371.Kaled Mgmt.IHO Decision Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6D5557B-30C6-4E77-B886-A5067FA7E54C}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "20-G-0241",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/22/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CA0461C-0A6D-44D1-810C-B10B71E45C05}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-G-0241",
+      "file_name": "825371 Kaled Mgmt.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/22/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89B950DE-106A-4507-8EB4-CDBBDBB4060F}",
+      "organization": "Kaled Management a/k/a Robert Batz a/k/a Greenbriar",
+      "itemNo": "2",
+      "docket_id": "20-G-0241",
+      "file_name": "Appeal 825371 Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/22/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Denial of Informal Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DB5F8DA-C440-4C9D-ADEC-EDFEDDA579B2}",
+      "organization": "Kaled Management a/k/a Robert Batz a/k/a Greenbriar",
+      "itemNo": "2",
+      "docket_id": "20-G-0241",
+      "file_name": "Appeal 825371 Kaled Management.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/22/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Denial of the Informal Review Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E250B52D-2252-418E-AEC8-8B488DADA5FF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-G-0241",
+      "file_name": "825371 Kaled Mgmt-National Grid IR request.pdf"
+    }
+  ]
+}

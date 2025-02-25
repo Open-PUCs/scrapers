@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0268",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/27/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 98 Front Street, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76568235-5C37-4469-BBF6-247DC052429A}",
+      "organization": "80 Adams Property Owner, LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0268",
+      "file_name": "letter 12-27-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9DD1AD5-DAD6-475C-B4CC-F696FF136774}",
+      "organization": "80 Adams Property Owner, LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0268",
+      "file_name": "98 Front Street Submetering.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD257B01-19D5-4E78-84FD-5AD7F8E14D6F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0268",
+      "file_name": "363_18-E-0268.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 80 Adams Property Owner, LLC to Submeter Electricity at 98 Front Street, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={295415EF-9BA5-4191-AB49-84C0C55CC77A}",
+      "organization": "80 Adams Property Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0268",
+      "file_name": "submetering application 5-3-18.pdf"
+    }
+  ]
+}

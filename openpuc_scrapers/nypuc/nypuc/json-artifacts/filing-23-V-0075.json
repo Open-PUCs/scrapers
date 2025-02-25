@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0075",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301BB987-0000-C11D-B3B4-31DBBA22B5F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0075",
+      "file_name": "662_23-V-0075.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7231753-2426-493E-A1D6-A92EF0ACC298}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0075",
+      "file_name": "AUSA Newspaper Cover Letter - Freeport, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Freeport, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7067A078-DE27-4AED-8B41-CC13B662D6E1}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0075",
+      "file_name": "AUSA Newspaper Affidavit - Freeport, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFD9F109-E16D-4604-AE8A-EE909796985E}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0075",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Long Island Corporation for Approval of the Renewal of its Franchise with the Village of Freeport, Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D852601C-E58E-46DD-977F-A6BC1E7C62F8}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0075",
+      "file_name": "Application Cover Letter - Freeport, V..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Freeport. V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36D1E701-FF72-4F89-AF56-AF414DEF250A}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0075",
+      "file_name": "Exhibit IV - Freeport. V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0BA7246-73C9-4759-BB89-E02001A2EE2C}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0075",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B7CF324-7360-433B-9F7E-1C64543E6B32}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0075",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36116E93-A9F4-466F-B350-E24E4F9C8DD3}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0075",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "20-C-0193",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/13/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Report on the Service Quality of Local Telephone Companies During 2020 and Commendations for Excellent Service Quality Provided in 2020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={388A6694-A067-45C7-833F-B6AA94130D63}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-C-0193",
+      "file_name": "561_20-C-0193.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/18/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 4th Quarter 2020 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8FC41A5-FFF3-44A2-866F-207E43B2F975}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-C-0193",
+      "file_name": "563_20-C-0193.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 3rd Quarter 2020 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD65D08F-1CD7-46B2-91FF-46E27B9D1B19}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-C-0193",
+      "file_name": "562_20-C-0193 Verizon 3rd Q 2020 Report FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/14/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon Second Quarter 2020 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C292D62F-8276-4CE9-9EC3-4B2564E27092}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-C-0193",
+      "file_name": "561_20-C-0193.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/19/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon First Quarter 2020 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={180ED4FA-EF59-420C-BD6B-840AE3968C35}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-C-0193",
+      "file_name": "562_20-C-0193 Report Verizon Q1 2020.pdf"
+    }
+  ]
+}

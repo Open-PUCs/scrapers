@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0098",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Acceptance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB56D654-4280-4E8A-86D9-9B5F7D555A29}",
+      "organization": "Seaview C Development, LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0098",
+      "file_name": "Letter of Acceptance of Order Authorizing Submetering.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/07/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9917811E-C1FC-49F5-AC68-4F3F2CD7968F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0098",
+      "file_name": "362_17-E-0098.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/30/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Responses to Clarification Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32612099-106B-4C23-8005-DCF514C1AA4B}",
+      "organization": "Seaview C Development, LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0098",
+      "file_name": "Case 17-E-0098 Submetering at 155-175 Friendship Lane_Information Request_6-30-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/08/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for a Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B6E86BB-F808-48AC-98B2-354B5D3D8A6C}",
+      "organization": "Seaview C Development, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0098",
+      "file_name": "Case 17-E-0098_Seaview_Waiver Request 96.5-k-3_3-7-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/16/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Seaview C Development, LLC to Submeter Electricity at 155-175 Friendship Lane, Staten Island, NY 10314, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5D65C58-7A47-4D3B-A77D-640392FB1365}",
+      "organization": "Seaview C Development, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0098",
+      "file_name": "Seaview_Notice to Submeter to PSC_2-15-17.pdf"
+    }
+  ]
+}

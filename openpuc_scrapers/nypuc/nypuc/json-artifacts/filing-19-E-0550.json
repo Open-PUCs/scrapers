@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0550",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0550 Knapp Ack Letter 08202019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F20A5AD-24AC-4E32-942F-A561D01E3437}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-E-0550",
+      "file_name": "19-E-0550 Knapp Ack Letter 08202019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0550 Knapp Rehearing Request 08132019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72628A73-1B16-43CE-B536-2BFE926E7613}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-E-0550",
+      "file_name": "19-E-0550 Knapp Rehearing Request 08132019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0550 Knapp SMD Final 08082019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8441FED-3BAD-48BD-857D-0BFAD38A3BDF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-E-0550",
+      "file_name": "19-E-0550 Knapp SMD Final 08082019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/22/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Acting Secretary Phillips Regarding Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93533F21-B912-4BD2-951F-B5424E6F9BED}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0550",
+      "file_name": "363_19-E-0550 Letter_Redacted.pdf"
+    }
+  ]
+}

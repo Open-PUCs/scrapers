@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0612",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDB2F98B-2791-4CE8-A37C-3267D63E224E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0612",
+      "file_name": "662_22-V-0612.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F64B405A-C3D1-4FAD-B05A-1BA1AA4E05EE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0612",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/31/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Ira Letter 10.28.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEB5E591-CE55-4103-B914-50A80757C371}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0612",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Ira Letter 10.28.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/31/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Ira Request for Renewal-Certificate of Confirmation(Redacted) 10.28.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CB5F5022-9EA3-422E-9E9C-C56FDDDD77DA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0612",
+      "file_name": "Charter Communications, T. Ira Request for Renewal-Certificate of Confirmation(Redacted) 10.28.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/31/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Ira Request for Renewal-Certificate of Confirmation 10.28.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05150A07-C58D-4767-ABFA-F609AC7B17D2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0612",
+      "file_name": "Charter Communications, T. Ira Request for Renewal-Certificate of Confirmation 10.28.22.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0541",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C28AE1DF-AD70-4C80-9523-407F86B2F5FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0541",
+      "file_name": "661_20-V-0541 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Richfield, Otsego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79395C0A-F8B4-4CD9-99C6-2E321FD29102}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0541",
+      "file_name": "2020.10.27 T. Richfield - To be filed with PSC.pdf"
+    }
+  ]
+}

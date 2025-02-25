@@ -1,0 +1,104 @@
+{
+  "case": "20-W-0432",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Crystal Water Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73169FC1-DC03-4A10-9F63-9A47DAE0511C}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "8",
+      "docket_id": "20-W-0432",
+      "file_name": "Crystal Water Customer Notification 1.26.20.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F3214DC-7C30-4EE0-9907-815C04B51211}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "8",
+      "docket_id": "20-W-0432",
+      "file_name": "Customer Notification Cover Letter - 20-W-0432.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/28/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "20-W-0432",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54222080-89F3-4CB8-8692-9D50FEDFA595}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-W-0432",
+      "file_name": "463_20-W-0432 Crystal Water Rate Increase - Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/13/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Crystal Water Supply Minor Water Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={515241C3-652F-4349-998A-FF914AE55089}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "20-W-0432",
+      "file_name": "w 20-W-0432 Crystal Water Postponement Final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-W-0432",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/23/2020",
+      "nypuc_doctype": "Comments",
+      "name": "Comment 20-W-0432 Crystal Water Supply Co.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD53C58E-8F64-4503-A5B2-65FFD9BDE008}",
+      "organization": "Hidden Ridge Homeowners Association",
+      "itemNo": "3",
+      "docket_id": "20-W-0432",
+      "file_name": "Comment 20-W-0432 Crystal Water Supply Co..pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/18/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA0041BA-74A5-4533-9AB3-840A1C227409}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-W-0432",
+      "file_name": "20200918_125245.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/31/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-W-0432",
+      "file_name": ""
+    }
+  ]
+}

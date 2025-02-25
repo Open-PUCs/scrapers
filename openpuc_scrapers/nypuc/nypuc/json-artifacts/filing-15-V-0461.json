@@ -1,0 +1,38 @@
+{
+  "case": "15-V-0461",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C4346FF-07FE-42B4-BC00-5102329577B6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0461",
+      "file_name": "663_15V0461.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/02/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCF9899D-CDC6-4475-BD5F-8FD900E4F535}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0461",
+      "file_name": "Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/07/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Village of Catskill, Greene County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20DA9D12-ACFE-4CE0-8F1A-3A4D37D7CCB9}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0461",
+      "file_name": "Catskill.pdf"
+    }
+  ]
+}

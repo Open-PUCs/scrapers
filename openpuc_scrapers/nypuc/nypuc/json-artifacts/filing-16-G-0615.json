@@ -1,0 +1,104 @@
+{
+  "case": "16-G-0615",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/31/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B21CDED3-3480-4E04-8351-F9C60854535E}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "16-G-0615",
+      "file_name": "166_16-G-0615 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/31/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determinaton",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A39CFF04-E712-4211-8768-45CD8D25F080}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "16-G-0615",
+      "file_name": "166-16-G-0615 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to ERHC Supplemental Appeal/Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={850D1C56-B60B-430A-918E-D1C3EBC35019}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "16-G-0615",
+      "file_name": "Con Edison Response to Supp ERHC Filing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/29/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Supplement to ERHC Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={148B4381-C448-4B03-B367-83577AEF440F}",
+      "organization": "East River Housing Corporation",
+      "itemNo": "6",
+      "docket_id": "16-G-0615",
+      "file_name": "Supplement to ERHC Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/23/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to East River Housing Corporation's Appeal of Informal Hearing and Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F7FD2BF-FF42-4F89-B9CF-DFF74CAC6675}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-G-0615",
+      "file_name": "CECONY Response to ERHC Appeal-Petition 11-23-2016.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/18/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC1C96D0-32FB-47C9-8409-BE7A6C7FB6F2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-G-0615",
+      "file_name": "556642_Addt'l Info.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/28/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={425D9EA1-83AC-4510-A24A-16AD0626CB96}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0615",
+      "file_name": "556642 Acknowledgement Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/27/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision and Petition for a Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8222957A-032C-4169-B62B-4162B7516236}",
+      "organization": "East River Housing Corporation",
+      "itemNo": "2",
+      "docket_id": "16-G-0615",
+      "file_name": "556642Appeal of Informal Hearing Decision and Petition for a Declaratory Ruling Fiinal.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/27/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F74F5BE2-3D71-43A9-AC05-ECDED17E3FC4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-G-0615",
+      "file_name": "Case 556642- Informal Hearing Decision.pdf"
+    }
+  ]
+}

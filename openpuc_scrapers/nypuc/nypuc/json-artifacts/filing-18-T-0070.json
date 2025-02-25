@@ -1,0 +1,38 @@
+{
+  "case": "18-T-0070",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F354007-7952-474D-A6F7-FD550F1BD54E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-T-0070",
+      "file_name": "18-T-0070-Trans.Line145-147-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the Rebuild of Transmission Line 145/147 and Installation of Transmission Line 146 Extension to the Ohio Street Substation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C68AE756-4C0B-4378-A6FC-3C9AF717E511}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0070",
+      "file_name": "L145_146 Part 102 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2EBA694-008F-4CB7-AB86-618CB6BF0D09}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "18-T-0070",
+      "file_name": "Burgess_letter_re_Ohio_St.pdf"
+    }
+  ]
+}

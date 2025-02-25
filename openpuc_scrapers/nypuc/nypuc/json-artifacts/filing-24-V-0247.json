@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0247",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B06D5A90-0000-C117-A488-AC41BD0321E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0247",
+      "file_name": "662_24-V-0247.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/18/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7034F18E-0000-CF1B-A3CC-29F39C9D3C83}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0247",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Goshen Letter 4.18.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7034F18E-0000-C735-A583-50577F92B272}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0247",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Goshen Letter 4.18.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications,-V. Goshen Cover letter-Request for Renewal and Certificate of Confirmation 4.23.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={707B0C8F-0000-C41C-A9A1-411E12823C8B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0247",
+      "file_name": "Charter Communications,-V. Goshen Cover letter-Request for Renewal and Certificate of Confirmation 4.23.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/18/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Goshen-Request for Renewal and Certificate of Confirmation (redacted) 4.18.24docx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7034F18E-0000-C452-822D-ACE6BFAFF44E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0247",
+      "file_name": "Charter Communications, V. Goshen-Request for Renewal and Certificate of Confirmation (redacted) 4.18.24docx.pdf"
+    }
+  ]
+}

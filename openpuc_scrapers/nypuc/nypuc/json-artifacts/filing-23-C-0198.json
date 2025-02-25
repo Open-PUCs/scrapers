@@ -1,0 +1,60 @@
+{
+  "case": "23-C-0198",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Report on the Service Quality of Local Exchange Telephone Companies During 2023 and Commendations for Excellent Service Quality Provided in 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A04D828F-0000-CB11-9BF5-94B0E0E83BC3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-C-0198",
+      "file_name": "563_23-C-0198 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/15/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 4th Quarter 2023 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0DEAD8D-0000-C210-80EB-698940B8DFDE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-C-0198",
+      "file_name": "561_23-C-0198 SQ Verizon 4Q2023.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 3rd Quarter 2023 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D058D98B-0000-C116-A90C-34A219F9787B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-C-0198",
+      "file_name": "561_23-C-0198 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 2nd Quarter 2023 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={803C048A-0000-C01A-AA06-0CF7C29FBFF8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-C-0198",
+      "file_name": "561_23-C-0198.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/18/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon 1st Quarter 2023 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B52F88-0000-C51C-AA91-0A23586347B3}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "23-C-0198",
+      "file_name": "562_23-C-0198.pdf"
+    }
+  ]
+}

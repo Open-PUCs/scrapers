@@ -1,0 +1,49 @@
+{
+  "case": "20-G-0034",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-G-0034 Siu Ack Letter 01222020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={338640DA-8869-4922-8BFF-E61E6FF7ACED}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-G-0034",
+      "file_name": "20-G-0034 Siu Ack Letter 01222020_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-G-0034 Siu Rehearing Request 01172020 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBD70149-4AF0-4052-AE16-30D8F39BC69A}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-G-0034",
+      "file_name": "20-G-0034 Siu Rehearing Request 01172020 Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-G-0034 Siu SMD Final 01092020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98121C5F-28B0-40D7-B7F0-35189F740CAD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-G-0034",
+      "file_name": "20-G-0034 Siu SMD Final 01092020_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/16/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03E57DD8-C841-4137-B069-0AFAEB32BCBE}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-G-0034",
+      "file_name": "162 Letter final_Redacted.pdf"
+    }
+  ]
+}

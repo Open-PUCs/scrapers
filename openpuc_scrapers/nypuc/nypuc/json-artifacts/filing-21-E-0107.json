@@ -1,0 +1,104 @@
+{
+  "case": "21-E-0107",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C City of Rome",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EF7D48F-37D9-4F51-82D3-52CB6BB87719}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0107",
+      "file_name": "Schedule C City of Rome.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/11/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Leter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BFD36D88-B00E-49D1-B902-C53CFFD8DD74}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0107",
+      "file_name": "City of Rome Final Journal Entry Cover Leter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={564328A4-4517-4E86-8240-ED5E7851445E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0107",
+      "file_name": "373_21-E-0107 _Neg. Dec final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAE5C4B0-2E6D-4119-AB41-28AC0E0AB394}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0107",
+      "file_name": "373 - 21-E-0107 - Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AD2BC87-E3E0-444B-99F2-551905809A36}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-E-0107",
+      "file_name": "Rome letter requesting confidentiality.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Work Papers for City of Rome Street Light Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F239D1C-CDF0-4184-AC48-854F8E5E6496}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0107",
+      "file_name": "Schedule D Work Papers for City of Rome Street Light Sale (1).xlsx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule C Workpaper for City of Rome",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A40D879-B061-488E-842B-C3304B68F1F0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0107",
+      "file_name": "Schedule C Workpaper for City of Rome (1).xlsx"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Rome Section 70 PetitionSchedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D02C45E-9A94-4A37-BA9A-078BB273D222}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0107",
+      "file_name": "Rome Section 70 PetitionSchedules.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7C1A033-20A1-403B-B27B-4812A5B4BEBE}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0107",
+      "file_name": "Rome Section 70 cover letter.pdf"
+    }
+  ]
+}

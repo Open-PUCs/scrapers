@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0255",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0255 Hoelderich Ack Letter 04042019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDC134E4-775B-4428-B6DD-F5BEC6EAF146}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-E-0255",
+      "file_name": "19-E-0255 Hoelderich Ack Letter 04042019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0255 Hoelderich Rehearing Request 03262019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01E195C7-890E-4EDF-A9E5-93E72C3A39F0}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-E-0255",
+      "file_name": "19-E-0255 Hoelderich Rehearing Request 03262019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0255 Hoelderich SMD Final 03142019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00E2012F-0A8C-4FCE-BBD4-C441590C16DC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-E-0255",
+      "file_name": "19-E-0255 Hoelderich SMD Final 03142019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C43D5CC-2704-4C13-911E-8F06C4D731CD}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0255",
+      "file_name": "366 Letter_Redacted.pdf"
+    }
+  ]
+}

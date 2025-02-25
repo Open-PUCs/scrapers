@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0094",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FC0B8F-0000-CC37-A7B4-B24A0672FBCE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0094",
+      "file_name": "662_24-V-0094.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/07/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "V. Tupper Lake Filing Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00A858D-0000-CF94-997C-77007D4F00C0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0094",
+      "file_name": "V. Tupper Lake Filing Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "V. Tupper Lake Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 02.07.24SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00A858D-0000-C376-BCA2-2C6895C37207}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0094",
+      "file_name": "V. Tupper Lake Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 02.07.24SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00A858D-0000-CD56-ABB6-AF2DEBA77911}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0094",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Tupper Lake 02.07.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00A858D-0000-C21C-9197-A0758379EB5E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0094",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Tupper Lake 02.07.24.pdf"
+    }
+  ]
+}

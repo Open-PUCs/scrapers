@@ -1,0 +1,49 @@
+{
+  "case": "16-M-0502",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "RCN NY Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A91FF5FD-E381-4EC3-8138-E25E17FEA5AF}",
+      "organization": "RCN Telecom Services, Inc. (C)",
+      "itemNo": "6",
+      "docket_id": "16-M-0502",
+      "file_name": "RCN NY Notice of Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "16-01806_16-M-0502RadiateTransfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD45A171-A619-4C50-B748-A33E1561AA49}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "16-M-0502",
+      "file_name": "16-01806_16-M-0502RadiateTransfer.docx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/04/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter updating the Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D8B39D7-A1E6-41DE-8647-EA60B48F8A1F}",
+      "organization": "Radiate Holdings, L.P., Yankee Cable Partners, LLC",
+      "itemNo": "3",
+      "docket_id": "16-M-0502",
+      "file_name": "Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/08/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC4AC672-BB27-46A0-B4BA-1FDE160DCB29}",
+      "organization": "Radiate Holdings, L.P., Yankee Cable Partners, LLC",
+      "itemNo": "2",
+      "docket_id": "16-M-0502",
+      "file_name": "Records Access Officer, NYPSC Telecom Joint Petition Cover Letter.pdf"
+    }
+  ]
+}

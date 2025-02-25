@@ -1,0 +1,60 @@
+{
+  "case": "21-V-0022",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={453DB000-FA43-4FD6-ABD9-870162089171}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0022",
+      "file_name": "664_21-V-0022 OOE.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/15/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02845.Order of Entry Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDF13613-8681-4DB9-9281-2F167002F9D9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0022",
+      "file_name": "19-02845.Order of Entry Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 75-08 35th Avenue, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A4AE7A5-1970-4339-B8E5-6A56E345A9B7}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0022",
+      "file_name": "Petition (75-08 35 AV).pdf (96 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4E48B17-D268-43AF-A273-58149681554C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0022",
+      "file_name": "Exhibit 2 (75-08 35 AV).pdf (151 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66ECCD32-9869-4241-AB31-CBC62FB4B49D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0022",
+      "file_name": "Exhibit 1 (75-08 35 AV).pdf (1 MB)"
+    }
+  ]
+}

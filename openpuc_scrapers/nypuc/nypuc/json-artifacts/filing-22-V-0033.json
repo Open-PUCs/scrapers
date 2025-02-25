@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0033",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86B5CA57-CE68-48B9-877A-2BDA1FB1C7FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0033",
+      "file_name": "661_22-V-0033.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02189 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A80303C-F01F-4A88-9144-6D5C0ACB0111}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0033",
+      "file_name": "21-02189 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 165 Attorney Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C89DFC2E-5D8C-4FD5-B0AB-D86C22A99AC9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0033",
+      "file_name": "7-211014 Petition (165 ATTORNEY ST) (Post-Survey).pdf"
+    }
+  ]
+}

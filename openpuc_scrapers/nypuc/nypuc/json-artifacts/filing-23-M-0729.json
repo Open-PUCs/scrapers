@@ -1,0 +1,38 @@
+{
+  "case": "23-M-0729",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40FAC78D-0000-CE1F-9733-6CC80A1A2107}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-M-0729",
+      "file_name": "263_23-M-0729_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-M-0729",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "23-M-0729",
+      "file_name": ""
+    }
+  ]
+}

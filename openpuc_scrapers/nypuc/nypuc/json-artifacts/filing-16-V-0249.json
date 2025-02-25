@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0249",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5F3C0A7-E714-4F60-A267-75921D0F8608}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0249",
+      "file_name": "663_16v0249.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Heuvelton, St. Lawrence County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B9E9B42-6926-4FBB-AFC0-1D7CA71A1282}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0249",
+      "file_name": "Heuvelton.pdf"
+    }
+  ]
+}

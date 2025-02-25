@@ -1,0 +1,27 @@
+{
+  "case": "20-M-0046",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/11/2020",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service, Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70106633-233A-4348-BFE3-F53D41887E71}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-M-0046",
+      "file_name": "pr20052.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/11/2020",
+      "nypuc_doctype": "Reports",
+      "name": "2019 Customer Service Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4A1BE0A-9119-4555-859F-A37A55570240}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-M-0046",
+      "file_name": "201_20-M-0046 -2019 Customer Service Performance Report.pdf"
+    }
+  ]
+}

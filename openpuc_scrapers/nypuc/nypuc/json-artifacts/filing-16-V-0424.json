@@ -1,0 +1,115 @@
+{
+  "case": "16-V-0424",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BFE8873-75DB-40E1-AA27-B74AB70087FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "16-V-0424",
+      "file_name": "665_16v0424.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={507636F8-C8DA-49CE-BF89-D040B832978A}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "16-V-0424",
+      "file_name": "665_16v0424 Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DAE23457-0E85-4D77-9897-A91C7CDD656B}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "8",
+      "docket_id": "16-V-0424",
+      "file_name": "Signed EAF Part 2 & 3 for DMM.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/06/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplement to the EVSC Application - City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66B3F4F3-5CAC-4E37-A514-494DF175E5B8}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "7",
+      "docket_id": "16-V-0424",
+      "file_name": "Supplemental filing 16-V-0424 2nd Short EAF City of Corning - EVSC.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/30/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "New - Short Environmental Assessment Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91CA7FA9-4B8C-426A-8797-2F096B4B0376}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "6",
+      "docket_id": "16-V-0424",
+      "file_name": "Supplemental filing 16-V-0424 Short EAF City of Corning - EVSC.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "3rd Corrected EVSC Long EAF Form Part1 City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6F8F998-F4E3-4C99-A595-AAB6A3CD8F60}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "5",
+      "docket_id": "16-V-0424",
+      "file_name": "Letter and 3rd Corrected EVSC Long EAF Form Part1 City of Corning.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/25/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Corrected EVSC Long EAF Form Part 1 City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B73AE637-FB65-4359-95E8-AFD39AF9AEC5}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "4",
+      "docket_id": "16-V-0424",
+      "file_name": "2nd Corrected EVSC Long EAF Form Part1 City of Corning.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication of the Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2901C5FD-67B4-42F7-A524-EF46778B2F0D}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "3",
+      "docket_id": "16-V-0424",
+      "file_name": "Proof of Notice EVSC Certificate of Confirmation City of Corning.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected EAF Part 1 EVSC - City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D9A7C81-4B42-4262-8E9D-A2010194CED9}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0424",
+      "file_name": "Corrected EVSC Long EAF Form Part1 City of Corning.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the City of Corning, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A288D03F-C9F2-4D97-9E2B-691409F9BCCE}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0424",
+      "file_name": "EVSC City of Corning Certifacate of Confirmation Application.pdf"
+    }
+  ]
+}

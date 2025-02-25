@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0025",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90774D79-C851-4806-9981-CDDDF5BD9458}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0025",
+      "file_name": "666_16v0025.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Little Falls, County of Herkimer, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C0844D7-8ED9-4087-BC09-4C3561DE05BF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0025",
+      "file_name": "01202016 t of little falls psc submission.pdf"
+    }
+  ]
+}

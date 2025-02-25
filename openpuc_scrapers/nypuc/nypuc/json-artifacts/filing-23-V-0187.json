@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0187",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30594E88-0000-CD15-A287-B5593F919213}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0187",
+      "file_name": "663_23-V-0187.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00267 Letter to Building Owner 190 Ave B 2.28.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07D9886-0000-CA10-972E-72D5081551B7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0187",
+      "file_name": "23-00267 Letter to Building Owner 190 Ave B 2.28.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 190 Avenue B, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4021AB4F-DB20-4612-8B33-9FE54C212EB7}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0187",
+      "file_name": "230208-5 Petition (190 AVENUE B) (Post-Survey).pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0478",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05A5D8B-0000-C111-950D-E818B43B5FD0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0478",
+      "file_name": "662_23-V-0478 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01226 Letter to Building Owner 410 W 126 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60480789-0000-CA1D-BD7F-DAC22FBDDB72}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0478",
+      "file_name": "23-01226 Letter to Building Owner 410 W 126 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition - 410 W 126th St.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F9A088-0000-C33F-8B5E-87D789713D27}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0478",
+      "file_name": "Petition - 410 W 126th St..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 410 W 126th",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F9A088-0000-C45A-B6AA-9CF1781FE565}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0478",
+      "file_name": "Exhibit 2 - 410 W 126th.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1- 410 w126th st SOW",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F9A088-0000-C473-8204-848F797C298C}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0478",
+      "file_name": "Exhibit 1- 410 w126th st SOW.xlsx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F9A088-0000-C117-A734-BBECAE94B033}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0478",
+      "file_name": "Cover Letter - 410 West 126th St.pdf"
+    }
+  ]
+}

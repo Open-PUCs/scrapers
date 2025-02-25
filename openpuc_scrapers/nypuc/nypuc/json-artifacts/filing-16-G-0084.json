@@ -1,0 +1,49 @@
+{
+  "case": "16-G-0084",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess granting request to withdraw petitions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA825705-2CC2-4724-8684-F0230F663EF9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-G-0084",
+      "file_name": "15-G-0567-16-G-0084-Con Edison-close out ltr .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw the Petitions for Authorization to Defer Costs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D20CA6B0-55C4-4EFC-88AD-614EA2B4AE4D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0084",
+      "file_name": "Gas_Deferral_Petitions_Withdrawal.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. for Approval to Defer Costs Associated with Incremental Gas Leak Response and Repair Activities Incurred in 2015",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C185151-3F37-48D7-8E0A-FA3BABD815E4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0084",
+      "file_name": "GasDeferralPetition2015Costs.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/17/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachments for Gas Deferral Petition 2015",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27BF238E-FBC5-46BC-9E1A-9897E014F1CA}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0084",
+      "file_name": "Attachments for Gas Deferral Petition 2015.pdf"
+    }
+  ]
+}

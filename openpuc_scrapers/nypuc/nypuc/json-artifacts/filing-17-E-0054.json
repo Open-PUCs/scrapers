@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0054",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACE8EE5D-43A8-41B5-83CC-7FB833C95DE5}",
+      "organization": "587-91 Third Owner LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0054",
+      "file_name": "letter 10-2-17 third owner llc.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE6B1CCE-D445-42AE-82D7-672E3EDE9C0C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0054",
+      "file_name": "365_17-E-0054.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for information requested",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBB99EEB-EE8B-4DAD-B9E3-F16250949AD3}",
+      "organization": "587-91 Third Owner LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0054",
+      "file_name": "response letter 7-6-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/03/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Retracting the Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29EB8F0B-8EDB-4051-A4D1-1D76D172311F}",
+      "organization": "587-91 Third Owner LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0054",
+      "file_name": "letter 2-3-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 587-91 Third Owner LLC to Submeter Electricity at 591 Third Avenue, New York, New York 10006, Located in the Territory of Consolidated Edison Company, lnc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8915E794-FFBA-4E53-856F-9ACA29DF8057}",
+      "organization": "587-91 Third Owner LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0054",
+      "file_name": "submetering application 1-26-17 (1).pdf"
+    }
+  ]
+}

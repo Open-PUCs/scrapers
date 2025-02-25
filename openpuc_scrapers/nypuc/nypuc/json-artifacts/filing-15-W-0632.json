@@ -1,0 +1,82 @@
+{
+  "case": "15-W-0632",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48B3A064-C55F-444C-9D59-3EDE16B8BADE}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-W-0632",
+      "file_name": "463 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2671058B-70FA-42C1-B8C6-2EEC33E3EFDE}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-W-0632",
+      "file_name": "463 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/24/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Reply to Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07E61A5A-B816-4C3C-A568-D34EED23DF58}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "15-W-0632",
+      "file_name": "Case No 321308 - Complainant's Reply to Appeal - D'Ambrosio v United Water.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/26/2015",
+      "nypuc_doctype": "Letters",
+      "name": "IH Decision D'Ambrosio v UW 321308",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF038768-97F4-465B-B24E-B7B91C34EA82}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-W-0632",
+      "file_name": "IH Decision D'Ambrosio v UW 321308.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/26/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Appeal ack Letter 321308",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E1AA401-BE35-4FDD-BB8E-E02AE61F2640}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-W-0632",
+      "file_name": "Appeal ack Letter 321308.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/26/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "D'Ambrosio v UW - Appeal Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D750025F-23F1-41D1-B8F4-293F5009080A}",
+      "organization": "United Water Westchester Inc.",
+      "itemNo": "1",
+      "docket_id": "15-W-0632",
+      "file_name": "D'Ambrosio v UW - Appeal Exhibits.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/26/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of IH decision 321308",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65075E68-F4A3-4107-8A04-5A1A259BA26B}",
+      "organization": "United Water Westchester Inc.",
+      "itemNo": "1",
+      "docket_id": "15-W-0632",
+      "file_name": "Appeal of IH decision 321308.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0763",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/09/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for 277 Fifth Avenue, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={417A8358-886B-4CE0-AB6D-280CFB3D1AEE}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "18-E-0763",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC323971-11D1-485D-865C-C55C837C0D1A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0763",
+      "file_name": "364_18-E-0763.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC8409FB-FDDF-4060-9256-40B396BF3EB4}",
+      "organization": "Victor Nomad LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0763",
+      "file_name": "response letter 3-13-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/12/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F8992D4-9F2A-4629-9B60-210A1283037A}",
+      "organization": "Victor Nomad LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0763",
+      "file_name": "response letter 2-8-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96C6D655-E4A9-4FA3-9087-FCEDDB60D7EB}",
+      "organization": "Victor Nomad LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0763",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Victor Nomad LLC to Submeter Electricity at 277 Fifth Avenue, New York, New York 10016 Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={681ACC6D-F2D3-4338-BC5A-05F6214B415F}",
+      "organization": "Victor Nomad LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0763",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

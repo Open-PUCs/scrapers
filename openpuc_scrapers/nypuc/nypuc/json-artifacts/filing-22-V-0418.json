@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0418",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6ADFC785-5E9F-4F95-8D12-F6C67D82FAC5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0418",
+      "file_name": "662_22-V-0418 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/08/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0856B57F-7522-4EEE-9055-DF85F3707E07}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0418",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/08/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Bolivar_07.07.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED3DAAC0-A89D-45B8-AE57-21BD0BC37EB9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0418",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Bolivar_07.07.22 R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Bolivar Cover Letter Request - for Renewal, Certificate of Confirmation 07.07.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB844E48-FE28-47CB-BC69-9C128B98393B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0418",
+      "file_name": "Charter Communications, T. Bolivar Cover Letter Request - for Renewal, Certificate of Confirmation 07.07.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/08/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Bolivar - Request for Renewal, Certificate of Confirmation REDACTED 07.07.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64CF6D8F-A5A2-4FBD-B0F0-21DA7175F3F8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0418",
+      "file_name": "Charter Communications, T. Bolivar - Request for Renewal, Certificate of Confirmation REDACTED 07.07.22.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0438",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/07/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "437 Herkimer Street is requesting a change in rate structure frorn average to printecl rate,",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3B7DF9F-4BFD-4CFF-8611-5DBC0728E61A}",
+      "organization": "Herkimer Street Residence, L.P.",
+      "itemNo": "7",
+      "docket_id": "15-E-0438",
+      "file_name": "letter 2-7-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submeter Test Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DE5AD9E-0B7A-4715-AD15-64C9D63E03AC}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "15-E-0438",
+      "file_name": "meter test form 4-25-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={627EC278-2423-44E1-AF78-0A33E134F937}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-E-0438",
+      "file_name": "372_15e0438.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Amended Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B443BB93-A927-41C8-BFE4-EA62CD5DDC10}",
+      "organization": "Herkimer Street Residence, L.P.",
+      "itemNo": "4",
+      "docket_id": "15-E-0438",
+      "file_name": "Herkimer energy waiver 9-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/14/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification Letter & Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8934C7C0-C36A-4ED1-BA3B-4DA05693048E}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "3",
+      "docket_id": "15-E-0438",
+      "file_name": "notification letter & Affidavit.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/30/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "HEFPA notification forms for 437 Herkimer Street, Brooklyn, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36091237-98FB-4E84-B13E-147A2274F0A1}",
+      "organization": "Herkimer Street Residence, L.P.",
+      "itemNo": "2",
+      "docket_id": "15-E-0438",
+      "file_name": "HEFPA 7-30.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/24/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Herkimer Street Residence, L.P. to Submeter Electricity at 437 Herkimer Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={739CF3E1-4F46-456D-B6E2-545C1032E103}",
+      "organization": "Herkimer Street Residence, L.P.",
+      "itemNo": "1",
+      "docket_id": "15-E-0438",
+      "file_name": "submetering application 7-24.pdf"
+    }
+  ]
+}

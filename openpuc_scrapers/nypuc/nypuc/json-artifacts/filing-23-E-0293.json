@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0293",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240426_NYISOVrfdRprtClsngCsts 23-E-0293_PUBLIC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10961B8F-0000-C12C-B81E-257913EF5991}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-E-0293",
+      "file_name": "20240426_NYISOVrfdRprtClsngCsts 23-E-0293_PUBLIC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2024",
+      "nypuc_doctype": "Motions",
+      "name": "20240426_NYISOFlngLtr_ RAO Clsng Csts 23-E-0293_PUBLIC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00961B8F-0000-C818-B584-B6A668E15F9E}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-E-0293",
+      "file_name": "20240426_NYISOFlngLtr_ RAO Clsng Csts 23-E-0293_PUBLIC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "NYISO Verified Report for 2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F05AF68D-0000-C51B-BE23-B46E66D2A851}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-E-0293",
+      "file_name": "20240229 NYISO2023VrfdRprt Case23E0293.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Accepting Terms and Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A009DD8A-0000-C629-AE4E-F41CA5001FEA}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-E-0293",
+      "file_name": "20230928_NYISOLttrAccptTrms 23-E-0293.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/15/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Authorization to Incur Indebtedness",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4080998A-0000-C71D-B444-7351AC7BC263}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0293",
+      "file_name": "372_23-E-0293_91523 final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/01/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The New York Independent System Operator, Inc. for Authority to Incur Indebtedness for a Term in Excess of Twelve Months Pursuant to Section 69 of the New York Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0127788-0000-C610-AC55-6FE4CB5E845D}",
+      "organization": "New York Independent System Operator, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0293",
+      "file_name": "20230631_NYISO NYPSC Petition to Incur Indebtedness_cmplt.pdf"
+    }
+  ]
+}

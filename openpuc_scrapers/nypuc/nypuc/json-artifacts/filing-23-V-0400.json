@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0400",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C04D8B-0000-CF10-A7CF-4DB34BB2792A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0400",
+      "file_name": "661_23-V-0400 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Cover Letter - Williston Park, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F56E89-0000-C814-89D0-6A069C86F25A}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0400",
+      "file_name": "AUSA Newspaper Cover Letter - Williston Park, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Williston Park, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0F56E89-0000-C213-9ECC-DBB1392DAF61}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0400",
+      "file_name": "AUSA Newspaper Affidavit - Williston Park, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90D86E89-0000-C159-A4A4-E487A838DC59}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0400",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Long Island Corporation for Approval of the Renewal of its Franchise with the Village of Williston Park, Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90D86E89-0000-C51E-8884-FE317DF023C8}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0400",
+      "file_name": "Application Cover Letter - Williston Park, V..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Williston Park, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90D86E89-0000-C496-A370-9B1FE357EA0F}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0400",
+      "file_name": "Exhibit IV - Williston Park, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90D86E89-0000-CE7A-BEB8-73418FAE96D9}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0400",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90D86E89-0000-CDB1-A602-9B158BA6C47E}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0400",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90D86E89-0000-CB39-BB92-3BF1E136E672}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0400",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

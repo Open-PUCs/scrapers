@@ -1,0 +1,104 @@
+{
+  "case": "23-G-0077",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00600389-0000-C31B-8608-5C618D5C9A92}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-G-0077",
+      "file_name": "167_23-G-0077 Confirming Order 6.28.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Workpapers",
+      "name": "Workpapers of Recovery Interest Payments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C042E888-0000-C415-AA80-AD6315384E8F}",
+      "organization": "Fillmore Gas Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-G-0077",
+      "file_name": "Case 23-G-0077 DMM TO PSC 6-23-2023.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/12/2023",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Adopting Emergency Action on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A083B088-0000-C82D-8455-BFB844FE52CC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0077",
+      "file_name": "23-G-0077 Make Permanent Order .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/18/2023",
+      "nypuc_doctype": "Reports",
+      "name": "NOTICE TO CUSTOMERS -Deferred Interest Expense 03-22-23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0CB2E88-0000-CD14-A329-AE4F2BC8B847}",
+      "organization": "Fillmore Gas Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-G-0077",
+      "file_name": "NOTICE TO CUSTOMERS -Deferred Interest Expense 03-22-23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/18/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0CB2E88-0000-CA31-A4E6-464D3E78ACD5}",
+      "organization": "Fillmore Gas Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-G-0077",
+      "file_name": "LOC signed suplemental filing cover letter 05-17-23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Recovery of Interest Payments Through the Gas Supply Charge with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C056F086-0000-C914-B6C5-B3E04A22666D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0077",
+      "file_name": "166_23-G-0077.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Fillmore Gas Company, Inc. for an Order Granting Recovery of Interest Payments on a Bank Line of Credit to be Used Exclusively for the Purchase of Natural Gas for its Customers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB986F69-22CD-459E-A079-DDD30744BE9A}",
+      "organization": "Fillmore Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0077",
+      "file_name": "Petition to PSC - Final 1-27-23.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Appendices",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE9F8720-F827-4384-B1C6-CFCF2EE78AE8}",
+      "organization": "Fillmore Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0077",
+      "file_name": "Petititon Appendices Signed 1-27-23.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/27/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7EC203E-00B0-4846-8EE3-86A5CCF65ECA}",
+      "organization": "Fillmore Gas Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0077",
+      "file_name": "Fillmore Cover Letter 1-27-23.pdf"
+    }
+  ]
+}

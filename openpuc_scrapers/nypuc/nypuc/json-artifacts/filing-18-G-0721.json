@@ -1,0 +1,38 @@
+{
+  "case": "18-G-0721",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/20/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B4344B8-92AD-42C2-A6A6-C0C1F1B47634}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0721",
+      "file_name": "18-G-0721-AAA ESCO-Extension Ruling-2-20-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/19/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBB9CCC5-EF76-401E-89D5-2C14FE9EC886}",
+      "organization": "AAA ESCO LLC",
+      "itemNo": "2",
+      "docket_id": "18-G-0721",
+      "file_name": "scan0209.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA30FBEE-2842-4AF2-9C64-B356F9C5D4E4}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0721",
+      "file_name": "164_18-G-0721.pdf"
+    }
+  ]
+}

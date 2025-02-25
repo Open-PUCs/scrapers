@@ -1,0 +1,27 @@
+{
+  "case": "22-V-0098",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39FA2372-9E1B-458A-A45D-D500700A20F4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0098",
+      "file_name": "661_22-V-0098.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of East Greenbush, Rensselaer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D272524D-C7BD-41E6-AD55-5B1987B1749D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0098",
+      "file_name": "T. East Greenbush - To Be Filed with PSC.pdf"
+    }
+  ]
+}

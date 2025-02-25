@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0553",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={053DBCB8-7935-4CFA-A456-76E94CB72706}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0553",
+      "file_name": "664_17-V-0553.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/03/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Exhibit E to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CD37BD5-1C21-48B5-8730-A5B351906288}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0553",
+      "file_name": "Sands Point Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Sands Point, Nassau County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={778BBBF4-159A-4801-BE28-D59923A13FCA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0553",
+      "file_name": "Sands Point Renewal Petition (Complete).pdf"
+    }
+  ]
+}

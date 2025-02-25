@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0348",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C0C3845-638D-4AE5-BD37-FD00198BCA9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0348",
+      "file_name": "661_22-V-0348.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2BEF2BF4-6E9E-40A9-B604-35CFDE79B109}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0348",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Otisville Cover Letter-Request for Renewal and Certificate of Confirmation 06.07.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7571F77-112F-4EEB-9178-9706A38F865C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0348",
+      "file_name": "Charter Communications, V. Otisville Cover Letter-Request for Renewal and Certificate of Confirmation 06.07.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Otisville -Request for Renewal and Certificate of Confirmation REDACTED 06.07.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91EEB7B4-F921-4C83-8F92-A08D385FD542}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0348",
+      "file_name": "Charter Communications, V. Otisville -Request for Renewal and Certificate of Confirmation REDACTED 06.07.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/07/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Communications Confidential Treatment Request to RAO V. Otisville Letter R-2 06.07.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7442900F-5B7C-4EDA-9CAA-8A130B50CA8D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0348",
+      "file_name": "Charter Communications Confidential Treatment Request to RAO V. Otisville Letter R-2 06.07.22.pdf"
+    }
+  ]
+}

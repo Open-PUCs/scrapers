@@ -1,0 +1,60 @@
+{
+  "case": "18-V-0377",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87EAF158-83A3-4770-9011-91BB55DE45DC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0377",
+      "file_name": "661_18-V-0377.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/03/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5A853DE-7DB9-48C8-90F3-1692265AB598}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0377",
+      "file_name": "Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Legal Notice and Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F9F2831-E976-4D8F-8C93-6576F25BDFC7}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0377",
+      "file_name": "Village of Delhi Public Notice of Cable Application 4-19-18 OCR.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/28/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={597BE060-A7A5-4942-B996-5CFB8F32AB42}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0377",
+      "file_name": "Village of Delhi Cable Franchise Tranmittal Letter Additional Legal Notice 6-28-18 OCR.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for Approval of the Renewal of its Franchise with the Village of Delhi, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBBA3B27-5839-4875-BD89-7DEFC7AF6B75}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0377",
+      "file_name": "Franchise Renewal.pdf"
+    }
+  ]
+}

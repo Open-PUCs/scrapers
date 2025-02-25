@@ -1,0 +1,126 @@
+{
+  "case": "24-G-0598",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240926 - Payment - $450 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10DD9B92-0000-C434-938B-07E7487FEDE9}",
+      "organization": "Virkler's Tree Service",
+      "itemNo": "8",
+      "docket_id": "24-G-0598",
+      "file_name": "20240926 - Payment - $450 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241017 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0DB9B92-0000-CD27-A63D-37C55FFFD8E6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "24-G-0598",
+      "file_name": "20241017 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/16/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20241014 - Training Documentation - CEP 1 Employee",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20319692-0000-C31A-AF2F-281454163F49}",
+      "organization": "Virkler's Tree Service",
+      "itemNo": "6",
+      "docket_id": "24-G-0598",
+      "file_name": "20241014 - Training Documentation - CEP 1 Employee.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240827 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0499991-0000-CB14-8CC5-7663E4D52C0C}",
+      "organization": "Virkler's Tree Service",
+      "itemNo": "5",
+      "docket_id": "24-G-0598",
+      "file_name": "20240827 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240517 - Response to NOPV Letter - Informal Conference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5027888F-0000-CA1A-B12F-0E171ADBD072}",
+      "organization": "New York State Department of Public Service, Virkler's Tree Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0598",
+      "file_name": "20240517 - Response to NOPV Letter - Informal Conference.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240514 - Response to NOPV Letter - Informal Conference Request - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C05E778F-0000-C21F-B2FA-8BA6B6A22DD1}",
+      "organization": "Virkler's Tree Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0598",
+      "file_name": "20240514 - Response to NOPV Letter - Informal Conference Request - Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240514 - Response to NOPV Letter - Evidence Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C015778F-0000-C914-9FB2-BCABA7A793B1}",
+      "organization": "Virkler's Tree Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0598",
+      "file_name": "20240514 - Response to NOPV Letter - Evidence Request.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240506 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A2538F-0000-CA55-B612-48FDE1326A8F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0598",
+      "file_name": "20240506 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240506 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A2538F-0000-C43C-B375-61F6035BA6A0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0598",
+      "file_name": "20240506 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "05/07/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240506 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A2538F-0000-C817-AA87-D3E030D48BFC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0598",
+      "file_name": "20240506 - Citation.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "05/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240429 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80A2538F-0000-CB16-BE5F-A303BCFF3D95}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0598",
+      "file_name": "20240429 - Origin of Investigation.pdf"
+    }
+  ]
+}

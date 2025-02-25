@@ -1,0 +1,49 @@
+{
+  "case": "16-S-0551",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/06/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E06ADBB3-1247-4DB4-AD84-256EDEE5E4B1}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-S-0551",
+      "file_name": "Case 16-S-0551 Steam Meters and Backbilling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/29/2016",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F64A5D5C-7681-4713-9F91-EB2F30E85D06}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-S-0551",
+      "file_name": "16-S-0551 Ruling on Extension Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/29/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={586CED42-1BD8-4DF7-B41E-D85056C1E5B0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-S-0551",
+      "file_name": "Case_16-S-0551 Extension Request.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/08/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Utility Rate Analysis Consultants for a Declaratory Ruling Concerning the Meter Testing and Backbilling Procedures of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32968217-8FAC-4666-8B28-9D11B2A00AC5}",
+      "organization": "Utility Rate Analysis Consultants",
+      "itemNo": "1",
+      "docket_id": "16-S-0551",
+      "file_name": "2016-09-08 Petition for Declaratory - Con Ed Steam Meter Testing Procedure.pdf"
+    }
+  ]
+}

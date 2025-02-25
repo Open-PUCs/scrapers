@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0471",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70090F91-311A-4757-B889-7EAFA57FED3C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0471",
+      "file_name": "663_17-V-0471.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/04/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Stafford, County of Genesee, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF82099C-32E8-400E-97D0-3F974ED88221}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0471",
+      "file_name": "08.04.17 - STAFFORD, TWN - FRANCHISE RENEWAL SUBMITTED TO PSC.pdf"
+    }
+  ]
+}

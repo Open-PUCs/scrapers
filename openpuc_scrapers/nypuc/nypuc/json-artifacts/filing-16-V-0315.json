@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0315",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A694194-76DD-467F-91C2-54DAE7919138}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-V-0315",
+      "file_name": "667_16v0315.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF-Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C1C667D-0E49-4860-8F51-89E5EFE59869}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "16-V-0315",
+      "file_name": "16-V-0315 Signed EAF-Part 2 & 3.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Corrected NPV - Village of Penn Yan Cable Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56F77917-4535-48E9-9FE7-A3A62D3B0C59}",
+      "organization": "Village of Penn Yan",
+      "itemNo": "5",
+      "docket_id": "16-V-0315",
+      "file_name": "2nd Corrected Enclosure 1 NPV Village of Penn Yan Franchise Agreement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected EAF Part 1 NPV-Village of Penn Yan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD47993F-A0CE-43A7-B3D3-213C00F110CA}",
+      "organization": "Village of Penn Yan",
+      "itemNo": "4",
+      "docket_id": "16-V-0315",
+      "file_name": "Corrected Village of Penn Yan NPV Long EAF Part1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected Enclosure 1 NPV Village of Penn Yan Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={788F24D7-6CCD-4D88-B5D0-6A347A0379C3}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video, Village of Penn Yan",
+      "itemNo": "3",
+      "docket_id": "16-V-0315",
+      "file_name": "Corrected Enclosure 1 NPV Village of Penn Yan Franchise Agreement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing - Village of Penn Yan - NPV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCE2970D-1E4F-49F5-97EA-BC23F9B322FC}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "2",
+      "docket_id": "16-V-0315",
+      "file_name": "Supplemental filing 16-V-0315 Village of Penn Yan - NPV.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Community Cable Corporation d/b/a North Penn Video for a Certificate of Confirmation for its Franchise with the Village of Penn Yan, Yates County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE26BDE8-B2F5-4AA9-8FDC-DC2D51BDC205}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "1",
+      "docket_id": "16-V-0315",
+      "file_name": "Village of Penn Yan Certificate of Confirmation Filing.pdf"
+    }
+  ]
+}

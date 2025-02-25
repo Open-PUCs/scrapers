@@ -1,0 +1,38 @@
+{
+  "case": "20-E-0472",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2020",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF659560-39B4-4CC6-AAEC-0DD7C2FC768A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-E-0472",
+      "file_name": "380_20-E-0472_Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "New Athens Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A3DB2A-ED75-4457-A8D5-3AEA53EF2FB6}",
+      "organization": "Beal Bank, Beal Bank USA, New Athens Generating Co.,LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0472",
+      "file_name": "New Athens Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AACA3280-26ED-4641-A7EA-10942E8B5419}",
+      "organization": "Beal Bank, Beal Bank USA, New Athens Generating Co.,LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0472",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

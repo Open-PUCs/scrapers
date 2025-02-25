@@ -1,0 +1,82 @@
+{
+  "case": "20-E-0230",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03899F96-BA5F-43CA-BA30-AA8BB1E1EEB3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0230",
+      "file_name": "374_20-E-0230 Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/03/2020",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5BBB7F9-5679-47F3-BBFD-C5078FC02837}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0230",
+      "file_name": "20-E-0230 -BCCR Extension Ruling-6-3-20 (003).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Clarification or Extension of Public Comment Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDFF921C-B7D2-41F7-843A-315346C2CC21}",
+      "organization": "Broome County Concerned Residents",
+      "itemNo": "3",
+      "docket_id": "20-E-0230",
+      "file_name": "LT Rhodes re PSL 70 Jun 2 2020.pdf (148 KB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A22C022-9A2F-4E26-8294-49562F779A2A}",
+      "organization": "Broome County Concerned Residents",
+      "itemNo": "3",
+      "docket_id": "20-E-0230",
+      "file_name": "Cvr Ltr Jun 2 2020.pdf (238 KB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Section 70 Notice Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD8D13ED-FFE2-430E-BD3E-463D44A17DAA}",
+      "organization": "Bluestone Wind, LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0230",
+      "file_name": "200515 Section 70 Notice Letter.pdf (141 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A253DAC-0288-40D1-94D6-ABDEF40580F3}",
+      "organization": "Bluestone Wind, LLC, Calpine Wind Holdings, LLC, Northland Power New York Wind LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0230",
+      "file_name": "Joint Section 70 Petition.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B229FB6-3704-47E1-B0E3-B4FBE1D21A52}",
+      "organization": "Bluestone Wind, LLC, Calpine Wind Holdings, LLC, Northland Power New York Wind LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0230",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

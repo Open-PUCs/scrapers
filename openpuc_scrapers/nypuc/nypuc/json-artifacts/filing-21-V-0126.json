@@ -1,0 +1,49 @@
+{
+  "case": "21-V-0126",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A49211BB-51AF-48D9-907E-00BC01DB13A0}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0126",
+      "file_name": "665_21-V-0126 NEG DEC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A11C07E2-1484-4783-B05E-12FF910174F7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0126",
+      "file_name": "665_21-V-0126 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Reports",
+      "name": "21-V-0126 SEAF Part 2 & 3 Spectrum Northeast, LLC V of East Nassau",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD655FFE-03B2-4179-8955-EEB22078EA8C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0126",
+      "file_name": "21-V-0126 SEAF Part 2 & 3 Spectrum Northeast, LLC V of East Nassau.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/24/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for a Certificate of Confirmation for its Franchise with the Village of East Nassau, Rensselaer County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EAC8FD8-EE73-463A-93E0-CF2698ED60F6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0126",
+      "file_name": "2021.02.24 - V. E. NASSAU INITIAL PSC FRANCHISE FILING.pdf"
+    }
+  ]
+}

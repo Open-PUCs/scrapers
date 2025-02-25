@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0088",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40237191-0000-C513-BEC2-1F4D46800288}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0088",
+      "file_name": "364_24-E-0088 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/06/2024",
+      "nypuc_doctype": "Letters",
+      "name": "248493 AVSBCC SMR Ack 02062024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50E77E8D-0000-C41E-B701-D757D2074A1B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0088",
+      "file_name": "248493 AVSBCC SMR Ack 02062024_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/06/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "AVSBCC LLC SMR Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0E47E8D-0000-C911-8C9D-FA6BFB523127}",
+      "organization": "AVSBCC, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0088",
+      "file_name": "AVSBCC LLC SMR Request_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2024",
+      "nypuc_doctype": "Letters",
+      "name": "248493 AVSBCC SMD Final 01102024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E17E8D-0000-CA1E-8AE0-3324F1A19502}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0088",
+      "file_name": "248493 AVSBCC SMD Final 01102024_Redacted.pdf"
+    }
+  ]
+}

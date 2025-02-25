@@ -1,0 +1,49 @@
+{
+  "case": "24-V-0542",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={205D1092-0000-C04A-BEB5-70BACA97051F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0542",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Knox Letter 9.20.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={105D1092-0000-C018-BB79-DCDD9A07A8CF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0542",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Knox Letter 9.20.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Knox-Request for Renewal and Certificate of Confirmation (redacted) 9.20.24.SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={205D1092-0000-CF8B-89C4-0E2F3F6F7125}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0542",
+      "file_name": "Charter Communications, T. Knox-Request for Renewal and Certificate of Confirmation (redacted) 9.20.24.SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Knox Cover letter-Request for Renewal and Certificate of Confirmation 9.20.24.SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={205D1092-0000-C861-A924-75F4DCFF1C86}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0542",
+      "file_name": "Charter Communications, T. Knox Cover letter-Request for Renewal and Certificate of Confirmation 9.20.24.SP.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0572",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6F16052-64D4-4902-991A-BA3B892008A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0572",
+      "file_name": "661_22-V-0572.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01591 Letter to Building Owner_622 W 135",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3619E35-C92B-47BA-AC83-C858DEB3D65E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0572",
+      "file_name": "22-01591 Letter to Building Owner_622 W 135.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 622 West 135th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29751250-4A3B-4971-863F-6ACD95F337C6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0572",
+      "file_name": "220810-2 Petition (622 W 135 ST) (Post-Survey).pdf"
+    }
+  ]
+}

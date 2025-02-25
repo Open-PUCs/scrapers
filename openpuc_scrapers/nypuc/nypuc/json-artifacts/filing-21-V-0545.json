@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0545",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76A4A04A-FAA6-45BF-AAD5-CB8822A2A41D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0545",
+      "file_name": "661_21-V-0545.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/03/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Fairport, Monroe County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5429FB36-C093-49C4-B6B4-21019D314483}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0545",
+      "file_name": "2021.11.02 V. FAIRPORT RENEWAL PETITION TO PSC. LK (2).pdf"
+    }
+  ]
+}

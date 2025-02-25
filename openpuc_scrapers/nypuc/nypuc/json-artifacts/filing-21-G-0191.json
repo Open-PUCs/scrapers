@@ -1,0 +1,49 @@
+{
+  "case": "21-G-0191",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver and Extending Development Period",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23F3FF15-3646-4138-B84A-5884D849A470}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-G-0191",
+      "file_name": "166_21-G-0191 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Malta Land Waiver Suppl Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A23AB77C-BA92-484C-A445-5F27A2E40F92}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "21-G-0191",
+      "file_name": "21-G-0191 Malta Land Waiver Suppl Response (8-25-2021).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "National Grid Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C53F3509-0C79-47EE-B4C4-76BA87C363BB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-G-0191",
+      "file_name": "Case 21-G-0191 - National Grid Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Malta Land Company, LLC Request for an Extension on Letter of Credit.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BE71F40-E935-4A29-A5C9-0A4E438BA4EA}",
+      "organization": "Malta Land Company, LLC",
+      "itemNo": "1",
+      "docket_id": "21-G-0191",
+      "file_name": "Letter to PSC Secretary 4-1-21.pdf"
+    }
+  ]
+}

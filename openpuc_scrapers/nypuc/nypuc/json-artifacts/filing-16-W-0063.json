@@ -1,0 +1,60 @@
+{
+  "case": "16-W-0063",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Unconditional Acceptance of the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3358DEC2-FADC-46A3-869B-BD274991F716}",
+      "organization": "Fishers Island Water Works Corp",
+      "itemNo": "3",
+      "docket_id": "16-W-0063",
+      "file_name": "unconditiopnal acceptance letter case 16-w-0063.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/20/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Issuance of Securities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28B2F04E-1912-402C-AC6C-D74EEB10C157}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-W-0063",
+      "file_name": "461_16w0063.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/02/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "SAPA notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34FCD2E9-EBD8-480F-BFC8-87551EB747C3}",
+      "organization": "Fishers Island Water Works Corp",
+      "itemNo": "1",
+      "docket_id": "16-W-0063",
+      "file_name": "SAPA notice.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/02/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95130345-9596-4751-8B1B-F96DEEB523F9}",
+      "organization": "Fishers Island Water Works Corp",
+      "itemNo": "1",
+      "docket_id": "16-W-0063",
+      "file_name": "Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/02/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Ltr Kathleen Burgess",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD56A118-9442-46D9-82CE-AC48EA4F9BBF}",
+      "organization": "Fishers Island Water Works Corp",
+      "itemNo": "1",
+      "docket_id": "16-W-0063",
+      "file_name": "Ltr Kathleen Burgess.pdf"
+    }
+  ]
+}

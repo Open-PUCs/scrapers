@@ -1,0 +1,27 @@
+{
+  "case": "15-M-0734",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter in Support",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F223677F-E568-484B-80D6-C697D702477A}",
+      "organization": "Direct Energy Services LLC",
+      "itemNo": "2",
+      "docket_id": "15-M-0734",
+      "file_name": "Letter in Support.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Just Energy, LLC to Amend and Revise Section 5 Attachment 1.A of the Uniform Business Practices",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E552CE01-80A3-47D5-B6A1-B12E7A363ED0}",
+      "organization": "Just Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "15-M-0734",
+      "file_name": "Petition of Just Energy, LLC to Amend and Revise Section 5 Attachment 1.A of the Uniform Business Practices.pdf"
+    }
+  ]
+}

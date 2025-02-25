@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0353",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={701FCD8D-0000-CA1B-A2E2-5B2AB2FE7042}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0353",
+      "file_name": "371_23-E-0353_final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Letters",
+      "name": "247471 Chan SMR Ack Letter 06092023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F03B3189-0000-CD1E-ABEE-F97472519CD1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0353",
+      "file_name": "247471 Chan SMR Ack Letter 06092023_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Chan SMR Request 06032023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={703A3189-0000-CD15-AA3B-398D8ACA5228}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0353",
+      "file_name": "Chan SMR Request 06032023_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Letters",
+      "name": "247471_Chan_SMD_Final_05102023 _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20383189-0000-C116-83E5-C1D1A63B2596}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0353",
+      "file_name": "247471_Chan_SMD_Final_05102023 (1)_Redacted.pdf"
+    }
+  ]
+}

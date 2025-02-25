@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0315",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/31/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B539AC6A-3196-45A1-BBB4-ADFFE4480509}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0315",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/31/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2022-05-31 NYSEG Town of Lockport Section 70 Final Journal Entries - Cover Letter (21-E-0315)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFCA135D-3631-40A4-8D9D-59943B9502DA}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0315",
+      "file_name": "2022-05-31 NYSEG Town of Lockport Section 70 Final Journal Entries - Cover Letter (21-E-0315).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/31/2022",
+      "nypuc_doctype": "Reports",
+      "name": "2022-05-31 NYSEG Town of Lockport Journal Entries (21-E-0315)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1C93EA6-6247-465C-801A-123959207ADB}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0315",
+      "file_name": "2022-05-31 NYSEG Town of Lockport Journal Entries (21-E-0315).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/31/2022",
+      "nypuc_doctype": "Motions",
+      "name": "2022-05-31 NYSEG Town of Lockport Final Workpapers - TS Request (21-E-0315)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C035D3D-9AE3-4ECE-BE8D-E2A8F15A7852}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "21-E-0315",
+      "file_name": "2022-05-31 NYSEG Town of Lockport Final Workpapers - TS Request (21-E-0315).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E8B8EA9-A643-4572-A226-96847C8566C7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0315",
+      "file_name": "364_21-E-0315 Neg. Dec.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4D8E830-C0CD-41DC-9298-B25185A5BF46}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0315",
+      "file_name": "364_21-E-0315.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/31/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Regarding the Sale of Street Lights to the Town of Lockport",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1087CCB9-B2AD-42BB-9F91-C1766DD5ACCA}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "21-E-0315",
+      "file_name": "2021-08-31 NYSEG - Town of Lockport Street Lighting Facilities Section 70-CORRECTION.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "2021-06-08 NYSEG - Town of Lockport Street Lighting Facilities Section 70",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D28ABAD4-2481-455E-B460-171AB538BB1E}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "21-E-0315",
+      "file_name": "2021-06-08 NYSEG - Town of Lockport Street Lighting Facilities Section 70.pdf"
+    }
+  ]
+}

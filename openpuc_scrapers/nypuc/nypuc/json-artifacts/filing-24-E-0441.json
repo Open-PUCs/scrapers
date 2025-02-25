@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0441",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Information (125 Third Street)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C5E191-0000-C41A-8F05-445EE6BE0A90}",
+      "organization": "Third at Third LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0441",
+      "file_name": "Supplemental Information 9.11.24 (125 Third Street).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/29/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of Third at Third LLC to Submeter Electricity at 125 Third Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={904CFF90-0000-C41F-96E3-A9ED95EBAAA3}",
+      "organization": "Third at Third LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0441",
+      "file_name": "Submetering Notice of Intent (125 Third Street Brooklyn NY).pdf"
+    }
+  ]
+}

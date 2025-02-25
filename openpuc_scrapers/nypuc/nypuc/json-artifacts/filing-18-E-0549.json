@@ -1,0 +1,82 @@
+{
+  "case": "18-E-0549",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/25/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "7",
+      "docket_id": "18-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/07/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments With Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09E126FF-56D6-4038-B4E0-2EC43318FAD1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-E-0549",
+      "file_name": "367_18-E-0548 and 0549.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/07/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves Con Edison, O&R\u00bfs Smart Home Demonstration Projects",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF8B936D-7FCF-499F-B53F-008A6AAC16D8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0549",
+      "file_name": "pr19011.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Updating New SHR Demo Timeline",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={206EEB22-5D87-449E-9895-5419FE8775E5}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "4",
+      "docket_id": "18-E-0549",
+      "file_name": "Letter indicating new SHR Demo timeline.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/27/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3906915C-D456-4EA5-B1A6-EDB48E369B8D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0549",
+      "file_name": "18-E-0548 & 18-E-0549 Postponement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/23/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0549",
+      "file_name": ""
+    }
+  ]
+}

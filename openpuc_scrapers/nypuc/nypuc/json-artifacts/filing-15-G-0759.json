@@ -1,0 +1,115 @@
+{
+  "case": "15-G-0759",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB0F1A59-E434-44DF-BA65-8046055B2479}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "15-G-0759",
+      "file_name": "164_15g0759 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD6B931C-768A-4614-9480-6383AD01394A}",
+      "organization": "Brookfield Power New York Thermal Services LLC, Syracuse LLC",
+      "itemNo": "9",
+      "docket_id": "15-G-0759",
+      "file_name": "CovLet10-27-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/27/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Carr Street Intervention and Joint Comments 10-27-16",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E37C97E-53A1-42A7-9104-9B4A40E66030}",
+      "organization": "Brookfield Power New York Thermal Services LLC, Syracuse LLC",
+      "itemNo": "9",
+      "docket_id": "15-G-0759",
+      "file_name": "Carr Street Intervention and Joint Comments 10-27-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Comments",
+      "name": "NG Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEE06352-A4E1-4B07-A645-D05013D6A33A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "15-G-0759",
+      "file_name": "NG Comments (10-19-16).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E3F10AA1-C3D9-4727-BA68-BEBA601EC23F}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-G-0759",
+      "file_name": "15g0759 Postponement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/27/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "15-G-0759",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/26/2016",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Syracuse LLC on Gas Balancing Issues",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={597B6F92-7336-45C8-8DEC-4DEEF800889C}",
+      "organization": "Syracuse LLC",
+      "itemNo": "4",
+      "docket_id": "15-G-0759",
+      "file_name": "Syracuse Comments on Balancing 9-26-16.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "15-G-0759",
+      "file_name": ""
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/11/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Newspaper Publication Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01D5E4A1-4236-4F1E-AFE5-BF8F7DB22181}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "15-G-0759",
+      "file_name": "Newspaper Publication Waiver Request.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "15-G-0759",
+      "file_name": ""
+    }
+  ]
+}

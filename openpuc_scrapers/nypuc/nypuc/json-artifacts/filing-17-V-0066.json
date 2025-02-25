@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0066",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49F9D13A-6560-4DA6-B881-5E1F13A78B10}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0066",
+      "file_name": "669_17-V-0066.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/31/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Victory, Saratoga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1E0624D-CB07-4D60-8A05-65E39E567059}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0066",
+      "file_name": "V Victory PSC Submission documents 1 31 17.pdf"
+    }
+  ]
+}

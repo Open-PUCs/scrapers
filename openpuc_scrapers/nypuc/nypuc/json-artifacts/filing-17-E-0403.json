@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0403",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/09/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing officer's decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FBCBCE9-6D4F-4A95-B30C-02251F3ED28D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0403",
+      "file_name": "361 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53012A0E-86EE-4BF0-BE87-2F36DE9697F3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0403",
+      "file_name": "523214 Williams _Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/03/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE041135-8B5C-4620-8DB5-A43DAD89555E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0403",
+      "file_name": "Williams_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7383BF0F-21E8-4404-B362-D8C02C4B5521}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0403",
+      "file_name": "Williams IHD (523214) (002)_Redacted.pdf"
+    }
+  ]
+}

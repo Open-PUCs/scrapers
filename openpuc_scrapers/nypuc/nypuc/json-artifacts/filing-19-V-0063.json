@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0063",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F388CB5C-DE52-45FA-8C6A-A2979F50FD81}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0063",
+      "file_name": "662_19-V-0063.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/07/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04698BAE-D44E-4876-8BE9-B1E35DB22D59}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0063",
+      "file_name": "Hillburn Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of its Franchise with the Village of Hillburn, Rockland County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={218F0971-5F98-4541-8151-572E9792926B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0063",
+      "file_name": "Hillburn Renewal Petition (Complete).pdf"
+    }
+  ]
+}

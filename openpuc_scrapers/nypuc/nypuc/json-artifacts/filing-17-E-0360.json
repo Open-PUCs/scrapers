@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0360",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/01/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response of Roseland Development Associates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA7D285C-79ED-4F43-BF08-13E34D901479}",
+      "organization": "Roseland Development Associates, LLC",
+      "itemNo": "6",
+      "docket_id": "17-E-0360",
+      "file_name": "response letter 2-1-2018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A973A33D-09BE-4BD6-A61F-D92393668EB7}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0360",
+      "file_name": "362_17-E-0360 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/05/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5513D6D1-7188-4E3E-B813-7DF68D31632B}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "4",
+      "docket_id": "17-E-0360",
+      "file_name": "response letter 10-4-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Withdrawal of the Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE42FD9D-E717-4CD3-8326-93907333B9F7}",
+      "organization": "Roseland Development Associates, LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0360",
+      "file_name": "response letter 7-26-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D862C1AE-1D27-4FD9-9A05-129B37AF3971}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "17-E-0360",
+      "file_name": "response letter 7-19-17.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Roseland Development Associates, LLC to Submeter Electricity at 242 West 53rd Street, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07FC28EE-998D-4A96-8C01-8EF1C4555A5C}",
+      "organization": "Roseland Development Associates, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0360",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

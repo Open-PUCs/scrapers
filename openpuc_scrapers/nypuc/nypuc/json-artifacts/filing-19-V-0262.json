@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0262",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6165501B-5D67-4442-87CC-388F721D07F9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0262",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated and Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E9E459D-9929-4804-9B75-018D29464413}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0262",
+      "file_name": "T Cornwall Ltr to PSC secretary w.addl docs for filing, Case 19-V-0262.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Cornwall, Orange County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5F48F01-BFFA-45EC-BA31-F039AAA1BAEA}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0262",
+      "file_name": "040819 T.CORNWALL RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

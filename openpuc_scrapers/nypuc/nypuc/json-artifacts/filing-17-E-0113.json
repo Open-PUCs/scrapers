@@ -1,0 +1,104 @@
+{
+  "case": "17-E-0113",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2018",
+      "nypuc_doctype": "Workpapers",
+      "name": "Miscellaneous Charge III Paperwork",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6EA4215-A9C1-447A-8F14-CBA576F87407}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "6",
+      "docket_id": "17-E-0113",
+      "file_name": "LETTMISCIII.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "17-E-0113",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Deferral Accounting and Recovery of Distributed System Platform Related Costs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F1BE09B-4C66-4A4E-8030-C9A4E8A733F9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0113",
+      "file_name": "302_17-E-0113.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/27/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2A3A322-1893-44C0-B80B-968468E7FAF9}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "17-E-0113",
+      "file_name": "Request for exception from disclosure 3-27-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Central Hudson Gas & Electric Corporation for Approval for Deferral Accounting Authority and Recovery of Incremental Costs Associated with Reforming the Energy Vision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={076B962C-F1D4-4FF0-BCD2-78C55E221C63}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "17-E-0113",
+      "file_name": "Peitition for Deferral and Recovery Redacted Filed 03-07-2017.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Attachment 3 SAPA Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25F59A72-C7D7-48FA-B48D-179EDB0BEE5C}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "17-E-0113",
+      "file_name": "Petition Attachment 3 SAPA Notice Filed 3-07-2017.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Attachment 2 - Accounting Entries",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4127329A-8D6E-463B-BA43-82AEA5B953B0}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "17-E-0113",
+      "file_name": "Petition Attachment 2 - Accounting Entries Filed 03-07-2017.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition Attachment 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E402B6B6-B9D5-4193-9E12-39658D6651C0}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "17-E-0113",
+      "file_name": "Petition Attachment 1 Filed 03-07-2017.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/08/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={824AF1E5-9578-4D2D-9141-9ACF4573D9C2}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0113",
+      "file_name": "Request for Confidential Treatment Filed 03-07-2017.pdf"
+    }
+  ]
+}

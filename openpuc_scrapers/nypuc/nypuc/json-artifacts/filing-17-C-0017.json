@@ -1,0 +1,60 @@
+{
+  "case": "17-C-0017",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A385D79-ED10-442F-8BCC-83A0D3260EB4}",
+      "organization": "Alteva of Warwick LLC",
+      "itemNo": "4",
+      "docket_id": "17-C-0017",
+      "file_name": "2017-06-15 Alteva Acceptance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Participation in Financing Arrangement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E090A7E-EB79-4302-9AB1-9087D09D2414}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-C-0017",
+      "file_name": "563_17-C-0017.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/17/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Mr. Klein",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4398618-1399-4B38-88E4-56535283521F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-C-0017",
+      "file_name": "Letter to Mr. Klein.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Alteva of Warwick, LLC for Authority to Participate in a Financing Arrangement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={291ACE31-106C-44DC-80B6-95B9A6AFFD77}",
+      "organization": "Alteva of Warwick LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0017",
+      "file_name": "NYPSC Petition for Fin Approval - Complete.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90629357-2BB1-43BE-88B9-14D4AABA0466}",
+      "organization": "Alteva of Warwick LLC",
+      "itemNo": "1",
+      "docket_id": "17-C-0017",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

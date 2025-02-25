@@ -1,0 +1,115 @@
+{
+  "case": "20-E-0591",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correspondence Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F134BB2-24BC-4DBF-85E7-33876042D0BD}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "6",
+      "docket_id": "20-E-0591",
+      "file_name": "Correspondence Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3254EAE-42F9-4DA9-BB0F-DCD6F379476F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0591",
+      "file_name": "383 - 20-E-0591 Steinway St. Submetering Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CEE6DFD2-2BDC-4975-A8C1-8EEDD3B217DE}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0591",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/24/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 36-20 Steinway Street, Queens, New York 11101.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={751B9BCF-3D8A-48F7-93ED-CF71C8DB9497}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0591",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Steinway Street Investors I Subsidiary - NY Formation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={044F50B3-BCCB-48A9-8C04-A96CEF5926A1}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0591",
+      "file_name": "Steinway Street Investors I Subsidiary - NY Formation .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39E0EE3F-CF49-47D9-BCDF-B8CFBCCC6975}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0591",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D40C7DDD-C4BE-469B-A9CD-AF6BAD83A11E}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0591",
+      "file_name": "Submetering Identification Form.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 36-20 Steinway Street, Queens, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BA379F5-0BAC-4CF3-9152-069444ED0310}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0591",
+      "file_name": "submetering application Part 2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA697EBF-85AC-4602-A89E-FA2834155B95}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0591",
+      "file_name": "cover letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Con ed letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF008CC1-3C7D-44E8-BA54-A4B7AC09CE4C}",
+      "organization": "Steinway Street Investors I Subsidiary, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0591",
+      "file_name": "con ed letter.pdf"
+    }
+  ]
+}

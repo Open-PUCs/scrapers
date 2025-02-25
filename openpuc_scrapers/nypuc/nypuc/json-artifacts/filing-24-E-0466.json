@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0466",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00733891-0000-CC12-8744-E1AF51021383}",
+      "organization": "Alle-Catt Wind Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0466",
+      "file_name": "24-E-____ ACWE - Cover Letter encl. Section 70 Petition - 08.09.24 FINAL.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ACWE - Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10733891-0000-CD2B-A54F-2ED61987512F}",
+      "organization": "Alle-Catt Wind Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0466",
+      "file_name": "24-E-____ ACWE - Short Environmental Assessment Form - 08.09.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ACWE - Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10733891-0000-CA42-B4F1-76A5B2940B71}",
+      "organization": "Alle-Catt Wind Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0466",
+      "file_name": "24-E-____ ACWE - Section 70 Petition - 08.09.24 FINAL.pdf"
+    }
+  ]
+}

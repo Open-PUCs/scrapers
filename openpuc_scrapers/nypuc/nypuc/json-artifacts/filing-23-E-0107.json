@@ -1,0 +1,115 @@
+{
+  "case": "23-E-0107",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B5148E-0000-C617-83B7-5962EDD34893}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "9",
+      "docket_id": "23-E-0107",
+      "file_name": "compliance letter (4).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={401CCD8D-0000-C310-BEB2-E7FC3F000377}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "23-E-0107",
+      "file_name": "370_23-E-0107 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0012338D-0000-CB18-912A-B32B22883498}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "7",
+      "docket_id": "23-E-0107",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information for 2925 West 16th and 2940 West 15th Street, Brooklyn.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80EBEE8C-0000-C114-A967-D320F6E37D47}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0107",
+      "file_name": "additional information (6).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0F7928C-0000-CA16-8655-36C630803040}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0107",
+      "file_name": "additional information 12-22-23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 2925 West 16th and 2940 West 15th Street, Brooklyn, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C009AF8A-0000-CA19-96F2-0B2805CBA3A1}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0107",
+      "file_name": "additional information 9-19-23.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7045DB89-0000-CD14-93D3-4E509DD5BC05}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0107",
+      "file_name": "additioanl information.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "revised con edison bill",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A090A286-0000-CA1A-ACDA-E2EBA73B5B6F}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0107",
+      "file_name": "revised con edison bill.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AC9986-0000-CC33-829E-2D2113F9EEC1}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0107",
+      "file_name": "cover letter (5).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Surf Avenue L/Cal LLC to Submeter Electricity at 2925 West 16th and 2940 West 15th Street, Located in the Territory of Consolidated Edison Company of New York..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80AC9986-0000-C815-B54B-E2D9163B1E73}",
+      "organization": "Surf Avenue L/Cal LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0107",
+      "file_name": "submetering application (12).pdf"
+    }
+  ]
+}

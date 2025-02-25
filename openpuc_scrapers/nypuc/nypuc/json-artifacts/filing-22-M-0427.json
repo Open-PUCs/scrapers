@@ -1,0 +1,82 @@
+{
+  "case": "22-M-0427",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing in Punjabi",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DD5102D-5786-4173-B4FE-97233EBA8A70}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-M-0427",
+      "file_name": "268_22-M-0427 Letter-Punjabi_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C453A74B-1D31-4118-A479-0FBB7C229204}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-M-0427",
+      "file_name": "268 -22-M-0427 English Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination in Punjabi",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8946D91-CC1F-4E99-9401-61A24B2386E5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-M-0427",
+      "file_name": "268_22-M-0427 Determination-Punjabi.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/28/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={664A8BF4-AD44-426B-A8DA-57A78305EF47}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-M-0427",
+      "file_name": "268_22-M-0427 English Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "213767 SMR Ack Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED2A4AB1-C15E-46D2-BB7E-225C9E3682F0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-M-0427",
+      "file_name": "213767 SMR Ack Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "SMR Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60549CFC-5688-401A-BABD-D568F21CF1B4}",
+      "organization": "Multiple Individuals",
+      "itemNo": "2",
+      "docket_id": "22-M-0427",
+      "file_name": "SMR Request.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "213767_Bathla_SMD_Final_06282022_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A021087-6E8D-4014-9F4A-36ACE620D234}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-M-0427",
+      "file_name": "213767_Bathla_SMD_Final_06282022 (1)_Redacted.pdf"
+    }
+  ]
+}

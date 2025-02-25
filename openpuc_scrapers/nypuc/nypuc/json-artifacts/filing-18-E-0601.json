@@ -1,0 +1,27 @@
+{
+  "case": "18-E-0601",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A012866F-4C27-440A-9F48-F98052A7C6BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-E-0601",
+      "file_name": "377_18-E-0601.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of NHIP II Bayonne Holdings LLC for a Declaratory Ruling or an Order Approving Financing Pursuant to Section 69 of the New York State Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19768937-7A4E-4658-B23B-1BDB76328CE4}",
+      "organization": "NHIP II Bayonne Holdings LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0601",
+      "file_name": "Verified Petition 9-14-18 As filed.pdf"
+    }
+  ]
+}

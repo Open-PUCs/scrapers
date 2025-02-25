@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0195",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing in Chinese",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DBCC8D-0000-CC36-BB94-E8FF2584550F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0195",
+      "file_name": "376_23-E-0195 Chinese_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DBCC8D-0000-C21A-B9DC-03D6B6932F66}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0195",
+      "file_name": "376_23-E-0195 _Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Letters",
+      "name": "328904 Chen SMR Ack 04112023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A06F7187-0000-CB17-8562-DF81A72E5556}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0195",
+      "file_name": "328904 Chen SMR Ack 04112023_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "1531 Gillespie Ave Bronx 10461_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={806E7187-0000-CC11-9180-14C58C7393F2}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0195",
+      "file_name": "1531 Gillespie Ave Bronx 10461_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Letters",
+      "name": "238455_Canaan_SMD_Final_Simplified Chinese_03012023pdf_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06A7187-0000-CF34-87E7-39406BE01D32}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0195",
+      "file_name": "238455_Canaan_SMD_Final_Simplified Chinese_03012023pdf_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/11/2023",
+      "nypuc_doctype": "Letters",
+      "name": "238455_Canaan_SMD_Final_03012023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F06A7187-0000-CC17-A8B5-0E8AB35D411A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0195",
+      "file_name": "238455_Canaan_SMD_Final_03012023 (2)_Redacted.pdf"
+    }
+  ]
+}

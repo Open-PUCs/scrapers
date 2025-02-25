@@ -1,0 +1,71 @@
+{
+  "case": "21-G-0237",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "5",
+      "docket_id": "21-G-0237",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/13/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Addressing Amendment to the System Modernization Tracker",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85C59B54-4F85-4AF1-B60C-56EE4A7FB761}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-G-0237",
+      "file_name": "162_21-G-0237 NFG SMT Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "NFGDC 21-G-0237 Letter Supplement (6.24.21)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45D3943F-CC2E-490B-8C91-BB54047307AF}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "21-G-0237",
+      "file_name": "NFGDC 21-G-0237 Letter Supplement (6.24.21).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6AAB848-24B2-433B-A670-4EA3B318B355}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "21-G-0237",
+      "file_name": "21-G-0237 Proof of Publication.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Petition of National Fuel Gas Distribution Corporation for Authorization to Amend Its System Modernization Tracker",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F3FDFAC-0FEA-42C4-B941-7E442B45FAAD}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "21-G-0237",
+      "file_name": "NFGDC Verified Petition with Exhibit (21-G- ____).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66866599-D1DB-4A92-B018-7174D9A41BE9}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "21-G-0237",
+      "file_name": "NFGDC Cover Letter Petition (21-G-____).pdf"
+    }
+  ]
+}

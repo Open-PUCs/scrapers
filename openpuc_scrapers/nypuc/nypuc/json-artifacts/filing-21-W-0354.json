@@ -1,0 +1,82 @@
+{
+  "case": "21-W-0354",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "DEC WWPA 3D Lundy, Sage Estates Permit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2B57214-F23E-4A06-990D-0A79DECDDFB6}",
+      "organization": "3D Lundy, Ltd., Saratoga Water Services, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-W-0354",
+      "file_name": "DEC WWPA 3D Lundy, Sage Estates Permit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19025FEA-11DE-4A21-91B4-7FB3345BA69A}",
+      "organization": "3D Lundy, Ltd., Saratoga Water Services, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-W-0354",
+      "file_name": "21-W-0354 220310 Compliance Cover Ltr to Phillips.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/08/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16DA75B1-99DC-49C9-870B-F313AC3BC84F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-W-0354",
+      "file_name": "464_21-W-0354 Neg. Dec._final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/08/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73096AB2-E098-409F-A983-089DF9727E87}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-W-0354",
+      "file_name": "464_21-W-0354 final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/24/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-3D Lundy, Petition to Extend Service Area w Appendix",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDF5F899-85F6-4274-B8E7-A6549B584CD1}",
+      "organization": "3D Lundy, Ltd., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0354",
+      "file_name": "SWS-3D Lundy, Petition to Extend Service Area w Appendix.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/24/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-3D Lundy, Notice of Proposed Rule Making",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={401CDE77-F5AC-4272-87AA-7F9DA62ED868}",
+      "organization": "3D Lundy, Ltd., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0354",
+      "file_name": "SWS-3D Lundy, Notice of Proposed Rule Making.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/24/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-3D Lundy, Ltd. 210624 Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BEE3B9B3-097F-4733-81CF-C318D29881A6}",
+      "organization": "3D Lundy, Ltd., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0354",
+      "file_name": "SWS-3D Lundy, Ltd. 210624 Letter of Transmittal .pdf"
+    }
+  ]
+}

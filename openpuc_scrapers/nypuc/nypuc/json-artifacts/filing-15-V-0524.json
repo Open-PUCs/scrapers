@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0524",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC16AE84-C8BF-47EA-809C-E291F00534B7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0524",
+      "file_name": "663_15V0524.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Camillus, Onondaga County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C8E23DB-52C7-4CA8-A03D-72F0A509EB9C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0524",
+      "file_name": "CAMILLUS, TOWN, RENEWAL DOCS TO PSC, 09.15.15 (1).pdf"
+    }
+  ]
+}

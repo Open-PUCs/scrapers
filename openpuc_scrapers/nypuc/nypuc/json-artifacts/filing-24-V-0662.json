@@ -1,0 +1,49 @@
+{
+  "case": "24-V-0662",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0695093-0000-C729-B5FB-F70EFBA2BA9D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0662",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Liverpool, 11.21.24.AK",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90695093-0000-CA1A-8A78-4F77C0FF6431}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0662",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Liverpool, 11.21.24.AK.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Liverpool -Request for Renewal and Certificate of Confirmation(redacted) 11.21.24 AK",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0695093-0000-C92C-A9F2-475FEF012BEC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0662",
+      "file_name": "Charter Communications, V. Liverpool -Request for Renewal and Certificate of Confirmation(redacted) 11.21.24 AK.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Liverpool -Cover Letter-Request for Renewal and Certificate of Confirmation 11.21.24 AK",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0695093-0000-C84D-9065-D22F31693A4A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0662",
+      "file_name": "Charter Communications, V. Liverpool -Cover Letter-Request for Renewal and Certificate of Confirmation 11.21.24 AK.pdf"
+    }
+  ]
+}

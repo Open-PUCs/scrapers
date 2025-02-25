@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0465",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "HSS - Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0763891-0000-C615-84EE-90FF6015CB29}",
+      "organization": "Horseshoe Solar Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0465",
+      "file_name": "24-E-____ HSS - Short Environmental Assessment Form - 08.09.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "HSS - Section 70 Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0763891-0000-C33D-8996-3AABE10D7891}",
+      "organization": "Horseshoe Solar Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0465",
+      "file_name": "24-E-____ HSS - Section 70 Petition - 08.09.24 FINAL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0763891-0000-CB13-B59B-A57EDCB9E943}",
+      "organization": "Horseshoe Solar Energy LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0465",
+      "file_name": "24-E-____ HSS - Cover Letter encl. Section 70 Petition - 08.09.24 FINAL.pdf"
+    }
+  ]
+}

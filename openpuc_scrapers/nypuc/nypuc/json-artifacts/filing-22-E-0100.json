@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0100",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E71EE683-50FC-49C6-808D-E4A6E266C80D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0100",
+      "file_name": "364_22-E-0100.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "GE JVW-6 - Type Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3751737B-A849-44F6-9A8D-5627440247D1}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "22-E-0100",
+      "file_name": "GE JVW-6 - Type Test Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "GE JVW-6 - National Grid Letter of Intent 02-15-22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B33EC14F-8C11-4A1C-80B8-F449081F2EF3}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "22-E-0100",
+      "file_name": "GE JVW-6 - National Grid Letter of Intent 02-15-22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "GE JVW-6 - Datasheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7A43937-7A85-461F-97C1-342C89DFDE13}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "22-E-0100",
+      "file_name": "GE JVW-6 - Datasheet.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA4C49FC-3542-4D27-8462-A2A4455F5EFF}",
+      "organization": "General Electric",
+      "itemNo": "1",
+      "docket_id": "22-E-0100",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

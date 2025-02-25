@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0145",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Concerning Applicability of Submetering Regulations to a Heating System",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CF438B-0000-C510-90E5-2338FB7844A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-E-0145",
+      "file_name": "393_23-E-0145 101823.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verification of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0E5238A-0000-C611-975A-5E9A302F3D03}",
+      "organization": "West Development B, LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0145",
+      "file_name": "West Development B LLC - Verification of Service.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/05/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "West Development B LLC - Responses to Staff Questions - 7.5.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={907C2689-0000-C513-B36A-058B171E1235}",
+      "organization": "West Development B, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0145",
+      "file_name": "West Development B LLC - Responses to Staff Questions - 7.5.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of West Development B, LLC for a Declaratory Ruling Concerning Whether Use of the Daikin VRV IV Heat Recovery System at 60 Wharf Drive, Brooklyn, NY Would Constitute Electric Submetering and Require Approval Pursuant to Part 96.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E11387-0000-C81D-91B7-D61579FA2D2C}",
+      "organization": "West Development B, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0145",
+      "file_name": "West Development B LLC - Petition for Declaratory Ruling - Final.pdf"
+    }
+  ]
+}

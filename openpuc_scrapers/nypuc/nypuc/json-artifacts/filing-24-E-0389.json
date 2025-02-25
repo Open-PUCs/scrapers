@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0389",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Petition of CCPUSA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60548490-0000-C429-973C-556750BFC4D0}",
+      "organization": "Cayuga County Public Utility Service Agency",
+      "itemNo": "1",
+      "docket_id": "24-E-0389",
+      "file_name": "Verified Petition of CCPUSA.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/05/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0538490-0000-CF1B-8618-D24F4E9F7214}",
+      "organization": "Cayuga County Public Utility Service Agency",
+      "itemNo": "1",
+      "docket_id": "24-E-0389",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

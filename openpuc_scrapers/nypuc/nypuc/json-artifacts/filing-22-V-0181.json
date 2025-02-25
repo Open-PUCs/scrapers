@@ -1,0 +1,71 @@
+{
+  "case": "22-V-0181",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C98EDBC-0746-41B2-9E51-154F9916CDFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0181",
+      "file_name": "663_22-V-0181.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Deerpark Cover Letter Request for Renewal, Certificate Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B17F61F-D843-47D3-A6AE-D581767FDED2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0181",
+      "file_name": "T. Deerpark Cover Letter Request for Renewal, Certificate Confirmation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Deerpark Cover Letter Request for Renewal, Certificate Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24A2DC8E-7317-4EF6-9073-FA1E82115884}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0181",
+      "file_name": "T. Deerpark Cover Letter Request for Renewal, Certificate Confirmation.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6BD8318-9413-460F-9ACA-2B2E780CD243}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0181",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "REDACTED R-2 T DEERPARK PETITION",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFEE1824-64DB-4F92-98DA-7B9DAE8E3BB5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0181",
+      "file_name": "REDACTED R-2 T DEERPARK PETITION.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/30/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request T Deerpark R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6CA8700-C9AE-47AD-9564-234E14BC78AA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0181",
+      "file_name": "Charter Confidential Treatment Request T Deerpark R-2.pdf"
+    }
+  ]
+}

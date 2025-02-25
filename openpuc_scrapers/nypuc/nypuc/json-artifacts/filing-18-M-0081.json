@@ -1,0 +1,82 @@
+{
+  "case": "18-M-0081",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "18-M-0081 Spickerman Response 03262018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF9E7D95-5CD6-40CF-B13D-DCE98F809701}",
+      "organization": "Individual",
+      "itemNo": "7",
+      "docket_id": "18-M-0081",
+      "file_name": "18-M-0081 Spickerman Response 03262018_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "18-M-0081 Rutnick Response 03132018 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B84B8E7C-018F-46AD-B81A-4C2954086414}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "18-M-0081",
+      "file_name": "18-M-0081 Rutnick Response 03132018 Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0081 Nestle Ack Letter 01062018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0864FF50-D81B-4AB0-ABE9-FC4E860E434B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "18-M-0081",
+      "file_name": "18-M-0081 Nestle Ack Letter 01062018_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-M-0081 Nestle Rehearing Request 02022018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50AB181C-62E6-46B9-9E62-2A6A9A87C241}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "18-M-0081",
+      "file_name": "18-M-0081 Nestle Rehearing Request 02022018_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0081 Nestle SMD Final 12292017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15489B30-D315-42D9-8993-D66614172249}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-M-0081",
+      "file_name": "18-M-0081 Nestle SMD Final 12292017_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={912F2988-4B9E-4B61-8C7C-7BD7DDA97C44}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-M-0081",
+      "file_name": "263 Determination.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC0990A8-E65B-42DE-A21E-B849878F0B46}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-M-0081",
+      "file_name": "263 Letter_Redacted.pdf"
+    }
+  ]
+}

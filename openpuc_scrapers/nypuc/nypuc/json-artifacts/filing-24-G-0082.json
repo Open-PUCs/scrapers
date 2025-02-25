@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0082",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240702 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00CCE590-0000-C21A-B4F7-C56462753A76}",
+      "organization": "Team FSI",
+      "itemNo": "3",
+      "docket_id": "24-G-0082",
+      "file_name": "20240702 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={108B5F90-0000-C816-B53C-54846993ED79}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0082",
+      "file_name": "161-A_24-G-0082.pdf"
+    }
+  ]
+}

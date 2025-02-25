@@ -1,0 +1,60 @@
+{
+  "case": "23-M-0150",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Extension of Development Periods Due to the Covid-19 Construction Moratorium",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0172A8B-0000-CD83-A05A-2197A8C5AB6B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-M-0150",
+      "file_name": "266_23-M-0040_101323.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "PioneerBank Letter of Credit No 2018-A-341",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5006DC86-0000-C370-834D-C232E65C8F42}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0150",
+      "file_name": "PioneerBank Letter of Credit No 2018-A-341.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Garrison Projects, LLC for a Year Extension of the 5-Year Agreement Concerning Builder Development Funds.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5006DC86-0000-CD1D-B23E-D6DAF19428A8}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0150",
+      "file_name": "Letter psc 3-13-23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "NatGrid URD Agreement KW Phase 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5006DC86-0000-C451-8595-E57030C38DFE}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0150",
+      "file_name": "NatGrid URD Agreement KW Phase 2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "NatGrid Expiration Letter KW Phase 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5006DC86-0000-C330-A775-D6B1E9DAA627}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0150",
+      "file_name": "NatGrid Expiration Letter KW Phase 2.pdf"
+    }
+  ]
+}

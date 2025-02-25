@@ -1,0 +1,137 @@
+{
+  "case": "21-E-0412",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering ID_Eagle + West",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={506E188A-0000-C512-BAEE-8FFE9C1AE1BD}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "12",
+      "docket_id": "21-E-0412",
+      "file_name": "Submetering ID_Eagle + West (8.21.23).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan 227 West",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA2CB6CA-34B6-4AF3-A7E7-62242E954A71}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "11",
+      "docket_id": "21-E-0412",
+      "file_name": "in-service meter test plan 227 West (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2023",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan 1 Eagle Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D87F838-5E65-4746-BF15-5EB70683F860}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "10",
+      "docket_id": "21-E-0412",
+      "file_name": "in-service meter test plan 1 Eagle test.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/11/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2266732-1AA4-43A2-9980-B66676629823}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "9",
+      "docket_id": "21-E-0412",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59ED8CAC-F225-4880-B996-420A63C38CC8}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "21-E-0412",
+      "file_name": "364_21-E-0412 final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={251ABD6F-7F72-4604-93AA-10528E0F05E6}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "7",
+      "docket_id": "21-E-0412",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "27 Eagle Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B27F1568-6053-4D5F-A417-6BB00A453B97}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "6",
+      "docket_id": "21-E-0412",
+      "file_name": "27 Eagle Street.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "1 Eagle and 227 West Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109432EC-727F-4576-A007-D3ADE57EC523}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0412",
+      "file_name": "1 Eagle and 227 West Street.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/19/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A2216AC-B289-4182-B1DA-16D7B99E4830}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0412",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7FCDDC1-EC5E-4091-A440-D76A81555269}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0412",
+      "file_name": "revised cover letter.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4ADB7FB-AE9C-4A62-8BC0-E72B12EEDA1E}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0412",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "07/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of BOP Greenpoint D LLC to submeter electricity at a building complex located at I Eagle Street, 227 West Street and 27 Eagle Street, Brooklyn, New York 11222.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28059399-778B-48C5-8634-ECE3398359D6}",
+      "organization": "BOP Greenpoint D LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0412",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0052",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Final Filing Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={211011FF-9273-4899-8FC9-83BA70F3975C}",
+      "organization": "8th and C HDFC",
+      "itemNo": "6",
+      "docket_id": "17-E-0052",
+      "file_name": "Final Filing InformationPSC 17-E-0052 on 12.15.17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77572C77-9E40-47D9-BB30-8CE5ED755F4F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0052",
+      "file_name": "363_17-E-0052 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B09492-E03D-44B1-A96C-DDD0D2867010}",
+      "organization": "8th and C HDFC",
+      "itemNo": "4",
+      "docket_id": "17-E-0052",
+      "file_name": "PSC Petition Addendum.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/28/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={549FDAF3-80FD-4012-B8FE-631452561096}",
+      "organization": "Lower East Side People's Mutual Housing Association",
+      "itemNo": "3",
+      "docket_id": "17-E-0052",
+      "file_name": "Response to PSC Questions June 28 2017.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to request for additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7F032D0-EE4B-4891-8ACE-2074EEA65A4B}",
+      "organization": "Lower East Side People's Mutual Housing Association",
+      "itemNo": "2",
+      "docket_id": "17-E-0052",
+      "file_name": "February 14 2017 letter to PSC.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 8th and C HDFC to Submeter Electricity at 334 East 8th Street, New York, New York 10009, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B0B65C0-08B5-44BA-950B-A6E6F71887A3}",
+      "organization": "8th and C HDFC",
+      "itemNo": "1",
+      "docket_id": "17-E-0052",
+      "file_name": "PSC Petition - 334 E8th Street -FINAL 1-20-17.pdf"
+    }
+  ]
+}

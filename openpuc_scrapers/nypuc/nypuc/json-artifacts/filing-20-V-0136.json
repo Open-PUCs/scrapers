@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0136",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC7C635E-412B-4FBD-A167-9D016A35170F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0136",
+      "file_name": "663_20-V-0136 Notice of Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CEBD1A39-B1F6-49F6-A43F-580A2E10C6B1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0136",
+      "file_name": "663_20-V-0136 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "20-V-0136 SEAF Parts 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2146F0A-1300-4E43-9810-45AC21284826}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0136",
+      "file_name": "20-V-0136 SEAF Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for a Certificate of Confirmation for its Franchise with the Village of Franklin, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500C7D04-14AE-4D65-BC0B-85530C97D8AC}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0136",
+      "file_name": "Village of Franklin Cable Franchise Package Emailed to PSC March 17 2020.pdf"
+    }
+  ]
+}

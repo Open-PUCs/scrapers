@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0460",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96748FF9-D797-4E49-AE78-94898B3884C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0460",
+      "file_name": "663_22-V-0460.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D5AA8B3-3914-4393-9292-2F57A42696A2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0460",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/02/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Brighton (Franklin Co.) Letter 08.01.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={399985B2-3B78-4449-BE4D-8522F64975F4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0460",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Brighton (Franklin Co.) Letter 08.01.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/02/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T.Brighton (Franklin Co)-Req for Renewal -Cert.Confirmation 080122 (Redacted) ak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C3EDDC4-7E0F-4957-AE94-F981742C22EA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0460",
+      "file_name": "Charter Communications, T.Brighton (Franklin Co)-Req for Renewal -Cert.Confirmation 080122 (Redacted) ak.PDF"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/02/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Brighton (Franklin Co)-Cover Letter-Request for Renewal and Certificate of Confirmation 08.01.22,ak",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F91E4669-99E0-4F75-B020-873A7895D5A9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0460",
+      "file_name": "Charter Communications, T. Brighton (Franklin Co)-Cover Letter-Request for Renewal and Certificate of Confirmation 08.01.22,ak.pdf"
+    }
+  ]
+}

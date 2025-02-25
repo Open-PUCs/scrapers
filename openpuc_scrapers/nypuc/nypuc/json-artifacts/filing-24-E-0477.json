@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0477",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "NGRID - Trench SVAA Combo CT, PT Letter of Intent 04152024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0935791-0000-C723-AD3C-91625E3B6EF9}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0477",
+      "file_name": "NGRID - Trench SVAA Combo CT, PT Letter of Intent 04152024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0935791-0000-CD30-B838-ED0153D4B2F6}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0477",
+      "file_name": "August 2024 SVAA Request Letter Trench Rev 2.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Clean AIr Combi, SVAA 362 Outline dwg 423300993",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0935791-0000-C611-B5E9-A055D5CB2192}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0477",
+      "file_name": "Clean AIr Combi, SVAA 362 Outline dwg 423300993.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Clean AIr Combi, SVAA 362 Nameplate dwg 423300993",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0935791-0000-C513-9F7A-004C6FCFF477}",
+      "organization": "Trench LTD",
+      "itemNo": "1",
+      "docket_id": "24-E-0477",
+      "file_name": "Clean AIr Combi, SVAA 362 Nameplate dwg 423300993.pdf"
+    }
+  ]
+}

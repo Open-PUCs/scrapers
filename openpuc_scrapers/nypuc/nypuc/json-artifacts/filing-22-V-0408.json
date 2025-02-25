@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0408",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={894F7331-A5D4-4F86-986A-19EB31E5EE9B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0408",
+      "file_name": "663_22-V-0408 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00959 Letter to Building Owner 930 Sheridan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52744C37-6D85-42A0-95B7-BFAB9CFC7442}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0408",
+      "file_name": "22-00959 Letter to Building Owner 930 Sheridan.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 930 Sheridan Avenue, Bronx.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F094DF9D-4841-4217-A3DD-F01C1BE0EEB7}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0408",
+      "file_name": "220504-8 Petition (930 SHERIDAN AV) (Post-Survey).pdf"
+    }
+  ]
+}

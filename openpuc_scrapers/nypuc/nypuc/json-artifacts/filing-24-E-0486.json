@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0486",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Resposne Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7024FD92-0000-CD3D-9142-5A33DEBA00FD}",
+      "organization": "310 East 86th Street Condominium",
+      "itemNo": "2",
+      "docket_id": "24-E-0486",
+      "file_name": "resposne letter 11-5-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Submeter Electricity at the Building Located at 310 East 86th Street.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80FB7591-0000-C832-8323-734D684345FF}",
+      "organization": "310 East 86th Street Condominium",
+      "itemNo": "1",
+      "docket_id": "24-E-0486",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

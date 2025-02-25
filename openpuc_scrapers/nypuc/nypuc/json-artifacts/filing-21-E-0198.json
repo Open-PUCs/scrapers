@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0198",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D50487-0000-C914-9FDE-A11CD84B8BB0}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "21-E-0198",
+      "file_name": "in-service meter test plan3-21-23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18AB8C2B-0332-4E1C-826F-CA0A06E89267}",
+      "organization": "DELSHAH-OTL-START 22 JV LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0198",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/24/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D98A0F3-0C7A-4F0A-938A-89535BD587DD}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0198",
+      "file_name": "363_21-E-0198.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/19/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F611174F-E2D4-46FA-B6AD-D9210ADB0192}",
+      "organization": "DELSHAH-OTL-START 22 JV LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0198",
+      "file_name": "response letter 9-28-21.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 22 Chapel Street, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F43900DC-0D31-4636-BED2-1ABA7A13BFFF}",
+      "organization": "DELSHAH-OTL-START 22 JV LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0198",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DELSHAH-OTL-START 22 JV LLC to Submeter Electricity at 22 Chapel Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E4FB975-9F36-4C54-AD26-106B2B284F80}",
+      "organization": "DELSHAH-OTL-START 22 JV LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0198",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

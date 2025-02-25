@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0677",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDB5448A-D3CF-4D9D-A7A0-7D317B76EB77}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0677",
+      "file_name": "663_16-V-0677.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Portville, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2711EDE6-BDDD-4163-A890-AC8C2BF2C2B7}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0677",
+      "file_name": "111816 PortvilleTn Renewal Submission to PSC.pdf"
+    }
+  ]
+}

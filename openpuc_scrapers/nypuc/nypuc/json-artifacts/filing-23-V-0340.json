@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0340",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={404F238A-0000-CB11-9A55-6E918963686E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0340",
+      "file_name": "661_23-V-0340 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3074E888-0000-C137-BCD8-CFB9B0520E55}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0340",
+      "file_name": "AUSA Newspaper Cover Letter - Asharoken, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Asharoken, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3074E888-0000-CA10-9342-B70B16AF219C}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0340",
+      "file_name": "AUSA Newspaper Affidavit - Asharoken, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7086E388-0000-CD5F-AA79-766A38487C7B}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0340",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Huntington Corporation for Approval of the Renewal of its Franchise with the Village of Asharoken, Suffolk County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7086E388-0000-CE1E-A43B-4E6714D40C8A}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0340",
+      "file_name": "Application Cover Letter - Asharoken, V..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Asharoken, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8086E388-0000-C829-8804-26683C6A1C71}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0340",
+      "file_name": "Exhibit IV - Asharoken, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7086E388-0000-C375-8050-971F95E92473}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0340",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8086E388-0000-C34F-B9C8-794BCDD09C9D}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0340",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7086E388-0000-C934-9CE6-D3AFB09BC7BF}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0340",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "15-G-0694",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6747F902-2AE0-4E5B-8078-B13AE3899C40}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0694",
+      "file_name": "162 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A400CFD-FC84-4745-8AB4-FAA0DF4BEB1F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-G-0694",
+      "file_name": "162 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/01/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1887C677-9D09-4C95-B847-EBC1EF9ACC7C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-G-0694",
+      "file_name": "342720_AckLetter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/30/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={383D614C-39C2-4401-B957-4BE1B1FBA8ED}",
+      "organization": "SCO Family of Services",
+      "itemNo": "2",
+      "docket_id": "15-G-0694",
+      "file_name": "342720 SCO v NGRID - Appeal of Informal Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/30/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A53EE09F-EBF6-4834-9A1A-8400D9F38BB2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-G-0694",
+      "file_name": "342720_IR.pdf"
+    }
+  ]
+}

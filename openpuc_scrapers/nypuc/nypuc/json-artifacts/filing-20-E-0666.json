@@ -1,0 +1,71 @@
+{
+  "case": "20-E-0666",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0F60487-0000-CD15-BB9B-4D1ED29143EF}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "20-E-0666",
+      "file_name": "in-service meter test plan 3-21-23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "compliance letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A4490FC-640C-43F7-8971-E3E1AFD56B53}",
+      "organization": "BSD 685 New York PropCo LLC",
+      "itemNo": "5",
+      "docket_id": "20-E-0666",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36C4BA90-4366-4A35-8B12-3E4C89C9BDB1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0666",
+      "file_name": "366_20-E-0666 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0900573-E5CB-4D61-99A9-518F7708302A}",
+      "organization": "BSD 685 New York PropCo LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0666",
+      "file_name": "response letter 9-8-21.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/08/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5990789-9204-4FBB-A1D3-5EE10F1F44E9}",
+      "organization": "BSD 685 New York PropCo LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0666",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C3469DA-28E8-4B00-90F2-231FA08DC529}",
+      "organization": "BSD 685 New York PropCo LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0666",
+      "file_name": "Submetering Application.pdf"
+    }
+  ]
+}

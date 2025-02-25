@@ -1,0 +1,38 @@
+{
+  "case": "17-C-0295",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36E9E9B5-657C-4C5E-9DC8-35BBE8E1290F}",
+      "organization": "Olympus Holdings II, LLC, West Corporation",
+      "itemNo": "3",
+      "docket_id": "17-C-0295",
+      "file_name": "Notification Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "17-01088.West Corp and Olympus Holdings II.Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={130DC2C6-CD2A-4730-B7C0-7645EC86FFDB}",
+      "organization": "West Corporation",
+      "itemNo": "2",
+      "docket_id": "17-C-0295",
+      "file_name": "17-01088.West Corp and Olympus Holdings II.Transfer.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of West Corporation and Olympus Holdings II, LLC for Permission to Authorize the Transfer of Indirect Control of West Safety Communications Inc. and West Telecom Services, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1895253C-9C95-4198-A05A-3078C06CA6AC}",
+      "organization": "Olympus Holdings II, LLC, West Corporation",
+      "itemNo": "1",
+      "docket_id": "17-C-0295",
+      "file_name": "Petition for Transfer of Indirect Control.pdf"
+    }
+  ]
+}

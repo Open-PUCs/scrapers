@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0392",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Gas Meter Accessory",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63316E7D-57DB-40EB-A094-5563079ACCD8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0392",
+      "file_name": "163_20-G-0392 Order_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated CE Petition Approval of Itron 550G ERT Device for Rockwell Large Capacity Meters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F47E850E-CBD2-4BD2-8696-D72AC55F5A80}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-G-0392",
+      "file_name": "CE Petition Approval of Itron 550G ERT Device for Rockwell Large Capacity Meters_08172020 (002).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. and Orange and Rockland Utilities, Inc. for Approval of Itron 550G ERT Device for Rockwell Large Capacity Meters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B703D0F2-1696-4992-A39A-D828529A2664}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-G-0392",
+      "file_name": "CE Petition Approval of Itron 550G ERT Device for Rockwell Large Capacity Meters_08112020.pdf"
+    }
+  ]
+}

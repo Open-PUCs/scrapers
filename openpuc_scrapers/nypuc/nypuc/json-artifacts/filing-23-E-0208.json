@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0208",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Northland Withdrawal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D04B4E8B-0000-CE1F-8BD0-12DD517767A7}",
+      "organization": "Northland Power New York Wind LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0208",
+      "file_name": "Northland withdrawal letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Responses to DPS Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90ED8E89-0000-C633-B44B-65D07BD1FEE3}",
+      "organization": "Invenergy Wind Development LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0208",
+      "file_name": "23-E-0208 Invenergy - Forward Power LLC & Affiliates - Org Chart - As of Closing - 07.25.23 (Final).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90ED8E89-0000-CC14-B304-C666F638C931}",
+      "organization": "Invenergy Wind Development LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0208",
+      "file_name": "23-E-0208 Invenergy - Letter Response to DPS 07.05.23 Email- 07.25.23 (Final).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Northland Power New York Wind LLC for a Declaratory Ruling Concerning Upstream Ownership Transfer.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B5B387-0000-C23C-83DE-AD250AC59ACD}",
+      "organization": "Northland Power New York Wind LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0208",
+      "file_name": "High Bridge Verified Petition Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B5B387-0000-CE17-80AD-01F20D7180FA}",
+      "organization": "Northland Power New York Wind LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0208",
+      "file_name": "High Bridge Cover Letter.pdf"
+    }
+  ]
+}

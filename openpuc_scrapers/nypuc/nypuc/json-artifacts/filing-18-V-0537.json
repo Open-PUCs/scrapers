@@ -1,0 +1,49 @@
+{
+  "case": "18-V-0537",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0537 18nov17 Public Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7836028-135A-4F97-836F-79D553D300F5}",
+      "organization": "Town of Baldwin",
+      "itemNo": "3",
+      "docket_id": "18-V-0537",
+      "file_name": "18-V-0537 18nov17 Public Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0537 18nov17 Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B0C343E-7468-40E9-B3CA-07BDEFBA8C89}",
+      "organization": "Town of Baldwin",
+      "itemNo": "3",
+      "docket_id": "18-V-0537",
+      "file_name": "18-V-0537 18nov17 Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess granting authorization to the Town of Baldwin and Haefele TV to utilize the AFP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2A4A4AD-ADA0-4F28-87E7-6732ADCE00E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0537",
+      "file_name": "18-V-0537-TownofBaldwin-Supervisor Purvis-VIP Ltr_.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Baldwin, Chemung County for a Waiver of Section 894.4(a) in Order to Expedite and Receive Service from the Haefele TV Inc., d/b/a Haefele Connect.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8147F0D-C342-4C5D-B158-26940AEA3470}",
+      "organization": "Town of Baldwin",
+      "itemNo": "1",
+      "docket_id": "18-V-0537",
+      "file_name": "18aug15 _2 PSC-Burgess App for Waiver, cc Ltrs to Cable Co and Mun.pdf"
+    }
+  ]
+}

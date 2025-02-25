@@ -1,0 +1,82 @@
+{
+  "case": "24-G-0392",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C57091-0000-C918-9C77-7ECADCD88B13}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "24-G-0392",
+      "file_name": "161-B_23-G-0392.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240708 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={709D9390-0000-C513-9087-641AF1CD1A83}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "24-G-0392",
+      "file_name": "20240708 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240625 - Training Documentation - CEP [2 employees]",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={707F4F90-0000-CD12-B9DB-2F02C8C8B9FB}",
+      "organization": "Fairfield Properties Group LLC",
+      "itemNo": "7",
+      "docket_id": "24-G-0392",
+      "file_name": "20240625 - Training Documentation - CEP [2 employees].pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/03/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240424 - Payment ($8,000) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D016408F-0000-C41D-80E5-08D581FB2D38}",
+      "organization": "Fairfield Properties Group LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0392",
+      "file_name": "20240424 - Payment ($8,000) - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240417 - Response to NOPV Letter - Payment Dispute - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7042ED8E-0000-C91E-AA5C-7FADE07DEFBE}",
+      "organization": "Fairfield Properties Group LLC, New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "24-G-0392",
+      "file_name": "20240417 - Response to NOPV Letter - Payment Dispute - Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240328 - Response to Consent Offer Letter - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C00DEC8E-0000-C31C-8007-86B877457842}",
+      "organization": "Fairfield Properties Group LLC",
+      "itemNo": "4",
+      "docket_id": "24-G-0392",
+      "file_name": "20240328 - Response to Consent Offer Letter - Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F35C8E-0000-C93F-B3B0-7F438F35E439}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0392",
+      "file_name": "20240313 - Consent Offer Letter.pdf"
+    }
+  ]
+}

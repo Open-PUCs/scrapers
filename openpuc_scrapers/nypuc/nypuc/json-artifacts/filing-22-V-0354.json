@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0354",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC95ED9C-92A9-456E-A438-A60C15E05D9D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0354",
+      "file_name": "661_22-V-0354.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D026459-56DA-48B5-95D0-C7FA9DB9DE53}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0354",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Amsterdam-6.17.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5618561-F22A-4992-AF35-8A810C094E53}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0354",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Amsterdam-6.17.22 R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Amsterdam Request - for Renewal, Certificate of Confirmation REDACTED 6.17.2022ke",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB16D774-B7B5-4DE6-85F3-7B186F48EFE3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0354",
+      "file_name": "Charter Communications, T. Amsterdam Request - for Renewal, Certificate of Confirmation REDACTED 6.17.2022ke.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Amsterdam Cover Letter Request - for Renewal, Certificate of Confirmation 6.17.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={372EAAAC-C5A6-43CA-9E8E-F2AE8D58FBEF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0354",
+      "file_name": "Charter Communications, T. Amsterdam Cover Letter Request - for Renewal, Certificate of Confirmation 6.17.2022.pdf"
+    }
+  ]
+}

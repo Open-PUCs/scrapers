@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0513",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/24/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3739E049-13E2-410D-AA34-DA4E3F2EDC67}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0513",
+      "file_name": "661_17-V-0513.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Antwerp, County of Jefferson, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA5A2480-AB7A-49E7-B844-0883EA411826}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0513",
+      "file_name": "T Antwerp Charter PSC cable franchise application.pdf"
+    }
+  ]
+}

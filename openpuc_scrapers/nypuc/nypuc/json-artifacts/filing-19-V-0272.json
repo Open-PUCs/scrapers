@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0272",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBE41BA4-6EAC-4BFE-BAAE-3E59925270B2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0272",
+      "file_name": "663_19-V-0272.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/12/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication of Legal Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12D02FCC-44E1-4901-8BC4-07B14B4EF767}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-V-0272",
+      "file_name": "Sagaponack - Legal Notice Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Sagaponack Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78E1F00C-B218-43F9-BD81-462E23934DF5}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0272",
+      "file_name": "Sagaponack Proof of Performance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Sagaponack - Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED7E64DE-740D-4CD4-B851-3A5CE1BA782F}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0272",
+      "file_name": "Sagaponack - Application Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Sagaponack Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E15E267F-5355-4B35-BEDD-D2DEF76C1D5F}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0272",
+      "file_name": "Exhibit IV - Sagaponack Franchise Agreement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Sagaponack Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DDC522D-AB84-4EA4-8FF4-D0F748BED863}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0272",
+      "file_name": "Exhibit III - Sagaponack Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II- Sagaponack Aff of Pub",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA0A3395-270E-440A-B9E6-EB7865851A0F}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0272",
+      "file_name": "Exhibit II- Sagaponack Aff of Pub.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - Sagaopnack R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABBC9487-8F44-48A8-8175-06B60521A128}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0272",
+      "file_name": "Exhibit I - Sagaopnack R-2.pdf"
+    }
+  ]
+}

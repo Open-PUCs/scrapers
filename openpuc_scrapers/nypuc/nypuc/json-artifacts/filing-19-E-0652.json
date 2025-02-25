@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0652",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/15/2020",
+      "nypuc_doctype": "Compliance",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0F2E4C1-B152-44F1-B6F5-F8A2E7A41F3F}",
+      "organization": "611 W 56TH STREET PROPERTY LLC",
+      "itemNo": "7",
+      "docket_id": "19-E-0652",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50ED602C-8114-4F81-852C-B504D97E5CF1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-E-0652",
+      "file_name": "369_19-E-0652 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/17/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18160A55-8E18-4ADE-8991-2D1351733BF9}",
+      "organization": "611 W 56TH STREET PROPERTY LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0652",
+      "file_name": "response letter 3-16-2020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/09/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3E7739C-A940-49B7-A824-AC8912F54A07}",
+      "organization": "611 W 56TH STREET PROPERTY LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0652",
+      "file_name": "response letter 3-9-20.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 611 West 56th Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={338E25F6-26BA-43E8-BD84-E648912C7387}",
+      "organization": "611 W 56TH STREET PROPERTY LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0652",
+      "file_name": "response letter 2-10-20.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to requested information for 611 West 56th Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE2D8C9B-C843-45CC-81BE-9A798A79D219}",
+      "organization": "611 W 56TH STREET PROPERTY LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0652",
+      "file_name": "response letter 2-10-2020.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 611 W 56TH STREET PROPERTY LLC to Submeter Electricity at 611 West 56th Street, New York, New York 10019, Located in the Territory of Consolidated Edison Company, lnc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E91214C5-50EA-4418-B7FD-66D30C7655E1}",
+      "organization": "611 W 56TH STREET PROPERTY LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0652",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

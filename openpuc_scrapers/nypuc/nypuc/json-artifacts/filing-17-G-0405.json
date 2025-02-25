@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0405",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97827F22-6F9B-4ECA-BFEC-3CD0F336953A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0405",
+      "file_name": "169_17-G-0405 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit Letter DDS",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={260DB197-B431-419C-8EFD-DFA7DB2C5BA9}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0405",
+      "file_name": "Affidavit Letter DDS.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/03/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-G-0405",
+      "file_name": ""
+    }
+  ]
+}

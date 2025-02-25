@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0290",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D06B2693-0000-C823-A83B-E831123E334F}",
+      "organization": "185 Chrystie Street LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0290",
+      "file_name": "additonal information.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/26/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Response for the rental apartments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01AF090-0000-CF16-828A-89BE1B01B1A5}",
+      "organization": "185 Chrystie Street LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0290",
+      "file_name": "Letter 7-26-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/10/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EC628F-0000-C31D-A97E-E619A2124BCB}",
+      "organization": "185 Chrystie Street LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0290",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

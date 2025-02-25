@@ -1,0 +1,71 @@
+{
+  "case": "23-G-0416",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Model 6 Prover Delay Letter to the PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8017E791-0000-C61A-8253-FDDDEDD2B605}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-G-0416",
+      "file_name": "Model 6 Prover Delay Letter to the PSC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter of Concern",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0017888C-0000-C516-B4F8-6CF2644E859C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-G-0416",
+      "file_name": "Letter of Concern.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D4888C-0000-CE16-A8E2-C7696CF71DF4}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-G-0416",
+      "file_name": "Cover letter for additional documnetation .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Model 6 Notes and Differences",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6AC89-0000-C8FF-B578-E5C4CB039824}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0416",
+      "file_name": "Model 6 Notes and Differences.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Dresser Model 6 Transfer Prover Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6AC89-0000-C6BC-96C2-C1529A8DBD4F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0416",
+      "file_name": "Dresser Model 6 Transfer Prover Approval Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/31/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Dresser Model 6 Brochure NGS.MI-.0114",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F6AC89-0000-C6D6-BB58-4BB5DDADC9D0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0416",
+      "file_name": "Dresser Model 6 Brochure NGS.MI-.0114.pdf"
+    }
+  ]
+}

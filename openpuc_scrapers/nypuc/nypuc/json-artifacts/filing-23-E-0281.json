@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0281",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Wampus Mills LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6017358C-0000-C11E-A030-497B8E5F5137}",
+      "organization": "Wampus Mills, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0281",
+      "file_name": "Wampus Mills LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5022AE8A-0000-CD17-ACB8-ED338E817C6B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0281",
+      "file_name": "376_23-E-0281.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/08/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Filing - Wampus Mills LLC - 8.8.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C4D689-0000-C51A-B981-12AC6515DDEA}",
+      "organization": "Wampus Mills, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0281",
+      "file_name": "Supplemental Filing - Wampus Mills LLC - 8.8.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Wampus Mills, LLC to Submeter Electricity at 585 Main Street, Armonk, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0204988-0000-CE18-85C4-A0218D9BC42E}",
+      "organization": "Wampus Mills, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0281",
+      "file_name": "The Byram - Submetering Notice of Intent.pdf"
+    }
+  ]
+}

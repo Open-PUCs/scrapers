@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0369",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Liberty SLG - Supplemental Material on Recovery Mechanism",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009C6892-0000-C01C-9F36-8AE1B346C35F}",
+      "organization": "Liberty Utilities (St. Lawrence Gas) Corp.",
+      "itemNo": "2",
+      "docket_id": "24-G-0369",
+      "file_name": "Case 24-G-0369 - Liberty SLG - Supplemental Material on Recovery Mechanism (10.7.24).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309DF38F-0000-C35F-83F1-055BC9900AFF}",
+      "organization": "Liberty Utilities (St. Lawrence Gas) Corp.",
+      "itemNo": "1",
+      "docket_id": "24-G-0369",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Case 24-G-____ - Petition for AMR Implementation and Exhibit - REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={409DF38F-0000-C41E-939E-8E41211DF8C3}",
+      "organization": "Liberty Utilities (St. Lawrence Gas) Corp.",
+      "itemNo": "1",
+      "docket_id": "24-G-0369",
+      "file_name": "Case 24-G-____ - Petition for AMR Implementation and Exhibit - REDACTED.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 24-G-____ - Petition for AMR Implementation - Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={409DF38F-0000-C735-A0F1-FD935908E4C0}",
+      "organization": "Liberty Utilities (St. Lawrence Gas) Corp.",
+      "itemNo": "1",
+      "docket_id": "24-G-0369",
+      "file_name": "Case 24-G-____ - Petition for AMR Implementation - Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/07/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Case 24-G-____ - Liberty SLG - RFP - Petition for AMR Recovery",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309DF38F-0000-CC13-B4F4-108197409A4C}",
+      "organization": "Liberty Utilities (St. Lawrence Gas) Corp.",
+      "itemNo": "1",
+      "docket_id": "24-G-0369",
+      "file_name": "Case 24-G-____ - Liberty SLG - RFP - Petition for AMR Recovery.pdf"
+    }
+  ]
+}

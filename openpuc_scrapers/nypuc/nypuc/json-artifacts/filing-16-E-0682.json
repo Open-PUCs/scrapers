@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0682",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72DB32BF-1E62-4DF3-9059-7A7253270A6F}",
+      "organization": "33 Bond Street LLC",
+      "itemNo": "6",
+      "docket_id": "16-E-0682",
+      "file_name": "letter 9-28-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={095EDEDE-30E7-4BF7-A1C3-255CA9474375}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0682",
+      "file_name": "363_16-E-0682.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/03/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4EC983F3-A90C-4FD1-B45E-D35282119C54}",
+      "organization": "33 Bond Street LLC",
+      "itemNo": "4",
+      "docket_id": "16-E-0682",
+      "file_name": "response letter 5-3-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Incorporation Papers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F3D0CBB-A08D-4AA1-B071-D897046E403C}",
+      "organization": "33 Bond St. LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0682",
+      "file_name": "letter 12-13-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/06/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Energy Audit Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B2E5AFD-7031-4C40-9897-A8D8ACBC7951}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "16-E-0682",
+      "file_name": "letter 12-5-16.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/23/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 33 Bond St. LLC, to Submeter Electricity at the Building Located at 33 Bond Street, Brooklyn, NY 11201 Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61316AE2-996D-44D4-89A0-4B68959109EE}",
+      "organization": "33 Bond St. LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0682",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

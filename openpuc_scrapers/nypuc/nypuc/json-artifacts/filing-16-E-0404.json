@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0404",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8496E058-11F8-4DC6-9D50-80F6B99B6B54}",
+      "organization": "212 Fifth Avenue Venture LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0404",
+      "file_name": "Case_16-E-0404_Letter_to_Secretary_filing_updated_submetering_documents.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "212_Fifth_Avnue_Updated_Submetering_ID_Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E007AE3F-4235-4B24-8296-F4B77D8697BB}",
+      "organization": "212 Fifth Avenue Venture LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0404",
+      "file_name": "212_Fifth_Avnue_Updated_Submetering_ID_Form.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "212_Fifth_Avenue_Updated_HEFPA_Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0DDCCFE8-C47D-486E-B9DD-B5510D95F7E3}",
+      "organization": "212 Fifth Avenue Venture LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0404",
+      "file_name": "212_Fifth_Avenue_Updated_HEFPA_Plan.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "212 Fifth Ave._Resolution and Adopted Rule and Regulation Regarding Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A22243E-64BA-4C48-9460-042A1B104B79}",
+      "organization": "212 Fifth Avenue Venture LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0404",
+      "file_name": "212 Fifth Ave._Resolution and Adopted Rule and Regulation Regarding Submetering.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "212 Fifth Ave._Resolution and Adopted Rule and Regulation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91A2D8FF-D5E2-4BEB-B5EE-1C1C0F5019EA}",
+      "organization": "212 Fifth Avenue Venture LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0404",
+      "file_name": "212 Fifth Ave._Resolution and Adopted Rule and Regulation.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90850B14-384E-449C-9535-B4B1261F1BE5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0404",
+      "file_name": "373_16-E-0404.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/20/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 212 Fifth Avenue Venture LLC to Sub-Meter Electricity at a Building Located at 212 Fifth Avenue, New York, NY 10010.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6015C09-7AF8-4638-AFDA-A8F6D5185F74}",
+      "organization": "212 Fifth Avenue Venture LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0404",
+      "file_name": "submetering application 7-19-16.pdf"
+    }
+  ]
+}

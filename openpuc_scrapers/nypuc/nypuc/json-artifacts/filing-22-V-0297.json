@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0297",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF8A13DC-FC8C-4DC4-B1E6-BD4EF1007041}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0297",
+      "file_name": "662_22-V-0297.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4148031F-E9D8-464E-A5DA-301462854963}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0297",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "2022.05.17 - Spectrum Northeast, LLC, T.Liberty FA (22-V-0297) signature page redac",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA094A2F-999E-4BAE-8419-1885C983EC7A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0297",
+      "file_name": "2022.05.17 - Spectrum Northeast, LLC, T.Liberty FA (22-V-0297) signature page redac.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2022.05.17 - Spectrum Northeast, LLC, T. Liberty FA (22-V-0297) Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95C9145B-2D85-42DB-BD9D-38FD21FD411A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0297",
+      "file_name": "2022.05.17 - Spectrum Northeast, LLC, T. Liberty FA (22-V-0297) Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/16/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B5F1308-0E27-4ECE-B876-94078FA5466C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0297",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/16/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Liberty Letter R-2 05.13.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3EA4921-9230-4DB1-A310-BCE3183F903A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0297",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Liberty Letter R-2 05.13.22.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "2022.05.13 Charter Communications Request for Certificate of Confirmation T. Liberty (redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={787BA7E6-EB68-4532-BAA2-40EF1F7F314D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0297",
+      "file_name": "2022.05.13 Charter Communications Request for Certificate of Confirmation T. Liberty (redacted).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/16/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "2022.05.13 Charter Communications Request for Certificate of Confirmation T. Liberty (cvr ltr)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EE8F99C-2703-4733-B1D6-6D27FEAE0CE5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0297",
+      "file_name": "2022.05.13 Charter Communications Request for Certificate of Confirmation T. Liberty (cvr ltr).pdf"
+    }
+  ]
+}

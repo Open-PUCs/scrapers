@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0009",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC10D0B8-0F47-4ADF-A29C-B5E566E6D98C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-G-0009",
+      "file_name": "161_16g0009.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "The Brooklyn Union Gas Company",
+      "itemNo": "1",
+      "docket_id": "16-G-0009",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0032",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "21-E-0032 Regno Rehearing Request 01022021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3CD15743-D0D0-4886-BBDC-85A5A1722988}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "21-E-0032",
+      "file_name": "21-E-0032 Regno Rehearing Request 01022021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-E-0032 Regno SMD Final 12222020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAB69754-CCF3-45CB-B703-EF16AD613E56}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-E-0032",
+      "file_name": "21-E-0032 Regno SMD Final 12222020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E1930F4-4799-4100-A457-8E1AA9EEA666}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0032",
+      "file_name": "367 Letter_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-V-0652",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30164693-0000-CE55-A5CA-F2D4416DF296}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0652",
+      "file_name": "Case 24-V-0652 - Patterson and Comcast Franchise Renewal - Cover Letter to RAO.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 24-V-0652 - Patterson and Comcast Franchise Renewal - Cover Letter for Original Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40164693-0000-C51B-A2B9-8295EEAB510F}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0652",
+      "file_name": "Case 24-V-0652 - Patterson and Comcast Franchise Renewal - Cover Letter for Original Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast of NY for Renewal of Franchise with Town of Patterson",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10DC4093-0000-CB5B-B61D-BC36A2B4B9BA}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0652",
+      "file_name": "Application of Comcast of NY for Renewal of Franchise with Town of Patterson.pdf"
+    }
+  ]
+}

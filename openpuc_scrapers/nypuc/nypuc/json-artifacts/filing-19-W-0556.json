@@ -1,0 +1,60 @@
+{
+  "case": "19-W-0556",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instructing Staff to Commence Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6040A46-6D36-47DE-B274-4C424E353274}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-W-0556",
+      "file_name": "462_19-W-0556.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/06/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request to Sell Companies",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={633D01BE-F3D8-402B-8ABC-8738E05C35A7}",
+      "organization": "Arbor Hills Waterworks,Inc., Boniville Water Company,Inc., Knolls Water Co., Inc.",
+      "itemNo": "4",
+      "docket_id": "19-W-0556",
+      "file_name": "AS.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A55EB878-CBB3-4D46-8AFC-3F04B99BFFD6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-W-0556",
+      "file_name": "19-W-0556-Arbor HillsWaterworkset al.-Extension Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/17/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={667E47CB-7723-48AF-9A4B-2996F2377886}",
+      "organization": "Arbor Hills Waterworks,Inc., Boniville Water Company,Inc., Knolls Water Co., Inc.",
+      "itemNo": "2",
+      "docket_id": "19-W-0556",
+      "file_name": "Request for an Extension of Time.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B8F0130-0B31-4560-AE77-C356F9D33B59}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-W-0556",
+      "file_name": "461_19-W-0556.pdf"
+    }
+  ]
+}

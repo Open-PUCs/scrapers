@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0087",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BBD63F3-136F-4A80-9445-41767194E5E4}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "21-G-0087",
+      "file_name": "165-C_21-G-0087 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79678FB1-C673-4AFD-8154-F6C009C4BEAF}",
+      "organization": "Bast Hatfield Construction, LLC",
+      "itemNo": "6",
+      "docket_id": "21-G-0087",
+      "file_name": "Petition for rehearing with exhibits and cover letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/25/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1D83E14-F404-4386-8D71-9DEF671D673E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-G-0087",
+      "file_name": "168-A_21-G-0087.pdf"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "case": "19-V-0361",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D86E49BD-BD17-40A1-8339-70302C55FF14}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0361",
+      "file_name": "661_19-V-0361.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Babylon Resolution Certified",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7C602BD-940E-4A3A-AB9D-034A80E6847E}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "3",
+      "docket_id": "19-V-0361",
+      "file_name": "Exhibit III - Babylon Resolution Certified.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Babylon - Newspaper Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4DFF955-F260-44CE-8FE8-DFB1E0124709}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "2",
+      "docket_id": "19-V-0361",
+      "file_name": "Babylon - Newspaper Affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Suffolk Corporation for Approval of the Renewal of its Franchise with the Town of Babylon, Suffolk County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44D03129-3D51-4A2E-8C5B-296E7BAB305C}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0361",
+      "file_name": "Babylon - Application Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV -Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0FEF3C5-5321-40DB-9164-C3F6C7945FAD}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0361",
+      "file_name": "Exhibit IV -Franchise Agreement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Babylon Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A24BB57D-CB48-4F8C-AF95-3A84264F84CE}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0361",
+      "file_name": "Exhibit III - Babylon Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Babylon Aff of Pub",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB1F4716-0EAD-4468-B395-7452C9E78087}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0361",
+      "file_name": "Exhibit II - Babylon Aff of Pub.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I- R2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60774D9F-6C08-4EFC-85D6-BD5457FD5EF0}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0361",
+      "file_name": "Exhibit I- R2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/08/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Babylon Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38B3FDDE-AC0A-4ABA-BDB0-F72943377C1F}",
+      "organization": "Cablevision Systems Suffolk Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0361",
+      "file_name": "Babylon Proof of Performance.pdf"
+    }
+  ]
+}

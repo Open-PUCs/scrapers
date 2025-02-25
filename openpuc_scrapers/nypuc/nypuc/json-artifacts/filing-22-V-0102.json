@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0102",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DEB571A-FC66-4DFA-8378-AF7775F9BB0A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0102",
+      "file_name": "662_22-V-0102 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02045 Letter to Building Owner 10.13.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EBC777D-4D67-4E37-B7E2-46374D4FFA6F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0102",
+      "file_name": "21-02045 Letter to Building Owner 10.13.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 58 Orchard Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={921FEA07-7C9E-4E5C-8274-1A4EB1F13BC9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0102",
+      "file_name": "12-210923 Petition (58 ORCHARD ST) (Complete).pdf"
+    }
+  ]
+}

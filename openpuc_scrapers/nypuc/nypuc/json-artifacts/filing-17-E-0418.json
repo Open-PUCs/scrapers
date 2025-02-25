@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0418",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/12/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95D2A910-24D0-42D8-974B-54028C526B0A}",
+      "organization": "Site 1 DSA Owner LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0418",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B57283FA-86A8-457F-A537-9457AC5DBCDC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0418",
+      "file_name": "366_17-E-0418.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE83A61F-2745-4D55-ACBA-6B56587F375B}",
+      "organization": "Site 1 DSA Owner LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0418",
+      "file_name": "response letter 11-1-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B5A742F-5C4A-4E7B-B864-86F35C535C7E}",
+      "organization": "Site 1 DSA Owner LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0418",
+      "file_name": "response letter 7-21.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Site 1 DSA Owner LLC to Submeter Electricity at 242 Broome Street, New York, NY Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B8516FD-06F6-4860-90AB-969196BCD148}",
+      "organization": "Site 1 DSA Owner LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0418",
+      "file_name": "submetering application 7-13-17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0814",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D445FDE7-090D-4074-96C8-C630863EFC11}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0814",
+      "file_name": "303_17-E-0814.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/02/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of NYSERDA",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF50C82F-A59E-4900-B5CD-95183C47C1CF}",
+      "organization": "New York State Energy Research and Development Authority",
+      "itemNo": "4",
+      "docket_id": "17-E-0814",
+      "file_name": "Case 17E0814.Con Ed EV BIR.NYSERDA Comments.2 April 2018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/02/2018",
+      "nypuc_doctype": "Comments",
+      "name": "CPA Comments on BIR for EV Quick Charging",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88F58864-E9E0-4D87-9066-91DA7409431C}",
+      "organization": "Consumer Power Advocates",
+      "itemNo": "3",
+      "docket_id": "17-E-0814",
+      "file_name": "CPA Comments on BIR for EV Quick Charging.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/12/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48324CC1-73B4-42C4-A644-FC61EE69FA27}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0814",
+      "file_name": "CE Elec EV BIR legal notice 2018 0208.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/28/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-E-0814",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "15-E-0449",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/05/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Joint Utility Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7B45F65-4B4A-40DF-8135-3378FC30C2F5}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "15-E-0449",
+      "file_name": "Joint Utility Comments.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/04/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "MCPLUS PSC Amended Petition for CCA_080415",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DF66FD7-0307-4CA6-B973-1EC18F30EF82}",
+      "organization": "Madison County Public Utility Service",
+      "itemNo": "2",
+      "docket_id": "15-E-0449",
+      "file_name": "MCPLUS PSC Amended Petition for CCA_080415.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/04/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "MCPLUS Cover Letter_080415",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={750C1A44-B096-4813-BB98-0D69494D3351}",
+      "organization": "Madison County Public Utility Service",
+      "itemNo": "2",
+      "docket_id": "15-E-0449",
+      "file_name": "MCPLUS Cover Letter_080415.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Madison County Public Utility Service Regarding a Proposed Community Net Metering Program and For Certain Relief Related to Implementation of the Program.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1484FBD9-6365-47A1-92C9-97C5FEF54BC6}",
+      "organization": "Madison County Public Utility Service",
+      "itemNo": "1",
+      "docket_id": "15-E-0449",
+      "file_name": "MCPLUS PSC Petition for CNM_072115.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/21/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={714BEBEC-CD02-4081-B852-EF3E88D8EF1E}",
+      "organization": "Madison County Public Utility Service",
+      "itemNo": "1",
+      "docket_id": "15-E-0449",
+      "file_name": "MCPLUS Cover Letter_072115.pdf"
+    }
+  ]
+}

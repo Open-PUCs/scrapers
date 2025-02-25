@@ -1,0 +1,71 @@
+{
+  "case": "20-E-0148",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107A43B1-FDE1-4F44-B6AD-CA41D3FFA04A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0148",
+      "file_name": "362_20-E-0148 letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50384608-F83C-4D18-B511-E5AC5F1375FB}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-E-0148",
+      "file_name": "Con Edison Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/30/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18955F26-BBBC-4298-89AD-7F05D2D2C7FA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-E-0148",
+      "file_name": "010924 Orin Management.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0289B3D-109F-4D21-945C-E53F5195CA3E}",
+      "organization": "Orin Management Corp.",
+      "itemNo": "2",
+      "docket_id": "20-E-0148",
+      "file_name": "Appeal 010924.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/30/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={714A98D7-D0D0-435D-8673-39B3536CF51A}",
+      "organization": "Orin Management Corp.",
+      "itemNo": "2",
+      "docket_id": "20-E-0148",
+      "file_name": "Appeal 010924 Cover.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/30/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D476D2F8-ADE6-4806-8E0A-3D178619BCB6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-E-0148",
+      "file_name": "IR 010924.pdf"
+    }
+  ]
+}

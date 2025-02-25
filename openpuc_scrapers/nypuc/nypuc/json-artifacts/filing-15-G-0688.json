@@ -1,0 +1,49 @@
+{
+  "case": "15-G-0688",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Errata Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F5A0E84-E116-48B7-96CB-F70A23DFB71B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-G-0688",
+      "file_name": "15G0688 DecRul Errata final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/22/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89737782-464E-4AEB-BB2D-D206A77B41AB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-G-0688",
+      "file_name": "374_15g0688.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/20/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC2F5AA6-4500-4006-8A8D-3452FAAB9688}",
+      "organization": "DMP New York, Inc., Energy Transfer Corp LP, Energy Transfer Equity, L.P., The Williams Companies, Inc., Williams Field Services Company, LLC",
+      "itemNo": "1",
+      "docket_id": "15-G-0688",
+      "file_name": "SEAF.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/20/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Williams Field Services Company, LLC, DMP New York, Inc., The Williams Companies, Inc., Energy Transfer Equity, L.P. and Energy Transfer Corp LP for a Declaratory Ruling, or, Alternatively, an Approval Pursuant to Section 70 of the New York Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07BA347-5896-48BD-BFF0-604E82DCE19B}",
+      "organization": "DMP New York, Inc., Energy Transfer Corp LP, Energy Transfer Equity, L.P., The Williams Companies, Inc., Williams Field Services Company, LLC",
+      "itemNo": "1",
+      "docket_id": "15-G-0688",
+      "file_name": "Final TWC-ETC Section 70 Petition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "19-E-0585",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B55EBF9-4829-4406-9668-67095D550B73}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0585",
+      "file_name": "366_19-E-0585.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/11/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-E-0585",
+      "file_name": ""
+    }
+  ]
+}

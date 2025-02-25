@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0069",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F64D5121-353B-475C-A964-0BA7BB928000}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0069",
+      "file_name": "369_16-E-0069 Letter_No Redact.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/10/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Ack Letter APL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93D6F147-44BB-48F7-831D-E152703B8334}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0069",
+      "file_name": "Ack Letter APL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Case #524302 Teardrops of Elegance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D74C3D48-EB77-4343-BC66-665532CCF5B0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-E-0069",
+      "file_name": "Case #524302 Teardrops of Elegance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/08/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "TDE_Appeal_Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D416A163-684B-4705-A49D-93BBA4A50BFA}",
+      "organization": "Teardrops of Elegance",
+      "itemNo": "1",
+      "docket_id": "16-E-0069",
+      "file_name": "TDE_Appeal_Petition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "19-C-0501",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E235BD5C-71CB-4DF1-AF1D-A13B2679D088}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-C-0501",
+      "file_name": "561 19-C-0501 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={283A53C5-0F6A-4BAD-A6FF-6C3699765561}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-C-0501",
+      "file_name": "821682 Eisner-Sholom - Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={350CE22B-52F0-4821-92BA-A7150E6D0EF0}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-C-0501",
+      "file_name": "Appeal of the Informal Hearing Decision - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F533C65A-37BF-42DC-B2A5-0E23B9C8E96A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-C-0501",
+      "file_name": "Informal Hearing Decision - Redacted.pdf"
+    }
+  ]
+}

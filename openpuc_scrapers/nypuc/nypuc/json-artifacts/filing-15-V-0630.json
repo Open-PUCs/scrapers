@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0630",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EA5963B-45AB-4E9F-B615-5AE3F12C59C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0630",
+      "file_name": "661_15v0630.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of St. Johnsville, Montgomery County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9972D9C-9512-4284-8475-BE28BDEBB2EF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0630",
+      "file_name": "St. John.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "19-G-0324",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/30/2020",
+      "nypuc_doctype": "Affidavit of Service",
+      "name": "20190621 Final Order Service Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED88BC65-58DE-4C55-803A-11291F1BF1AE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-G-0324",
+      "file_name": "20190621 Final Order Service Affidavit.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF43D22A-21E8-4D8E-BD6C-5C1F713BEB51}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-G-0324",
+      "file_name": "164-C_19-G-0324.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={943B2DC0-14D4-4BB9-B7AB-C0DC9D11FA8F}",
+      "organization": "5 L Enterprises, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-G-0324",
+      "file_name": "20190724 Response to Final Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CCD988B-184A-479B-B55F-FC7EDB9A5D3F}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0324",
+      "file_name": "162-A_19-G-0324.pdf"
+    }
+  ]
+}

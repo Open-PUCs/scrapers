@@ -1,0 +1,27 @@
+{
+  "case": "17-M-0419",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Amending Residential Bill Estimation Procedures for Customers With Advanced Metering Infrastructure Meters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={395C0C8E-B73C-4FBF-A424-CD82EF79EBEA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-M-0419",
+      "file_name": "265_17-M-0419 and 17-M-0520.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Orange and Rockland Utilities, Inc. Procedure for Bill Estimation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB65728C-9619-4245-B38C-BF97C57A86D3}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-M-0419",
+      "file_name": "OR AMI Estimation Complete Filing.pdf"
+    }
+  ]
+}

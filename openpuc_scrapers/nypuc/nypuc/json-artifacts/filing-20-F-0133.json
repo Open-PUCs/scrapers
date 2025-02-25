@@ -1,0 +1,93 @@
+{
+  "case": "20-F-0133",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Seneca County Manager Mitch Rowe Regarding Ad Hoc Nominations Process",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EDCE917-BCC1-4AD2-A480-CC3D08557BA8}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "6",
+      "docket_id": "20-F-0133",
+      "file_name": "20-F-0133-North Park Energy-Seneca County Mgr. Rowe-EWL.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Varick Town Supervisor Bob Hayssen Regarding Ad Hoc Nominations Process",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6922C746-7788-45B9-957B-0C96D922960B}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "5",
+      "docket_id": "20-F-0133",
+      "file_name": "20-F-0133-North Park Energy-Varick Town Supervisor Hayssen-EWL.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Romulus Town Supervisor David Hayes Regarding Ad Hoc Nominations Process",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01EE00B5-B832-471A-A12C-375CAA610EAC}",
+      "organization": "New York State Board on Electric Generation Siting and the Environment",
+      "itemNo": "4",
+      "docket_id": "20-F-0133",
+      "file_name": "20-F-0133-North Park Energy-Romulus Town Supervisor Hayes-EWL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Public Involvement Program Plan and Response to DPS Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE061699-B05E-444F-80B3-A1C8D4CB9731}",
+      "organization": "NextEra Energy Resources, LLC",
+      "itemNo": "3",
+      "docket_id": "20-F-0133",
+      "file_name": "Case 20-F-0133_Declaration Energy Center_PIP Plan_05.19.2020.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/19/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Declaration Comment Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88150A41-D19A-4214-AE55-D0674D340C48}",
+      "organization": "NextEra Energy Resources, LLC",
+      "itemNo": "3",
+      "docket_id": "20-F-0133",
+      "file_name": "Case 20-F-0133_Declaration Comment Response Letter_05.19.2020.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/16/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "North Park Energy - DPS Staff PIP Plan Recommendations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7964872-0EC8-48E2-BF0B-254883A2FF89}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-F-0133",
+      "file_name": "Case 20-F-0133 - North Park Energy - DPS Staff PIP Plan Recommendations.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/17/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Public Involvement Program Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66569D12-7524-42F6-9744-A3775060CA9F}",
+      "organization": "North Park Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "20-F-0133",
+      "file_name": "Declaration Energy Center_Preliminary PIP Plan_03-17-2020.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/17/2020",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F358ECBC-4C01-45F7-93DD-4E99DFD4D21F}",
+      "organization": "North Park Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "20-F-0133",
+      "file_name": "Declaration_PIP Cover Letter_03-17-2020.pdf"
+    }
+  ]
+}

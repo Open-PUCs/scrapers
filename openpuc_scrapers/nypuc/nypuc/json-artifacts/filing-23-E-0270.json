@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0270",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Emek Elektrik for Approval of Medium Voltage and High Voltage Metering Class Instrument Transformers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02F2A88-0000-CC13-9D7F-8B76CC1F9BDB}",
+      "organization": "Emek Elektrik",
+      "itemNo": "1",
+      "docket_id": "23-E-0270",
+      "file_name": "NY PSC Request Letter (Emek Elektrik).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "EMEK Presentation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D02F2A88-0000-CA1D-9EE5-96A6400C657B}",
+      "organization": "Emek Elektrik",
+      "itemNo": "1",
+      "docket_id": "23-E-0270",
+      "file_name": "EMEK Presentation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Avangrid Instrument Transformers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02F2A88-0000-CB32-87F1-FA72C080128D}",
+      "organization": "Emek Elektrik",
+      "itemNo": "1",
+      "docket_id": "23-E-0270",
+      "file_name": "Avangrid_Instrument Transformers.pdf"
+    }
+  ]
+}

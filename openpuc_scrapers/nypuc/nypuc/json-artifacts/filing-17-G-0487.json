@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0487",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D894886D-2AA2-4F82-890E-146131090E32}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0487",
+      "file_name": "161A_17g0487 - 12.26.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/04/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Regarding Probable Violation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9048F143-54A1-483D-8317-E7749D8B1ECA}",
+      "organization": "L.L.L. Industries Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0487",
+      "file_name": "Letter Regarding Probable Violation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/25/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECCD9287-0181-4198-BE81-470EA9020E8B}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0487",
+      "file_name": "164_17g0487.pdf"
+    }
+  ]
+}

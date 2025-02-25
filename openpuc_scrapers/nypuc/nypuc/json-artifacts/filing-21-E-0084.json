@@ -1,0 +1,104 @@
+{
+  "case": "21-E-0084",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Reports",
+      "name": "National Grid Transformer Losses Billing System Modifications Compliance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C365E7CB-AAC4-41A9-816E-9776F6B19056}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "21-E-0084",
+      "file_name": "Case 21-E-0084 National Grid Transformer Losses Billing System Modifications Compliance Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C5DCD6C-0BB9-464A-85B9-CF568576DA5B}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0084",
+      "file_name": "Case 21-E-0084 National Grid Compliance Plan Filing Letter_Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={042D7C9C-8AC7-4747-800C-438F2424B019}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "21-E-0084",
+      "file_name": "Transformer Losses Compliance Plan and Attachment _Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/23/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "21-E-0084",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FA75E07-9077-4DF4-ABE8-537462F73BCC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0084",
+      "file_name": "389 - 21-E-0084 - NMPC Transformer Tariff Order final.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Comments",
+      "name": "National Grid Reply Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA8959E3-A98F-456A-A0F8-535F73C555FA}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "21-E-0084",
+      "file_name": "Case 21-E-0084 - National Grid Reply Comments.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/30/2021",
+      "nypuc_doctype": "Comments",
+      "name": "DSD - Comment on National Grid Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE26F882-199B-4209-85D0-6CFEFD39EE77}",
+      "organization": "Distributed Solar Development, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0084",
+      "file_name": "DSD - Comment on National Grid Petition.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/30/2021",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3B5E9006-E86F-499C-B19D-664B1EFE0E5A}",
+      "organization": "Distributed Solar Development, LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0084",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval to Amend Electricity Tariff for Billing of Transformer Losses",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CF19EC7-940E-42D9-87E5-E19627D4ED42}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0084",
+      "file_name": "Case 21-E-____ National Grid Petition for Approval to Amend Electricity Tariff for Billing of Transformer Losses.pdf"
+    }
+  ]
+}

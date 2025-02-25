@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0104",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Clarkstown",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DC62FCC-F581-4F04-8D2F-92656B81BB4B}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0104",
+      "file_name": "Response to Clarkstown .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/12/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter - Response to Clarkstown Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2507782-B7EA-4476-9E85-1A713464A021}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0104",
+      "file_name": "Cover Letter - Response to Clarkstown Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for a Declaratory Ruling on the Valuation of the Underground Fed Street Lights in the Town of Clarkstown Pursuant to Orange & Rockland Utilities' SC-6 Tariff and Petition for Approval Pursuant to Section 70 of the PSL to Transfer Underground Fed Streetlights to the Town of Clarkstown",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DB17B17-38A1-4B1E-9CA5-71CCB97F3075}",
+      "organization": "Orange and Rockland Utilities, Inc., Town of Clarkstown",
+      "itemNo": "1",
+      "docket_id": "20-E-0104",
+      "file_name": "Clarkstown Val Pet Trans Ltr.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Clarkstown Valuation and Section 70 Petitions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5850B56D-3611-4ED3-9E7F-8A4609D95225}",
+      "organization": "Orange and Rockland Utilities, Inc., Town of Clarkstown",
+      "itemNo": "1",
+      "docket_id": "20-E-0104",
+      "file_name": "Clarkstown Valuation and Section 70 Petitions.pdf"
+    }
+  ]
+}

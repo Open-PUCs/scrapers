@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0388",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACB2EFD6-6E29-47EB-85A5-CAC9B7B7688D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0388",
+      "file_name": "663_19-V-0388.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AC5570B-141D-43D2-B31F-D9F3DFDD3970}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0388",
+      "file_name": "17-02672 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 43-09 40th Street, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78F7E77E-8A8B-4BAB-BA56-E216AE2195A9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0388",
+      "file_name": "Petition (43-09 40 St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C54FBB8-3581-4E25-8388-22D745CFC14A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0388",
+      "file_name": "Exhibit 2 (43-09 40 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AA1CFA7-1C98-4D31-9FEE-ED554E279CBB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0388",
+      "file_name": "Exhibit 1 (43-09 40 St).pdf"
+    }
+  ]
+}

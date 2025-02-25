@@ -1,0 +1,38 @@
+{
+  "case": "24-V-0231",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/01/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00000F91-0000-C71E-8DF7-528878765B76}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0231",
+      "file_name": "662_24-V-0231.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication and Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0DCCF8F-0000-CE13-945A-8795FDB75365}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "24-V-0231",
+      "file_name": "Case No. 24-V-0231 Town of Roxbury Franchise Renewal - Exhibit 7 Addition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Heart of the Catskills Communications, Inc. dba MTC Cable for Approval of the Renewal of its Franchise with the Town of Roxbury, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209CE88E-0000-CD1D-AE49-D28F60187909}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "24-V-0231",
+      "file_name": "4-16-2024 Heart of the Catskills Communications Inc dba MTC Cable Town of Roxbury Franchise Renewal.pdf"
+    }
+  ]
+}

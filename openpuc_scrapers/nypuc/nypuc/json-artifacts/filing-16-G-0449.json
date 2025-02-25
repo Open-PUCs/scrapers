@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0449",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/11/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Order dated September, 26, 2016",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1ABBF253-60B6-457B-B33B-BFF3E313916E}",
+      "organization": "Irwin Contracting, Inc",
+      "itemNo": "2",
+      "docket_id": "16-G-0449",
+      "file_name": "Response to Order dated September, 26, 2016.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF016421-967B-4C13-89C7-B0B8373636ED}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0449",
+      "file_name": "163_16g0449.pdf"
+    }
+  ]
+}

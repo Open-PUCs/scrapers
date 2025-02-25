@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0671",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1404BD35-56BC-4E7B-92D1-5C63CC49E064}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "22-V-0671",
+      "file_name": "661_22-V-0671.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00953 Letter to Building Owner Offering Facilitation 129 Ridge St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F343D54-E66F-41D5-BD0C-6571F67E87AA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "22-V-0671",
+      "file_name": "22-00953 Letter to Building Owner Offering Facilitation 129 Ridge.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C81D28A5-0CE1-48E0-920F-D8F1A5673720}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0671",
+      "file_name": "221020_22-00953_129 RIDGE ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={234C798D-D7CB-4C28-8CF5-32CA6302CCF9}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0671",
+      "file_name": "220920_22-00953_129 RIDGE ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/19/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92C1A456-BCF3-41CF-B100-04A0D150FFC6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0671",
+      "file_name": "220819_22-00953_129 RIDGE ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00953 Letter to Verizon Cooperation 129 Ridge St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E9908EB0-4743-48C8-B32D-A91C8122DD3A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0671",
+      "file_name": "22-00953 Letter to Verizon Cooperation 129 Ridge St - final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00953 Letter to Building Owner 129 Ridge St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BED961E-9EA0-4150-B3C7-069EA424ADC0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0671",
+      "file_name": "22-00953 Letter to Building Owner 129 Ridge St.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 129 Ridge Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7024126A-164B-4DDE-BAE2-6CF9314D9F42}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0671",
+      "file_name": "220504-2 Petition (129 RIDGE ST) (Post-Survey).pdf"
+    }
+  ]
+}

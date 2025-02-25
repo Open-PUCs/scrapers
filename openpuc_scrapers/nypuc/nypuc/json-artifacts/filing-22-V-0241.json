@@ -1,0 +1,82 @@
+{
+  "case": "22-V-0241",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F18DDD68-8719-4179-8BDF-2DBB5ACCE8D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "22-V-0241",
+      "file_name": "662_22-V-0241 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Correspondence regarding Verizon's Efforts to Gain Access to the Building",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE99C730-52DF-4B21-8FE5-18D9A78B0A5E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0241",
+      "file_name": "220824 Letter to Secretary re 610 W 136 ST.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AE3303D-A9A7-443C-A357-6B107E0AB73F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0241",
+      "file_name": "220407 Verizon Reply re 610 West 136th Street.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-02187 Letter to Building Owner 01-12-2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF7694FC-3F3E-4EBA-A4A8-C80E55C77322}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-V-0241",
+      "file_name": "21-02187 Letter to Building Owner 01-12-2022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={849BA06A-A64A-4E07-B1C9-047F0B3AC7C6}",
+      "organization": "610 West 136th Street Housing Development Fund Corporation",
+      "itemNo": "3",
+      "docket_id": "22-V-0241",
+      "file_name": "610 W. 136 Street HDFC.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02187 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={731AB09B-B802-4325-A007-381C1C867622}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0241",
+      "file_name": "21-02187 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 610 West 136th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D133D58E-E3D5-444F-9963-B057DB02F435}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0241",
+      "file_name": "5-211014 Petition (610 W 136 ST) (Post-Survey).pdf"
+    }
+  ]
+}

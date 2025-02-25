@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0509",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0D773DB-263E-46DE-976F-9D3D8B921A70}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0509",
+      "file_name": "661_21-V-0509.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Village of Glen Park, Jefferson County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FF9D113-222B-484F-9B6D-EA45ADEA6520}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0509",
+      "file_name": "V. Glen Park - To be Sent to PSC.pdf"
+    }
+  ]
+}

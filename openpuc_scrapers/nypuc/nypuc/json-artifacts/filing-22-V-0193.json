@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0193",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D07F1F32-1C48-46FB-B9CA-08D97C75C3C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0193",
+      "file_name": "662_22-V-0193.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00238 Letter to Building Owner 2.17.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B5F941F-C8A4-41A9-973A-FA3759E2BDE7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0193",
+      "file_name": "22-00238 Letter to Building Owner 2.17.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 502 West 143rd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63A91C18-9FF7-4A18-B49B-BEE3EC69AD9D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0193",
+      "file_name": "220128-9 Petition (502 W 143 ST) (Post-Survey).pdf"
+    }
+  ]
+}

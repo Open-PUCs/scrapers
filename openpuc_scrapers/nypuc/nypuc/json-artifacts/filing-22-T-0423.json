@@ -1,0 +1,49 @@
+{
+  "case": "22-T-0423",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Karla M. Corpus Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3B88BB6-7D03-48D8-B7E1-89CD447EAAA1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-T-0423",
+      "file_name": "22-T-0423 NG Maplewood Lines Reconductoring Part 102 Ltr. 9.8.22_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Reports",
+      "name": "NG - Maplewood-Menands Part 102 Report- 2022.07.15 (Part 2)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31D319CB-16F1-4A48-9351-702AE6BF9FA6}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-T-0423",
+      "file_name": "NG - Maplewood-Menands Part 102 Report- 2022.07.15 (Part 2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Reports",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Proposed Construction of the Maplewood-Menands #19 and Maplewood-Reynolds #31 115kV Lines Reconductoring Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47792751-03C6-4F98-BF3E-B4B0CE45623A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-T-0423",
+      "file_name": "NG - Maplewood-Menands Part 102 Report- 2022.07.15 (Part 1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CC59756-CE27-4BA4-8D20-333972F18BD3}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-T-0423",
+      "file_name": "Letter to Secretary Phillips - National Grid Part 102 Reports.pdf"
+    }
+  ]
+}

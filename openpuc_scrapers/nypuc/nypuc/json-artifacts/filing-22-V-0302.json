@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0302",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40F11957-42A6-4EBD-A096-EAE3991D59D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0302",
+      "file_name": "662_22-V-0302.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B1F5D7A-B1BA-478D-BE2B-97A03FB59B81}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0302",
+      "file_name": "AUSA Newspaper Affidavit - Washington, T..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15CA781C-DD30-4AD8-9218-55ECC938EA90}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0302",
+      "file_name": "AUSA Newspaper Cover Letter - Washington, T..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5DAEF44-4874-47F4-91E9-FAA9989C6EC7}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0302",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with Town of Washington, Dutchess County. Initial Docket # 11-V-0617.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59A54238-67EE-43F2-9FFF-DA7C3AB3D603}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0302",
+      "file_name": "Application Cover Letter - Washington, T..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Washington, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D018E4BB-F0BD-439F-A46C-B899C0192C15}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0302",
+      "file_name": "Exhibit IV - Washington, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B5D8435-4CA1-4E4B-A85D-EB545854A212}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0302",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BEED001C-941A-4D75-AF86-812BF0A02539}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0302",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBADAF44-AF51-4B85-9257-58D62BC9C010}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0302",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

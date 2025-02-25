@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0436",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information 8-15-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0075791-0000-CB1D-AA16-7870465790C4}",
+      "organization": "170 E 83 Owner, LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0436",
+      "file_name": "additional information 8-15-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10375291-0000-C617-9951-7A5612D9A86E}",
+      "organization": "170 E 83 Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0436",
+      "file_name": "additional information (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Sub-meter electricity at a building located at 170 East 83rd Street, New York, Located in the territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6096E090-0000-CC10-B6CC-87C62BEC6777}",
+      "organization": "170 E 83 Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0436",
+      "file_name": "submetering application (17).pdf"
+    }
+  ]
+}

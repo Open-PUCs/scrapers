@@ -1,0 +1,82 @@
+{
+  "case": "17-E-0545",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={086FF536-E586-4554-8F4B-EEBACE8B2A23}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-E-0545",
+      "file_name": "361_17-E-0545 Confirming Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93AE923B-7524-4EE7-A2BF-85C4E2039F19}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0545",
+      "file_name": "17-E-0545 Rensselaer Roseton Financing OCO.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C314D5F8-90E8-4687-B7D9-E97CD93C5120}",
+      "organization": "Rensselaer Generating LLC, Roseton Generating LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0545",
+      "file_name": "DAX TO RAO VIGARS re Case 17-F-0545 Request for Confidential Treatment 12-15-17 FINAL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter from John W. Dax",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={170A9F23-7C01-4C7B-9AF4-110326A90206}",
+      "organization": "The Dax Law Firm, P.C.",
+      "itemNo": "3",
+      "docket_id": "17-E-0545",
+      "file_name": "SEC BURGESS (PSC) re Case 17-E-0545 RAO Confidential Treatment Request 12-15-17 FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter from John W. Dax",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4742B4AD-09E2-479C-B116-EA03EE42129C}",
+      "organization": "The Dax Law Firm, P.C.",
+      "itemNo": "2",
+      "docket_id": "17-E-0545",
+      "file_name": "Sec Burgess (PSC) re Case 17-E-0545 12-14-17 FINAL.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Short EAF Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0180A521-E269-4EA5-8867-31790388513D}",
+      "organization": "Rensselaer Generating LLC, Roseton Generating LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0545",
+      "file_name": "RENSSELAER GEN & ROSETON GEN Short EAF Part 1 [9-7-17] FINAL.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Rensselaer Generating LLC and Roseton Generating LLC for Approval of an Increase in Authorized Debt",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A3105E7-FE49-428E-A25B-135B058032A0}",
+      "organization": "Rensselaer Generating LLC, Roseton Generating LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0545",
+      "file_name": "VERIFIED PETITION OF RENSSELAER GEN & ROSETON GEN For Apprvl of Debt Increase 9-7-17 FINAL.pdf"
+    }
+  ]
+}

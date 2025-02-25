@@ -1,0 +1,38 @@
+{
+  "case": "17-T-0354",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CDC0B7D-1C8A-4E79-ADF1-9643941E22B4}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0354",
+      "file_name": "17-T-0354 Part 102 letter final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Report of Niagara Mohawk Power Corporation Concerning the Corning-Battle Hill #4 115 kV Transmission Line Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1AB6BD9-174F-4619-B3C0-494159082006}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0354",
+      "file_name": "Corning-Battle Hill Part 102_06122017.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9851F17D-F4A3-4791-B122-6FDF903E1A73}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0354",
+      "file_name": "Zafonte Cover Letter for Corning-Battle Hill.pdf"
+    }
+  ]
+}

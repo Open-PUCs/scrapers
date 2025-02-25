@@ -1,0 +1,302 @@
+{
+  "case": "22-E-0488",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2022",
+      "nypuc_doctype": "Transcripts",
+      "name": "Public Statement Hearing Transcript - Tuesday, November 22, 2022 - Teleconference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05766147-1E82-427A-AB89-850B60E0B8A4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "11",
+      "docket_id": "22-E-0488",
+      "file_name": "Public Statement Hearing Transcript - Tuesday, November 22, 2022 - Teleconference.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/01/2022",
+      "nypuc_doctype": "Transcripts",
+      "name": "Procedural Conference Transcript - Tuesday, November 22, 2022 - Teleconference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7821886B-E1EF-493C-AA43-6A26AC346604}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "11",
+      "docket_id": "22-E-0488",
+      "file_name": "Procedural Conference Transcript - Tuesday, November 22, 2022 - Teleconference.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Process",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={105298BE-4CB4-44D7-BD0D-F0F82D7658D9}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "22-E-0488",
+      "file_name": "22-E-0488 KCE Battery Storage Sec. 68 Ruling on Process Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "KCE2 NOI Lead Agency 8 18 2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3FE5AB8-BF73-46F8-91A4-A9B6C30F621E}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "9",
+      "docket_id": "22-E-0488",
+      "file_name": "KCE2 NOI Lead Agency 8 18 2022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8D9DB14B-5C3A-4143-AA07-C6AAE960D582}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "9",
+      "docket_id": "22-E-0488",
+      "file_name": "221122 Ltr filing Notice_Montgomery Intent for Lead Agency Designation_KCE NY 2.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavits and Proofs of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABB799EA-837E-453D-95E9-F6A6E3B0993C}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0488",
+      "file_name": "221121 Ltr w Attach filing Affs of Svc & Pub_Rev Petition & Notice PSH_KCE NY 2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/15/2022",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - Virtual Public Statement Hearing Set Regarding Orange County Energy Storage Facility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE5E86A4-9DB0-42F0-8120-F623B35906AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "22-E-0488",
+      "file_name": "pr22103.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Inviting Public Comment and Announcing Public Statement Hearing and Procedural Conference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05A368A-C973-43ED-BAAC-72B537CB8016}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0488",
+      "file_name": "22-E-0488 KCE Notice of PSH and Procedural Conference .pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Ex G_KCE NY 2 and KCE NY 11_Neg Dec",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6575B5D6-C10C-4E80-B1A4-66DB18CB34F3}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "Ex G_KCE NY 2 and KCE NY 11_Neg Dec.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Ex F_KCE NY 2 Draft Decommissioning Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F88031A-257D-4EC9-A9B4-F8C13127C914}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "Ex F_KCE NY 2 Draft Decommissioning Plan.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Ex E_KCE NY 2 Verified Statement of Municipal Consent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C49B887-11B0-4468-9B60-2007E7F43D30}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "Ex E_KCE NY 2 Verified Statement of Municipal Consent.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Ex D_KCE NY2 Draft Newspaper Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B28E9365-32C6-4A24-BC68-AEB82CB6F792}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "Ex D_KCE NY2 Draft Newspaper Notification.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Ex C_KCE NY 2 FEAF_Part 1_rev 3_20221104_signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={362144CE-54A8-4118-B1FF-0408256C872D}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "Ex C_KCE NY 2 FEAF_Part 1_rev 3_20221104_signed.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Ex B_KCE NY2 Plan Set 11042022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB1939D8-EF75-4272-A3BB-ADB292D99C73}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "Ex B_KCE NY2 Plan Set 11042022.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Ex A_KCE NY 2 Corporate Formation Docs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5525EBD-7B99-4166-8221-41F95552F607}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "Ex A_KCE NY 2 Corporate Formation Docs.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "221107 Ltr Filing Revised Petition - Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43FBC663-6C57-4CA5-96CD-BD0F9D00B59C}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "221107 Ltr Filing Revised Petition - Signed.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "11/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "221104 Petition - Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63B3ECAA-0962-47A1-9142-3A6557815A41}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0488",
+      "file_name": "221104 Petition - Signed.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "10/31/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Inviting Public Comment and Announcing Public Statement Hearing and Procedural Conference",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CC2739E-EE2D-438D-810A-2EA37705E4FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0488",
+      "file_name": "22-E-0488 KCE Notice of PSH and Procedural Conference .pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "09/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F29BF257-8878-45DB-A61A-92D219BA460A}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0488",
+      "file_name": "220928 Ltr filing Revised Verified Statement_KCE NY 2.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "09/28/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "220928 KCE NY 2_Revised Verified Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E1B649A-3218-4EB0-8625-D4DAA4BE61DE}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0488",
+      "file_name": "220928 KCE NY 2_Revised Verified Statement.pdf"
+    },
+    {
+      "serial": "21",
+      "date_filed": "09/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFBDE5DE-1305-4643-AC8E-C869F093772E}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0488",
+      "file_name": "220912 Ltr filing Affs of Svc & Publication_Sec 68 Notice_KCE NY 2.pdf"
+    },
+    {
+      "serial": "22",
+      "date_filed": "09/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "220825 Aff & Proof of Publication_Wallkill Valley Times_KCE NY 2_CPCN Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F76C3C0B-D1C6-4B2E-8FE5-CC2EE75128EE}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0488",
+      "file_name": "220825 Aff & Proof of Publication_Wallkill Valley Times_KCE NY 2_CPCN Notice.pdf"
+    },
+    {
+      "serial": "23",
+      "date_filed": "09/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "220824 Aff & Proof of Publication_Times Herald-Record_KCE NY 2_CPCN Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15A3DC83-1162-4F9A-A3BF-49629C01874B}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0488",
+      "file_name": "220824 Aff & Proof of Publication_Times Herald-Record_KCE NY 2_CPCN Notice.pdf"
+    },
+    {
+      "serial": "24",
+      "date_filed": "09/12/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "220822 AoS upon Town & Filing on DMM_KCE NY 2_CPCN & Lightened Reg",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={552AB04A-728B-4F42-B47D-FC6FF20D12B4}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0488",
+      "file_name": "220822 AoS upon Town & Filing on DMM_KCE NY 2_CPCN & Lightened Reg.pdf"
+    },
+    {
+      "serial": "25",
+      "date_filed": "08/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79D12F7F-461D-4041-97AB-6B3A2A00CD54}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0488",
+      "file_name": "220818 Cover Ltr filing CPCN Petition_KCE NY 2 LLC.pdf"
+    },
+    {
+      "serial": "26",
+      "date_filed": "08/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "220818_KCE NY 2_CPCN Petition_FINAL_Part 2 of 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A78C809-FC3C-4651-9681-0F4C456250D5}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0488",
+      "file_name": "220818_KCE NY 2_CPCN Petition_FINAL_Part 2 of 2.pdf"
+    },
+    {
+      "serial": "27",
+      "date_filed": "08/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "220818_KCE NY 2_CPCN Petition_FINAL_Part 1 of 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEC8C640-A7EE-44E9-8932-023E00B191E7}",
+      "organization": "KCE NY 2, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0488",
+      "file_name": "220818_KCE NY 2_CPCN Petition_FINAL_Part 1 of 2.pdf"
+    }
+  ]
+}

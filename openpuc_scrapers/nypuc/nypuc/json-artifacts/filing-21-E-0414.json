@@ -1,0 +1,38 @@
+{
+  "case": "21-E-0414",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C0133C7-F9F7-4A7A-A49B-F08ADD779797}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0414",
+      "file_name": "377_21-E-0414.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "CE Elec Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2123923E-BA04-4150-A068-B929926A34C8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-E-0414",
+      "file_name": "CE Elec Proof of Publication-export to other meters 2021 0928 (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/27/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-E-0414",
+      "file_name": ""
+    }
+  ]
+}

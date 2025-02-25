@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0675",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "511189 Dozier Supplemental Response 2 12062016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBC52CEB-AFBB-487A-8F09-39AB04F350E8}",
+      "organization": "Individual",
+      "itemNo": "7",
+      "docket_id": "16-E-0675",
+      "file_name": "511189 Dozier Supplemental Response 2 12062016_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "511189 Dozier Supplemental Response 12062016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B6C1362-0369-46E3-980F-C79C55D36546}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "16-E-0675",
+      "file_name": "511189 Dozier Supplemental Response 12062016_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "511189 Dozier Tenant Response 12062016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80775387-C740-418F-8EF6-643A0C0631C4}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "16-E-0675",
+      "file_name": "511189 Dozier Tenant Response 12062016_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "511189 235 Troutmant Ack Letter 11182016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D250611C-1FF0-4088-86BF-D4B834EC5492}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-E-0675",
+      "file_name": "511189 235 Troutmant Ack Letter 11182016_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "511189 235 Troutman Rehearing Request 11152016",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BBE46802-54F9-4BF1-8EF9-4DFE2F36A659}",
+      "organization": "235 Troutman Realty LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0675",
+      "file_name": "511189 235 Troutman Rehearing Request 11152016.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/27/2021",
+      "nypuc_doctype": "Letters",
+      "name": "511189 235 Troutman SMD Final 10172016_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95852EDF-6CC4-442F-8B0E-AEA7C244C8DD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-E-0675",
+      "file_name": "511189 235 Troutman SMD Final 10172016_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/03/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A19B14A7-CB1E-4CA4-8524-07A78924722B}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-E-0675",
+      "file_name": "370_16-E-0675 Letter_Redacted.pdf"
+    }
+  ]
+}

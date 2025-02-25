@@ -1,0 +1,49 @@
+{
+  "case": "20-E-0143",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94D7D3FD-2621-4701-9570-A80263FC0B62}",
+      "organization": "168 Plymouth Street, LLC",
+      "itemNo": "4",
+      "docket_id": "20-E-0143",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43C5393A-F078-45A2-98F0-B7B1B0FA232A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0143",
+      "file_name": "371 - 20-E-0143 - Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/18/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to request for additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38C313B2-DE27-4631-98EF-CFFFF4839323}",
+      "organization": "168 Plymouth Street, LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0143",
+      "file_name": "response letter 8-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "submetering application_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={239DB306-3F05-4A5A-A169-B8DA83AE5E45}",
+      "organization": "168 Plymouth Street, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0143",
+      "file_name": "submetering application_.pdf"
+    }
+  ]
+}

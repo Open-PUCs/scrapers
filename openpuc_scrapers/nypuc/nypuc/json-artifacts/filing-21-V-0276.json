@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0276",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B09B2B0-0035-4B2F-B5C3-67C3481C6B80}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0276",
+      "file_name": "667_21-V-0276 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/07/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Village of Chateaugay, Franklin County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C3935DF-901A-4851-838F-0315EA095F62}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0276",
+      "file_name": "05.07.21 V.CHATEAUGAY PSC RENEWAL-FILED.pdf"
+    }
+  ]
+}

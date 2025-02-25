@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0744",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/02/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9118D3E3-8D92-4E86-B7D2-16DD91D566F6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0744",
+      "file_name": "664_17-V-0744.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Exhibit E to the Petition (Affidavit of Publication)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A944FB5-A01A-4984-97B8-68F30E1F66FF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0744",
+      "file_name": "Poquott Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/04/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Poquott, Suffolk County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E053A56-BF40-404C-8918-DBE9C86DE540}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0744",
+      "file_name": "Poquott Renewal Petition (Complete).pdf"
+    }
+  ]
+}

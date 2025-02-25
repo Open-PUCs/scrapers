@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0175",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6CAC7B0E-C9A8-45CC-B845-46C536416B2B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-V-0175",
+      "file_name": "662_22-V-0175.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00080 Letter to Building Owner 2.24.22 re-mailing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C347C3A-ABE3-4610-B969-68C2F75596F4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-V-0175",
+      "file_name": "22-00080 Letter to Building Owner 2.24.22 re-mailing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00080 Letters to Building Owner 2.16.22 remailing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D77A416-5BA7-4335-8D60-DEFF0835BC44}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0175",
+      "file_name": "22-00080 Letters to Building Owner 2.16.22 remailing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00080 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE3EB580-69D2-466D-A991-6DD4C94439DD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0175",
+      "file_name": "22-00080 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 770 St. Nicholas Avenue, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={29F913EB-41EE-4C9D-9459-A6571026D057}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0175",
+      "file_name": "220112-13 Petition (770 ST NICHOLAS AV) (Post-Survey).pdf"
+    }
+  ]
+}

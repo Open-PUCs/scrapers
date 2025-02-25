@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0552",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8003238D-0000-CE14-8562-EF352811A56E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-V-0552",
+      "file_name": "662_23-V-0552 Order 1.19.24 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9003238D-0000-C02C-8DD1-28BD3D32086D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-V-0552",
+      "file_name": "662_23-V-0552 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/13/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0F8638C-0000-CE16-A442-8A907723697B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "23-V-0552",
+      "file_name": "23-V-0552 Part 2 & 3 Submission Ltr to Sec DTC Cable-T of Harpersfield.Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Harpersfield Cable Franchise Revised SEQR & EAF Mapper Summary Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00E9DD8B-0000-C719-A431-3A431D1BC736}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-V-0552",
+      "file_name": "Town of Harpersfield Cable Franchise Revised SEQR & EAF Mapper Summary Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Harpersfield Cable Franchise Additional Map",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0FF6B8B-0000-CD18-AED7-3D0AA14DA74E}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-V-0552",
+      "file_name": "Town of Harpersfield Cable Franchise Additional Map.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable for a Certificate of Confirmation for its Franchise with the Town of Harpersfield.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B2F58A-0000-CF1E-9C4C-90C166859C27}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0552",
+      "file_name": "Town of Harpersfield Cable Franchise Package - PSC.pdf"
+    }
+  ]
+}

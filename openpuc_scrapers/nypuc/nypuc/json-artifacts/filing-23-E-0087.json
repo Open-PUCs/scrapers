@@ -1,0 +1,38 @@
+{
+  "case": "23-E-0087",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F7188A-0000-C711-8524-25DF14D62814}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0087",
+      "file_name": "371_23-E-0087 & 23-E-0089.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Ritz Instrument Transformers, Inc. for Approval of Medium Voltage Metering Class Instrument Transformer VEF36-10.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={467B8930-E348-4335-A19B-8C8873FB166C}",
+      "organization": "Ritz Instrument Transformers, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0087",
+      "file_name": "Ritz VEF36-10 Submission - 2-14-23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F9E578B-7B6E-47CF-AAE6-0EECA5179C44}",
+      "organization": "Ritz Instrument Transformers, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-E-0087",
+      "file_name": "NYS PSC Submittal Cover Letter - February 14 2023.pdf"
+    }
+  ]
+}

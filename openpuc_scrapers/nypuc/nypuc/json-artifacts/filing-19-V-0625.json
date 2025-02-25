@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0625",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4963E6FF-C2A6-4137-87D4-7BAB3FCC4093}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0625",
+      "file_name": "663_19-V-0625 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/27/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBA703DD-3858-42DB-B673-53624910C10E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0625",
+      "file_name": "18-02203 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 470 Ocean Avenue, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF72F409-CFBF-479A-ACF4-B14EBD2DD05F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0625",
+      "file_name": "Petition (470 Ocean Av).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40A51FA5-31A4-403F-BEED-377D424906CD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0625",
+      "file_name": "Exhibit 2 (470 Ocean Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD5B0367-D6E2-4C2E-A76B-5B9C750190AA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0625",
+      "file_name": "Exhibit 1 (470 Ocean Av).pdf"
+    }
+  ]
+}

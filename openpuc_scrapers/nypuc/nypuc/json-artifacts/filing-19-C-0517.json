@@ -1,0 +1,49 @@
+{
+  "case": "19-C-0517",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Ms. Sharon Thomas, Regarding Withdrawal of Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1E491D5-7205-47EA-98D8-08DC68009366}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-C-0517",
+      "file_name": "19-C-0517-TalkAmerica-Withdraw Approval Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Withdrawal of Amendment to Notice of Mass Migration: Exit Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={435A78D7-87BC-495C-B0A7-05CABD7C76EB}",
+      "organization": "Talk America Services, LLC",
+      "itemNo": "3",
+      "docket_id": "19-C-0517",
+      "file_name": "Talk America Services Case Withdrawal of Amendment19-01679.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "NY Talk America Services LLC Amendment to Mass Migration Exit Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F20F35E-3C3B-49B1-A630-BD99B7C1F5D2}",
+      "organization": "Talk America Services, LLC",
+      "itemNo": "2",
+      "docket_id": "19-C-0517",
+      "file_name": "NY Talk America Services LLC Amendment to Mass Migration Exit Plan.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/15/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "NY Talk America Services Notice of Mass Migration Exit Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6464E0BE-9162-4594-B894-0A674183E27B}",
+      "organization": "Talk America Services, LLC",
+      "itemNo": "1",
+      "docket_id": "19-C-0517",
+      "file_name": "NY Talk America Services Notice of Mass Migration Exit Plan.pdf"
+    }
+  ]
+}

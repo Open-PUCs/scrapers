@@ -1,0 +1,38 @@
+{
+  "case": "16-T-0065",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/30/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={48E08FD9-F2ED-4868-9D17-EFB40D907F9B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-T-0065",
+      "file_name": "16t0065_Part 102 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "NATIONAL GRID - BROWNS FALLS-TAYLORVILLE Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64D410E9-57DC-4D49-857F-4EA26ED3AA7A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0065",
+      "file_name": "NATIONAL GRID - BROWNS FALLS-TAYLORVILLE Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/02/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Browns Falls Cover Letter by Lisa Zafonte",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A749AA1B-F09A-4DA0-9998-355EF2CC9F79}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0065",
+      "file_name": "Browns Falls Cover Letter by Lisa Zafonte.pdf"
+    }
+  ]
+}

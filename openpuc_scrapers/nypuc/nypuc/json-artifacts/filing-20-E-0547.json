@@ -1,0 +1,225 @@
+{
+  "case": "20-E-0547",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "16",
+      "docket_id": "20-E-0547",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/29/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "15",
+      "docket_id": "20-E-0547",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting in Part, Modifying in Part, and Rejecting in Part Commercial Demand Response Program Changes",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C50B6DD-5B49-45A2-957A-9A49331881D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "14",
+      "docket_id": "20-E-0547",
+      "file_name": "373_20-E-0547 Order final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/02/2021",
+      "nypuc_doctype": "Exhibits",
+      "name": "Energy Spectrum Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2D75E0F-DD0A-46F0-AE60-4CB8623AD339}",
+      "organization": "Energy Spectrum, Inc.",
+      "itemNo": "13",
+      "docket_id": "20-E-0547",
+      "file_name": "20-E-0547 Energy Spectrum Exhibit A.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/02/2021",
+      "nypuc_doctype": "Comments",
+      "name": "Energy Spectrum Comment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A97233DE-0C0E-4E51-ABB2-610F5D21A1D0}",
+      "organization": "Energy Spectrum, Inc.",
+      "itemNo": "13",
+      "docket_id": "20-E-0547",
+      "file_name": "20-E-0547 Energy Spectrum Comment 2-1-21.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/02/2021",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Consumer Power Advocates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69DBD2B6-3369-462C-BA6F-21E6E4405D9A}",
+      "organization": "Consumer Power Advocates",
+      "itemNo": "12",
+      "docket_id": "20-E-0547",
+      "file_name": "20-E-0547 - Comments of Consumer Power Advocates.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/02/2021",
+      "nypuc_doctype": "Comments",
+      "name": "Rider T Comments filing letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A2E6B49-0240-47DD-AD04-6ED0A385B95A}",
+      "organization": "City of New York",
+      "itemNo": "11",
+      "docket_id": "20-E-0547",
+      "file_name": "Rider T Comments filing.lt.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/02/2021",
+      "nypuc_doctype": "Comments",
+      "name": "NYC Comments on Demand Response Program",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4142D5D6-95F1-44A7-A53B-EB81BCAA6952}",
+      "organization": "City of New York",
+      "itemNo": "11",
+      "docket_id": "20-E-0547",
+      "file_name": "NYC Comments on Demand Response Program.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/02/2021",
+      "nypuc_doctype": "Comments",
+      "name": "Digital Comments on 2021 CSRP & DLRP Rule Changes (2-1-21) (filed)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A04DDC-86EC-4551-BBE9-B50F0785A424}",
+      "organization": "Digital Energy Corp",
+      "itemNo": "10",
+      "docket_id": "20-E-0547",
+      "file_name": "Digital Comments on 2021 CSRP & DLRP Rule Changes (2-1-21) (filed).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/01/2021",
+      "nypuc_doctype": "Comments",
+      "name": "AEMA Comments on Con Edison Proposed Rider T ChangesFIN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB8A07FE-4609-4F36-A3BD-97736FEA43BD}",
+      "organization": "Advanced Energy Management Alliance",
+      "itemNo": "9",
+      "docket_id": "20-E-0547",
+      "file_name": "AEMA Comments on Con Edison Proposed Rider T ChangesFIN.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "02/01/2021",
+      "nypuc_doctype": "Comments",
+      "name": "AEMA Comments on Con Edison Proposed Rider T ChangesFIN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DB151FE-9FCD-477E-AE37-4CDCA1D12B4E}",
+      "organization": "Advanced Energy Management Alliance",
+      "itemNo": "8",
+      "docket_id": "20-E-0547",
+      "file_name": "AEMA Comments on Con Edison Proposed Rider T ChangesFIN.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "01/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Consolidated Edison's tariffs modifying Rider T - Commercial Demand Response Programs.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B54D38D8-CDF8-41B4-A759-98F449ACA66B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "20-E-0547",
+      "file_name": "20-E-0547 Con Ed PP FINAL.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "DLM Stakeholder 1-13-2021_RiderTchanges",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82ADAD92-D6B4-43D7-BD62-CB42582E1E67}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0547",
+      "file_name": "DLM Stakeholder 1-13-2021_RiderTchanges.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EBE35F7-8D2B-4E4B-A85A-358E58B0608A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0547",
+      "file_name": "Con Edison 2021 DLM Stakeholder Presentation - Cover Letter.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Soliciting Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={298F1A50-94CF-45A5-AEE8-E2B16844E80A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0547",
+      "file_name": "15-E-0186 et al. Notice Requesting Comments 2021 .pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "01/20/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-E-0547",
+      "file_name": ""
+    },
+    {
+      "serial": "17",
+      "date_filed": "12/29/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "CE Elec Rider T Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10E27852-E218-4AB5-9DD7-1A507916DB52}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0547",
+      "file_name": "CE Elec Rider T Proof of Publication 2020 1229.pdf"
+    },
+    {
+      "serial": "18",
+      "date_filed": "11/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. for Approval of Changes to Commercial Demand Response Programs.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED174B6E-89A8-472A-9482-AAFC6218BF17}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0547",
+      "file_name": "Con Edison Petition for DLM Program Changes.pdf"
+    },
+    {
+      "serial": "19",
+      "date_filed": "11/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Petition for DLM Program Changes - Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9642EA3F-7998-433A-9944-12BCBF105FD5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0547",
+      "file_name": "Con Edison Petition for DLM Program Changes - Cover Letter.pdf"
+    },
+    {
+      "serial": "20",
+      "date_filed": "11/02/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0547",
+      "file_name": ""
+    }
+  ]
+}

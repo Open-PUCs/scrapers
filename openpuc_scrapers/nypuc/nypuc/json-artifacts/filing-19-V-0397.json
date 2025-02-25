@@ -1,0 +1,82 @@
+{
+  "case": "19-V-0397",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33B2BA8B-39E3-4B32-BE1F-B8D245D33CA8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-V-0397",
+      "file_name": "19-V-0397 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B94F1553-E90D-4FC8-9AFF-E1A6FBF8F465}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0397",
+      "file_name": "201110 Letter re Matter 17-02872 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D77C4A71-E280-4DFC-A254-2DDE07C34AED}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0397",
+      "file_name": "190520 VZ Letter re 30-85 Vernon Blvd (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B92BA77-638F-4646-AF20-AEAA4A3C7F02}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0397",
+      "file_name": "17-02872 Merged Letters.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 30-85 Vernon Boulevard, Queens",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2559936C-1648-4320-BF71-34794C286C83}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0397",
+      "file_name": "Petition (30-85 Vernon Blvd).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E664F234-F41E-43A7-BE48-6AF39764E0D3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0397",
+      "file_name": "Exhibit 2 (30-85 Vernon Blvd).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77F61BAB-78A9-43A2-9BD6-8B2708919CA4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0397",
+      "file_name": "Exhibit 1 (30-85 Vernon Blvd).pdf"
+    }
+  ]
+}

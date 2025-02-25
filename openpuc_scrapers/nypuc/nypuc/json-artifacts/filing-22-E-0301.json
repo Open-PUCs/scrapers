@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0301",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2022",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Applicability of Public Service Law \u00a773 to Outages Related to the April 2022 Weather Event",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={675FF7E5-6162-482F-9913-B5777BAE3653}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0301",
+      "file_name": "377_22-E-0301 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/14/2022",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves New Rules for Customer Credits and Reimbursements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85089B64-99C5-444C-9BDA-48A5E7785A87}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0301",
+      "file_name": "pr22067.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={326CADF4-99D9-476B-980B-7C4CB493194F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "22-E-0301",
+      "file_name": "2022-05-19 NYSEG Petition for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={197D8E14-0B47-4DE4-86FC-22BB26FDF3B3}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "22-E-0301",
+      "file_name": "2022-05-19 NYSEG Petition for Declaratory Ruling Cover Letter.pdf"
+    }
+  ]
+}

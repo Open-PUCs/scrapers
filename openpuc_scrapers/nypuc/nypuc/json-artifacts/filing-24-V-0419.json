@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0419",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40591F92-0000-C210-9026-F58DD27A1CAF}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0419",
+      "file_name": "661_24-V-0419.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1066A390-0000-C159-8510-545E271F8C65}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0419",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Mayfield Letter 7.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1066A390-0000-C71A-BB2A-9F2C414B2461}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0419",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Mayfield Letter 7.11.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Mayfield -Request for Renewal and Certificate of Confirmation (redacted) 7.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1066A390-0000-CF9D-8BF6-2087A5D70688}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0419",
+      "file_name": "Charter Communications, V. Mayfield -Request for Renewal and Certificate of Confirmation (redacted) 7.11.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Mayfield Cover letter-Request for Renewal and Certificate of Confirmation 7.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1066A390-0000-C874-A6D7-B949413384D9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0419",
+      "file_name": "Charter Communications, V. Mayfield Cover letter-Request for Renewal and Certificate of Confirmation 7.11.24.pdf"
+    }
+  ]
+}

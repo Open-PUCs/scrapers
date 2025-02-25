@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0452",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/17/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B67BF0BA-3968-468B-AA4B-D81A5E303186}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0452",
+      "file_name": "377_17-E-0452.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Action",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1D730BF-2676-41EC-8149-2D0D6BB290A5}",
+      "organization": "Exelon FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0452",
+      "file_name": "burgess_20171108151107.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Exelon Generation Company, LLC and Exelon Fitzpatrick, LLC Pursuant to Section 70 of the New York State Public Service Law for Approval of the Transfer of the James A. Fitzpatrick Nuclear Power Plant and Related Assets and for a Declaratory Ruling Confirming Continued Lightened Regulation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BA4F300-4BAA-4578-9BDE-56F802A544A2}",
+      "organization": "Exelon FitzPatrick, LLC, Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0452",
+      "file_name": "JointPetition.pdf"
+    }
+  ]
+}

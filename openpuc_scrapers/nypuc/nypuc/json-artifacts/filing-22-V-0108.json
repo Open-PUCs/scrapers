@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0108",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C25C1FA5-1A8D-4F99-91C9-E2F82AA291A5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0108",
+      "file_name": "662_22-V-0108.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/09/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02471 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A538CB0-0549-4FEC-9073-48893C882404}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0108",
+      "file_name": "21-02471 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 110 East 13th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9E00835-8577-46F1-A873-F81C996F4247}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0108",
+      "file_name": "5-211119 Petition (110 E 13 ST) (Post-Survey).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "20-E-0313",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB779102-5D3E-4214-9D40-80505A10CBDC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0313",
+      "file_name": "378_20-E-0313 - Order.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavits of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39A408E1-13C5-43AA-B1CB-3DB576940AFE}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0313",
+      "file_name": "OR Case No. 20-E-0313 Affidavits for Legal Notice (002).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0313",
+      "file_name": ""
+    }
+  ]
+}

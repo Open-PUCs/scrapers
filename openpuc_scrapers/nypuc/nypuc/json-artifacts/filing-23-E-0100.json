@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0100",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/17/2024",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan - 2829 Valentine Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B8ED8E-0000-C91E-87AC-56CB1018A381}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "23-E-0100",
+      "file_name": "in-service meter test plan (2).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "complaince letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7053EF8C-0000-C91E-88F2-BA867F43997C}",
+      "organization": "Valentine Ave. LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0100",
+      "file_name": "complaince letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9015128C-0000-CA1D-8C72-4C6636CF1C1F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0100",
+      "file_name": "383_23-E-0100 112723 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00903E8B-0000-CD1C-BDA4-702693E3AA50}",
+      "organization": "Valentine Ave. LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0100",
+      "file_name": "response letter 10-17-23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/22/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Withdrawal of Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60774388-0000-C712-B4D4-E63DE2123E8B}",
+      "organization": "Valentine Ave. LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0100",
+      "file_name": "additional information requested.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Valentine Ave. LLC to Submeter Electricity at 2829 Valentine Avenue, Bronx, Located in the Territory of Consolidated Edison Company of New Yorik, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE009421-2EC0-465F-8FF4-8D60654F35FE}",
+      "organization": "Valentine Ave. LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0100",
+      "file_name": "submetering application (1).pdf"
+    }
+  ]
+}

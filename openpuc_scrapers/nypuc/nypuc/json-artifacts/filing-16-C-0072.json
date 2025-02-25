@@ -1,0 +1,27 @@
+{
+  "case": "16-C-0072",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving LDA Rate Increase",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8C30926-4924-4F45-AF8C-B71C8AA2BB49}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0072",
+      "file_name": "564_16c0072.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/20/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "16-C-0072",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0703",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/03/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB8836AA-A437-4B92-AB8D-A992F0885EBF}",
+      "organization": "20 Broad Street Owner LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0703",
+      "file_name": "compliance letter 7-2-18.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={596D54F8-C846-4AC0-9C28-0BA90E1325A8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0703",
+      "file_name": "363_17-E-0703.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A49B9BBC-09B0-44FE-8E7D-D2FEC4C91431}",
+      "organization": "20 Broad Street Owner LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0703",
+      "file_name": "response letter 3-21-18.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73EC021C-E2F7-4218-BA10-F39B0A1A2684}",
+      "organization": "20 Broad Street Owner LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0703",
+      "file_name": "response letter 11-22-17.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 20 Broad Street Owner LLC to Submeter Electricity at 20 Broad Street, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECFA5C49-1654-407D-8C7E-DFF020940A9B}",
+      "organization": "20 Broad Street Owner LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0703",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

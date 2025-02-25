@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0080",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240425 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00D12A8F-0000-C012-8F4D-11DA01FCB824}",
+      "organization": "Hill Top Enterprises, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0080",
+      "file_name": "20240425 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1042768E-0000-C11D-9841-AD8361B422A7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-G-0080",
+      "file_name": "161_24-G-0080.pdf"
+    }
+  ]
+}

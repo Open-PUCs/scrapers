@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0108",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "714250 Pauley Response 2 03202017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22CC3629-031B-4FD7-AE78-D81BB28F04AB}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "17-E-0108",
+      "file_name": "714250 Pauley Response 2 03202017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "714250 Pauley Response 03142017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC657511-3204-41BA-8912-A7787D54FBCA}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "17-E-0108",
+      "file_name": "714250 Pauley Response 03142017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "714250 Singletary Ack Letter 03012017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D725218-36C4-4C1D-94F6-E98034EBCD5E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0108",
+      "file_name": "714250 Singletary Ack Letter 03012017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "714250 Singletary Rehearing Request 02212017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF058D85-6880-4715-AEFF-06612484D091}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0108",
+      "file_name": "714250 Singletary Rehearing Request 02212017_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "714250 Pauley SMD Final 01172017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={510A1012-4385-4088-B05C-510B61E8E301}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0108",
+      "file_name": "714250 Pauley SMD Final 01172017_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82CF7588-AF92-4709-878F-93CD0B64594D}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0108",
+      "file_name": "385_17-E-0108 Letter_Redacted.pdf"
+    }
+  ]
+}

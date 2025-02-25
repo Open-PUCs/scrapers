@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0399",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A1B38A-0000-CA12-81C0-61EF54C29092}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0399",
+      "file_name": "662_23-V-0399 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C16A89-0000-CF5A-8CE7-4D600C827361}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0399",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Odessa Letter 07.18.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C16A89-0000-C71E-8D9B-D1F27034FBD0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0399",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Odessa Letter 07.18.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Odessa Cover Letter- Request for Renewal and Certificate of Confirmation 07.18.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C16A89-0000-C876-89D8-DD8D78A71DC5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0399",
+      "file_name": "Charter Communications, V. Odessa Cover Letter- Request for Renewal and Certificate of Confirmation 07.18.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Odessa - Request for Renewal and Certificate of Confirmation (redacted) 07.18.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0C16A89-0000-C392-81EA-97BCB0176F09}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0399",
+      "file_name": "Charter Communications, V. Odessa - Request for Renewal and Certificate of Confirmation (redacted) 07.18.23.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0059",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0E4668E-0000-CD11-A1F4-28F33013993F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0059",
+      "file_name": "662_24-V-0059 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10463D8D-0000-CC64-95A4-CEF6CE5F5053}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0059",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Riga Letter 01.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00463D8D-0000-C265-B3A2-EA46D1C5A28F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0059",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Riga Letter 01.24.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Riga Cover Letter- Request for Renewal and Certificate of Confirmation 01.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10463D8D-0000-CE41-8F00-FBA0A422A83F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0059",
+      "file_name": "Charter Communications, T. Riga Cover Letter- Request for Renewal and Certificate of Confirmation 01.24.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Riga - Request for Renewal and Certificate of Confirmation(redacted) 01.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10463D8D-0000-C228-9BD3-94AB11AF5FEF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0059",
+      "file_name": "Charter Communications, T. Riga - Request for Renewal and Certificate of Confirmation(redacted) 01.24.24.pdf"
+    }
+  ]
+}

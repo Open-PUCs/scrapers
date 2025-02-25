@@ -1,0 +1,93 @@
+{
+  "case": "15-E-0452",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6F13C04-3CDB-4D02-ADA6-3A466DCF2611}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "15-E-0452",
+      "file_name": "374-A_15-E-0452.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/30/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D89289-4AD0-4DEF-9516-0E26F531BC89}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-E-0452",
+      "file_name": "15-E-0452_RAO_Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1890989E-9BFE-43D7-83B5-25EC3B2DE1C8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "15-E-0452",
+      "file_name": "RAO Letter re Hudson Yards .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D83010AC-BB2E-4D14-8168-F1F516275BA0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "15-E-0452",
+      "file_name": "15-E-0452 - RAO Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/17/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Consolidated Edison Company of New York, Inc.\u00bfs Motion for Leave to File a Response to the Reply Comments of Related Companies and Oxford Properties and Response.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A06C25A-DEB7-4C27-88AE-46BADE6D6667}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-E-0452",
+      "file_name": "Case 15-E-0452 Motion for Leave to File Response.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/19/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Reply Comments of Related Companies and Oxford Properties",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC7AC4BE-596C-4990-B256-8C6409F59063}",
+      "organization": "Oxford Properties, Related Companies",
+      "itemNo": "3",
+      "docket_id": "15-E-0452",
+      "file_name": "Related Reply Comments (Case 15-E-0452).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/19/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Con Ed to Related Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F61DBB50-C5F9-4F67-B17E-6FB8E619E126}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-E-0452",
+      "file_name": "Comments of Con Ed to Related Petition.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/29/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Related Companies and Oxford Properties for Order Regarding Calculation of Demand for Offset Tariff Customer Subject to Standby Service Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8546DC80-03CD-4B05-89E6-382B16FEF6CB}",
+      "organization": "Oxford Properties, Related Companies",
+      "itemNo": "1",
+      "docket_id": "15-E-0452",
+      "file_name": "Hudson Yards PSC Petition re Coincident Demand (Final).pdf"
+    }
+  ]
+}

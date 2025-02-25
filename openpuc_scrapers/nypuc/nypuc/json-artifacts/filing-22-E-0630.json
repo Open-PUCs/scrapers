@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0630",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/03/2023",
+      "nypuc_doctype": "Tariffs",
+      "name": "Tariff Filing by Orange and Rockland Utilities, Inc. to Modify Its Electric Tariff Schedule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40DF4787-0000-C518-9E80-4ABACB2DE4DB}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-E-0630",
+      "file_name": "OR Pole Attachment Order Clause 3 Filing (2).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/30/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "OR Pole Attachment Order Clause 3 Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0073487-0000-C71B-9301-10F6DFD6BB55}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "22-E-0630",
+      "file_name": "OR Pole Attachment Order Clause 3 Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5ED7ED31-8E4B-4284-9865-06449EFBB0A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0630",
+      "file_name": "361_22-E-0630 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/03/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0630",
+      "file_name": ""
+    }
+  ]
+}

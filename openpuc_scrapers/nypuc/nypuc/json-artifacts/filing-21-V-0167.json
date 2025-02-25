@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0167",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89696993-6A3E-4D60-A0AB-6EDCEC81E072}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0167",
+      "file_name": "667_21-V-0167 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Westfield, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66838D51-7471-485F-B9A7-027A27FC002F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0167",
+      "file_name": "2021.03.16 T. WESTFIELD RENEWAL FILED-PSC.pdf"
+    }
+  ]
+}

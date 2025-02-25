@@ -1,0 +1,93 @@
+{
+  "case": "22-V-0473",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA875D61-9368-4274-B6FD-2766C0A38EF6}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "22-V-0473",
+      "file_name": "661_22-V-0473.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00071 Letter to Building Owner Offering Facilitation 400 W 153 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F867397-15A2-4E5C-B6E3-7B279EE83EDB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "22-V-0473",
+      "file_name": "22-00071 Letter to Building Owner Offering Facilitation 400 W 153 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92CA0BA7-D791-4878-9F32-89D2F18D964D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0473",
+      "file_name": "220617_22-00071_400 W 153 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BB31A04-53D0-44A6-A720-7F9068DE7A1B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0473",
+      "file_name": "220520_22-00071_400 W 153 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9544AEF6-338A-45B7-88A4-522DA4BC6F25}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0473",
+      "file_name": "220420_22-00071_400 W 153 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00071 Letter to Verizon 400 West 153rd Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E765DED6-2C80-49F0-9541-A5EBD35EE1C3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0473",
+      "file_name": "22-00071 Letter to Verizon 400 West 153rd Street.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00071 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0CB474B-1801-489B-BBDA-63345C17A839}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0473",
+      "file_name": "22-00071 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 400 West 153rd Street, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07BD6CA8-A3AD-4489-8903-EC0D965716D0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0473",
+      "file_name": "220112-4 Petition (400 W 153 ST) (Post-CODA).pdf"
+    }
+  ]
+}

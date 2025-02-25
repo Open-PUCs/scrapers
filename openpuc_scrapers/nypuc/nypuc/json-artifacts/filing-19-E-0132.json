@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0132",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2505C678-5FAD-4825-9895-F2E919986ADD}",
+      "organization": "Liberty for Columbus LLC",
+      "itemNo": "7",
+      "docket_id": "19-E-0132",
+      "file_name": "compliance letter 10-21-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={239ACDD2-A6C6-40F6-9A58-2957B4EB4A52}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-E-0132",
+      "file_name": "363_19-E-0132.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/27/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter for 671 Liberty Avenue, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C0CB4C6-0789-48B1-925A-423E1660D872}",
+      "organization": "Liberty for Columbus LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0132",
+      "file_name": "waiver letter 6-27-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/27/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 671 Liberty Avenue, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C263D513-CE8A-49F2-ADC6-25F52C86C538}",
+      "organization": "Liberty for Columbus LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0132",
+      "file_name": "response letter 6-27-19 (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D5ED6EB-3A54-4043-8B3B-B2D734D4DE87}",
+      "organization": "Liberty for Columbus LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0132",
+      "file_name": "response letter 5-15-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/02/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter for 671 Liberty Avenue, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49F45C9F-A57A-46C0-9876-FBF2B0CFD588}",
+      "organization": "Liberty for Columbus LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0132",
+      "file_name": "response letter 5-2-19.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/01/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Liberty for Columbus LLC to Submeter Electricity at 671 Liberty Avenue, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15C977FE-1CEC-4671-BDD9-0E40B473DCBF}",
+      "organization": "Liberty for Columbus LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0132",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

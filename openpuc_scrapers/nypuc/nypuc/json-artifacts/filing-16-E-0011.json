@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0011",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D2FA6FA-39ED-44BF-A85F-0B3FFF6032AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0011",
+      "file_name": "363_16e0011.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0EA9DE1-0456-4AC3-8BFF-C53D240F7D5B}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "16-E-0011",
+      "file_name": "letter 6-24-2016 (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/07/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 31 Lincoln Road Development LLC to Submeter Electricity at 31-33 Lincoln Road, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D33EE7F1-3B56-447D-A789-A99563C8FFD1}",
+      "organization": "31 Lincoln Road Development LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0011",
+      "file_name": "{D7316B5B-92FA-4159-85C4-EFCB9B29D706}.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "21-G-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B6BD59F-3CB1-4447-A153-9C6FD1AA720F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0503",
+      "file_name": "166_21-G-0503 et al Determination & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC74E4C2-4193-48DA-B3C5-4EB152E41DCE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-G-0503",
+      "file_name": "166_21-G-0503 letter.Redact - Joseph Cooney final_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37E3CBD5-506E-424A-A80A-4BA2731BA4AF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0503",
+      "file_name": "148556 Cooney Ack _Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03236E0E-B479-4CDA-896F-901FA4653A03}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-G-0503",
+      "file_name": "Appeal 148556_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4B6FAF9-2DE3-4FC1-A789-4E6B14474584}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0503",
+      "file_name": "IH 148556_Redacted.pdf"
+    }
+  ]
+}

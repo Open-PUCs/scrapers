@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0129",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67DFC6D5-DBCC-491B-8C17-D6AD14C84FD9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0129",
+      "file_name": "661_22-V-0129 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFBE8A66-44C0-4E0A-A861-2F9DD78047D2}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0129",
+      "file_name": "AUSA Newspaper Affidavit - Dover, T.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAE750CD-B830-493E-9156-D42D2F39E912}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0129",
+      "file_name": "AUSA Newspaper Cover Letter - Dover, T.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance - Dover",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0FC799E-24C8-4E18-84A4-9A66BA8947D9}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0129",
+      "file_name": "Proof of Performance - Dover.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with Town of Dover, Dutchess County. Initial Docket # 09-V-0293.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B7680E7-E4C3-4603-A7A3-A38D902632A5}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0129",
+      "file_name": "Application Cover Letter - Dover, T.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Dover, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9767F08A-7FCA-4F08-98AB-D3F7C84512AF}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0129",
+      "file_name": "Exhibit IV - Dover, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0943CDE-684E-42EF-A3B1-A5D0971331E7}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0129",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F00F25A-2DE4-4BB9-BF67-7B9E61B82EF9}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0129",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E125A579-7CE8-4B9D-A203-C571CFA9576C}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0129",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

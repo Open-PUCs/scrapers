@@ -1,0 +1,71 @@
+{
+  "case": "17-C-0521",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38EBF88F-7A50-4081-878F-1F7F1898FF62}",
+      "organization": "GTT Americas, LLC",
+      "itemNo": "5",
+      "docket_id": "17-C-0521",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "17-01801 Transbeam Approval Letter.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={77B07C6C-671A-4FC7-898D-0F855BFC4E1F}",
+      "organization": "GTT Americas, LLC, Transbeam, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-C-0521",
+      "file_name": "17-01801 Transbeam Approval Letter.Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Part of the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={082763FF-F555-47E9-96FA-8F04FEEC26A4}",
+      "organization": "GTT Americas, LLC",
+      "itemNo": "3",
+      "docket_id": "17-C-0521",
+      "file_name": "2017-09-27 GTT-TRB Withdrawal of Req for Expedited Trmt.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/30/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBF3A83C-CE40-4A10-A7E4-028C16B5CF68}",
+      "organization": "GTT Americas, LLC",
+      "itemNo": "2",
+      "docket_id": "17-C-0521",
+      "file_name": "NY Clarification.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC132FB7-1A60-405E-A907-4ECFCA0BEA35}",
+      "organization": "GTT Americas, LLC, Transbeam, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0521",
+      "file_name": "NY Transmittal Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of GTT Americas, LLC and Transbeam, Inc. for Approval to Transfer Control of Transbeam, Inc. to GTT Americas, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF15E0B0-4C35-45F6-8789-3BA2C162D9C2}",
+      "organization": "GTT Americas, LLC, Transbeam, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0521",
+      "file_name": "NY Transfer Application.pdf"
+    }
+  ]
+}

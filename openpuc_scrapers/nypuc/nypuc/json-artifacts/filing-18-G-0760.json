@@ -1,0 +1,49 @@
+{
+  "case": "18-G-0760",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C44AEE87-03CA-40FD-85A4-14AFFCD1A11D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0760",
+      "file_name": "161-C_18-G-0760.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Rehearing Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E602080-01A5-4882-85DB-8D883A0131BE}",
+      "organization": "",
+      "itemNo": "2",
+      "docket_id": "18-G-0760",
+      "file_name": "18-G-0760 Rehearing Pet.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={767DECA4-5965-4416-BE70-E459E143A88A}",
+      "organization": "",
+      "itemNo": "2",
+      "docket_id": "18-G-0760",
+      "file_name": "18-G-0760 Rehearing CVL.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/25/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10E0CF01-82C0-4A4A-8C0C-E02BF15C58E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0760",
+      "file_name": "166-A_18-G-0760.pdf"
+    }
+  ]
+}

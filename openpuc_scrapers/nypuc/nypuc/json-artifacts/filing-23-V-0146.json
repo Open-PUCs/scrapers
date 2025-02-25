@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0146",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50484E88-0000-CF1D-936A-E4BD1B41B1BD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0146",
+      "file_name": "661_23-V-0146.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/24/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={603D1587-0000-CA53-906B-E6CE0B6F27A8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0146",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/24/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Madison 03.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={603D1587-0000-C219-AE8D-25B17F4A49B0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0146",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Madison 03.24.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Madison-Request for Renewal and Certificate of Confirmation(redacted) 3.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={603D1587-0000-C496-B8C2-AAFAB7CF9550}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0146",
+      "file_name": "Charter Communications, T. Madison-Request for Renewal and Certificate of Confirmation(redacted) 3.24.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/24/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Madison-Cover Letter-Request for Renewal and Certificate of Confirmation 3.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={603D1587-0000-C279-AF6E-CF80899B7ACF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0146",
+      "file_name": "Charter Communications, T. Madison-Cover Letter-Request for Renewal and Certificate of Confirmation 3.24.23.pdf"
+    }
+  ]
+}

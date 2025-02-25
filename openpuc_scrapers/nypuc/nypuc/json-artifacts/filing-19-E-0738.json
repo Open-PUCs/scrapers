@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0738",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Order Certification - Bedford 203 LP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23B18199-D6EC-4298-8544-C8F4E912AC44}",
+      "organization": "Bedford 203, L.P.",
+      "itemNo": "5",
+      "docket_id": "19-E-0738",
+      "file_name": "Order Certification - Bedford 203 LP.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0AA2345C-9A50-4BB7-88DC-64C3D1DE3827}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0738",
+      "file_name": "370_19-E-0738 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Second Supplemental Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65526E37-6113-4822-9702-BF9D15AF0999}",
+      "organization": "Bedford 203, L.P.",
+      "itemNo": "3",
+      "docket_id": "19-E-0738",
+      "file_name": "Staff Supplemental Questions_Bedford 203 LP_July 8, 2020.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/24/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Bedford 203, L.P Supplemental Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15B29B22-F6FB-4148-A4F8-F544EF76F39D}",
+      "organization": "Bedford 203, L.P.",
+      "itemNo": "2",
+      "docket_id": "19-E-0738",
+      "file_name": "Staff Questions_Bedford 203 LP.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/03/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of Bedford 203, L.P. to Submeter Electricity at 211 East 203rd Street, Bronx, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={656338DA-B00F-4D3D-8625-9548E2EA157B}",
+      "organization": "Bedford 203, L.P.",
+      "itemNo": "1",
+      "docket_id": "19-E-0738",
+      "file_name": "Notice of Intent - 211 East 203rd St.pdf"
+    }
+  ]
+}

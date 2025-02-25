@@ -1,0 +1,82 @@
+{
+  "case": "24-E-0176",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={905DBA92-0000-C211-9B80-DC7EF622DE6D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0176",
+      "file_name": "365_24-E-0176 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Peak Demand Test data",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30074992-0000-C816-B0D1-1124B858A6D6}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-E-0176",
+      "file_name": "Peak Demand Test data.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30074992-0000-C936-8D19-00061B7B617D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-E-0176",
+      "file_name": "Manufacturer test data for Peak Demand Bar Type 600 to 5 amp Current Transformers.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Nameplate Update",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B02F2092-0000-C017-A44A-8148AC62F62A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0176",
+      "file_name": "IMG-4629 (003).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B02F2092-0000-CA3C-BE2E-1F9B05F4AC25}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0176",
+      "file_name": "request to post information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Approval of Peak Demand Inc. COS-6 High Accuracy/Extended Range Bar Type Current Transformer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0053818E-0000-C91E-AC11-BA06E9CB3288}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0176",
+      "file_name": "Letter of intent to use Peak Demand Inc COS-6 High Accuracy Extended Range Bar Type Current Transformer.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Evaluation Report for Peak Demand CT",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0053818E-0000-C330-9229-2D6D07EDAD2A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0176",
+      "file_name": "Final Evaluation Report for Peak Demand CT - Copy.pdf"
+    }
+  ]
+}

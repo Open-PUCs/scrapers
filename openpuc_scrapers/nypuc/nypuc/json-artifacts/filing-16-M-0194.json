@@ -1,0 +1,27 @@
+{
+  "case": "16-M-0194",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/23/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB6BC5D4-280A-4F82-BF82-D3A39DDE50C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-M-0194",
+      "file_name": "267_16M0194.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Dynegy Inc., Sithe/Independence Power Partners, L.P. and Terawatt Holdings, LP for a Declaratory Ruling that Public Service Law Sections 70 and 83 Do Not Apply to the Proposed Transaction, or in the Alternative, for Approval of the Proposed Transaction Pursuant to Sections 70 and 83 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FB4C5DC-D8B1-4DA7-A3D8-62B56DAD1C6A}",
+      "organization": "Dynegy Inc., Sithe/Independence Power Partners, L.P., Terawatt Holdings, LP",
+      "itemNo": "1",
+      "docket_id": "16-M-0194",
+      "file_name": "Joint Petition for Declaratory Order (3-24-2016).pdf"
+    }
+  ]
+}

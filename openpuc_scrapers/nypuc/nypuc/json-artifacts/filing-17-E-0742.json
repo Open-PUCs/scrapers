@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0742",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0742 Mannino Ack Letter 12012017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8EAA5E9B-BB8B-4430-94A5-C60D8426FC8D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0742",
+      "file_name": "17-E-0742 Mannino Ack Letter 12012017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0742 Mannino Rehearing Request 11302017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D87E1A63-31C1-48AF-99A9-3EB3BA5DE9B7}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0742",
+      "file_name": "17-E-0742 Mannino Rehearing Request 11302017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0742 Mannino SMD Final 11022017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={78EF2D8E-7EB5-42CF-9DC4-29EAA4696975}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0742",
+      "file_name": "17-E-0742 Mannino SMD Final 11022017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a petition for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6253131B-11C9-4737-A068-56161B17AB42}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0742",
+      "file_name": "364 Letter_Redacted.pdf"
+    }
+  ]
+}

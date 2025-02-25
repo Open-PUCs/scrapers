@@ -1,0 +1,49 @@
+{
+  "case": "23-V-0013",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0280587-0000-C315-AAA9-70017DA88F58}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-V-0013",
+      "file_name": "662_23-V-0013.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02067 Letter to Building Owner 11.16.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CBFF1F7-01F7-451E-877F-131EFEE8C136}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0013",
+      "file_name": "22-02067 Letter to Building Owner 11.16.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02067 Letter to Building Owner_1532 Amsterdam Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07B362DD-1AA9-4714-9660-332B2001C3BD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0013",
+      "file_name": "22-02067 Letter to Building Owner_1532 Amsterdam Ave.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 1532 Amsterdam Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7619EA30-115D-4B02-9196-F46B236342F3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0013",
+      "file_name": "221019-22 Petition (1532 AMSTERDAM AV) (Post-Survey).pdf"
+    }
+  ]
+}

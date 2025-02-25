@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/25/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={719C01E0-76AF-474E-9E0C-D90D677E9C73}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0003",
+      "file_name": "661_22-V-0003.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01938 Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BFDFD29C-EF8F-41F5-B384-3F5A53E533FF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0003",
+      "file_name": "21-01938 Letter to Building Owners.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 310 Convent Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F00CEED-1292-446B-ADDA-92C3AF6EF523}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0003",
+      "file_name": "7-210909 Petition (310 CONVENT AV) (Complete).pdf"
+    }
+  ]
+}

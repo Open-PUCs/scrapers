@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0078",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/09/2022",
+      "nypuc_doctype": "Letters",
+      "name": "170997 SMR Rejection Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FC60D34-5B12-413B-92D2-2806BCCE8EA8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0078",
+      "file_name": "22-G-0078.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "170997 Rehearing Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECCACC06-D75E-40D4-94EB-9C5309CA4717}",
+      "organization": "Bad Bunny Realty LLC",
+      "itemNo": "2",
+      "docket_id": "22-G-0078",
+      "file_name": "170997 Rehearing Request_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "170997_Bad_Bunny_SMD_Final_10202021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A55B5FC-993C-4612-960B-BF3780B6007C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0078",
+      "file_name": "170997_Bad_Bunny_SMD_Final_10202021 (1)_Redacted.pdf"
+    }
+  ]
+}

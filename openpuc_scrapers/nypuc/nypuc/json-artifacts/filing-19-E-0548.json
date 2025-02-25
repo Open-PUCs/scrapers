@@ -1,0 +1,38 @@
+{
+  "case": "19-E-0548",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/02/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to McGowan Southworth Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9261DC3D-A6CD-4F26-B468-3A51900FFFCE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0548",
+      "file_name": "Case 19-E-0548 - Letter Closing Case.9.2.21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Petition For Submetering Cancellation. 816-824 43rd St. Brooklyn NY 11232",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49D19A54-D2CD-4FAF-B894-9D3310937C7C}",
+      "organization": "Finnish Home Building Association, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0548",
+      "file_name": "Petition For Submetering Cancellation. 816-824 43rd St. Brooklyn NY 11232.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Finnish Home Building Association, Inc. to Submeter Electricity at 816-826 43rd Street, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E83C8478-D5E4-44CA-B499-EB122E5CCDBF}",
+      "organization": "Finnish Home Building Association, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0548",
+      "file_name": "Petition For Submetering Executive Summary. 816-824 43rd St. Brooklyn NY 11232.pdf"
+    }
+  ]
+}

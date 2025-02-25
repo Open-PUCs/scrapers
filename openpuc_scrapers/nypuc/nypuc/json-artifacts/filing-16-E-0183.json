@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0183",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={929277F3-3982-4847-A850-193E472DCBC5}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "16-E-0183",
+      "file_name": "2016-04-26 NYSEG RGE Request for CII Status (16-E-0183).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/30/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={281587E2-F829-4705-8342-F3BBED1057A4}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "16-E-0183",
+      "file_name": "2016-03-30 NYSEG RGE Request for CII Status (16-E-0183).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6F99DD0-645A-41AF-8FAA-789B8C802B0D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-E-0183",
+      "file_name": "RAO_ltr_2016_NMPC_summer-preparedness.pdf"
+    }
+  ]
+}

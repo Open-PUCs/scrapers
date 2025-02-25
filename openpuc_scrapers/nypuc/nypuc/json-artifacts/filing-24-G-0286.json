@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0286",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={209A5F90-0000-CC1B-82C0-3143D0D0B908}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0286",
+      "file_name": "161-A_24-G-0286.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0395C8E-0000-C51F-A98C-748283822A15}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0286",
+      "file_name": "20240313 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240301 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0395C8E-0000-C241-ADE3-F0FA72C1252A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0286",
+      "file_name": "20240301 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20231211 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0395C8E-0000-C32B-A1A3-D14CCF8C4593}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0286",
+      "file_name": "20231211 - Origin of Investigation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20231211 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0395C8E-0000-CB37-9E5F-72066B24CFFD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0286",
+      "file_name": "20231211 - Citation.pdf"
+    }
+  ]
+}

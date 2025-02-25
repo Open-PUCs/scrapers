@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0275",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EA6AF2E-A975-48D2-8CFB-58429E7047C2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0275",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the City of Ogdensburg, County of St. Lawrence, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60D0C1E5-EF4B-4BB7-A3CC-12EB7D90FEF0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0275",
+      "file_name": "041119 C. OGDENSBURG RENEWAL SUBMISSION TO PSC .pdf"
+    }
+  ]
+}

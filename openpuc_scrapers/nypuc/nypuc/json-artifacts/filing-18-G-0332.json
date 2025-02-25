@@ -1,0 +1,60 @@
+{
+  "case": "18-G-0332",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B1DA395-73D2-4BCF-BEC2-5C8660984E55}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-G-0332",
+      "file_name": "165 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess for Appeal of Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={730155F2-D62C-4CCD-9CC1-6FC7182FBCF6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0332",
+      "file_name": "165 Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/31/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E57858-D243-429F-9CB7-FB9895AFD6B0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-G-0332",
+      "file_name": "616170 Weinreb Management.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/31/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B9B015A-4E1B-41FE-A35F-195DBE77E93E}",
+      "organization": "Weinreb Management",
+      "itemNo": "2",
+      "docket_id": "18-G-0332",
+      "file_name": "616170 Appeal of Informal Determination - Weinreb Managemen v. Con Edison.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/31/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C7E1698-2E85-4037-9778-7708456BAB0A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-G-0332",
+      "file_name": "616170 - Informal Review Decision Ltr (Weinreb Management final)_.pdf"
+    }
+  ]
+}

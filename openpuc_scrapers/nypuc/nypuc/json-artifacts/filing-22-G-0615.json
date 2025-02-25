@@ -1,0 +1,27 @@
+{
+  "case": "22-G-0615",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "20230213 - Petition for Rehearing.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A02666FF-E914-4FD5-AD50-411009D1A0F4}",
+      "organization": "753 Respondents, New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "22-G-0615",
+      "file_name": "20230213 - Petition for Rehearing..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67200D6A-F801-4CC5-AB29-C37B7C79157F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0615",
+      "file_name": "161-A_22-G-0615.pdf"
+    }
+  ]
+}

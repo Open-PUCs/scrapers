@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0521",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B35A74E1-EC9D-495C-9632-EFF9ED9EC8CB}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-G-0521",
+      "file_name": "162-C_20-G-0521 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F1E6A05-B3C9-4F27-8C4B-29192567B6E0}",
+      "organization": "CPR Custom Concrete",
+      "itemNo": "5",
+      "docket_id": "20-G-0521",
+      "file_name": "12.16.20 PSC ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/30/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E29618A5-9D19-4719-87C1-CAFB4F0E6055}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0521",
+      "file_name": "163-A_20-G-0521 final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0614",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/09/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Errata Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94AFA5D2-9256-4601-9C93-EC43EBE2118F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0614",
+      "file_name": "16E0614 Errata Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1397BAC8-26E5-4389-9448-67ED74888004}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0614",
+      "file_name": "374_16E0614.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF63350E-DA5F-4CD9-AADA-2EFD62515A13}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Holdings II LLC, Cricket Valley Energy Holdings, LLC, Cricket Valley Energy Partners, LLC, Development Bank of Japan Inc. SPV, Kiwoom SPV, MC CVEC Project Holdings I, LLC, SeAH Holdings Corp., Ullico Infrastructure Cricket Valley Holdco, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0614",
+      "file_name": "Amendment 11-21-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of AP Cricket Valley Holdings II Inc., MC CVEC Project Holdings I, LLC, Ullico Infrastructure Cricket Valley Holdco, LLC, Kiwoom SPV, Development Bank of Japan Inc. SPV, SeAH Holdings Corp., Cricket Valley Energy Holdings II LLC, Cricket Valley Energy Center LLC and Cricket Valley Energy Partners, LLC, for a Declaratory Ruling Regarding a Transfer of Ownership Interests or, in the Alternative, an Approval Pursuant to Section 70 of the Public Service Law and for a Declaratory Ruling on Jurisdiction.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD855B8B-68F9-45CC-A978-4F70BBBC31BC}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings II LLC, Cricket Valley Energy Partners, LLC, Development Bank of Japan Inc. SPV, Kiwoom SPV, MC CVEC Project Holdings I, LLC, SeAH Holdings Corp., Ullico Infrastructure Cricket Valley Holdco, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0614",
+      "file_name": "Joint Petition for Declaratory Ruling or Section 70 Approval-10-25-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30ACC90C-A654-49EE-890A-DBC944BF9A66}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Holdings II LLC, Cricket Valley Energy Partners, LLC, Development Bank of Japan Inc. SPV, Kiwoom SPV, MC CVEC Project Holdings I, LLC, SeAH Holdings Corp., Ullico Infrastructure Cricket Valley Holdco, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0614",
+      "file_name": "Cover Letter - Joint Petition10-25-16.pdf"
+    }
+  ]
+}

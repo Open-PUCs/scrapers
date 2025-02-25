@@ -1,0 +1,38 @@
+{
+  "case": "23-M-0040",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/14/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7066A88D-0000-CC59-8853-04BB9DB4C702}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "23-M-0040",
+      "file_name": "Request for Extension 02 13 2024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Reports",
+      "name": "2022 Customer Service Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5066E488-0000-CF19-9FE4-E5E9A4E5C072}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-M-0040",
+      "file_name": "202_23-M-0040.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Cuts Revenues a Record $22.6 Million for 6 Utilities Failing to Meet Customer Service Metrics",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00DBE388-0000-C019-B574-4E96668A2961}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "23-M-0040",
+      "file_name": "pr23060.pdf"
+    }
+  ]
+}

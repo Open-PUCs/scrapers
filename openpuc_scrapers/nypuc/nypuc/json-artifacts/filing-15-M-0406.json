@@ -1,0 +1,38 @@
+{
+  "case": "15-M-0406",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69A7DC31-3959-44DB-BBED-E28F0C806D8A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-M-0406",
+      "file_name": "261_15m0406.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Alliance Energy, New York LLC, Alliance NYGT, LLC and Alliance Energy Transmissions, LLC for Approval of a Financing Pursuant to Lightened Regulation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={595531A1-6199-4359-B1F2-FACD4AD652AD}",
+      "organization": "Alliance Energy, New York LLC",
+      "itemNo": "1",
+      "docket_id": "15-M-0406",
+      "file_name": "Alliance Art 69 Petition 7-2-2015.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BB05B4F-41F6-490D-B23D-F4A294FD135B}",
+      "organization": "Alliance Energy, New York LLC",
+      "itemNo": "1",
+      "docket_id": "15-M-0406",
+      "file_name": "cover letter 7 2 2015.pdf"
+    }
+  ]
+}

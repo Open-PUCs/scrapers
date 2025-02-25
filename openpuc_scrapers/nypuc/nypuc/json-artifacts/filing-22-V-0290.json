@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0290",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19EA686D-200C-4CFE-9192-A7B91B3F96D2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0290",
+      "file_name": "661_22-V-0290 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/26/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F042950-EFEC-468D-9B9D-B60ECEB09BB8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0290",
+      "file_name": "2022.07.26 Charter-T.Hurley Legal Notice FFee Amend-filed .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Hurley, Ulster County for Approval of an Amendment of their Franchise with Spectrum Northeast, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEA4F4FA-F360-452C-81F7-BC689CEBF2C8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0290",
+      "file_name": "05.10.22 T. Hurley Amendment to Eliminate Franchise Fee.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "20-E-0371",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8A84E75-7828-4EF0-838E-625ACBD49CDF}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0371",
+      "file_name": "366_20-E-0371 Neg. Dec. .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEE6559A-881A-427A-ACC4-67AC894FCDCF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0371",
+      "file_name": "366_20-E-0371 Final Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Short EAF Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B4CD04F-CE49-4073-9536-198200DB9CF0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0371",
+      "file_name": "Short EAF Parts 2 and 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/26/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Exelon Generation Company, LLC and EDF, Inc",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02353BA1-EA46-4333-93A8-76F43732C803}",
+      "organization": "EDF, Inc., Exelon Generation Company, LLC",
+      "itemNo": "3",
+      "docket_id": "20-E-0371",
+      "file_name": "Exelon Generation Company, LLC and EDF, Inc.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/23/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1007B4A6-591B-4F41-9BD3-159A9C27E806}",
+      "organization": "EDF, Inc., Exelon Generation Company, LLC",
+      "itemNo": "2",
+      "docket_id": "20-E-0371",
+      "file_name": "7.23.20 Request Excep Disc.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Exelon Generation Company, LLC, EDF Inc, Constellation Energy Nuclear Group, LLC, Nine Mile Point Nuclear Station, LLC, and R.E. Ginna Nuclear Power Plant, LLC, for a Declaratory Ruling Disclaiming Jurisdiction over the Proposed Transfer or Finding the Proposed Transfer Requires No Further Review or, in the Alternative, as Order Authorizing the Proposed Transfer Pursuant in Section 70 of The New York Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0FABED2C-65E5-4FF0-A4C9-3A030DB8D414}",
+      "organization": "Constellation Energy Group, Inc., EDF, Inc., Exelon Generation Company, LLC, Nine Mile Point Nuclear Station, LLC, R.E. Ginna Nuclear Power Plant, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0371",
+      "file_name": "7.23.20Phillipsfilingltr.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E799E0F3-766C-4F1A-A8FB-AF06E898AF33}",
+      "organization": "Constellation Energy Group, Inc., EDF, Inc., Exelon Generation Company, LLC, Nine Mile Point Nuclear Station, LLC, R.E. Ginna Nuclear Power Plant, LLC",
+      "itemNo": "1",
+      "docket_id": "20-E-0371",
+      "file_name": "JointPetition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "20-V-0347",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE16A016-874A-4884-B131-A628D3F66BE1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-V-0347",
+      "file_name": "661_20-V-0347 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Elmira, Chemung County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25C12EF6-0E6A-4AAC-A94D-CFA60AB9F3CD}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0347",
+      "file_name": "T. ELMIRA RENEWAL SUBMISSION TO PSC 07.13.20.pdf (2 MB)"
+    }
+  ]
+}

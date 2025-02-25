@@ -1,0 +1,93 @@
+{
+  "case": "22-G-0703",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "SIT Sample Bill",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00478F87-0000-C11F-8CFB-7C34B194062B}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "5",
+      "docket_id": "22-G-0703",
+      "file_name": "22-G-0703 SIT Sample Bill.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00478F87-0000-CA3A-B44E-9F09035EA803}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "5",
+      "docket_id": "22-G-0703",
+      "file_name": "22-G-0703 Cover Letter 2023-04-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6045F086-0000-C11F-94FC-E9F14823A0F7}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-G-0703",
+      "file_name": "163_22-G-0703_final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={407F9886-0000-C81E-B23A-7503DDB23292}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "22-G-0703",
+      "file_name": "20-G-0703 Proof of Publication.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={407F9886-0000-C03A-828F-61240C900EEE}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "3",
+      "docket_id": "22-G-0703",
+      "file_name": "22-G-0703 Publication Notice Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of National Fuel Gas Distribution Corporation for Authorization to Implement a System Improvement Tracker.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0164DBD1-75AD-4E41-B6F7-ECEE1FDFA47E}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "22-G-0703",
+      "file_name": "NFG Petition to Implement a System Improvement Tracker.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A87E67ED-1350-4C01-9CAD-0C58B4F4BF4F}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "22-G-0703",
+      "file_name": "Cover Letter for NFG System Improvement Tracker Petition.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/09/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "22-G-0703",
+      "file_name": ""
+    }
+  ]
+}

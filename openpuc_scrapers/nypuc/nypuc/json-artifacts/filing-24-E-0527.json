@@ -1,0 +1,93 @@
+{
+  "case": "24-E-0527",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Test Report#H0002_PNT_type_BIL_KIR-60_redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0100-C61E-9038-AB78709175B6}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "Test Report#H0002_PNT_type_BIL_KIR-60_redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0000-C394-92BE-0FB9B0176B35}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "KIR-60 cover letter confidentiality secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0000-C2FE-A8B5-B9D928F36713}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "KIR-60 cover letter confidentiality secretary.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "KIR-60 cover letter confidentiality RAO",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0000-C2D8-9AEB-BC7A213E2993}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "KIR-60 cover letter confidentiality RAO.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "KIR-60 cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0000-C23D-968B-0ABD5EB5AD28}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "KIR-60 cover letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB KIR-60 - National Grid Letter of Intent 11-06-23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0000-CB10-B79B-60B724803BC8}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "ABB KIR-60 - National Grid Letter of Intent 11-06-23.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB Inc. L23-148 FINAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0000-C7BC-94AE-D14B87572C7A}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "ABB Inc. L23-148 FINAL.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "1VAP429141-DB_KIR-60,-75,-11 bulletin",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0068E791-0000-CE51-8F54-637E0DF6DD9E}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0527",
+      "file_name": "1VAP429141-DB_KIR-60,-75,-11 bulletin.pdf"
+    }
+  ]
+}

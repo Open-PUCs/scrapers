@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0357",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A589F404-B1E4-4D21-BF36-02667F316B2D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-E-0357",
+      "file_name": "558384 Taylor_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEB806D7-6EFC-4E14-81EF-00AB2ADA93A5}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-E-0357",
+      "file_name": "Taylor Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/19/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD1CC1C6-7EE8-4386-AA31-069F226614F8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-E-0357",
+      "file_name": "Case 558384 Kathaleen Taylor vs Ambit-FINAL_Redacted.pdf"
+    }
+  ]
+}

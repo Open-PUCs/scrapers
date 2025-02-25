@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0695",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess granting withdrawal of petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F683DFC9-D56C-4C19-B533-DD6813672E43}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0695",
+      "file_name": "16-E-0695 - Letter closing case.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BB99DE3-BA74-4906-866F-578F3FEF898D}",
+      "organization": "RA Engineering, PC",
+      "itemNo": "5",
+      "docket_id": "16-E-0695",
+      "file_name": "DOC027.PDF - Adobe Acrobat Pro.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice that the Property was Previously Approved for Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03C247F9-26D5-412C-BA7A-FE45FD51DB66}",
+      "organization": "RA Engineering, PC",
+      "itemNo": "4",
+      "docket_id": "16-E-0695",
+      "file_name": "DOC025.PDF - Adobe Acrobat Pro.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/18/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Addendum 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF903F3D-2DC7-4E28-B740-87284B6BE2A1}",
+      "organization": "327 Central Park West Condominium Association",
+      "itemNo": "3",
+      "docket_id": "16-E-0695",
+      "file_name": "Addendum 1.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B70279AC-2014-422C-9ED6-47C87CAAC41E}",
+      "organization": "327 Central Park West Condominium Association",
+      "itemNo": "2",
+      "docket_id": "16-E-0695",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/08/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 327 Central Park West Condominium Association to Submeter Electricity at 327 Central Park West, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41E5B9B1-D675-4372-BEB2-E57F26241B18}",
+      "organization": "327 Central Park West Condominium Association",
+      "itemNo": "1",
+      "docket_id": "16-E-0695",
+      "file_name": "Petition.pdf"
+    }
+  ]
+}

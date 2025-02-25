@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0452",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6ADCBE7-045E-4CE5-BC5D-8834918A4EDD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0452",
+      "file_name": "661_21-V-0452.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Smithville, Chenango County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={680AC2A2-AA48-4772-AD52-3C1C0D4197E5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0452",
+      "file_name": "2021.08.05 - SPECTRUM NORTHEAST, LLC - T. SMITHVILLE FRANCHISE RENEWAL PETITION.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "23-W-0377",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "DOH - Response to Transfer Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20E1988A-0000-C616-B25E-3E92149527DE}",
+      "organization": "New York State Department of Health",
+      "itemNo": "3",
+      "docket_id": "23-W-0377",
+      "file_name": "DOH - response to 23-W-0377 - transfer petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Crystal Water Supply Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8024058A-0000-CC1A-B680-3B39FA88443A}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-W-0377",
+      "file_name": "Crystal Water Supply Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Crystal Water Customer Notice Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8024058A-0000-CF36-856C-41EBF252124E}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-W-0377",
+      "file_name": "Crystal Water Customer Notice Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Elaine Mady Prowler, Karen Wilson, Mark Kutsher, Kiamesha Plumbing, Inc., and Crystal Water Supply Company, Inc. for an Order Pursuant to Section 89-h of the New York Public Service Law Approving the Acquisition by Kiamesha Plumbing of 100% of Crystal Water Supply Company, Inc.'s Issued and Outstanding Capital Stock.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70524189-0000-C214-8B21-8BF3E0603190}",
+      "organization": "Crystal Water Supply Company, Inc., Kiamesha Plumbing, Inc., Multiple Individuals",
+      "itemNo": "1",
+      "docket_id": "23-W-0377",
+      "file_name": "Joint Petition.pdf"
+    }
+  ]
+}

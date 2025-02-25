@@ -1,0 +1,38 @@
+{
+  "case": "16-V-0195",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD523188-0ACC-4D58-81EA-63CB0044E0AF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0195",
+      "file_name": "663_16v0195.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D9D8BA00-C565-4FE1-A67E-0EF6C9AE36EB}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "16-V-0195",
+      "file_name": "Town of Marcellus Revised Resolution Case 16-V-0195 06 17 2016.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/04/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Marcellus, Onondaga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0E975DA-7481-4A49-85DE-92694BB4CE07}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0195",
+      "file_name": "MARCELLUS, TN FRANCHISE RENEWAL SUBMITTED TO PSC_ 04.04.2016.pdf"
+    }
+  ]
+}

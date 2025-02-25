@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0540",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Rehearing Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F6108F-0000-CC11-B9FD-16F2A56487B1}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0540",
+      "file_name": "372_23-E-0540 42424final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/25/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Scott SMR Acknowledgement Letter 09252023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F1CD8A-0000-CA1B-94C2-36319AFBC116}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0540",
+      "file_name": "Scott SMR Acknowledgement Letter 09252023_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/25/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Scott Petition for Rehearing 09222023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F0CD8A-0000-CE1F-BC8B-FFB38A6F1186}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-E-0540",
+      "file_name": "Scott Petition for Rehearing 09222023_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/25/2023",
+      "nypuc_doctype": "Letters",
+      "name": "237993_Bent_SMD_Final_08312023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70EECD8A-0000-CC1C-90E5-1946379D6BE2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0540",
+      "file_name": "237993_Bent_SMD_Final_08312023_Redacted.pdf"
+    }
+  ]
+}

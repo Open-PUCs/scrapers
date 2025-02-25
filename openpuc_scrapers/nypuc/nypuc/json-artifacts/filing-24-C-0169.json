@@ -1,0 +1,82 @@
+{
+  "case": "24-C-0169",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0334B93-0000-C111-8344-8787A6E00FE6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-C-0169",
+      "file_name": "562_24-C-0169 Letter 112024final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0334B93-0000-C131-8F6F-C212C7660887}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-C-0169",
+      "file_name": "562_24-C-0169 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DBF78E-0000-CA32-BB4D-F37BFB529670}",
+      "organization": "Windstream Communications, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-C-0169",
+      "file_name": "Response to Appeal (East Meadow Fire District) 4-19-24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "24.03.15 EMFD Rotto Request for Reconsideration_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70DBF78E-0000-C219-A3EA-CF7AE2776A03}",
+      "organization": "Windstream Communications, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-C-0169",
+      "file_name": "24.03.15 EMFD Rotto Request for Reconsideration_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Letters",
+      "name": "DPS Acknowledgement & Scheduling Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10895C8E-0000-C31E-ACC5-25E5ACCE06CC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-C-0169",
+      "file_name": "2024 03 19 DPS Acknowledgement & Scheduling Letter - EMFD v Windstream - #338315.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "EMFD - Windstream - Request for Reconsideration_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60875C8E-0000-CF12-AFD3-3217663D1FC0}",
+      "organization": "East Meadow Fire District",
+      "itemNo": "2",
+      "docket_id": "24-C-0169",
+      "file_name": "Case 338315 EMFD - Windstream - Request for Reconsideration_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 02 29 Informal_Hearing_Request- Response_Letter #338315",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0825C8E-0000-C519-A839-8700BE8D6976}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-C-0169",
+      "file_name": "2024 02 29 Informal_Hearing_Request_-_Response_Letter #338315.pdf"
+    }
+  ]
+}

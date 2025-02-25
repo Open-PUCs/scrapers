@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0490",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98662861-51A5-4B01-B0D3-E52F9668897C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0490",
+      "file_name": "363_21-E-0490 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/16/2022",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Takes Action Against Four ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={602933D6-4391-48E3-ABA0-A1368F35FBE7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0490",
+      "file_name": "pr22024_esco action.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={267E23FB-763B-4826-B6E2-88943E38FFEE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0490",
+      "file_name": "368_21-E-0490.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/18/2021",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Rules Against 6 ESCOs, OKs 2 ESCOs to Serve Low-Income Customers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B0C479C-D1E9-464A-8D19-DE58EB1253DD}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0490",
+      "file_name": "pr21116.pdf"
+    }
+  ]
+}

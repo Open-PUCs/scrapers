@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0729",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00E3C7BD-A2F2-4F56-9CAF-2E850E6E2E11}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0729",
+      "file_name": "17-V-0729-Verizon-Case Closure Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3273F9FB-032F-4BC0-B30E-EE9E18CE979C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0729",
+      "file_name": "210415 VZ Letter re Matter 17-01008.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B1B85AE-C4D6-4D82-9442-83C44A0826F2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "17-V-0729",
+      "file_name": "201110 Letter re Matter 17-01008 (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDE65923-AEA2-439A-9950-D0D6B734B77F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0729",
+      "file_name": "17-01008 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 215 West 92nd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8893D250-487A-4434-B44A-D9874C9CC82C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0729",
+      "file_name": "170510 Petition re 215 W 92 St.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26989A0D-65A9-489A-ADA3-BBC95A757003}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0729",
+      "file_name": "Exhibit 2 (215 W 92 St).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5426A43-F87C-4344-B774-584B539783D5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0729",
+      "file_name": "Exhibit 1 (215 W 92 St).pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "15-W-0436",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/30/2015",
+      "nypuc_doctype": "Reports",
+      "name": "NYAW fka Sea Cliff RPT Compliance Filing to Secretary Burgess",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49A913DD-A899-400B-99BC-6CC8CC7E10E8}",
+      "organization": "Aquarion Water Company of Sea Cliff, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-W-0436",
+      "file_name": "NYAW fka Sea Cliff RPT Compliance Filing to Secretary Burgess.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/29/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-W-0436",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Deferral and Use of Funds",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66177F8F-F94C-4499-90A3-0E73EAD9D088}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-W-0436",
+      "file_name": "463_15w0436 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/24/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Offset the RAC/PTR Surcharge",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FF3DD01-503A-4A82-BD3A-C34A6D07FF36}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-W-0436",
+      "file_name": "Update.pdf"
+    }
+  ]
+}

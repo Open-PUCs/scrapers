@@ -1,0 +1,38 @@
+{
+  "case": "21-C-0336",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Point Broadband Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61849ACE-674D-40C4-A77C-82FD6DA2BEDC}",
+      "organization": "Point Broadband Acquisition, LLC, Point Broadband Fiber Holding, LLC, Point Broadband, LLC",
+      "itemNo": "3",
+      "docket_id": "21-C-0336",
+      "file_name": "Point Broadband Consummation Notice - 10-14-2021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/10/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01329 Point Broadband MAT OOL Letter_Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E52DD3E6-47B0-4BF1-96A5-CB6B7673071C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-C-0336",
+      "file_name": "21-01329 Point Broadband MAT OOL Letter_Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "PJoint Petition of Point Broadband, LLC, Transferor, Point Broadband Fiber Holding, LLC, Licensee, and Point Broadband Acquisition, LLC, Transferee, for Approval to Transfer Control of Licensee to Transferee; and for Licensee to Participate in Certain Financing Arrangements.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDABCC85-E465-41AF-8DD0-2385DC7D814D}",
+      "organization": "Point Broadband Acquisition, LLC, Point Broadband Fiber Holding, LLC, Point Broadband, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0336",
+      "file_name": "Point Acquisition Transfer Application - 6-11-2021.pdf"
+    }
+  ]
+}

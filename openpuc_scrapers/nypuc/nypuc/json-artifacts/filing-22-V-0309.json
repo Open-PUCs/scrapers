@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0309",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C9D73368-DB30-4E1B-B7D2-6BE22C7EB3C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "22-V-0309",
+      "file_name": "661_22-V-0309.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01839 Letter to Building Owner Offering Facilitation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58C37CF4-BC63-453C-BFFE-9E5638333704}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "22-V-0309",
+      "file_name": "21-01839 Letter to Building Owner Offering Facilitation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E43DEF0-5873-4C44-95B9-626858A78538}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "22-V-0309",
+      "file_name": "220321_21-01839_612 W 144 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={486ABD8A-CEF4-4675-9A08-6D72D78C8BCF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0309",
+      "file_name": "220222_21-01839_612 W 144 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CBE1B2AA-4CE7-474E-AC7E-C995602A1997}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0309",
+      "file_name": "220120_21-01839_612 W 144 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67228614-7DEA-4A5D-A01B-1345EA0D8BE0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "22-V-0309",
+      "file_name": "{FDC31BAC-AA04-484A-AFC7-08F5ABEC9D0B}.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01839 Letter to Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FE9D4F9-3F80-44B7-89A3-526B9E053A5A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0309",
+      "file_name": "21-01839 Letter to Verizon New York Inc..pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01839 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FC684EC-5CE3-432A-927C-BAD18F69A6DF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0309",
+      "file_name": "21-01839 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 612 West 144th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE2F525E-0F5F-4BE4-B0F4-AEECCB86B8E1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0309",
+      "file_name": "6-210826 Petition (612 W 144 ST) (Complete).pdf"
+    }
+  ]
+}

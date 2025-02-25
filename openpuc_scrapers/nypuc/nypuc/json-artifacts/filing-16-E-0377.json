@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0377",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC3B4997-4F81-436C-8B99-ACE2CB4D0623}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0377",
+      "file_name": "379_16-E-0377.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4B25FE3-DEC9-4E59-BF00-FCD5E178064A}",
+      "organization": "616 First Avenue LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0377",
+      "file_name": "letter 1-06-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for a Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F09C3FD9-267F-4EA6-8299-51633EFE1868}",
+      "organization": "616 First Avenue LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0377",
+      "file_name": "additional information letter 6-22-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 616 First Avenue LLC to Submeter Electricity at 626 First Avenue in the Territory of Consolidated Edison Company, Inc., New York, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA66AF56-EB2C-420A-9CD4-9B3A67EF1DDE}",
+      "organization": "616 First Avenue LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0377",
+      "file_name": "submetering application 6-21-2016.pdf"
+    }
+  ]
+}

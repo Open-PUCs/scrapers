@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0404",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E88707A7-1974-48D8-9431-6F5110FA8853}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0404",
+      "file_name": "661_17-V-0404.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/14/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9332A4DB-8184-49E9-98AE-BC19E9254BA9}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0404",
+      "file_name": "Geneseo, Vlg Resolution.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Village of Geneseo, County of Livingston.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5316ADD7-3573-4DFD-910B-7E9996B655A0}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0404",
+      "file_name": "GENESEO, VLG RENEWAL SUBMITTED TO PSC, 07.05.17.pdf"
+    }
+  ]
+}

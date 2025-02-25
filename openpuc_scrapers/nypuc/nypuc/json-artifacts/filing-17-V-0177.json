@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0177",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8E973E8-AD3F-49A7-B900-52FD48E0532D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0177",
+      "file_name": "661_17-V-0177.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05DF0E79-61F4-44CB-8853-D672D4E85BD8}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0177",
+      "file_name": "zitonewyorkvillageofmoraviaaffidavitofpublication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B7172A4-2250-4400-9878-838EAB31912C}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0177",
+      "file_name": "zitonewyorkvillageofmoraviaexhibitIV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73FB014B-6CC1-4365-A144-7005EDFF358E}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0177",
+      "file_name": "zitonewyorkvillageofmoraviaexhibitIII.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4AFA4DA3-4DD7-42B2-AB71-E82846B7BFDB}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0177",
+      "file_name": "zitonewyorkvillageofmoraviaexhibitII.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={801EFC55-ECAB-497E-857C-119762CE56DE}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0177",
+      "file_name": "zitonewyorkvillageofmoraviaexhibitI.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={243737EA-4EFB-4536-93A3-0DE671C9685F}",
+      "organization": "Zito New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0177",
+      "file_name": "zitonewyorkvillageofmoraviacoverletter.pdf"
+    }
+  ]
+}

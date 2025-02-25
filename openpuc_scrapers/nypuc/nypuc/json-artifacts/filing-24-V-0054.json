@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0054",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D9668E-0000-C015-A586-5C0B44C434E7}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-V-0054",
+      "file_name": "661_24-V-0054 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01281 Letter to Building Owner 64-05 Woodside Ave 12.14.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A018698C-0000-C014-9C81-C02D74B0BF4E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-V-0054",
+      "file_name": "23-01281 Letter to Building Owner 64-05 Woodside Ave 12.14.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-01281 20-Day Letter to Building Owners-64-05 Woodside Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0C06989-0000-CA13-AD07-127D802F32A0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0054",
+      "file_name": "23-01281 20-Day Letter to Building Owners-64-05 Woodside Ave.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter - Notice of Intent - 64-05 Woodside Ave.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50196589-0000-CA37-818D-B0B3483CF6AA}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0054",
+      "file_name": "Cover Letter - Notice of Intent - 64-05 Woodside Ave..pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "64-05 Woodside Ave- Landowner Notices of Intent to Access_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50196589-0000-CC1F-859C-AD35EEEF57EF}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0054",
+      "file_name": "64-05 Woodside Ave- Landowner Notices of Intent to Access_.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Entry - 64-05 Woodside Avenue - 6.15.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6052C588-0000-C137-8C3F-285FEBDD7307}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0054",
+      "file_name": "Petition for Order of Access - 64-05 Woodside Avenue - 6.15.2023_Final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 64-05 Woodside Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6052C588-0000-C659-A63B-CC7A91290D0A}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0054",
+      "file_name": "Exhibit 2 - 64-05 Woodside Ave.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - 64-05 Woodside Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7052C588-0000-C613-B124-764803E2C7C7}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0054",
+      "file_name": "Exhibit 1 - 64-05 Woodside Ave.xlsx"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6052C588-0000-C21F-995E-3ED440E9D2CC}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0054",
+      "file_name": "Cover Letter - 64-05 Woodside Ave.pdf"
+    }
+  ]
+}

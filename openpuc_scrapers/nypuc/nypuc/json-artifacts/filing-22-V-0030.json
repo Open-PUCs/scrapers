@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0030",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE7D27BD-EEA9-4CC3-9B73-2AF751F71F04}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0030",
+      "file_name": "661_22-V-0030.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02044 Letter to Building Owner 10.13.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C7CABE7-BA08-4F7C-B7A3-1F278AEF1D00}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0030",
+      "file_name": "21-02044 Letter to Building Owner 10.13.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 64 Avenue C, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55BBA979-1347-4234-ACC0-2E199ABB3CF2}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0030",
+      "file_name": "11-210923 Petition (64 AVENUE C) (Complete).pdf"
+    }
+  ]
+}

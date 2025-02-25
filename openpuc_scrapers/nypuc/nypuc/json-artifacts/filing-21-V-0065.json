@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0065",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0E1EC08B-BE48-4447-97CA-1E78F7E9BD00}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0065",
+      "file_name": "663_21-V-0065 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Holland Letter to PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE37F162-DEA1-463F-8D52-CE856A75C3D1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0065",
+      "file_name": "2021.01.27 Case 21-V-0065 Holland Letter to PSC - corrected FA.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Holland, Erie County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A907BFB-8AD0-4245-8A8A-9B8C21D03A24}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0065",
+      "file_name": "2021.01.22 T. HOLLAND RENEWAL TO PSC.pdf"
+    }
+  ]
+}

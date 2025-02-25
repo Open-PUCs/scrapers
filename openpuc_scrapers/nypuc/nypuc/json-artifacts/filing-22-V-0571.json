@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0571",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86BE4D0E-E306-4175-80C2-375A5C5923AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0571",
+      "file_name": "661_22-V-0571.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01590 Letter to Building Owner_500 W 123",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CDD2AF97-9296-4D8E-837A-4887868EC571}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0571",
+      "file_name": "22-01590 Letter to Building Owner_500 W 123.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 500 West 123rd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21E513DB-C64B-48CD-B50A-3A2B818A48C8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0571",
+      "file_name": "220810-1 Petition (500 W 123 ST) (Post-CODA).pdf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case": "22-G-0080",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70050389-0000-C770-92C4-E9E45A3646C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "22-G-0080",
+      "file_name": "163_21-G-0474 6.28.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/05/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Con Ed Rehearing - Acknowledgement Letter 120222",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1985B22E-A875-40F0-A98C-5350994F4761}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "9",
+      "docket_id": "22-G-0080",
+      "file_name": "Con Ed Rehearing 21-G-0474 et al - Ack Letter 120222.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Con Edison Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F497362-CB9C-4787-AF02-DF7BB14BBC8D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "22-G-0080",
+      "file_name": "2022-11-17 Con Edison Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Fishkin Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28997618-E8D8-451A-8B3C-7C6DA7A987A7}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "22-G-0080",
+      "file_name": "Fishkin Compliance Filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30A59BB5-44CB-4139-963D-BA76F05DD1D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0080",
+      "file_name": "166_21-G-0503 et al Determination & Attachment.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F77955B0-16FB-46F7-9D4A-39A03A518B14}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0080",
+      "file_name": "166_22-G-0080 letter.Redact - Alla Fishkin final_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/10/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Reply of Con Edison to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F887D0A-2BD9-4CFA-A9BE-9BB3A94739D8}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-G-0080",
+      "file_name": "Case 22-G-0060- Con Edison Reply (005).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/09/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45334753-130D-46D0-BC16-03F1825B8357}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0080",
+      "file_name": "174374 appeal ack letter clean_Redacted.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/09/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83D4414E-691D-40BB-A54B-7C9C2C2396B8}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-G-0080",
+      "file_name": "174374 appeal email_Redacted.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/09/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Determination_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1A14F01-8A19-411A-8472-F56C6DE7F36D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0080",
+      "file_name": "174374 IH Determination_Redacted.pdf"
+    }
+  ]
+}

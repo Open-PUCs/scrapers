@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0378",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/11/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB4B8370-C5DD-450B-BA9D-63C4A5F618DC}",
+      "organization": "Roosevelt Parc LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0378",
+      "file_name": "Roosevelt Parc - Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={630230CA-F02B-4BA4-B790-70BCA9DF3C28}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0378",
+      "file_name": "372_18-E-0378.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/04/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Staff Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B93FA00A-BA06-42D5-9279-4D2771CD3B16}",
+      "organization": "Roosevelt Parc LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0378",
+      "file_name": "Staff Questions_Roosevelt Parc.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Roosevelt Parc LLC to Submeter Electricity at 37-46 27nd Street, Jackson Heights, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F242EE16-EA2A-4A57-AC12-C7106941D84F}",
+      "organization": "Roosevelt Parc LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0378",
+      "file_name": "Submetering Notice of Intent_Roosevelt Parc.pdf"
+    }
+  ]
+}

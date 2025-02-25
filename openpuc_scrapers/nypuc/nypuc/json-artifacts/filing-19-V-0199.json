@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0199",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={078B33E8-4B20-4F96-A8EF-E86A0EC47C4A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0199",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={146D3E25-6780-4A37-8BF0-DC29115909C3}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0199",
+      "file_name": "T. Wallkill Legal Affidavit, 012919.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4EE05C8-6950-46C8-B32D-4BBEC27079E8}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "3",
+      "docket_id": "19-V-0199",
+      "file_name": "061319 - Ltr to Secretary, Case 19-V-0199, correct legal affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Wallkill, Orange County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B301845-2B87-4E8E-966F-373B833E8DF3}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0199",
+      "file_name": "03.21.19 - T WALLKILL FRANCHISE RENEWAL TO PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0402",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A37A5260-E87D-42E4-B6CA-C2E78642C2C9}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0402",
+      "file_name": "377_15-E-0402 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A935FEB5-E936-4980-B163-B32F51378218}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-E-0402",
+      "file_name": "377_15-E-0402 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "N Grid Additional Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCCE365D-C426-4AC4-AB5C-C1A12580DC7A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "15-E-0402",
+      "file_name": "N Grid Additional Comments.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/19/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Customer's response to appeal by N Grid case 410638",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3A3C6F0-0A7F-4ACC-A814-09DA9A011C7E}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "15-E-0402",
+      "file_name": "Customer's response to appeal by N Grid case 410638.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/13/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement of Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3EBF16A-9CC9-45ED-9D60-5FA40D82848E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0402",
+      "file_name": "N Grid vs Grudzien 410638 Appeal Ack Ltr_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/13/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88F23596-EE9C-4CB5-AE5F-91A1D18F51ED}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "15-E-0402",
+      "file_name": "Case 410638 - National Grid Appeal.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/13/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10258C0D-6882-48E0-85EC-017B6BE95CEE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-E-0402",
+      "file_name": "Case number 410638 Decision -R Munoz LXL pdf_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0770",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/11/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD7B8015-1C82-41A0-B831-F81953BF253E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0770",
+      "file_name": "662_19-V-0770 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Sinclairville, County of Chautauqua.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14370238-E40A-4CE1-A4CA-2E062616619C}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0770",
+      "file_name": "V. SINCLAIRVILLE RENEWAL SUBMISSION TO PSC 12.17.19.pdf"
+    }
+  ]
+}

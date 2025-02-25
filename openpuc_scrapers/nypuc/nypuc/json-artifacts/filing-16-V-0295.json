@@ -1,0 +1,60 @@
+{
+  "case": "16-V-0295",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5DF4FDD-3578-42D7-B202-D7701C5579FE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0295",
+      "file_name": "661_16v0295.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of New Lisbon, Otsego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A296A1A-A9F6-42AD-8B99-7EAE509C6D81}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0295",
+      "file_name": "Town of new lisbon psc submission.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Albany TP 2015-1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B31A2D0-27B5-49D2-BA33-C6170E50B02D}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0295",
+      "file_name": "Albany TP 2015-1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Albany Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FD801EA-7A42-4BC8-A897-998F40FFDFF5}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0295",
+      "file_name": "Albany Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Albany HE 2015-1 (3)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42BEF088-8C16-4B86-A832-A22845FE1480}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0295",
+      "file_name": "Albany HE 2015-1 (3).pdf"
+    }
+  ]
+}

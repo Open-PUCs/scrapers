@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0142",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/16/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "6",
+      "docket_id": "18-E-0142",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F8A5733-45C8-4A75-A3FB-AD53531E6E1B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0142",
+      "file_name": "368_18-E-0141 and 18-E-0142.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09148ABA-3541-48E3-8A1E-15E56263B439}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0142",
+      "file_name": "18-E-0141 18-E-0142 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/28/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "18-E-0142",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/14/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "18-E-0142",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/06/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-E-0142",
+      "file_name": ""
+    }
+  ]
+}

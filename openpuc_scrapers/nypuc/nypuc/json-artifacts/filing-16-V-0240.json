@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0240",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE10CB2A-0778-4407-86F4-9DEDA2C7FD66}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0240",
+      "file_name": "666_16v0240.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of HillTop Communications Inc. for Approval of the Renewal of its Franchise with the Town of Clermont, Columbia County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DE2A35DC-01EE-4F7A-A146-21D3FB33857E}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0240",
+      "file_name": "hill top.pdf"
+    }
+  ]
+}

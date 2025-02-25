@@ -1,0 +1,71 @@
+{
+  "case": "19-W-0745",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "DEC WSA Permit, Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC4AB6E1-8B64-4C76-9160-9908E3718DF2}",
+      "organization": "ER Design Build, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-W-0745",
+      "file_name": "DEC WSA Permit, Amendment, 291 Plains Rd .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/05/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CB17CD6-86E2-4CFB-BC86-CB8D78109EB5}",
+      "organization": "ER Design Build, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-W-0745",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={809BA95A-521D-48DD-B1CA-A8175DDAC830}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-W-0745",
+      "file_name": "464_19-W-0745.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-ER Design, Notice of Proposed Rule Making",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19D39FBC-1B07-4933-A49D-94B08CFE0CB1}",
+      "organization": "ER Design Build, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0745",
+      "file_name": "SWS-ER Design, Notice of Proposed Rule Making 191205.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition by Saratoga Water Services, Inc. and ER Design Build, LLC for a Waiver of the Requirements of 16 NYCRR, Section 501 & 502 and for Approval of an Extension Agreement.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F7D6C3C-5FEB-4F5A-A91E-8E202A827C93}",
+      "organization": "ER Design Build, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0745",
+      "file_name": "SWS-ER Design, Petition to Extn Serv Area.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/05/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED89D608-48C9-4840-B4E5-D15A162FAEB9}",
+      "organization": "ER Design Build, LLC, Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-W-0745",
+      "file_name": "SWS-ER Design, Letter of Transmittal 191205.pdf"
+    }
+  ]
+}

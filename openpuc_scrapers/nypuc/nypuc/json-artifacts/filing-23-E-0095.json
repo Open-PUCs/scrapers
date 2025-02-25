@@ -1,0 +1,60 @@
+{
+  "case": "23-E-0095",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "in-service meter test plan for 76-11th Avenue, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={204C7F8D-0000-C713-9254-E4605A17E31A}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "23-E-0095",
+      "file_name": "in-service meter test plan (4).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BFB08B-0000-C214-BCB0-8095A0CE40AC}",
+      "organization": "76 Eleventh Avenue Property Owner LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0095",
+      "file_name": "compliance letter (4).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0C0438B-0000-C916-8927-09A784C79332}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0095",
+      "file_name": "379_23-E-0095 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={903FE988-0000-CD19-B338-A2E043A45934}",
+      "organization": "76 Eleventh Avenue Property Owner LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0095",
+      "file_name": "additional information 6-23-23 (2).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 76 Eleventh Avenue Property Owner LLC to Submeter Electricity at 76-11th Avenue, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A86F58F1-741F-469E-B0DF-E8B1607C6CAD}",
+      "organization": "76 Eleventh Avenue Property Owner LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0095",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

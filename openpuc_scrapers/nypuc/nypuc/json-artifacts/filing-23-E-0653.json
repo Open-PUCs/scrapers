@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0653",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Approval Order Compliance Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40930592-0000-C819-B9C5-977AB14C167D}",
+      "organization": "Workable St. Johns OZ Sublessee LLC",
+      "itemNo": "7",
+      "docket_id": "23-E-0653",
+      "file_name": "additioanl information.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/18/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter for 991 St. Johns Place",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C08E0592-0000-C532-803F-AC0A0D47FFD1}",
+      "organization": "Workable St. Johns OZ Sublessee LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0653",
+      "file_name": "compliance letter (2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80167691-0000-C71D-AD78-96D4251FB110}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0653",
+      "file_name": "378_23-E-0653 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0DC1190-0000-CC15-85AB-D149850754B9}",
+      "organization": "Workable St. Johns OZ Sublessee LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0653",
+      "file_name": "response letter 6-13-24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={509ED78D-0000-C516-8B1D-5DD7A0457C1F}",
+      "organization": "Workable St. Johns OZ Sublessee LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0653",
+      "file_name": "response letter (2).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/08/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A018B08B-0000-CC11-A34E-5334A16E9C9D}",
+      "organization": "Workable St. Johns OZ Sublessee LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0653",
+      "file_name": "additional information (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Workable St. Johns OZ Sublessee LLC to Submeter Electricity at 991 St. Johns Place, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={104A958B-0000-CF14-A327-BCD5AE8EAB47}",
+      "organization": "Workable St. Johns OZ Sublessee LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0653",
+      "file_name": "Submetering application.pdf"
+    }
+  ]
+}

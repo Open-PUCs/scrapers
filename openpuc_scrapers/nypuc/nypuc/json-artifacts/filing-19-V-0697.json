@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0697",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2438D105-792D-491F-AF1C-A5D2F0A8BD0E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0697",
+      "file_name": "664_19-V-0697.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Name Change",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B11C4BAC-23E7-4ABE-BD2C-EC7871463862}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0697",
+      "file_name": "Cover Letter re-issue (T. Rathbone) TWC to PSC Secretary.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Rathbone, County of Steuben.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DAEFE016-44D3-4BB0-BD7D-3E7826753785}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0697",
+      "file_name": "10.30.19 - T. RATHBONE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

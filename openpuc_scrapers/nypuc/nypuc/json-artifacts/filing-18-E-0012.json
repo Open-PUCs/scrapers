@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0012",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0012 Gocaj Ack Letter 01052018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4905A8D6-FDA0-4345-83F7-F56DC8B75F48}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-E-0012",
+      "file_name": "18-E-0012 Gocaj Ack Letter 01052018_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-E-0012 Gocaj Rehearing Request 01032018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5A77059-5DA2-442E-BD22-CDF11ACE3D79}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-E-0012",
+      "file_name": "18-E-0012 Gocaj Rehearing Request 01032018_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-E-0012 Gocaj SMD Final 12192017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B00B04D9-30BA-40C7-B9C7-8B83FE99876F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-E-0012",
+      "file_name": "18-E-0012 Gocaj SMD Final 12192017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B8E6584-1BA7-4020-83E4-06E9B06A2E3F}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-E-0012",
+      "file_name": "361 Letter_Redacted.pdf"
+    }
+  ]
+}

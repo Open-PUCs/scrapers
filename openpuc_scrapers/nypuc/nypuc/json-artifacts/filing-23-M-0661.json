@@ -1,0 +1,82 @@
+{
+  "case": "23-M-0661",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Con Edison Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20D7F58D-0000-C315-A5B8-BC0CAE561583}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "23-M-0661",
+      "file_name": "2029-02-29 Con Edison Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/27/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-M-0661",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "23-M-0661",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0CFC78D-0000-C419-8D9E-0047390EB38B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-M-0661",
+      "file_name": "262_23-M-0661_final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "CE Elec Proof of Publication AMI Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70301E8D-0000-C01C-BC75-B2D4BDB3B80D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-M-0661",
+      "file_name": "CE Elec Proof of Publication AMI Filing - 2024 0110 (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/06/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-M-0661",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/06/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-M-0661",
+      "file_name": ""
+    }
+  ]
+}

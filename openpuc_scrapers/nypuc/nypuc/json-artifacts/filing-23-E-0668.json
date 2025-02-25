@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0668",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C001978F-0000-CB3C-9E3F-95F6A5802203}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0668",
+      "file_name": "367_23-E-0668.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "ORU_Letter of intent for Case 23_E_0668",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10C1688C-0000-CE18-A7A5-767C8DBF6A38}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "23-E-0668",
+      "file_name": "ORU_Letter of intent for Case 23_E_0668 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Grid Solutions, LLC for Approval of 345kV Current Transformer.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B5B58B-0000-C81F-A75E-80FF333482A8}",
+      "organization": "Grid Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0668",
+      "file_name": "Current transformer_searchable (2).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B5B58B-0000-CB32-86F6-E47D029C9266}",
+      "organization": "Grid Solutions, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0668",
+      "file_name": "NY State current transformer approval (3).pdf"
+    }
+  ]
+}

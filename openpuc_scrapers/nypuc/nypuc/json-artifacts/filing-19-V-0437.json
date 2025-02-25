@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0437",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/09/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "19-V-0437 Parts 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A0DA4D2-4C8F-48F3-B539-5163A810F77F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "19-V-0437",
+      "file_name": "19-V-0437 Parts 2 & 3.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/09/2019",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31838F47-6218-4C8E-9A0D-1A48231FFDE8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-V-0437",
+      "file_name": "663_19-V-0437 Notice of Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF6A506A-92F8-490F-B4D7-54F243AF19AD}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0437",
+      "file_name": "663_19-V-0437 Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/08/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Continues Expansion of State\u00bfs Cable TV Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90754252-E660-4C6F-AA2E-25EE45700E80}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0437",
+      "file_name": "pr19070.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={524770EE-FBAF-4FE1-B561-B65F29D60E32}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "2",
+      "docket_id": "19-V-0437",
+      "file_name": "Affidavit of the Proof of Publication Case 19-V-0437.pdf (195 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/04/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Empire Video Services Corporation for a Certificate of Confirmation for its Franchise with the Village of Dresden, County of Yates.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32178D85-8D89-4F29-96F6-2AD1D3F601C8}",
+      "organization": "Empire Video Services Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0437",
+      "file_name": "PSC Complete Filing.pdf"
+    }
+  ]
+}

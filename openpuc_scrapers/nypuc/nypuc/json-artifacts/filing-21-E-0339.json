@@ -1,0 +1,82 @@
+{
+  "case": "21-E-0339",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "150798_Persaud_SMR_Ack_Letter_061521_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C2AD19B-53F9-433D-92CC-D7F419F05231}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "21-E-0339",
+      "file_name": "150798_Persaud_SMR_Ack_Letter_061521_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "150798_Persaud_Rehearing Request 06112021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6089BD8-D369-4B38-9346-16DA4B0512B4}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "21-E-0339",
+      "file_name": "150798_Persaud_Rehearing Request 06112021_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2021",
+      "nypuc_doctype": "Letters",
+      "name": "150798_Persaud_SMD_Final_052521_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E92918A-EAC3-457A-882B-BC575AABFD9D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "21-E-0339",
+      "file_name": "150798_Persaud_SMD_Final_052521_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response of Con Ed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6CC33EF0-E18C-4C88-8C9E-ABD886E32AEA}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0339",
+      "file_name": "21-E-0339_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination on Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F33CF99E-7BFF-44D3-87BC-849A1688348E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0339",
+      "file_name": "372_21-E-0339 Determination.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/01/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Revised Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={762EE033-6091-40C1-9587-44E2A54CC34B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-E-0339",
+      "file_name": "Revised 21-E-0339 Letter 9.1.21 final_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F677F85-C808-45F9-8C36-C0F4C21F617F}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "21-E-0339",
+      "file_name": "372_1-E-0339 Letter.Final_Redacted.pdf"
+    }
+  ]
+}

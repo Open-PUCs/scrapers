@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0605",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={129236A1-D437-4709-8A3D-F622D2EE02DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0605",
+      "file_name": "661_19-V-0605.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC570CF7-BA2F-4AF1-813C-B5481E8047D7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0605",
+      "file_name": "18-00420 Merged Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry to Upgrade Cable Television Equipment and Facilities Pursuant to Section 228 of the NYS Public Service Law at 591 Ocean Avenue, Brooklyn, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0EA324BA-1005-4BAA-B7D8-4759C69866DD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0605",
+      "file_name": "Petition (591 Ocean Av).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 2 (591 Ocean Av)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B56B15F8-3E25-4F5F-A369-59D41C502C23}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0605",
+      "file_name": "Exhibit 2 (591 Ocean Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 1 (591 Ocean Av)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC20D1EF-AA60-44DD-BA76-2FEAF0DE6F37}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0605",
+      "file_name": "Exhibit 1 (591 Ocean Av).pdf"
+    }
+  ]
+}

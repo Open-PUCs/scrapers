@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0297",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00060389-0000-C81D-88B3-FED7982674A3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0297",
+      "file_name": "375_21-E-0297 Letter 6.28.23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/28/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00060389-0000-C038-9C6B-44A36DAEE500}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0297",
+      "file_name": "375_21-E-0297 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A39ED3E7-D818-4F41-8D8D-5087F5E87E72}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-E-0297",
+      "file_name": "Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59C244F7-CD0C-43E5-953D-30DFBECBBC5F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0297",
+      "file_name": "020640 125 Metro Owner LLC Ack.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/25/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA227B27-A3E6-4A75-9445-3BC962E6DC46}",
+      "organization": "125 Metropolitan Owner LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0297",
+      "file_name": "Appeal 020640.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/25/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3464BD54-124C-44D1-BD7A-27E0A0AA18F7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0297",
+      "file_name": "IR 020640.pdf"
+    }
+  ]
+}

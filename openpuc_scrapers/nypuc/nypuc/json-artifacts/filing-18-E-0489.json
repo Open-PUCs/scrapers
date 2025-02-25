@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0489",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/26/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "18-E-0489",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Modifying Reconciliation of Electric Purchase of Receivables",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FF1E52A-BD1B-4D63-801B-0FE48E47FFF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0489",
+      "file_name": "364_18-E-0489.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A492FBF-9D28-41C6-A9E3-24AF50E0140A}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-E-0489",
+      "file_name": "CE Elec POR Proof of Publication 2018 0913.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/30/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0489",
+      "file_name": ""
+    }
+  ]
+}

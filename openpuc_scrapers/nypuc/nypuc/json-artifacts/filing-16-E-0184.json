@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0184",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2017",
+      "nypuc_doctype": "Reports",
+      "name": "45 Vandenburgh Ave, Troy, NY - Meter Test Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47C33A52-1D9E-4B26-9A4C-40BA42C84A4C}",
+      "organization": "HV Housing, LLC",
+      "itemNo": "6",
+      "docket_id": "16-E-0184",
+      "file_name": "HV Housing Meter Test Form 10 13 2017.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/31/2017",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8085E03-3B6C-4FDB-A8B3-957EC25B52DF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-E-0184",
+      "file_name": "16-E-0184-United Development Corp - Extension Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/28/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Meter Test Plan Extension Request for 45 Vandenburgh Avenue in Troy, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F33325D5-FD54-4A5D-B9A9-126CD76B229E}",
+      "organization": "United Development Corp.",
+      "itemNo": "4",
+      "docket_id": "16-E-0184",
+      "file_name": "Meter Test Plan Extension Request 3-28-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1A4FA3E-1F9D-4B0C-9736-C3618C9BEC72}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0184",
+      "file_name": "361_16e0184.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "PSC Application - Updated on 4/20/16",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2BE3F5AA-DC7A-4EC0-9150-A758FF6F80EC}",
+      "organization": "HV Housing, LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0184",
+      "file_name": "Updated PSC Application - HV Housing LLC 4 20 16.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of HV Housing, LLC to Submeter Electricity at 45 Vandenburgh Avenue, Troy, NY Located in the Territory of National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={894B8125-6F3C-48C7-87A4-23FC1478A4BB}",
+      "organization": "HV Housing, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0184",
+      "file_name": "HV Housing - Petition to Submeter Electricity - 45 Vandenburgh Ave Troy.pdf"
+    }
+  ]
+}

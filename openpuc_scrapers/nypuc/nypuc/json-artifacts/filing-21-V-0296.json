@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0296",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C9836C5-94E6-4698-9CEA-01517FB16CED}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0296",
+      "file_name": "663_21-V-0296 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Sullivan, County of Madison.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1FDB58D-5D20-42C9-9DC1-D062E4AC9D37}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0296",
+      "file_name": "2021.05.21 T. SULLIVAN RENEWAL FILED, PSC-AK.pdf"
+    }
+  ]
+}

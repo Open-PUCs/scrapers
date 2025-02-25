@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0416",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76E74F77-C0B0-4A66-BDCA-8355328F23A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0416",
+      "file_name": "364_18-E-0416.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7498332-C828-460B-83BF-152AEB463510}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-E-0416",
+      "file_name": "CE Elec Standby offset recipient acct 2018 0816.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-E-0416",
+      "file_name": ""
+    }
+  ]
+}

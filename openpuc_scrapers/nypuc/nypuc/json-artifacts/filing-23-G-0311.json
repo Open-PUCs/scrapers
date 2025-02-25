@@ -1,0 +1,60 @@
+{
+  "case": "23-G-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508EA188-0000-CC22-A253-97EED93799BA}",
+      "organization": "Linde Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0311",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Redacted Final Petition for Special Permit with Appendix A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={408EA188-0000-C31C-BE4D-167F6C2DF902}",
+      "organization": "Linde Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0311",
+      "file_name": "2023-06-08 Redacted Final Petition for Special Permit with Appendix A.PDF"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proposed Special Permit Condition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508EA188-0000-C68C-96F7-FCDA95ED4719}",
+      "organization": "Linde Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0311",
+      "file_name": "2023-06-09 Proposed Special Permit Condition.PDF"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "PSC RAO Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508EA188-0000-CA61-90D4-4172D46C955D}",
+      "organization": "Linde Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0311",
+      "file_name": "2023-06-09 PSC RAO Letter.PDF"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/09/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "PSC Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={508EA188-0000-CA41-9A2B-D192259C529A}",
+      "organization": "Linde Inc.",
+      "itemNo": "1",
+      "docket_id": "23-G-0311",
+      "file_name": "2023-06-09 PSC Cover Letter.PDF"
+    }
+  ]
+}

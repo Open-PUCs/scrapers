@@ -1,0 +1,60 @@
+{
+  "case": "17-G-0191",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-G-0191 Necula Ack Letter 04062017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D10E885B-130C-49A9-847D-6AE5498DE5FB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-G-0191",
+      "file_name": "17-G-0191 Necula Ack Letter 04062017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-G-0191 Necula Rehearing Request 04062017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A4A7B23-40B6-4A11-8D5C-B73945F91A19}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-G-0191",
+      "file_name": "17-G-0191 Necula Rehearing Request 04062017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-G-0191 Necula SMD Final 03062017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22CE69A0-BEF6-413B-A315-C58862442927}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-G-0191",
+      "file_name": "17-G-0191 Necula SMD Final 03062017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a rehearing petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCE3A064-092E-4FFA-8DD2-8C86E9679284}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0191",
+      "file_name": "170 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/27/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0707A8B-80DE-491B-9102-401BC3DA8E01}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0191",
+      "file_name": "170 Determination.pdf"
+    }
+  ]
+}

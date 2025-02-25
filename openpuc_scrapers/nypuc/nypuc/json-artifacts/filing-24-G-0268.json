@@ -1,0 +1,71 @@
+{
+  "case": "24-G-0268",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0685590-0000-CB12-A39F-F4A04084911C}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0268",
+      "file_name": "161-B_24-G-0268 Order & Attachment.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240507 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0AD598F-0000-C115-91E1-37E3583E91B1}",
+      "organization": "Del Signore Blacktop Paving, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0268",
+      "file_name": "20240507 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240404 - Training Documentation - CEP - 21 Employees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0C8AE8E-0000-C81E-9B8B-3171CC0BD609}",
+      "organization": "Del Signore Blacktop Paving, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0268",
+      "file_name": "20240404 - Training Documentation - CEP - 21 Employees.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240308 - Response to NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80EE608E-0000-CA14-8C31-96BE71F94B9D}",
+      "organization": "Del Signore Blacktop Paving, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0268",
+      "file_name": "20240308 - Response to NOPV Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240308 - Payment ($500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90EE608E-0000-C326-A424-A62ECF46F257}",
+      "organization": "Del Signore Blacktop Paving, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0268",
+      "file_name": "20240308 - Payment ($500) - Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240220 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8043CC8D-0000-C81D-8F57-8BCE49FAF194}",
+      "organization": "Del Signore Blacktop Paving, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-G-0268",
+      "file_name": "20240220 - Consent Offer Letter.pdf"
+    }
+  ]
+}

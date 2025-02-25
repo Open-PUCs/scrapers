@@ -1,0 +1,27 @@
+{
+  "case": "24-M-0057",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "2023 Customer Service Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={308F3690-0000-C610-B250-FE3F9451016E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-M-0057",
+      "file_name": "202_24-M-0057 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/20/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Levied $23.5 Million in Financial Penalties Against 5 Utilities in 2024 for Failing to Meet 2023 Customer Service Standards",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0873690-0000-C619-899B-7F60CA83D7D6}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-M-0057",
+      "file_name": "pr24051.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0440",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3081B592-0000-CC1E-B10A-DE41DA204ECD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0440",
+      "file_name": "661_24-V-0440.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F9E590-0000-C41C-BF18-47B16A1F77C5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0440",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Owego 7.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10F9E590-0000-CE1F-9C78-DC11EAC58933}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0440",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Owego 7.24.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Owego-Request for Renewal and Certificate of Confirmation(redacted) 7.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F9E590-0000-C353-AAFC-B3D68D4B26E9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0440",
+      "file_name": "Charter Communications, V. Owego-Request for Renewal and Certificate of Confirmation(redacted) 7.24.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Owego Cover letter-Request for Renewal and Certificate of Confirmation 7.24.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20F9E590-0000-C23F-B357-A900E6809E64}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0440",
+      "file_name": "Charter Communications, V. Owego Cover letter-Request for Renewal and Certificate of Confirmation 7.24.24.pdf"
+    }
+  ]
+}

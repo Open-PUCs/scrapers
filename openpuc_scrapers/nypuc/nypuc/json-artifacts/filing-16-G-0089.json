@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0089",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/13/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Order in Regards to Penalty and Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2D0C48F-4D32-4BC9-857F-1256FF14FE5E}",
+      "organization": "Sun Up Enterprises, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0089",
+      "file_name": "Sun Up Enterprises, Inc..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38BA7564-2F77-4EFC-BD9A-71C010BC4117}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0089",
+      "file_name": "161_16g0089.pdf"
+    }
+  ]
+}

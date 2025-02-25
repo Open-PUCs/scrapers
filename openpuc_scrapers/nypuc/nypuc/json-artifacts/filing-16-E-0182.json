@@ -1,0 +1,93 @@
+{
+  "case": "16-E-0182",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Company 's determination letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={750F3511-30CD-45FF-BB5D-6D6CC22E7DC9}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "16-E-0182",
+      "file_name": "Case 16-E-0182(337154).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0BCCB67-A411-4D5F-8766-73465197A9BA}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0182",
+      "file_name": "374_Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9406DF1-FBF5-4686-8E4E-3EEB73936D6A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "16-E-0182",
+      "file_name": "374_ Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/25/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Supplemental Information_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7C70329-E67F-483F-BFA6-F18FB01CFF10}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "16-E-0182",
+      "file_name": "16-E-0182_Addtl Info Received_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/25/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Supplement to Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01E477EF-E5F8-460F-BD69-5EF483C0A6A0}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "16-E-0182",
+      "file_name": "337154_Addtl_Info_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/24/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FEC5B064-63C9-43BE-AEB7-00DB90CEEEFE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0182",
+      "file_name": "337154 Acknowledgement Letter_Redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14A6E642-8329-4D27-8FE2-BDBAB37FB752}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "16-E-0182",
+      "file_name": "337154_petition_Redacted.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FC502DC-3CCE-4C95-929F-2CAAAA23EE65}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0182",
+      "file_name": "337154_IH_Decision (002)_Redacted.pdf"
+    }
+  ]
+}

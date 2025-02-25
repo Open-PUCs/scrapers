@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0360",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86F6835C-7B0E-439D-8C98-4C54DB0C0631}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0360",
+      "file_name": "661_22-V-0360.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37A33B45-4B1F-4106-8363-36BD9B5BB524}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0360",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Wayland-6.22.22 Letter R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F04B7421-3AF0-4E3C-AEDF-929E0712C4FF}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0360",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Wayland-6.22.22 Letter R-2.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Wayland Request for Renewal, Certificate of Confirmation REDACTED 06.22.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D787A3EB-D4EA-4EFB-BAA2-0D9C5746449A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0360",
+      "file_name": "Charter Communications, V. Wayland Request for Renewal, Certificate of Confirmation REDACTED 06.22.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Wayland Cover Letter Request for Renewal, Certificate of Confirmation 06.22.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08F4909B-B96C-4388-A19A-164DDAA322C1}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0360",
+      "file_name": "Charter Communications, V. Wayland Cover Letter Request for Renewal, Certificate of Confirmation 06.22.22.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "21-G-0309",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance with Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5083238A-0000-CD1E-B691-E389A61E7A8D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-G-0309",
+      "file_name": "21-G-0309 019006 Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0141E8A-0000-C318-856F-9ED0037F4DF6}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0309",
+      "file_name": "163_21-G-0309_Letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0141E8A-0000-CC38-A3EE-327EB7C95539}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-G-0309",
+      "file_name": "163_21-G-0309_Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23F34EAE-373E-4844-BC6D-03231722BBDF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "21-G-0309",
+      "file_name": "Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D349ED8-FCE9-47A5-B598-DA68F4CC257B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-G-0309",
+      "file_name": "019006 Maria Bernardo Houses Ack.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/04/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6609D93A-6AE2-4635-8A87-DD6C834A5635}",
+      "organization": "Maria and Bernardo Houses/Wavecrest Management",
+      "itemNo": "2",
+      "docket_id": "21-G-0309",
+      "file_name": "Appeal 019006.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB989AA6-77DF-4D0D-B88D-FC0434566959}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-G-0309",
+      "file_name": "IR 019006.pdf"
+    }
+  ]
+}

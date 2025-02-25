@@ -1,0 +1,38 @@
+{
+  "case": "18-W-0669",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Request for a Declaratory Ruling and Approving Water Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F90D2CAF-5417-44CF-B7A2-FEA03728144C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-W-0669",
+      "file_name": "461_18-W-0669.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "SWWC Petition for Approval of Protectus III Meter and Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BFB413FA-F7F4-4064-ABA4-085C5D1000FB}",
+      "organization": "SUEZ Water Westchester Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0669",
+      "file_name": "20181024 - SWWC Petition for Approval of Protectus III Meter and Exhibits.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/24/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BF0FF62-ACE4-4FE0-930B-5A13AFCB3671}",
+      "organization": "SUEZ Water Westchester Inc.",
+      "itemNo": "1",
+      "docket_id": "18-W-0669",
+      "file_name": "20181024 - Cover Ltr to Sec Burgess submitting Petition for Meter Approval.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "18-E-0665",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACF92D81-AC13-4ED8-B7C6-3C0292DACD51}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-E-0665",
+      "file_name": "371 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FDACE15-4AC8-43F3-AF9F-77B4C7223F8D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0665",
+      "file_name": "371 Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/18/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F157115-09C5-4975-A22B-7E43ED415AB0}",
+      "organization": "UtiliSave, LLC.",
+      "itemNo": "4",
+      "docket_id": "18-E-0665",
+      "file_name": "Ltr. to Sec. Burgess- In Re 18-E-0663 etc. 9.18.19-OCR.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA948A6B-7998-4B72-83FF-DE9A491864FE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0665",
+      "file_name": "Appeal 732688 732908 732910.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/19/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A89EFF60-5FE4-43BF-9782-B3C166D82730}",
+      "organization": "101 Park Ave. Associates",
+      "itemNo": "2",
+      "docket_id": "18-E-0665",
+      "file_name": "10-12-18 Appeal to PSC -Cases 732908-732688-732910.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B781395-D94B-4D29-AAAC-E439E9D1EF84}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0665",
+      "file_name": "UtiliSave vs Con Edison cases 732908,732688,732910 .pdf"
+    }
+  ]
+}

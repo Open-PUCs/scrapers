@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0207",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30615A90-0000-C318-93C4-575805960A2F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0207",
+      "file_name": "662_24-V-0207 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4083A58E-0000-CE7D-8301-3A9110FCDAB6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0207",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Elbridge, 4.3.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4083A58E-0000-C251-B97C-E0EC3BFEF074}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0207",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Elbridge, 4.3.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Elbridge-Cover Letter-Request for Renewal and Certificate of Confirmation 4.3.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4083A58E-0000-CD3B-B8DA-5EFC22DFFF86}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0207",
+      "file_name": "Charter Communications, V. Elbridge-Cover Letter-Request for Renewal and Certificate of Confirmation 4.3.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Elbridge -Request for Renewal and Certificate of Confirmation(redacted) 4.3.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4083A58E-0000-CC9A-9469-06E6725DAAF3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0207",
+      "file_name": "Charter Communications, V. Elbridge -Request for Renewal and Certificate of Confirmation(redacted) 4.3.24.pdf"
+    }
+  ]
+}

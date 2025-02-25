@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0731",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B1878F-0000-CB1F-91C9-473DA5A400C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0731",
+      "file_name": "362_23-E-0731_Neg. Dec..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B09E878F-0000-C510-BDCC-0FD23CF68BE2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0731",
+      "file_name": "362_23-E-0731_Order51724 fnl.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/15/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Short Environmental Assessment Form Part 2 and 3 March 14, 2024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C08E7C8F-0000-CC38-9228-A4AC059045A1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0731",
+      "file_name": "23-E-0731 Short Environmental Assessment Form Part 2 and 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C08E7C8F-0000-CF15-A6B5-D14AE283424C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0731",
+      "file_name": "23-E-0731 Cover Letter for Short EAF Parts 2 and 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter Supplement to Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60ECE78E-0000-C11B-A249-FEAA0D8CE097}",
+      "organization": "Gate City Power - NE Generation LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0731",
+      "file_name": "23-E-0731 GSP-NEP - Ltr to Hon. Phillips re Joint Petition -04.16.2024.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/26/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of New Athens Generating Co., LLC, NorthEast Gas Generation, LLC and Gate City Power - NE Generation LLC for Approval of a Proposed Transfer Pursuant to PSL Section 70 Under Lightened Regulation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0085A68C-0000-CC13-A639-C87673FF6099}",
+      "organization": "Gate City Power - NE Generation LLC, New Athens Generating Co.,LLC, NorthEast Gas Generation, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0731",
+      "file_name": "PSC Application New Athens 12.26.pdf"
+    }
+  ]
+}

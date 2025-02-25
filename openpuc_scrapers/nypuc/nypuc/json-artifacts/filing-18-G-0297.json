@@ -1,0 +1,38 @@
+{
+  "case": "18-G-0297",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition For Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73BF7A0E-5000-4B66-910C-E772D88F1DD7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0297",
+      "file_name": "163_18-G-0297.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/03/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F76E6E36-6D91-4C3D-B9AF-DE4A4FE52334}",
+      "organization": "Judlau Contracting, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-G-0297",
+      "file_name": "Petition for Reconsideration.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D84ACCB-5598-46EF-B674-3E3893633778}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0297",
+      "file_name": "161-A_18g0297 - 6.21.pdf"
+    }
+  ]
+}

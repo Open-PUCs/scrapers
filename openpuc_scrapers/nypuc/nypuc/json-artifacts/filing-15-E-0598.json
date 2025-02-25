@@ -1,0 +1,49 @@
+{
+  "case": "15-E-0598",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Withdrawal of Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={119EDFF9-CE2E-4BA8-8DA4-64F04D195029}",
+      "organization": "31 Lincoln Road Development LLC",
+      "itemNo": "4",
+      "docket_id": "15-E-0598",
+      "file_name": "Withdrawal of Application.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88E4F590-8814-4013-82AF-53AEFEAC3CF8}",
+      "organization": "31 Lincoln Road Development LLC",
+      "itemNo": "3",
+      "docket_id": "15-E-0598",
+      "file_name": "Case _ 15-E-0598.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/09/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Submetering ID Forms",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={630708D8-0EEA-4219-B9A3-94E5C93C273D}",
+      "organization": "31 Lincoln Road Development LLC",
+      "itemNo": "2",
+      "docket_id": "15-E-0598",
+      "file_name": "revised submetering ID forms.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/08/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 31 Lincoln Road Development LLC to Submeter Electricity at 31-33 Lincoln Road, Brooklyn, NY 11225 and 510 Flatbush Avenue, Brooklyn, NY 11225",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A4C583C-8AED-472B-8002-3DBBB180C2BF}",
+      "organization": "31 Lincoln Road Development LLC",
+      "itemNo": "1",
+      "docket_id": "15-E-0598",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

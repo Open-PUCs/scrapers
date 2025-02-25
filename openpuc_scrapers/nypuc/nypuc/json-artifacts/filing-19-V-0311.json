@@ -1,0 +1,60 @@
+{
+  "case": "19-V-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B5799F7-5C41-4726-926A-E8346C8A731F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0311",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Ava Resolution, corrected",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD95EADC-609D-416D-AF95-053D43C1D18F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0311",
+      "file_name": "061119 - T Ava Resolution, corrected.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "PSC staff Email 060619- incorrect case identified T Ava",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF809D1B-5406-4F6C-A5A3-28213B45A721}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0311",
+      "file_name": "PSC staff Email 060619- incorrect case identified T Ava.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={297509E0-1299-4EE2-9E7C-4A25905181A6}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0311",
+      "file_name": "061119 - T Ava, Ltr to Secretary _Resolution-Corrected.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Ava, Oneida County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65CEB6AB-4EFD-46D1-9FBF-721A093A289B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0311",
+      "file_name": "043019 T AVA PSC RENEWAL SUBMISSION.pdf"
+    }
+  ]
+}

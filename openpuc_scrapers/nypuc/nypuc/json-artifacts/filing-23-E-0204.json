@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0204",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/04/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter with Attachments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={108B278C-0000-C719-8114-D072BF9D9E05}",
+      "organization": "83rd Street Owners Corp.",
+      "itemNo": "5",
+      "docket_id": "23-E-0204",
+      "file_name": "CASE 23-E-0204 ORDER ACCEPTANCE LETTER.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80CC438B-0000-C019-8C8B-E119FF147E80}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0204",
+      "file_name": "394_23-E-0204 .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60856A89-0000-C41F-A79C-CF43250D46F3}",
+      "organization": "83rd Street Owners Corp.",
+      "itemNo": "3",
+      "docket_id": "23-E-0204",
+      "file_name": "46W 83rd St. ADDITIONAL INFORMATION. SUBMETERING PETITION.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/08/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Members Notifying Publication - 46 W83rd",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0FAED87-0000-C814-AF51-1651378245C2}",
+      "organization": "83rd Street Owners Corp.",
+      "itemNo": "2",
+      "docket_id": "23-E-0204",
+      "file_name": "NOTICE OF INTENT TO SUBMETER PUBLICATION. 46 W83RD.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Submetering of 83rd Street Owners Corp.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0E77F87-0000-C218-A0BC-32E648604B3F}",
+      "organization": "83rd Street Owners Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0204",
+      "file_name": "Petition For Submetering Executive Summary. 83RD STREET OWNERS CORP. .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0E77F87-0000-C63D-99E9-D563492DADE7}",
+      "organization": "83rd Street Owners Corp.",
+      "itemNo": "1",
+      "docket_id": "23-E-0204",
+      "file_name": "83RD ST OWNERS CORP. COVER LETTER. PETITION.pdf"
+    }
+  ]
+}

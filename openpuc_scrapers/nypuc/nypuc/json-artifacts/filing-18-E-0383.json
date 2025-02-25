@@ -1,0 +1,93 @@
+{
+  "case": "18-E-0383",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "711 Seagirt Avenue Holdings LLC - Approval Order Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76B2B1E9-B6F6-496D-8BEB-C4E6C938EEED}",
+      "organization": "711 Seagirt Avenue Holdings LLC",
+      "itemNo": "8",
+      "docket_id": "18-E-0383",
+      "file_name": "711 Seagirt Avenue Holdings LLC - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/23/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B4B4062A-8121-42B1-9B2A-DFF599A9081F}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "18-E-0383",
+      "file_name": "379_18-E-0383.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Filing_711 Seagirt Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B1E5839-0340-423C-B4EC-8862648BC51A}",
+      "organization": "711 Seagirt Avenue Holdings LLC",
+      "itemNo": "6",
+      "docket_id": "18-E-0383",
+      "file_name": "Supplemental Filing_711 Seagirt Ave_10.19.2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Letter - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D13170B7-5EB8-47AF-9E89-8BAAE3AFA5B8}",
+      "organization": "711 Seagirt Avenue Holdings LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0383",
+      "file_name": "Supplemental Filing_711 Seagirt Ave_February 2022.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/09/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Filing - 711 Seagirt Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={678DF2F0-BBEF-44E1-9665-2ABC5E682460}",
+      "organization": "711 Seagirt Avenue Holdings LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0383",
+      "file_name": "Supplemental Filing_711 Seagirt Ave_8-9-21.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/07/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "711 Seagirt Avenue Holdings LLC - SAPA Notice Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={954E3941-3D8D-403E-A227-DBD661588A66}",
+      "organization": "711 Seagirt Avenue Holdings LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0383",
+      "file_name": "711 Seagirt Avenue Holdings LLC - SAPA Notice Filing.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/20/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={578A53B0-4D72-4627-983B-A31C9AF22F13}",
+      "organization": "711 Seagirt Avenue Holdings LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0383",
+      "file_name": "Supplemental Filing_711 Seagirt Ave_4-20-21_Complete.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 711 Seagirt Avenue Holdings LLC to Submeter Electricity at 711 Seagirt Avenue, Queens, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1E30959-66AF-47AA-A841-5C985FB20B8C}",
+      "organization": "711 Seagirt Avenue Holdings LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0383",
+      "file_name": "Submetering Notice of Intent_Seagirt.pdf"
+    }
+  ]
+}

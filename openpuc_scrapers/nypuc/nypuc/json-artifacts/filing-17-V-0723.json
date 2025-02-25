@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0723",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51B7B841-686E-4174-8E2E-403B4C0B34CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0723",
+      "file_name": "17-V-0723 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADDD93E2-639C-4AD4-9CCB-FDBD5074126A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0723",
+      "file_name": "201110 Letter re Matter 17-00835 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF8D510A-5931-46DD-AA3B-41A197891A6F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "17-V-0723",
+      "file_name": "190213 VZ Letter re 170427 Petition-1 (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9240E298-636D-4212-B762-871B0ED41356}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0723",
+      "file_name": "17-00835 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 375 East 199th Street, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BE58110-5F34-4653-99CE-A1C05BECE3BD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0723",
+      "file_name": "170424 Petition re 375 E 199 St.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71DAC25D-281C-4ABC-947F-25CB17215382}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0723",
+      "file_name": "Exhibit 2 (375 E 199 St).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CBADCA2-3C39-4D14-B2F3-B6E76CE2EDF8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0723",
+      "file_name": "Exhibit 1 (375 E 199 St).pdf"
+    }
+  ]
+}

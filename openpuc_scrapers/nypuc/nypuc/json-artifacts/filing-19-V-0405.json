@@ -1,0 +1,93 @@
+{
+  "case": "19-V-0405",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={591A6FEA-E5E9-45D9-B97C-C9E28048495B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0405",
+      "file_name": "661_19-V-0405.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/28/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "North Castle Affidavit and Notice of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00BCE0E8-195D-46BC-A3D8-C3EB8094F58B}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "2",
+      "docket_id": "19-V-0405",
+      "file_name": "North Castle AUSA Affidavit and Notice of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC239DCB-5C14-402C-A332-9C812328879C}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0405",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Westchester Corporation, c/o Altice USA for Approval of the Renewal of its Franchise with the Town of North Castle of Westchester County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E87F03BC-6F81-4723-A77E-0F78C8381306}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0405",
+      "file_name": "North Castle Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit IV - North Castle Franchise Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A52FCF3-FDDC-40F6-AB30-A95717F01615}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0405",
+      "file_name": "Exhibit IV - North Castle Franchise Agreement.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit III - North Castle Resolution.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C0C6635-14B5-415E-A577-D51B06F4FD44}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0405",
+      "file_name": "Exhibit III - North Castle Resolution..pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit II - North Castle Affidavit and Notice of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={342987DE-7F99-43EA-B66C-2388D9CD8BA9}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0405",
+      "file_name": "Exhibit II - North Castle Affidavit and Notice of Publication.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/23/2019",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88153A28-7892-4E2F-9ACF-FDA7B3555BF0}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "19-V-0405",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

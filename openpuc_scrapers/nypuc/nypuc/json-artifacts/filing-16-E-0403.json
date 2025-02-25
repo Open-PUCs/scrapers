@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0403",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Meter Test Plan for Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE002C57-8B31-493B-BD7A-06D441A0AE91}",
+      "organization": "Elmo Homes, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-E-0403",
+      "file_name": "NYPSC annual in-serivce submeter report 728 41st St. ELMO.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A04A6A6-B78B-4B3B-97BC-0FEFBE41A201}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0403",
+      "file_name": "363_16e0403.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1D9AA7E-CF90-4235-B37D-E00C4B1B1AD8}",
+      "organization": "Elmo Homes, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0403",
+      "file_name": "Petition For Submetering. Case 16-E-0403. Additional Information.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/19/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Elmo Homes, Inc. to Submeter Electricity located at 728 41st Street, Brooklyn, NY 11232 in the territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A68B037D-A77A-4736-8B17-8BD6BB843580}",
+      "organization": "Elmo Homes, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0403",
+      "file_name": "Petition For Submetering.final. 728 41st St. Brooklyn NY 11232.pdf"
+    }
+  ]
+}

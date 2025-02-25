@@ -1,0 +1,49 @@
+{
+  "case": "23-V-0683",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0EFC78D-0000-CA16-BD7C-1A801CEE4D84}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0683",
+      "file_name": "662_23-V-0683_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0EFC78D-0000-C33C-B5D6-67245425E6FC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0683",
+      "file_name": "662_23-V-0683 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2024",
+      "nypuc_doctype": "Letters",
+      "name": "23-V-0683 DTC Cable - T of Sanford Letter to Secretary and SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5006228D-0000-C619-9D13-2EE425349DFD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0683",
+      "file_name": "23-V-0683 DTC Cable - T of Sanford Letter to Secretary and SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for a Certificate of Confirmation for its Franchise with the Town of Sanford, Broome County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A027ED8B-0000-CE1E-B15E-F11E95531B81}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0683",
+      "file_name": "Town of Sanford Cable Franchise Package.pdf"
+    }
+  ]
+}

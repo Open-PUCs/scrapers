@@ -1,0 +1,27 @@
+{
+  "case": "20-G-0275",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing/Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A852C1DF-F060-4C65-9FFD-11594AB02E10}",
+      "organization": "M&T Excavation",
+      "itemNo": "4",
+      "docket_id": "20-G-0275",
+      "file_name": "20-G-0274 and 0275 MT Excavation Reqt. for Rehearing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/04/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6BBA257-58AE-4777-AC3B-70A2BA0CAD17}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-G-0275",
+      "file_name": "162-A_20-G-0275 & 20-G-0274.pdf"
+    }
+  ]
+}

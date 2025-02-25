@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0411",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A78853CB-7540-42A3-B119-17D8EF0DEEA0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0411",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Page 14",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={58C48C15-B4F9-41A8-9E61-ABE066DAEBCC}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0411",
+      "file_name": "Wellsville T Sig Pg 14 040119 (2).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/07/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9E5E8F5B-F6B2-4E9C-A406-BE16C9C600B3}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0411",
+      "file_name": "060719 Franchise Sig Pg 14 aligned, ltr sent to PSC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/31/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Wellsville, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06ACA8A9-9A3F-4001-B5FB-A3185112C86D}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0411",
+      "file_name": "05.31.19 T. WELLSVILLE FRANCHISE RENEWAL TO PSC.pdf"
+    }
+  ]
+}

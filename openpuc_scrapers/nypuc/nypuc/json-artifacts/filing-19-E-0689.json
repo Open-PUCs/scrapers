@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0689",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/16/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Compliance Letter for 378 West End Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF3C882F-2F71-4FF8-AC2B-245238D97943}",
+      "organization": "378 WEA OWNER LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0689",
+      "file_name": "Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FF0DEB0-7543-4F06-ACA6-56D591E7A241}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0689",
+      "file_name": "365_19-E-0689.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/17/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FAC0E34-BF34-4B9F-9AFA-1C745C070188}",
+      "organization": "378 WEA OWNER LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0689",
+      "file_name": "additional information 12-17-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/23/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 378 WEA OWNER LLC to Submeter Electricity at 378 West End Avenue, New York, New York 10024, Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E268B783-6FF8-4B61-827D-7B00937B4CB0}",
+      "organization": "378 WEA OWNER LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0689",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

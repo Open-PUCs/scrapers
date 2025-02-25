@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0306",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5385DA83-EA46-43DD-B14C-8A5D5F4BAD7B}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "22-V-0306",
+      "file_name": "661_22-V-0306.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/21/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01845 Letter to Building Owner Offering Facilitation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5584E7C5-36F5-4B80-BD32-ECDD2C158576}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "9",
+      "docket_id": "22-V-0306",
+      "file_name": "21-01845 Letter to Building Owner Offering Facilitation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={02DFC448-311B-4810-BAA3-FA78E3BF7B6D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "8",
+      "docket_id": "22-V-0306",
+      "file_name": "220420_21-01845_527 E 13 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/21/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63677648-D7B9-4384-A5A0-61D6B2F3D049}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "7",
+      "docket_id": "22-V-0306",
+      "file_name": "220321_21-01845_527 E 13 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD583EBE-3B8A-467B-B364-C85CC3436A47}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "6",
+      "docket_id": "22-V-0306",
+      "file_name": "220222_21-01845_527 E 13 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD38AD9D-4A5D-4850-A207-9A5CB2C1CF50}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "22-V-0306",
+      "file_name": "220120_21-01845_527 E 13 ST_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-01845 Letter to Verizon New York Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F438C0-B410-4644-843F-721673132C2B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-V-0306",
+      "file_name": "21-01845 Letter to Verizon New York Inc..pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01845 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={080B5F3C-6B4A-4AC4-A176-3DCEA8032776}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0306",
+      "file_name": "21-01845 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 527 East 13th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7385A44-D5D2-48DF-B439-58E2C7043896}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0306",
+      "file_name": "11-210826 Petition (527 E 13 ST) (Complete).pdf"
+    }
+  ]
+}

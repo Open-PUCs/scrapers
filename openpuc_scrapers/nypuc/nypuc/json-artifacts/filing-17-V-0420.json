@@ -1,0 +1,93 @@
+{
+  "case": "17-V-0420",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F2A3126-67D0-488E-8BA8-DADA65C00FF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0420",
+      "file_name": "663_17-V-0420.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Exhibit E to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15D9538C-C893-4775-85B7-0BE198FCB3EF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0420",
+      "file_name": "Williston Park Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Williston Park, New York (Nassau County)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F4709FD-2861-445D-BAAA-D08D8CC4D701}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0420",
+      "file_name": "Williston Park Renewal Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit E",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E421583-CBC6-4B9D-A65E-F9C29B2A506A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0420",
+      "file_name": "Williston Park Exhibit E.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit D",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A26F155C-89F5-45A3-B21B-FCD405493F3E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0420",
+      "file_name": "Williston Park Exhibit D.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71C5DD46-E11E-4F35-A8F4-B1DD1D191F3E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0420",
+      "file_name": "Williston Park Exhibit C.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2649333-6B9F-4615-86FF-EDC941927B49}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0420",
+      "file_name": "Williston Park Exhibit B.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/10/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1FEAB4E-1B32-45F0-AB94-0AE380716257}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0420",
+      "file_name": "Williston Park Exhibit A.pdf"
+    }
+  ]
+}

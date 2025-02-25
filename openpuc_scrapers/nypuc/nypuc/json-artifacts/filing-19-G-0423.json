@@ -1,0 +1,38 @@
+{
+  "case": "19-G-0423",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E978656-FA20-470C-93A5-71C4D5F74C5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-G-0423",
+      "file_name": "164-C_19-G-0423.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDA54247-CD1B-4EE3-970B-D1C755B2B176}",
+      "organization": "Respondent",
+      "itemNo": "2",
+      "docket_id": "19-G-0423",
+      "file_name": "Response to Final Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BDE3B5C-66CB-4EC7-BBE3-FB95DFC99B4D}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0423",
+      "file_name": "165-A_19-G-0423.pdf"
+    }
+  ]
+}

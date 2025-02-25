@@ -1,0 +1,82 @@
+{
+  "case": "18-E-0602",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={841B8F48-3534-462F-B6F0-AC4AAA76800E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-E-0602",
+      "file_name": "371 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={347353F3-69F7-4AB3-86B3-116538F4069B}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "18-E-0602",
+      "file_name": "Petition for Rehearing_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/12/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B94811AB-CE47-4230-9FB2-B3BFE1645B7B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0602",
+      "file_name": "365 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/12/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA01F566-4F7D-4390-8940-23B05A84C79C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0602",
+      "file_name": "365 Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6F23964-D4E7-4881-A1DF-0F318E53FCA4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0602",
+      "file_name": "626773 Kent_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6BBFC7E3-E94F-4DEA-9EA1-CFFAAE561E5A}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-E-0602",
+      "file_name": "Kent appeal_redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/14/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59CA30BE-8456-4598-9595-4B349699D8AE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0602",
+      "file_name": "626773- Informal Hearing Decision (Leah Kent vs. Con Edison)_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0126",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "631 E Tremont Untimely SMR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4813852-2C76-44E5-9D4C-859C3871C787}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-G-0126",
+      "file_name": "22-G-0126 631 E Tremont Untimely SMR 71222.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/03/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "631 E Tremont Petition for Rehearing 03012022_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A034E0A2-E532-41AA-B198-6338EA82174C}",
+      "organization": "631 East Tremont, LLC",
+      "itemNo": "2",
+      "docket_id": "22-G-0126",
+      "file_name": "631 E Tremont Petition for Rehearing 03012022_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2022",
+      "nypuc_doctype": "Letters",
+      "name": "974096_631_E_Tremont_SMD_Final_081420_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C035AD9F-4F0F-4FC8-B2C8-4014F2BF6F05}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-G-0126",
+      "file_name": "974096_631_E_Tremont_SMD_Final_081420_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0143",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D03E4E88-0000-CC1D-B3FA-286C2F47F76D}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0143",
+      "file_name": "661_23-V-0143.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Fredonia Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80E94C87-0000-C713-992F-4B3E2E722B49}",
+      "organization": "Village of Fredonia",
+      "itemNo": "2",
+      "docket_id": "23-V-0143",
+      "file_name": "Village of Fredonia Resolution.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C021F186-0000-CC5B-93E4-475CE4DDFB8E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0143",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Fredonia_3.17.23 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C021F186-0000-C711-ABFA-5EA22FEB8620}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0143",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Fredonia_3.17.23 R-2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Fredonia Cover Letter Request - for Renewal, Certificate of Confirmation 3.17.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C021F186-0000-C974-BFC6-D442488308B8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0143",
+      "file_name": "Charter Communications, V. Fredonia Cover Letter Request - for Renewal, Certificate of Confirmation 3.17.2023.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Fredonia Request for Renewal-Certificate of Confirmation(redacted) 3.17.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C021F186-0000-C098-9002-D9CA73D5A03E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0143",
+      "file_name": "Charter Communications, V. Fredonia Request for Renewal-Certificate of Confirmation(redacted) 3.17.2023.pdf"
+    }
+  ]
+}

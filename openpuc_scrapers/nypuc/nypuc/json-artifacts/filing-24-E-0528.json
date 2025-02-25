@@ -1,0 +1,115 @@
+{
+  "case": "24-E-0528",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B081E791-0000-C215-BCD7-6C441D896598}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "K0127_PNT_IEEE_CVC110B_redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B081E791-0000-C0B3-857F-939C9B788F1C}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "K0127_PNT_IEEE_CVC110B_redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "CVC-110B cover letter confidentiality secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B081E791-0000-C059-A188-D596AEFC5653}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "CVC-110B cover letter confidentiality secretary.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Motions",
+      "name": "CVC-110B cover letter confidentiality RAO",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B081E791-0000-C93A-85B9-A92854F33C19}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "CVC-110B cover letter confidentiality RAO.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "CVC-110B cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B081E791-0000-C27F-A134-F39AF1B08387}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "CVC-110B cover letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB Inc. L23-148 FINAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B081E791-0000-C0DF-958C-DEC2BBB6111E}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "ABB Inc. L23-148 FINAL.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB CVC-110BRER (HCEP) - National Grid Letter of Intent 03-15-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A081E791-0000-C198-9635-FBEA3246F452}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "ABB CVC-110BRER (HCEP) - National Grid Letter of Intent 03-15-24.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB CVC-110BER (HCEP) - National Grid Letter of Intent 03-15-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A081E791-0000-C37F-97A6-D19F992627FE}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "ABB CVC-110BER (HCEP) - National Grid Letter of Intent 03-15-24.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "1VAP429501-DB_CVC-110BER_053023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A081E791-0000-C95D-8E2D-320409594454}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "1VAP429501-DB_CVC-110BER_053023.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "1VAP100255_Declaration of Conformity CVC-110B_redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A081E791-0000-CA37-B982-92681E1F6386}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0528",
+      "file_name": "1VAP100255_Declaration of Conformity CVC-110B_redacted.pdf"
+    }
+  ]
+}

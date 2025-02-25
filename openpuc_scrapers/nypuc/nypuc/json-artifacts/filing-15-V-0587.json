@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0587",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/03/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC3DD6DD-AABB-44FD-A4C6-7F219BD2CB7B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0587",
+      "file_name": "662_15V0587.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Cortlandt - Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54FA74CE-2E33-46C6-8277-4F4903A05B69}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "15-V-0587",
+      "file_name": "Cortlandt Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cortlandt Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={993965AF-D3E4-4484-8A06-D08884C860CC}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0587",
+      "file_name": "Cortlandt Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cortlandt Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={19A99BE8-276D-42BA-AE43-217828D1C70F}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0587",
+      "file_name": "Cortlandt Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cortlandt Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C13929F5-11A1-4AC2-A84C-6A759139ABF4}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0587",
+      "file_name": "Cortlandt Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cortlandt Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5BA81BF-62F2-4687-A2EF-F187F11549A5}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0587",
+      "file_name": "Cortlandt Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Cortlandt Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={671F819B-C031-4C6D-B761-AE8D9A6628A6}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-V-0587",
+      "file_name": "Cortlandt Application Cover Letter.pdf"
+    }
+  ]
+}

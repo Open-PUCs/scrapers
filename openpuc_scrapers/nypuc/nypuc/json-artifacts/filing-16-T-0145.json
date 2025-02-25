@@ -1,0 +1,38 @@
+{
+  "case": "16-T-0145",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/10/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding 16 NYCRR Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15B5654F-AF2D-43AF-9BD1-24BF4C434E84}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-T-0145",
+      "file_name": "16t0145_Part 102 _LTR.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation Concerning the Rotterdam-Altamont #17 115 kV Transmission Line Conductor Clearance Refurbishment Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75687B22-98E6-4FED-8F98-23944D808478}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0145",
+      "file_name": "FINAL_Rotterdam-Altamont Part 102.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2B77F59-0D92-410B-9BF1-3278AC6541B5}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-T-0145",
+      "file_name": "Zafonte Cover Letter for Rotterdam Altamont CCR.PDF"
+    }
+  ]
+}

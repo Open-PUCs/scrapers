@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0588",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "D'Ambrosio SMR Ack. Letter 10212024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10F7AF92-0000-CB16-A0E3-5E108D4A8D43}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0588",
+      "file_name": "DAmbrosio SMR Ack. Letter 10212024_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "341136 SMR Request D'Ambrosio_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80F5AF92-0000-C81B-BFDD-4CE78EC54E06}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0588",
+      "file_name": "341136 SMR Request DAmbrosio_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "341136 D'Ambrosio SMD Final 10082024 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0F2AF92-0000-C624-8455-69C1C1B0883E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0588",
+      "file_name": "341136 Dambrosio SMD Final 10082024 Redacted.pdf"
+    }
+  ]
+}

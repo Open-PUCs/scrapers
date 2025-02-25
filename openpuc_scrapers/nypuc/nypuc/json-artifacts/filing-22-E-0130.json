@@ -1,0 +1,38 @@
+{
+  "case": "22-E-0130",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/17/2022",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Lease Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E94195D2-D698-40A7-B716-B03D1CCC8A9D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0130",
+      "file_name": "374_22-E-0130 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "East Hampton Section 70",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={179A14DB-D41B-4BB6-B076-12A11D64EEA7}",
+      "organization": "National Grid Generation LLC, South Fork Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0130",
+      "file_name": "East Hampton Section 70.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1117054-99DC-455F-9775-C68DEC4D5B4B}",
+      "organization": "National Grid Generation LLC, South Fork Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0130",
+      "file_name": "East Hampton Section 70 Cover Letter.pdf"
+    }
+  ]
+}

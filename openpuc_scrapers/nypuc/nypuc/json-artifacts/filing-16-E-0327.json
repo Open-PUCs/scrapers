@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0327",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/02/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98388350-D604-4617-BDE9-946EDE1E3CCA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0327",
+      "file_name": "363_16e0327.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/02/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verifications of Rachel Kilpatrick and Francois Graux Pursuant to Rule 3.5(e)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F265A89-872C-451A-9E3E-A3ACCECB4610}",
+      "organization": "ENGIE North America Inc., ENGIE S.A., GDF SUEZ Energy Generation NA, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0327",
+      "file_name": "George Pond.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/27/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of ENGIE North America Inc., ENGIE S.A., and GDF SUEZ Energy Generation NA, Inc. for an Expedited Declaratory Ruling that PSL 70 Review is Not Needed for an Intra-Corporate Transfer and Alternate Request for Expedited Approval of the Intra-Corporate Transfer Pursuant to 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D6BCD20-30A1-445B-AF5E-BFA28E625BBA}",
+      "organization": "ENGIE North America Inc., ENGIE S.A., GDF SUEZ Energy Generation NA, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0327",
+      "file_name": "Intra-Corp Transfer 5-27-16.pdf"
+    }
+  ]
+}

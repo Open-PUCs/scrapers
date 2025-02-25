@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0409",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Providing For Lightened Regulation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8DE2961-2790-4DAD-972C-F0C3366854A6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0409",
+      "file_name": "371_16e0409.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Indeck Corinth Limited Partnership for an Order Providing for Lightened Regulation of Electric Plant.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={01FA171E-644B-4252-AA1B-2B71D2B1986C}",
+      "organization": "Indeck Corinth Limited Partnership",
+      "itemNo": "1",
+      "docket_id": "16-E-0409",
+      "file_name": "Indeck-Corinth Petition for Lightened Regulation 7-22-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABB8EFA5-CB87-4A67-A51A-A11201DD0225}",
+      "organization": "Indeck Corinth Limited Partnership",
+      "itemNo": "1",
+      "docket_id": "16-E-0409",
+      "file_name": "Cover letter 7-22-16.pdf"
+    }
+  ]
+}

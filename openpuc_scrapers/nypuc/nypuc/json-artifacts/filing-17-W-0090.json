@@ -1,0 +1,38 @@
+{
+  "case": "17-W-0090",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Meter Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={927849D2-3411-4B7C-B4D0-5689596DDD6C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-W-0090",
+      "file_name": "461_17-W-0090 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7642C106-BB79-411D-BDFC-2DE3ACD81705}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-W-0090",
+      "file_name": "Letter_Request for Confidential Trade Secret Status.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York American Water Company, Inc. for Approval to Use and Install the ITRON 100 W + Water End Point to Collect and Transmit Water Meter Data.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41F0B499-F00B-4A42-AFFA-FA1C1D842FA7}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-W-0090",
+      "file_name": "REDACTED Petition.pdf"
+    }
+  ]
+}

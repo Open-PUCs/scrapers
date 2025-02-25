@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0612",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009D378D-0000-CB1A-9936-3D7FCEC2C530}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0612",
+      "file_name": "661_23-V-0612 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0678B-0000-CD56-9A0B-5EF4FE68F114}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0612",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Pomfret 10.25.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0678B-0000-CF1C-A6BB-47DB60FBA299}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0612",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Pomfret 10.25.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications -T. Pomfret-Request for Renewal and Certificate of Confirmation(redacted) 10.25.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0678B-0000-C794-81A0-F406B703D163}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0612",
+      "file_name": "Charter Communications -T. Pomfret-Request for Renewal and Certificate of Confirmation(redacted) 10.25.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/25/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications -T. Pomfret Cover Letter Request for Renewal and Certificate of Confirmation 10.25.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40E0678B-0000-CE7A-860C-4838DCDBCE61}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0612",
+      "file_name": "Charter Communications -T. Pomfret Cover Letter Request for Renewal and Certificate of Confirmation 10.25.23.pdf"
+    }
+  ]
+}

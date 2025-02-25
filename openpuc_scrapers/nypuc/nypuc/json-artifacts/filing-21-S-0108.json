@@ -1,0 +1,49 @@
+{
+  "case": "21-S-0108",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Upstream Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40BAE311-83C7-475E-9BDE-AC74A11A6E29}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-S-0108",
+      "file_name": "265_21-S-0108 Enwave Dec Ruling final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corporate Structure Diagram",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B6B5CAD-61FA-4314-9A9B-D126D98D1BE1}",
+      "organization": "CalPERS, Enwave Syracuse LLC, QIC Limited, Syracuse Energy Concessionaire LLC, Ullico Infrastructure District Energy Blocked Holdco, LLC",
+      "itemNo": "2",
+      "docket_id": "21-S-0108",
+      "file_name": "Corporate Structure Diagram.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition of Enwave Syracuse LLC, Syracuse Energy Concessionaire LLC, Ullico Infrastructure District Energy Blocked Holdco, LLC, QIC Limited, and CalPERS, for an Expedited Declaratory Ruling Applying the Wallkill Presumption to the Transfer of Upstream Ownership Interests or for Expedited Approval Under Section 83 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={857C5283-2242-4974-9CB1-A1BB71B18712}",
+      "organization": "CalPERS, Enwave Syracuse LLC, QIC Limited, Syracuse Energy Concessionaire LLC, Ullico Infrastructure District Energy Blocked Holdco, LLC",
+      "itemNo": "1",
+      "docket_id": "21-S-0108",
+      "file_name": "Enwave Petition for NYPSC Declaratory Order Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter 2-15-21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31A005AE-C672-465F-BBCC-20FE7ED3655E}",
+      "organization": "CalPERS, Enwave Syracuse LLC, QIC Limited, Syracuse Energy Concessionaire LLC, Ullico Infrastructure District Energy Blocked Holdco, LLC",
+      "itemNo": "1",
+      "docket_id": "21-S-0108",
+      "file_name": "Cover Letter 2-15-21.pdf"
+    }
+  ]
+}

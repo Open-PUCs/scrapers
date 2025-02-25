@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0277",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/05/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to David B. Johnson, Esq., Regarding Withdrawal of Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC078BC6-406D-4EBE-B34C-2EB197C77E85}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0277",
+      "file_name": "18-E-0277-APCricketValleyHoldings-Closing Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4DFACB8D-8FE1-42EA-98F0-A4C789F303E5}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Partners, LLC, JLC Cricket Valley LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0277",
+      "file_name": "Withdrawal Letter-6-25-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AP Cricket Valley Holdings II Inc., JLC Cricket Valley LLC, Cricket Valley Energy Center LLC, and Cricket Valley Energy Partners LLC for a Declaratory Ruling Regarding Transfer of Upstream Ownership Interests.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={632E81B0-EDCF-452F-8786-57FDA18179AD}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Partners, LLC, JLC Cricket Valley LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0277",
+      "file_name": "Verified Joint Petition of AP Cricket Valley Holdings II Inc. et al. for a Declaratory Ruling Regarding Transfer of Ups.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/11/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={523FD1E9-B009-4852-8ACF-AE1A5DBA7E7D}",
+      "organization": "AP Cricket Valley Holdings II Inc., Cricket Valley Energy Center, LLC, Cricket Valley Energy Partners, LLC, JLC Cricket Valley LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0277",
+      "file_name": "Verified Joint Petition - Cover Letter - 5-11-2018.pdf"
+    }
+  ]
+}

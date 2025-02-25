@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0665",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/13/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={308B5089-0000-C81B-8F88-D074291AE4D9}",
+      "organization": "2080 Boston Road Housing Development Fund Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0665",
+      "file_name": "07132023_002.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Accepting Submetering Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A08E4589-0000-C617-9802-57D5229170CA}",
+      "organization": "2080 Boston Road Housing Development Fund Corporation",
+      "itemNo": "4",
+      "docket_id": "22-E-0665",
+      "file_name": "07112023.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/27/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10E2FD88-0000-C31D-9709-89F5ECA0FF5F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0665",
+      "file_name": "366_22-E-0665 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/01/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Filing - 2080 Boston Road",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0907788-0000-C413-8C0D-B52D0FCE934B}",
+      "organization": "2080 Boston Road Housing Development Fund Corporation",
+      "itemNo": "2",
+      "docket_id": "22-E-0665",
+      "file_name": "Supplemental Filing - 2080 Boston Road.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 2080 Boston Road Housing Development Fund Corporation to Submeter Electricity at 2080 Boston Road, Bronx, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38A2DBF2-887E-439E-99FC-DB94B22320EE}",
+      "organization": "2080 Boston Road Housing Development Fund Corporation",
+      "itemNo": "1",
+      "docket_id": "22-E-0665",
+      "file_name": "Submetering Notice of Intent - 2080 Boston Road - As-Filed Application.pdf"
+    }
+  ]
+}

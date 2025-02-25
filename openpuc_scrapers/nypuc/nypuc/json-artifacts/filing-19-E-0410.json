@@ -1,0 +1,104 @@
+{
+  "case": "19-E-0410",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/01/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D89B570-054D-47C1-AA33-06E86889A772}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "19-E-0410",
+      "file_name": "1NovPSCcover.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Mark Twichell",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFAE573F-E692-43AB-B78C-47400FDEA056}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "19-E-0410",
+      "file_name": "1NovPSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1AAE58B7-B228-4A67-BFF0-224F48361398}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-E-0410",
+      "file_name": "374_19-E-0410 Confirming Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/10/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "One Commissioner Declaratory Ruling on Transfers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCE49D6B-D818-4E71-A46F-BB5560DC7712}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0410",
+      "file_name": "19-E-0410 Cassadaga Baron Winds OC Dec. Ruling.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/28/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for One Commissioner Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B86F47C4-3D6D-4A2D-A0BA-A7F4EADC5D73}",
+      "organization": "Baron Winds, LLC, Cassadaga Wind LLC, E.ON SE, IRUS Wind Development LLC, RWE Aktiengesellschaft",
+      "itemNo": "3",
+      "docket_id": "19-E-0410",
+      "file_name": "NYPSC request for one-commissioner order.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/28/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63DAB319-4FEE-423E-952D-62EF0E7BF603}",
+      "organization": "Baron Winds, LLC, Cassadaga Wind LLC, E.ON SE, IRUS Wind Development LLC, RWE Aktiengesellschaft",
+      "itemNo": "3",
+      "docket_id": "19-E-0410",
+      "file_name": "Cover letter to Request for One Commissioner Order.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADB09344-7790-429C-B07D-3F173F37AA32}",
+      "organization": "Baron Winds, LLC, Cassadaga Wind LLC, E.ON SE, IRUS Wind Development LLC, RWE Aktiengesellschaft",
+      "itemNo": "2",
+      "docket_id": "19-E-0410",
+      "file_name": "L- PSC re FERC approval.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/31/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Cassadaga Wind LLC, Baron Winds LLC, IRUS Wind Development LLC, RWE Aktiengesellschaft, and E.ON SE for a Declaratory Ruling Concerning That No Further Review of Upstream Ownership Transfers is Required Under Public Service Law Section 70.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={595C670B-E21A-4244-A248-03A232DD64FD}",
+      "organization": "Baron Winds, LLC, Cassadaga Wind LLC, E.ON SE, IRUS Wind Development LLC, RWE Aktiengesellschaft",
+      "itemNo": "1",
+      "docket_id": "19-E-0410",
+      "file_name": "RWE E.ON Petition for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/31/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94FEBD38-D51C-498A-A8DA-C005A5F47143}",
+      "organization": "Baron Winds, LLC, Cassadaga Wind LLC, E.ON SE, IRUS Wind Development LLC, RWE Aktiengesellschaft",
+      "itemNo": "1",
+      "docket_id": "19-E-0410",
+      "file_name": "Petition Cover Letter v2.pdf"
+    }
+  ]
+}

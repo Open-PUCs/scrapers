@@ -1,0 +1,38 @@
+{
+  "case": "21-C-0455",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification of Transaction Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={912B52B6-3596-460D-972D-00DDBDEAA4B9}",
+      "organization": "Verizon Select Services Inc.",
+      "itemNo": "3",
+      "docket_id": "21-C-0455",
+      "file_name": "220204 Letter re VSSI Transaction Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01814 Verizon Select Services MAT OOL Letter - final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={572FD181-D2AF-4B46-A13F-19C893AC9FB3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-C-0455",
+      "file_name": "21-01814 Verizon Select Services MAT OOL Letter - final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon Select Services Inc. and Verizon Communications Inc. for Approval of a Transfer of Ownership Pursuant to \u00a7 100 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8163ABCF-59C6-48A1-A09A-B81BB01FE59E}",
+      "organization": "Verizon Select Services Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0455",
+      "file_name": "210824 Petition (Complete).pdf"
+    }
+  ]
+}

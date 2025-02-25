@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0557",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/24/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE0763FD-AB9C-4BBD-B7A1-334FAD6CD3A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0557",
+      "file_name": "664_19-V-0557 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Otisco, Onondaga County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B843F8A3-59A1-4AF7-B32B-633D42195A15}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0557",
+      "file_name": "T OTISCO RENEWAL SUBMISSION TO PSC 082819.pdf"
+    }
+  ]
+}

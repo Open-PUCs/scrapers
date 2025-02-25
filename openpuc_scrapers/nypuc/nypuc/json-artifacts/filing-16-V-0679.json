@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0679",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3333A4A7-1EF4-45F5-9F03-3B89D7A5242F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0679",
+      "file_name": "663_16-V-0679.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Hinsdale, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A11F83-435D-4027-AAAB-91BD9168EB6B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0679",
+      "file_name": "111816 Hinsdale, Tn Renewal Submission to PSC.pdf"
+    }
+  ]
+}

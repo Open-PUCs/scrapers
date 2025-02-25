@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0418",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E8E8A59-C907-43B9-BDB6-1DABD7537291}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0418",
+      "file_name": "663_21-V-0418 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00286 Letter to Building Owner Property at 48 Great Jones Street",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BE39F42-79B6-46D3-A9B9-6E1FC89AC6FC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0418",
+      "file_name": "21-00286 Letter to Building Owner Property at 48 Great Jones Street.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 48 Great Jones Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32F7892D-0161-4A43-9B52-393E8E6DFCD3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0418",
+      "file_name": "3-Petition (48 GREAT JONES ST) (Complete).pdf"
+    }
+  ]
+}

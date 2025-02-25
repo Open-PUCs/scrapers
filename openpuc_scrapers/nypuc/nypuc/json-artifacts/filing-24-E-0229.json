@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0229",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0065093-0000-C918-8480-E2CECFFD782B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-E-0229",
+      "file_name": "363_24-E-0229 112124final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter 9-5-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DCC291-0000-C630-BC05-ED66FBEE801D}",
+      "organization": "470 Kent Ave Associates LLC",
+      "itemNo": "4",
+      "docket_id": "24-E-0229",
+      "file_name": "Response letter 9-5-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10300991-0000-CE37-84C7-26F78317A989}",
+      "organization": "470 Kent Ave Associates LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0229",
+      "file_name": "Response letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Waiver Letter 7-25-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B058EA90-0000-C213-80B7-6B9BD2A3C46F}",
+      "organization": "470 Kent Ave Associates LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0229",
+      "file_name": "Waiver Letter 7-25-24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/15/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 470 Kent Avenue Associates, LLC to Submeter Electricity at 480, 482, and 484 Kent Avenue, Brooklyn, Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6047E28E-0000-C916-9495-4EF545260226}",
+      "organization": "470 Kent Ave Associates LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0229",
+      "file_name": "submetering application (3).pdf"
+    }
+  ]
+}

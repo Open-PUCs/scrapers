@@ -1,0 +1,38 @@
+{
+  "case": "20-C-0028",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/17/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-C-0028 Comcast OOL Letter Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C680EBEF-178B-46FE-BE20-7D2C56BACAA2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-C-0028",
+      "file_name": "20-C-0028 Comcast OOL Letter Signed.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0ED676E9-688B-441B-B489-465C6A5C2011}",
+      "organization": "Comcast Phone II, LLC, Comcast Phone of New York, LLC, Comcast Phone, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0028",
+      "file_name": "2020-01-15 Comcast Application Transmittal Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/17/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast Phone of New York, LLC, Comcast Phone, LLC and Comcast Phone II, LLC, for Approval of a Pro Forma Intra-Corporate Reorganization.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5CFDE3EE-71BA-47DE-846B-BBDE0DA07A0B}",
+      "organization": "Comcast Phone II, LLC, Comcast Phone of New York, LLC, Comcast Phone, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0028",
+      "file_name": "2020-01-14 Comcast Phone NY Reorg Application w Exhibits.pdf"
+    }
+  ]
+}

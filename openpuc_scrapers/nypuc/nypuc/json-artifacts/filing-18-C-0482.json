@@ -1,0 +1,82 @@
+{
+  "case": "18-C-0482",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC1AB8F7-C37B-45BB-82C5-CFC54A7520B8}",
+      "organization": "Windstream Holdings, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-C-0482",
+      "file_name": "18-C-0482 Notice of Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/07/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-01328 American to Windstream.doc CLEAN",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={029F8855-8B50-414E-A619-D9C32C794B8E}",
+      "organization": "American Telephone Company LLC, Windstream Holdings, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-C-0482",
+      "file_name": "18-01328 American to Windstream.doc CLEAN.docx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "NY Verification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C0F11E4-9274-4AFF-8F8D-A22AC819354E}",
+      "organization": "American Telephone Company LLC, Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0482",
+      "file_name": "NY Verification.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of American Telephone Company LLC and Windstream Holdings, Inc. for Approval to Transfer Indirect Control of American Telephone Company LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={450B3A59-B907-4BDD-925B-9EB250206F34}",
+      "organization": "American Telephone Company LLC, Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0482",
+      "file_name": "FINAL Project Sweetwater - New York (NY) Application.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={246CA028-B1CB-4917-BCCA-CEEE1CC5F33B}",
+      "organization": "American Telephone Company LLC, Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0482",
+      "file_name": "Cover Letter-WindstreamATC_.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "2018-06-01 Project Sweetwater - Transaction Charts - NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EDAA730-34AF-44EA-BC52-3294689687DF}",
+      "organization": "American Telephone Company LLC, Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0482",
+      "file_name": "2018-06-01 Project Sweetwater - Transaction Charts - NY.pptx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/01/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "2018-06-01 ATC Verification final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B2102E4-D9D2-4C4A-A3A2-0D2B049FB040}",
+      "organization": "American Telephone Company LLC, Windstream Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0482",
+      "file_name": "2018-06-01 ATC Verification final.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "23-M-0392",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Extension of Development Periods Due to the Covid-19 Construction Moratorium",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0172A8B-0000-C9B9-B534-654EB6969B81}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-M-0392",
+      "file_name": "266_23-M-0040_101323.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/10/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Blitman Saratoga LLC for a Year Extension on the Five-Year Agreement Concerning Builder Development Funds for Beaver Pond Village Phase 4 and 5.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D023487-283F-4F38-860D-789717462F2F}",
+      "organization": "Blitman Saratoga LLC",
+      "itemNo": "1",
+      "docket_id": "23-M-0392",
+      "file_name": "Letter to Public Service Comm for LOC extension 2.10.23.pdf"
+    }
+  ]
+}

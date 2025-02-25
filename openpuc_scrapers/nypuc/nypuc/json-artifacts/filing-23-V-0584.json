@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0584",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07D928C-0000-CA1A-9BD8-3BF0B18183D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0584",
+      "file_name": "662_23-V-0584 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07BFC8A-0000-C75B-A00C-38CE9C58410F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0584",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Sackets Harbor 10.4.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07BFC8A-0000-C13B-8716-49974141B9F2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0584",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Sackets Harbor 10.4.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, V. Sackets Harbor-Request for Renewal and Certificate of Confirmation (redacted)10.4.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07BFC8A-0000-CB7D-B88F-4FD2FE059C07}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0584",
+      "file_name": "Charter Communications, V. Sackets Harbor-Request for Renewal and Certificate of Confirmation (redacted)10.4.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/04/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Sackets Harbor-Cover Letter-Request for Renewal and Certificate of Confirmation 10.4.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07BFC8A-0000-C694-91D4-8A92D784AB9B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0584",
+      "file_name": "Charter Communications, V. Sackets Harbor-Cover Letter-Request for Renewal and Certificate of Confirmation 10.4.23.pdf"
+    }
+  ]
+}

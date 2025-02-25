@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0357",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FD7A45E-5273-4613-BA5D-7C24EECA2BF3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0357",
+      "file_name": "663_20-V-0357 NegDec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC4AC06F-4A62-4124-94D0-486354F7B30F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0357",
+      "file_name": "663_20-V-0357 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Reports",
+      "name": "20-V-0357 Spectrum Northeast, LLC & Town of Dayton SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={739D2C59-204E-41F9-AC71-CAF08BC59AF2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0357",
+      "file_name": "20-V-0357 Spectrum Northeast, LLC & Town of Dayton SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/15/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for Certificate of Confirmation- Initial Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAAC5E96-F152-488E-A9CD-84E6431EEEE0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0357",
+      "file_name": "T.DAYTON, Request for Cert. of Confrmation- Initial Franchise 071320.pdf (3 MB)"
+    }
+  ]
+}

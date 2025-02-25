@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0584",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information (8)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0672C93-0000-CD1B-8E21-24C2696F10AD}",
+      "organization": "Bedford Beverly 2359 LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0584",
+      "file_name": "additional information (8).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Energy Waiver Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={909CB492-0000-C419-A5AE-ECEBB1D904FA}",
+      "organization": "Bedford Beverly 2359 LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0584",
+      "file_name": "energy waiver letter (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Application for Submetering Electricity at 2363 Bedford Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30379B92-0000-C325-A861-052E1B102383}",
+      "organization": "Bedford Beverly 2359 LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0584",
+      "file_name": "Submetering Notice of Intent 2363 Bedford Avenue.pdf"
+    }
+  ]
+}

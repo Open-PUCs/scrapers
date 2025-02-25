@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0164",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={100D978F-0000-C23B-8E8B-9CC5226691F2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0164",
+      "file_name": "661_24-V-0164 Order 52024 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={100D978F-0000-C951-AF67-1751E57C46EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0164",
+      "file_name": "661_24-V-0164 Neg Dec.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-V-0164 Letter to Secretary and SEQRA Part 2&3 DTC Cable-T of Colchester",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D2E18E-0000-C41D-9460-6B688675406D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-V-0164",
+      "file_name": "24-V-0164 Letter to Secretary and SEQRA Part 2&3 DTC Cable-T of Colchester.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D8568E-0000-CD11-9554-D144A0531A1B}",
+      "organization": "Town of Colchester",
+      "itemNo": "2",
+      "docket_id": "24-V-0164",
+      "file_name": "Town of Colchester Legal Notice and Affidavit of Publication 3-19-2024 (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/18/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of DTC Cable, Inc. for a Certificate of Confirmation for its Franchise with the Town of Colchester.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0BF518E-0000-C113-B371-5ABF1DE4FC15}",
+      "organization": "DTC Cable, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0164",
+      "file_name": "Town of Sanford Colchester Franchise Package - PSC.pdf"
+    }
+  ]
+}

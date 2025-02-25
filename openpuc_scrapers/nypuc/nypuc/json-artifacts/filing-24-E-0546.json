@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0546",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Letters",
+      "name": "263041 Empire SMR Ack Letter 09262024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A09B2F92-0000-C922-8216-8C20388A153D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0546",
+      "file_name": "263041 Empire SMR Ack Letter 09262024_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "263041 Owner SMR request 09232024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30962F92-0000-CB1C-9B4B-59F1B7DA9415}",
+      "organization": "Empire Property Management Group LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0546",
+      "file_name": "263041 Owner SMR request 09232024_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Letters",
+      "name": "263041 Empire SMD Final 09132024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80922F92-0000-C22D-AECA-C63DC818DD76}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0546",
+      "file_name": "263041 Empire SMD Final 09132024_Redacted.pdf"
+    }
+  ]
+}

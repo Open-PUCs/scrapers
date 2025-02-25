@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0786",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B686295C-4140-4ABD-837C-56078B302F00}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0786",
+      "file_name": "668_18-V-0786.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82BB1DA9-DCB2-49B8-8A0F-4970DE5216F2}",
+      "organization": "Atlantic Broadband (Penn), LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0786",
+      "file_name": "Salamanca Four Communities Letter to the NYPSC with Affidavit of Notice 2-4-19.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/24/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Atlantic Broadband (Penn), LLC for Approval of the Renewal of its Franchise with the Village of Little Valley, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5F7DAA2-D8D4-4CCE-A9BE-9CFA4A9DCAEE}",
+      "organization": "Atlantic Broadband (Penn), LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0786",
+      "file_name": "Village of Little Valley PSC Application Packet - 12-22-18.pdf"
+    }
+  ]
+}

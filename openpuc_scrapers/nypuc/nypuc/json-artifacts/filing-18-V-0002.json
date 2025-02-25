@@ -1,0 +1,82 @@
+{
+  "case": "18-V-0002",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD2E169E-15F6-4DB7-B4C0-8CDDC4E06575}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "18-V-0002",
+      "file_name": "18-V-0002 Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D101867-A894-4FDD-A2F2-E25C43D7782A}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-V-0002",
+      "file_name": "666_18-V-0002.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/15/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-V-0002 Signed EAF Hilltop Communications.Town of Livingston",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={774FE081-BBF9-419E-9F64-9094B2C1E7A9}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "5",
+      "docket_id": "18-V-0002",
+      "file_name": "18-V-0002 Signed EAF Hilltop Communications.Town of Livingston.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEFAB53D-15EB-4F4C-ACE5-B69EC8E924EF}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "4",
+      "docket_id": "18-V-0002",
+      "file_name": "Case 18-V-0002 Town of Livingston.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4F30908-93BC-4032-A2A8-32CF4313C7F6}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0002",
+      "file_name": "Case 18-V-0002 searchable.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/02/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Hilltop Communications, Inc. for a Certificate of Confirmation for its Franchise with the Town of Livingston, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4914BFA-A98D-4CCE-824F-FDB6A521737D}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0002",
+      "file_name": "Town of Livingston Franchise Agreement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/05/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Hilltop Communications, Inc. for a Certificate of Confirmation for its Franchise with the Town of Livingston, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={719C6B92-2053-4AD9-B6C6-63ECD92416D6}",
+      "organization": "Hilltop Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0002",
+      "file_name": "Letter of Intent.pdf"
+    }
+  ]
+}

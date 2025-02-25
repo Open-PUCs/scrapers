@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0426",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={72B71CBE-8B98-41A4-AE6E-6888CA4F4AAB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0426",
+      "file_name": "663_17-V-0426.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2017",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Matt Stern",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={337CA21C-2B6E-4457-B645-D4DCBB434698}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-V-0426",
+      "file_name": "Matt Stern.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Royalton, Niagara County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50809129-50DC-44CC-9FBF-BFDA56A62987}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0426",
+      "file_name": "07.18.17 ROYALTON, TOWN RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

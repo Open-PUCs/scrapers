@@ -1,0 +1,82 @@
+{
+  "case": "24-G-0007",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/03/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241002 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20CF5392-0000-C315-8C5B-9BE7425CA060}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "10",
+      "docket_id": "24-G-0007",
+      "file_name": "20241002 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20230807 - Training (20 - UDig CEP)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0781F92-0000-CC7E-82F5-AFFAE189F5C0}",
+      "organization": "Westside Professional Landscape, Inc.",
+      "itemNo": "9",
+      "docket_id": "24-G-0007",
+      "file_name": "20230807 - Training (20 - UDig CEP).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240708 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={802B9390-0000-C411-BB51-0B62A8C8129D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "24-G-0007",
+      "file_name": "20240708 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/19/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240419 - Trainings Documentation - 3 Employees",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0DBF78E-0000-C01E-A1B5-1EC8824D56BF}",
+      "organization": "Westside Professional Landscape, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-G-0007",
+      "file_name": "20240419 - Trainings Documentation - 3 Employees.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/26/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0957B8E-0000-C21B-BB4C-0AFDC0AF98A1}",
+      "organization": "Westside Professional Landscape, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0007",
+      "file_name": "Case 24-G-0007 Petition for Rehearing Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00257B8E-0000-CA1C-BE22-B6F70EA2742D}",
+      "organization": "Westside Professional Landscape, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0007",
+      "file_name": "Case 24-G-0007 Petition for Rehearing Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0E1D68D-0000-C81D-B7E8-25B26C768DC5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-G-0007",
+      "file_name": "162-A_24-G-0007.pdf"
+    }
+  ]
+}

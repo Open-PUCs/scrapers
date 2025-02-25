@@ -1,0 +1,82 @@
+{
+  "case": "18-W-0492",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/07/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Appeal Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D52CDE88-4CA7-4A70-B93E-7250DE282F98}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "6",
+      "docket_id": "18-W-0492",
+      "file_name": "Case 731901 letter to PSC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5763ED56-889B-4549-965F-5073626DF2AB}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-W-0492",
+      "file_name": "463 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/12/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC051AD5-36AB-4AB0-A110-27B939E21E47}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-W-0492",
+      "file_name": "463 Determination_.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/03/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E79CDEC2-8D74-42FC-B8FA-B42435CFB2BA}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "18-W-0492",
+      "file_name": "731901 Lucca Appeal - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/01/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={475B83F5-940F-4CDF-8678-B5C2C50BC8B9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-W-0492",
+      "file_name": "731901 Lucca-Suez redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/01/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={954D8D71-01E4-4A84-8720-A601C301AC9F}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "2",
+      "docket_id": "18-W-0492",
+      "file_name": "Appeal Case 731901 redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/01/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9BED3AA4-F669-473D-8E6F-8796BFB00B24}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-W-0492",
+      "file_name": "IH Case 731901(Kristy Lucca vs Suez) Closing decision (002).pdf"
+    }
+  ]
+}

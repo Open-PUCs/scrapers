@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0112",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0FB0B8F-0000-CC1A-8CD0-3188F82027B7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0112",
+      "file_name": "662_24-V-0112 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Salem Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5058B38D-0000-C86F-A3C1-B5DBAEFFD552}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0112",
+      "file_name": "T. Salem Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/16/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Salem Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 02.16.24SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5058B38D-0000-C545-BA7A-C830E3F19657}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0112",
+      "file_name": "T. Salem Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 02.16.24SP.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/16/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5058B38D-0000-C425-B938-5A7836CB4918}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0112",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/16/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Salem 02.16.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4058B38D-0000-C810-AD7A-8C7BD07AAD89}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0112",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Salem 02.16.24.pdf"
+    }
+  ]
+}

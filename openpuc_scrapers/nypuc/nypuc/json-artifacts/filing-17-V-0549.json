@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0549",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46690FD2-7C92-4B74-82A8-CC55AEB82B1C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0549",
+      "file_name": "664_17-V-0549.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Otego, Otsego County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20EAFF48-8EA4-4C65-9AE5-42F38AE01D81}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0549",
+      "file_name": "9 13 17 T Otego Charter PSC cable franchise renewal application.pdf"
+    }
+  ]
+}

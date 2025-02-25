@@ -1,0 +1,27 @@
+{
+  "case": "17-G-0449",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/14/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03438658-DE44-4B94-ADC4-82F1F3C8AF14}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-G-0449",
+      "file_name": "165_17-G-0449.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "17-G-0449",
+      "file_name": ""
+    }
+  ]
+}

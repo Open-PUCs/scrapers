@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0623",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-01918 Letter to Building Owners 214-33 Ave, Bayside",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00016792-0000-C413-818F-C2A47442FBEF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-V-0623",
+      "file_name": "24-01918 Letter to Building Owners 214-33 Ave, Bayside.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Access for 214-33 41 Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C70092-0000-CB73-9076-A1007FC9E760}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0623",
+      "file_name": "214-33 41 Ave - Order of Access Petition_Final(29765721.1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 with Cover Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C70092-0000-CC5D-814F-496A5C895523}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0623",
+      "file_name": "Exhibit 2 with Cover Sheet.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 with Cover Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C70092-0000-CC3E-8E4B-59FEFFF1239D}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0623",
+      "file_name": "Exhibit 1 with Cover Sheet.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C70092-0000-CA11-AFAC-2A45C3BC7141}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0623",
+      "file_name": "Filing Cover Letter - Order of Access 2024 - 214-33 41 Ave.pdf"
+    }
+  ]
+}

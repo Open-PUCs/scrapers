@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0104",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DE19810-05EE-465D-9836-84E8544DE380}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0104",
+      "file_name": "662_22-V-0104 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-02197 Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C7D57B2C-BA03-45F0-B961-859A3BD68EF4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0104",
+      "file_name": "21-02197 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 133 East Broadway, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A37B8A1A-9D52-4EA9-A25B-BBF6C5BEF269}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0104",
+      "file_name": "15-211014 Petition (133 E BROADWAY) (Post-Survey).pdf"
+    }
+  ]
+}

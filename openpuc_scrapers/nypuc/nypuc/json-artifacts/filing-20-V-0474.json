@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0474",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A2E09AF-302D-4A19-83E4-A369A280767F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0474",
+      "file_name": "661_20-V-0474 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village Deposit Pub Hear Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C80B7051-38AF-4284-8DFA-94A5F68B6712}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0474",
+      "file_name": "Village Deposit Pub Hear Affidavit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village Deposit Application Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6265B10-7D0B-4246-9E5F-2C5AEF0D69A1}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0474",
+      "file_name": "Village Deposit Application Affidavit.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/15/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4611D3B-36A9-499B-81BA-22C54932D5BC}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0474",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/23/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Adams CATV Inc. for Approval of the Renewal of its Franchise with the Village of Deposit, Delaware County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85986D92-FF85-4DD6-92D9-AEE7CFA5508F}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0474",
+      "file_name": "Adams CATV Inv and V. Deposit Cable Franchise Agreement.pdf"
+    }
+  ]
+}

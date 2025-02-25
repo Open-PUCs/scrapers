@@ -1,0 +1,38 @@
+{
+  "case": "18-E-0197",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AD158C4-97C5-43EB-A196-9AE7B6948914}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0197",
+      "file_name": "367_18-E-0197.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/04/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D72AF93-23E6-4883-8A9D-CBF24895DF85}",
+      "organization": "Village of Sherburne",
+      "itemNo": "2",
+      "docket_id": "18-E-0197",
+      "file_name": "18-E-0197 Vill. of Sherburne Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/28/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Sherburne",
+      "itemNo": "1",
+      "docket_id": "18-E-0197",
+      "file_name": ""
+    }
+  ]
+}

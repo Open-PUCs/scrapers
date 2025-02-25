@@ -1,0 +1,104 @@
+{
+  "case": "15-G-0469",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2017",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of New Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D198652-B298-4A2A-9CF3-559595E9BD80}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "15-G-0469",
+      "file_name": "15-G-0469 17-G-0011 Notice of New Proceeding.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of National Grid",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB81E238-687F-4B85-8501-ED78274317EF}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "8",
+      "docket_id": "15-G-0469",
+      "file_name": "Comments of National Grid.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Comments",
+      "name": "LIPA Comments Regarding Appropriateness of VAC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={17B13EDB-78F6-44C6-A5A1-1A26078F17B3}",
+      "organization": "Long Island Lighting Company d/b/a Power Supply Long Island, Long Island Power Authority",
+      "itemNo": "7",
+      "docket_id": "15-G-0469",
+      "file_name": "LIPA Comments Regarding Appropriateness of VAC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Comments",
+      "name": "CECONY ORU VAC Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB635D88-65DE-4356-A83D-F6EC7A49233F}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "6",
+      "docket_id": "15-G-0469",
+      "file_name": "CECONY ORU VAC Comments.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Syracuse Comments on VAC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDF0CD5A-A4F3-4032-B924-0BE407C8B456}",
+      "organization": "Syracuse LLC",
+      "itemNo": "5",
+      "docket_id": "15-G-0469",
+      "file_name": "Syracuse Comments on VAC.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03D33105-CECE-48BC-95B0-B25A2CEE79D7}",
+      "organization": "Independent Power Producers of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-G-0469",
+      "file_name": "Filing Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/16/2015",
+      "nypuc_doctype": "Comments",
+      "name": "Comments of Independent Power Producers of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1573F4D2-6FB5-4197-94D6-817AB633E719}",
+      "organization": "Independent Power Producers of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-G-0469",
+      "file_name": "IPPNY VAC Comments.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/02/2015",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Extending Deadline",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={149AC5CA-BF64-47AC-935B-FDC86276520B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-G-0469",
+      "file_name": "15G0469 Notice Extending Deadline .pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/24/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8EAA7A82-8C7D-43ED-9DFB-6425F1E6E92F}",
+      "organization": "Independent Power Producers of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "15-G-0469",
+      "file_name": "Request for an Extension.pdf"
+    }
+  ]
+}

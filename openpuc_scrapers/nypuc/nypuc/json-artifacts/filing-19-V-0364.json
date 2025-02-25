@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0364",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C046D06-474F-4F2A-95DF-5BE2E180724F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0364",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "T Woodhull Signature Page",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EC0F028-2602-4109-B017-E2045DE9855B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0364",
+      "file_name": "T Woodhull Sig Pg 14 061019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/10/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88BC4F1F-F447-47C2-83D5-1A21AFB95209}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0364",
+      "file_name": "061019 T Woodhull to PSC w.Sig Pg 14 aligned.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/10/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Woodhull, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54766FFE-E25E-4DF8-8E87-102059C71403}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0364",
+      "file_name": "051019 T WOODHULL RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-E-0570",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter in Support of the Approval Process for Landis+Gyr Revelo E660",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00857292-0000-CE19-BDD3-3E0F725E32CB}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "24-E-0570",
+      "file_name": "Landis+Gyr Revelo E660 Cellular - Letter of Intent.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/08/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0786C92-0000-C224-A08E-147306D5B417}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0570",
+      "file_name": "24-E-0570_Confidentiality Request_E660.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "E660 Approval Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00405992-0000-C41E-9789-459EECA93EB9}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0570",
+      "file_name": "Landis+Gyr Revelo E660 Approval Request Oct 1 2024.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "E360 E660 Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00405992-0000-CE1D-998E-DAD6380B88F0}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0570",
+      "file_name": "E360_E660_EMC&ESL131524-ANSI Rev. 1_Abridged.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F03F5992-0000-CD4E-AFE0-7576BF10DC4A}",
+      "organization": "Landis+Gyr Technology Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0570",
+      "file_name": "Cover Letter - Meter Approval Request_E660.pdf"
+    }
+  ]
+}

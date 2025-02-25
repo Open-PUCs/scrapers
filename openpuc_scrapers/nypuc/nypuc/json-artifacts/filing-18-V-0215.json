@@ -1,0 +1,27 @@
+{
+  "case": "18-V-0215",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67C6450E-07B8-4C65-A6B2-1EFCB34EF345}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-V-0215",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the matter of Time Warner Cable Northeast LLC, known as Charter Communications, for renewal of its Certificate of Confirmation and Cable Television Franchise in the Village of Burke, Franklin County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A4CAF43-6353-4145-87C7-C748BE219FBE}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0215",
+      "file_name": "4.9.18 V Burke Charter PSC cable franchise renewal.pdf"
+    }
+  ]
+}

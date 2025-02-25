@@ -1,0 +1,93 @@
+{
+  "case": "16-V-0290",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA3A756B-24B2-41DA-81F8-B27859D762D8}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-V-0290",
+      "file_name": "662_16v0290.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A53E8009-0D6A-4C18-AD5B-9A911E147E7A}",
+      "organization": "MTC Cable",
+      "itemNo": "4",
+      "docket_id": "16-V-0290",
+      "file_name": "Proof of Publication searchable.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D49B914-D7C7-4113-82F8-998828EE8DEC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-V-0290",
+      "file_name": "16-V-0290 Signed EAF.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Performance - Part 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B021C48B-856E-448B-A5A8-40EB0FEC9979}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "16-V-0290",
+      "file_name": "PROOF OF PERF PART 2.PDF"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Performance - Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7D610F1-EC5E-4FD8-951B-295152F1B5F8}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "16-V-0290",
+      "file_name": "MTC PROOF OF PERFORMANCE.PDF"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B73FF7C8-A659-40C3-8012-18E66C19BB8E}",
+      "organization": "MTC Cable",
+      "itemNo": "2",
+      "docket_id": "16-V-0290",
+      "file_name": "Jefferson.PDF"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "SEQR",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C8EC269-4AAE-4F13-A1FA-15570468DEAE}",
+      "organization": "Heart of the Catskills Communications Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0290",
+      "file_name": "JEFF SEQR.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of MTC Cable for a Certificate of Confirmation for its Franchise with the Town of Jefferson, Schoharie County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C831A3C7-0D13-4DAB-9815-059F4205ABE8}",
+      "organization": "Heart of the Catskills Communications Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0290",
+      "file_name": "JEFFERSON 1 (1).pdf"
+    }
+  ]
+}

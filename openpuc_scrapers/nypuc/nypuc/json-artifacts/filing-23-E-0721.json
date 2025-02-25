@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0721",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F8618E-0000-C51D-83F0-F9B0F1A62BDF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0721",
+      "file_name": "376_23-E-0721 Letter 32124 final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/21/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50F8618E-0000-C438-9B2F-05DFD9492535}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0721",
+      "file_name": "376_23-E-0721 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/16/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Christopher Galarza Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8024148D-0000-C317-8C18-5AF0FCF15F7B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-E-0721",
+      "file_name": "23-E-0721 Con Edison Response to Christopher Galarza Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/13/2023",
+      "nypuc_doctype": "Letters",
+      "name": "11/10/2023 Informal_Hearing_Request Response Letter (Decision)_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A025658C-0000-CB1B-9AD7-64FF8BF39361}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0721",
+      "file_name": "2023 11 10 Informal_Hearing_Request Response Letter (Decision)_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/13/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9023658C-0000-CF1C-9E12-6C5721319C6E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-E-0721",
+      "file_name": "Acknowledgement Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/13/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Notice of Appeal - Dated 11/27/23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5021658C-0000-C316-A3BD-EE4DE8F3A19E}",
+      "organization": "Individual",
+      "itemNo": "1",
+      "docket_id": "23-E-0721",
+      "file_name": "2023 11 27 Notice of Appeal #349061.pdf"
+    }
+  ]
+}

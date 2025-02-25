@@ -1,0 +1,27 @@
+{
+  "case": "18-M-0147",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Intra-Corporate Reorganization",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3FAD3CC-C472-4EFA-AE33-739C00E38BFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-M-0147",
+      "file_name": "263_18-M-0147.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/13/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Join Petition of National Grid USA and KeySpan Corporation for a Declaratory Ruling That Section 70 of the Public Service Law Does Not Apply to the Dissolution of KeySpan Corporation and the Incidental Transfer of Equity And/Or Membership Interests in its New York Operating Subsidiaries.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9304CA41-F1E7-4350-A61F-F3B1A6916858}",
+      "organization": "KeySpan Corporation, National Grid USA",
+      "itemNo": "1",
+      "docket_id": "18-M-0147",
+      "file_name": "NGUSA and KeySpan Corp Joint Petition (03-13-18).pdf"
+    }
+  ]
+}

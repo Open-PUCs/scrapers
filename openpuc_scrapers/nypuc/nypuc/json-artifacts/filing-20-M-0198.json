@@ -1,0 +1,38 @@
+{
+  "case": "20-M-0198",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "AARP's Letter In Support of PULP's Petition on COVID-19",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AAC94FCF-0439-4570-9681-97A5EEF33908}",
+      "organization": "AARP New York",
+      "itemNo": "2",
+      "docket_id": "20-M-0198",
+      "file_name": "AARP's Letter In Support of PULP's Petition on COVID-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "PULP Petition for Generic Proceeding on Rates and Provision of Service by Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5361B5C-F03C-43D0-A443-26011B4FCFF2}",
+      "organization": "Public Utility Law Project of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-M-0198",
+      "file_name": "PULP Petition for Generic Proceeding on Rates and Provision of Service by Utilities.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/21/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "PULP Petition Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8298F28-BC5E-4258-BDAA-BFF5114DE035}",
+      "organization": "Public Utility Law Project of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-M-0198",
+      "file_name": "PULP Petition Cover Letter.pdf"
+    }
+  ]
+}

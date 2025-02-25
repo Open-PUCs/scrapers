@@ -1,0 +1,71 @@
+{
+  "case": "22-G-0082",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Cancellation of Proposed Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD9D2183-A4CF-4122-BF1A-CA4FC873C8C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-G-0082",
+      "file_name": "162_22-G-0081 and 0082 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "22-G-0082",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "22-G-0082",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT NYSEG and RGE P.S.C. No. 90 and 16, to Eliminate Provisions Regarding Outdoor Gas Lighting.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1B39B92-13EE-42A8-BD0E-45DF1BF13CA3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-G-0082",
+      "file_name": "g.22-G-0081.G-0082.NYSEG.RGE.PP.SIGNED.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/23/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "22-G-0082",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/09/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "22-G-0082",
+      "file_name": ""
+    }
+  ]
+}

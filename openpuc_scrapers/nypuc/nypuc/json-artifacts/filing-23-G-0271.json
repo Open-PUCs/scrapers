@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0271",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Brooklyn Union Gas Company DBA National Grid NY to Defer Costs Associated with Gas Demand Response Pilot",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={403C7C87-0000-C715-8F1A-D9F00D3CC4EB}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "23-G-0271",
+      "file_name": "Petition of The Brooklyn Union Gas Company DBA National Grid NY to Defer Costs Associated with Gas Demand Response Pilot.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={503C7C87-0000-CC23-90A6-476D56874812}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "23-G-0271",
+      "file_name": "Filing Letter - Petition of The Brooklyn Union Gas Company dba National Grid NY to Defer Costs Associated with Gas Demand Response Pilot.pdf"
+    }
+  ]
+}

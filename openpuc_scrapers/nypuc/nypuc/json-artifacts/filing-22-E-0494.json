@@ -1,0 +1,60 @@
+{
+  "case": "22-E-0494",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hecate Order Acceptance Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0CD34559-C296-41BE-AEC3-85E3B251D59C}",
+      "organization": "Hecate Energy Cider Solar LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0494",
+      "file_name": "Hecate Order Acceptance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F5096C9-9F4B-4E7B-9230-3BB818A931CB}",
+      "organization": "Hecate Energy Cider Solar LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0494",
+      "file_name": "Hecate Order Acceptance_Cover Letter(11246990.1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Certificate of Public Convenience and Necessity, Providing for Lightened Regulation, and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4096DE47-21E7-4906-83B2-74878DC9856F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0494",
+      "file_name": "372_22-E-0343 et. al 12.16.22 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Hecate Section 70 Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F3475C1-EA0D-49F7-92F0-3B79C89683A1}",
+      "organization": "Greenbacker Renewable Energy Corporation, Hecate Energy Cider Solar LLC, Hecate Energy NAF LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0494",
+      "file_name": "Hecate Section 70 Cover Letter(11046298.1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Hecate Energy Cider Solar LLC, Hecate Energy NAF LLC, and Greenbacker Renewable Energy Corporation for a Declaratory Ruling Regarding Transfer of Upstream Ownership Interests, or, in the Alternative, an Order Approving the Transfer Pursuant to Public Service Law Section 70.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7A94A125-3A08-499B-86FF-3FD901639062}",
+      "organization": "Greenbacker Renewable Energy Corporation, Hecate Energy Cider Solar LLC, Hecate Energy NAF LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0494",
+      "file_name": "Hecate Cider Solar Section 70 Petition(11046238.1).pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "16-T-0055",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification that the Transfer was Completed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D6F26D0-7286-4143-A505-DCB9618A5599}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "16-T-0055",
+      "file_name": "Article VII Certificate Notification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Certificate Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D2F0D248-5A64-4555-8A0F-714957F0E5EB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-T-0055",
+      "file_name": "368-B_16t0055.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/27/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2A36F6E-3C52-4F93-B796-6FDBB8786B52}",
+      "organization": "Consolidated Edison Company of New York, Inc., New York Transco LLC, Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-T-0055",
+      "file_name": "Letter to Records Access Officer w-o attachment.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Consolidated Edison Company of New York, Inc., New York Transco LLC, and Orange and Rockland Utilities, Inc. for Approval under Section 121 of the Public Service Law for Partial Transfers of a Certificate of Environmental Compatibility and Public Need.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA70E696-A369-4C18-AB10-931A92703DDE}",
+      "organization": "Consolidated Edison Company of New York, Inc., New York Transco LLC, Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-T-0055",
+      "file_name": "Joint Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54F305F8-CF56-4461-9BC0-299E23AE7833}",
+      "organization": "Consolidated Edison Company of New York, Inc., New York Transco LLC, Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-T-0055",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Affidavit of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E369575-5964-447B-8EB2-1F1A4525D7EA}",
+      "organization": "Consolidated Edison Company of New York, Inc., New York Transco LLC, Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-T-0055",
+      "file_name": "Affidavit of Service.pdf"
+    }
+  ]
+}

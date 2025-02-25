@@ -1,0 +1,71 @@
+{
+  "case": "22-M-0203",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/13/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Extension of Development Periods Due to the Covid-19 Construction Moratorium",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0172A8B-0000-CDB6-B9A9-27418A1E1B21}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-M-0203",
+      "file_name": "266_23-M-0040_101323.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/30/2022",
+      "nypuc_doctype": "Comments",
+      "name": "Kensington Woods NMPC Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA159A1F-BEEB-4172-9F19-E40E6964E34D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-M-0203",
+      "file_name": "Case No. 22-00779 Kensington Woods NMPC Response.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/11/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Garrison Projects, LLC. For a Year Extension of the Five-Year Agreement Concerning Builder Development Funds for Kensington Woods Subdivision Phase 1.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10E3FF10-085D-4A39-8E06-4051E01F2627}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "22-M-0203",
+      "file_name": "Garrison.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/11/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "NationalGrid letter KW 62 lot URD installation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A87D4BA-FFC6-42E6-8E0B-524AB630BA7F}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "22-M-0203",
+      "file_name": "NationalGrid letter KW 62 lot URD installation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/11/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "NatGrid to PioneerBank 4-8-22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6806760-9D60-4864-ADC9-92D0396452C0}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "22-M-0203",
+      "file_name": "NatGrid to PioneerBank 4-8-22.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/11/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Kensington Woods Phase I_LOC Expiration Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CFE87E7-0B0D-4596-8764-697EDC0DA329}",
+      "organization": "Garrison Projects, LLC",
+      "itemNo": "1",
+      "docket_id": "22-M-0203",
+      "file_name": "Kensington Woods Phase I_LOC Expiration Notice.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0625",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5D885CF-0200-49BF-ACA0-073102674E73}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0625",
+      "file_name": "367_16-E-0625.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/07/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Watermark Court Square Property Owner submits additional information requested",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C1FACD4-6798-4548-A8D1-B521C3120ADF}",
+      "organization": "Watermark Court Square Property Owner LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0625",
+      "file_name": "response letter 3-7-17.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Submetering ID form and Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={705F5ADD-6B50-408F-974C-FB7C3EE2BE87}",
+      "organization": "Watermark Court Square Property Owner LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0625",
+      "file_name": "letter 11-10-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/02/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of Watermark Court Square Property Owner LLC to Submeter Electricity at 27-19 44th Drive, Long Island City, NY 11101 Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76B9743C-7F0B-41D4-A3C6-7743CB7E0349}",
+      "organization": "Watermark Court Square Property Owner LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0625",
+      "file_name": "submetering application 11-2-16.pdf"
+    }
+  ]
+}

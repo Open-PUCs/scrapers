@@ -1,0 +1,82 @@
+{
+  "case": "16-W-0078",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF9D4FCD-D62E-4189-85C4-ED718DB591C1}",
+      "organization": "Whistle Tree Development Corp.",
+      "itemNo": "5",
+      "docket_id": "16-W-0078",
+      "file_name": "Cover Letter to Secretary Burgess.11.7.16.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={756959AC-8D82-45AB-96FC-E41A9518EC3A}",
+      "organization": "Whistle Tree Development Corp.",
+      "itemNo": "5",
+      "docket_id": "16-W-0078",
+      "file_name": "LETT.16-W-0078.Cust.Notification.Compliance.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/14/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Stock Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1195D61-2974-498F-AAE4-6D46A724B160}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-W-0078",
+      "file_name": "461_16W0078.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/10/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Whistle Tree Development Corp Annual Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F3EFFE8-4E12-4B53-BEF3-48F9B1D31F30}",
+      "organization": "Whistle Tree Development Corp.",
+      "itemNo": "3",
+      "docket_id": "16-W-0078",
+      "file_name": "2015 Annual Report Form.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/10/2016",
+      "nypuc_doctype": "Reports",
+      "name": "EAF short form.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B14DB0B2-7B3E-4064-8C3D-8E6492CCCE49}",
+      "organization": "Whistle Tree Development Corp.",
+      "itemNo": "2",
+      "docket_id": "16-W-0078",
+      "file_name": "WT NYSPSC EAF short form 16-03-02.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Whistle Tree Stock Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73017930-6C63-4522-A262-57133D0921ED}",
+      "organization": "Whistle Tree Development Corp.",
+      "itemNo": "1",
+      "docket_id": "16-W-0078",
+      "file_name": "Whistle Tree Stock Transfer.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Whistle Tree Development Corp. for Permission to transfer full stock ownership to Scribners Catskill Lodge, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={137765A5-E224-4725-B127-C2363FEFF6D3}",
+      "organization": "Whistle Tree Development Corp.",
+      "itemNo": "1",
+      "docket_id": "16-W-0078",
+      "file_name": "Whistle Tree Transfer Petition 15-02-11.pdf"
+    }
+  ]
+}

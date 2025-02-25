@@ -1,0 +1,27 @@
+{
+  "case": "18-G-0446",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Gas Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B06B5B-0DA1-4842-8A92-8F06FC3F0CCB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-G-0446",
+      "file_name": "163_18-G-0446.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Central Hudson Gas & Electric Corporation for Approval of Honeywell's Rabo Rotary Meter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBF64E90-2DC2-45E4-8FA4-74A6EA5C90E1}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-G-0446",
+      "file_name": "Central Hudson - Honeywell Rabo letter of sponsorship.pdf"
+    }
+  ]
+}

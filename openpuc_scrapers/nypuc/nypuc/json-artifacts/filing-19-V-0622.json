@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0622",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9AE5B0B8-C32A-401E-AD81-0870FFD680D8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0622",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/06/2020",
+      "nypuc_doctype": "Letters",
+      "name": "18-01965 Letter to Building Owner re-mailing for property at 870 St. Nicholas Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4A3C6F09-3523-470F-BBD9-B31689DCE69F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-V-0622",
+      "file_name": "18-01965 Letter to Building Owner re-mailing for property at 870 St. Nicholas Avenue, Manhattan.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AAF85E88-AAA4-4E2C-B87B-E403CA9E3766}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0622",
+      "file_name": "18-01965 Letter to Building Owner.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 870 St. Nicholas Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD31AFFC-B671-46A0-9F6F-A1F78B7A131E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0622",
+      "file_name": "Petition (870 St Nicholas Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={759EF845-9A4E-4BEB-98CF-A91F1B32C861}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0622",
+      "file_name": "Exhibit 2 (870 St Nicholas Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/15/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56F3677C-DB23-40F0-9F28-2B0526D4559A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0622",
+      "file_name": "Exhibit 1 (870 St Nicholas Av).pdf"
+    }
+  ]
+}

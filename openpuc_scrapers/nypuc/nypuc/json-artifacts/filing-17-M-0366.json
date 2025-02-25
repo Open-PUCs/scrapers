@@ -1,0 +1,38 @@
+{
+  "case": "17-M-0366",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7EE750C-7FB9-4C39-A19F-04CF67A7C63E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-M-0366",
+      "file_name": "611008 DeWitt_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B386E3AD-36D6-438A-ADEA-163D9D9383C8}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-M-0366",
+      "file_name": "Dewitt Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={891E592A-584F-411C-AA05-8709B689A960}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-M-0366",
+      "file_name": "Case 611008 Amy Dewitt vs Ambit Energy-FINAL (002)_Redacted.pdf"
+    }
+  ]
+}

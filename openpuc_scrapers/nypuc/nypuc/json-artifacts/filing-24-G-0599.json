@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0599",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241031 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0B3E392-0000-C822-B238-9319C1A25086}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "8",
+      "docket_id": "24-G-0599",
+      "file_name": "20241031 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20241029 - Training Documentation - CEP 1 Employee",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5054E392-0000-CC3D-8DB2-6E45C3C3CEC7}",
+      "organization": "KCM Resources, LLC",
+      "itemNo": "7",
+      "docket_id": "24-G-0599",
+      "file_name": "20241029 - Training Documentation - CEP \u00bf 1 Employee.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/09/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240801 - Payment ($950) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20233891-0000-C525-A84B-9BA583EC357D}",
+      "organization": "KCM Resources, LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0599",
+      "file_name": "20240801 - Payment ($950) - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240708 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20AB9290-0000-C713-B48A-B194D3820DA8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "24-G-0599",
+      "file_name": "20240708 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240221 - Response to NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9008CD8D-0000-CA10-BE1B-7F374DBD3FEA}",
+      "organization": "KCM Resources, LLC",
+      "itemNo": "4",
+      "docket_id": "24-G-0599",
+      "file_name": "20240221 - Response to NOPV Letter.pdf"
+    }
+  ]
+}

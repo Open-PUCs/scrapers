@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0410",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D5E430A-7A45-463C-AEFA-2DD532BE5050}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0410",
+      "file_name": "661_17-V-0410.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of New Bremen, County of Lewis, New York,",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3434807A-A296-4233-9E2C-DE38394AA937}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0410",
+      "file_name": "7 8 17 T New Bremen Charter PSC cable franchise submission.pdf"
+    }
+  ]
+}

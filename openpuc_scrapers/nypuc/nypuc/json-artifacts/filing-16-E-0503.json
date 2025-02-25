@@ -1,0 +1,38 @@
+{
+  "case": "16-E-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={962F539E-5366-41C0-A032-A5B656BC1022}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0503",
+      "file_name": "371_16-E-0503.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A149006-C4E1-4E34-AE30-9B41A4BD692A}",
+      "organization": "Parkside Association, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0503",
+      "file_name": "Petition For Submetering Additional Information.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/08/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Parkside Association, Inc. to Submeter Electricity at 549-561 41st Street, Brooklyn, NY, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F29FE2E-29CC-4CBE-830C-FFBFE7D1836D}",
+      "organization": "Parkside Association, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0503",
+      "file_name": "Petition For Submetering. 549-561 41st St. Brooklyn NY 11232 (1).pdf"
+    }
+  ]
+}

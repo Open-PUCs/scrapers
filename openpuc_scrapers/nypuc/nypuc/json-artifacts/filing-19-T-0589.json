@@ -1,0 +1,27 @@
+{
+  "case": "19-T-0589",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYPA Moses-Massena MC-1 minor change notice approved",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={093EDE71-DF52-4C23-B1CE-D155CE088C39}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-T-0589",
+      "file_name": "NYPA Moses-Massena MC-1 minor change notice approved.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/12/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York Power Authority for a Minor Change Request to EM&CP.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={362E52BD-F57E-432C-8FF0-BE5EFC574989}",
+      "organization": "New York Power Authority",
+      "itemNo": "1",
+      "docket_id": "19-T-0589",
+      "file_name": "MMS EMCP procedure Letter Rev06_9-12-2019_ Final.pdf"
+    }
+  ]
+}

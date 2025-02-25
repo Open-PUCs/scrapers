@@ -1,0 +1,38 @@
+{
+  "case": "19-E-0246",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/14/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service and Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38ABD5CA-5C44-4EDA-BAEC-005DFBAE6BF7}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0246",
+      "file_name": "pr19054revised.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service and Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3479B558-891D-442F-AFB3-D9298FA4A602}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0246",
+      "file_name": "pr19054.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Reports",
+      "name": "2018 Electric Safety Standards Performance Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EB15102-577C-4D29-9A4F-8AFEF0DB7CF5}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0246",
+      "file_name": "301_2018 Electric Saftey Standards Report.pdf"
+    }
+  ]
+}

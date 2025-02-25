@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0145",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F68B2807-53B4-406F-A042-91C69BEF39E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0145",
+      "file_name": "667_21-V-0145 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/07/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "V. Schuylerville Resolution Correction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38EA9A9E-C5EA-4536-B996-71561AE4AA25}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0145",
+      "file_name": "V. Schuylerville Reso Correction and Cover Letter .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "V. Schuylerville_To Be Filed with PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={844A1832-F973-49EE-8076-063425278DB0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0145",
+      "file_name": "V. Schuylerville_To Be Filed with PSC.pdf"
+    }
+  ]
+}

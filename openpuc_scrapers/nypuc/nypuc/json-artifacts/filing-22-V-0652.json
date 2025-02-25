@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0652",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={021D5E2F-0091-4C74-9480-4F627451F282}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0652",
+      "file_name": "662_22-V-0652 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83FEDDB2-3C4A-430D-BF5B-0FA4FA913194}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "22-V-0652",
+      "file_name": "AUSA Newspaper Cover Letter - Lattingtown, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Lattingtown, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5F92209-9B67-4805-9F99-205AF35A006D}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "22-V-0652",
+      "file_name": "AUSA Newspaper Affidavit - Lattingtown, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB3EDB47-BFB6-49EC-A066-56EBACF239CE}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0652",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Lattingtown, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1B86E2C-9731-44C8-80C8-BB4E995615A3}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0652",
+      "file_name": "Exhibit IV - Lattingtown, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB33A13C-2E9B-4469-BD63-576456BC5C93}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0652",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65F87DCC-0883-4D53-B799-A731155D0DF0}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0652",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D42C0D05-31E0-4D64-BEBB-796DF158ABA2}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0652",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A22C2380-7377-4FAE-8563-7B54DF6FB324}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0652",
+      "file_name": "Application Cover Letter - Lattingtown, V..pdf"
+    }
+  ]
+}

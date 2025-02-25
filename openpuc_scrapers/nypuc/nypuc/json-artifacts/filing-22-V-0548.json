@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0548",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FD7CB6F-DB0B-4995-A0B5-B03EDD11575A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0548",
+      "file_name": "662_22-V-0548.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/03/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9D2049D-B76E-4033-84DB-D29513211C82}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0548",
+      "file_name": "AUSA Newspaper Affidavit - Pine Plains, T..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/03/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BBF309C-CB88-4B7E-98CF-971F305234BC}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0548",
+      "file_name": "AUSA Newspaper Cover Letter - Pine Plains, T..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FFF0E5E-3885-4FEF-A40B-0B8FD8A3A388}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0548",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Altice USA for Approval of the Renewal of its Franchise with the Town of Pine Plains, Dutchess County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96CC5F23-91ED-40CC-B3E1-91A6461594C5}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0548",
+      "file_name": "Application Cover Letter - Pine Plains, T..pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Pine Plains, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DB26DF60-D806-4A63-984E-A6955A033F1E}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0548",
+      "file_name": "Exhibit IV - Pine Plains, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={915A0290-30D4-4471-B1B4-A2132C55DBDA}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0548",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95BED357-255B-4468-9C42-5E2E64FAEDE0}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0548",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0EA7DC7F-67A1-40B1-9E57-CB1D1E93F3BA}",
+      "organization": "Cablevision Systems Dutchess Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0548",
+      "file_name": "Exhibit I - R-2.pdf"
+    }
+  ]
+}

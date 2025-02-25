@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0388",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/16/2023",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D09C398B-0000-CA15-B67C-0F215F381DB9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0388",
+      "file_name": "362_23-E-0388_101623.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/13/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A05489-0000-CD1B-A619-0BA5F7D69326}",
+      "organization": "Bowline Point Power, LLC, GenOn Bowline Holding, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0388",
+      "file_name": "RAO Cover_001.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Phillips Cover",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F25089-0000-C719-8B58-08C6EAC0DFA0}",
+      "organization": "Bowline Point Power, LLC, GenOn Bowline Holding, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0388",
+      "file_name": "Phillips Cover_001.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/13/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of GenOn Bowline Holdings, LLC and Bowline Point Power, LLC for a Declaratory Ruling Eschewing Further Review of the Transaction, or Alternatively, an Order Authorizing the Transaction Pursuant to Section 70 of the New York Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F25089-0000-C339-B3F7-B91DAAF40F47}",
+      "organization": "Bowline Point Power, LLC, GenOn Bowline Holding, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0388",
+      "file_name": "Redacted Filing_001.pdf"
+    }
+  ]
+}

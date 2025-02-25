@@ -1,0 +1,49 @@
+{
+  "case": "21-C-0368",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "New York - Mobilitie Post Closing Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC597CCA-7D70-4AF8-82C9-D4CCD8319254}",
+      "organization": "Mobilitie, LLC, Transmission Network NY, LLC",
+      "itemNo": "4",
+      "docket_id": "21-C-0368",
+      "file_name": "New York - Mobilitie Post Closing Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/04/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01473 Mobilitie TNNY MAT OOL Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47D59389-5617-4E16-BB64-29845F109E7B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-C-0368",
+      "file_name": "21-01473 Mobilitie TNNY MAT OOL Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Amendment to NY PSC Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B285FDB-E775-42CF-BB89-F38D1A523651}",
+      "organization": "Mobilitie, LLC, Transmission Network NY, LLC",
+      "itemNo": "2",
+      "docket_id": "21-C-0368",
+      "file_name": "Letter Amendment to NY PSC Application (File Version 7.12.2021) - 4848-5058-1745.1.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/30/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Gary Jabara Revocable Trust, Transferor, and BAI Communications US Holdings II LLC, Transferee, to Authorize the Transfer of Indirect Control of Mobilitie, LLC and Transmission Network NY, LLC,Licensees.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DA2E401-6621-4036-8AE6-338C55DE0274}",
+      "organization": "BAI Communications US Holdings II LLC, Gary Jabara Revocable Trust, Mobilitie, LLC, Transmission Network NY, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0368",
+      "file_name": "Mobilitie - BAI - New York PSC Application (FILE VERSION 6.30.2021) - 4843-3507-6592.2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "21-M-0489",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver and Extending Development Period, with Modification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DFCD285-318D-480F-80B4-19B0D18B4BAF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-M-0489",
+      "file_name": "262_21-M-0489_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/17/2021",
+      "nypuc_doctype": "Comments",
+      "name": "National Grid Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F524C85E-D498-47C6-AEE1-2CFC944D886E}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-M-0489",
+      "file_name": "Case 21-M-0489 - National Grid Comments.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of ER Land Development LLC for a Request for an Extension on Letter of Credit.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEE315AC-8BB8-433F-A50D-9AF0B84230F0}",
+      "organization": "ER Land Development LLC",
+      "itemNo": "1",
+      "docket_id": "21-M-0489",
+      "file_name": "ER Land Development LLC.pdf"
+    }
+  ]
+}

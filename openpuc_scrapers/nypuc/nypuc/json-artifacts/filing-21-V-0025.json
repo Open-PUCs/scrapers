@@ -1,0 +1,82 @@
+{
+  "case": "21-V-0025",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/24/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petitions and Closing the Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F6F5B569-5410-43EA-A310-2473BD3D4F1B}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-V-0025",
+      "file_name": "Secretary Closing Ltr. - Verizon - 158 Order of Entry Matters 8.24.21 (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73297236-D8FE-477B-B728-5BA2AD5D5534}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0025",
+      "file_name": "664_21-V-0025.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/25/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Corrected Letter To Building Owners -155 Linden Boulevard, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CDD012BC-D1EC-4D23-BE46-0B60B6889CD0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-V-0025",
+      "file_name": "Corrected Letter To Building Owners -155 Linden Boulevard, Brooklyn.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "19-02884.Single Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C27FB71-1DEF-41C3-8D52-2CABCC8D28F9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0025",
+      "file_name": "19-02884.Single Order of Entry.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 155 Linden Boulevard, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F36CF63-1CD2-4F4E-B833-7B4B01C6E895}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0025",
+      "file_name": "Petition (155 LINDEN BLVD).pdf (95 KB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3ABC759B-4C85-42CD-B61D-C5F8DCC95BFA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0025",
+      "file_name": "Exhibit 2 (155 LINDEN BLVD).pdf (147 KB)"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/20/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7AC4B05-358F-48F3-8E84-B90A2CBA9C5D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0025",
+      "file_name": "Exhibit 1 (155 LINDEN BLVD).pdf (700 KB)"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "24-E-0049",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30562A92-0000-CF16-90C8-28585BDB01D9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0049",
+      "file_name": "368_24-E-0049 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "additional information (4)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B08F3391-0000-C523-BC80-93C57F231842}",
+      "organization": "25 Water, Owner, LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0049",
+      "file_name": "additional information (4).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "energy saving ideas",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5007A290-0000-C018-BA87-D64CF221A5CD}",
+      "organization": "25 Water, Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0049",
+      "file_name": "energy saving ideas.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0609E90-0000-CD33-AF69-E3C044A72A8F}",
+      "organization": "25 Water, Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0049",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0609E90-0000-CD13-9EEA-4BAE1A8693E3}",
+      "organization": "25 Water, Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0049",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 25 Water, Owner, LLC to Submeter Electricity at 25 Water Street, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={802C378D-0000-CD10-829A-9BA07BD17120}",
+      "organization": "25 Water, Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0049",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

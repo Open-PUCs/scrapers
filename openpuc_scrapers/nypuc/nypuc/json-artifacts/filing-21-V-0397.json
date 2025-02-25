@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0397",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2517CE6A-E9C8-4A76-A38F-C9FD1C6E6B82}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0397",
+      "file_name": "661_21-V-0397.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Hartland, Niagara County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7B206E71-F42C-4A1E-9FCE-B07E38FE9C57}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0397",
+      "file_name": "2021.07.22 T. HARTLAND RENEWAL FILED.pdf"
+    }
+  ]
+}

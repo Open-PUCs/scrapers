@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0662",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/01/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter regarding Exhibit C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C06D1E9D-E972-4624-A2C3-439199BA9414}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "17-E-0662",
+      "file_name": "Ltr to K Burgess 11 01 17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Fishers Island Electric Corporation for Declaratory Ruling or, in the Alternative, Approval of Easement Pursuant to Section 70 of the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B954E8D-DC24-4195-8E6D-9A29FCD43822}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0662",
+      "file_name": "Verified Petition of FIEC for Declaratory Ruling or in the Alternative Approval of Easement 10 25 17, 4827-0819-9506.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A08847B8-1A8C-48B3-BF76-0F8B68D94112}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0662",
+      "file_name": "Ltr to K Burgess re Approval of Easement, 4832-4003-1313.pdf"
+    }
+  ]
+}

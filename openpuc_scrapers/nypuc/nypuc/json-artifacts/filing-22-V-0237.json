@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0237",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC1FC4FF-C7C3-412E-B290-3F2F035D40F3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0237",
+      "file_name": "663_22-V-0237.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E76002A8-FBAF-4ECD-AEEF-2621C95D0A23}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0237",
+      "file_name": "AUSA Newspaper Cover Letter - Westhampton Beach.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "AUSA Newspaper Affidavit - Westhampton Beach, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={11C57C80-BE34-4EFF-A653-0B0512533B08}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0237",
+      "file_name": "AUSA Newspaper Affidavit - Westhampton Beach, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC6BCB0F-1204-4E32-A7A2-D9ECB8E65A65}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0237",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Westhampton Beach, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E9D082E-C0CD-4E51-8A50-828F79913C7E}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0237",
+      "file_name": "Exhibit IV - Westhampton Beach, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12BAD259-F7B3-4422-AE9A-08EC86D391FC}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0237",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC6C6C49-31AD-4C95-89D1-99EDCEF9E3A3}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0237",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A68F244D-DE90-43F6-9E2C-02EABE1089D8}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0237",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/20/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95D399E5-F24C-4B2B-A2D9-CA9151A1D7C1}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0237",
+      "file_name": "Application Cover Letter - Westhampton Beach.pdf"
+    }
+  ]
+}

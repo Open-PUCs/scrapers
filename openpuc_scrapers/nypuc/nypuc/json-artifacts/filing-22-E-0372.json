@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0372",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34DD0772-1E66-4E83-A952-F0ACA28CC6B0}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0372",
+      "file_name": "377_22-E-0372 Neg. Dec. final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FBAEC55-013E-47AA-9932-09629470D9A8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0372",
+      "file_name": "377_22-E-0372 Order final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CA5F0C4-54F7-44E4-BDC0-7A1DAFB5AA7A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-E-0372",
+      "file_name": "22-E-0372 (Flint Mine SEAF - Cover Letter).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Completed SEAF Parts 2 and 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E301667D-56A9-4A24-AA77-2CA64725C78A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-E-0372",
+      "file_name": "22-E-0372 Completed SEAF Parts 2 and 3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Section 70 Petition on Land Holdings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F2A2B2A-0E06-4B63-B4BA-741F2320E3F1}",
+      "organization": "DESRI Flint Mine Development, L.L.C., DESRI Flint Mine Land Holdings, L.L.C., Flint Mine Solar LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0372",
+      "file_name": "Joint Section 70 Petition on Land Holdings.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8EFAAFC8-11C3-4779-AFB5-FD6CBC8359FE}",
+      "organization": "DESRI Flint Mine Development, L.L.C., DESRI Flint Mine Land Holdings, L.L.C., Flint Mine Solar LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0372",
+      "file_name": "220701 Ltr to Secretary filing Verified Land Holdings Petition Under Section 70.pdf"
+    }
+  ]
+}

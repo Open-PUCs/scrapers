@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0248",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AC76EC1-8F4E-4448-AD43-DDDDA34BF65D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0248",
+      "file_name": "667_21-V-0248 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Trenton, Oneida County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D23CB65C-BD96-485D-A6E3-C1D9B31C81E5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0248",
+      "file_name": "2021.04.22 T. TRENTON RENEWAL FILED PSC-AK.pdf"
+    }
+  ]
+}

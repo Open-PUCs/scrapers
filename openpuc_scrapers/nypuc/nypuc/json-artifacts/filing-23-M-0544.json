@@ -1,0 +1,137 @@
+{
+  "case": "23-M-0544",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C057198D-0000-C310-ADA6-3FFA859A6DD5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "23-M-0544",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-M-0544 Follow-up Letter Mark James Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C057198D-0000-CC5C-B25A-EC9A5D58D271}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "23-M-0544",
+      "file_name": "23-M-0544 Follow-up Letter Mark James Decision.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-M-0544 Con Edison Response to Mark James Appeal Final_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B057198D-0000-C714-9382-3CD8098BC43B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "7",
+      "docket_id": "23-M-0544",
+      "file_name": "23-M-0544 Con Edison Response to Mark James Appeal Final_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={105BD08C-0000-C61B-8CA4-3CB1DBD12414}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-M-0544",
+      "file_name": "269_23-M-0544_Letter_final 1324_REDACTED.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={105BD08C-0000-C633-B77B-D24045F36FDB}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "23-M-0544",
+      "file_name": "269_23-M-0544_Determination.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40EA968B-0000-CA2D-A9EC-C7F1F5598B4F}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-M-0544",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Motions",
+      "name": "23-M-0544 RAO Confidential Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30A6A48B-0000-C83A-BC57-B1AA7B8D9EA5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-M-0544",
+      "file_name": "23-M-0544 RAO Confidential Request.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-M-0544 Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30A6A48B-0000-CC19-827A-0F01F893EC6B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-M-0544",
+      "file_name": "23-M-0544 Cover letter.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "23-M-0544 Con Edison Response to Mark James Appeal Final_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A8A48B-0000-C11C-B548-8C7540D84CC0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-M-0544",
+      "file_name": "23-M-0544 Con Edison Response to Mark James Appeal Final_Redacted.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FBDC8A-0000-CB36-8EA8-94E9645A9CC6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-M-0544",
+      "file_name": "2023 09 28 Mark James v Con Edison 223130 Ack Letter_Redacted.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision__Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30F9DC8A-0000-C63A-AA45-D8444CB68816}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-M-0544",
+      "file_name": "2023 09 07 Mark_James_vs_Con_Edison_case_223130__Redacted.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/28/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0F5DC8A-0000-CC3C-958F-6E20C57FC1CE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-M-0544",
+      "file_name": "2023 09 27 223130- Mark James v Con Edison appeal of IHD Redacted_Redacted.pdf"
+    }
+  ]
+}

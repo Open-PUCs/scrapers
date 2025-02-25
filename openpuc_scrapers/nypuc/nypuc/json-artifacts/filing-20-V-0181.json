@@ -1,0 +1,71 @@
+{
+  "case": "20-V-0181",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/09/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7180D545-737D-4CD8-9E82-3E72828B576B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0181",
+      "file_name": "20-V-0181 Secretary Ltr Closing Case 12.9..2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F15C5DA-3A02-4F46-B21A-1496A154835E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0181",
+      "file_name": "200916 Letter re 2844 8 Av (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0115D0B3-5BEA-46EE-AE6E-80C9D20EA156}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0181",
+      "file_name": "19-00773 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2844 8th Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CBA5AEA-0B8B-4390-A68E-1FACF16F7FA0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0181",
+      "file_name": "Petition (2844 8 Av).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CC955D1-2EC0-4AA6-B154-5B48EE8755E6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0181",
+      "file_name": "Exhibit 2 (2844 8 Av).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={37F5E0B5-2580-450B-B61E-D259FBCFBBEE}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0181",
+      "file_name": "Exhibit 1 (2844 8 Av).pdf"
+    }
+  ]
+}

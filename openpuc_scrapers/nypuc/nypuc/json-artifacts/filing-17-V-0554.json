@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0554",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5ED77D28-9C36-472C-9A4E-9A063C4D63DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0554",
+      "file_name": "664_17-V-0554.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/03/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Exhibit E to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0EA6625D-DAF6-4B33-A1CC-16D90F9C28D1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0554",
+      "file_name": "Lynbrook Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/15/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Lynbrook, Nassau County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8F32610-EED0-4A3A-A17B-F7059F26F879}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0554",
+      "file_name": "Lynbrook Renewal Petition (Complete).pdf"
+    }
+  ]
+}

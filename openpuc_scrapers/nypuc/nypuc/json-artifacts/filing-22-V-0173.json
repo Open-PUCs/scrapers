@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0173",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B7B6529-9FB5-41D8-AED0-25880C9CA8DA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0173",
+      "file_name": "662_22-V-0173.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/01/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00078 Letters to Building Owner 2.1.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B63EB2F-E5CA-490D-BE49-294164BE0B37}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0173",
+      "file_name": "22-00078 Letters to Building Owner 2.1.2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 78 Ridge Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D3DFD6B-F8A0-4BA8-A725-8C6DB917F7BB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0173",
+      "file_name": "220112-11 Petition (78 RIDGE ST) (Post-Survey).pdf"
+    }
+  ]
+}

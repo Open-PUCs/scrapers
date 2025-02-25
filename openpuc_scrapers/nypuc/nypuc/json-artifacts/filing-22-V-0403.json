@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0403",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB58C98C-3774-4F48-BCDE-EDAD1CF6255C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0403",
+      "file_name": "663_22-V-0403.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/11/2022",
+      "nypuc_doctype": "Exhibits",
+      "name": "Case No.22-V0403 Town of Gilboa Cable Franchise Renewal - Exhibit 7 Addition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7897439-7DAF-4276-8218-CC24059AE950}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "22-V-0403",
+      "file_name": "Case No.22-V0403 Town of Gilboa Cable Franchise Renewal - Exhibit 7 Addition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Heart of the Catskills Communications, Inc. dba MTC Cable for Approval of the Renewal of its Franchise with the Town of Gilboa, Schoharie County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6364C3D4-D808-4E71-B2B2-0591FA7EE1BA}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "22-V-0403",
+      "file_name": "2022 Gilboa Franchise Renewal Exibits 1-9.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "17-E-0252",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/20/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certification of Acceptance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={190176DC-0677-4EEF-945D-B67A87FE270B}",
+      "organization": "225 East 74th Apartments Corp.",
+      "itemNo": "6",
+      "docket_id": "17-E-0252",
+      "file_name": "17-E-0252 Cert of Acceptance 225E74.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEFCFC0F-81BC-413A-8F56-D98FFF84EE11}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0252",
+      "file_name": "365_17-E-0252 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/24/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51C920A0-5A20-460A-8FDA-DA6BF9D58B16}",
+      "organization": "Energy Investment Systems, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-E-0252",
+      "file_name": "Oct 23 Response to Burgess.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Demand Response Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F014B16-2383-43F5-B2D8-020A385AD456}",
+      "organization": "225 East 74th Apartments Corp.",
+      "itemNo": "3",
+      "docket_id": "17-E-0252",
+      "file_name": "225 E 74 DR Application.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/21/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201C320A-1775-4E0C-9C42-C9505EA5B725}",
+      "organization": "225 East 74th Apartments Corp.",
+      "itemNo": "3",
+      "docket_id": "17-E-0252",
+      "file_name": "Corporation Con Ed DR Application Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "08/17/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering Petition Statement of Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={316EB7AC-D621-4851-9D5C-925C3A51EBDC}",
+      "organization": "225 East 74th Apartments Corp.",
+      "itemNo": "2",
+      "docket_id": "17-E-0252",
+      "file_name": "Case_17-E-0252 Submetering Petition Statement of Clarification.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/17/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Submetering ID Form-REV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1675A17-AAC0-468D-90F6-C4C8891D1435}",
+      "organization": "225 East 74th Apartments Corp.",
+      "itemNo": "2",
+      "docket_id": "17-E-0252",
+      "file_name": "Case_17-E-0252 Submetering ID Form-REV.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/09/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 225 East 74th Apartments Corp. to Submeter Electricity at 225 East 74th Street, New York, NY, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={444D3EDB-5527-4BF3-A799-A67ED483E054}",
+      "organization": "225 East 74th Apartments Corp.",
+      "itemNo": "1",
+      "docket_id": "17-E-0252",
+      "file_name": "225 E. 74th Street, New York, NY--Petition to Submeter with Exhibits 1-8....pdf"
+    }
+  ]
+}

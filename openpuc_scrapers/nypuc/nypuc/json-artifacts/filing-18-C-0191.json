@@ -1,0 +1,82 @@
+{
+  "case": "18-C-0191",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A58F2A6-3FD1-4315-B953-35FDF800EBE3}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "18-C-0191",
+      "file_name": "564_18-C-0191.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Completion of Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBB6AB6D-59D1-4197-B35A-EBC1A09C9E4F}",
+      "organization": "MBS Holdings, Inc.",
+      "itemNo": "5",
+      "docket_id": "18-C-0191",
+      "file_name": "2018-07-05 Notice of Completion of Transaction.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/28/2018",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Indirect Transfer of Control",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F2775E86-496F-4D7B-BFAD-1762C2A56BA2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-C-0191",
+      "file_name": "18-C-0191 - Alteva Warwick - Merger One-Commissioner Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "18-C-0191 - Alteva Merger Stop the 90 day Clock Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE2A1CAF-9C40-4899-83EC-61F06053F2E0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-C-0191",
+      "file_name": "18-C-0191 - Alteva Merger Stop the 90 day Clock Letter.docx"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/23/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDC674EC-D20C-441A-BB9D-88F4E45973C1}",
+      "organization": "Alteva of Warwick LLC",
+      "itemNo": "2",
+      "docket_id": "18-C-0191",
+      "file_name": "Request for Exception from Disclosure.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Alteva of Warwick LLC, MBS Holdings, Inc., and Castle Intermediate Holdings, Inc. for Approval of a Holding Company Level Transfer of Control.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B47F9448-7D2A-4F0A-8369-FF35A9B2CC8A}",
+      "organization": "Alteva of Warwick LLC, Castle Intermediate Holdings, Inc., MBS Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0191",
+      "file_name": "2018-03-22 Castle Intermediate Holdings - MBS Holdings - New York PSC ToC Application.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/23/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CAEBF73-123F-48BA-B608-671F96AD02C9}",
+      "organization": "Alteva of Warwick LLC, Castle Intermediate Holdings, Inc., MBS Holdings, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0191",
+      "file_name": "2018-03-23 Cover Ltr (1).pdf"
+    }
+  ]
+}

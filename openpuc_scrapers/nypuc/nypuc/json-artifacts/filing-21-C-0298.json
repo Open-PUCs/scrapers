@@ -1,0 +1,82 @@
+{
+  "case": "21-C-0298",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/10/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Gregory G. Nickson and Brian T. FitzGerald Granting Request and Closing Cases",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91064D97-1CC2-4F91-938A-466FAD023264}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-C-0298",
+      "file_name": "Cases 21-C-0298.0299.0300-Closing Ltr. 1-10-22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/07/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEC60DEB-7B93-4649-8C39-377488D29860}",
+      "organization": "Berkshire Telephone Corporation d/b/a Consolidated Communications, Chautauqua & Erie Telephone Corporation d/b/a Consolidated Communications, Taconic Telcom Corp.",
+      "itemNo": "2",
+      "docket_id": "21-C-0298",
+      "file_name": "Cases 21-C-0298 et al. - Request to Withdraw Petition without Prejudice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/12/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6EA53E86-D413-4C0D-B36F-C656E9A1A45E}",
+      "organization": "Berkshire Telephone Corporation d/b/a Consolidated Communications",
+      "itemNo": "1",
+      "docket_id": "21-C-0298",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/12/2021",
+      "nypuc_doctype": "Reports",
+      "name": "REDACTED - Berkshire - Exhibit F",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4B1C116-1535-4197-8E98-CBD57014F274}",
+      "organization": "Berkshire Telephone Corporation d/b/a Consolidated Communications",
+      "itemNo": "1",
+      "docket_id": "21-C-0298",
+      "file_name": "REDACTED - Berkshire - Exhibit F.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Berkshire, C&E and Taconic Minor Rate Case - Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F0B54F2-8FEE-41FD-9E3B-BD876972C844}",
+      "organization": "Berkshire Telephone Corporation d/b/a Consolidated Communications",
+      "itemNo": "1",
+      "docket_id": "21-C-0298",
+      "file_name": "Berkshire, C&E and Taconic Minor Rate Case - Filing Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/12/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Berkshire CE and Taconic Minor Rate Cases - Request for Exemption from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63EFAF64-76A4-434D-BFF1-4D2509A27937}",
+      "organization": "Berkshire Telephone Corporation d/b/a Consolidated Communications",
+      "itemNo": "1",
+      "docket_id": "21-C-0298",
+      "file_name": "Berkshire CE and Taconic Minor Rate Cases - Request for Exemption from Disclosure.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/12/2021",
+      "nypuc_doctype": "Reports",
+      "name": "5.12.21 - Berkshire Minor Rate Case Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F909FCF1-FE61-45AF-BB8D-3785EFC43BDB}",
+      "organization": "Berkshire Telephone Corporation d/b/a Consolidated Communications",
+      "itemNo": "1",
+      "docket_id": "21-C-0298",
+      "file_name": "5.12.21 - Berkshire Minor Rate Case Filing.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0124",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Salemi Ack Letter 03102017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DCA039-5976-4BF8-B772-62C51BEDADF2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0124",
+      "file_name": "17-E-0124 Salemi Ack Letter 03102017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Salemi Rehearing Request 02172017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5972E74-3D39-4911-86C4-AD02ABABE2DD}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0124",
+      "file_name": "17-E-0124 Salemi Rehearing Request 02172017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Salemi SMD File 01302017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D868301-C9B6-4767-B57D-3CACC0B0B513}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0124",
+      "file_name": "17-E-0124 Salemi SMD File 01302017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E12F1B43-84D7-4CB9-918F-EDA666432454}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0124",
+      "file_name": "364_17-E-0124 Letter_Redacted.pdf"
+    }
+  ]
+}

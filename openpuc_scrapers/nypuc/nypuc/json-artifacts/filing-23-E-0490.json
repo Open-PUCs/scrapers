@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0490",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4076328D-0000-CF18-BE55-8B70A219BE5F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0490",
+      "file_name": "364_23-E-0490 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "The Suffolk Times - Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EF458C-0000-C21F-8BBB-0AE66B7A9381}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "23-E-0490",
+      "file_name": "The Suffolk Times - Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0EF458C-0000-C53C-BABF-BAA6275925E4}",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "23-E-0490",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Fishers Island Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "23-E-0490",
+      "file_name": ""
+    }
+  ]
+}

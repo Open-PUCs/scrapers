@@ -1,0 +1,38 @@
+{
+  "case": "19-C-0123",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition PrimeLink and KS 102 REDACTED_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D93F406-D249-40C0-8121-7F9B3AFC54A4}",
+      "organization": "K&S #102, Inc., Primelink, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0123",
+      "file_name": "Petition PrimeLink and KS 102 REDACTED_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/22/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Records Access Officer (Vigars) re PrimeLink KS 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E0E76D0-A338-4219-90DD-9EF7E4D6352D}",
+      "organization": "K&S #102, Inc., Primelink, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0123",
+      "file_name": "Letter to Records Access Officer (Vigars) re PrimeLink KS 102.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/22/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to NYS Public Service Commission (Burgess) re PrimeLink and KS 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8140AA41-3969-4418-92DB-784B628C2AED}",
+      "organization": "K&S #102, Inc., Primelink, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-C-0123",
+      "file_name": "Letter to NYS Public Service Commission (Burgess) re PrimeLink and KS 102.pdf"
+    }
+  ]
+}

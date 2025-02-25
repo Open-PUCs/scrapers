@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0430",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/13/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240513 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70FB728F-0000-C512-81B9-0635BF6155FA}",
+      "organization": "Corzo Contracting Co., Inc., New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "23-G-0430",
+      "file_name": "20240513 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240301 - Payment - $1,000 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0F20E8E-0000-C616-8B8D-31EFA41E7157}",
+      "organization": "Corzo Contracting Co., Inc.",
+      "itemNo": "4",
+      "docket_id": "23-G-0430",
+      "file_name": "20240301 - Payment - $1,000 - Redacted.pdf"
+    }
+  ]
+}

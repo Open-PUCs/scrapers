@@ -1,0 +1,71 @@
+{
+  "case": "16-E-0392",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/19/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on a Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1008EB16-8AD3-4838-8B6E-3DAF47C3B18D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0392",
+      "file_name": "374_16e0392 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03E242AC-CA44-482C-BA68-771211C20B9C}",
+      "organization": "Danskammer Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0392",
+      "file_name": "Verified Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D34AD7AE-3A18-4824-85CD-857CD25DEAF7}",
+      "organization": "Danskammer Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0392",
+      "file_name": "Transmittal Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendix C",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={101F1D1B-BB14-45FB-B4EB-D6F43A61039D}",
+      "organization": "Danskammer Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0392",
+      "file_name": "Appendix C.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendix B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52321357-0A28-4C36-9A14-19A7C9D3B016}",
+      "organization": "Danskammer Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0392",
+      "file_name": "Appendix B.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendix A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309F6C59-7EB7-412C-967B-DC1CF5214898}",
+      "organization": "Danskammer Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0392",
+      "file_name": "Appendix A.pdf"
+    }
+  ]
+}

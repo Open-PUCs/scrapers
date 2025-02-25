@@ -1,0 +1,82 @@
+{
+  "case": "19-G-0692",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/19/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E47B047F-838B-47BB-B283-79EAD769EDF5}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-G-0692",
+      "file_name": "166_19-G-0692 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAC7CD15-DAAA-49DC-84EB-19FC5CE22CCF}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-G-0692",
+      "file_name": "166_ 19-G-0692 letter final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1392EA5-6892-4535-99EB-E4DD7DD35186}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-G-0692",
+      "file_name": "Case 19-G-0692 Con Edison Response to Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/29/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D52340C-34AC-4E69-92F8-FDBD4D69B8D9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-G-0692",
+      "file_name": "720920 Newset_.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/29/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09713901-2657-464A-A26B-29DA81D28258}",
+      "organization": "Newsett II HDFC/Grenadier Realty Corp.",
+      "itemNo": "2",
+      "docket_id": "19-G-0692",
+      "file_name": "720920 Newsett II HDFC v Con Edison Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/29/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E189D28-C35D-46D8-88D6-754C4D7B1E3C}",
+      "organization": "Newsett II HDFC/Grenadier Realty Corp.",
+      "itemNo": "2",
+      "docket_id": "19-G-0692",
+      "file_name": "720920 Newsett II HDFC v Con Edison APPEAL OF INFORMAL DETERMINATION.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/29/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5668F599-5221-4105-A327-2D7AA4C37C03}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-G-0692",
+      "file_name": "720920- Newset II HDFC- Grenadier Realty Corp. vs. Con Edison.pdf"
+    }
+  ]
+}

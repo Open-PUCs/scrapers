@@ -1,0 +1,126 @@
+{
+  "case": "18-E-0024",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/26/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certificate of Compliance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D15D2D71-5CBD-4FCB-B523-6A375C2C5ABD}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "11",
+      "docket_id": "18-E-0024",
+      "file_name": "Certificate of Compliance 18-E-0024.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49004175-1B0A-4BBE-90F5-8BBF3EA59AF9}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "18-E-0024",
+      "file_name": "369_18-E-0024.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Updated Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A11E99ED-2D57-46FF-9434-1ADDD8EC0EB0}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "9",
+      "docket_id": "18-E-0024",
+      "file_name": "Case 18-E-0024_Letter to Secretary re updated information 4843-1612-351....pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A6121F5-8CFE-4539-8EB2-423115F5B175}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "8",
+      "docket_id": "18-E-0024",
+      "file_name": "Request for Additional Information (2).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/26/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Responses to the Secretary's request for additional information.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FDC6F27-FB30-47B0-AC04-7069DCBC3A73}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "7",
+      "docket_id": "18-E-0024",
+      "file_name": "Request for Additional Information.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/22/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13871B59-D5AC-453B-BB68-CA373735CF84}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "6",
+      "docket_id": "18-E-0024",
+      "file_name": "Case 18-E-0024 Request for Additional Information 2 (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Second Notice to Residents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B116145-96D9-4F76-8D83-75E085E57F0C}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "5",
+      "docket_id": "18-E-0024",
+      "file_name": "Second Notice to Residents.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/03/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "First Notice to Residents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={801BFAC2-E4BA-440D-A988-279F4323462B}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0024",
+      "file_name": "18-E-0024 First Notice to Residents.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/28/2018",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF276C5C-E998-4801-9C7B-A89C60CFDEC0}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "3",
+      "docket_id": "18-E-0024",
+      "file_name": "18-E-0024_Request for Waiver of Energy Audit.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/09/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A6A9CBB9-2845-4B41-A398-337E726FEEEC}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0024",
+      "file_name": "Request for Additional Information 18-E-0024.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "01/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of WP North Tower LLC to Submeter Electricity at 55 Bank St, White Plains, NY 10606, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95713F62-3D35-452C-8A87-CC3E00E302EC}",
+      "organization": "WP North Tower LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0024",
+      "file_name": "Application WP North Tower.pdf"
+    }
+  ]
+}

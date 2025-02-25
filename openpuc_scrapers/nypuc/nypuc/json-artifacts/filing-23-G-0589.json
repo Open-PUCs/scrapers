@@ -1,0 +1,60 @@
+{
+  "case": "23-G-0589",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing in Chinese",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10669C8F-0000-C65D-A56D-29A4A26160AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0589",
+      "file_name": "164_23-G-0589 Ch_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/21/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10669C8F-0000-C632-A286-434AC8D6985F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0589",
+      "file_name": "164_23-G-0589 _Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Letters",
+      "name": "356063 Chen SMR Ack 10102023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0DB1A8B-0000-CF1C-AB36-2075B025001A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0589",
+      "file_name": "356063 Chen SMR Ack 10102023_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Owner SMR Request 10052023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90DA1A8B-0000-C71B-99FB-069E4841AFE8}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-G-0589",
+      "file_name": "Owner SMR Request 10052023_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/10/2023",
+      "nypuc_doctype": "Letters",
+      "name": "317640 Canaan SMD Final 08092023 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D81A8B-0000-C21F-8C67-B61AA9231B7D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0589",
+      "file_name": "317640_Canaan_SMD_Final_08092023_Redacted.pdf"
+    }
+  ]
+}

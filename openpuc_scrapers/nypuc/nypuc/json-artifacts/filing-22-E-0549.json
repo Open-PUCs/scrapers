@@ -1,0 +1,170 @@
+{
+  "case": "22-E-0549",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70FBF28B-0000-CD33-9F41-6FC07F69AFFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "14",
+      "docket_id": "22-E-0549",
+      "file_name": "371_15-E-0302 112123 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2066F086-0000-C919-82EE-FFA3F907A5BF}",
+      "organization": "Public Service Commission",
+      "itemNo": "13",
+      "docket_id": "22-E-0549",
+      "file_name": "368_22-E-0549 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2023",
+      "nypuc_doctype": "Comments",
+      "name": "Joint Utilities Reply Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={943FD814-3DE5-4D52-A780-8C64850EE758}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "12",
+      "docket_id": "22-E-0549",
+      "file_name": "Case 22-E-0549 - Joint Utilities Reply to Comments Filed in Response to the Joint Utilities Sept 30 2022 Tariff Filings.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "11",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Comments",
+      "name": "NYPSC Case 22-E-0549 United and ACENY Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFE2A1B1-79D1-4E15-873F-ADEBF08FD3EB}",
+      "organization": "Advanced Energy United",
+      "itemNo": "10",
+      "docket_id": "22-E-0549",
+      "file_name": "NYPSC Case 22-E-0549 United ACENY Comments.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Comments",
+      "name": "NY-BEST comments on utilities proposed WVS tariffs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42F8B2B8-99B8-4386-A43A-DF7CA8A24296}",
+      "organization": "New York Battery and Energy Storage Technology Consortium",
+      "itemNo": "9",
+      "docket_id": "22-E-0549",
+      "file_name": "NY-BEST comments on utilities proposed WVS tariffs.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Comments",
+      "name": "IPPNY Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61E792A6-09F9-446E-AE66-8A5E12A86650}",
+      "organization": "Independent Power Producers of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "22-E-0549",
+      "file_name": "IPPNY Cover Letter 1.23.23-Final.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/23/2023",
+      "nypuc_doctype": "Comments",
+      "name": "IPPNY Comments PSC-47-22-00008-P-Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C9AC72B-ECE4-4E51-AAF5-63E488B67F0E}",
+      "organization": "Independent Power Producers of New York, Inc.",
+      "itemNo": "8",
+      "docket_id": "22-E-0549",
+      "file_name": "IPPNY Comments PSC-47-22-00008-P-Final.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "7",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "10",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "13",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "14",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    },
+    {
+      "serial": "15",
+      "date_filed": "09/30/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "22-E-0549",
+      "file_name": ""
+    }
+  ]
+}

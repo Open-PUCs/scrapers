@@ -1,0 +1,115 @@
+{
+  "case": "24-V-0048",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70E1668E-0000-CC14-9568-311520889DAE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0048",
+      "file_name": "662_24-V-0048_32224final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10416B8D-0000-CE3A-86E7-D31606E8BF4D}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "24-V-0048",
+      "file_name": "Town of Colesville Attch B NYPSC Cover ltr Ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Colesville Town Attachment B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10416B8D-0000-C813-A9B2-3935D31D35E2}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "3",
+      "docket_id": "24-V-0048",
+      "file_name": "Colesville Town Attachment B 20240201.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DA328D-0000-C7D9-B6F0-E0AF4185A94F}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0048",
+      "file_name": "Town of Colesville 2023 NYPSC Ltr.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Colesville Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DA328D-0000-C3B0-A296-500CAFE93A59}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0048",
+      "file_name": "Colesville Resolution.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Colesville Franchise Agreement 20230907",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DA328D-0000-CC9D-83C2-19DE48C6BFD7}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0048",
+      "file_name": "Colesville Fran Agmt 20230907_compressed.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Colesville Affidavit Legal Notice 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DA328D-0000-C077-8408-7659F9E01A31}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0048",
+      "file_name": "Colesville Affidavit Legal Notice 2.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Colesville Affidavit Legal Notice 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DA328D-0000-C05A-A0DE-FE9336302B8E}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0048",
+      "file_name": "Colesville Affidavit Legal Notice 1_compressed.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Colesville 2nd Legal Notice 2023117-1124",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DA328D-0000-C535-B624-A8BF9F3DA7A2}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0048",
+      "file_name": "Colesville 2nd Legal Notice 2023117-1124.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "01/22/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Colesville 1st Legal Notice 20230811-18",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0DA328D-0000-C115-95A6-BCF4DF258B55}",
+      "organization": "Adams CATV Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0048",
+      "file_name": "Colesville 1st Legal Notice 20230811-18.pdf"
+    }
+  ]
+}

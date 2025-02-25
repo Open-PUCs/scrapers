@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0031",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/25/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FE0D2E5-3B46-45C0-9FDC-97F2C959AE07}",
+      "organization": "540 Fulton Associates LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0031",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5133910F-1E89-45F3-B203-45D0EDBB2DFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0031",
+      "file_name": "362_21-E-0031.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95AAB375-DB0B-49F8-9919-DF7A2D1FEA35}",
+      "organization": "540 Fulton Associates LLC",
+      "itemNo": "3",
+      "docket_id": "21-E-0031",
+      "file_name": "response letter 4-7-22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "response letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F96DF4B3-7EDB-4DBE-85A0-CA4D5E0A6C2F}",
+      "organization": "540 Fulton Associates LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0031",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/06/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 540 Fulton Associates LLC to Submeter Electricity at 540 Fulton Street, Brooklyn, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08DBE682-2019-4AD8-AFC0-98F52D03E2E2}",
+      "organization": "540 Fulton Associates LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0031",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

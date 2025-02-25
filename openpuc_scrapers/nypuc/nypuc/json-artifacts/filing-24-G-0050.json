@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0050",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Brooklyn Union Gas Company d/b/a National Grid NY for Approval of Honeywell AC-250NX.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30CA378D-0000-CB10-82C9-CC96723290D4}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "24-G-0050",
+      "file_name": "250NX Petition Letter - Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "AC-250NX-Part-List",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30CA378D-0000-CB58-9F7A-3D4C44E76FD4}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "24-G-0050",
+      "file_name": "AC-250NX-Part-List.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "AC-250NX ANSI TEST REPORT Rev 8-15-2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30CA378D-0000-C132-B086-550D6837F5D5}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "1",
+      "docket_id": "24-G-0050",
+      "file_name": "AC-250NX ANSI TEST REPORT Rev 8-15-2022 -.pdf"
+    }
+  ]
+}

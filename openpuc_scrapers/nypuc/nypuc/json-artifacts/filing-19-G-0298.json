@@ -1,0 +1,27 @@
+{
+  "case": "19-G-0298",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/06/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "NFGDC Response to 2018 Pipeline Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32A857FA-F386-43A2-AA87-F3BBE841F37F}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "19-G-0298",
+      "file_name": "NFGDC Response to 2018 Pipeline Safety Performance Measures Report.pdf (147 KB)"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Reports",
+      "name": "2018 Pipeline Safety Performance Measures Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE537B25-1E7C-4763-8F7B-57528AAF70C0}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0298",
+      "file_name": "101_19-G-0298 2018 Performance Measures Report.pdf"
+    }
+  ]
+}

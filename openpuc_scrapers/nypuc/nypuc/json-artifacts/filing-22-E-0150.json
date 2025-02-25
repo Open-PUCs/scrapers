@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0150",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B22D941A-1587-4DB9-8C87-68D800D5D1B0}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0150",
+      "file_name": "384_22-E-0150 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/04/2022",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Adopting Emergency Rule on a Permanent Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40702E12-4DF2-478A-BD56-CEEB54F3342E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0150",
+      "file_name": "22-E-0150 Order Making Rule Perm .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/12/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments on an Emergency Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9224641-725F-49AD-8D2B-B31AB86472B8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0150",
+      "file_name": "369_22-E-0150.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/12/2022",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - Average Summer Residential Electric Prices Expected to be Higher Than Normal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={626C2EEB-EA55-430D-AFF3-FAB315A736AD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0150",
+      "file_name": "pr22044.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/27/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Electric Supply Cost Recovery Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFF31703-7A52-4270-820A-774A6A43B54C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0150",
+      "file_name": "Electric Supply Cost Recovery Proof of Publication.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/14/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0150",
+      "file_name": ""
+    }
+  ]
+}

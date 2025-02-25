@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0010",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84C6F5C3-F7C0-40A5-8656-DC78D9E01CBC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0010",
+      "file_name": "661_23-V-0010 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02062 Letter to Building Owner_76 St Nicholas Pl",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8207233-8CB4-4629-870E-F60EBAF17664}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0010",
+      "file_name": "22-02062 Letter to Building Owner_76 St Nicholas Pl.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 76 St. Nicholas Place, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={53624EB7-265A-417B-957A-0CF44C87E93E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0010",
+      "file_name": "221019-17 Petition (76 ST NICHOLAS PL) (Post-Survey).pdf"
+    }
+  ]
+}

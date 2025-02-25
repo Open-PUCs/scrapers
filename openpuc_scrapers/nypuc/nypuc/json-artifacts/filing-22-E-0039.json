@@ -1,0 +1,27 @@
+{
+  "case": "22-E-0039",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/02/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0FE9E8E-0000-C91A-B28C-A2A9E7C9F9CF}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0039",
+      "file_name": "Withdrawal letter for Generlink.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. for Approval of Generlink Meter Collar Devices.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={606FEA81-096B-4CDB-BEFB-79960C9EEECE}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0039",
+      "file_name": "Letter of Intent to use Generlink Meter Collar devices at Con Edison.pdf"
+    }
+  ]
+}

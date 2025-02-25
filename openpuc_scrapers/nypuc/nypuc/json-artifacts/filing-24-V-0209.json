@@ -1,0 +1,82 @@
+{
+  "case": "24-V-0209",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0625A90-0000-C515-967D-AA982E507EAA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0209",
+      "file_name": "662_24-V-0209 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Caroga Corrected reso",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D6D38E-0000-CA3D-B362-740B1496D5E5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0209",
+      "file_name": "T. Caroga Corrected reso with Cover (003).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/12/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50D6D38E-0000-C814-BFD3-329D11F2C460}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "24-V-0209",
+      "file_name": "Charter Communications-T. Caroga Cover Letter - correct Resolution.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Caroga Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40A0A98E-0000-CB96-90D9-DA62D95E1124}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0209",
+      "file_name": "T. Caroga Filing (Redacted).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Caroga Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 04.03.24 SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40A0A98E-0000-CC38-9454-00F6F5E004C8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0209",
+      "file_name": "T. Caroga Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 04.03.24 SP.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40A0A98E-0000-C15F-BE68-CA5E467A9D91}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0209",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/04/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Caroga 04.03.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40A0A98E-0000-CA76-A85D-ACE3F142F443}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0209",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Caroga 04.03.24.pdf"
+    }
+  ]
+}

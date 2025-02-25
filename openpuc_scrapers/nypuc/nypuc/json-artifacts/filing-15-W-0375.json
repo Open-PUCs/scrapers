@@ -1,0 +1,115 @@
+{
+  "case": "15-W-0375",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5974A7E-BD31-4546-AAA6-75602C63A63F}",
+      "organization": "Spring Glen Lake Water Company LLC",
+      "itemNo": "10",
+      "docket_id": "15-W-0375",
+      "file_name": "Spring Glen Lake Water Company, LLC.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/30/2015",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing Providing Journal Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6B5D9AD6-64FB-40D2-BBF4-339DB4DF2FA1}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "8",
+      "docket_id": "15-W-0375",
+      "file_name": "Compliance Filing Providing Journal Entry.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/28/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Spring Glen Lake Water Company LLC",
+      "itemNo": "9",
+      "docket_id": "15-W-0375",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/22/2015",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-W-0375",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/10/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYAW submits the customer communications filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E56CFD5-5A6B-463F-BE2E-58FA3FFFB86E}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "15-W-0375",
+      "file_name": "2015.12.10_Letter to Secretary Providing Customer Communication.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/15/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Sale and Acquisition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D083716C-5CE8-41FD-8670-3C6AF878F67D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-W-0375",
+      "file_name": "464_15w0375 final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/14/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter to Secretary Updating Spring Glen Lake Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35E7CB96-85A1-4073-9A6A-75DAB0FDA992}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "15-W-0375",
+      "file_name": "Letter to Secretary Updating Spring Glen Lake Petition.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/17/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Update to Joint Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5426630-AAE7-4E84-8244-4AB19ACF766E}",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "15-W-0375",
+      "file_name": "Update to Joint Petition.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/16/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3760BCBA-D4DD-4514-B82F-63F2600B6A99}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "15-W-0375",
+      "file_name": "15-W-0375 signed EAF.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/24/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of New York American Water Company, Inc. and Spring Glen Lake Water Company, LLC for Approval of an Agreement of Sale under which Spring Glen Lake Water Company, LLC will Sell and New York American Water Company, Inc. will Acquire 100% of the Assets of Spring Glen Lake Water Company, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BB60E4F-34C6-41DC-B3F4-7C5D9DF6C0B3}",
+      "organization": "New York American Water Company, Inc., Spring Glen Lake Water Company LLC",
+      "itemNo": "1",
+      "docket_id": "15-W-0375",
+      "file_name": "Petition_NYAW - Spring Glen Lake Acquisition_Redacted.pdf"
+    }
+  ]
+}

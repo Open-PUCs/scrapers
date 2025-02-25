@@ -1,0 +1,60 @@
+{
+  "case": "15-E-0699",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13765600-044C-43F6-AA11-6AE5E17F3EA6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0699",
+      "file_name": "373_Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/21/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={076D87AB-6B2B-41EB-955E-41CE2C9C4568}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0699",
+      "file_name": "373_Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/04/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD210DAF-387B-45BD-AB93-6DB494CE4CCE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "15-E-0699",
+      "file_name": "315762_AckLetter_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/04/2015",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE019AEE-5672-4D67-9AA3-BC75AA861CC6}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "15-E-0699",
+      "file_name": "315762_Appeal_Petition_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/04/2015",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBC90F9A-2BC5-452F-A50E-42874E6C1092}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "15-E-0699",
+      "file_name": "315762- Cynthia Carlisle-Brunson vs Con Edison_Redacted.pdf"
+    }
+  ]
+}

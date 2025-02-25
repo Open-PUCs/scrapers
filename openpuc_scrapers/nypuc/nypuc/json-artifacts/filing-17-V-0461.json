@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0461",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/27/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EFB94F9-4CAD-4B0C-94BA-CECE8C9EF170}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0461",
+      "file_name": "663_17-V-0461.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/08/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEA9F087-5ECE-4947-B9A9-CD70985890C6}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "17-V-0461",
+      "file_name": "Airmont Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Airmont, Rockland County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FED71C34-7C27-44E1-A9A5-72365EFBB560}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0461",
+      "file_name": "Airmont Renewal Petition (Complete).pdf"
+    }
+  ]
+}

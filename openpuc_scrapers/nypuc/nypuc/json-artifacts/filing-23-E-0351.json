@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0351",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/29/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Post-Approval IMTP (1 Park Place)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D073FF90-0000-CC13-A84A-E9C0BDDFADF0}",
+      "organization": "BNS I, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0351",
+      "file_name": "Post-Approval IMTP (1 Park Place).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/15/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Post-Approval Certification_1 Park Place 5.15.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={909D7D8F-0000-C5CD-96E6-2D507EE0950C}",
+      "organization": "BNS I, LLC",
+      "itemNo": "3",
+      "docket_id": "23-E-0351",
+      "file_name": "Post-Approval Certification_1 Park Place (5.15.24).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90D3108F-0000-CA20-92F2-818A69D42642}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0351",
+      "file_name": "367_23-E-0351 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of BNS I, LLC to Submeter Electricity at 1 Park Place and at 1108 Brown Street, Peekskill, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D02E1D89-0000-CA1A-AE8F-F8644790064B}",
+      "organization": "BNS I, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0351",
+      "file_name": "NOI_1 Park Place (7.3.23).pdf"
+    }
+  ]
+}

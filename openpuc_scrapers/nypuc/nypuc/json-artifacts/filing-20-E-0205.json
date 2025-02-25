@@ -1,0 +1,38 @@
+{
+  "case": "20-E-0205",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={13C7B51F-A982-446E-8F9C-61B832836937}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0205",
+      "file_name": "367_20-E-0205 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "CE Elec Reactive Power Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E010AB3-6F47-49F9-AF47-41B8A4378416}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0205",
+      "file_name": "CE Elec Reactive Power Proof of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0205",
+      "file_name": ""
+    }
+  ]
+}

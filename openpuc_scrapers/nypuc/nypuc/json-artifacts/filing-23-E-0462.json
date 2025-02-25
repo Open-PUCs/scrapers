@@ -1,0 +1,49 @@
+{
+  "case": "23-E-0462",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/06/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B3148E-0000-C611-9A5E-0ADCD2E3F34D}",
+      "organization": "50th & 5th LIC LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0462",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FDCC8D-0000-C515-96BB-1D4DE3B74DEC}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0462",
+      "file_name": "369_23-E-0462_final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5003418C-0000-CB1D-91AE-4778100E3567}",
+      "organization": "50th & 5th LIC LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0462",
+      "file_name": "additional informtaion.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/22/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 50th & 5th LIC, LLC to Sub-meter electricity at a building located at 2-33 50th Avenue, Long Island City, in the territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0261E8A-0000-C31A-BCD1-368968ECE2DB}",
+      "organization": "50th & 5th LIC LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0462",
+      "file_name": "submetering application (25).pdf"
+    }
+  ]
+}

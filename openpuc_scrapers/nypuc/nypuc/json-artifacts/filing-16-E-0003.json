@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0003",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/19/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E1BA7EF-A95E-4BC9-B9E8-1B84BD30E236}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0003",
+      "file_name": "NRG Request for exception from disclosure for DPS 001 to 003.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent of NRG Energy, Inc. to Mothball Astoria Gas Turbine Units 8, 10, & 11",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B99C0243-CD83-4D9D-9A73-9A7C3AF406FE}",
+      "organization": "NRG Energy, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0003",
+      "file_name": "Notice of Intent to Mothball- 1.4.16.pdf"
+    }
+  ]
+}

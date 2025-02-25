@@ -1,0 +1,38 @@
+{
+  "case": "16-C-0064",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/04/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FB24DCF-96C0-402D-8CED-02D2D23648E0}",
+      "organization": "Broadvox-CLEC, LLC, GTCR Onvoy Holdings LLC, Onvoy, LLC",
+      "itemNo": "3",
+      "docket_id": "16-C-0064",
+      "file_name": "NY Consummation Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/18/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Control and Related Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={467D35A3-D04B-400A-A153-3F271C206AFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0064",
+      "file_name": "565_16c0064.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Communications Infrastructure Investments, LLC, Onvoy, LLC, Broadvox-CLEC, LLC and GTCR Onvoy Holdings LLC for Approval (1) of the Transfer of Control of Onvoy, LLC and Broadvox-CLEC, LLC to GTCR Onvoy Holdings LLC and (2) for Onvoy, LLC and Broadvox-CLEC, LLC to Participate in Certain Financing Arrangements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FF4413D-DBAA-4D02-8A37-63676573A3DA}",
+      "organization": "Broadvox-CLEC, LLC, Communications Infrastructure Investments, LLC, GTCR Onvoy Holdings LLC, Onvoy, LLC",
+      "itemNo": "1",
+      "docket_id": "16-C-0064",
+      "file_name": "NY Petition.pdf"
+    }
+  ]
+}

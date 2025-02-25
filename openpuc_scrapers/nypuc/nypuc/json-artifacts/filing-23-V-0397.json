@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0397",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A0B38A-0000-C21C-B2BC-B47FE6025B97}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0397",
+      "file_name": "662_23-V-0397.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B66A89-0000-C938-BAC8-F427B965F7B6}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0397",
+      "file_name": "AUSA Newspaper Cover Letter - Bedford, T. (Westchester).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Bedford, T. (Westchester)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B66A89-0000-C013-9B4E-54580ABC7B59}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0397",
+      "file_name": "AUSA Newspaper Affidavit - Bedford, T. (Westchester).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0746A89-0000-CA51-91FA-71FD2E42DF47}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0397",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Westchester Corporation for Approval of the Renewal of its Franchise with the Town of Bedford, Westchester County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0746A89-0000-C718-BD5F-2B45E1F6B20D}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0397",
+      "file_name": "Application Cover Letter - Bedford T. (Westchester).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Bedford, T. AUSA Franchise Agreement (Cablevision Systems Westchester Corporation)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0746A89-0000-CC2C-98B4-0122F507B4FC}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0397",
+      "file_name": "Exhibit IV - Bedford, T. AUSA Franchise Agreement (Cablevision Systems Westchester Corporation).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0746A89-0000-CF71-B677-8C00F350BBD6}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0397",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0746A89-0000-CA40-8078-BB94269E7AB9}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0397",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/18/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2 Westchester",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0746A89-0000-C934-B0BA-017106989AA1}",
+      "organization": "Cablevision Systems Westchester Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0397",
+      "file_name": "Exhibit I - R-2 Westchester.pdf"
+    }
+  ]
+}

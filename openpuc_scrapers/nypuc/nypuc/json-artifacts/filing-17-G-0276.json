@@ -1,0 +1,38 @@
+{
+  "case": "17-G-0276",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32925979-6662-42C1-9AFB-B9C4281BF6E1}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-G-0276",
+      "file_name": "Hon16.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Call 811 Sign In Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00A0DDED-9AFE-41C6-BE5D-8E8AFEA8BAED}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-G-0276",
+      "file_name": "NY Call 811 Sign In Sheet.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Consent Order Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23A54B58-3695-48AE-93EE-87D14AB9EF01}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0276",
+      "file_name": "164c_17g0276.pdf"
+    }
+  ]
+}

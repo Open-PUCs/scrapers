@@ -1,0 +1,38 @@
+{
+  "case": "23-C-0291",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B5A98A-0000-C112-9E07-CC923D0A24BE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-C-0291",
+      "file_name": "564_23-C-0291_9.18.23 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/30/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "TERRACOM, INC. d/b/a Maxsip Tel Petition for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0146E88-0000-CF2E-B3B8-940DF1AAB382}",
+      "organization": "Terracom, Inc. d/b/a Maxsip Tel",
+      "itemNo": "1",
+      "docket_id": "23-C-0291",
+      "file_name": "NY ETC App E-Filing 5.30.23 (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/30/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90146E88-0000-C41B-8B0A-6643BB6C4060}",
+      "organization": "Terracom, Inc. d/b/a Maxsip Tel",
+      "itemNo": "1",
+      "docket_id": "23-C-0291",
+      "file_name": "NY ETC App Cover Letter E-Filing 5.30.23 (1).pdf"
+    }
+  ]
+}

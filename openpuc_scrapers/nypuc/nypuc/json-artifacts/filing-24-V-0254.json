@@ -1,0 +1,104 @@
+{
+  "case": "24-V-0254",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={006F5A90-0000-CF1C-9318-42F0951883FD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-V-0254",
+      "file_name": "662_24-V-0254 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90542F8F-0000-CD3A-9332-D609CBE53431}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-V-0254",
+      "file_name": "AUSA Newspaper Cover Letter - Greenport, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Greenport, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90542F8F-0000-CB1A-9449-FC06B1C1FA17}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-V-0254",
+      "file_name": "AUSA Newspaper Affidavit - Greenport, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00252F8F-0000-C955-B7B4-DDDC2A3A95F8}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0254",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Greenport, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00252F8F-0000-CA99-86A1-3E87B0EDB1AF}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0254",
+      "file_name": "Exhibit IV - Greenport, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00252F8F-0000-C272-A31F-C46A500639BB}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0254",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00252F8F-0000-C5BD-8504-B890717B7F6C}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0254",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00252F8F-0000-CB39-B336-9F8B8C0C2F7F}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0254",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00252F8F-0000-C115-B987-3CBE74242317}",
+      "organization": "CSC Acquisition-NY, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-V-0254",
+      "file_name": "Application Cover Letter - Greenport, V..pdf"
+    }
+  ]
+}

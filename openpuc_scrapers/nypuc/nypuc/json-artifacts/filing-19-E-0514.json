@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0514",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C9903CE-6B0F-41C9-89DC-8D1EC7B065E5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0514",
+      "file_name": "367_19-E-0514.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/30/2019",
+      "nypuc_doctype": "Comments",
+      "name": "JU SIR Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F7CD94F-02F4-44A2-A2C9-DA63C6D84711}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-E-0514",
+      "file_name": "JU SIR Comments.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E418B41-F2A0-4850-AA11-0B9494B3574B}",
+      "organization": "Plattsburgh Municipal Lighting Dept.",
+      "itemNo": "2",
+      "docket_id": "19-E-0514",
+      "file_name": "LETT-Burgess-Affidavit of Publication 9-16-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69E70A41-397E-4C46-B999-14A9C5E4D48E}",
+      "organization": "Plattsburgh Municipal Lighting Dept.",
+      "itemNo": "2",
+      "docket_id": "19-E-0514",
+      "file_name": "Affidavit of Publication 9-16-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Plattsburgh Municipal Lighting Dept.",
+      "itemNo": "1",
+      "docket_id": "19-E-0514",
+      "file_name": ""
+    }
+  ]
+}

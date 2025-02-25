@@ -1,0 +1,38 @@
+{
+  "case": "23-V-0006",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4CEB7DB7-421F-43D1-A35A-197473553567}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0006",
+      "file_name": "661_23-V-0006 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/08/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-02057 Letter to Building Owner_519 W 143 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40DFA112-29F5-4A19-8C71-433BFD09888D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0006",
+      "file_name": "22-02057 Letter to Building Owner_519 W 143 St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 519 West 143rd Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E67A280-AD07-47F7-9319-104937DA3FED}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0006",
+      "file_name": "221019-12 Petition (519 W 143 ST) (Post-Survey).pdf"
+    }
+  ]
+}

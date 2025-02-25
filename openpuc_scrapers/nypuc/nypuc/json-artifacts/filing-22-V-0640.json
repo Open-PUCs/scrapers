@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0640",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CE350A7-916D-4F92-B4ED-419580FA2F59}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0640",
+      "file_name": "662_22-V-0640.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83B8E03C-6E33-4DF6-8B90-CB270ACF5ECD}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0640",
+      "file_name": "AUSA Newspaper Cover Letter- Warwick, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Warwick, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70637769-16D7-4CEA-93F7-6AF9332760DF}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0640",
+      "file_name": "AUSA Newspaper Affidavit - Warwick, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFA0B954-9E17-43CB-9849-19DD3C737356}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0640",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Warwick, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F234D31-2EB7-4F6B-8A70-169A6245413B}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0640",
+      "file_name": "Exhibit IV - Warwick, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={080C5463-7A27-4434-B915-E6FD2E64DBDB}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0640",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB3A1D62-7C3D-42E0-9D68-5FB1D44601D9}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0640",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F056D3E-D88D-4999-8BEB-CE8FEE1EB865}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0640",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/09/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABE5F65D-ABE1-4A2F-8B72-79E08910917E}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0640",
+      "file_name": "Application Cover Letter - Warwick, V..pdf"
+    }
+  ]
+}

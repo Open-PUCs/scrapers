@@ -1,0 +1,49 @@
+{
+  "case": "17-V-0532",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2018",
+      "nypuc_doctype": "Compliance",
+      "name": "17-V-0532 Town's Notice of Alt Franchising Approval",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79545AE9-844F-4CAC-BB4F-AEFE18FE4E55}",
+      "organization": "Town of Lexington",
+      "itemNo": "3",
+      "docket_id": "17-V-0532",
+      "file_name": "17-V-0532 Town's Notice of Alt Franchising Approval.docx"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/30/2018",
+      "nypuc_doctype": "Compliance",
+      "name": "17-V-0532 Affidavit of Publication and proof",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA39651B-D6B7-4ED8-BCB4-C20B1A92D3F9}",
+      "organization": "Town of Lexington",
+      "itemNo": "3",
+      "docket_id": "17-V-0532",
+      "file_name": "17-V-0532 Affidavit of Publication and proof.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/06/2017",
+      "nypuc_doctype": "Letters",
+      "name": "17-01862-Secretary's AFP Approval Ltr.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46AC14AA-4250-4495-97E9-5EF7C1B73716}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0532",
+      "file_name": "17-01862-Secretary's AFP Approval Ltr..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Lexington, Greene County, New York for a Waiver of Section 894.4(a) in Order to Expedite and Receive Service from The Heart of the Catskills Communication, Inc. d/b/a MTC Cable.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDF54370-288B-4C4A-926C-38DEF2A2534D}",
+      "organization": "Town of Lexington",
+      "itemNo": "1",
+      "docket_id": "17-V-0532",
+      "file_name": "Application for Waiver.pdf"
+    }
+  ]
+}

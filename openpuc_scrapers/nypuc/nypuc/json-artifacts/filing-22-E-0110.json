@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0110",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B055BAE9-AF9A-424C-BED8-BD4A68C1E490}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-E-0110",
+      "file_name": "365_22-E-0110 Letter Final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "218500 Askew Thomas SMR Ack 02182022_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2EDD3EB-2872-4A84-94BA-8745A9F0416B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0110",
+      "file_name": "218500 Askew Thomas SMR Ack 02182022_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/18/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Askew Thomas 02132022 Rehearing Petition Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={422C1DB2-BCBF-419D-8EAF-8953FC7D7268}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "22-E-0110",
+      "file_name": "Askew Thomas 02132022 Rehearing Petition Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/18/2022",
+      "nypuc_doctype": "Letters",
+      "name": "181822_Levine_SMD_Final_02012022_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F371EEE-1D1C-406C-9465-7BF54DC26072}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0110",
+      "file_name": "181822_Levine_SMD_Final_02012022_Redacted.pdf"
+    }
+  ]
+}

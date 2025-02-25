@@ -1,0 +1,82 @@
+{
+  "case": "19-V-0389",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={528F52CC-E5BD-40DE-B0C9-0E0BFAB6D8DB}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-V-0389",
+      "file_name": "19-V-0389 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEE4343F-8299-4C9A-9B85-A5FF4B53F3A1}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "19-V-0389",
+      "file_name": "201110 Letter re Matter 17-02688 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AEE57EA2-35B9-49C5-8527-691006857265}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0389",
+      "file_name": "190213 VZ Letter re 171212 Petition (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={520C463D-1BD7-4DFE-A863-DF209AA9BB7B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0389",
+      "file_name": "17-02688 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 310 and 330 Lenox Road, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF84297C-0784-4C05-BC6A-8866F8760048}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0389",
+      "file_name": "Petition (310 and 330 Lenox Rd).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D644054-94A2-4036-BCD6-056190050084}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0389",
+      "file_name": "Exhibit 2 (310 and 330 Lenox Rd).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/12/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1B0F008F-3390-47ED-B143-758E51562026}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0389",
+      "file_name": "Exhibit 1 (310 and 330 Lenox Rd).pdf"
+    }
+  ]
+}

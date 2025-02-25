@@ -1,0 +1,93 @@
+{
+  "case": "16-W-0722",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Annual Income Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EB9B17A-C757-44E0-8516-34DBF8453CF3}",
+      "organization": "Castagna Wellness Water Works, Inc.",
+      "itemNo": "8",
+      "docket_id": "16-W-0722",
+      "file_name": "CWWW Annual Income Stmt for NYS Reporting July 2019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/26/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Castagna Wellness Water Works, Inc. , Annual Income Statement Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD575C05-CA4C-48A5-980E-078FF9B09903}",
+      "organization": "Castagna Wellness Water Works, Inc.",
+      "itemNo": "7",
+      "docket_id": "16-W-0722",
+      "file_name": "CWWW Annual Income Stmt for NYS Reporting July 2018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={64542D97-CD49-4024-B784-29DEAC272534}",
+      "organization": "Castagna Wellness Water Works, Inc.",
+      "itemNo": "6",
+      "docket_id": "16-W-0722",
+      "file_name": "cover letter response to Order 11-2-17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/23/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Castagna Wellness Water Works, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-W-0722",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Initial Rates with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4FC1D5D-94AC-4192-BD76-FAD75E1BAC99}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-W-0722",
+      "file_name": "461_16-W-0722.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/06/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F124DD1-6468-48B8-B1C3-6480BCA4DFD8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-W-0722",
+      "file_name": "16-W-0722 Postponement.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/17/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Castagna Wellness Water Works, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0722",
+      "file_name": ""
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/29/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Castagna Wellness Water Works, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0722",
+      "file_name": ""
+    }
+  ]
+}

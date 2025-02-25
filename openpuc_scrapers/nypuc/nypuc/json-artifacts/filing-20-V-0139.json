@@ -1,0 +1,49 @@
+{
+  "case": "20-V-0139",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A95B9B4-3D0A-4AED-B979-EFB456792C3F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-V-0139",
+      "file_name": "666_20-V-0139 Order of Entry.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-00275 Letter To Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B25DCE2-FB82-415B-9246-9322BD4F4D91}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-V-0139",
+      "file_name": "20-00275 Letter To Building Owner.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/30/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Order of Entry (MDU) at 2 Washington Street, New York, NY 10004 (Moinian Group)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={560AE033-913C-4B91-A4F1-FF2F02E84022}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0139",
+      "file_name": "Petition for Order of Entry (MDU) at 2 Washington Street, New York, NY 10004 (Moinian Group).pdf (3 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/30/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1D7B80F-FDDC-4BEE-9B85-2584C4094E90}",
+      "organization": "Charter Communications, Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0139",
+      "file_name": "Cover Letter - Petition for Order of Entry (MDU) - Moinian Group.pdf (25 KB)"
+    }
+  ]
+}

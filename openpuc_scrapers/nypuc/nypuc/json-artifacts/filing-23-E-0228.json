@@ -1,0 +1,82 @@
+{
+  "case": "23-E-0228",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50ADB18C-0000-C218-92F1-72EECB80D6F3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "6",
+      "docket_id": "23-E-0228",
+      "file_name": "23-E-0228 019790 Compliance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0DA1C8C-0000-CE18-A87B-95CD3CF1405D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0228",
+      "file_name": "381 - 23-E-0228 - Letter 112923 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/29/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0DA1C8C-0000-C23F-8693-C5F0DAD1477C}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0228",
+      "file_name": "381 - 23-E-0228 - Determination 11.29.23 final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/31/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to Wavecrest Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50047388-0000-CA14-A82E-3A75A465F0D0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-E-0228",
+      "file_name": "23-E-0228 Con Edison Response to Wavecrest Appeal.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/01/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6008D987-0000-C813-B3CB-08C0CB323322}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0228",
+      "file_name": "Ack letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/01/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Wavecrest Management - Appeal of Informal Decision (019790)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10FCD887-0000-CF10-9187-E80D69E1DAAF}",
+      "organization": "BSDC Neighborhood/Wavecrest Management",
+      "itemNo": "2",
+      "docket_id": "23-E-0228",
+      "file_name": "Wavecrest Management v Con Edison - Appeal of Informal Decision (019790).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/01/2023",
+      "nypuc_doctype": "Letters",
+      "name": "2023 04 13 Informal Review Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0F9D887-0000-C11C-A447-5DAB48D98993}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0228",
+      "file_name": "2023 04 13 IR Decision redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "17-M-0659",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/01/2021",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG Annual Finance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A063A4BF-655D-461C-8864-0A0B76769725}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "8",
+      "docket_id": "17-M-0659",
+      "file_name": "2021-10-01 NYSEG Annual Finance Filing (17-M-0659).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2020",
+      "nypuc_doctype": "Reports",
+      "name": "NYSEG Debt Issuance Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C387348-6CC2-433B-A199-D02E368E727A}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "7",
+      "docket_id": "17-M-0659",
+      "file_name": "NYSEG Debt Issuance Compliance Filing.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/10/2020",
+      "nypuc_doctype": "Reports",
+      "name": "New York State Electric & Gas Corporation\u00bfs Annual Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E95D7035-E0FA-4890-B66B-AA869239B726}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "6",
+      "docket_id": "17-M-0659",
+      "file_name": "2020-02-10 Annual Finance Filing - NYSEG (17-M-0659).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/18/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Debt Issuance Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95FA8F7D-4DC2-4F75-9542-CBDB7BCFDADA}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "17-M-0659",
+      "file_name": "2019-09-18 NYSEG Debt Issuance Compliance Filing (17-M-0659).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/16/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Annual Finance Filing - NYSEG",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F33ACEE-9421-4889-A965-7CE54357B337}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "17-M-0659",
+      "file_name": "2019-01-15 Annual Finance Filing - NYSEG (17-M-0659).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/10/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Unconditional Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C2AD203-4D56-4616-9BE4-279BBE09481B}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "17-M-0659",
+      "file_name": "2018-04-10 NYSEG Unconditional Acceptance Letter (17-M-0659).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Issuance of Securities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52A4CD2D-B842-47AF-90C1-55CB60047272}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-M-0659",
+      "file_name": "264_17-M-0659 Final.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of New York State Electric & Gas Corporation for Authority to Issue Long-Term Indebtedness, Preferred Stock and Hybrid Securities and to Enter into Derivative Instruments Pursuant to a Global Financing Plan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E528CA4-3309-4101-8B4C-09FD8C6250A3}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "17-M-0659",
+      "file_name": "2017-10-24 NYSEG Financing Petition (17-M-XXXX).pdf"
+    }
+  ]
+}

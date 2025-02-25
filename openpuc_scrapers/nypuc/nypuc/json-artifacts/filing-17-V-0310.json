@@ -1,0 +1,93 @@
+{
+  "case": "17-V-0310",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCBBE123-5ED6-498A-BD25-73DFC8513DBA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0310",
+      "file_name": "661_17-V-0310.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/23/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FC8A7BF-0A16-4926-B8E4-E95D9CB53D63}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "17-V-0310",
+      "file_name": "Floral Park Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0FBB9931-BA76-4650-886E-A1DA7F72403B}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "17-V-0310",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Long Island Corporation for Approval of the Renewal of its Franchise with Village of Floral Park, Nassau County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C234088B-A4A2-4999-B6FD-5C1080326DFA}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "17-V-0310",
+      "file_name": "Floral Park Application Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Floral Park Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99622B76-6DE9-4906-BE90-6EFF3D8F722C}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "17-V-0310",
+      "file_name": "Floral Park Exhibit IV.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Floral Park Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D20B059-2046-4BF0-BD04-8060243FFA3C}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "17-V-0310",
+      "file_name": "Floral Park Exhibit III.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Floral Park Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={301AB0DA-9B9B-4AB7-BC25-EF44D6274169}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "17-V-0310",
+      "file_name": "Floral Park Exhibit II.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/08/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Floral Park Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={693AE72D-174E-4A36-A4F8-F0DCEAC63A36}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "17-V-0310",
+      "file_name": "Floral Park Exhibit I.pdf"
+    }
+  ]
+}

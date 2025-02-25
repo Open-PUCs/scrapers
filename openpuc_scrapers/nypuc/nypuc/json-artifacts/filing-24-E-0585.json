@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0585",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/05/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Formal Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0A7FC92-0000-C829-863A-E3DF0467579E}",
+      "organization": "Ur-ban Villages PFA, LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0585",
+      "file_name": "PTSM-ResponseToParcelSeperation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "PTSM-Request Title Change",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7055BF92-0000-C413-8834-84F419334828}",
+      "organization": "Ur-ban Villages PFA, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0585",
+      "file_name": "PTSM-RequestTitleChange_IncentiveProgramNotifacation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 100 Buckley Road",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A04B9B92-0000-C925-A7A6-A629EF6C7A68}",
+      "organization": "Ur-ban Villages PFA, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0585",
+      "file_name": "PTSM-_PetitiontoSubmeterElectricityat100BuckleyRoad-v2410141035 (1).pdf"
+    }
+  ]
+}

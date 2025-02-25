@@ -1,0 +1,27 @@
+{
+  "case": "22-V-0018",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7907C113-F055-41BD-95A8-110D4660E03E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0018",
+      "file_name": "661_22-V-0018.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/06/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Belfast, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={143E9E80-F5C1-4882-AB55-9E5711AE1BE7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0018",
+      "file_name": "2022.01.05 T Belfast Renewal Petition to PSC.pdf"
+    }
+  ]
+}

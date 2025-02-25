@@ -1,0 +1,60 @@
+{
+  "case": "21-C-0409",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/06/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "NY Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87159387-88D2-473F-A224-8502D3AA29A9}",
+      "organization": "International Telcom LTD.",
+      "itemNo": "2",
+      "docket_id": "21-C-0409",
+      "file_name": "NY Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7B36D7D-DD8D-4A6E-BC5D-21B3455DDFDD}",
+      "organization": "International Telcom LTD., Magna5 LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0409",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "2021-07-28 New York - Transfer of Control Application Final - REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A32645E-EE2D-44E4-9460-5B09648EE0CF}",
+      "organization": "International Telcom LTD., Magna5 LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0409",
+      "file_name": "2021-07-28 New York - Transfer of Control Application Final - REDACTED.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Motions",
+      "name": "2021-07-28 Cover Letter to NY RAO encl confidential filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38D34AE5-1C2F-4403-9003-E5ABCAF597E3}",
+      "organization": "International Telcom LTD., Magna5 LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0409",
+      "file_name": "2021-07-28 Cover Letter to NY RAO encl confidential filing.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "2021-07-28 Cover Letter to NY Commission Secretary encl redacted filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A53229C1-577F-4FF6-AA3C-E0F37FAECBEB}",
+      "organization": "International Telcom LTD., Magna5 LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0409",
+      "file_name": "2021-07-28 Cover Letter to NY Commission Secretary encl redacted filing.pdf"
+    }
+  ]
+}

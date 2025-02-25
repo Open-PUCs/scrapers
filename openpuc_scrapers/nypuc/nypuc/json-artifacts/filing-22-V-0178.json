@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0178",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6C6BD4D-8797-495E-B306-AD7811C2F362}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0178",
+      "file_name": "663_22-V-0178.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={217737E1-5059-401F-AA42-608BE1E510C6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0178",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "REDACTED R-2 T Somerset Petition 2022 03 25",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A9A2FFA-39EA-48D9-95F9-849198DDC545}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0178",
+      "file_name": "REDACTED R-2 T Somerset Petition 2022 03 25.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request T. Somerset R-2 2022 03 25",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9E7BA2F-78D9-4B74-BA62-60BCAB6E6A84}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0178",
+      "file_name": "Charter Confidential Treatment Request T. Somerset R-2 2022 03 25.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Somerset Cover Letter Request for Certificate of Confirmation 2022 03 25",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4842477-2295-4D77-9D49-DC130E22E3AA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0178",
+      "file_name": "Charter Communications, T. Somerset Cover Letter Request for Certificate of Confirmation 2022 03 25.pdf"
+    }
+  ]
+}

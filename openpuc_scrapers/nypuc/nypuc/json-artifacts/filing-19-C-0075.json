@@ -1,0 +1,49 @@
+{
+  "case": "19-C-0075",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding A Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9A58C904-24E8-4F62-AA6D-5C475134693A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-C-0075",
+      "file_name": "561 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/06/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Denial - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E655D42-722A-4AF0-AC52-8CBC1B71431C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-C-0075",
+      "file_name": "843330 Giammichele - Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/06/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Letter Denying Informal Hearing Request - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7351A8D5-BA7F-4743-AF65-DB1F19056B1B}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "19-C-0075",
+      "file_name": "Giammichele Appeal - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/06/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Denying Informal Hearing Request - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6343B476-7E3C-4111-8F97-FBFE67CC2E5C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-C-0075",
+      "file_name": "843330 Giammichele IH final - redacted.pdf"
+    }
+  ]
+}

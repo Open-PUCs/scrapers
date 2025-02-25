@@ -1,0 +1,115 @@
+{
+  "case": "21-W-0400",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Rate Increase Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6160B985-4154-4B76-BDC4-42FA6CA5DFFA}",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "8",
+      "docket_id": "21-W-0400",
+      "file_name": "rate increase letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/23/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7E7F960-173B-4DDF-9446-D5E1B78A24E7}",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "8",
+      "docket_id": "21-W-0400",
+      "file_name": "Notification cover letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/03/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Company's customer billing inclusive",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D3641BF-16C0-4B16-9849-ED4D70671962}",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "21-W-0400",
+      "file_name": "Bill Card.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/03/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Bill Card Cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FBCFD85-BFF5-438E-83E0-1084CD98CC57}",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "7",
+      "docket_id": "21-W-0400",
+      "file_name": "Bill Card Cover letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "21-W-0400",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68F0A15B-ABEF-425A-B136-19748D04EEC3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-W-0400",
+      "file_name": "462_21-W-0400 final.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Minor Rate Filing of South Cross Road Water Company, Inc. to Increase its Annual Revenues",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9231FE33-CF9D-4805-9052-C2B09306860A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-W-0400",
+      "file_name": "w.21-W-0400 South Cross Postponement 11.23.2021.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/16/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "21-W-0400",
+      "file_name": ""
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/16/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52FD1399-C4D2-4732-9A45-71912B318DA6}",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "21-W-0400",
+      "file_name": "Customer Notification.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/22/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "South Cross Road Water Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-W-0400",
+      "file_name": ""
+    }
+  ]
+}

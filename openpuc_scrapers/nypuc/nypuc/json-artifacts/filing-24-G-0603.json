@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0603",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240826 - Response to NOPV Letter - Sent Evidence and Time Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={405A9591-0000-C32F-A753-F38D7BF42153}",
+      "organization": "Coppola Paving & Landscaping Corp.",
+      "itemNo": "4",
+      "docket_id": "24-G-0603",
+      "file_name": "20240826 - Response to NOPV Letter - Sent Evidence and Time Extension.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240821 - Response to NOPV Letter - Request for Evidence and Time Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20599591-0000-CF27-909E-DC8DB9C7A0D4}",
+      "organization": "Coppola Paving & Landscaping Corp.",
+      "itemNo": "4",
+      "docket_id": "24-G-0603",
+      "file_name": "20240821 - Response to NOPV Letter - Request for Evidence and Time Extension.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240821 - Response to NOPV Letter - Follow up letter from Coppola",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={905B9591-0000-CC16-B514-8BF02F09E750}",
+      "organization": "Coppola Paving & Landscaping Corp.",
+      "itemNo": "4",
+      "docket_id": "24-G-0603",
+      "file_name": "20240821 - Response to NOPV Letter - Follow up letter from Coppola.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/26/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240805 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40CE8E91-0000-C31D-8E84-4275F577C5FC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0603",
+      "file_name": "20240805 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/06/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240805 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F00A2891-0000-CC56-A3CA-9EB62E7F20ED}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-G-0603",
+      "file_name": "20240805 - NOPV Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "case": "17-W-0801",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess on Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBB77D6C-9AA7-45F6-AC8E-B2136EE771EB}",
+      "organization": "Public Service Commission",
+      "itemNo": "11",
+      "docket_id": "17-W-0801",
+      "file_name": "17-W-0801-622182-Suez-Case Closure_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Settlement and Withdrawal of Rehearing - redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3739EEE-A53D-4516-9552-C91BC4E636E3}",
+      "organization": "Individual",
+      "itemNo": "10",
+      "docket_id": "17-W-0801",
+      "file_name": "doc07450120190122160801 - redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Settlement and Withdrawal of Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D67D9316-07E6-434B-939C-B63406F025E3}",
+      "organization": "Individual",
+      "itemNo": "10",
+      "docket_id": "17-W-0801",
+      "file_name": "doc07450120190122160801.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/11/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Withdrawing Rehearing Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4795EC5A-8622-46D0-8AC1-8DE5E333E51D}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "9",
+      "docket_id": "17-W-0801",
+      "file_name": "20190111 - SWNY-Viener - ltr to Sec Burgess withdrawing rehearing request.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/15/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Suez Water NY Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A3D8235-DA7F-45EC-89D3-217F27A6C067}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "8",
+      "docket_id": "17-W-0801",
+      "file_name": "20181115 - Ltr to Burgess re Record Retention.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/08/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Suez Rehearing Acknowledgement Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F41AB25-0498-4DE8-B9B3-A4502CAE87A5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "7",
+      "docket_id": "17-W-0801",
+      "file_name": "Suez Rehearing Ack letter 17-W-0801.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/18/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Suez Water NY Response Case Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F3A490D-1778-4D03-B117-43283658F32E}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "6",
+      "docket_id": "17-W-0801",
+      "file_name": "10-18-18 SUEZ Response Case Determination -Viener 622182.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "10/18/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Appendix B Suez Record Retention Case 622182",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8B217F8-CCD3-40B6-8017-BD33B8459970}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "6",
+      "docket_id": "17-W-0801",
+      "file_name": "Appendix B Suez Record Retention Case 622182.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/18/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Appendix A Case 622182 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5681961-10C1-4B9D-BA96-45BB25079D45}",
+      "organization": "SUEZ Water New York Inc.",
+      "itemNo": "6",
+      "docket_id": "17-W-0801",
+      "file_name": "{335C6D2B-12B6-4E9E-9FF5-ED6376C80530}_Redacted.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "10/03/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED37A62B-7D54-4EB1-A2C6-B2A85D52914D}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "17-W-0801",
+      "file_name": "Petition for Rehearing.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E136F80-FCE7-4356-BCE5-520E70C0E3AF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-W-0801",
+      "file_name": "461 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/18/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CF9FF91-E096-43CA-B01A-901C24A43D4E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-W-0801",
+      "file_name": "461 Determination.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={993E2131-1BEB-4E29-97FC-56FEEF58D930}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-W-0801",
+      "file_name": "622182 Viener ACK Letter_Redacted.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={843FA2BA-2B78-4132-BE08-24B7FF1F4A79}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-W-0801",
+      "file_name": "Viener Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ADB657AD-B558-424E-BDB5-DB88FB372DFE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-W-0801",
+      "file_name": "Viener IH _Redacted.pdf"
+    }
+  ]
+}

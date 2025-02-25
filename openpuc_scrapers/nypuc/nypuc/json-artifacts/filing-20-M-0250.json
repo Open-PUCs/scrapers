@@ -1,0 +1,38 @@
+{
+  "case": "20-M-0250",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "SAPA Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F182921-C3D5-44B7-A7B3-845596B5A1AC}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-M-0250",
+      "file_name": "SAPA Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petiton for Waiver of Policy Statement in Major Rate Proceedings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6292A372-8F0B-4479-AD16-0C8F34B2BFA8}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-M-0250",
+      "file_name": "Petiton for Waiver of Policy Statement in Major Rate Proceedings.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/29/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={786EBCFC-F37A-40F6-8748-EC771CCE705F}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-M-0250",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

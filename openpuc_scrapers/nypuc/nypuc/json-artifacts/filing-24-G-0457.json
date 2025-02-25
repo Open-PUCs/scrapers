@@ -1,0 +1,82 @@
+{
+  "case": "24-G-0457",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00DA2F92-0000-CA52-AA87-DF3E48F0C8F5}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "24-G-0457",
+      "file_name": "161-B_24-G-0457.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240731 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40570A91-0000-C21C-B6F7-9C79C3647A3C}",
+      "organization": "Corewood Ventures, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-G-0457",
+      "file_name": "20240731 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240730 - Training (21 - UDig NY)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40570A91-0000-C91B-AFD0-13FB6E29EB12}",
+      "organization": "Corewood Ventures, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-G-0457",
+      "file_name": "20240730 - Training (21 - UDig NY).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240701 - Payment ($500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={207D9390-0000-CE15-80BB-E17F8A8161C0}",
+      "organization": "Corewood Ventures, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0457",
+      "file_name": "20240701 - Payment ($500) - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0742790-0000-C517-A8E8-1275598FF44C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "24-G-0457",
+      "file_name": "20240617 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/16/2024",
+      "nypuc_doctype": "753 Evidence",
+      "name": "20240416 - Operator Evidence - Damage Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F094E78E-0000-CE12-B9AA-CA42EE7B362A}",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "4",
+      "docket_id": "24-G-0457",
+      "file_name": "20240416 - Operator Evidence - Damage Report.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/07/2024",
+      "nypuc_doctype": "753 Evidence",
+      "name": "20240307 - Other Evidence - Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4043198E-0000-C814-BEAA-D741936562BB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0457",
+      "file_name": "20240307 - Other Evidence - Additional Information.pdf"
+    }
+  ]
+}

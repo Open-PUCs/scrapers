@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0463",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04C1CE65-7702-4CEE-B88B-D0087751599E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-V-0463",
+      "file_name": "666_21-V-0463.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-01147 Letter To Building Owners 6.22.21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08CBBCDA-7E94-432F-8F8A-FE87BBB29AF2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-V-0463",
+      "file_name": "21-01147 Letter To Building Owners 6.22.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 2089 Arthur Avenue, Bronx",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1769F56-A086-4336-B928-8FA88A2C77EA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0463",
+      "file_name": "Petition (2089 Arthur Av) (Complete).pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0248",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A344E3F-7676-4629-B64E-9D2B16CA84C8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0248",
+      "file_name": "663_16v0248.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Afton, Chenango County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A86E32E2-A43A-47B6-8BEB-B3CC300ADF6B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0248",
+      "file_name": "Afton.pdf"
+    }
+  ]
+}

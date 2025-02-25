@@ -1,0 +1,82 @@
+{
+  "case": "24-W-0163",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "FURTHER POSTPONEMENT of a New Tariff Schedule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C072BA92-0000-C61C-A1C5-CF6EF483B026}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-W-0163",
+      "file_name": "Case 24-W-0163 Bloomingburg Rates FPP Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Bloomingburg Water Transportation Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-W-0163",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/10/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Customer Notice ltr to Phillips w Customer Notification 241009",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0487692-0000-CF17-B669-593987BE3D5A}",
+      "organization": "Bloomingburg Water Transportation Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-W-0163",
+      "file_name": "Customer Notice ltr to Phillips w Customer Notification 241009.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a New Tariff Schedule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30687691-0000-CC16-B36E-3EFF75D5E705}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-W-0163",
+      "file_name": "Case 24-W-0163 Bloomingburg Rates PP Notice.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Bloomingburg Water Transportation Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-W-0163",
+      "file_name": ""
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/26/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "New Tariff Schedule and Petition to Finance.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E07D7B8E-0000-C813-B90A-02B2F717873E}",
+      "organization": "Bloomingburg Water Transportation Company, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-W-0163",
+      "file_name": "24-W-0163.Bloomingburg Tariff Filing 240326.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/14/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Bloomingburg Water Transportation Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-W-0163",
+      "file_name": ""
+    }
+  ]
+}

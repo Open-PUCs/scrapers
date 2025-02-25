@@ -1,0 +1,27 @@
+{
+  "case": "15-V-0538",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E865F5ED-7E7B-4E19-8487-99C4CC602BAE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "15-V-0538",
+      "file_name": "663_15V0538.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/15/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Fair Haven, Cayuga County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={563F673F-60AC-42AF-80E1-E73F89E4FB1F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "15-V-0538",
+      "file_name": "FAIR HAVEN, VILLAGE RENEWAL DOCS TO THE PSC, 09.15.15.pdf"
+    }
+  ]
+}

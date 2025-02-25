@@ -1,0 +1,38 @@
+{
+  "case": "19-V-0696",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D0F8CB3-ADEF-4EEC-92ED-D38361893702}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0696",
+      "file_name": "664_19-V-0696.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Name Change",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33E0B480-B58A-40E7-96DE-111C5C56D1E3}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "19-V-0696",
+      "file_name": "Cover Letter re-issued, (T. Villenova) TWC to PSC Secretary.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/30/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Villenova, County of Chautauqua.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={899D492E-3D7F-4343-B1C8-CE47503F2A0F}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0696",
+      "file_name": "10.30.19 - T. VILLENOVA RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

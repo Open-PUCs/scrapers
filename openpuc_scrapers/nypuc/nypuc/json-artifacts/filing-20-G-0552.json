@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0552",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBB35CAA-2243-46EF-AEF8-A7BAA821D891}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-G-0552",
+      "file_name": "162_20-G-0552 Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/18/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit Letter Emergency Generator",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4B443325-15C7-4CB8-91D8-6C9EB4E4CC87}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-G-0552",
+      "file_name": "Affidavit Letter Emergency Generator.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/05/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-G-0552",
+      "file_name": ""
+    }
+  ]
+}

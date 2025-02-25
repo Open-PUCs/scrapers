@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0315",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information 10-31-24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E04FE392-0000-C928-999B-B89BAC5ABFAB}",
+      "organization": "First and River LLC",
+      "itemNo": "4",
+      "docket_id": "24-E-0315",
+      "file_name": "Additional Information 10-31-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B00991-0000-C34E-8395-52531AA91C85}",
+      "organization": "First and River LLC",
+      "itemNo": "3",
+      "docket_id": "24-E-0315",
+      "file_name": "additional information 7-31-24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00F7DB90-0000-C612-BEB8-CA18DF02DB2A}",
+      "organization": "First and River LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0315",
+      "file_name": "Additional information (2).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of First and River LLC to Submeter Electricity at 650 1st Avenue, New York, Located in the Service Territory of Consolidated Edison Company of New York, Inc. .",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D071A68F-0000-C71B-9FAE-4B5EB662D1BD}",
+      "organization": "First and River LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0315",
+      "file_name": "submetering application (14).pdf"
+    }
+  ]
+}

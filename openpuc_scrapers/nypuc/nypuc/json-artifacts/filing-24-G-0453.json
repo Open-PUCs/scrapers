@@ -1,0 +1,82 @@
+{
+  "case": "24-G-0453",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240722 - Payment ($2,500) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0522391-0000-CE24-B6D4-CCE8679CC25E}",
+      "organization": "M.T. Lavinio Excavating and Drainage Inc.",
+      "itemNo": "3",
+      "docket_id": "24-G-0453",
+      "file_name": "20240722 - Payment ($2,500) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/05/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240721 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0522391-0000-C71C-8BBB-AB3D8CB29CB7}",
+      "organization": "M.T. Lavinio Excavating and Drainage Inc.",
+      "itemNo": "3",
+      "docket_id": "24-G-0453",
+      "file_name": "20240721 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240621 - Response to NOPV Letter - Evidence Request + Time Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30754A90-0000-C511-B953-20E08824E1E1}",
+      "organization": "M.T. Lavinio Excavating and Drainage Inc.",
+      "itemNo": "2",
+      "docket_id": "24-G-0453",
+      "file_name": "20240621 - Response to NOPV Letter - Evidence Request + Time Extension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240520 - Staff Investigative Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F08F978F-0000-CB10-A964-89528F0C64D3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0453",
+      "file_name": "20240520 - Staff Investigative Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240520 - NOPV Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E08F978F-0000-C311-A4BE-920FC8CA9E36}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0453",
+      "file_name": "20240520 - NOPV Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Citation",
+      "name": "20240520 - Citation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F08F978F-0000-CA58-B260-EB95EBD9500C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0453",
+      "file_name": "20240520 - Citation.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Reports",
+      "name": "20240508 - Origin of Investigation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F08F978F-0000-C239-BEF0-263D803CD157}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0453",
+      "file_name": "20240508 - Origin of Investigation.pdf"
+    }
+  ]
+}

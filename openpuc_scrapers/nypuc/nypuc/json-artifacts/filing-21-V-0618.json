@@ -1,0 +1,49 @@
+{
+  "case": "21-V-0618",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E494DA9-D80A-49B0-B934-02F6E45D1821}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-V-0618",
+      "file_name": "663_21-V-0618.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/27/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B847BC77-B25C-41B0-9462-0D63DB8480B0}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "21-V-0618",
+      "file_name": "Mineola Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/17/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Revised Exhibit A to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D501476-AC6C-446D-B977-CEABA2EAC2C3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "21-V-0618",
+      "file_name": "Mineola Exhibit A (revised).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Mineola, Nassau County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1779E592-D252-43E5-BC4D-AA65462F6863}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "21-V-0618",
+      "file_name": "Mineola Renewal Petition (Complete).pdf"
+    }
+  ]
+}

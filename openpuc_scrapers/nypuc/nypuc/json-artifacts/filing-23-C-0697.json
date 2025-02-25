@@ -1,0 +1,38 @@
+{
+  "case": "23-C-0697",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hypercube - 46 Labs Consummation Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60FBAB8F-0000-C557-80AC-8E75AB36036B}",
+      "organization": "Hypercube, LLC",
+      "itemNo": "4",
+      "docket_id": "23-C-0697",
+      "file_name": "New York - Hypercube - 46 Labs Consummation Notice (5.24.24).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/05/2024",
+      "nypuc_doctype": "Letters",
+      "name": "23-02581 Hypercube MAT OOL Letter.signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B03B0F8E-0000-C217-98C0-2B6DEEDA2CFF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-C-0697",
+      "file_name": "23-02581 Hypercube MAT OOL Letter.signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of AP VIII Olympus VoteCo, Hypercube, LLC and 46 Labs LLC for Authority to Transfer Indirect Control.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70993F8C-0000-C419-BBDA-178CD0C3F5BB}",
+      "organization": "46 Labs LLC, AP VIII Olympus VoteCo, LLC, Hypercube, LLC",
+      "itemNo": "1",
+      "docket_id": "23-C-0697",
+      "file_name": "Hypercube-46 Labs New York TOC Application (12.5.23).pdf"
+    }
+  ]
+}

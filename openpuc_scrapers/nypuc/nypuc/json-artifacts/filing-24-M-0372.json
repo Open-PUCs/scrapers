@@ -1,0 +1,27 @@
+{
+  "case": "24-M-0372",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B6E090-0000-CE1E-A04D-9BF83062F351}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-M-0372",
+      "file_name": "262_24-M-0372 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Resolution Adopting 16 NYCRR Part 1100",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50815590-0000-C015-8C71-17DD3E2E2A09}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-M-0372",
+      "file_name": "24-M-0372_Order and Resolution ORES Conforming Regs .pdf"
+    }
+  ]
+}

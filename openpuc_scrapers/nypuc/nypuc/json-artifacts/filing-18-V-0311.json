@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0311",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38BED148-8DE8-460E-BA26-BA4C291EDB98}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0311",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Form R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57A2C308-2630-47F5-9A04-D5B433DC57E1}",
+      "organization": "Charter Communications",
+      "itemNo": "2",
+      "docket_id": "18-V-0311",
+      "file_name": "PSC Case 18-V-0311 V. Phoenix R-2, Chan and Rates 11.05.18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Phoenix, Oswego County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25F701D1-B587-4E92-924A-A8888189967B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0311",
+      "file_name": "051618 - VLG PHOENIX FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

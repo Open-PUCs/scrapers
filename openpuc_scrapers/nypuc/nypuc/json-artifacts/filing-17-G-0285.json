@@ -1,0 +1,71 @@
+{
+  "case": "17-G-0285",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/28/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding withdrawal of petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9264D55E-BC30-4A58-B0C0-3153A1A7EFF9}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "17-G-0285",
+      "file_name": "17-G-0285-LaGuardiaGateway-Withdrawal ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD255C84-72E4-4201-8263-C14B4AA30E49}",
+      "organization": "LaGuardia Gateway Partners",
+      "itemNo": "5",
+      "docket_id": "17-G-0285",
+      "file_name": "SKonica C3018031909140.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/22/2017",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF83D245-2190-4085-8B93-9BEC603B59E8}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-G-0285",
+      "file_name": "17-G-0285 Ruling on Extension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E63624FC-FB52-4342-B150-2C9DF742A234}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0285",
+      "file_name": "17-G-0285-Extension Ruling.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/12/2017",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DEDA2727-CB2A-447C-B6EA-F88CE443F053}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-G-0285",
+      "file_name": "17-G-0285 Extension Ruling.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/11/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of LaGuardia Gateway Partners to Sub-meter tenants at LaGuardia Airport Central Terminal B, Located in the Territory of National Grid .",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={137833C8-FEF7-4DA4-8BF5-6BA2B8898135}",
+      "organization": "LaGuardia Gateway Partners",
+      "itemNo": "1",
+      "docket_id": "17-G-0285",
+      "file_name": "LGP Gas Sub Metering Petition.pdf"
+    }
+  ]
+}

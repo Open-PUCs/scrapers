@@ -1,0 +1,71 @@
+{
+  "case": "22-C-0020",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/02/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "IPC Transaction Consummation Notice - NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10ACA386-0000-C212-8D7F-196F4EB3975F}",
+      "organization": "CCP II Finco, LLC, Hummingbird Circle, LLC, IPC Corp.",
+      "itemNo": "5",
+      "docket_id": "22-C-0020",
+      "file_name": "2023-03-02 IPC Transaction Consummation Notice - NY.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Indirect Control and Approving Financing on a Prospective Basis",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68F42BD1-B175-4019-92FB-8C4FE0C01D37}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-C-0020",
+      "file_name": "561_22-C-0020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplement to NY Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BC3CA8A-CAD8-4BB5-A1F4-8DC1707E7A6F}",
+      "organization": "CCP II Finco, LLC, Hummingbird Circle, LLC, IPC Corp.",
+      "itemNo": "3",
+      "docket_id": "22-C-0020",
+      "file_name": "2022-03-07 Supplement to NY Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/31/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-C-0020 IPC Networks 99 100 101 Stop Clock Letter-Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DCA5E56-B3FE-4DCB-8F8A-6610CFDBB671}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0020",
+      "file_name": "22-C-0020 IPC Networks 99 100 101 Stop Clock Letter-Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "SVP Centerbridge NY PSC Transfer of Control Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93254BAE-29DD-40E1-B8A4-E5F699D1CE49}",
+      "organization": "CCP II Finco, LLC, Hummingbird Circle, LLC, IPC Corp.",
+      "itemNo": "1",
+      "docket_id": "22-C-0020",
+      "file_name": "SVP-Centerbridge NY PSC Transfer of Control Application (w Exhibits & Verifications).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={682C61BA-FEE1-44AA-8DB6-D49C8485FDCF}",
+      "organization": "CCP II Finco, LLC, Hummingbird Circle, LLC, IPC Corp.",
+      "itemNo": "1",
+      "docket_id": "22-C-0020",
+      "file_name": "2022-01-07 Cover Letter - Joint Petition for Transfer of Control Final.pdf"
+    }
+  ]
+}

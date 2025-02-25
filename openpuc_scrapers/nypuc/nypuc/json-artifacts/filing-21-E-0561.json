@@ -1,0 +1,71 @@
+{
+  "case": "21-E-0561",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40CD488B-0000-CC12-A600-79318CC41E34}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0561",
+      "file_name": "361 - 21-E-0561 - Letter 101923.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40CD488B-0000-C237-B315-4AB5B0C61255}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0561",
+      "file_name": "361 - 21-E-0561 - Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/11/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Archdiocese Appeal Con Edison Reply",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9691994-FF0D-4259-A6C7-11BC6E500AD5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "21-E-0561",
+      "file_name": "Case 21-E-0561 Archdiocese Appeal Con Edison Reply.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A513CD3A-C868-483A-90B4-527CEA00393C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "21-E-0561",
+      "file_name": "022398 Archdiocese of NY Ack .pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C6748705-2527-4784-84EF-AEC7074BAF4A}",
+      "organization": "Archdiocese of New York",
+      "itemNo": "3",
+      "docket_id": "21-E-0561",
+      "file_name": "Appeal 022398.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AE161F1-6B75-4B39-9BBE-A8D62744B428}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0561",
+      "file_name": "IH 022398.pdf"
+    }
+  ]
+}

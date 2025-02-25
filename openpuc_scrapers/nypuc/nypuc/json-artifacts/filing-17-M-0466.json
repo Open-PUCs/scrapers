@@ -1,0 +1,49 @@
+{
+  "case": "17-M-0466",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-M-0466 Aliev Ack Letter 07312017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF883336-6A6B-4E03-B746-54A96569F675}",
+      "organization": "Individual, New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-M-0466",
+      "file_name": "17-M-0466 Aliev Ack Letter 07312017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-M-0466 Aliev Rehearing Request 07282017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A07E351-16DE-465C-BC79-F4CE7FF1013E}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-M-0466",
+      "file_name": "17-M-0466 Aliev Rehearing Request 07282017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-M-0466 Aliev SMD Final 07102017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={734AA7C5-04AC-44AC-BFA3-0A45C828DA4D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-M-0466",
+      "file_name": "17-M-0466 Aliev SMD Final 07102017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={422DC8A2-5C2F-4D9A-99B4-D6D44F90B526}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-M-0466",
+      "file_name": "261 Letter_Redacted.pdf"
+    }
+  ]
+}

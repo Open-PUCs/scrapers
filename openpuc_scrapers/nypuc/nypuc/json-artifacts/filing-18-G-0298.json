@@ -1,0 +1,38 @@
+{
+  "case": "18-G-0298",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/14/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service and Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FFE2856-8810-46B8-9931-D8DF069BFFBB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-G-0298",
+      "file_name": "pr19054revised.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2019",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Receives Reports on Electric Reliability, Customer Service and Gas and Electric Safety of the State\u00bfs Large Public Utilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FD5DA967-36BE-490A-810F-70024E053CEA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "18-G-0298",
+      "file_name": "pr19054.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D888C6E7-189E-4C7A-B690-1ECB295475CC}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-G-0298",
+      "file_name": "161-A_18g0298 - 6.221.pdf"
+    }
+  ]
+}

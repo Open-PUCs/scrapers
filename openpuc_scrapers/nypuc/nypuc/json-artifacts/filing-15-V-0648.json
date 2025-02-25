@@ -1,0 +1,82 @@
+{
+  "case": "15-V-0648",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3841300F-B369-48B2-8033-E0F1A842F6E0}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-V-0648",
+      "file_name": "663_15V0648.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Baxter Estates Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDB9FFAF-0E07-4D85-83B0-323221DC5A5E}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "15-V-0648",
+      "file_name": "Baxter Estates Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Cablevision Systems Long Island Corporation for Approval of the Renewal of its Franchise with the Village of Baxter Estates, Nassau County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={65F27708-CA1E-4AA1-9B2B-494FD27766EA}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0648",
+      "file_name": "Baxter Estates Application Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "Baxter Estates Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81FF002D-ED19-44C9-AB3F-F0F781BF24EB}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0648",
+      "file_name": "Baxter Estates Exhibit IV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "Baxter Estates Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C783CA9-E247-4565-BF11-409E4F088D80}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0648",
+      "file_name": "Baxter Estates Exhibit III.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "Baxter Estates Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A9FB5AA-934A-4201-A39A-7DC3F18769C2}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0648",
+      "file_name": "Baxter Estates Exhibit II.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "11/05/2015",
+      "nypuc_doctype": "Exhibits",
+      "name": "Baxter Estates Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57750557-29E4-438F-A8BA-2ADD4D2198BC}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "15-V-0648",
+      "file_name": "Baxter Estates Exhibit I.pdf"
+    }
+  ]
+}

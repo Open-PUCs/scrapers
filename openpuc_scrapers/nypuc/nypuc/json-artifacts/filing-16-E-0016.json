@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0016",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/06/2016",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Submeter Test form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={32D5BB83-DA33-4116-829D-2531F0679E45}",
+      "organization": "AMPS-ELEMCO, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-E-0016",
+      "file_name": "Submittal Meter Test Plan Case 16-E-0016 Searchable.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC5A5303-5B96-4CFE-8D1E-C58ED5473A9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0016",
+      "file_name": "367_16e0016.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Request for Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC82F098-3F8D-4CB9-9BEE-C26924ED4659}",
+      "organization": "AMPS-ELEMCO, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-E-0016",
+      "file_name": "DOC034.PDF - Adobe Acrobat Pro.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/26/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Addendum No. 1 which provides the requested response to questions from the PSC Staff.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63BBE0FD-7B2D-450E-9F33-59A0863E2651}",
+      "organization": "AMPS-ELEMCO, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-E-0016",
+      "file_name": "DOC008.PDF - Adobe Acrobat Pro.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 20 Lafayette LLC to Submeter Electricity at 286 Ashland Place, Brooklyn, New York, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC9F3626-AE88-40E3-9E43-E5FD65FF5AD9}",
+      "organization": "20 Lafayette LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0016",
+      "file_name": "DOC003.pdf"
+    }
+  ]
+}

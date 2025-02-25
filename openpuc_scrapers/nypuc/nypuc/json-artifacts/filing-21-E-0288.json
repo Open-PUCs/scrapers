@@ -1,0 +1,82 @@
+{
+  "case": "21-E-0288",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/06/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D48CC07D-9349-45A4-8E41-32CE460B2164}",
+      "organization": "111 Leroy Condominium",
+      "itemNo": "7",
+      "docket_id": "21-E-0288",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/18/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={620374C4-AD41-4CB4-B8B1-18719FE6A17E}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-E-0288",
+      "file_name": "366_21-E-0288.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/01/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 111 Leroy Street, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DBD7787-758A-4B01-93E7-314886EB02D9}",
+      "organization": "111 Leroy Condominium",
+      "itemNo": "5",
+      "docket_id": "21-E-0288",
+      "file_name": "response letter 3-1-22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/08/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 111 Leroy Street, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73046BF9-85CD-46C1-9B38-CD648A034C33}",
+      "organization": "111 Leroy Condominium",
+      "itemNo": "4",
+      "docket_id": "21-E-0288",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/14/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB236560-0E61-479F-97FC-5A1F4D769320}",
+      "organization": "111 Leroy Condominium",
+      "itemNo": "3",
+      "docket_id": "21-E-0288",
+      "file_name": "response letter 9-14-21.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B0A93E6-6DD2-4F38-A8AF-7886C6E54A5B}",
+      "organization": "111 Leroy Condominium",
+      "itemNo": "2",
+      "docket_id": "21-E-0288",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/12/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Notice of Intent to submeter electricity at a building located 111 Leroy Street, New York, New York 10014.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4BA71E0D-47EE-4395-B7BA-4C7356EACD83}",
+      "organization": "111 Leroy Condominium",
+      "itemNo": "1",
+      "docket_id": "21-E-0288",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

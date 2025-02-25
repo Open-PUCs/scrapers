@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0252",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B2706D1-11D0-48B5-81C9-2B8F03ACF2A1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0252",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Byron Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={737AB97C-8615-4E69-BC4D-B6E216EC1ABA}",
+      "organization": "Charter Communications",
+      "itemNo": "2",
+      "docket_id": "18-V-0252",
+      "file_name": "PSC Case 18-V-0252 T. Byron Resolution, 11.05.18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Byron, County of Genesee.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B71049CF-9F5B-4869-A517-049E0D5CC8E2}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0252",
+      "file_name": "04.20.18 TOWN BYRON FRANCHISE RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

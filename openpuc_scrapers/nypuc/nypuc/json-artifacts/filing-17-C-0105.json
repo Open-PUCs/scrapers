@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0105",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/08/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess granting withdrawal of petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1503E60-DABD-4320-831B-1E0566213CFF}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-C-0105",
+      "file_name": "17-C-0105-Approval TAF-Sprint Petition Withdrawal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/17/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Request to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B1BF7CD1-35B4-4B9B-8361-9E5629E6558A}",
+      "organization": "Targeted Accessibility Fund of New York Inc.",
+      "itemNo": "3",
+      "docket_id": "17-C-0105",
+      "file_name": "Case 17-C-0105.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6810667-80BF-4056-8C6B-69BED9867DAC}",
+      "organization": "Sprint Communications Company L.P.",
+      "itemNo": "2",
+      "docket_id": "17-C-0105",
+      "file_name": "Ltr Giliberto 111616.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/15/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "TAF Filing - Burgess 111516",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={41A48665-AAFD-4F17-BBC9-15AA10A6ACF6}",
+      "organization": "Sprint Communications Company L.P.",
+      "itemNo": "1",
+      "docket_id": "17-C-0105",
+      "file_name": "TAF Filing - Burgess 111516.pdf"
+    }
+  ]
+}

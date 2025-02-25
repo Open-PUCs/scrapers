@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0552",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2017",
+      "nypuc_doctype": "Reports",
+      "name": "EAF Parts 2+3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9597C0E9-FB38-434F-BC9F-2590540D064B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0552",
+      "file_name": "16E0552 EAF Parts 2+3.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/25/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing and Transfer, and Ruling on Other Matters",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C53521FF-E233-4DD6-AB05-C3461AE98BFD}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0552",
+      "file_name": "370_16-E-0552.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Short EAF re CCI Rensselaer LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D53905C2-A859-4BC2-B42A-333CA0EDC2C0}",
+      "organization": "CCI Rensselaer LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0552",
+      "file_name": "Short EAF re CCI Rensselaer LLC 9-28-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/28/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of CCI Rensselaer LLC For Approval of Debt Financing Pursuant To Public Service Law Section 69 and a Related Intra-Corporate Transfer of CCI Rensselaer LLC Pursuant to Public Service Law Section 70.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC1CCF7C-D205-40AF-AF8D-64291BB8B267}",
+      "organization": "CCI Rensselaer LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0552",
+      "file_name": "Verified Petition of CCI Rensselaer LLC w-Verification 9-28-16 FINAL.pdf"
+    }
+  ]
+}

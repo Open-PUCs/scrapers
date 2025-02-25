@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0535",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0535 White Ack Letter 09052017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A554C68-D8AF-4F4A-814B-D9C429ECF17B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0535",
+      "file_name": "17-E-0535 White Ack Letter 09052017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0535 White Rehearing Request 08282017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={773CD9CB-3EE3-4468-91A3-02B490121EE2}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0535",
+      "file_name": "17-E-0535 White Rehearing Request 08282017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0535 White SMD Final 08152017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCFE9C39-D45D-43B4-94A0-9FC15DBA1E58}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0535",
+      "file_name": "17-E-0535 White SMD Final 08152017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/22/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1BE63927-1EF8-4B41-BEC8-36698398E7DE}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0535",
+      "file_name": "378 Letter_Redacted.pdf"
+    }
+  ]
+}

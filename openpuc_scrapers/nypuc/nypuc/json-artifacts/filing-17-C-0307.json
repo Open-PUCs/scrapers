@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0307",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding the appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E576673-2C76-4F49-BF4D-890368513238}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-C-0307",
+      "file_name": "561 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/05/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E58C850-4D56-4942-A1B9-5B2DEA6ECDD8}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "17-C-0307",
+      "file_name": "Filimon Ack Letter 512821_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/05/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36D80B13-512D-4C46-93AF-C9D8912C6207}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "17-C-0307",
+      "file_name": "Filimon Appeal Request 512821_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/05/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACF51CF4-5FFD-4B96-BE9C-7791A130C2DD}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "17-C-0307",
+      "file_name": "Gheorghe Filimon IH Decision 512821_Redacted.pdf"
+    }
+  ]
+}

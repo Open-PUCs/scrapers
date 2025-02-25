@@ -1,0 +1,104 @@
+{
+  "case": "20-C-0093",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={374F418F-A30A-40DF-B77C-46CACCB914FA}",
+      "organization": "GCX Limited, Vanco US, LLC",
+      "itemNo": "6",
+      "docket_id": "20-C-0093",
+      "file_name": "Transmittal Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2904842-CADC-424E-9756-94EA42B15302}",
+      "organization": "GCX Limited, Vanco US, LLC",
+      "itemNo": "6",
+      "docket_id": "20-C-0093",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/26/2020",
+      "nypuc_doctype": "Letters",
+      "name": "20-C-0093 GCX Limited OOL.Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={727EE6AF-32D1-4807-B803-0A785FC929E4}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "20-C-0093",
+      "file_name": "20-C-0093 GCX Limited OOL.Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/08/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C511EC9D-4543-4C6E-8FEB-057FC9CC1D05}",
+      "organization": "Vanco US, LLC",
+      "itemNo": "4",
+      "docket_id": "20-C-0093",
+      "file_name": "Vanco US NY PSC RAO Letter (8May2020).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/08/2020",
+      "nypuc_doctype": "Reports",
+      "name": "Vanco US NY PSC Information Request with Redaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D86D5B1B-DB38-4D80-B1B4-8F739F859C1A}",
+      "organization": "Vanco US, LLC",
+      "itemNo": "3",
+      "docket_id": "20-C-0093",
+      "file_name": "Vanco US NY PSC Information Request with Redaction.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3CB3928-5E36-454C-B604-143C43FB3D90}",
+      "organization": "GCX Limited, Vanco US, LLC",
+      "itemNo": "2",
+      "docket_id": "20-C-0093",
+      "file_name": "Vanco US LLC NYDPS Joint Petition Supplement Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/28/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5E21663-2FA7-49C6-A1A8-9D8D4746C878}",
+      "organization": "GCX Limited, Vanco US, LLC",
+      "itemNo": "2",
+      "docket_id": "20-C-0093",
+      "file_name": "Transmittal Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/24/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2398D935-F412-4CFC-9D2F-70E80BD20AB4}",
+      "organization": "GCX Limited, Vanco US, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0093",
+      "file_name": "NY ToC Transmittal Letter (24Feb2020).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/24/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of GCX Limited (Debtor-in-Possession) Transfer, Vanco US, LLC Authority Holder, and GCX Limited (Reorganized) for Approval to Transfer Indirect Ownership of Authority Holder and for Authority Holder to Participate in Certain Financing Arrangements.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C21C3E7E-C1C7-4211-8935-D7CD4A3CFB33}",
+      "organization": "GCX Limited, Vanco US, LLC",
+      "itemNo": "1",
+      "docket_id": "20-C-0093",
+      "file_name": "GCX New York ToC Financing App with Exhibits (24Feb2020).pdf"
+    }
+  ]
+}

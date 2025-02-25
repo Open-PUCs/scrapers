@@ -1,0 +1,49 @@
+{
+  "case": "24-V-0660",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80135093-0000-CA2F-8366-C3B1B5613E7F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0660",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Arcadia Request 11.21.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50135093-0000-C011-A28F-7392C3546419}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0660",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Arcadia Request 11.21.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Arcadia Cover Letter- Request for Renewal and Certificate of Confirmation 11.21.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80135093-0000-C14F-A94D-D50D028A7248}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0660",
+      "file_name": "Charter Communications, T. Arcadia Cover Letter- Request for Renewal and Certificate of Confirmation 11.21.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Arcadia - Request for Renewal and Certificate of Confirmation(redacted) 11.21.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80135093-0000-C769-AF9E-332EBE4F2C3D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0660",
+      "file_name": "Charter Communications, T. Arcadia - Request for Renewal and Certificate of Confirmation(redacted) 11.21.24.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0180",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/01/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={151B6F19-DE25-4AAA-828B-2359EF8944E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0180",
+      "file_name": "362_16-E-0180 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/23/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={170F9420-D085-4D24-9F03-160B8E5A72C2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-E-0180",
+      "file_name": "318694_Acknowledgement Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/22/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF9FC806-F6B1-406B-8A78-DEF0FA7E45FA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-E-0180",
+      "file_name": "318694 Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/22/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision -Ken Keenan vs Con Edison_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9EA03763-1BD6-4776-8EBC-5184D19D2756}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-E-0180",
+      "file_name": "Informal Hearing Decision -Ken Keenan vs Con Edison_Redacted.pdf"
+    }
+  ]
+}

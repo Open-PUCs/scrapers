@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0315",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CF9ABC5-1051-48B6-89F9-1F0813804ECB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0315",
+      "file_name": "662_22-V-0315.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/24/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D716C878-B32D-4B53-B42C-9CB2A4FA1FE8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0315",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/24/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Cuba Letter R-2 05.23.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE1F4F46-9027-44AB-AFB7-2A1833B20127}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0315",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Cuba Letter R-2 05.23.22.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/24/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Cuba Request for Renewal and Certificate of Confirmation REDACTED 05.23.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40CC3A9F-2A69-45A4-AC3C-4B98F816F500}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0315",
+      "file_name": "Charter Communications, T. Cuba Request for Renewal and Certificate of Confirmation REDACTED 05.23.22.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Cuba Cover Letter Request for Renewal, Certificate of Confirmation 05.23.22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C2F2C10-0556-41A2-9DBE-9E690D91B7FB}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0315",
+      "file_name": "Charter Communications, T. Cuba Cover Letter Request for Renewal, Certificate of Confirmation 05.23.22.pdf"
+    }
+  ]
+}

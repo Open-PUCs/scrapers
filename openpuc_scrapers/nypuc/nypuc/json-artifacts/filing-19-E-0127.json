@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0127",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0127 Persaud rehearing Request 02202019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AE24342-E0DA-431D-BDBF-81A37DBAB912}",
+      "organization": "Individual",
+      "itemNo": "5",
+      "docket_id": "19-E-0127",
+      "file_name": "19-E-0127 Persaud rehearing Request 02202019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0127 Persaud SMD Final 02072019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85411F4E-33C1-41D3-9A94-7C53E625BB05}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-E-0127",
+      "file_name": "19-E-0127 Persaud SMD Final 02072019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/19/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04375C7C-8603-4D34-8DCF-909F6939B670}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "19-E-0127",
+      "file_name": "CASE-19-E-0127 (1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/21/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={943E12D5-2448-497E-9F32-7A9E723E2A74}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0127",
+      "file_name": "369 Determination.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/21/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0A4CBE6-AC8D-4342-AA47-1940D009893C}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0127",
+      "file_name": "369 Letter_Redacted.pdf"
+    }
+  ]
+}

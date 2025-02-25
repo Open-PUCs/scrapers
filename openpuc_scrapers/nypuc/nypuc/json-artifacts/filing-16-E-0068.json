@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0068",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/26/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A351C12-20FE-4876-B6D0-F097A92D7C17}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0068",
+      "file_name": "371_16e0068.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE4A342B-0187-40F1-847D-219E5E6370A0}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-E-0068",
+      "file_name": "16-E-0068 Signed EAF.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/08/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Astoria Generating Company, L.P., et al_",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2E7C7C45-E273-47E3-87BB-56FF26C428CB}",
+      "organization": "Astoria Generating Company,L.P.",
+      "itemNo": "1",
+      "docket_id": "16-E-0068",
+      "file_name": "Petition of Astoria Generating Company, L.P., et al_.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/08/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter to Astoria Generating Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F0FF87F-7D1F-4AF4-AB93-CEEFD5011717}",
+      "organization": "Astoria Generating Company,L.P.",
+      "itemNo": "1",
+      "docket_id": "16-E-0068",
+      "file_name": "Cover Letter to Astoria Generating Petition.pdf"
+    }
+  ]
+}

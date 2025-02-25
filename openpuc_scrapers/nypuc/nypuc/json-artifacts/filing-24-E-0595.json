@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0595",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information for 270 Nostrand Avenue",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0032793-0000-C614-9A4F-0EE1BD3D1666}",
+      "organization": "270 Nostrand Propco LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0595",
+      "file_name": "additioanal information.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/30/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B9DE92-0000-C61A-B1EA-54297C33F6F5}",
+      "organization": "270 Nostrand Propco LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0595",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

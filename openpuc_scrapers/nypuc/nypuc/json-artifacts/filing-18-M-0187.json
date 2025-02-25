@@ -1,0 +1,49 @@
+{
+  "case": "18-M-0187",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0187 Reilly Ack Letter 03222018 Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6506B53A-FBC1-4016-AF29-604C53AAA22F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "18-M-0187",
+      "file_name": "18-M-0187 Reilly Ack Letter 03222018 Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "18-M-0187 Reilly Rehearing Request 03202018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03083C2C-8871-4C18-96D6-AA610AFD856B}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "18-M-0187",
+      "file_name": "18-M-0187 Reilly Rehearing Request 03202018_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "18-M-0187 Reilly SMD Final 02152018_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AC5A857-EABB-488E-A1D2-8FA42A9FD5AF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-M-0187",
+      "file_name": "18-M-0187 Reilly SMD Final 02152018_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/22/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEE21EB3-D7A6-4C48-9A6E-21F0A4CB1658}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "18-M-0187",
+      "file_name": "266 Letter_Redacted.pdf"
+    }
+  ]
+}

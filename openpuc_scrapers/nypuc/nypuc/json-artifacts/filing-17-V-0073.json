@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0073",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={556A8C5F-81C3-43A3-82D9-B1F3C454EAB8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0073",
+      "file_name": "661_17-V-0073.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Scott, Cortland County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={31A3EF51-F9B2-4B82-9316-F4AD454EF705}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0073",
+      "file_name": "01.31.17 - T. Scott Franchise Renewal to PSC.pdf"
+    }
+  ]
+}

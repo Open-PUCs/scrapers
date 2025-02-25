@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0304",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE9B07CB-AFBF-4760-9A5F-478065D234F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0304",
+      "file_name": "663_21-V-0304 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/01/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Almond, Allegany County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A7434A2-A1EE-44C5-9B86-6B6E5412212C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0304",
+      "file_name": "2021.06.01 T. ALMOND PSC RENEWAL FILED.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0347",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/17/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8E11B7B3-E161-44FD-9807-97E90B8A6B87}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0347",
+      "file_name": "661_21-V-0347.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/22/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Clymer, Chautauqua County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F31874B1-E6D7-4FDF-BEBD-27CDBA613A07}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0347",
+      "file_name": "2021.06.22 T. CLYMER RENEWAL FILED-PSC,mm.pdf"
+    }
+  ]
+}

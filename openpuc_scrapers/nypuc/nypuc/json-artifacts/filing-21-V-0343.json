@@ -1,0 +1,38 @@
+{
+  "case": "21-V-0343",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/11/2022",
+      "nypuc_doctype": "Letters",
+      "name": "21-V-0343 Sec Letter Approving AFP.Jacoby 7.9.2021",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C4FD6AD-F051-43D6-A895-6A10CFD28A83}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-V-0343",
+      "file_name": "21-V-0343 Sec Letter Approving AFP.Jacoby 7.9.2021.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/29/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Wethersfield Legal Notice of AFP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAB8689D-CDBF-4C46-ABCF-B4DD7CEA5567}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0343",
+      "file_name": "2021.09.29 - T. Wethersfield Legal Notice of AFP-Filed to Case (21-V-0343).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for a Waiver of the Requirements of 16 NYCRR, Section 894 to Permit the Company to file on behalf of the Town of Wethersfield.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F82C9836-4238-4BBB-A034-B2D20B54C76A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0343",
+      "file_name": "T. Wethersfield-PSC filing,Request for AFP 06.18.21mm.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0491",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C08BB592-0000-CD17-8102-7F1461F13B14}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0491",
+      "file_name": "661_24-V-0491.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BC7F91-0000-CD51-97DE-0D4C11280261}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0491",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Huron Request 8.23.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BC7F91-0000-C516-AD9F-4407165DC6EC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0491",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Huron Request 8.23.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Huron Cover Letter- Request for Renewal and Certificate of Confirmation 08.23.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BC7F91-0000-CE74-9FFB-A5B79B32C14D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0491",
+      "file_name": "Charter Communications, T. Huron Cover Letter- Request for Renewal and Certificate of Confirmation 08.23.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Huron - Request for Renewal and Certificate of Confirmation(redacted) 08.23.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0BC7F91-0000-C098-9284-E1A2105642C0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0491",
+      "file_name": "Charter Communications, T. Huron - Request for Renewal and Certificate of Confirmation(redacted) 08.23.24.pdf"
+    }
+  ]
+}

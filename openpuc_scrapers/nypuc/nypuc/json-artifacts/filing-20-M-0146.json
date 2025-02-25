@@ -1,0 +1,49 @@
+{
+  "case": "20-M-0146",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "20-M-0146 Carriera Response 05062020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD2B7997-9574-4434-B167-FE08E267F1E8}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "20-M-0146",
+      "file_name": "20-M-0146 Carriera Response 05062020_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-M-0146 Kurland Ack Letter 041020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23CECDBC-EA17-4A59-A537-E6E05F518FC5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-M-0146",
+      "file_name": "20-M-0146 Kurland Ack Letter 041020_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/28/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-M-0146 Kurland Rehearing Request 03262020_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82B39FC3-DF5E-4614-8116-3CC4DFDDB1E6}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-M-0146",
+      "file_name": "20-M-0146 Kurland Rehearing Request 03262020_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={919210C0-2BF6-4757-85E3-63A8502D93AE}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-M-0146",
+      "file_name": "262 20-M-0146 Letter final Redacted.pdf"
+    }
+  ]
+}

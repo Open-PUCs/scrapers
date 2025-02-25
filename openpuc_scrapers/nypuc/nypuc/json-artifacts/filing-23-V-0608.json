@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0608",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/22/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9084928C-0000-C816-BEA0-26500A302EF3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0608",
+      "file_name": "662_23-V-0608 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Burke Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 8.17.23SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10C14E8B-0000-C747-94A1-94E2F52FC190}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0608",
+      "file_name": "T. Burke Charter Communications-Cover Letter Request for Renewal and Certificate of Confirmation 8.17.23SP.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Burke (Redacted FIling)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10C14E8B-0000-C26E-8C92-8EC9E1FFB583}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0608",
+      "file_name": "T. Burke (Redacted FIling).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10C14E8B-0000-C125-A118-90306B128F3D}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0608",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Burke 8.17.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00C14E8B-0000-CE17-9C2C-37686C42EFF4}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0608",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Burke 8.17.23.pdf"
+    }
+  ]
+}

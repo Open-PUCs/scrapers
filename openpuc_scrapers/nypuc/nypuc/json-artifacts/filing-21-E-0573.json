@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0573",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51697FF8-2A2B-4F1F-A893-85D2987CE88F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0573",
+      "file_name": "369_21-E-0573 Letter.final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "183344 Brumer SMR Ack Letter 11222021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2075D7AA-C072-44E8-B971-812F6548B094}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0573",
+      "file_name": "183344 Brumer SMR Ack Letter 11222021_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "Fw_ Appeal of Shared Meter # 158553 Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F9981C4-C44E-4E48-B718-786DBEB13B22}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-E-0573",
+      "file_name": "Fw_ Appeal of Shared Meter # 158553 Decision_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "158553_Koudellou_SMD_Final_10202021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51A14A2C-BBF0-4D63-95E3-97B7536758B1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0573",
+      "file_name": "158553_Koudellou_SMD_Final_10202021_Redacted.pdf"
+    }
+  ]
+}

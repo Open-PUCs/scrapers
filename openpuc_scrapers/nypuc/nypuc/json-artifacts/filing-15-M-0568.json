@@ -1,0 +1,82 @@
+{
+  "case": "15-M-0568",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to Ordering Clause No. 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D235373A-65BF-4B61-B954-A651D401E644}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "15-M-0568",
+      "file_name": "RGE Final JE for Town of Greece SL Sale.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/17/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3223727F-210C-472D-BBCF-6160EC7E22E4}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "15-M-0568",
+      "file_name": "369_15m0568 Confirming Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/25/2016",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB78B282-4FFB-46AA-9537-2FF0BB775153}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "15-M-0568",
+      "file_name": "15M0568 One Commissioner Order.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/05/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1A127D3D-2BFA-4306-9F9E-21E87B527C43}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "15-M-0568",
+      "file_name": "Signed EAF.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/25/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Request that Petition be on the February Session",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B81E85E-B6D6-4836-B67D-B7CABC4BB604}",
+      "organization": "Town of Greece",
+      "itemNo": "3",
+      "docket_id": "15-M-0568",
+      "file_name": "Request that Petition be on the February Session.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/23/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A678625F-5963-4936-9229-CDD59F4D31D9}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "15-M-0568",
+      "file_name": "2015-10-23 RG&E Request for Trade Secret Protection (15-M-0568).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/23/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Rochester Gas and Electric Corporation for Approval to Transfer to the Town of Greece Street Lighting Facilities Installed Throughout the Town of Greece with an Original Cost of Over $100,000.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8BE7926-CE99-418C-9EFE-975700596225}",
+      "organization": "Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "15-M-0568",
+      "file_name": "Town of Greece Petition.pdf"
+    }
+  ]
+}

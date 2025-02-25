@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0516",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/22/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20241107 - Payment - $2,500 - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0B25593-0000-C61C-91B9-995A9A28B319}",
+      "organization": "Maspeth Supply Co., LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0516",
+      "file_name": "20241107 - Payment - $2,500 - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={104EBF92-0000-CA14-9E4E-8FC38EEB247E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "24-G-0516",
+      "file_name": "161-A_24-G-0516.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={006C2790-0000-C91A-A2ED-51D9B9B9DFFC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0516",
+      "file_name": "20240617 - Consent Offer Letter.pdf"
+    }
+  ]
+}

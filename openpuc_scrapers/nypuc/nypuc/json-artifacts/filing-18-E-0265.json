@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0265",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/13/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving New Service Class",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18F7803E-95A1-41A2-B0C2-85A4460715FB}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0265",
+      "file_name": "361_18-E-0265.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Explanation in support of the tariff filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DC9D3F9-F950-428C-95A8-FED31D62BE60}",
+      "organization": "City of Jamestown Board of Public Utilities",
+      "itemNo": "4",
+      "docket_id": "18-E-0265",
+      "file_name": "LETT-High Density Load Supplemental Filing 07-24-18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/13/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "City of Jamestown",
+      "itemNo": "3",
+      "docket_id": "18-E-0265",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/18/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CB050C2-989F-40A5-80C0-0F41DD119A70}",
+      "organization": "City of Jamestown Board of Public Utilities",
+      "itemNo": "2",
+      "docket_id": "18-E-0265",
+      "file_name": "Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/01/2018",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "City of Jamestown",
+      "itemNo": "1",
+      "docket_id": "18-E-0265",
+      "file_name": ""
+    }
+  ]
+}

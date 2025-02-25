@@ -1,0 +1,60 @@
+{
+  "case": "20-E-0546",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2020",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Transfer Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27D0E437-4DAD-4137-A436-04F4915E82F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-E-0546",
+      "file_name": "370_20-E-0546 CPV Dec Ruling_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B9B1A416-E82B-45CB-8A8A-DD752D3C7579}",
+      "organization": "GIP II CPV Intermediate Holdings Partnership, L.P.",
+      "itemNo": "2",
+      "docket_id": "20-E-0546",
+      "file_name": "Case 20-E-0546 - Cover Letter - Amended Exhibit A.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/03/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Amended Exhibit A - Pre and Post Transaction Org Charts",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96459747-7579-4262-80DF-7DF345D782FD}",
+      "organization": "GIP II CPV Intermediate Holdings Partnership, L.P.",
+      "itemNo": "2",
+      "docket_id": "20-E-0546",
+      "file_name": "Amended Exhibit A - Pre and Post Transaction Org Charts.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verified Joint Petition of CPV Valley, LLC; GIP II CPV Intermediate Holdings Partnership, L.P.; CPV Power Holdings GP, LLC; and CPV Group LP for a Declaratory Ruling that Further Review of a Transfer of Upstream Ownership Interests is Not Required Pursuant to Section 70 of the New York State Public Service Law, or, in the Alternative, for Expedited Approval of the Transfer Pursuant to Section 70",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EF98FB5-FE2F-4E1F-A68E-1B8CAA317D84}",
+      "organization": "GIP II CPV Intermediate Holdings Partnership, L.P.",
+      "itemNo": "1",
+      "docket_id": "20-E-0546",
+      "file_name": "Case 20-E-____ - CPV Verified Joint Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/02/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26AC5106-43FF-4E68-BCAD-C9D330D36F5F}",
+      "organization": "GIP II CPV Intermediate Holdings Partnership, L.P.",
+      "itemNo": "1",
+      "docket_id": "20-E-0546",
+      "file_name": "Case 20-E-____ - Cover Letter - CPV Verified Joint Petition.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0575",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B6728D-3D4C-4B2D-98E0-7BD147CD81E3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0575",
+      "file_name": "661_22-V-0575.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/30/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01595 Letter to Building Owner_717 St. Nicholas",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68FD6DCA-34DA-4B9C-93A9-82DA6B4CF09A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0575",
+      "file_name": "22-01595 Letter to Building Owner_717 St. Nicholas.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 717 St. Nicholas Avenue, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0558BF00-9EFB-46F8-9E6F-7AA8B54728F8}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0575",
+      "file_name": "220810-6 Petition (717 ST NICHOLAS AV) (Post-Survey).pdf"
+    }
+  ]
+}

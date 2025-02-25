@@ -1,0 +1,82 @@
+{
+  "case": "23-V-0152",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80494E88-0000-C114-AAFA-B5C9BCF3CED3}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0152",
+      "file_name": "661_23-V-0152.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/30/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter Regarding the Petition Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40753387-0000-C215-A572-407C147A7C2E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0152",
+      "file_name": "Charter Communications C. Newburgh-Cover Letter-Request for Renewal and Certificate of Confirmation 03.24.23.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/30/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40753387-0000-C83C-9A98-4BB5FFEEFAE2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0152",
+      "file_name": "Charter Communications Cover Letter to correct Letter to Secretary in C.Newburgh franchise renewal filing 3.30.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02E2E87-0000-CC56-8072-2DCD50049AF2}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0152",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO C. Newburgh Letter 03.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02E2E87-0000-C416-B900-D7B817BE55D5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0152",
+      "file_name": "Charter Confidential Treatment Request to RAO C. Newburgh Letter 03.24.23.docx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications C. Newburgh-Cover Letter-Request for Renewal and Certificate of Confirmation 03.24.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02E2E87-0000-C175-811E-B1FDCAFC1BD5}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0152",
+      "file_name": "Charter Communications C. Newburgh-Cover Letter-Request for Renewal and Certificate of Confirmation 03.24.23.docx"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/29/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "C. Newburgh filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E02E2E87-0000-C494-A582-993EBA09CB23}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0152",
+      "file_name": "C. Newburgh filing (Redacted).pdf"
+    }
+  ]
+}

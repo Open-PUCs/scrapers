@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0718",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20BED18D-0000-CC10-BCE2-2C1D2CED9CF4}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0718",
+      "file_name": "661_23-V-0718 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80EB5A8C-0000-C43F-B363-0ABB24945311}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0718",
+      "file_name": "AUSA Newspaper Cover Letter - Long Beach, City of.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "AUSA Newspaper Affidavit - Long Beach, City of",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80EB5A8C-0000-C918-B885-2F33B9E509D1}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "23-V-0718",
+      "file_name": "AUSA Newspaper Affidavit - Long Beach, City of.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4066598C-0000-C83A-880D-712F10FE41B1}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0718",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Franchise Renewal Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4066598C-0000-C775-85EA-A87330F6FF54}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0718",
+      "file_name": "Exhibit IV - Long Beach, City of AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4066598C-0000-C055-9B82-D2A5FF80194D}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0718",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4066598C-0000-CB9F-8E05-662C2ECE71FD}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0718",
+      "file_name": "Exhibit II - Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4066598C-0000-C91A-9B0E-42A2378EC552}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0718",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3066598C-0000-CB19-A740-FBBF8A1E0EFD}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "23-V-0718",
+      "file_name": "Application Cover Letter - Long Beach, City of .pdf"
+    }
+  ]
+}

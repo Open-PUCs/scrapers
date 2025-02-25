@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0678",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={079840B7-56EF-47C9-A62A-EFE15ADDDF6B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0678",
+      "file_name": "663_16-V-0678.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Newfane, Niagara County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F2DECFF-5390-40B5-8F23-32A2B92C2FF3}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0678",
+      "file_name": "111816 Newfane, Town Renewal Submission to PSC.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0371",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Upstream Transfer Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62CA08B5-4887-4A26-B85F-197954AD9ABB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0371",
+      "file_name": "380_21-E-0371 PB Transmission Dec Ruling_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/02/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C483C5C-BF57-4D51-B1BF-90668821FFD7}",
+      "organization": "PB Transmission Holdings, LLC, The 2012 PowerBridge Trust",
+      "itemNo": "2",
+      "docket_id": "21-E-0371",
+      "file_name": "Trade Secret Request.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of PB Transmission Holdings, LLC and The 2012 PowerBridge Trust for an Expedited Declaratory Ruling Invoking the Wallkill Presumption.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85E1EBDE-E13E-45A6-B61A-AE8967D1B02A}",
+      "organization": "PB Transmission Holdings, LLC, The 2012 PowerBridge Trust",
+      "itemNo": "1",
+      "docket_id": "21-E-0371",
+      "file_name": "NYPSC Petition.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D369C44C-FA00-4E2B-9679-C98C5BD006EE}",
+      "organization": "PB Transmission Holdings, LLC, The 2012 PowerBridge Trust",
+      "itemNo": "1",
+      "docket_id": "21-E-0371",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

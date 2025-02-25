@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0058",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding Transfer of Net Metering Project",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5F49FB36-CDEB-4D84-8317-66AC18AB049D}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0058",
+      "file_name": "380_19-E-0058.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/06/2019",
+      "nypuc_doctype": "Comments",
+      "name": "Reply of ESNY to Joint Utilities Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DFAE6C17-77A9-4BF6-93EB-CD9622D78E7C}",
+      "organization": "ESNY-205, LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0058",
+      "file_name": "Reply of ESNY to Joint Utilities Comments on Petition for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "JU Opposition To Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={96657C7A-C737-4A16-92DC-72AFEF053D7B}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "5",
+      "docket_id": "19-E-0058",
+      "file_name": "2019-02-22 JU Opposition To Petition (19-E-0058).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/19/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF4824B8-2CFD-4280-811A-AEB63FF9FE47}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0058",
+      "file_name": "19-E-0058-Avangrid-ESNY-205-Extension Ruling.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/15/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F83D5B7-E25C-4830-904D-436E1BDD6FD1}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "3",
+      "docket_id": "19-E-0058",
+      "file_name": "2019-02-15 JU Extension Request (19-E-0058).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DA3180B-A0E9-42C9-9CEA-4760EA35F610}",
+      "organization": "ESNY-205, LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0058",
+      "file_name": "ESNY-205 Petition for Declaratory Ruling (W7086688-2x7AC2E).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/28/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "ESNY-205 Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68488D55-E6D6-4F45-871E-7D6EB429292C}",
+      "organization": "ESNY-205, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0058",
+      "file_name": "ESNY-205 Petition for Declaratory Ruling (W7086688x7AC2E).pdf"
+    }
+  ]
+}

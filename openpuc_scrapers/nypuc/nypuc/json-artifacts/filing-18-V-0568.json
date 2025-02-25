@@ -1,0 +1,49 @@
+{
+  "case": "18-V-0568",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={84845859-9B3E-4644-BF70-CD9A8EE7FF87}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0568",
+      "file_name": "661_18-V-0568.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Franchise Agreement between Mid-Hudson Cablevision, Inc. and the Town of Greenport, Columbia County, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E57CCF14-569B-475F-B739-B10A34942726}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "3",
+      "docket_id": "18-V-0568",
+      "file_name": "TOWN OF GREENPORT FRANCHISE RENEWAL 2018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/05/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "TOWN OF GREENPORT PUBLIC NOTICE OF FILING W PSC 2018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={387CD713-C690-42C5-B45F-9A3272F36D5F}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0568",
+      "file_name": "TOWN OF GREENPORT PUBLIC NOTICE OF FILING W PSC 2018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Town of Greenport, Columbia County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={812501B6-ADDA-49A7-9A46-BA7C5C858EA9}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0568",
+      "file_name": "TOWN OF GREENPORT FRANCHISE RENEWAL 2018.pdf"
+    }
+  ]
+}

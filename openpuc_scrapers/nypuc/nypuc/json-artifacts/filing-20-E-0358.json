@@ -1,0 +1,60 @@
+{
+  "case": "20-E-0358",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB5A7468-85E8-485D-99DD-12E67311CF10}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "20-E-0358",
+      "file_name": "226802 SMR Request Scime final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0358 Furman Ack Letter 07172020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D8A00EF-9814-4B10-A97B-46CA898B0365}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "20-E-0358",
+      "file_name": "20-E-0358 Furman Ack Letter 07172020.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "20-E-0358 Furman Rehearing Request 07142020.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93B95E91-5D82-49C0-B00C-3E4740197F30}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "20-E-0358",
+      "file_name": "20-E-0358 Furman Rehearing Request 07142020..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/18/2021",
+      "nypuc_doctype": "Letters",
+      "name": "20-E-0358 Furman SMD Final 06242020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D45827CD-EC09-4CD5-92BD-F21DC1D92D52}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "20-E-0358",
+      "file_name": "20-E-0358 Furman SMD Final 06242020.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/21/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE1C64E7-7E4A-427E-9D2E-0D7A28CEEF49}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "20-E-0358",
+      "file_name": "362 Letter final_Redacted.pdf"
+    }
+  ]
+}

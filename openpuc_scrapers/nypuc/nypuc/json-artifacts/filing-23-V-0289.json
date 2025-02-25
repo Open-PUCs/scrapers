@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0289",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/24/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40CA8889-0000-CB12-A5EA-80C0AECCA2B8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0289",
+      "file_name": "661_23-V-0289.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Hartford Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50B75988-0000-C388-AB6B-A12453BD4493}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0289",
+      "file_name": "T. Hartford Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/26/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50B75988-0000-CB4A-8072-EF924A6BCA1B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0289",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/26/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Hartford 5.26.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B75988-0000-C118-8F3D-860494C678B7}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0289",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Hartford 5.26.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/26/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications T. Hartford-Cover Letter Request for Renewal and Certificate of Confirmation 5.26.23SP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50B75988-0000-CF6B-A5A9-CFEB7511F809}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0289",
+      "file_name": "Charter Communications T. Hartford-Cover Letter Request for Renewal and Certificate of Confirmation 5.26.23SP.pdf"
+    }
+  ]
+}

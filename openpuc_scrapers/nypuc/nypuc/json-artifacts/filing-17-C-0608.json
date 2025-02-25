@@ -1,0 +1,71 @@
+{
+  "case": "17-C-0608",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Completion of Merger",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8891C569-FCC0-4F68-B460-E894E5126268}",
+      "organization": "Vernon Telephone Company, Inc.",
+      "itemNo": "5",
+      "docket_id": "17-C-0608",
+      "file_name": "ALBNY1-_493470-v1-Transmittal_Letter_re_Completion_of_Merger.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice to Customers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B3F76FB2-8296-41F7-B757-F0A82B57EBFE}",
+      "organization": "Vernon Telephone Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-C-0608",
+      "file_name": "ALBNY1-_489367-v1-Transmittal_Letter_re__Customer_Notices (1).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Assets And Amended Certificate of Pubic Convenience and Necessity",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8DCA735-B479-4AFD-8D84-8627EB7DA675}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-C-0608",
+      "file_name": "563_17-C-0608.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/17/2017",
+      "nypuc_doctype": "Letters",
+      "name": "17-C-0608.Stop the Clock Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C455B6A0-5AF4-47D6-949F-C968FD344640}",
+      "organization": "Oriskany Falls Telephone Corporation, Vernon Telephone Company, Inc.",
+      "itemNo": "6",
+      "docket_id": "17-C-0608",
+      "file_name": "17-C-0608.Stop the Clock Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/17/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Parent Conversion Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3A6F84B-010F-4BD9-9FA0-B95BE8717252}",
+      "organization": "Oriskany Falls Telephone Corporation",
+      "itemNo": "2",
+      "docket_id": "17-C-0608",
+      "file_name": "ALBNY1-_475508-v1-Parent_Conversion_Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/29/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Vernon Telephone Company, Inc. and Oriskany Falls Telephone Corporation for Approval of a Certificate of Merger, with Vernon Telephone Company, Inc. being the Surviving Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={849D9197-6751-4A6C-A2F5-F16E45E40887}",
+      "organization": "Oriskany Falls Telephone Corporation, Vernon Telephone Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0608",
+      "file_name": "TDS - Oriskany-Vernon Merger Petition.pdf"
+    }
+  ]
+}

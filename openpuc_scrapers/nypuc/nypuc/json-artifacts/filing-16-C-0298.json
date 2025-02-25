@@ -1,0 +1,49 @@
+{
+  "case": "16-C-0298",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/17/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "2016 NYC Tax Refund Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={253F2FAC-0760-4D54-A5BF-F06D24ABBA9F}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "16-C-0298",
+      "file_name": "2016 NYC Tax Refund Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Retention of Property Tax Refunds Subject to Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7DA8FF1F-A26B-4E03-ADD8-BC77E0745D53}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-C-0298",
+      "file_name": "561_16c0298.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Correcting Typographical Error in May 13, 2016 Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={07136B07-37F6-42E8-8B6F-F4A9717C1339}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "16-C-0298",
+      "file_name": "161128 Correction.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/13/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval Pursuant to Public Service Law Section 113(2) of a Proposed Allocation and Disposition of Certain Tax Refunds from the City of New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={62F25585-26B7-4548-A958-2CE0CD09530E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "16-C-0298",
+      "file_name": "160513 NYC Tax Refund Notification.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0543",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavits of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30634B93-0000-C128-9C16-F634A6F493F5}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-E-0543",
+      "file_name": "PSC_Notification ICAP Tags and NYCA Peak Hour Effective January 1 2025.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/01/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0E2E792-0000-C114-BA45-5DEE5B65B206}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-E-0543",
+      "file_name": "24-E-0543.OR.ICAP.PP Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0543",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0543",
+      "file_name": ""
+    }
+  ]
+}

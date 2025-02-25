@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0128",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8889C9A-118A-406B-A030-8D63FDB660F2}",
+      "organization": "Paragon JV Prop III LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0128",
+      "file_name": "Compliance Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/13/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA16E0BC-D6C8-4833-8659-4C63ABCC2F23}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0128",
+      "file_name": "368_21-E-0128 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/18/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1265F786-BAD5-453C-B3DB-2CA42708B4A9}",
+      "organization": "Paragon JV Prop III LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0128",
+      "file_name": "response letter 8-21 (1).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/25/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at a building Located at 2555 Broadway, New York, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA9D473C-531D-469D-884D-72B1986CBEEC}",
+      "organization": "Paragon JV Prop III LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0128",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

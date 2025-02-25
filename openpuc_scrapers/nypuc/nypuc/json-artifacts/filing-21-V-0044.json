@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0044",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08F4108C-D77F-4116-9181-0C98FDBC7E25}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0044",
+      "file_name": "661_21-V-0044 Cable Renewal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/11/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Eden, Erie County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={43FE59A6-3D48-4DBD-9CE4-46E09E424C65}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0044",
+      "file_name": "2021.01.11 T. EDEN RENEWAL FILED-PSC, mm.pdf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "case": "18-M-0253",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2019",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling Regarding Applicability of Public Service Law Section 70 to the Grant of Environmental Easements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1D1B33A-8168-4EA8-971A-7C9EB24836B8}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "18-M-0253",
+      "file_name": "261_18-M-0253.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1CA4A63A-09FB-4831-9016-4FAFAF3E3712}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "6",
+      "docket_id": "18-M-0253",
+      "file_name": "Transmittal Letter filing of Supplement to Petition for Declaratory Ruling.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1221103D-E449-4F21-AA5B-77316011A28B}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "6",
+      "docket_id": "18-M-0253",
+      "file_name": "Supplement to Petition for Declaratory Ruling on Environmental Easements Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Comments",
+      "name": "CECONY/O&R Comments in Support",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={785959FA-FEBF-48B7-9E85-CBB3111025D5}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "5",
+      "docket_id": "18-M-0253",
+      "file_name": "CommentsinSupport 70(1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/17/2018",
+      "nypuc_doctype": "Comments",
+      "name": "Comments in Support",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B9165E8-2306-4FD3-BE63-32968187FF9E}",
+      "organization": "KeySpan Gas East Corporation d/b/a KeySpan Energy Delivery-Long Island, Niagara Mohawk Power Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a KeySpan Energy Delivery-New York",
+      "itemNo": "4",
+      "docket_id": "18-M-0253",
+      "file_name": "18-00971-comments in support.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D14D5072-E78D-4DB2-9F0E-7D3C692B80D5}",
+      "organization": "New York State Department of Environmental Conservation",
+      "itemNo": "3",
+      "docket_id": "18-M-0253",
+      "file_name": "Response to Petition (Case 18-E-0253).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F75CB5BB-F06D-4FC0-A9B7-0E8DB3425A58}",
+      "organization": "New York State Department of Environmental Conservation",
+      "itemNo": "3",
+      "docket_id": "18-M-0253",
+      "file_name": "Cover Letter Response to Petition (Case 18-E-0253).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "05/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Response to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8177F958-8F1D-44C8-908B-BA3B3F690CF2}",
+      "organization": "New York State Department of Environmental Conservation",
+      "itemNo": "2",
+      "docket_id": "18-M-0253",
+      "file_name": "Response to Petition (Case 18-E-0253).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/10/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B105F096-480A-49F0-92C7-DA10E0E0B35F}",
+      "organization": "New York State Department of Environmental Conservation",
+      "itemNo": "2",
+      "docket_id": "18-M-0253",
+      "file_name": "Cover Letter Response to Petition (Case 18-E-0253).pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "2018-04-20 NYSEG and RG&E Petition for Declaratory Ruling",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1AF0C80-28F3-4D06-A4A5-E8B8F4E9CA24}",
+      "organization": "New York State Electric & Gas Corporation, Rochester Gas and Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "18-M-0253",
+      "file_name": "2018-04-20 NYSEG and RG&E Petition for Declaratory Ruling.pdf"
+    }
+  ]
+}

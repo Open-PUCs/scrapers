@@ -1,0 +1,115 @@
+{
+  "case": "19-E-0273",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Acceptance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CBF8430-B87D-4261-ABD7-8F1C72798A99}",
+      "organization": "260 Kent LLC",
+      "itemNo": "8",
+      "docket_id": "19-E-0273",
+      "file_name": "Letter of Acceptance.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5771BF44-1439-416C-A726-A3D479CDAEF2}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "19-E-0273",
+      "file_name": "361_19-E-0273.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/17/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D70B1A33-9F68-4E7C-A5EC-B206D8AEF775}",
+      "organization": "260 Kent LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0273",
+      "file_name": "Inquiry Response4.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Inquiry Response 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={24ECD945-E9A6-472D-9EEF-491F0787CE2D}",
+      "organization": "260 Kent LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0273",
+      "file_name": "Inquiry Response3.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/16/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "260 Utility Rider Revised",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76990999-68CC-4529-B092-9C0A73D550CC}",
+      "organization": "260 Kent LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0273",
+      "file_name": "260 Utility Rider Revised.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4732C186-AC8F-4E4A-8952-198FF41C773A}",
+      "organization": "AMPS/ELEMCO, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-E-0273",
+      "file_name": "Inquiry Response3.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB1AAAD2-E7A5-4027-96EB-714DCDDEF8FE}",
+      "organization": "AMPS/ELEMCO, Inc.",
+      "itemNo": "4",
+      "docket_id": "19-E-0273",
+      "file_name": "260 Utility Rider Revised.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/18/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Waiver Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={324AE145-09EB-4E94-A89E-BA95AE153D13}",
+      "organization": "260 Kent LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0273",
+      "file_name": "Case _ 19-E-0273 Additional Information .pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/16/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Inquiry Response to Notice of Intent to Submeter Electricity for 260 Kent LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5C88931-8F13-47D6-8329-862DB838E6A7}",
+      "organization": "AMPS/ELEMCO, Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0273",
+      "file_name": "Inquiry Response1.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "04/11/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 260 Kent LLC to Submeter Electricity at 260 Kent Avenue, Brooklyn, NY, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BD79E302-EF4F-442D-A1B6-C09371D1D8F9}",
+      "organization": "260 Kent LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0273",
+      "file_name": "Notice of Intent to Submeter 260 Kent LLC.pdf"
+    }
+  ]
+}

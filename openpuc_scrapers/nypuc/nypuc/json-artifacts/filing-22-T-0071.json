@@ -1,0 +1,38 @@
+{
+  "case": "22-T-0071",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/28/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Karla M. Corpus Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56003954-7A4B-4C04-A653-3B315E8FFA23}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-T-0071",
+      "file_name": "22-T-0071 Niagara-Packard 193-194 ACR Part 102 Letter 2.28.22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid -- Niagara-Packard 193-194 ACR Project -- Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0A4A5D19-8800-494E-A5DB-11E36D7C94CF}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-T-0071",
+      "file_name": "National Grid -- Niagara-Packard 193-194 ACR Project -- Part 102 Report.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid -- Niagara-Packard 193-194 ACR Part 102 Report -- K Corpus Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ECCBB970-2456-4484-8538-614F1C024FE8}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "22-T-0071",
+      "file_name": "National Grid -- Niagara-Packard 193-194 ACR Part 102 Report -- K Corpus Filing Letter.pdf"
+    }
+  ]
+}

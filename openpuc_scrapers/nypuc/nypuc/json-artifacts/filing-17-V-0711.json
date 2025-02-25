@@ -1,0 +1,38 @@
+{
+  "case": "17-V-0711",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/02/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={47D1A2D1-D872-4075-B078-B860BD8B5F97}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0711",
+      "file_name": "664_17-V-0711.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/11/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBD6B681-F468-4654-A2AA-1A7EF2411E86}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0711",
+      "file_name": "Proof of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Comcast of New York, LLC for Approval of the Renewal of its Franchise with Town of Hampton, Washington County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FEEFE6B-77CD-4739-98B0-0A7252E767A2}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0711",
+      "file_name": "Comcast_Town of Hampton franchise renewal application_OCR.pdf"
+    }
+  ]
+}

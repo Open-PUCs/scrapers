@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0230",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess for Appeal of Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D4A11FA-D37A-4695-BF00-29F8DE81796F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0230",
+      "file_name": "366 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/18/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15FD38CA-9518-450A-9EEA-A4AAECADB3F2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0230",
+      "file_name": "366 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/13/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2844C807-AD23-4124-8AC7-F06B97ADD6A9}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0230",
+      "file_name": "732301 Young_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/13/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8728DA0-0CDC-496B-B3EA-55E132ACF587}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-E-0230",
+      "file_name": "Young Appeal_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/13/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={877CA969-425A-4944-AEED-FC443C8F3618}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0230",
+      "file_name": "Christine Young vs Con Edison Case 732301 (1)_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "17-V-0720",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={074608C8-B87C-4B34-9C54-A655ABB37D3F}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-V-0720",
+      "file_name": "17-V-0720-Verizon-Case Closure Ltr_ (002).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500A28A2-A211-4A77-9C46-D0ACEEAF1061}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "17-V-0720",
+      "file_name": "210415 VZ Letter re Matter 17-00795.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Suspension Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFE596CA-7919-4D97-A614-D4492F0B8F4D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "17-V-0720",
+      "file_name": "201110 Letter re Matter 17-00795 (suspension).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owners",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAC847CE-8C17-41D1-9FF7-A9FEAAF703BF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-V-0720",
+      "file_name": "17-00795 Merged Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 126 West 11th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={634330ED-FEB7-4C4B-A344-3EC1130046FF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0720",
+      "file_name": "170420 Petition re 126 W 11 St.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4D13C27-128F-48F9-88E6-2BBFD0B94A7A}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0720",
+      "file_name": "Exhibit 2 (126 W 11 St).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/20/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2ED685A9-7EA9-413F-87FE-32AA155206CD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "17-V-0720",
+      "file_name": "Exhibit 1 (126 W 11 St).pdf"
+    }
+  ]
+}

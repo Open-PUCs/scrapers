@@ -1,0 +1,71 @@
+{
+  "case": "16-V-0193",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={519246D3-5387-48AE-96A9-DB19F88EF82F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0193",
+      "file_name": "665_16v0193 Final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/13/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2FECEA4-B300-42DF-9DCD-DAF32788CD03}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "2",
+      "docket_id": "16-V-0193",
+      "file_name": "Freeport Amendment Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/04/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Freeport Amendment Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE8A2294-A93A-4CF0-8B87-C4416847DF87}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0193",
+      "file_name": "Freeport Amendment Exhibit III.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/04/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Freeport Amendment Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F3C2AFD1-953A-48F9-8357-2D01F97C3FE6}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0193",
+      "file_name": "Freeport Amendment Exhibit II.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/04/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Freeport Amendment Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F128D020-4961-42FC-899B-733ADA3C5E82}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0193",
+      "file_name": "Freeport Amendment Exhibit I.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/04/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Freeport Amendment Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E2E30A96-6428-479B-A41E-0439B480B3FD}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "16-V-0193",
+      "file_name": "Freeport Amendment Application Cover Letter.pdf"
+    }
+  ]
+}

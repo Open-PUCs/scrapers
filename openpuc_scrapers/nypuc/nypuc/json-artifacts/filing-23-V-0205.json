@@ -1,0 +1,104 @@
+{
+  "case": "23-V-0205",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/30/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D00A0D89-0000-CA15-AFBD-A6FC99940BBD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-V-0205",
+      "file_name": "661_23-V-0205 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50899087-0000-C934-8B33-FF11E78D72A5}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0205",
+      "file_name": "AUSA Newspaper Cover Letter - Minisink, T..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Minisink, T.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50899087-0000-C212-A286-2602EB29A918}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "2",
+      "docket_id": "23-V-0205",
+      "file_name": "AUSA Newspaper Affidavit - Minisink, T..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90459087-0000-C35C-B954-421553AFFB7C}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0205",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Minisink, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90459087-0000-C699-AA65-92DD3ECBDF18}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0205",
+      "file_name": "Exhibit IV - Minisink, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90459087-0000-C573-97C4-6DC3E08FCD67}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0205",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90459087-0000-C8B3-BB7A-24ABC773A920}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0205",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90459087-0000-C739-BD36-6548225098D7}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0205",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/17/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90459087-0000-C21F-9642-5D975EEE73CC}",
+      "organization": "Cablevision of Warwick, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0205",
+      "file_name": "Application Cover Letter - Minisink, T..pdf"
+    }
+  ]
+}

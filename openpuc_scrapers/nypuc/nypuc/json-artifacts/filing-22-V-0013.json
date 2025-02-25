@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0013",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70B81453-A581-4EC8-B746-889087F7094F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0013",
+      "file_name": "663_22-V-0013 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5DB4A976-5AD5-4301-A634-06E4A4C65E15}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0013",
+      "file_name": "AUSA Newspaper Cover Letter - Huntington Bay.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Huntington Bay",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45B9F879-FC4D-4EEA-9452-AE8641FDA30D}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0013",
+      "file_name": "AUSA Newspaper Affidavit - Huntington Bay.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance - Huntington Bay",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FBDEC1D7-A84E-4BD8-94C9-41190277FCAE}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0013",
+      "file_name": "Proof of Performance - Huntington Bay.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Huntington Bay AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5031C63E-F086-4404-9562-C1C09AC43E8E}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0013",
+      "file_name": "Exhibit IV - Huntington Bay AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A5DFE398-007A-4052-9735-EA4EA75F710B}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0013",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={651A1F84-2750-4C58-BF1E-36F6CA00CA01}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0013",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81CBA619-6E20-4EDE-8147-00C7858CA9D2}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0013",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "01/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9C61F88B-12B4-42D0-A868-822B5C0144BF}",
+      "organization": "Cablevision Systems Huntington Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0013",
+      "file_name": "Application Cover Letter - Huntington Bay.pdf"
+    }
+  ]
+}

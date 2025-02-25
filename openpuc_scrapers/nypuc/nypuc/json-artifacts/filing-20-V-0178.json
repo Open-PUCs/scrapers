@@ -1,0 +1,104 @@
+{
+  "case": "20-V-0178",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/09/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7800017F-EA8A-4214-BC24-73BF9F7A403D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0178",
+      "file_name": "20-V-0178 Secretary Ltr. Closing Case 12.9.2020.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CF1D9268-AF08-4338-97AF-B4B210803944}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "20-V-0178",
+      "file_name": "200916 Letter re 205 E 78 St (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter re Correction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F6A1EE7-6028-45AD-B624-C0A3CC154B8D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0178",
+      "file_name": "Letter re Correction (205 E 78 St).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4E003AC1-F464-4205-A494-895155B9F037}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0178",
+      "file_name": "Corrected Petition (205 E 78 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C827E6BF-048C-4E48-BD99-7DD3FD5083C3}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0178",
+      "file_name": "Corrected Exhibit 2 (205 E 78 St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/21/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Corrected Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={378172F1-05D4-44B8-83A8-64216574C11E}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "20-V-0178",
+      "file_name": "Corrected Exhibit 1 (205 E 78 St).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 205 East 78th Street, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FD6962A-43AB-4DCB-AC0B-033CF7C64968}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0178",
+      "file_name": "Petition (220 W 98 St).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F221F200-6BE8-4CDE-96E4-AAF18223B214}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0178",
+      "file_name": "Exhibit 2 (220 W 98 St).pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "03/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52CA5F25-CBAE-4BFB-848D-EE02897DFEC5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "20-V-0178",
+      "file_name": "Exhibit 1 (220 W 98 St).pdf"
+    }
+  ]
+}

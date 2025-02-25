@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0242",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={33268BD9-EACA-47EB-BFF0-15F6C20431FB}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0242",
+      "file_name": "667_21-V-0242 Cable Renewal final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Johnstown, Fulton County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFB60700-5046-471A-8D3A-11D596F7E1CE}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0242",
+      "file_name": "T. Johnstown to be filed with PSC.pdf"
+    }
+  ]
+}

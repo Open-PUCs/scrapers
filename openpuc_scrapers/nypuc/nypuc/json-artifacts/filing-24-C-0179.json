@@ -1,0 +1,38 @@
+{
+  "case": "24-C-0179",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon New York Inc. Third Quarter 2024 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05F2B93-0000-CB18-9D78-FD99F418ECCD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-C-0179",
+      "file_name": "561_24-C-0179 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon New York Inc. Second Quarter 2024 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0495791-0000-C91A-8907-F9D91C23825E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-C-0179",
+      "file_name": "562_24-C-0179.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon New York Inc. First Quarter 2024 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={904D828F-0000-C01E-A430-1FB14A9BFC65}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-C-0179",
+      "file_name": "561_24-C-0179.pdf"
+    }
+  ]
+}

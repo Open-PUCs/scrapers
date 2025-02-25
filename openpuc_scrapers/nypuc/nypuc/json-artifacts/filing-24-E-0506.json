@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0506",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/01/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DDE792-0000-CF19-9B34-CEAD271EF1ED}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0506",
+      "file_name": "24-E-0506.ConEd.ICAP.PP Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10AFB992-0000-C865-ADF2-9FE0D2F906D5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-E-0506",
+      "file_name": "CE Elec Proof of Publication ICAP.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "24-E-0506",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/06/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0506",
+      "file_name": ""
+    }
+  ]
+}

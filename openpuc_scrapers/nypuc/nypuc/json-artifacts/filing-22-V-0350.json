@@ -1,0 +1,60 @@
+{
+  "case": "22-V-0350",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={766B2D83-D9CC-4F9B-87F1-9F60E7212FB3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-V-0350",
+      "file_name": "661_22-V-0350.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/13/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3420202-692D-41AA-BCDB-45EA8CD091D8}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0350",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/13/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Bleecker Cover Letter Request -Franchise Renewal, Certificate of Confirmation 6.13.2022",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={419440BA-FE45-4A19-A88A-A2CDCA8DEDAC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0350",
+      "file_name": "Charter Communications, T. Bleecker Cover Letter Request -Franchise Renewal, Certificate of Confirmation 6.13.2022.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2022",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Communications Confidential Treatment Request to RAO T. Bleecker-6.13.22 R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2FCB0FD4-66DB-42BB-BEE4-6781146DD047}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0350",
+      "file_name": "Charter Communications Confidential Treatment Request to RAO T. Bleecker-6.13.22 R-2.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "2022.06.13 - Charter Communications T. Bleecker Request for Renewal and Certificate of Confirmation REDACTED_ke",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3BED98B4-BB25-4AD0-A7AE-2EED397930AC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0350",
+      "file_name": "2022.06.13 - Charter Communications T. Bleecker Request for Renewal and Certificate of Confirmation REDACTED_ke.pdf"
+    }
+  ]
+}

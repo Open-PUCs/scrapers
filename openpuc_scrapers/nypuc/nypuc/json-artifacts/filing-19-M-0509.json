@@ -1,0 +1,49 @@
+{
+  "case": "19-M-0509",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0509 Halsdorf Ack Letter 07172019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D36F7D88-1B25-4B94-99EB-457D0CEC6D30}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-M-0509",
+      "file_name": "19-M-0509 Halsdorf Ack Letter 07172019_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-M-0509 Halsdorf Rehearing Request 07152019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8DA229F-1FF6-47B4-A0B0-890CBB8BE310}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-M-0509",
+      "file_name": "19-M-0509 Halsdorf Rehearing Request 07152019_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-M-0509 Halsdorf SMD Final 06172019_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={85327732-8B83-46AD-A5AC-047107679D37}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-M-0509",
+      "file_name": "19-M-0509 Halsdorf SMD Final 06172019_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/24/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C2DB824-6BF0-4FC7-B9A0-49EFD6411921}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-M-0509",
+      "file_name": "262 Letter_Redacted.pdf"
+    }
+  ]
+}

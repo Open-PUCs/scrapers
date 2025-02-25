@@ -1,0 +1,71 @@
+{
+  "case": "22-W-0182",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "DEC WSA Permit, Cramer Woods Extension 230125",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08BBF678-71A4-4B97-A4B3-BD2C84FC8AD0}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-W-0182",
+      "file_name": "DEC WSA Permit, Cramer Woods Extension 230125.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/03/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={161E0B37-FF05-44A4-94DD-9F79D02ABCD8}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-W-0182",
+      "file_name": "22-W-0182 230203 Compliance Cover Ltr to Phillips w permit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2022",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={98C3716B-22EF-46ED-8E8C-2AC39EF5E131}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-W-0182",
+      "file_name": "461_22-W-0182_Neg Dec.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Water Supply Agreement and Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88DBB925-41A3-42D0-B567-B55E3A12D4C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-W-0182",
+      "file_name": "461_22-W-0182 Order.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-CW Petition to Extn Serv Area",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={560E34B7-A55C-4C2E-8091-597CEDD6F060}",
+      "organization": "Cramer Woods Apartments Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-W-0182",
+      "file_name": "SWS-CW Petition to Extn Serv Area 220329.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/29/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "SWS-CW Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E2E0A8D-CAC3-4C5A-AF70-0FF164915D5F}",
+      "organization": "Cramer Woods Apartments Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-W-0182",
+      "file_name": "SWS-CW Letter of Transmittal 220329.pdf"
+    }
+  ]
+}

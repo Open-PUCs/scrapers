@@ -1,0 +1,71 @@
+{
+  "case": "22-E-0117",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7068D08C-0000-C313-9528-AF79BB7C4C69}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0117",
+      "file_name": "389_22-E-0117_Letter final 1324.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2024",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7068D08C-0000-C33B-A1FD-B95354311A04}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-E-0117",
+      "file_name": "389_22-E-0117_Determination final 1324.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/24/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Carnegie Management - Response to National Grid Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C1D85A3-6EE0-4B3D-8ACE-3716C2D42E7A}",
+      "organization": "Carnegie Management, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-E-0117",
+      "file_name": "Carnegie Management - Response to National Grid Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D7173D3-82B4-49C7-92A2-A50B1BA0DD7C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0117",
+      "file_name": "819612 Ack ltr Nat Grid V Carnegie Mgt_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "National Grid Appeal Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A91A89C4-943B-453E-BDAD-94AC78F933B7}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0117",
+      "file_name": "819612 National Grid Appeal Letter_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/24/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={082943C7-030B-47A9-A610-2F07176FF54C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0117",
+      "file_name": "819612 IHD (2)_Redacted.pdf"
+    }
+  ]
+}

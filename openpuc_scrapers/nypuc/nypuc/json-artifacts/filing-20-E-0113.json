@@ -1,0 +1,82 @@
+{
+  "case": "20-E-0113",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Errata Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4FFA9801-2362-479F-8D66-CB8F38DB7B1F}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "20-E-0113",
+      "file_name": "18-E-0130 et al._Errata Notice Regarding DLM Programs.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "6",
+      "docket_id": "20-E-0113",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Establishing Term-Dynamic Load Management and Auto-Dynamic Load Management Program Procurements and Associated Cost-Recovery",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={666B1C6D-830A-4BDE-A749-DA5E1D71B714}",
+      "organization": "     Errata Notice - 09/22/2020",
+      "itemNo": "Public Service Commission",
+      "docket_id": "20-E-0113",
+      "file_name": "5"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/02/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Amendments to Electric Tariff Schedule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3A4341F6-3E22-4C6D-BB77-A2BFC9DE898F}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0113",
+      "file_name": "e.20-E-0113.OR.pp1.7.1.20.FINAL.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/25/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "OR Elec Affidavits of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E31289A-EE38-4D52-B54B-09CFF31E9D9C}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-E-0113",
+      "file_name": "OR Elec Affidavits of Publication DLM Filing Updates 062520.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/18/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "2",
+      "docket_id": "20-E-0113",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/06/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-E-0113",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "case": "23-W-0724",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/21/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0EAAF92-0000-C621-92FD-B345A5EE8371}",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "11",
+      "docket_id": "23-W-0724",
+      "file_name": "Case Number 23-W-0724 - Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/01/2024",
+      "nypuc_doctype": "Notices",
+      "name": "Erratum Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={706E4892-0000-C915-8129-39306198824C}",
+      "organization": "Public Service Commission",
+      "itemNo": "10",
+      "docket_id": "23-W-0724",
+      "file_name": "23-W-0724 Erratum Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "9",
+      "docket_id": "23-W-0724",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement, Rate Design, and Directing Cancellation of the Capitalization Refund Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={008D1092-0000-C711-A144-7BEE8B718B48}",
+      "organization": "     Erratum Notice - 10/01/2024",
+      "itemNo": "Public Service Commission",
+      "docket_id": "23-W-0724",
+      "file_name": "8"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/12/2024",
+      "nypuc_doctype": "Orders",
+      "name": "FURTHER POSTPONEMENT of a Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E033A790-0000-C917-B3F8-8C2E16AA7272}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "23-W-0724",
+      "file_name": "23-W-0724.Warwick.FPP.10.1.24.Signed.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "6",
+      "docket_id": "23-W-0724",
+      "file_name": ""
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/25/2024",
+      "nypuc_doctype": "Orders",
+      "name": "POSTPONEMENT of a Minor Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5029768E-0000-C916-9301-9CE988D28003}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-W-0724",
+      "file_name": "w.23-W-0724.WarwickWater.PP.Signed.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "4",
+      "docket_id": "23-W-0724",
+      "file_name": ""
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/20/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Minor Rate Filing Customer Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D6C78D-0000-C514-9DF2-811C7FE8F6EA}",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "3",
+      "docket_id": "23-W-0724",
+      "file_name": "2024.02.20 Case 23-W-0724 Customer Notice.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Tariffs",
+      "name": "Warwick Work Papers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F032838C-0000-C31B-9BAC-780B66BD8C88}",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "2",
+      "docket_id": "23-W-0724",
+      "file_name": "ATT. Warwick Work Papers.xlsx"
+    },
+    {
+      "serial": "11",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Tariffs",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F032838C-0000-C931-9EE0-649BC152614B}",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "2",
+      "docket_id": "23-W-0724",
+      "file_name": "LETT.Warwick Water Corp..pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Warwick Water Corporation",
+      "itemNo": "1",
+      "docket_id": "23-W-0724",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "18-V-0555",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5EED23FD-2D02-406C-B119-08150CC28FFE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-V-0555",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "T. Allegany Public Hearing & Application Legal Notices w/Tear Sheets",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={81A54BAD-A7DD-4962-9626-B3B4416EBAB1}",
+      "organization": "Charter Communications",
+      "itemNo": "3",
+      "docket_id": "18-V-0555",
+      "file_name": "PSC Case 18-V-0555 T.Allegany request for addl docs(tear sheets)11.05.18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Town of Allegany Franchise - Resubmitted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BCF75F3-66FC-4B79-A363-8D4EF5E49356}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0555",
+      "file_name": "08.29.18(2) - TWN ALLEGANY NY RENEWAL SUBMISSION TO PSC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Allegany, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3ACB816D-B93C-4AA2-B855-FC89ECF39866}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0555",
+      "file_name": "08.29.18 - TWN ALLEGANY, NY RENEWAL SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

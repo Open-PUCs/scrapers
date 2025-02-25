@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0511",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5B9380A-A2A0-4752-8BC7-E9F861515DEC}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0511",
+      "file_name": "665_19-V-0511.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/17/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Highland, County of Sullivan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={89BA768E-C7EF-487B-A7C5-EF72AC4ECFAF}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0511",
+      "file_name": "T Highland Renewal Submission to PSC 062419(2).pdf"
+    }
+  ]
+}

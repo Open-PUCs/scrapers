@@ -1,0 +1,71 @@
+{
+  "case": "24-M-0175",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20C94A93-0000-CA11-90A4-D277AD018F9A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-M-0175",
+      "file_name": "262_24-M-0175_112024final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Takes Action Against Three ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={208F2B93-0000-CA50-8BE9-387A29C60622}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-M-0175",
+      "file_name": "pr 24099 ESCOs.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={107D4B90-0000-C318-9FE7-4ED7C38E38B7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-M-0175",
+      "file_name": "262_24-M-0175 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Relief Energy LLC NOAV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F6098E-0000-C117-9A71-0747967F4AF1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-M-0175",
+      "file_name": "Relief Energy LLC NOAV 3.4.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Attachment 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F6098E-0000-C955-840E-F0737107B693}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-M-0175",
+      "file_name": "Overdue Annual Compliance Relief Energy LLC (1).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/04/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Attachment 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60F6098E-0000-C23A-853D-6A8536F8FDFE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-M-0175",
+      "file_name": "ESCO Annual Compliance Reminder 15362RE - Relief Energy LLC (Display Name_ Relief Energy LLC) _ Msg. Tracking No _90.pdf"
+    }
+  ]
+}

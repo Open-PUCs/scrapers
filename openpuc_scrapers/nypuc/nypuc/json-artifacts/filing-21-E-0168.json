@@ -1,0 +1,60 @@
+{
+  "case": "21-E-0168",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Confirming Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC5F6496-EC93-4DAC-B9DE-42C3331F4097}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-E-0168",
+      "file_name": "370_21-E-0168 Confirming Order final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/25/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "21-E-0168",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/21/2021",
+      "nypuc_doctype": "Orders",
+      "name": "One Commissioner Order Approving Tariff Amendments with Modifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={12C5FC77-6FBC-451B-A4DF-523B62CB7664}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0168",
+      "file_name": "374_21-E-0168 - NMPC CESS Tariffs One Commissioner Order mp rvwd.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/06/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "21-E-0168",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/15/2021",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "21-E-0168",
+      "file_name": ""
+    }
+  ]
+}

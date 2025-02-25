@@ -1,0 +1,27 @@
+{
+  "case": "16-T-0697",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/19/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Certificates With Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4113ECEA-9717-4339-8361-CAFAEC5B42A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-T-0697",
+      "file_name": "170_16-T-0697.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of the Jamestown Board of Public Utilities, New York and EmKey Transportation, Inc., for Approval of the Transfer of the Certificates of Environmental Compatibility and Public Need Issued for a Gas Pipeline Located in the Towns of Ellicott and Gerry and the City of Jamestown, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8F9E6B41-F9D7-4F42-BA08-457196435943}",
+      "organization": "Emkey Transportation, Inc., Jamestown Board of Public Utilities",
+      "itemNo": "1",
+      "docket_id": "16-T-0697",
+      "file_name": "Final w-Cvr Ltr Section 121 Petition to Transfer EmKey Envt'l Certificates.pdf"
+    }
+  ]
+}

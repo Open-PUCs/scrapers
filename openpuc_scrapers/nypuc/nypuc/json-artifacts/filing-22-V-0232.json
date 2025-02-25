@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0232",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/24/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55082F81-0691-4CC2-8EA8-6595C7B4FD76}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0232",
+      "file_name": "663_22-V-0232.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/28/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={436281B4-E741-4E62-B0D2-30E9B97A5E0D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "2",
+      "docket_id": "22-V-0232",
+      "file_name": "HPB Supplemental Exhibit E.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for Approval of the Renewal of a Cable Television Franchise with the Village of Hewlett Bay Park, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={371AE78F-50BA-4962-A132-70B44099C7FF}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0232",
+      "file_name": "Hewlett Bay Park Renewal Petition (Complete).pdf"
+    }
+  ]
+}

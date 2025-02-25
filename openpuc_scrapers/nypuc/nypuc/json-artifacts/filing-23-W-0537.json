@@ -1,0 +1,82 @@
+{
+  "case": "23-W-0537",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/25/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "VWNY Customer Notification Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30D94F90-0000-CF1C-B12C-E8C371A9856E}",
+      "organization": "Veolia Water New York, Inc., Veolia Water-Owego Nichols Inc.",
+      "itemNo": "6",
+      "docket_id": "23-W-0537",
+      "file_name": "VWNY 23-W-0537 - Customer Notification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Veolia Water New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "23-W-0537",
+      "file_name": ""
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/17/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Directing Assessment of Infrastructure Costs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00BB878F-0000-CE31-B6E8-F59753E81B99}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-W-0537",
+      "file_name": "462_23-W-0537 51724fnl.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Owego IR Exhibit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D57D8F-0000-C03E-817F-3A43C26DC057}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-W-0537",
+      "file_name": "Village of Owego Case 23-W-0537 IR Exhibit.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/15/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70D57D8F-0000-C61D-B632-809BC5CB9E78}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-W-0537",
+      "file_name": "Cover Letter for the Village of Owego Case 23-W-0537.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/14/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Village of Owego Petition Revised Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={500F3D8E-0000-C31A-B176-BEB57C3C3D63}",
+      "organization": "Village of Owego",
+      "itemNo": "2",
+      "docket_id": "23-W-0537",
+      "file_name": "Village of Owego Petition Revised Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/19/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Village of Owego for Approval to Charge Costs for Infrastructure Maintenance and Access to all Customers in the Village of Owego.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90BCAE8A-0000-C415-A468-CE4B5CE2FF12}",
+      "organization": "Village of Owego",
+      "itemNo": "1",
+      "docket_id": "23-W-0537",
+      "file_name": "Village of Owego Petition.pdf"
+    }
+  ]
+}

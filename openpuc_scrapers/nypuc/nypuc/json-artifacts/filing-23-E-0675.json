@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0675",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter for the submeter installation at 25 North Lexington Avenue, White Plains.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50C25990-0000-CE19-8FBE-4BCFA0283D97}",
+      "organization": "GS White Plains Owner, LLC",
+      "itemNo": "6",
+      "docket_id": "23-E-0675",
+      "file_name": "meter installation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Service meter test plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50335690-0000-C712-A690-34CF643FDD00}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "5",
+      "docket_id": "23-E-0675",
+      "file_name": "Service meter test plan.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/18/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance letter.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3095F28E-0000-C813-97FB-136F155144A1}",
+      "organization": "GS White Plains Owner, LLC",
+      "itemNo": "4",
+      "docket_id": "23-E-0675",
+      "file_name": "compliance letter (2).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20D25C8E-0000-CA37-9F70-4ACDD28407C5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0675",
+      "file_name": "363_23-E-0675.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/30/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional information requested for 25 North Lexington Avenue, White Plains, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0B1208C-0000-C116-A292-8093C90D9F65}",
+      "organization": "GS White Plains Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "23-E-0675",
+      "file_name": "response letter 11-30-23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "11/14/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of GS White Plains Owner, LLC to Submeter Electricity at 25 North Lexington Avenue, White Plains, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={507ACE8B-0000-CC1F-BE97-9DAC34B6B6FA}",
+      "organization": "GS White Plains Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "23-E-0675",
+      "file_name": "submetering application (27).pdf"
+    }
+  ]
+}

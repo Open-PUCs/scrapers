@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0051",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing of Case 22-G-0051 dated 3-16-22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F22E0BB-6D6E-4ED0-A42F-17757A6048D8}",
+      "organization": "Park East Construction Corp.",
+      "itemNo": "4",
+      "docket_id": "22-G-0051",
+      "file_name": "Petition for Rehearing of Case 22-G-0051 dated 3-16-22.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/17/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "PEC Response Letter 7-14-21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EFB39B50-9573-4A82-A8AC-23638A4C462C}",
+      "organization": "Park East Construction Corp.",
+      "itemNo": "4",
+      "docket_id": "22-G-0051",
+      "file_name": "PEC Response Letter 7-14-21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/28/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8F54FBE-C37C-4F04-B769-1E0A095FFF36}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0051",
+      "file_name": "161-A_22-G-0051.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "16-W-0374",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/06/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notification Letters to Customers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7B46A15-B5D4-4F2A-9B6F-C661EC613D5C}",
+      "organization": "Deans Corners Water Works, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-W-0374",
+      "file_name": "Customer Notification Compliance Filing 2-6-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Initial Rates",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68C55BFB-090F-4CAE-899E-930C5AC1CEA9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-W-0374",
+      "file_name": "463_16w0374.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/30/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Initial Rate Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B385958-732D-4279-86EE-609F6941FE9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-W-0374",
+      "file_name": "16-W-0374 Postponement.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Deans Corners Water Works, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-W-0374",
+      "file_name": ""
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/20/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Deans Corners Water Works, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0374",
+      "file_name": ""
+    }
+  ]
+}

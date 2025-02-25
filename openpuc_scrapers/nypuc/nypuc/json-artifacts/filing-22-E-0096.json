@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0096",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/14/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Appeal Withdrawal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7020C991-C0C3-4D74-AC45-415521B41636}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "22-E-0096",
+      "file_name": "Con Edison Appeal Withdrawal.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/15/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={094B4751-8DC4-4CD6-A8E3-CD99EA8DC57D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "22-E-0096",
+      "file_name": "154735 appeal ack ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/15/2022",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AA2C645D-FCE1-45C9-BAAD-791F34F7E024}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "22-E-0096",
+      "file_name": "154735 Appeal email Urban Glass.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7EDD894C-1408-4630-9026-8EDBB5392764}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "22-E-0096",
+      "file_name": "154735 IHD Urban Glass.pdf"
+    }
+  ]
+}

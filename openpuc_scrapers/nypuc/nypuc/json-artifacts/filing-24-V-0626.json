@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0626",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "24-02021 Letter to Building Owner 3012 21 St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00DA9A92-0000-C91F-9F17-1F41CD43DA32}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "24-V-0626",
+      "file_name": "24-02021 Letter to Building Owner 3012 21 St.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition - 3012 21st Street - Order of Access",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109A3492-0000-C25C-8E8B-EA3F64279BD7}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0626",
+      "file_name": "Petition - 3012 21st Street - Order of Access.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2 - 3012 21st St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109A3492-0000-CF10-96C2-92385056F554}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0626",
+      "file_name": "Exhibit 2 - 3012 21st St.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1 - 3012 21st St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={109A3492-0000-C93D-A5AE-B9124630D0A5}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0626",
+      "file_name": "Exhibit 1 - 3012 21st St.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/27/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009A3492-0000-CC19-BC17-51168F9A1E4A}",
+      "organization": "Spectrum New York Metro, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0626",
+      "file_name": "Filing Cover Letter - Order of Access 2024 - 3012 21st.pdf"
+    }
+  ]
+}

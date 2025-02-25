@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0045",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/01/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Confirmation of Creation and Funding of Account",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0799A8E-0000-C31D-8EA2-89F359214C04}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "3",
+      "docket_id": "24-G-0045",
+      "file_name": "Greenpoint Letter 4-1-24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/15/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Settlement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8046438E-0000-CA19-A989-32D49D5D05D5}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-G-0045",
+      "file_name": "163_24-G-0045_31524 Order & Attachment.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/14/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - National Grid Shareholders Pay $1.7 Million for Brooklyn Gas Incident",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B09E3D8E-0000-C011-BE81-74FC7BEB8588}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-G-0045",
+      "file_name": "pr24021.pdf"
+    }
+  ]
+}

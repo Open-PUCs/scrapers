@@ -1,0 +1,104 @@
+{
+  "case": "16-G-0200",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/01/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Declaratory Ruling and Granting Approval Pursuant to the Public Service Law",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={443ED136-8082-4A11-B38A-707882F4792A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-G-0200",
+      "file_name": "162_16g0200.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97A29933-A0AD-49E1-874D-D546B2C224EC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-G-0200",
+      "file_name": "16-G-0200 Signed EAF.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/24/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF-Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04CAD4AF-589D-4282-B864-20F9F6AB8584}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-G-0200",
+      "file_name": "16-G-0200 Signed EAF-Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69B1A341-5CD1-4D32-ADE7-31A41B67DFBE}",
+      "organization": "Corning Natural Gas Holding Corporation",
+      "itemNo": "2",
+      "docket_id": "16-G-0200",
+      "file_name": "Case 16-G-0200 - CNGHC - EAF.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C222B323-9834-4DB0-8933-607FEFA4D5E7}",
+      "organization": "Corning Natural Gas Holding Corporation",
+      "itemNo": "2",
+      "docket_id": "16-G-0200",
+      "file_name": "Letter to Secretary Burgess.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Coming Natural Gas Holding Corporation for Declaratory Ruling or, in the Alternative, Approval, Pursuant to Section 70 of the Public Service Law, of Stock Acquisition.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={346AF489-8DD2-4AF1-97BF-0CC52051A66E}",
+      "organization": "Corning Natural Gas Holding Corporation",
+      "itemNo": "1",
+      "docket_id": "16-G-0200",
+      "file_name": "Petition of Corning Natural Gas Holding Corp..pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E711480A-41A5-4421-95B6-700C1FEFFA31}",
+      "organization": "Corning Natural Gas Holding Corporation",
+      "itemNo": "1",
+      "docket_id": "16-G-0200",
+      "file_name": "Letter to Hon. K. Burgess.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendix B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ED728ABF-9C38-481E-AFF2-3CDF87D3AD2D}",
+      "organization": "Corning Natural Gas Holding Corporation",
+      "itemNo": "1",
+      "docket_id": "16-G-0200",
+      "file_name": "Appendix B.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/11/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Appendix A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8CF63D4-5F98-4B96-9E84-4D4E530423AD}",
+      "organization": "Corning Natural Gas Holding Corporation",
+      "itemNo": "1",
+      "docket_id": "16-G-0200",
+      "file_name": "Appendix A.pdf"
+    }
+  ]
+}

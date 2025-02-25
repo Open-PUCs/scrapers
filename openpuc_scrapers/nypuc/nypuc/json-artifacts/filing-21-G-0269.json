@@ -1,0 +1,38 @@
+{
+  "case": "21-G-0269",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7C12F2F-AFF7-48C7-8A30-A6A95B3B926B}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "21-G-0269",
+      "file_name": "162-C_21-G-0269 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/25/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "City of Mount Vernon",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7BEB4E03-A1A9-4615-A2D1-BB971D76661D}",
+      "organization": "City of Mount Vernon",
+      "itemNo": "5",
+      "docket_id": "21-G-0269",
+      "file_name": "City of Mount Vernon.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/05/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FBC8DED-75CF-455C-B357-76E991C62537}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0269",
+      "file_name": "164-A_21-G-0269.pdf"
+    }
+  ]
+}

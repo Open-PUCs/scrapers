@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0647",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Owner SMR Request Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00304093-0000-CF28-832B-DB193C9C0E0F}",
+      "organization": "Atanasov Properties LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0647",
+      "file_name": "Owner SMR Request Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Letters",
+      "name": "336276 Bobbit SMD Final 08282024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90224093-0000-C710-BE9D-40C3FAAAF6FA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0647",
+      "file_name": "336276 Bobbit SMD Final 08282024_Redacted.pdf"
+    }
+  ]
+}

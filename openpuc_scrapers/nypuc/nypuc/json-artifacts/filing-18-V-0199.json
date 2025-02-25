@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0199",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10C23E7C-176D-448D-8EB1-133F8E30BD00}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0199",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/07/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "18-V-0199 T. Mount Morris R-2, 11.05.18",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={942E1DA5-53CA-4DF5-B3F1-1DE42708B0AA}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "18-V-0199",
+      "file_name": "18-V-0199 T. Mount Morris R-2, 11.05.18.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/29/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Mount Morris, Livingston County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={88A1EEBF-6380-4CF9-8CF4-11101FC52678}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0199",
+      "file_name": "03.29.18 T.MOUNT MORRIS FRANCHISE SUBMISSION TO PSC.pdf"
+    }
+  ]
+}

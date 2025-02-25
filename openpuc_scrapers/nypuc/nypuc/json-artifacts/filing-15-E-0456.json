@@ -1,0 +1,82 @@
+{
+  "case": "15-E-0456",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice to Residents",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03170213-EF59-4EDD-A2AF-89ECB5372D62}",
+      "organization": "12393 Owners Corp.",
+      "itemNo": "6",
+      "docket_id": "15-E-0456",
+      "file_name": "Notice to Residents.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/08/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8AE30E8-1499-4855-9FE8-BD190F57ECA2}",
+      "organization": "12393 Owners Corp.",
+      "itemNo": "6",
+      "docket_id": "15-E-0456",
+      "file_name": "Affidavit.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/29/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Meter Test Plan for Submetering at 123 W93rd St. NY NY 10025",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97AF2D19-3389-4F76-8955-F9CA9D98170E}",
+      "organization": "12393 Owners Corp.",
+      "itemNo": "5",
+      "docket_id": "15-E-0456",
+      "file_name": "NYPSC annual in-serivce submeter report .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/30/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={49A9FA59-4F5D-418B-A45B-789B19D6FEE4}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-E-0456",
+      "file_name": "368_15e0456.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/05/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Addendum to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94513620-A1D7-4BD3-854B-717014EAA997}",
+      "organization": "12393 Owners Corp.",
+      "itemNo": "3",
+      "docket_id": "15-E-0456",
+      "file_name": "Addendum to Petition.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/11/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition For Submetering. Additional Information with Attachments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EB14A341-4A09-442F-B750-DF5ACEABF5AD}",
+      "organization": "12393 Owners Corp.",
+      "itemNo": "2",
+      "docket_id": "15-E-0456",
+      "file_name": "Petition For Submetering. Additional Information with Attachments.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/03/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 12393 Owners Corp. to Submeter Electricity at 123 W 93rd Street, Manhattan, NY 10025, Located in the Territory of Consolidated Edison Company Of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={651749E7-8D9E-4186-9FC5-6CEA51C4D3E4}",
+      "organization": "12393 Owners Corp.",
+      "itemNo": "1",
+      "docket_id": "15-E-0456",
+      "file_name": "Petition For Submetering. 12393 Owners Corp.pdf"
+    }
+  ]
+}

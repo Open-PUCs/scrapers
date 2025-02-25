@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0459",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2086B592-0000-C31D-B5F1-73EC294FF302}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0459",
+      "file_name": "661_24-V-0459.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70320A91-0000-C55A-AB89-EA47D2F485A6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0459",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Lee 7.31.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70320A91-0000-CF1D-8EC8-30FC1D39060E}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0459",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Lee 7.31.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Lee-Request for Renewal and Certificate of Confirmation(redacted) 7.31.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70320A91-0000-CE93-9E54-6F7377CA87DC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0459",
+      "file_name": "Charter Communications, T. Lee-Request for Renewal and Certificate of Confirmation(redacted) 7.31.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/31/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Lee-Cover Letter-Request for Renewal and Certificate of Confirmation 7.31.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70320A91-0000-CE73-9503-C8D6FD2EB146}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0459",
+      "file_name": "Charter Communications, T. Lee-Cover Letter-Request for Renewal and Certificate of Confirmation 7.31.24.pdf"
+    }
+  ]
+}

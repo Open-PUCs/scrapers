@@ -1,0 +1,82 @@
+{
+  "case": "16-E-0481",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/01/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D75FBB3-37AE-4E18-9D03-1C47A6C11487}",
+      "organization": "Electrotech Service Equipment",
+      "itemNo": "2",
+      "docket_id": "16-E-0481",
+      "file_name": "Electrotech Service Equipment Corporation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "UL Approval Certificate",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={317F9A3C-40C6-43F2-90EF-6D1329879D3D}",
+      "organization": "Panel Components & Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0481",
+      "file_name": "UL Approval Certificate.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={303B59D9-B61A-4EC4-A20B-372F1E6BC8DF}",
+      "organization": "Panel Components & Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0481",
+      "file_name": "Letter of Intent - Electrotech Service Equipment Corp.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "DKM-411 Data Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82627B02-2900-441A-B242-748433BAE61F}",
+      "organization": "Panel Components & Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0481",
+      "file_name": "DKM-411 Data Sheet.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A26BBE18-B962-4AB5-86CD-CEF4718FB873}",
+      "organization": "Panel Components & Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0481",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Certificate of Calibration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E6BA2952-CCE4-43F9-A213-4050034F6D63}",
+      "organization": "Panel Components & Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0481",
+      "file_name": "Certificate of Calibration.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/22/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6384BC3-C122-4A99-84F2-6A1E759C8BCA}",
+      "organization": "Panel Components & Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-E-0481",
+      "file_name": "Application for NY DPS Approval - PC&S Inc.pdf"
+    }
+  ]
+}

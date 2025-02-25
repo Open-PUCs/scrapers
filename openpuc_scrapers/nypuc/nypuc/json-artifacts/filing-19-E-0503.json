@@ -1,0 +1,60 @@
+{
+  "case": "19-E-0503",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of the Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C12C4249-01EA-43E3-B7F4-3B83B6FF8E5F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "19-E-0503",
+      "file_name": "840438 East River Housing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3233A5B-9E4D-46BA-99CC-D1E52E957259}",
+      "organization": "East River Housing Corporation",
+      "itemNo": "4",
+      "docket_id": "19-E-0503",
+      "file_name": "East River Housing- Appeal Letter w Exs-OCR.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "May 31, 2019 Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={21BC6D34-B8BB-495E-8885-30ED4782EA7F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0503",
+      "file_name": "Case840438EastRiverHousingvsConEd.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Extension to Appeal the Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5A407CB-7F81-4D9E-97F1-5F7683FE2061}",
+      "organization": "East River Housing Corporation",
+      "itemNo": "2",
+      "docket_id": "19-E-0503",
+      "file_name": "Case 840438- East River Housing Ltr. to Secretary Burgess 05.28.19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/12/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D755B911-E0A0-40BC-8798-322310A73EEC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-E-0503",
+      "file_name": "East River Housing - UtiliSave vs Con Edison case 840438.pdf"
+    }
+  ]
+}

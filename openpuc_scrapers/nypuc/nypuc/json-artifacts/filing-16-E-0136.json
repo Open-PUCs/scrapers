@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0136",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E1CEA8F-D8DD-4022-BB95-B3AA8289B0E1}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0136",
+      "file_name": "362_16e0136.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/09/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of IGI-GGP Renwick LLC to Submeter Electricity at 15 Renwick Street, New York, NY 10013, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5A4A926E-85F2-498A-8B25-4E8814620156}",
+      "organization": "IGI-GGP Renwick LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0136",
+      "file_name": "submetering application 3-9-16.pdf"
+    }
+  ]
+}

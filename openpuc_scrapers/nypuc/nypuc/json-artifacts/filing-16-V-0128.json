@@ -1,0 +1,82 @@
+{
+  "case": "16-V-0128",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C8A11C87-ED56-4D27-880C-95A712A8D755}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-V-0128",
+      "file_name": "663_16v0128.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Fishkill Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1762154E-7EB3-463A-A267-9D82917ABE14}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-V-0128",
+      "file_name": "Fishkill Affidavit of Publication.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Fishkill Town Exhibit IV",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42687A29-D5B1-4947-92B5-E85A97959F01}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0128",
+      "file_name": "Fishkill Town Exhibit IV.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Fishkill Town Exhibit III",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6FA8F716-5275-4CFD-842F-562A229CA268}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0128",
+      "file_name": "Fishkill Town Exhibit III.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Fishkill Town Exhibit II",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CEC48E06-DD65-4FC1-A47C-046A9D9AB384}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0128",
+      "file_name": "Fishkill Town Exhibit II.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Fishkill Town Exhibit I",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EE4B0480-1C70-4A6E-BFE1-A54BBA54816F}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0128",
+      "file_name": "Fishkill Town Exhibit I.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/26/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Fishkill Town Application Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D664113C-C057-4ECD-AB0E-8367D729E618}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-V-0128",
+      "file_name": "Fishkill Town Application Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0673",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C3DF83C0-C8FD-4506-8119-9A31A88A5D5F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0673",
+      "file_name": "661_22-V-0673.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-01857 Letter to Building Owner 10.12.22_Avenue A",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16CEF6BA-1660-4B33-8445-E87F15DB15C1}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0673",
+      "file_name": "22-01857 Letter to Building Owner 10.12.22_Avenue A.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 85 Avenue A, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7FAEC7C0-65AA-4F19-A077-CEA33666CAC4}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0673",
+      "file_name": "220921-4 Petition (85 AVENUE A) (Post-Survey).pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0634",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 11 07 Acknowledgement Letter__Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80DF3093-0000-CC3D-9A2A-472C21D63CB6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0634",
+      "file_name": "2024 11 07 Acknowledgement Ltr - Setton v ConEd - DMM 24-E-0634__Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/07/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 11 07 Appeal of Informal Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00740893-0000-C52C-A302-765032151C78}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0634",
+      "file_name": "2024 11 07 Appeal of Informal Decision #262869_Redacted (DMM).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/07/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 11 05 Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={605D0893-0000-C237-88B5-C72BCF026A35}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0634",
+      "file_name": "2024 11 05 Informal Hearing Decision by IHO_Redacted_(dmm).pdf"
+    }
+  ]
+}

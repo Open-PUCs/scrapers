@@ -1,0 +1,27 @@
+{
+  "case": "20-G-0574",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8DC169A-963C-4B1B-8478-370E3B18B105}",
+      "organization": "Grasso Brothers General Contracting, Inc.",
+      "itemNo": "8",
+      "docket_id": "20-G-0574",
+      "file_name": "GB NYS Dept Public Service 2.4.21.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/28/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={787565D9-0B02-4A8F-894C-20F3213F834E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-G-0574",
+      "file_name": "162-A_20-G-0574 final.pdf"
+    }
+  ]
+}

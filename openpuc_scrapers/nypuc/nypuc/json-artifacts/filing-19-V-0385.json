@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0385",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3FE9502D-EA65-449E-9F35-037DC8006791}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0385",
+      "file_name": "19-V-0385 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8295E3E0-1B41-4E84-B89A-2B536403758B}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0385",
+      "file_name": "201110 Letter re Matter 17-02641 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6AC91065-FCBA-413C-83D7-23C4539BF993}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0385",
+      "file_name": "17-02641 Megered Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 3093 Brighton 4th Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4C3A4B77-CD58-47A2-B4A8-D30795FF105D}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0385",
+      "file_name": "Petition (3093 Brighton 4 St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={134D58C8-C071-44FF-971C-617AD4ECF1DB}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0385",
+      "file_name": "Exhibit 2 (3093 Brighton 4 St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91F217CA-26B2-4E95-A87C-816431E80137}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0385",
+      "file_name": "Exhibit 1 (3093 Brighton 4 St).pdf"
+    }
+  ]
+}

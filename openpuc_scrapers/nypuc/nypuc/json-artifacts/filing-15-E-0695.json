@@ -1,0 +1,115 @@
+{
+  "case": "15-E-0695",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/13/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Submeter Test Form - 910 Fifth Avenue Corp.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B75B86B-6CFE-4D1F-A44D-DC8C637910F8}",
+      "organization": "910 Fifth Avenue Corporation",
+      "itemNo": "9",
+      "docket_id": "15-E-0695",
+      "file_name": "910 Fifth Meter Test Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={049D9B0F-9178-4B87-BB55-6674FADDF84F}",
+      "organization": "Public Service Commission",
+      "itemNo": "8",
+      "docket_id": "15-E-0695",
+      "file_name": "364_15e0695 Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/29/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C16F9061-47AD-4EC5-B7ED-A9359A572FC6}",
+      "organization": "Aegis Energy Services, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-E-0695",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/29/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "910 5th Ave-Cogen Contract (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A2667BF4-B3B9-4F6C-9F0A-ACE12043BE14}",
+      "organization": "Aegis Energy Services, Inc.",
+      "itemNo": "7",
+      "docket_id": "15-E-0695",
+      "file_name": "910 5th Ave-Cogen Contract (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Providing Further Clarification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE5A1AF2-0968-42E7-B7BD-C7BBC33360F8}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "15-E-0695",
+      "file_name": "PSC Letter for Herb re 910 5th Ave 6-17-16 _1_.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/14/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Clarification to original submittal of November 9, 2015.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C9289E6-5FEC-4072-93B8-A6C175697532}",
+      "organization": "910 Fifth Avenue Corporation",
+      "itemNo": "5",
+      "docket_id": "15-E-0695",
+      "file_name": "Rev _2-PSC Letter for 910 E 5th Ave.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/31/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={23EA361E-7267-46DB-A0F5-49FF9E76E353}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "4",
+      "docket_id": "15-E-0695",
+      "file_name": "PSC Letter for Herb re 910 5th Ave 5-27-16.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/22/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Amendment to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC146E05-3C96-4923-BB68-BA052CE8ACB2}",
+      "organization": "910 Fifth Avenue Corporation",
+      "itemNo": "3",
+      "docket_id": "15-E-0695",
+      "file_name": "Rev-PSC amendment for 910 5th Ave.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/21/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "PSC amendment for 910 5th Ave",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2A8DF992-3835-49BB-99D5-CED7552D9AF7}",
+      "organization": "910 Fifth Avenue Corporation",
+      "itemNo": "2",
+      "docket_id": "15-E-0695",
+      "file_name": "PSC amendment for 910 5th Ave.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/01/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 910 Fifth Avenue Corporation to Submeter Electricity at 910 Fifth Avenue, New York, NY, Located in the Territory of Consolidated Edison Company of New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={535E9AA9-C997-4524-83BD-F680693A4916}",
+      "organization": "910 Fifth Avenue Corporation",
+      "itemNo": "1",
+      "docket_id": "15-E-0695",
+      "file_name": "Rev-Final PSC Application for 910 Fifth Avenue.pdf"
+    }
+  ]
+}

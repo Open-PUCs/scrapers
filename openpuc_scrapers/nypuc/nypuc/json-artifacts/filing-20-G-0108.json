@@ -1,0 +1,38 @@
+{
+  "case": "20-G-0108",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/29/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "NFG request withdrawing and closing cases",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4692989D-2825-46AA-8869-941E30165CE9}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "2",
+      "docket_id": "20-G-0108",
+      "file_name": "DOC112921-11292021121527.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/05/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of National Fuel Gas Distribution Corporation for Approval of the Romet RMT600-RMT23000 Family of Meters.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={68C57A9D-10DF-4A93-9DC6-86A5653EFF54}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "20-G-0108",
+      "file_name": "RMT NYS Petition letter Final 030520.pdf (13 MB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/05/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CC72A96D-E530-41A7-BEDD-5684B8E67AB9}",
+      "organization": "National Fuel Gas Distribution Corporation",
+      "itemNo": "1",
+      "docket_id": "20-G-0108",
+      "file_name": "Cover Letter 20200305.pdf (33 KB)"
+    }
+  ]
+}

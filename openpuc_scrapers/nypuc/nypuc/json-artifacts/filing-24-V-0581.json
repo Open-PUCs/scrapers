@@ -1,0 +1,49 @@
+{
+  "case": "24-V-0581",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901E7D92-0000-C73B-A4DB-1BD0291BBB43}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0581",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Canandaigua Request 10.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={801E7D92-0000-CC1D-9DA7-FF24272C2832}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0581",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Canandaigua Request 10.11.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Canandaigua Cover Letter- Request for Renewal and Certificate of Confirmation 10.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901E7D92-0000-C65E-B984-36B7B2E6FBF0}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0581",
+      "file_name": "Charter Communications, T. Canandaigua Cover Letter- Request for Renewal and Certificate of Confirmation 10.11.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/11/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Canandaigua - Request for Renewal and Certificate of Confirmation(redacted)lk 10.11.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={901E7D92-0000-C274-B047-DEFECD7CE571}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0581",
+      "file_name": "Charter Communications, T. Canandaigua - Request for Renewal and Certificate of Confirmation(redacted)lk 10.11.24.pdf"
+    }
+  ]
+}

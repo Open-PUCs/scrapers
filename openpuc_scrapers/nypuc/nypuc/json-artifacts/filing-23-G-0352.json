@@ -1,0 +1,71 @@
+{
+  "case": "23-G-0352",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "11.09.23 Request to Withdraw Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={406CB58B-0000-CF1C-83CA-9C498604CD80}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "23-G-0352",
+      "file_name": "11.09.23 Request to Withdraw Determination (Case 23-G-0352).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009A488B-0000-CD12-8357-AF1CC1D8EAE2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0352",
+      "file_name": "164 - 23-G-0352 - Letter 101923.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009A488B-0000-C83D-BE81-04E9295BD345}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0352",
+      "file_name": "164 - 23-G-0352 - Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/03/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging the Appeal 02.17.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60B12689-0000-C512-ADBC-037C0F05CC1D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0352",
+      "file_name": "Ack letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/03/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "2023 02 14 National Grid Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00B02689-0000-C11F-AA2D-09A75AB7AAA0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "23-G-0352",
+      "file_name": "2023 02 14 NGrid appeal.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/03/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision 01.25.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40AD2689-0000-C816-9190-0D695456E505}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0352",
+      "file_name": "IHO decision.pdf"
+    }
+  ]
+}

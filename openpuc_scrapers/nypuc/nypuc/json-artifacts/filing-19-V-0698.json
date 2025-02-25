@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0698",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Duanesburg Revised Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={989FCA85-3FD5-4A3C-838B-75826C6DA4D6}",
+      "organization": "Charter Communications",
+      "itemNo": "3",
+      "docket_id": "19-V-0698",
+      "file_name": "R2B - Town of Duanesburg.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, Inc. - Letter - Town of Duanesburg",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3925B93E-5DF6-4855-A1F2-CA14ED1DCCA8}",
+      "organization": "Charter Communications",
+      "itemNo": "3",
+      "docket_id": "19-V-0698",
+      "file_name": "Charter Communications, Inc. - Letter - Town of Duanesburg.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/21/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8B9C63AB-B6EA-4334-92E0-1A0676746B2C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0698",
+      "file_name": "664_19-V-0698.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/31/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Duanesburg, Schenectady County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0CFC275-0187-4652-9BF3-183B32EFD53B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0698",
+      "file_name": "TDuanesburg FranchiseRenewal packet..pdf"
+    }
+  ]
+}

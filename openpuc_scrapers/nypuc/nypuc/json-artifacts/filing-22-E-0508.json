@@ -1,0 +1,38 @@
+{
+  "case": "22-E-0508",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C06DD8E0-1142-47FE-AE77-557883BAD6CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-E-0508",
+      "file_name": "369_22-E-0508 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Bluestone Wind, LLC for a Declaratory Ruling Concerning Section 70 Approval.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD470ECC-2047-4C17-A90F-4B2DC7FAF870}",
+      "organization": "Bluestone Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0508",
+      "file_name": "220906 Verified Request for DR_Section 70_Bluestone Wind.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/06/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={74C43629-D4FC-41F1-B8F7-E79EA9B35E3C}",
+      "organization": "Bluestone Wind, LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0508",
+      "file_name": "220906 Ltr to Secretary filing Verified Petition.pdf"
+    }
+  ]
+}

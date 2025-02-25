@@ -1,0 +1,71 @@
+{
+  "case": "21-G-0053",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/16/2021",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Review of Corporate Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={54B8ED21-9C08-400F-8F49-BD895A17CE57}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-G-0053",
+      "file_name": "168_21-G-0053 Bluestone Dec Ruling final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Pre Midstream Entity Chart",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F77C15F-7B3E-4747-9E09-46E7918AABA0}",
+      "organization": "Bluestone Gas Corporation of New York, Inc., DT Midstream, Inc., DTE Energy Company",
+      "itemNo": "2",
+      "docket_id": "21-G-0053",
+      "file_name": "Pre Midstream Entity Chart.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Post Midstream Entity Chart",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1503EB2B-9A3F-40A9-901D-731009F59993}",
+      "organization": "Bluestone Gas Corporation of New York, Inc., DT Midstream, Inc., DTE Energy Company",
+      "itemNo": "2",
+      "docket_id": "21-G-0053",
+      "file_name": "Post Midstream Entity Chart.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/01/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF84DB01-46CD-449C-B4EF-CE132617B7C8}",
+      "organization": "Bluestone Gas Corporation of New York, Inc., DT Midstream, Inc., DTE Energy Company",
+      "itemNo": "2",
+      "docket_id": "21-G-0053",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Bluestone Gas Corporation of New York, Inc., DTE Energy Company and DT Midstream, Inc. for a Declaratory Ruling Concerning Regarding Application \u00a770 of the New York State Public Service Law .",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2EE8FFEC-87D3-43FE-AC44-0ADF674A8B02}",
+      "organization": "Bluestone Gas Corporation of New York, DT Midstream, Inc., DTE Energy Company",
+      "itemNo": "1",
+      "docket_id": "21-G-0053",
+      "file_name": "Joint Petition for Declaratory Ruling on Application of Section 70 of the Public Service Law.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/15/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4F5F420-52EA-41A4-89EE-6AFE3BBC7D58}",
+      "organization": "Bluestone Gas Corporation of New York, DT Midstream, Inc., DTE Energy Company",
+      "itemNo": "1",
+      "docket_id": "21-G-0053",
+      "file_name": "Cover Letter.pdf"
+    }
+  ]
+}

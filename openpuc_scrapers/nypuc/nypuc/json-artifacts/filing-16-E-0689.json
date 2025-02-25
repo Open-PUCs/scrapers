@@ -1,0 +1,60 @@
+{
+  "case": "16-E-0689",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={674547A2-7C04-4215-A70C-77373D07720E}",
+      "organization": "420 Kent Avenue LLC",
+      "itemNo": "4",
+      "docket_id": "16-E-0689",
+      "file_name": "letter 10-2-17.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/02/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8BB65E9-B6B6-4B0E-921D-5446F563D106}",
+      "organization": "420 Kent Avenue LLC",
+      "itemNo": "4",
+      "docket_id": "16-E-0689",
+      "file_name": "letter 10-2-2017.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/19/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={069313BB-70EF-4F42-AA98-02BFAF66A357}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0689",
+      "file_name": "367_16-E-0689.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for an Energy Audit Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9DCEFB5A-9EDE-4694-BD56-F739C0B9E7AC}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "2",
+      "docket_id": "16-E-0689",
+      "file_name": "letter 12-5-16.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/02/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 420 Kent Avenue LLC to Submeter Electricity at Building Complex Located at 416 Kent Avenue, Brooklyn, NY 11249 and 420 Kent Avenue, Brooklyn, NY 11249, Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52CADC5E-9EFB-4E6A-9FF9-6C3B976E4BEB}",
+      "organization": "420 Kent Avenue LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0689",
+      "file_name": "submetering application 12-1-16.pdf"
+    }
+  ]
+}

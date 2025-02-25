@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0384",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={971B6051-61F1-4732-984A-8852D271193B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0384",
+      "file_name": "664_18-V-0384.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/20/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "TOWN OF WINDHAM PUBLIC NOTICE OF FILING 2018",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0FBBA493-42E2-49DA-B32D-9CB904C98871}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-V-0384",
+      "file_name": "TOWN OF WINDHAM PUBLIC NOTICE OF FILING 2018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/26/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Mid-Hudson Cablevision, Inc. for Approval of the Renewal of its Franchise with the Town of Windham, Greene County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={94174240-DB8E-4D3B-9263-263112DECFB1}",
+      "organization": "Mid-Hudson Cablevision, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-V-0384",
+      "file_name": "TOWN OF WINDHAM FRANCHISE RENEWAL 6-2018.pdf"
+    }
+  ]
+}

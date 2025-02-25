@@ -1,0 +1,38 @@
+{
+  "case": "21-C-0056",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/18/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Amendment to Eligible Telecommunications Carrier Designation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1DF477FE-3124-4B76-B7CC-A42ACA138E99}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-C-0056",
+      "file_name": "565_21-C-0056 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "ATI-NY ETC Petition 1-21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4AA4FF1-24CE-4629-92DB-7F5653C2CD82}",
+      "organization": "Armstrong Telecommunications, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0056",
+      "file_name": "ATI-NY ETC Petition 1-21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "ATI ETC Amended Petition Filing Letter 1-21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5905308E-40E5-484F-B7C5-9E01FAE1CF2E}",
+      "organization": "Armstrong Telecommunications, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0056",
+      "file_name": "ATI ETC Amended Petition Filing Letter 1-21.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "21-V-0470",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/23/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D8089B5F-F6EA-49B2-B37E-80E1D017489C}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "21-V-0470",
+      "file_name": "661_21-V-0470.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter and Resolution to PSC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D97B63B4-035C-40E0-90F0-1D64C74CD1D6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "4",
+      "docket_id": "21-V-0470",
+      "file_name": "Cover Letter and Resolution to PSC.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Updated T. Martinsburg Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F45945F-F137-43AE-A0B6-AF6DFC35F21B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "21-V-0470",
+      "file_name": "T. Martinsburg to be filed with PSC.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/02/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with Town of Martinsburg, Lewis County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09019301-77A4-4040-B9B8-16C571C5AB40}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0470",
+      "file_name": "T. Martinsburg to be filed with PSC.pdf"
+    }
+  ]
+}

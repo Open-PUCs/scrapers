@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0031",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55416BB1-39CF-441B-BF22-96F3CA05D3BE}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0031",
+      "file_name": "366_16e0031.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Postponement of Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EDACE116-77B6-48EC-9D69-CE6444218830}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-E-0031",
+      "file_name": "16e0031 Postponement.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/15/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "16-E-0031",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/19/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "16-E-0031",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "21-C-0070",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/09/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Completion of Transaction",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F572763-3550-4D62-9EB0-337D5477AE4E}",
+      "organization": "American Telephone Company LLC, MassComm, LLC, Windstream NTI, LLC, Windstream Norlight, LLC",
+      "itemNo": "3",
+      "docket_id": "21-C-0070",
+      "file_name": "Notice of Completion of Transaction.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/14/2021",
+      "nypuc_doctype": "Letters",
+      "name": "21-00180 American Telephone Company LLC et al OOL Approval Letter - Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3C9BE94F-64DA-4F79-971D-A3FD998C241A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "21-C-0070",
+      "file_name": "21-00180 American Telephone Company LLC et al OOL Approval Letter - Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/27/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Windstream Pro Forma Transfers - Exhibits",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F1558657-58E9-481F-AF58-8031E36BBB1C}",
+      "organization": "American Telephone Company LLC, MassComm, LLC, Windstream NTI, LLC, Windstream Norlight, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0070",
+      "file_name": "Windstream Pro Forma Transfers - Exhibits.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/27/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Verification (Windstream Pro Forma Transfers)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5F1924E-77B7-4B4E-9AA1-A449384EB6A7}",
+      "organization": "American Telephone Company LLC, MassComm, LLC, Windstream NTI, LLC, Windstream Norlight, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0070",
+      "file_name": "Verification (Windstream Pro Forma Transfers).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/27/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B5D47DAB-3B5E-440F-95B1-DC85739B1332}",
+      "organization": "American Telephone Company LLC, MassComm, LLC, Windstream NTI, LLC, Windstream Norlight, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0070",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/27/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Application Windstream Pro Forma Transfers Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC51CC0F-4E4F-4C1A-A3C9-C5C0D2EA4207}",
+      "organization": "American Telephone Company LLC, MassComm, LLC, Windstream NTI, LLC, Windstream Norlight, LLC",
+      "itemNo": "1",
+      "docket_id": "21-C-0070",
+      "file_name": "Application Windstream Pro Forma Transfers Application.pdf"
+    }
+  ]
+}

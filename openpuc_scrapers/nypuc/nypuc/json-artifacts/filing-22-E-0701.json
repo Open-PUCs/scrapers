@@ -1,0 +1,170 @@
+{
+  "case": "22-E-0701",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/19/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Addressing Interconnection Costs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8047838C-0000-C317-8AD5-53510486C00B}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "22-E-0701",
+      "file_name": "364_22-E-0701.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Comments",
+      "name": "Hunt Creek-22-001 (22-E-0701) P",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={405D5E8C-0000-C518-8D77-A1D0CD874AD5}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0701",
+      "file_name": "Hunt Creek-22-001 (22-E-0701) P.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Hunt Creek Rd - 22-001 Att 3-23 (22-E-0701) P",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={505D5E8C-0000-CA18-8B76-410FF83871BD}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0701",
+      "file_name": "Hunt Creek Rd - 22-001 Att 3-23 (22-E-0701) P.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Hunt Creek Rd - 22-001 Att 24 (22-E-0701)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={505D5E8C-0000-C43E-96DD-6FB729C40B14}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0701",
+      "file_name": "Hunt Creek Rd - 22-001 Att 24 (22-E-0701).xlsx"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Hunt Creek Rd - 22-001 Att 2 (22-E-0701)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={505D5E8C-0000-C75E-885A-A83170A66A9C}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0701",
+      "file_name": "Hunt Creek Rd - 22-001 Att 2 (22-E-0701).xlsx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Hunt Creek Rd - 22-001 Att 1 (22-E-0701)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={605D5E8C-0000-C210-94CE-A8B327F62C4F}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0701",
+      "file_name": "Hunt Creek Rd - 22-001 Att 1 (22-E-0701).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "2023-12-08 NYSEG Hunt Creek Rd - Cover Letter (22-E-0701)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={605D5E8C-0000-CB36-89F4-C0A93AA8EF20}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "22-E-0701",
+      "file_name": "2023-12-08 NYSEG Hunt Creek Rd - Cover Letter (22-E-0701).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "11/07/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "LSE Perseus LLC cover letter 2023-11-02",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01D5F8C-0000-C412-9966-1D9979582178}",
+      "organization": "LSE Perseus LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0701",
+      "file_name": "LSE Perseus LLC cover letter 2023-11-02.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "11/07/2023",
+      "nypuc_doctype": "Discovery",
+      "name": "22-E-0701 petitioner interrogatory responses 2023-11-02",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F01D5F8C-0000-C432-9AB4-7C68ACF77BF0}",
+      "organization": "LSE Perseus LLC",
+      "itemNo": "6",
+      "docket_id": "22-E-0701",
+      "file_name": "22-E-0701 petitioner interrogatory responses 2023-11-02.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Comments",
+      "name": "Reply Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B90587-0000-C148-A62F-96D14DF68C41}",
+      "organization": "LSE Perseus LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0701",
+      "file_name": "PSC reply brief 2023-03-20 (22-E-0701 - Hunt Creek) executed.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "03/21/2023",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0B90587-0000-CC62-AB7D-21F135921CDF}",
+      "organization": "LSE Perseus LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0701",
+      "file_name": "LSE Perseus LLC cover letter 2023-03-21.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Comments",
+      "name": "NYSEG Comments Perseus",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E083B886-0000-CB19-A0A2-F1BAD910C74C}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "22-E-0701",
+      "file_name": "2023-03-06 NYSEG Comments Perseus (22-E-0701).pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "03/06/2023",
+      "nypuc_doctype": "Comments",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E083B886-0000-CD3C-A501-BEA9FCC3E065}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "22-E-0701",
+      "file_name": "2023-03-06 NYSEG Comments Perseus Cover Letter (22-E-0701).pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "LSE Perseus Petition Regarding Interconnection Costs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D034424-8622-41DA-8DF1-6EC01E5D8384}",
+      "organization": "LSE Perseus LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0701",
+      "file_name": "LSE Perseus petition 2022-11-18.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "11/21/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F16907B-042E-46B6-B05C-531334CEA261}",
+      "organization": "LSE Perseus LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0701",
+      "file_name": "LSE Perseus LLC cover letter.pdf"
+    }
+  ]
+}

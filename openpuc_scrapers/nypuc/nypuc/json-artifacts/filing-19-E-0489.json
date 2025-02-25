@@ -1,0 +1,137 @@
+{
+  "case": "19-E-0489",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D85EE0D-EDA4-4B9C-8930-F20EC43F56B9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0489",
+      "file_name": "19-E-0489-Itron.Inc.-Case Closure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/10/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DED6978-ABF0-41F5-983D-E3AFBC32D706}",
+      "organization": "Itron Inc.",
+      "itemNo": "2",
+      "docket_id": "19-E-0489",
+      "file_name": "Cancellation Case 19-E-0489 r1-signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "SK9ACT2_Wifi_testreport",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63159502-4831-4CEA-A5B5-118A74814ED7}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "SK9ACT2_Wifi_testreport.pdf (1 MB)"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "SK9ACT2_FCCTestReport_hopper",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0FE29D51-D566-4709-8C8C-56D9CBFCCCC1}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "SK9ACT2_FCCTestReport_hopper.pdf (4 MB)"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "SK9ACT2_FCCTestReport_Hybrid_1.2Mbps",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8C526F04-0ACA-4646-9200-9C48C0112290}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "SK9ACT2_FCCTestReport_Hybrid_1.2Mbps.pdf (5 MB)"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CFBC6B5D-016E-4176-A637-021A168CC8C9}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "NYS Commercial Letter - OpenWay Riva CENTRON Commercial HW4.1 final-signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8CD76798-E066-45F9-B96B-A35352685663}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "NYS Commercial Letter - OpenWay Riva CENTRON Commercial HW4.1 final-signed.pdf (94 KB)"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "NYS - OW Riva HW4.1 PP LV Picture Report-Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F299F74-F36E-4A12-9C11-4B923EC0B383}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "NYS - OW Riva HW4.1 PP LV Picture Report-Redacted.pdf (811 KB)"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Itron_Confidentiality Request_letter_19-06-25-signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1D80F377-BFE5-4B90-AE28-5A4D353F96AD}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "Itron_Confidentiality Request_letter_19-06-25-signed.pdf (108 KB)"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Itron OpenWay Riva CENTRON SP Letter of Intent for poly phase",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D60DC187-741F-4393-8A14-290D5146C639}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "Itron OpenWay Riva CENTRON SP Letter of Intent for poly phase.pdf (79 KB)"
+    },
+    {
+      "serial": "11",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "ITRON OpenWay Riva CENTRON Polyphase Electricity Meter TRG-Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={463FC87F-2038-4BA9-99BC-6E37B1CADC4C}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "ITRON OpenWay Riva CENTRON Polyphase Electricity Meter TRG-Redacted.pdf (1 MB)"
+    },
+    {
+      "serial": "12",
+      "date_filed": "06/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "ITRON OpenWay Riva CENTRON Commercial Meter HW4.1 Spec Sheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2B000AA5-9366-4303-AB02-0FF4637D697C}",
+      "organization": "Itron Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0489",
+      "file_name": "ITRON OpenWay Riva CENTRON Commercial Meter HW4.1 Spec Sheet.pdf (506 KB)"
+    }
+  ]
+}

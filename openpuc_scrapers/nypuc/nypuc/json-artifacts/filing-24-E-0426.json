@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0426",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0C3C190-0000-CC19-B571-70A599B04560}",
+      "organization": "625 7th Ave, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0426",
+      "file_name": "625 7th Ave, LLC - Petition to Submeter - 7.17.24.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0C3C190-0000-C135-A04A-97379E88AC7E}",
+      "organization": "625 7th Ave, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0426",
+      "file_name": "625 7th Ave, LLC - Cover Letter - 7.17.24.pdf"
+    }
+  ]
+}

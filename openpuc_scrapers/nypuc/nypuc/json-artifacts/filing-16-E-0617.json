@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0617",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting the Conversion of Non-Metered Traffic Signals to LED Technology",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D92EEBA-5F3E-4CDD-A419-69777F2FCAB9}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0617",
+      "file_name": "362_16-E-0617.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/27/2016",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Central Hudson Gas & Electric Corporation",
+      "itemNo": "1",
+      "docket_id": "16-E-0617",
+      "file_name": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "19-T-0252",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/24/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding Part 102",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4014E9AC-B73A-4D6F-9F70-D8DC96CCAEF6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-T-0252",
+      "file_name": "19-T-0252-NationalGrid-Part 102 Ltr_.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/03/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Niagara Mohawk Power Corporation d/b/a National Grid Boonville-Porter #1 & 2 115kV Transmission Line Repair Project - Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={186FC601-2560-4A6E-9566-B6B625C42B44}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0252",
+      "file_name": "Boonville_Porter_Part_102_Final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/03/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A52A28E6-1CD5-4EC4-A018-9CA89976A0B1}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "19-T-0252",
+      "file_name": "Boonville-Porter 1&2 Part 102 Cover Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-V-0351",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0F97A91-0000-C717-A50B-2E400A7EFC7E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-V-0351",
+      "file_name": "661_24-V-0351 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/06/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201FEF8F-0000-C45C-9BBF-CB6B1AAFF23F}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0351",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Salina 6.06.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201FEF8F-0000-CF1A-9599-BFC673867050}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0351",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Salina 6.06.24.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/06/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications, T. Salina-Request for Renewal and Certificate of Confirmation (redacted) 6.06.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201FEF8F-0000-CF9E-B550-9B143B5CFBDC}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0351",
+      "file_name": "Charter Communications, T. Salina-Request for Renewal and Certificate of Confirmation (redacted) 6.06.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/06/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, T. Salina-Cover Letter-Request for Renewal and Certificate of Confirmation 6.06.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={201FEF8F-0000-CD78-95B7-D84934F8B0BD}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "24-V-0351",
+      "file_name": "Charter Communications, T. Salina-Cover Letter-Request for Renewal and Certificate of Confirmation 6.06.24.pdf"
+    }
+  ]
+}

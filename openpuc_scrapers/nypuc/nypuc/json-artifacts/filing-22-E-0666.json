@@ -1,0 +1,192 @@
+{
+  "case": "22-E-0666",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "West 38 Res LLC - Revised Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05FB592-0000-C256-8EB3-DA8511339B52}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "10",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Revised Lease Rider.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "West 38 Res LLC - Revised HEFPA Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05FB592-0000-CD16-897F-C1B887206D66}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "10",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Revised HEFPA Plan.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D05FB592-0000-C339-913D-0C8BDDB302E2}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "10",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Revised Submetering Documents - Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Submetering ID_555 W38th St",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={607BD78D-0000-C41D-9E4F-02A0A92BD7B6}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "9",
+      "docket_id": "22-E-0666",
+      "file_name": "Submetering ID_555 W38th St (2.23.24).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/05/2024",
+      "nypuc_doctype": "Reports",
+      "name": "West 38 Res LLC - ISMTF Filing Package",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9012DA8C-0000-C61D-B82C-468DEFE558C2}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "8",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - ISMTF Filing Package.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "West 38 Res LLC - Updated Submeterer Identification Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600B6F8C-0000-C074-960F-C71B151E7FE6}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Updated Submeterer Identification Form.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "West 38 Res LLC - Updated HEFPA Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600B6F8C-0000-CE15-B022-6D35B6EB0687}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Updated HEFPA Plan.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "West 38 Res LLC - Lease Rider",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600B6F8C-0000-C938-8C75-76E47575A4C3}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Lease Rider.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "West 38 Res LLC - Executed COC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600B6F8C-0000-CC5A-90F4-B51B1CB39B8E}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Executed COC.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "12/15/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={600B6F8C-0000-CA9C-9C18-38B6D1C3A4B6}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "7",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Certificate of Compliance & Updated Documents Cover Letter.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "10/18/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70C2438B-0000-C51C-ABB9-02814F0934C1}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0666",
+      "file_name": "383_22-E-0666 .pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "09/26/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Confirmation of Shadow Billing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A03ED38A-0000-C816-AF43-6FA4522D252D}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0666",
+      "file_name": "22-E-0666_Cover Letter - Confirmation of Shadow Billing.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "07/17/2023",
+      "nypuc_doctype": "Comments",
+      "name": "Response to Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F00D6489-0000-CF1D-82E9-31CB4B34A2D0}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "4",
+      "docket_id": "22-E-0666",
+      "file_name": "22-E-0666_Cover Letter (Comment Responses).pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "04/06/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "West 38 Res LLC - Cover Letter and SAPA Notice Package",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60665787-0000-C119-A36A-DF73AB75DE29}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "3",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Cover Letter and SAPA Notice Package.pdf"
+    },
+    {
+      "serial": "15",
+      "date_filed": "03/09/2023",
+      "nypuc_doctype": "Motions",
+      "name": "West 38 Res LLC - Waiver Withdrawal Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90A4C686-0000-C811-88AD-3C59C7722934}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Cover Letter 96.5(k) Waiver Withdrawal.pdf"
+    },
+    {
+      "serial": "16",
+      "date_filed": "11/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "West 38 Res LLC - Petition to Submeter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={38E101AF-FB2B-4EB9-81DF-3BCDCEC2E796}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Petition to Submeter.pdf"
+    },
+    {
+      "serial": "17",
+      "date_filed": "11/30/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3AABCC7F-1451-4A55-A256-D3CE124DED72}",
+      "organization": "West 38 Res LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0666",
+      "file_name": "West 38 Res LLC - Cover Letter.pdf"
+    }
+  ]
+}

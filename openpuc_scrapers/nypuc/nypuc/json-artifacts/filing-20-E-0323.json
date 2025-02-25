@@ -1,0 +1,126 @@
+{
+  "case": "20-E-0323",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Schedule C City of Gloversville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D903FFD-8AF4-4846-B4F1-2987E9439452}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "20-E-0323",
+      "file_name": "Schedule C City of Gloversville.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/17/2021",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5F724AA-C43A-4EFD-B41E-37DC5D7A9F44}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "7",
+      "docket_id": "20-E-0323",
+      "file_name": "City of Gloversville Journal Entry Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance (Negative Declaration)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={823E843F-9AD4-4C70-8DD1-D95EE9B6FE81}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "20-E-0323",
+      "file_name": "367_20-E-0323_Notice.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/23/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Street Lighting Facilities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE7C84BC-146F-421F-BC53-22B33B6CD814}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-E-0323",
+      "file_name": "367_20-E-0323_Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/19/2020",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - PSC Approves Streetlighting Sale to 9 Upstate Municipalities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7695A938-5443-4D82-852C-B5EF06208CD2}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-E-0323",
+      "file_name": "pr20101.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/28/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2DDA7ADE-C49E-4914-BA93-007FDA419FD1}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "3",
+      "docket_id": "20-E-0323",
+      "file_name": "Migration Trade Secret Gas Migration Cover Letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/28/2020",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C890838-6FD3-4BC4-BB38-4EF5185C9AC2}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "20-E-0323",
+      "file_name": "Gloversville Request for Confidentiality.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule D Work Papers for City of Gloversville Street Light Sale",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1DA87CE-8F24-4B0D-9205-D4DC5A9DAA62}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0323",
+      "file_name": "Schedule D Work Papers for City of Gloversville Street Light Sale.xlsx (328 KB)"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Schedule C Workpaper for City of Gloversville",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBFF99F5-31BE-4DC8-9843-BFCBD9E41415}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0323",
+      "file_name": "Schedule C Workpaper for City of Gloversville.xlsx (39 KB)"
+    },
+    {
+      "serial": "10",
+      "date_filed": "07/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Gloversville Section 70 Petition_Schedules",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8FC11D30-87F2-461F-80A6-65B89204C79A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0323",
+      "file_name": "GloversvilleSection 70 Petition_Schedules.07082020.pdf (8 MB)"
+    },
+    {
+      "serial": "11",
+      "date_filed": "07/08/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF8FD3BE-F619-48B8-89B2-4D475B57C5A0}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0323",
+      "file_name": "Gloversville Section 70 Cover Letter.pdf (106 KB)"
+    }
+  ]
+}

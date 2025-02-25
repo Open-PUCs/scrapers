@@ -1,0 +1,60 @@
+{
+  "case": "16-W-0030",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/25/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5FACA918-AAAB-4FA9-BC2A-6138AF69855C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-W-0030",
+      "file_name": "461_16-W-0030.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7649ABDA-ECA8-47BF-B045-DFE2535FA702}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-W-0030",
+      "file_name": "Petition for Waiver, Case 16-W-0030 , Saratoga and RM Dalrymple with Exhibits.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter of Transmittal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44D4FD34-DB08-4C57-BE18-BF46555E020C}",
+      "organization": "Saratoga Water Services, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-W-0030",
+      "file_name": "Letter of Transmittal, 16-W-0030 Petition for Waiver 170119.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/16/2016",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Expansion of Service",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E962DB42-201F-490C-AA6A-AF5AD13C00E6}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-W-0030",
+      "file_name": "461_16w0030.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/21/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Saratoga Water Services, Inc., and RM Dalrymple Company, Inc. for a Declaratory Ruling Concerning the Provision of Water Service to a Proposed Project in the Town of Malta, Saratoga County",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57EDC24C-232E-4842-B7D5-C09CC65335AE}",
+      "organization": "RM Dalrymple Company, Inc., Saratoga Water Services, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-W-0030",
+      "file_name": "doc02584520160121124004 (1).pdf"
+    }
+  ]
+}

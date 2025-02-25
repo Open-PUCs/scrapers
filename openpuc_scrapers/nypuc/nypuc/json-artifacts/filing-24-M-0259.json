@@ -1,0 +1,71 @@
+{
+  "case": "24-M-0259",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Complaint",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A09B738F-0000-CF15-B1E2-14A5B287D39B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "24-M-0259",
+      "file_name": "2024-05-13 Letter from Sherwin to Phillips.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/01/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0613A8F-0000-CB53-BA1E-EFC859CE47B4}",
+      "organization": "Robison Energy (Commercial) LLC",
+      "itemNo": "2",
+      "docket_id": "24-M-0259",
+      "file_name": "REC - Trade Secret Request 4.30.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Request for PSC Dispute Resolution Con Ed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502B348F-0000-C14F-9339-BEC2A4DC392A}",
+      "organization": "Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0259",
+      "file_name": "Request for PSC Dispute Res ConEd4-30docx.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Public Conf Exhibit 2 - Con Ed Billing Issue File",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={402B348F-0000-CB18-BBDE-913971BDCF9F}",
+      "organization": "Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0259",
+      "file_name": "PublicConf Exhibit 2 - ConEd Billing Issue File.xlsx"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Public Conf Exhibit 1 - Email Exchanges _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502B348F-0000-C866-B982-007DE90D4723}",
+      "organization": "Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0259",
+      "file_name": "PublicConf Exhibit 1 - Email Exchanges _Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/01/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={502B348F-0000-C828-B27A-7D783CC6176C}",
+      "organization": "Robison Energy, LLC",
+      "itemNo": "1",
+      "docket_id": "24-M-0259",
+      "file_name": "REC - NY PSC Letter.pdf"
+    }
+  ]
+}

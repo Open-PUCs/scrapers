@@ -1,0 +1,27 @@
+{
+  "case": "16-V-0080",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/29/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE3E189A-7141-4FE3-A011-C2E258BB01D7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-V-0080",
+      "file_name": "663_16v0080.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/12/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Freedom, Cattaraugus County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E4A9CF13-7DFE-421A-B646-7873D5AD589A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "16-V-0080",
+      "file_name": "TOWN OF FREEDOM - RENEWAL DOCS FOR PSC, 02.12.16.pdf"
+    }
+  ]
+}

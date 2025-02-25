@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0320",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/25/2018",
+      "nypuc_doctype": "Attachment",
+      "name": "Publication of approval by Town of Bovina",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79B126E8-5C36-4164-9153-FFECD1501FC3}",
+      "organization": "Town of Bovina",
+      "itemNo": "3",
+      "docket_id": "18-V-0320",
+      "file_name": "Publication of approval by Town of Bovina.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/24/2018",
+      "nypuc_doctype": "Letters",
+      "name": "18-V-0320 Secretary AFP Approval Town of Boniva",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70F85AD6-5D9E-4CE5-A7DC-D85C1C0836BC}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "18-V-0320",
+      "file_name": "18-V-0320 Secretary AFP Approval Town of Boniva.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/21/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Bovina, Delaware County, New York for a Waiver of Section 894.4(a) in Order to Expedite and Receive Service from The Heart of the Catskills Communication, Inc. d/b/a MTC Cable.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D42A194F-0991-44EB-89EC-B075FDFF6E39}",
+      "organization": "Town of Bovina",
+      "itemNo": "1",
+      "docket_id": "18-V-0320",
+      "file_name": "Town of Bovina.pdf"
+    }
+  ]
+}

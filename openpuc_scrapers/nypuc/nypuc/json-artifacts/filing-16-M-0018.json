@@ -1,0 +1,60 @@
+{
+  "case": "16-M-0018",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/31/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supporting Documentation of the Leasehold Improvements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DF97CD23-6CEB-405E-A203-D5BED2B33DB6}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "6",
+      "docket_id": "16-M-0018",
+      "file_name": "NYSEG Compliance Filing (16-M-0018).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance with Ordering Clauses 2, 3, and 5",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51E30314-0812-4367-A332-7E1D2F42F641}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "5",
+      "docket_id": "16-M-0018",
+      "file_name": "2016-07-18 NYSEG Compliance Filing (16-M-0018).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Lease of Certain Real Property",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={92C3388B-7074-4607-8E4F-A4EFEB58F689}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-M-0018",
+      "file_name": "261_16m0018.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/30/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2CF26A91-90A0-4537-AECE-FFA4B1E40734}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "16-M-0018",
+      "file_name": "16-M-0018 Signed EAF.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/15/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Section 70 Petition_Columbia Memorial Hospital Lease",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6C477DC9-D068-4AE2-A887-482E1F5DC9C8}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "16-M-0018",
+      "file_name": "NYSEG Section 70 Petition_Columbia Memorial Hospital Lease.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case": "24-V-0427",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E05A1F92-0000-C111-A27A-A89AF08C83EC}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-V-0427",
+      "file_name": "661_24-V-0427 92324 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Legal Ad and Affidavit - 24-V-0427 Village of Fleischmanns Franchise Renewal - Heart of the Catskills Communications inc dba MTC Cable",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0280491-0000-CF28-8D66-C58BD79EA680}",
+      "organization": "Heart of the Catskills Communications Inc.",
+      "itemNo": "3",
+      "docket_id": "24-V-0427",
+      "file_name": "Legal Ad and Affidavit - 24-V-0427 Village of Fleischmanns Franchise Renewal - Heart of the Catskills Communications inc dba MTC Cable.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/30/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter - Case Number 24-V-0427 VIllage of Fleischmanns Franchise Renewal - Heart of the Catskills Communications dba MTC Cable",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0280491-0000-CA1D-8CE9-1955F70F264C}",
+      "organization": "Heart of the Catskills Communications Inc.",
+      "itemNo": "3",
+      "docket_id": "24-V-0427",
+      "file_name": "Cover Letter - Case Number 24-V-0427 VIllage of Fleischmanns Franchise Renewal - Heart of the Catskills Communications dba MTC Cable.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Exhibits",
+      "name": "Exhibit 5 - Village of Fleischmanns Franchise Renewal - Resolution - Heart of the Catskills Communications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60B3DF90-0000-C834-9ED6-8E0DC8D59AF4}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "24-V-0427",
+      "file_name": "Exhibit 5 - 24-V-0427 Village of Fleischmanns Franchise Renewal - Resolution - Heart of the Catskills Communications.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/23/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Village of Fleischmanns - Heart of the Catskills Communications inc dba MTC Cable",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60B3DF90-0000-CE11-BE72-95091EEEAF83}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "2",
+      "docket_id": "24-V-0427",
+      "file_name": "Cover Letter 24-V-0427 Village of Fleischmanns - Heart of the Catskills Communications inc dba MTC Cable.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/17/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Application for Approval of a Franchise Renewal Agreement between the Village of Fleischmanns and MTC Cable.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={704BC290-0000-C518-9D1B-5635DFA032B9}",
+      "organization": "Heart of the Catskills Communications, Inc. dba MTC Cable",
+      "itemNo": "1",
+      "docket_id": "24-V-0427",
+      "file_name": "Heart of the Catskills Communications, Inc dba MTC Cable Village of Fleischmanns Cable Franchise Renewal (3).pdf"
+    }
+  ]
+}

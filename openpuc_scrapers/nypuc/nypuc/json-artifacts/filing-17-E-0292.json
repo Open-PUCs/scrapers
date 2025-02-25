@@ -1,0 +1,60 @@
+{
+  "case": "17-E-0292",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AE5BF86-8A57-437F-991F-D686577240C3}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "17-E-0292",
+      "file_name": "369_17-E-0292.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/03/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Arteche submits additional information requested.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6A97DE85-618B-4ECD-93F4-173F783D6578}",
+      "organization": "Arteche USA",
+      "itemNo": "3",
+      "docket_id": "17-E-0292",
+      "file_name": "NYPSC Additional Documents.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E992E096-5DF2-40E0-B14F-F92512AE818F}",
+      "organization": "Arteche USA",
+      "itemNo": "2",
+      "docket_id": "17-E-0292",
+      "file_name": "Arteche Application NY PSC Apr. 28 2017 Blanket.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40D7B6BE-1F55-4F42-A6D7-0DAD03FF8A8C}",
+      "organization": "Arteche USA",
+      "itemNo": "2",
+      "docket_id": "17-E-0292",
+      "file_name": "Arteche Revenue Grade VTs CTs Letter of Intent_051617.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/24/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Arteche USA for Approval of the Arteche Medium Voltage Metering Class Instrument Transformers.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7C3E683-2781-47CB-8979-B495DE04ED74}",
+      "organization": "Arteche USA",
+      "itemNo": "1",
+      "docket_id": "17-E-0292",
+      "file_name": "Arteche.pdf"
+    }
+  ]
+}

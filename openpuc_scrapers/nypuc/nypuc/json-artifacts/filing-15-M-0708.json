@@ -1,0 +1,49 @@
+{
+  "case": "15-M-0708",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Waiver of Economic Development Grant Limitations",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={818DBF81-4152-4011-836A-F842B5085E5C}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-M-0708",
+      "file_name": "262_15m0708.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/06/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Request for a Special Exemption under its Non Rate Economic Development Program",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E8317FE1-A351-441E-84B5-5982C74B9300}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "3",
+      "docket_id": "15-M-0708",
+      "file_name": "NYSEG Economic Development Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/11/2015",
+      "nypuc_doctype": "Motions",
+      "name": "Request for exception from disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDB8B3FA-81DA-47AE-915D-043B0404B3F2}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "2",
+      "docket_id": "15-M-0708",
+      "file_name": "2015-12-03 NYSEG Economic Development Petition - Trade Secret Request (02-E-0576).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/04/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "NYSEG Economic Development Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DBC5551D-4AC5-41E1-93CF-25A73653E4CC}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "1",
+      "docket_id": "15-M-0708",
+      "file_name": "NYSEG Economic Development Petition.pdf"
+    }
+  ]
+}

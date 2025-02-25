@@ -1,0 +1,49 @@
+{
+  "case": "16-E-0367",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/23/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DC727B66-2DAF-4D00-AAF8-E144BD92B215}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-E-0367",
+      "file_name": "367_16e0367.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/31/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information for the Notice of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={416D9F19-598B-4E89-9761-D844A57D357D}",
+      "organization": "58 Corner LLC",
+      "itemNo": "3",
+      "docket_id": "16-E-0367",
+      "file_name": "Staff Questions_ltr.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/14/2016",
+      "nypuc_doctype": "Motions",
+      "name": "Request for a waiver of the energy audit and efficiency plan requirements in connection with the Notice of Intent to Submeter Electricity.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52DC2770-CD3F-47FE-BF57-984136AC3467}",
+      "organization": "58 Corner LLC",
+      "itemNo": "2",
+      "docket_id": "16-E-0367",
+      "file_name": "Burgess 7-13-16.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/16/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 58 Corner LLC to Submeter Electricity at 600 W. 58th Street, New York, New York, Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AFEC9381-5792-4E89-91C2-0C3B0495A780}",
+      "organization": "58 Corner LLC",
+      "itemNo": "1",
+      "docket_id": "16-E-0367",
+      "file_name": "Submetering Notice of Intent_600 West 58 street.pdf"
+    }
+  ]
+}

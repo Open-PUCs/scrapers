@@ -1,0 +1,60 @@
+{
+  "case": "18-E-0551",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/24/2019",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4D265E48-4E91-442F-B1DD-11647CCB24C9}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "18-E-0551",
+      "file_name": "366 Determination.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess for Appeal of Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={157B4292-4544-48AE-AF12-95C78BA8714B}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-E-0551",
+      "file_name": "366 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/27/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision in English - redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABDDF233-4BF9-44B5-B180-EFA310FAD7DB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-E-0551",
+      "file_name": "649064 Sylla in English - redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/27/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision - redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A82F2C1B-6945-4818-91D7-98F60143F04E}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-E-0551",
+      "file_name": "Case #649064 - Customer's Letter - redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/27/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision in English - redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F78EF77C-5F50-4D5F-8923-63DCFA1B719C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-E-0551",
+      "file_name": "IR Case 649064 (Sylla vs Con Edison) Closing decision- English - redacted.pdf"
+    }
+  ]
+}

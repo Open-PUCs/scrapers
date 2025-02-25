@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0094",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE0170E8-6CDB-499C-8678-AD381DC17FAA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0094",
+      "file_name": "661_17-V-0094.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the City of Batavia, County of Genesee, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={639BF374-780A-4661-8414-010852738C76}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0094",
+      "file_name": "02.13.17 - CITY OF BATAVIA RENEWAL DOCS-SUBMIT TO PSC (1).pdf"
+    }
+  ]
+}

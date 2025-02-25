@@ -1,0 +1,49 @@
+{
+  "case": "15-M-0435",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Request for Waivers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAA72C72-3B55-4CF3-9C78-8488811CC061}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "15-M-0435",
+      "file_name": "269_15m0435.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/03/2015",
+      "nypuc_doctype": "Correspondence",
+      "name": "Walking Meadows letters of credit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10844FA9-5EC3-47AA-A358-CD6F43DD6BFE}",
+      "organization": "Walking Meadows",
+      "itemNo": "3",
+      "docket_id": "15-M-0435",
+      "file_name": "Brian Michael Miga.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/02/2015",
+      "nypuc_doctype": "Comments",
+      "name": "National Grid Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={288655B9-C0D2-49D2-8560-0B214A996467}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "15-M-0435",
+      "file_name": "Case 15-M-0435 - National Grid Response.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/24/2015",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Walking Meadows Development Request for an Extension to the Five Year Limit on a Letter of Credit to National Grid for the Construction of Underground Distribution, National Grid's Tariff 220, Section 16.6.3 and 16 NYCRR Section 100.3(b).",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={450E3BDE-2334-4F59-8933-E463DA780D31}",
+      "organization": "Walking Meadows",
+      "itemNo": "1",
+      "docket_id": "15-M-0435",
+      "file_name": "Letter.pdf"
+    }
+  ]
+}

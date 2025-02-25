@@ -1,0 +1,38 @@
+{
+  "case": "19-G-0430",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Granting Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={540961C3-3B2E-4896-B1D0-2445F525B21C}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-G-0430",
+      "file_name": "164-C_19-G-0430.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter regarding Notice of Probable Violation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E14F3F3-2D5F-44EB-AF0E-79A2C88AB6FB}",
+      "organization": "City of Yonkers",
+      "itemNo": "2",
+      "docket_id": "19-G-0430",
+      "file_name": "Letter regarding Notice of Probable Violation.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6124E7F-2673-48C7-8101-042494557E22}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-G-0430",
+      "file_name": "165-A_19-G-0430.pdf"
+    }
+  ]
+}

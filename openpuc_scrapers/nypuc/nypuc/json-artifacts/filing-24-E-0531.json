@@ -1,0 +1,93 @@
+{
+  "case": "24-E-0531",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007EEC91-0000-C086-A587-79DB152A1FAE}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "FINAL - ABB CMS 600V CT (indoor-outdoor) Letter of Intent 09092024",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007EEC91-0000-CDC0-BFB8-9661E5D477FE}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "FINAL - ABB CMS 600V CT (indoor-outdoor) Letter of Intent 09092024.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "CMS cover letter confidentiality secretary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007EEC91-0000-C265-AB1C-6440287DF757}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "CMS cover letter confidentiality secretary.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Motions",
+      "name": "CMS cover letter confidentiality RAO",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007EEC91-0000-C34E-89A0-8820AEB835AC}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "CMS cover letter confidentiality RAO.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "CMS cover letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007EEC91-0000-C2EA-94FA-6E47577E7DCC}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "CMS cover letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "CMS TEST INFORMATION_redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007EEC91-0000-C9A4-8D71-F4DE7B97D88C}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "CMS TEST INFORMATION_redacted.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "ABB Inc. L23-148 FINAL",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={007EEC91-0000-C724-9ED7-0DE2CBBFCC8F}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "ABB Inc. L23-148 FINAL.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/13/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "1VAP428151-DB_CMS_052821",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F07DEC91-0000-C81D-8E34-361F6D617C5C}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0531",
+      "file_name": "1VAP428151-DB_CMS_052821.pdf"
+    }
+  ]
+}

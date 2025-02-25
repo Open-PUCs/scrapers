@@ -1,0 +1,38 @@
+{
+  "case": "23-G-0681",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Letters",
+      "name": "237486_Li_Untimely_SMR_11.14.23_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10CFD98B-0000-C919-814B-6F1BE5415ED7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-G-0681",
+      "file_name": "237486_Li_Untimely_SMR_11.14.23_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "237486 Li Request for Rehearing 11092023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10CED98B-0000-C616-8CC2-54157EC3AF00}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "23-G-0681",
+      "file_name": "237486 Li Request for Rehearing 11092023_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/16/2023",
+      "nypuc_doctype": "Letters",
+      "name": "237486_Zhi_Li_SMD_Final_10062023_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0CBD98B-0000-C21E-9B4F-12B72019B5CA}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-G-0681",
+      "file_name": "237486_Zhi_Li_SMD_Final_10062023_Redacted.pdf"
+    }
+  ]
+}

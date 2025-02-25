@@ -1,0 +1,38 @@
+{
+  "case": "24-E-0119",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0185093-0000-CE15-AA3A-1ED3BFD8995A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0119",
+      "file_name": "378_24-E-0119.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of AQOZFI Inwood, LLC to Submeter Electricity at 4650 Broadway, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={208FD68D-0000-C612-B321-FADB55599CA8}",
+      "organization": "AQOZFI Inwood, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0119",
+      "file_name": "AQOZFI INWOOD LLC - Petition to Submeter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/23/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={308FD68D-0000-CE15-B6B5-A470E6CF2700}",
+      "organization": "AQOZFI Inwood, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0119",
+      "file_name": "AQOZFI INWOOD LLC - Petition to Submeter Cover Letter.pdf"
+    }
+  ]
+}

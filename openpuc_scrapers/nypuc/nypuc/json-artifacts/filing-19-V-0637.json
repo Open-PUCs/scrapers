@@ -1,0 +1,49 @@
+{
+  "case": "19-V-0637",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/02/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDB96223-E7AC-4139-86E3-6F6A14ABEC48}",
+      "organization": "Town of Tyre",
+      "itemNo": "4",
+      "docket_id": "19-V-0637",
+      "file_name": "CASE NO 19-V-0637_06022020140743.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/08/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Approving the Town of Tyre\u00bfs Application to Utilize the Alternative Franchising Procedure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F567BEB-C247-4154-8701-AD1C698CDA00}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-V-0637",
+      "file_name": "19-V-0637 Town of Tyre AFP Approval Ltr.-4-8-20.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/06/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letters to the Municipalities",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={054A18C1-F7BD-4C22-995C-9E0464752811}",
+      "organization": "Town of Tyre",
+      "itemNo": "2",
+      "docket_id": "19-V-0637",
+      "file_name": "Letters to the Municipalities.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/25/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Town of Tyre for a Waiver of the Requirements of 16 NYCRR, Section 894 to Permit the Town to Expedite Franchising Process.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1222A00-B940-40BE-9999-4CBC292B5C20}",
+      "organization": "Town of Tyre",
+      "itemNo": "1",
+      "docket_id": "19-V-0637",
+      "file_name": "Waiver Request.pdf"
+    }
+  ]
+}

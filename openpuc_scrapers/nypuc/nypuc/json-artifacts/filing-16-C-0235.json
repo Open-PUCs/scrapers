@@ -1,0 +1,60 @@
+{
+  "case": "16-C-0235",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/21/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Commendation of Local Telephone Companies and 2016 Annual Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={05FCDFEF-E3E8-4256-A0A1-24EDE624FE5A}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "16-C-0235",
+      "file_name": "564_16-C-0235 - Commendations.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/13/2017",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon Fourth Quarter 2016 Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D7B13B3D-A17B-4B74-8D53-4DF71C689168}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "16-C-0235",
+      "file_name": "563_16-C-0235.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/19/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon Service Quality Third Quarter Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CE8ADBE5-407B-45BE-AFF7-C3C50358A071}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-C-0235",
+      "file_name": "562_16c0235.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/20/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E857017-7745-4E88-A434-C5629DA66D04}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-C-0235",
+      "file_name": "563_16c0235.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/24/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Verizon Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F69903C0-6314-4AE7-93ED-1E716079E11B}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-C-0235",
+      "file_name": "564_16c0235 Q1 SQ Report.pdf"
+    }
+  ]
+}

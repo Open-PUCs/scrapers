@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0266",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D0488B-0000-C617-8F2C-5CFC6EA670D1}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0266",
+      "file_name": "376 - 23-E-0266 - Letter 101923.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/19/2023",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0D0488B-0000-C935-9634-8108EB8420D3}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-E-0266",
+      "file_name": "376_23-E-0266_Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/16/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to 156-166 Bowery Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={509FC588-0000-C21C-B128-91B143EBA1F3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-E-0266",
+      "file_name": "23-E-0266 Con Edison Response to 156-166 Bowery Appeal.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0A52088-0000-C81A-B780-1CE0B662091C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-E-0266",
+      "file_name": "Ack letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0A22088-0000-CD1E-844C-778AF36F393C}",
+      "organization": "156-166 Bowery L. P./Kaled Mgmt",
+      "itemNo": "2",
+      "docket_id": "23-E-0266",
+      "file_name": "156-166 Bowery LLC v Con Edison - Appeal of Informal Decision.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/15/2023",
+      "nypuc_doctype": "Letters",
+      "name": "2023.05.15 Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D09F2088-0000-C810-A50D-E742B81EE860}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "23-E-0266",
+      "file_name": "2023 05 15 Informal review decision_148362.pdf"
+    }
+  ]
+}

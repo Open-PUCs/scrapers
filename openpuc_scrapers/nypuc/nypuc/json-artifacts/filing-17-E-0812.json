@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0812",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0812 Historic Kingston Ack Letter 12282017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4F8E8FF6-C97D-43B1-BCAD-8F786BC1EA5C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-E-0812",
+      "file_name": "17-E-0812 Historic Kingston Ack Letter 12282017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0812 Historic Kingston Rehearing Request 12272017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={03F22F1C-7367-49D9-825F-481C15FDC21B}",
+      "organization": "Historic Kingston Marina LLC",
+      "itemNo": "3",
+      "docket_id": "17-E-0812",
+      "file_name": "17-E-0812 Historic Kingston Rehearing Request 12272017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/22/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0812 Historic Kingston SMD Final 12012017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5E00AAEA-2E52-45F3-B376-0EFD0CD94E63}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0812",
+      "file_name": "17-E-0812 Historic Kingston SMD Final 12012017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EC05DD55-4A53-46A7-85FB-BE1F39547525}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0812",
+      "file_name": "376 Letter_Redacted.pdf"
+    }
+  ]
+}

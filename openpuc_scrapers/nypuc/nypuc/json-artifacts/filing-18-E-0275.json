@@ -1,0 +1,49 @@
+{
+  "case": "18-E-0275",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/25/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F9C03D9-7FFA-4906-B17F-32DD0D1E9E5A}",
+      "organization": "Harmony Mills West LLC",
+      "itemNo": "4",
+      "docket_id": "18-E-0275",
+      "file_name": "Harmony West - Approval Order Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/26/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B803C810-3EA3-41DF-A87F-7D6983894AE1}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0275",
+      "file_name": "362_18-E-0274 0275.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EF84559B-68D7-4353-9AEE-61FCEE1174EA}",
+      "organization": "Harmony Mills West LLC",
+      "itemNo": "2",
+      "docket_id": "18-E-0275",
+      "file_name": "Harmony West SAPA Package.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/09/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Harmony Mills West LLC to Submeter Electricity at 50 N. Mohawk Street And 100 N. Mohawk Street, Cohoes, New York, Located in the Territory of Niagara Mohawk Power Corporation.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1720933A-9BD7-4D80-94D2-F0ABD5476071}",
+      "organization": "Harmony Mills West LLC",
+      "itemNo": "1",
+      "docket_id": "18-E-0275",
+      "file_name": "Submetering Petition_Harmony Mills West.pdf"
+    }
+  ]
+}

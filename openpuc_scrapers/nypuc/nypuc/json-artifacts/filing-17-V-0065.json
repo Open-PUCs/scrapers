@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0065",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9197D84E-7066-4DBF-9669-119738526A6B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0065",
+      "file_name": "669_17-V-0065.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/31/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Columbia, Herkimer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={666F1F86-6EE4-450D-B4FA-804B52FE10C7}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0065",
+      "file_name": "T Columbia PSC Submission documents 1 31 17.pdf"
+    }
+  ]
+}

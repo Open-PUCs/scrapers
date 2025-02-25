@@ -1,0 +1,27 @@
+{
+  "case": "16-G-0098",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/06/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "SWR Unlimited Inc. Request of leniency from Penalties",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A598B723-0C51-4D5A-B29B-8DBC97958128}",
+      "organization": "SWR Unlimited Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0098",
+      "file_name": "SWR UNLIMITED INC..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D1BB1485-0EC3-47C2-BCB1-8A58975FD5A2}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-G-0098",
+      "file_name": "161_16g0098.pdf"
+    }
+  ]
+}

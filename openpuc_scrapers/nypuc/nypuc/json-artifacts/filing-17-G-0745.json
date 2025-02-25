@@ -1,0 +1,60 @@
+{
+  "case": "17-G-0745",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "01/29/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Gas Sales and Transportation Operating Procedures Manual",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={375AB083-E947-45EA-80B8-CE6A65A45BBC}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-G-0745",
+      "file_name": "GTOP changes effective March 1 2019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/29/2019",
+      "nypuc_doctype": "Reports",
+      "name": "GTOP Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35AC305C-CD02-4F9B-9B6F-42F52742D1F3}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "17-G-0745",
+      "file_name": "GTOP Transmittal Letter 1-29-2019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/21/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Amendments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00615CBF-4742-48F4-9BA8-D2285067FE9A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-G-0745",
+      "file_name": "167_17-G-0745.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/15/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={622A7830-BB9A-4DAB-9430-CAE355299D91}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-G-0745",
+      "file_name": "Affidavit Letter DDS Physical Storage.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/01/2017",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-G-0745",
+      "file_name": ""
+    }
+  ]
+}

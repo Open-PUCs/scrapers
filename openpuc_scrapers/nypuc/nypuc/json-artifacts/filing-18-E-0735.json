@@ -1,0 +1,93 @@
+{
+  "case": "18-E-0735",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/05/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={71E3D0E6-7F78-46BC-9A0F-65BD63D544A7}",
+      "organization": "100 East 53rd Street Condominium",
+      "itemNo": "4",
+      "docket_id": "18-E-0735",
+      "file_name": "compliance letter 6-5-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/26/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C812CFD5-0FE5-4258-B1D0-2645BACD901B}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-E-0735",
+      "file_name": "363_18-E-0735.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/08/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00585545-089F-44B4-9F91-B6F43D9CED5C}",
+      "organization": "100 East 53rd Street Condominium",
+      "itemNo": "2",
+      "docket_id": "18-E-0735",
+      "file_name": "response letter 3-8-19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Offering Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4C03ED6-0170-4290-A378-B30E2F3F6429}",
+      "organization": "100 East 53rd Street Condominium",
+      "itemNo": "1",
+      "docket_id": "18-E-0735",
+      "file_name": "submetering offering plan.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application.2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CDA60C96-56F5-4F7A-AFA3-9D6005D33003}",
+      "organization": "100 East 53rd Street Condominium",
+      "itemNo": "1",
+      "docket_id": "18-E-0735",
+      "file_name": "submetering application.3.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application.1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6990826B-DD4C-44C7-B321-C05422BE5635}",
+      "organization": "100 East 53rd Street Condominium",
+      "itemNo": "1",
+      "docket_id": "18-E-0735",
+      "file_name": "submetering application.2.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of 100 East 53rd Street Condominium to Submeter Electricity at 100 East 53rd Street, NY, NY 10022, Located in the Territory of Consolidated Edison Company, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={716F1066-C0CB-4148-8B68-C9809D625EBF}",
+      "organization": "100 East 53rd Street Condominium",
+      "itemNo": "1",
+      "docket_id": "18-E-0735",
+      "file_name": "submetering application.1.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "LEED Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={483F7F1D-0097-4191-94DF-D312CFB5AC45}",
+      "organization": "100 East 53rd Street Condominium",
+      "itemNo": "1",
+      "docket_id": "18-E-0735",
+      "file_name": "LEED report.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "16-E-0131",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/22/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={52E17359-557E-4E9F-B396-E377082F3DE8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "16-E-0131",
+      "file_name": "372_16e0131.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/03/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Skyview Parc II LP to Submeter Electricity at 131-05 40th Road, 131-03 40th Road, 131-01 40th Road, Flushing, New York 11354, Located in the Territory of Consolidated Edison Company, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BFAA3541-3D98-4257-977C-0579FF5DC688}",
+      "organization": "Skyview Parc II LP",
+      "itemNo": "1",
+      "docket_id": "16-E-0131",
+      "file_name": "Submetering Application.pdf"
+    }
+  ]
+}

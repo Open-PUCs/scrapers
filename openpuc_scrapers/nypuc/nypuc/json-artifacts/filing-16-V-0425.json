@@ -1,0 +1,115 @@
+{
+  "case": "16-V-0425",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1EB62AB2-5549-45D1-8A26-9B0DAD71E1E8}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "16-V-0425",
+      "file_name": "666_16v0425.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/28/2016",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B8FB21C6-F8A0-4F5A-BD0B-18150CDAE741}",
+      "organization": "Public Service Commission",
+      "itemNo": "9",
+      "docket_id": "16-V-0425",
+      "file_name": "666_16v0425 Notice .pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/19/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Signed EAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={39B78516-3F71-41B1-B84A-9F1D5B9F4D2D}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "8",
+      "docket_id": "16-V-0425",
+      "file_name": "Signed EAF Part 2 & 3 for DMM.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/06/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd - Short Environmental Assessment Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={961443A9-EB00-48C2-8CA9-5D5D40B80F0B}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "7",
+      "docket_id": "16-V-0425",
+      "file_name": "2nd Short EAF City of Corning - NPV.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/30/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "New - Short Environmental Assessment Form Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F807F30-8F30-4EDA-96D2-D1642DBC0BB4}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "6",
+      "docket_id": "16-V-0425",
+      "file_name": "Supplemental filing 16-V-0425 Short EAF City of Corning - NPV.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/07/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "3rd Corrected NPV Long EAF Form Part1 City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FAA0920-3A93-4067-B103-E01E851275DE}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "5",
+      "docket_id": "16-V-0425",
+      "file_name": "Letter and 3rd Corrected NPV Long EAF Form Part1 City of Corning.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "08/25/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "2nd Corrected NPV Long EAF Form Part 1 City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9805F0C3-A16B-40D3-A990-326B0D02275A}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "4",
+      "docket_id": "16-V-0425",
+      "file_name": "2nd Corrected NPV Long EAF Form Part1 City of Corning.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "08/22/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Proof of Publication of the Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70C5C071-16B4-4540-8DB2-1F9DB4664EE9}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "3",
+      "docket_id": "16-V-0425",
+      "file_name": "Proof of Notice EVSC Certificate of Confirmation City of Corning.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "08/16/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Corrected EAF Part 1 NPV - City of Corning",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF8DFA98-FEC7-4760-8497-DA5463F7D32A}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "2",
+      "docket_id": "16-V-0425",
+      "file_name": "Corrected NPV Long EAF Form Part1 City of Corning.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "08/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Community Cable Corporation d/b/a North Penn Video for a Certificate of Confirmation for its Franchise with the City of Corning, Steuben County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9FCAF500-8EF7-40F7-B0B6-85BB15B4EA85}",
+      "organization": "Community Cable Corporation d/b/a North Penn Video",
+      "itemNo": "1",
+      "docket_id": "16-V-0425",
+      "file_name": "NPV Certificate of Confirmation Application.pdf"
+    }
+  ]
+}

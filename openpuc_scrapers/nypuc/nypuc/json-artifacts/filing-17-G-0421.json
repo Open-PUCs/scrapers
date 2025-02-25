@@ -1,0 +1,49 @@
+{
+  "case": "17-G-0421",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-G-0421 Buffalo Ack Letter 07142017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45A462C3-F5C4-4627-8BC7-7C3E85390A5F}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "17-G-0421",
+      "file_name": "17-G-0421 Buffalo Ack Letter 07142017_Redacted (1).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-G-0421 Buffalo Rehearing Request 07122017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F5F7DB4A-DEE1-473B-8B0E-23EC777C1CBD}",
+      "organization": "Buffalo Reclaimed, LLC",
+      "itemNo": "3",
+      "docket_id": "17-G-0421",
+      "file_name": "17-G-0421 Buffalo Rehearing Request 07122017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-G-0421 Buffalo SMD Final 06162017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB206F4C-57E2-49A6-AC1D-4BBEC6700915}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-G-0421",
+      "file_name": "17-G-0421 Buffalo SMD Final 06162017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7CA3DD3C-B5C8-4C51-8F4C-C7B4D615884B}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-G-0421",
+      "file_name": "168 Letter_Redacted.pdf"
+    }
+  ]
+}

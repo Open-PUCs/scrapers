@@ -1,0 +1,49 @@
+{
+  "case": "24-G-0479",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/09/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Con Edison Response to L O Raine Construction Corp",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6071D891-0000-CF19-AD55-7FF9AF0CBEC0}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "4",
+      "docket_id": "24-G-0479",
+      "file_name": "Case 24-G-0479 Con Edison Response to L O Raine Construction Corp.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement Scheduling Letter 8.9.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0BB5B91-0000-C244-8DC4-BCEF2A612125}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0479",
+      "file_name": "Acknowledgement Scheduling Ltr - L O Raine Constr Corp v ConEd - #242490.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Determination 8.2.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10AD5B91-0000-C31C-9B29-E5EE663749CD}",
+      "organization": "L O RAINE Const Corp.",
+      "itemNo": "2",
+      "docket_id": "24-G-0479",
+      "file_name": "LO Raine Const Corp v Con Edison (242490 ) - Appeal of Informal Determination.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/15/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision 7.31.24",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00AA5B91-0000-C62D-BCFB-F939C694C4B6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0479",
+      "file_name": "L_O_RAINE_Const_Corp_URAC_vc_Con_Ed_case_242490.pdf"
+    }
+  ]
+}

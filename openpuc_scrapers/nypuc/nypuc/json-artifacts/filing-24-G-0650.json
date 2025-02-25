@@ -1,0 +1,38 @@
+{
+  "case": "24-G-0650",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Letters",
+      "name": "348522 Triplett SMR Ack_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90AA4093-0000-C45A-9465-414E7C973920}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0650",
+      "file_name": "348522 Triplett SMR Ack_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "SMR Request Triplett 11152024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50A94093-0000-CC3D-899A-230575E1BDB4}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-G-0650",
+      "file_name": "SMR request Triplett 11152024_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/18/2024",
+      "nypuc_doctype": "Letters",
+      "name": "348522_Triplett_SMD_Final_10252024_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A74093-0000-CF23-AAFA-A6D59F99A3FE}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-G-0650",
+      "file_name": "348522_Triplett_SMD_Final_10252024_Redacted.pdf"
+    }
+  ]
+}

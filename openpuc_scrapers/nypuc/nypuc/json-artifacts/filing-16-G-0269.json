@@ -1,0 +1,38 @@
+{
+  "case": "16-G-0269",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/28/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding withdrawal of petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={18E1EC65-3FE7-4021-9A93-5C73E0BF46EB}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "16-G-0269",
+      "file_name": "16-G-0269 Valley Energy Closing Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/25/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition to Withdraw Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C81E5E20-E46B-488C-93DB-9751C3D90549}",
+      "organization": "Valley Energy, Inc.",
+      "itemNo": "2",
+      "docket_id": "16-G-0269",
+      "file_name": "Petition to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/05/2016",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Valley Energy, Inc. for Approval of Energy Axis Gas Transponders.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C351B9A3-5FB5-421A-A5B1-C6CBF5FCF207}",
+      "organization": "Valley Energy, Inc.",
+      "itemNo": "1",
+      "docket_id": "16-G-0269",
+      "file_name": "Valley Energy.pdf"
+    }
+  ]
+}

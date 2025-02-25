@@ -1,0 +1,38 @@
+{
+  "case": "22-V-0409",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99DDFB00-7B68-42AB-AFAA-162CE2ED6831}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0409",
+      "file_name": "663_22-V-0409 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/26/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00961 Letter to Building Owner 17 Ave B",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1B99EBD-5B57-4321-8769-F6ADA6E4FEF3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-V-0409",
+      "file_name": "22-00961 Letter to Building Owner 17 Ave B.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 17 Avenue B, Manhattan.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87506F59-E0D2-40BB-975D-F87F50A2E603}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0409",
+      "file_name": "220504-10 Petition (17 AVENUE B) (Post-Survey).pdf"
+    }
+  ]
+}

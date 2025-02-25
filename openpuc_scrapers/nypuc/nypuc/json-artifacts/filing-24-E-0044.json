@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0044",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A06FBA92-0000-C910-8077-7EBF42977096}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-E-0044",
+      "file_name": "368_24-E-0044 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/18/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent of CHC Management Group Inc. to Submeter Electricity at 130 East 177th Street, Bronx, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0441E8D-0000-C214-AB3C-61B49970ADBA}",
+      "organization": "CHC Management Group Inc.",
+      "itemNo": "1",
+      "docket_id": "24-E-0044",
+      "file_name": "CHC Management Group Inc - Submetering Notice of Intent - 130 East 177th Street Bronx NY.pdf"
+    }
+  ]
+}

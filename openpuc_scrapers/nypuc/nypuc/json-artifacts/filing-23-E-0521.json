@@ -1,0 +1,115 @@
+{
+  "case": "23-E-0521",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Rehearing and Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B001978F-0000-C31C-807E-510128E9E5BC}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "23-E-0521",
+      "file_name": "365_23-E-0521 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "DPS Staff Affidavit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00D828F-0000-C83B-8E05-53E3944CDF7C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "23-E-0521",
+      "file_name": "Green Visions - 23-E-0521 - Staff Affidavit (5.16.24).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/16/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E00D828F-0000-CD16-8713-B9E6993373A2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "23-E-0521",
+      "file_name": "Green Visions - 23-E-0521 - Cover Letter (51624).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Green Visions Solar email stating documents were filed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4061EB8D-0000-CD32-8E67-09AEA0F5384E}",
+      "organization": "Green Visions Solar LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0521",
+      "file_name": "Green Visions Solar email stating documents were filed.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "DER_Green Visions Solar - Letter to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4061EB8D-0000-C010-ABAF-8D364142DF69}",
+      "organization": "Green Visions Solar LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0521",
+      "file_name": "DER_Green Visions Solar_ Letter to Petition_2_27_2024.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/27/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "DER form that was submited on 10-14-2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4061EB8D-0000-C156-BFF1-ADD38273E32D}",
+      "organization": "Green Visions Solar LLC",
+      "itemNo": "5",
+      "docket_id": "23-E-0521",
+      "file_name": "DER form that was submited on 10_14_2023.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/04/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Revoke Eligibility",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60CED58C-0000-C71B-A902-031891AB0AF5}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0521",
+      "file_name": "381_23-E-0521_final 1424.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/14/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE PSC Acts Against 8 Distributed Energy Resource Providers and 2 ESCOs",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20B5698C-0000-C066-9611-494C97ABEE03}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-E-0521",
+      "file_name": "pr23129.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "10/17/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0CD3E8B-0000-CC1F-B7AB-01BDD63AC90D}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-E-0521",
+      "file_name": "367_23-E-0521_101723.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "10/12/2023",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Initiates Enforcement Actions Against Distributed Energy Resource Providers",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10B6258B-0000-C271-9060-0C10F9DA11BF}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "23-E-0521",
+      "file_name": "pr23111.pdf"
+    }
+  ]
+}

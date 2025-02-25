@@ -1,0 +1,38 @@
+{
+  "case": "21-C-0169",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Designation as Eligible Telecommunications Carrier",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={523E42FE-D1B6-4CE5-A29A-DB0F346DE991}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-C-0169",
+      "file_name": "562_21-C-0169 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of People's Choice Communications, Inc. for Designation as an Eligible Telecommunications Carrier.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={749A4269-74F8-4B25-868C-72FAB9B48671}",
+      "organization": "People's Choice Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0169",
+      "file_name": "NY PCC ETC Petition Final w Exhibits 03.18.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/18/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99EB9D55-179B-4896-8963-19AFBF98FB9E}",
+      "organization": "People's Choice Communications, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-C-0169",
+      "file_name": "NY PCC ETC Petition Cover Letter.pdf"
+    }
+  ]
+}

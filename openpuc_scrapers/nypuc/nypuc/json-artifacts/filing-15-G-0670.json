@@ -1,0 +1,38 @@
+{
+  "case": "15-G-0670",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/02/2016",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Reconsideration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={976BFA39-B516-41B3-AE5A-264E5724AC14}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "15-G-0670",
+      "file_name": "162_15g0670.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/27/2016",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1ED9FC0A-2495-4AD2-8984-D0B7A9CDB68E}",
+      "organization": "Two Brothers Masons Inc.",
+      "itemNo": "2",
+      "docket_id": "15-G-0670",
+      "file_name": "Jose Molina.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/30/2015",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0FBAD3B-26C1-4F61-9F1B-BED157D45C57}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "15-G-0670",
+      "file_name": "165_15g0670.pdf"
+    }
+  ]
+}

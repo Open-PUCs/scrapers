@@ -1,0 +1,27 @@
+{
+  "case": "24-C-0537",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Initiating a Focused Operations Audit",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0174B93-0000-C41E-A6B8-B74D6745F365}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "24-C-0537",
+      "file_name": "564_24-C-0537 Order & RFP.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/14/2024",
+      "nypuc_doctype": "Press Releases",
+      "name": "PRESS RELEASE - PSC Commences Audit of Frontier Communications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A82B93-0000-C118-9A69-FA98A04DEE0D}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "24-C-0537",
+      "file_name": "pr 24100 Frontier Audit.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "case": "19-E-0110",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/17/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Response to Recommendation No. 12 in DPS Staff Storm Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={954326EE-CC19-4955-8131-1D5F1DF9F5E3}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., PSEG Long Island, Rochester Gas and Electric Corporation",
+      "itemNo": "7",
+      "docket_id": "19-E-0110",
+      "file_name": "2018 Storm Report_Recommendation 12_07172019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/26/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "Hardening_Resilience Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56F8F620-1D2C-4FC0-AF7A-595840159072}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "6",
+      "docket_id": "19-E-0110",
+      "file_name": "Hardening_Resilience Plan_19E0110_20190626.pdf (227 KB)"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Plans and Proposals",
+      "name": "NMPC Storm Recommendations Implementation Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F86192F-753E-48DD-B875-25489DB2C6EF}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "5",
+      "docket_id": "19-E-0110",
+      "file_name": "Case 19-E-0110-NMPC Storm Recommendations Implementation Plan_05202019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/20/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Show Cause Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2435A95F-6B0C-40F1-95C7-1D8B88089FD2}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "4",
+      "docket_id": "19-E-0110",
+      "file_name": "Case 19-E-0110_Show Cause response.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "04/25/2019",
+      "nypuc_doctype": "Rulings",
+      "name": "Ruling on Extension Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3517F938-F26A-404F-AB35-249F959B82A9}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "19-E-0110",
+      "file_name": "19-E-0105 et al. - 2018 Storms - Extension Ruling-4-25-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "04/23/2019",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AF4964E0-7829-47B0-AB22-22342CB617E7}",
+      "organization": "Central Hudson Gas & Electric Corporation, Consolidated Edison Company of New York, Inc., New York State Electric & Gas Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, Orange and Rockland Utilities, Inc., Rochester Gas and Electric Corporation",
+      "itemNo": "2",
+      "docket_id": "19-E-0110",
+      "file_name": "Extension request_04232019_v1.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/18/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Instituting Proceeding and to Show Cause",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F003B871-1280-4FA3-B7DC-A3A41CAD9778}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0110",
+      "file_name": "302-B_19-E-0105 et al.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0382",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009AB38A-0000-C11C-BB08-D9C07682350E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0382",
+      "file_name": "662_23-V-0382 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30764689-0000-C539-B607-5BA1A11F7749}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0382",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO V. Avon Letter 07.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20764689-0000-C317-99BA-E2D8CB9B569A}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0382",
+      "file_name": "Charter Confidential Treatment Request to RAO V. Avon Letter 07.11.23.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications, V. Avon Cover Letter- Request for Certificate of Confirmation 07.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30764689-0000-C857-9128-E9543FA33F93}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0382",
+      "file_name": "Charter Communications, V. Avon Cover Letter- Request for Certificate of Confirmation 07.11.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/11/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Charter Communications - V. Avon Request for Renewal and Certificate of Confirmation(Redacted) 07.11.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30764689-0000-C67F-ABA3-8A4244D9F01C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0382",
+      "file_name": "Charter Communications - V. Avon Request for Renewal and Certificate of Confirmation(Redacted) 07.11.23.pdf"
+    }
+  ]
+}

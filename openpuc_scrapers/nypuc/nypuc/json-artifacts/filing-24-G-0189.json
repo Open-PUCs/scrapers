@@ -1,0 +1,27 @@
+{
+  "case": "24-G-0189",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/22/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={303DA18F-0000-C81A-9A57-591F47C6A023}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "24-G-0189",
+      "file_name": "161_24-G-0189.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/24/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20231226 - Response to NOPV Letter - Deceased #9086 [#23-02624] OFF-23-244_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40B63B8D-0000-CF1B-9BC7-C6D074427B24}",
+      "organization": "Terra-Care Landscaping",
+      "itemNo": "2",
+      "docket_id": "24-G-0189",
+      "file_name": "20231226 - Response to NOPV Letter - Deceased #9086 [#23-02624] OFF-23-244_Redacted.pdf"
+    }
+  ]
+}

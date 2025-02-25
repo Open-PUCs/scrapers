@@ -1,0 +1,27 @@
+{
+  "case": "17-V-0550",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D6DFB596-FEDA-4229-BDF4-512572979A24}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-V-0550",
+      "file_name": "664_17-V-0550.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Town of Canisteo, County of Steuben, New York.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={889CD937-962C-4B87-8309-3BB0F3685A10}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0550",
+      "file_name": "CANISTEO, TN, FRANCHISE RENEWAL SUBMISSION TO PSC, 09.13.17.pdf"
+    }
+  ]
+}

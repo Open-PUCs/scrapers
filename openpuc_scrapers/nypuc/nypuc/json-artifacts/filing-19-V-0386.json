@@ -1,0 +1,71 @@
+{
+  "case": "19-V-0386",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/28/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Joseph A. Post Granting Request to Withdraw Petition and Closing Case",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1319202D-08DA-4B43-B8F5-7D1EEE588F96}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-V-0386",
+      "file_name": "19-V-0386 Secretary Approval to Withdraw Petition.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Verizon Withdrawal Letter and Request to Close Proceeding",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BC1E6129-D97B-452B-A7B5-B7F76F985CFA}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "3",
+      "docket_id": "19-V-0386",
+      "file_name": "201110 Letter re Matter 17-02654 (withdrawal).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/19/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Building Owner",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2797103F-CE08-42D0-BB07-C367CAC7FE93}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-V-0386",
+      "file_name": "17-02654 Merged Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 215 Sterling Street, Brooklyn",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ACE7195A-42E9-442E-81B9-78F52739C6DD}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0386",
+      "file_name": "Petition (215 Sterling St).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28D74930-F2E3-44DD-A2C6-B2DB0D86230C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0386",
+      "file_name": "Exhibit 2 (215 Sterling St).pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={588802D8-BEEB-460F-9E3C-FD6A95233A78}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "19-V-0386",
+      "file_name": "Exhibit 1 (215 Sterling St).pdf"
+    }
+  ]
+}

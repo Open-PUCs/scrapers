@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0401",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B02145CC-31ED-430F-8A38-DE60107A8D06}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0401",
+      "file_name": "662_22-V-0401 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8AC961F3-0C83-48B2-B9E7-A7F02C2D03BF}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0401",
+      "file_name": "AUSA Newspaper Cover Letter - Blooming Grove, T..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Blooming Grove, T.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FE145926-7406-4ABC-996C-14E88A88F4AF}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0401",
+      "file_name": "AUSA Newspaper Affidavit - Blooming Grove, T..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB88C80C-105A-4633-84F7-5CC62D40885F}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0401",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Blooming Grove, T. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51CF622A-54B7-40F8-BCF9-CB282176AE3C}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0401",
+      "file_name": "Exhibit IV - Blooming Grove, T. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={97329DE5-5FFA-4D4A-8A87-BF0D0C1C77B4}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0401",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Town Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={572143AE-6E5A-4E42-97B2-19137D4BC1F9}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0401",
+      "file_name": "Exhibit II - Town Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8365A07-C34F-4439-86D1-217EB135B922}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0401",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "07/07/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A3A05DBE-359E-4617-86F8-F2ED15A039AE}",
+      "organization": "Cablevision of Wappingers Falls, Inc.",
+      "itemNo": "1",
+      "docket_id": "22-V-0401",
+      "file_name": "Application Cover Letter - Blooming Grove, T..pdf"
+    }
+  ]
+}

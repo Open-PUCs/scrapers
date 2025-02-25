@@ -1,0 +1,71 @@
+{
+  "case": "20-W-0066",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/31/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Crystal Water Customer Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1C085257-0676-4E5F-A8C0-FA9ABFBD7468}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-W-0066",
+      "file_name": "Crystal Water Customer Notice.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/31/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2544B621-2A0C-44B6-9AF0-D7A7D31D287D}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "20-W-0066",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/23/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-W-0066",
+      "file_name": ""
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Establishing Escrow Account",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7E203E63-71FB-458D-A113-29A21B1B3999}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-W-0066",
+      "file_name": "462_20-W-0066 Order final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Crystal Water Supply Company, Inc. for Recovery of Extraordinary Repair Costs and to Establish a Replenishable Escrow Account for Future Extraordinary Repairs.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AE5601E-E87B-46FD-8F98-59CFBEE81CBF}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-W-0066",
+      "file_name": "Crystal Water Supply Draft.EscrowStatement. .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D4DFCF63-883F-4E3E-9ED9-3B6193F0A9E1}",
+      "organization": "Crystal Water Supply Company, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-W-0066",
+      "file_name": "Crystal Water Supply Stat.Cover Letter. .pdf"
+    }
+  ]
+}

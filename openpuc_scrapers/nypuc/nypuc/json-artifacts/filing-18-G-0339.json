@@ -1,0 +1,159 @@
+{
+  "case": "18-G-0339",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/15/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Gas Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D5721392-FFAD-411F-A732-3F875D4EE56E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0339",
+      "file_name": "161_18-G-0339.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/15/2019",
+      "nypuc_doctype": "Reports",
+      "name": "IMU500T Gas IMU Volume Corrector Testing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90359AA3-40BE-46BD-BE33-72857E77497A}",
+      "organization": "Itron Inc.",
+      "itemNo": "3",
+      "docket_id": "18-G-0339",
+      "file_name": "IMU500T CASE 18-G-0339 comm RCA 2018-12-20_final-signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/15/2019",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={590019C7-50A8-43BF-8A69-642AD7BBF60F}",
+      "organization": "Itron Inc.",
+      "itemNo": "3",
+      "docket_id": "18-G-0339",
+      "file_name": "IMU500T CASE 18-G-0339 comm RCA 2018-12-20_cover-letter-signed.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/03/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AB1708A1-0E15-4917-B7AB-E844D42FAF8D}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-G-0339",
+      "file_name": "CASE 18-G-0339 - 4,000 Hour Test Data_Cover Letter - 11-30-18.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/03/2018",
+      "nypuc_doctype": "Reports",
+      "name": "4,000 Hour Test Data",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61252473-515B-4DE4-B651-1144208C1966}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-G-0339",
+      "file_name": "Copy of IMU 500T 4000 Hour Data - 4000th Hour.xlsx"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={57E9132F-A024-4AA5-AFFA-95EAC97C402F}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "00_Itron (SSN) AMI IMU 500T VC PSC Petition Letter-Package - 20180530.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 8 - Itron (SSN) B109 Weather Simulation Test Results",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8974F0D6-4F1C-4EC0-878D-EBC664803A14}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 8 - Itron (SSN) B109 Weather Simulation Test Results.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 7 - Itron (SSN) Underwriters Laboratories (UL) Notice(s) of Authorization",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D7C928C-9225-418C-A63C-11EC654E516C}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 7 - Itron (SSN) Underwriters Laboratories (UL) Notice(s) of Authorization.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 6 - Itron (SSN) FCC Grant(s) of Equipment Authorization",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={654C6FC9-8561-428D-A607-2601CDCE7B40}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 6 - Itron (SSN) FCC Grant(s) of Equipment Authorization.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 5 - Itron (SSN) IMU Compatibility Chart",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0F61460-9FE7-453C-982A-C1140C375045}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 5 - Itron (SSN) IMU Compatibility Chart.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 4 - Itron (SSN) Technology Guides and Glossary",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EEDFC2DF-B742-4337-8426-31E307B02026}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 4 - Itron (SSN) Technology Guides and Glossary.pdf"
+    },
+    {
+      "serial": "12",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 3 - Itron (SSN) IMU 500T Installation Manual",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={091F95B7-3D74-4B16-8D39-923179EFED71}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 3 - Itron (SSN) IMU 500T Installation Manual.pdf"
+    },
+    {
+      "serial": "13",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 2 - Itron (SSN) IMU 500T Datasheet",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C6AF834-4535-48C9-8AAB-50ED9F907BB2}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 2 - Itron (SSN) IMU 500T Datasheet.pdf"
+    },
+    {
+      "serial": "14",
+      "date_filed": "06/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment 1 - EVC-IMU Photos (IMU 500T)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B97A2BA-9E08-40DE-9F01-CB201EA74E5D}",
+      "organization": "Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-G-0339",
+      "file_name": "Attachment 1 - EVC-IMU Photos (IMU 500T).pdf"
+    }
+  ]
+}

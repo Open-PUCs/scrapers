@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0051",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/02/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B74DF85D-9BD3-47ED-977C-97F55147C64D}",
+      "organization": "812 Amsterdam LLC",
+      "itemNo": "6",
+      "docket_id": "19-E-0051",
+      "file_name": "compliance letter 8-2-19.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/03/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Submetering ID Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FC4F74AC-D1E8-43E1-95C2-6A5995CA87DE}",
+      "organization": "812 Amsterdam LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0051",
+      "file_name": "revised submetering ID form.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BA391D10-A873-4A4F-90F6-31F816C9C60A}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "19-E-0051",
+      "file_name": "370_19-E-0051.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/25/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={42397D7F-B2D5-4D80-908A-8A97A64EE73E}",
+      "organization": "812 Amsterdam LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0051",
+      "file_name": "response letter 4-25-19.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/31/2019",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to requested information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EA1A110D-3498-438E-AF24-2522DE84F029}",
+      "organization": "812 Amsterdam LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0051",
+      "file_name": "response letter 1-31-19.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application 2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AE1C6D96-083F-41C7-9F29-208E64DEFE60}",
+      "organization": "812 Amsterdam LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0051",
+      "file_name": "submetering application 3.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Submetering Application 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={965DCDA0-EC63-431E-9ACA-B89DBE6016D0}",
+      "organization": "812 Amsterdam LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0051",
+      "file_name": "submetering application 2.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "01/22/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 812 Amsterdam LLC to Submeter Electricity at 814-816 Amsterdam Avenue, New York, New York 10025, Located in the Territory of Consolidated Edison Company, of Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={87DFAC3C-6F25-45A9-AFB2-3A40B51F02AD}",
+      "organization": "812 Amsterdam LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0051",
+      "file_name": "submetering application 1.pdf"
+    }
+  ]
+}

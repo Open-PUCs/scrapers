@@ -1,0 +1,27 @@
+{
+  "case": "23-G-0171",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/24/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0C8108F-0000-C111-8636-6384D370E369}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-G-0171",
+      "file_name": "161-B_23-G-0171.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60744988-0000-C71F-A184-983BED59135F}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-G-0171",
+      "file_name": "163-A_23-G-0171.pdf"
+    }
+  ]
+}

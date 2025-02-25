@@ -1,0 +1,49 @@
+{
+  "case": "18-C-0677",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/25/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "ESI-EAE NY Asset Transfer Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D57EF9EA-3B1E-4256-BA9C-F3475687F178}",
+      "organization": "ExteNet Asset Entity, LLC, ExteNet Systems (New York), Inc.",
+      "itemNo": "3",
+      "docket_id": "18-C-0677",
+      "file_name": "ESI-EAE NY Asset Transfer Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/04/2019",
+      "nypuc_doctype": "Letters",
+      "name": "18-02642 ExteNet.Signed",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CA062B12-9DF6-40A0-B406-AEF68EC46697}",
+      "organization": "ExteNet Asset Entity, LLC, Extenet Systems, Inc.",
+      "itemNo": "2",
+      "docket_id": "18-C-0677",
+      "file_name": "18-02642 ExteNet.Signed.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E7AAD395-80C3-473D-BD56-1AE34F3B0AE0}",
+      "organization": "ExteNet Asset Entity, LLC, Extenet Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0677",
+      "file_name": "ESI_EAE NY Asset Transfer Transmittal (110218).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/05/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of ExteNet Asset Entity, LLC and ExteNet Systems, Inc. for Approval for Assignee to Acquire the Customers and Certain Assets of Assignor.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2D179138-7FB2-4BD0-A764-7130DDB14050}",
+      "organization": "ExteNet Asset Entity, LLC, Extenet Systems, Inc.",
+      "itemNo": "1",
+      "docket_id": "18-C-0677",
+      "file_name": "ESI EAE Asset Transfer (110218).pdf"
+    }
+  ]
+}

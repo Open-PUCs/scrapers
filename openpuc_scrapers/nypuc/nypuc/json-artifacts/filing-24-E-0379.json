@@ -1,0 +1,82 @@
+{
+  "case": "24-E-0379",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Westfield",
+      "itemNo": "5",
+      "docket_id": "24-E-0379",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/19/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Revenue Requirement and Rate Design",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0244693-0000-C01A-90FD-FC084B0213EB}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "24-E-0379",
+      "file_name": "373_24-E-0379 111924final Order & attachment.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009D0D93-0000-C212-AE63-957EFC04675C}",
+      "organization": "Village of Westfield",
+      "itemNo": "3",
+      "docket_id": "24-E-0379",
+      "file_name": "DPS Affidavit submission.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit of Publication",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={009D0D93-0000-C412-8C4B-23073D5CC4E9}",
+      "organization": "Village of Westfield",
+      "itemNo": "3",
+      "docket_id": "24-E-0379",
+      "file_name": "Affidavit of Publication- Comparison of rates.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Westfield Transmittal letter 2024 - Revised Date on Rate Study",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E57490-0000-C112-AA5C-28D6560D7FA8}",
+      "organization": "Village of Westfield",
+      "itemNo": "2",
+      "docket_id": "24-E-0379",
+      "file_name": "Westfield Transmittal letter 2024 - Revised Date on Rate Study 6-28-24.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/02/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "Rate Filing Westfield",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0E57490-0000-C232-A7ED-5FF2533B1968}",
+      "organization": "Village of Westfield",
+      "itemNo": "2",
+      "docket_id": "24-E-0379",
+      "file_name": "Rate Filing Westfield 6-27-2024.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "06/28/2024",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Village of Westfield",
+      "itemNo": "1",
+      "docket_id": "24-E-0379",
+      "file_name": ""
+    }
+  ]
+}

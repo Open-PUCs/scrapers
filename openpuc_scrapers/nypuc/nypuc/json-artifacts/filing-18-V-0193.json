@@ -1,0 +1,38 @@
+{
+  "case": "18-V-0193",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/22/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={578EC3D0-2C29-4128-AA68-218E9966352A}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "18-V-0193",
+      "file_name": "661_17-V-0736 et al.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/05/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Town of Benton Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6D87418B-4D05-4DC3-9513-56546A7F86FB}",
+      "organization": "Charter Communications",
+      "itemNo": "2",
+      "docket_id": "18-V-0193",
+      "file_name": "PSC Case 18-V-0193 T. Benton Page 14.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/27/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of Time Warner Cable Northeast LLC, locally known as Charter Communications for Approval of the Renewal of its Certificate of Confirmation and Cable Franchise with the Town of Benton, County of Yates.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C156053-53C8-4D6C-9DB4-659ECAB7892E}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "18-V-0193",
+      "file_name": "032718 TWN BENTON RENEWAL SUBMISSION TO PSC(2).pdf"
+    }
+  ]
+}

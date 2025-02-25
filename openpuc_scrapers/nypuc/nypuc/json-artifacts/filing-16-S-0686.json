@@ -1,0 +1,104 @@
+{
+  "case": "16-S-0686",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/19/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding an appeal of an informal review decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={752B6A9F-B335-467B-8122-368D541A8144}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-S-0686",
+      "file_name": "265 Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/19/2017",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={95CF2327-C519-4B2F-8F1D-D2B3DD33AABB}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "16-S-0686",
+      "file_name": "265 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Granting the Extension",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6DBEADD-2EBE-4F45-BBFB-8666EB18B14A}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "16-S-0686",
+      "file_name": "424215 525 Park extension.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/30/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Extension of Time",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE78B55C-71BF-4CE1-A31B-E3A7BA30977B}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "5",
+      "docket_id": "16-S-0686",
+      "file_name": "Case 424215 - 525 Park Avenue Associates.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter to Mr. DiCeglio",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={780CAA4B-942A-4013-9490-B035B53923E5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-S-0686",
+      "file_name": "424215 Response.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "01/27/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Email from Mr. DiCeglio",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EAECDDB5-A7FD-4AF1-A757-C7B268032DD6}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "16-S-0686",
+      "file_name": "Addt'lInfo424215.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "01/18/2017",
+      "nypuc_doctype": "Complaints",
+      "name": "Response to the Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9CCDFD3C-33EC-4649-B8BF-48E5E71622EE}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "16-S-0686",
+      "file_name": "Case 424215 - 525 Park Avenue Associates.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/01/2016",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CCC020A3-761D-40B5-8E24-2D19C51B7DD2}",
+      "organization": "525 Park Avenue Associates",
+      "itemNo": "2",
+      "docket_id": "16-S-0686",
+      "file_name": "424215 525 Park Ave Assoc Appeal of Informal.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/01/2016",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66408547-2B1C-4181-A6CD-AADD11AADD48}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "16-S-0686",
+      "file_name": "Case 424215 525 Park Ave-URAC vs Con Ed-FINAL.pdf"
+    }
+  ]
+}

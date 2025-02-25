@@ -1,0 +1,82 @@
+{
+  "case": "23-V-0617",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order of Entry",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={50CA8D8C-0000-CE1F-BA25-F7BFEC47FE96}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "23-V-0617",
+      "file_name": "661_23-V-0617 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/21/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00965 Letter to Building Owner Offering Facilitation. 509 Cathedral Pky.VZ",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={20A9B88A-0000-CF15-8C66-89777158650D}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "6",
+      "docket_id": "23-V-0617",
+      "file_name": "23-00965 Letter to Building Owner Offering Facilitation. 509 Cathedral Pky.VZ.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/20/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A02DB48A-0000-C419-91AF-C9788DB1F56C}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "5",
+      "docket_id": "23-V-0617",
+      "file_name": "230920_23-00965_509 CATHEDRAL PKWY_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/21/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Negotiations Status Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1069198A-0000-C21B-88B6-9294D5BC5843}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "4",
+      "docket_id": "23-V-0617",
+      "file_name": "230821_23-00965_509 CATHEDRAL PKWY_Negotiations Status Report.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/19/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00965 Letter to Verizon New York Inc. - 509 Cathedral Pkwy",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F0336F89-0000-C814-AB3E-F7833C233C2E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "23-V-0617",
+      "file_name": "23-00965 Letter to Verizon New York Inc. - 509 Cathedral Pkwy.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/23/2023",
+      "nypuc_doctype": "Letters",
+      "name": "23-00965 Letter to Building Owner - 509 Cathedral Parkway",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0AE4888-0000-C015-9C4B-E8E8B3FB2403}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "23-V-0617",
+      "file_name": "23-00965 Letter to Building Owner - 509 Cathedral Parkway.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "05/03/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. for an Order of Entry for 509 Cathedral Parkway, Manhattan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4036E287-0000-C418-99F4-B1CF1BB769A5}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0617",
+      "file_name": "230503-8 Petition (509 CATHEDRAL PKWY) (Post-Survey).pdf"
+    }
+  ]
+}

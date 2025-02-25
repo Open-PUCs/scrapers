@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0567",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/28/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240819 - Payment - Non-sufficient Funds (NSF) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={60ED9891-0000-C81C-A460-7920B29701AE}",
+      "organization": "Pristine Stonework & Landscape Design, Inc.",
+      "itemNo": "7",
+      "docket_id": "24-G-0567",
+      "file_name": "20240819 - Payment - Non-sufficient Funds (NSF) - Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240725 - Payment ($1,250) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C07F1491-0000-C42C-B828-118D095E4997}",
+      "organization": "Pristine Stonework & Landscape Design, Inc.",
+      "itemNo": "6",
+      "docket_id": "24-G-0567",
+      "file_name": "20240725 - Payment ($1,250) - Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/11/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240711 - Response to Consent Offer Letter - Correspondence",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F07CA290-0000-CD13-84AD-FEC342BCEB51}",
+      "organization": "New York State Department of Public Service, Pristine Stonework & Landscape Design, Inc.",
+      "itemNo": "5",
+      "docket_id": "24-G-0567",
+      "file_name": "20240711 - Response to Consent Offer Letter - Correspondence.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/03/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240403 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0094A48E-0000-C019-A0F4-0556EEAF3702}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "24-G-0567",
+      "file_name": "20240403 - Consent Offer Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "03/20/2024",
+      "nypuc_doctype": "Letters",
+      "name": "20240313 - Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E0D95C8E-0000-CF1F-88E5-E3169572852C}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-G-0567",
+      "file_name": "20240313 - Consent Offer Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "21-V-0449",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/01/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={93585C11-6418-42A5-BEF2-57E08DE3A899}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-V-0449",
+      "file_name": "661_21-V-0449.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/13/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for Approval of the Renewal of its Franchise with the Town of Lisbon, St. Lawrence County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D50193D6-C135-4FAA-8D59-87DBCDF0A5D9}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "21-V-0449",
+      "file_name": "T. Lisbon to be filed with PSC.pdf"
+    }
+  ]
+}

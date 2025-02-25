@@ -1,0 +1,38 @@
+{
+  "case": "22-G-0208",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9D8CD21D-2EAF-4EAE-AB7F-3D52656D1417}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "22-G-0208",
+      "file_name": "165-C_22-G-0208 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/01/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={716F8C87-4076-41EF-9A52-4F9379F35778}",
+      "organization": "Baker & Sons Landscaping",
+      "itemNo": "4",
+      "docket_id": "22-G-0208",
+      "file_name": "LETTER SECRETARY AT DPS JUNE 1 2022.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Determining Penalty and Directing Payment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C2769960-A4F8-43E7-B8A2-4C0DCF701AD7}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-G-0208",
+      "file_name": "167-A_22-G-0208.pdf"
+    }
+  ]
+}

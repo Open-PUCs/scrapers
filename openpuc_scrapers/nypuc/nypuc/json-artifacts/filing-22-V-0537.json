@@ -1,0 +1,104 @@
+{
+  "case": "22-V-0537",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={91CCEC8E-7E5E-49A8-B50A-33CE7BCA8901}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-V-0537",
+      "file_name": "662_22-V-0537.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6F7048EB-D021-4202-BEDF-0A02F42AF7FA}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0537",
+      "file_name": "AUSA Newspaper Cover Letter - Old Westbury, V..pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "AUSA Newspaper Affidavit - Old Westbury, V.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FB179293-AAFE-466B-B81F-5D8AA40458D2}",
+      "organization": "Altice USA",
+      "itemNo": "2",
+      "docket_id": "22-V-0537",
+      "file_name": "AUSA Newspaper Affidavit - Old Westbury, V..pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Proof of Performance",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7F7F12EA-C9D1-4333-BF9A-1A757C15E028}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0537",
+      "file_name": "Proof of Performance.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit IV - Old Westbury, V. AUSA Franchise",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={28852DD6-AFD8-46A4-AB73-2E4BCD638563}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0537",
+      "file_name": "Exhibit IV - Old Westbury, V. AUSA Franchise.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit III - Resolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={63312EFD-430A-4E16-A8DF-0A93B787DD0A}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0537",
+      "file_name": "Exhibit III - Resolution.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit II - Village Legal Notice of Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5483687C-C47B-4298-8189-A4C4F9F858DC}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0537",
+      "file_name": "Exhibit II - Village Legal Notice of Hearing.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Exhibit I - R-2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={322197D4-E82A-40B9-A380-2C4C39FE58BB}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0537",
+      "file_name": "Exhibit I - R-2.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "09/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6378A6DF-138B-46E1-B1E2-9A190B16AB21}",
+      "organization": "Cablevision Systems Long Island Corporation",
+      "itemNo": "1",
+      "docket_id": "22-V-0537",
+      "file_name": "Application Cover Letter - Old Westbury, V..pdf"
+    }
+  ]
+}

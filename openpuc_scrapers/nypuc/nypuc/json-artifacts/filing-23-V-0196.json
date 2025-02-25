@@ -1,0 +1,71 @@
+{
+  "case": "23-V-0196",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/15/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Denying Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D080438E-0000-C31D-9F6F-3FBA98372E5D}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "23-V-0196",
+      "file_name": "663_23-V-0196_31524.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Comments",
+      "name": "2023-11-13 Comcast Comments to NY PSC on Video Programming Change Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7088CA8B-0000-C03D-A991-513BBF91764E}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "4",
+      "docket_id": "23-V-0196",
+      "file_name": "2023-11-13 Comcast Comments to NY PSC on Video Programming Change Notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Comments",
+      "name": "2023-11-13 Comcast Comments Transmittal Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7088CA8B-0000-CC11-8090-4D5343820463}",
+      "organization": "Comcast of New York, LLC",
+      "itemNo": "4",
+      "docket_id": "23-V-0196",
+      "file_name": "2023-11-13 Comcast Comments Transmittal Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/13/2023",
+      "nypuc_doctype": "Comments",
+      "name": "CTANY Comments Programming Changes 11.13.2023",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9079CA8B-0000-C02B-A892-DA18E0011438}",
+      "organization": "Cable Telecommunications Association of New York, Inc.",
+      "itemNo": "3",
+      "docket_id": "23-V-0196",
+      "file_name": "23-V-0196 - CTANY Members Comments Programming Changes_ 11.13.2023.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/12/2023",
+      "nypuc_doctype": "Notices",
+      "name": "Notice Soliciting Comments",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30EB898A-0000-CA1B-8847-E8AC79C572EA}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0196",
+      "file_name": "23-V-0196 - Sec Notice - VZ Subscriber notice .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/16/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Verizon New York Inc. to Change the Form of Certain Notices for Cable Television Programming Changes.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={498A619F-4493-4A6A-A2C2-63A719EC1C07}",
+      "organization": "Verizon New York Inc.",
+      "itemNo": "1",
+      "docket_id": "23-V-0196",
+      "file_name": "220616 Petition re Cable Notices.pdf"
+    }
+  ]
+}

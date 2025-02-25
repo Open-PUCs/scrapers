@@ -1,0 +1,60 @@
+{
+  "case": "18-G-0495",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding appeal of an informal hearing decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4528DE4F-9B69-4C8F-885D-8AFDF1DB409D}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0495",
+      "file_name": "161 Letter_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "11/20/2018",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E162ADB7-3798-472E-90EA-B4CDA03A2557}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "18-G-0495",
+      "file_name": "161 Determination.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/03/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal of Informal Review Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8224236F-88AC-4406-87ED-3B0F83C14233}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "18-G-0495",
+      "file_name": "733105 Yerushalayim - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/03/2018",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Review - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DD22C9D4-F457-4E51-8F55-094492497D52}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "18-G-0495",
+      "file_name": "Case #733105 - Mr. Yerushalayim Documents in 7-31-18 - Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/03/2018",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Review Decision - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DA3F1CB6-04C0-46DB-AF42-A1280C0E5EC5}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "18-G-0495",
+      "file_name": "IR Case 733105 (Ben-Siyon Yerushalayim vs National Grid) Closing Decision - Redacted.pdf"
+    }
+  ]
+}

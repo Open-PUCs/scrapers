@@ -1,0 +1,60 @@
+{
+  "case": "20-V-0470",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Notices",
+      "name": "Notice of Determination of Significance Negative Declaration",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76D70CE6-0B65-4A4B-A383-3DA8509680AC}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-V-0470",
+      "file_name": "665_20-V-0470 NegDec.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/16/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order and Certificate of Confirmation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={46448759-24C5-4310-B036-5D351B27F80E}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-V-0470",
+      "file_name": "665_20-V-0470 final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/09/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "20-V-0470 Town of Stephentown SEAF Part 2 & 3",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F785AE82-D4A7-424F-9DB4-8AA1A6273CC7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-V-0470",
+      "file_name": "20-V-0470 Town of Stephentown SEAF Part 2 & 3.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/25/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to the Petition - SEAF Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2F47455F-B79E-4A9C-AB27-C3E92FA7D003}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "20-V-0470",
+      "file_name": "PSC Case 20-V-04709 - Add'l Filing of SEAF Part 1 - T. Stephentown 09.25.2020.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "09/18/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Spectrum Northeast, LLC for a Certificate of Confirmation for its Franchise with the Town of Stephentown, Rensselaer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8172D401-AACF-4D32-BD70-CA47E33B49E6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "20-V-0470",
+      "file_name": "2020.09.17 T.STEPHENTOWN-NEW FILED W.PSC pdf.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "22-V-0288",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/20/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Amendment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={141132A2-10CD-4E55-9ED4-EA70723D46D9}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "22-V-0288",
+      "file_name": "664_22-V-0288 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/03/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Legal Notice_ V. Skaneateles Amendment of Franchise Fee Change",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E98AA762-C15A-436C-B455-A5A04E344338}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "3",
+      "docket_id": "22-V-0288",
+      "file_name": "Charter Communications, Legal Notice_ V. Skaneateles Amendment of Franchise Fee Change 8.3.22-ak.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Franchise Fee Amendment Request Additional Statement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06ECDA73-1FA2-434D-A568-F319166D1925}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "2",
+      "docket_id": "22-V-0288",
+      "file_name": "2022.05.19 V. Skaneateles, Spectrum Northeast, LLC Franchise Fee Amendment request additional statement (22-V-0288).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Village of Skaneateles, Onondaga County for Approval of an Amendment of their Franchise with Time Warner Cable Northeast, LLC.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={558417C5-4BD8-4D28-8B92-CF2822CE3DAA}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "22-V-0288",
+      "file_name": "2022.05.04 - V. Skaneateles Request to Amend Franchise Fee-Charter Filed.pdf"
+    }
+  ]
+}

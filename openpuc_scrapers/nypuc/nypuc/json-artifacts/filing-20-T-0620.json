@@ -1,0 +1,104 @@
+{
+  "case": "20-T-0620",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/22/2022",
+      "nypuc_doctype": "Reports",
+      "name": "ORU Part 102 Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={51E5CC70-AEAD-4589-A9CF-2FA61BAA05DB}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "3",
+      "docket_id": "20-T-0620",
+      "file_name": "20-T-0620 ORU Part 102 Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/08/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Phillips to Madeline Warner Regarding Part 102.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={09071E3D-84E7-4EF1-8E9E-F076782F50F8}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-T-0620",
+      "file_name": "20-T-0620 OR Part 102 Ltr. 2.8.21.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "OR-Port Jervis - Tline EMF Study Rpt 8-31-2020",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F4CA26A0-E14A-48ED-A8E5-A70A9206DD61}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-T-0620",
+      "file_name": "OR-Port Jervis - Tline EMF Study Rpt 8-31-2020_signed.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "FEAF_Part 1 Compiled with Associated Documentation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A4944A4D-D1A9-431D-89A4-6DFD647C2B88}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-T-0620",
+      "file_name": "Final_FEAF_Part 1 Compiled with Associated Documentation.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "12/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0341ADE9-CAA6-4E0A-A383-2EE3747886DC}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-T-0620",
+      "file_name": "December 11 Port Jervis Part 102 M. Warner Cover Letter.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "4 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA p538-811",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3F6888AE-D71C-4ECD-A43C-BED6E35F6404}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-T-0620",
+      "file_name": "4 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA Final p538-811.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "12/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "3 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA p346-537",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8423C86E-3429-41D4-9426-A3DC7D33F385}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-T-0620",
+      "file_name": "3 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA Final p346-537.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "2 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA 194-345",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9F55BD92-D429-48B3-8E3F-2286CF090291}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-T-0620",
+      "file_name": "2 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA Final 194-345.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "12/11/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "1 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA p1-193",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6730998A-D41E-4466-A2AB-42510E49E8DB}",
+      "organization": "Orange and Rockland Utilities, Inc.",
+      "itemNo": "1",
+      "docket_id": "20-T-0620",
+      "file_name": "1 of 4 - TLine 111 Part 102 Report R6 12-4-2020 CHA Final p1-193.pdf"
+    }
+  ]
+}

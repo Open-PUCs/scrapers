@@ -1,0 +1,82 @@
+{
+  "case": "19-G-0681",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/21/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Case 19-G-0681 NG Compliance Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2AEDA7B6-DB02-4315-8A0B-9E6D0807F74A}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "7",
+      "docket_id": "19-G-0681",
+      "file_name": "Case 19-G-0681 NG Compliance Filing.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/19/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={55FF0BEA-8269-4D1A-BC39-C737B46FDF57}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-G-0681",
+      "file_name": "162_19-G-0681 Determination final.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/19/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={27B4D668-EB28-4CF4-BF12-5C8AB33392CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "19-G-0681",
+      "file_name": "162_19-G-0681 letter final 5.19.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/23/2021",
+      "nypuc_doctype": "Comments",
+      "name": "18-G-0278 and 19-G-0681 BUG Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={199816C0-2B76-41D4-AD91-7D2C8F316D22}",
+      "organization": "The Brooklyn Union Gas Company d/b/a National Grid NY",
+      "itemNo": "4",
+      "docket_id": "19-G-0681",
+      "file_name": "18-G-0278 and 19-G-0681 BUG Response.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={368F470C-D7F5-4549-A64F-AADB1905F18E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "19-G-0681",
+      "file_name": "836852 Brooklyn Hospital Center .pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of the Denial of Informal Hearing Request",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90524D13-7E35-471C-9BE2-B6B9DAAC9497}",
+      "organization": "The Brooklyn Hospital Center",
+      "itemNo": "2",
+      "docket_id": "19-G-0681",
+      "file_name": "TBHC Appeal to the PSC - October 2019 (002).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/16/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Denial of Request for an Informal Hearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={577BFF11-620C-47AD-B37F-9540DB715B27}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "19-G-0681",
+      "file_name": "836852 Brooklyn Hospital Center IH revised.pdf"
+    }
+  ]
+}

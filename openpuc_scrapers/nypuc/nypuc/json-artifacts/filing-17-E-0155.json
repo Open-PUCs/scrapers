@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0155",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/30/2018",
+      "nypuc_doctype": "Reports",
+      "name": "NYPSC Annual Test Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={83A694DB-0FF1-40A8-B5DF-0D04BAB6FC7B}",
+      "organization": "606 West 57 LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0155",
+      "file_name": "NYPSC Annual Test Form - 606 W 57th St. - CASE 17-E-0155.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/30/2018",
+      "nypuc_doctype": "Reports",
+      "name": "Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C5C64E15-6B50-43D4-90E6-1F9D77F72E8E}",
+      "organization": "606 West 57 LLC",
+      "itemNo": "5",
+      "docket_id": "17-E-0155",
+      "file_name": "Meter Test Plan - 606 W 57th St.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/03/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response to the Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D444599-841B-448B-B5B1-ECF479D3333B}",
+      "organization": "606 West 57 LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0155",
+      "file_name": "Case 17-E-0155 - Acceptance Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/25/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={22DA1D6B-0DBF-480B-9A5B-95AA3878D87F}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0155",
+      "file_name": "366_17-E-0155 Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/22/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Request for a waiver",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={EBB54327-CF34-4311-A48D-E2D131486CC3}",
+      "organization": "606 West 57 LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0155",
+      "file_name": "Energy Audit Waiver - 2017-05-01.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/13/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent to Submeter Electricity at 606 W 57th Street, New York, NY Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8E53EF5-B58E-4393-AA72-CDBF1437EB6C}",
+      "organization": "606 West 57 LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0155",
+      "file_name": "606 W 57th St. PSC Filing - 2017-03-13 - FINAL.pdf"
+    }
+  ]
+}

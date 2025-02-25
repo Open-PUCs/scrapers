@@ -1,0 +1,38 @@
+{
+  "case": "17-E-0805",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/27/2018",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Transfer and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={14F182E9-2422-42C5-82E6-F342347767CF}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0805",
+      "file_name": "380_17-E-0805.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/03/2018",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplemental Information Regarding the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FF3E0F7B-0193-4FC1-8F0D-73535D3E3E05}",
+      "organization": "Access Industries, Inc.",
+      "itemNo": "2",
+      "docket_id": "17-E-0805",
+      "file_name": "Access Supplemental Information Filing_1.3.2018.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/22/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition of Calpine Corporation and Access Industries, Inc. for a Declaratory Ruling that Public Service Law Section 70 does not Apply to the Proposed Transaction, or in the Alternative, for Approval of the Proposed Transaction Pursuant to Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3762FBA2-C294-4F14-9C9B-AC5C1D125AD2}",
+      "organization": "Access Industries, Inc., Calpine Corporation",
+      "itemNo": "1",
+      "docket_id": "17-E-0805",
+      "file_name": "Joint Petition of Access and Calpine (NYPSC) (12-22-2017).pdf"
+    }
+  ]
+}

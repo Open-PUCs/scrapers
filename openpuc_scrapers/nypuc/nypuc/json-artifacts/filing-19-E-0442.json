@@ -1,0 +1,38 @@
+{
+  "case": "19-E-0442",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/07/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Modifications to Commercial Demand Response Meter Data Access Requirements",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C567F9CF-F206-453D-BFC6-2A6360C2E22B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-E-0442",
+      "file_name": "371_19-E-0442.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Consolidated Edison Company of New York, Inc. to Modify Its Plan to Provide Commercial Demand Response Data Access.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5B9F345F-1CAB-4082-AD96-AD775D3350E6}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0442",
+      "file_name": "ConEd petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/06/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover letter - Con Edison Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B7F56C19-4204-4FDD-9D7B-F85D848FF57C}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "19-E-0442",
+      "file_name": "cover letter - ConEdison petition.pdf"
+    }
+  ]
+}

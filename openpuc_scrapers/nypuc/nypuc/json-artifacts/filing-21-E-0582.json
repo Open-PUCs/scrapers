@@ -1,0 +1,49 @@
+{
+  "case": "21-E-0582",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/23/2022",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Petition for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E53B5698-F4CC-4F9D-9D67-183C2059CB34}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0582",
+      "file_name": "372_21-E-0582 Letter.final_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/06/2021",
+      "nypuc_doctype": "Letters",
+      "name": "154303 Cardoso-Rojo SMR Ack Letter 12062021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={08EF898C-D237-44E8-B2DA-AF1343FD8259}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "21-E-0582",
+      "file_name": "154303 Cardoso-Rojo SMR Ack Letter 12062021_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/06/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "154303 Cardoso-Roho Rehearing Petition 12032021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A7D3ECB8-193E-4478-B2E7-92CB435D1112}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "21-E-0582",
+      "file_name": "154303 Cardoso-Roho Rehearing Petition 12032021_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "12/06/2021",
+      "nypuc_doctype": "Letters",
+      "name": "154303_Rojo_SMD_Final_11032021_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9162603-15BC-4C92-B2F0-A5E5030C2DC7}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "21-E-0582",
+      "file_name": "154303_Rojo_SMD_Final_11032021_Redacted.pdf"
+    }
+  ]
+}

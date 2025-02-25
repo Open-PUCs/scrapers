@@ -1,0 +1,49 @@
+{
+  "case": "23-W-0072",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/28/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "New York American Water Company, Inc.",
+      "itemNo": "4",
+      "docket_id": "23-W-0072",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving New Tariff Schedule",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={005F0087-0000-C719-9714-53C5E43283F5}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "23-W-0072",
+      "file_name": "461_23-W-0072.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/13/2023",
+      "nypuc_doctype": "Tariffs",
+      "name": "Revised Tariff Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2606274A-9CD2-4C02-ADFC-7C6F115F2029}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "2",
+      "docket_id": "23-W-0072",
+      "file_name": "23-W-0072.Revised Cover Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "02/07/2023",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "1",
+      "docket_id": "23-W-0072",
+      "file_name": ""
+    }
+  ]
+}

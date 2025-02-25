@@ -1,0 +1,38 @@
+{
+  "case": "17-M-0302",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/03/2017",
+      "nypuc_doctype": "Declaratory Ruling",
+      "name": "Declaratory Ruling on Intra-Corporate Transactions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={67A7DCC9-4966-4CBD-8BE5-1435393AEA9E}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-M-0302",
+      "file_name": "263_17-M-0302.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/18/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Letter Requesting Action",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1F2C1ADF-8C8E-4E6E-9542-665AF1F09C1A}",
+      "organization": "Exelon Generation Company, LLC",
+      "itemNo": "2",
+      "docket_id": "17-M-0302",
+      "file_name": "Letter_to_the_Hon__Kathleen_H__Burgess.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/02/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Exelon Generation Company, LLC for a Limited Declaratory Ruling that Intra-Corporate Restructurings Require No Further Review Under Section 70 of the Public Service Law.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDBB3A24-25D0-433B-B89D-AC69B47F5761}",
+      "organization": "Exelon Generation Company, LLC",
+      "itemNo": "1",
+      "docket_id": "17-M-0302",
+      "file_name": "6-2-17Petition_of_Exelon_Generation_Company__LLC.pdf"
+    }
+  ]
+}

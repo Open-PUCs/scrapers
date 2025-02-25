@@ -1,0 +1,60 @@
+{
+  "case": "23-V-0473",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/20/2023",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90C54D8B-0000-C711-B717-E6DBDA2EBC6B}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "23-V-0473",
+      "file_name": "661_23-V-0473 .pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/25/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "T. Mamakating Filing (Redacted)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D0672E8A-0000-C519-998B-C77BB14C5243}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0473",
+      "file_name": "T. Mamakating Filing (Redacted).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/25/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0672E8A-0000-CD5B-8A9D-799DEC62BF7C}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0473",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/25/2023",
+      "nypuc_doctype": "Motions",
+      "name": "Charter Confidential Treatment Request to RAO T. Mamakating Letter 08.25.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0672E8A-0000-C011-A2CA-8BC9B510AFD6}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0473",
+      "file_name": "Charter Confidential Treatment Request to RAO T. Mamakating Letter 08.25.23.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "08/25/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Charter Communications T. Mamakating -Cover Letter-Request for Renewal and Certificate of Confirmation 08.25.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0672E8A-0000-C77D-82FE-7D7378DB533B}",
+      "organization": "Spectrum Northeast, LLC",
+      "itemNo": "1",
+      "docket_id": "23-V-0473",
+      "file_name": "Charter Communications T. Mamakating -Cover Letter-Request for Renewal and Certificate of Confirmation 08.25.23.pdf"
+    }
+  ]
+}

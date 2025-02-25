@@ -1,0 +1,82 @@
+{
+  "case": "21-E-0533",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/14/2023",
+      "nypuc_doctype": "Reports",
+      "name": "In-Service Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C01F8087-0000-C23B-A7BA-274AD8E4AE2E}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "21-E-0533",
+      "file_name": "in-service meter test plan 4-14-23.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/14/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C01F8087-0000-C21B-80C2-5A217D700353}",
+      "organization": "Quadlogic Controls Corp.",
+      "itemNo": "6",
+      "docket_id": "21-E-0533",
+      "file_name": "cover letter for meter test plan.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "03/14/2023",
+      "nypuc_doctype": "Reports",
+      "name": "Letter Confirming Meter Installation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B06CE086-0000-C110-80FE-65213BD1A3BF}",
+      "organization": "595 Dean LLC",
+      "itemNo": "5",
+      "docket_id": "21-E-0533",
+      "file_name": "response letter 3-13-23 .pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/21/2022",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance filing for 595 Dean Street, Brooklyn, NY",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0C6E19D6-B12F-4A6C-A209-53FAB3F3B599}",
+      "organization": "595 Dean LLC",
+      "itemNo": "4",
+      "docket_id": "21-E-0533",
+      "file_name": "compliance letter (1).pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F7AE2CE1-8362-49EA-8072-FD5D79FE78CE}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "21-E-0533",
+      "file_name": "364_21-E-0533.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "12/03/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AD0242F1-4286-4D67-AD05-63000530F323}",
+      "organization": "595 Dean LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0533",
+      "file_name": "Additional Information.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of intent of 595 Dean LLC to Sub-meter electricity at a building complex located at 595 Dean Street, Brooklyn, New York",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={4106220A-FBC0-4DF7-A6B3-149D923DC0FC}",
+      "organization": "595 Dean LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0533",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

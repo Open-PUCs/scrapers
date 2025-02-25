@@ -1,0 +1,49 @@
+{
+  "case": "17-E-0473",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Filing - Certification",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0F47273E-D388-41DF-8508-F0CB688C2622}",
+      "organization": "229 Cherry Street LLC",
+      "itemNo": "4",
+      "docket_id": "17-E-0473",
+      "file_name": "229_Signed Order Certification.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/22/2018",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7C78786E-083B-490F-8AF0-4335A9D0F9BD}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-E-0473",
+      "file_name": "371_17-E-0473.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "12/12/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Supplemental Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={36ECD14A-D549-42B4-8708-46228CA8B410}",
+      "organization": "229 Cherry Street LLC",
+      "itemNo": "2",
+      "docket_id": "17-E-0473",
+      "file_name": "Staff Questions_12.12.17.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/04/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Notice of Intent and Waiver Request of 229 Cherry Street LLC to Submeter Electricity at 229 Cherry Street, New York, New York, Located in the Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FA0BD6BF-A4D4-4D40-8DFD-B9467FF2B201}",
+      "organization": "229 Cherry Street LLC",
+      "itemNo": "1",
+      "docket_id": "17-E-0473",
+      "file_name": "Notice of Intent - 229 Cherry Street LLC - 229 Cherry Street (C0054735xE5E76).pdf"
+    }
+  ]
+}

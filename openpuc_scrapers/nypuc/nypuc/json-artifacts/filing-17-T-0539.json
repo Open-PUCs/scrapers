@@ -1,0 +1,27 @@
+{
+  "case": "17-T-0539",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "11/02/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess to Lisa M. Zafonte, Esq. Regarding 16 NYCRR Part 102.2(b)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C1FB81B0-CEED-4A13-A0F2-4043C71F417E}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "17-T-0539",
+      "file_name": "17-T-0539-Gardenville-Erie-Part 102 Ltr..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "In the Matter of a Part 102 Report of Niagara Mohawk Power Corporation d/b/a National Grid Concerning the Gardenville-Erie 54/921 115 kV Maintenance Project.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={69F24442-8E51-4045-A8CE-2B3F643750B4}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "17-T-0539",
+      "file_name": "Gardenville-Erie #54-921 102 Report.pdf"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case": "22-E-0433",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/14/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order on Interconnection Facility Transfer Process and Making Other Findings",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DDD02539-4169-4DDB-997E-822CBF7FCDE9}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "22-E-0433",
+      "file_name": "371_22-E-0433 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/14/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Letter Supplement to Verified Petition for Approval of the Transfer of Interconnection Facilities and Request for Expedited Review",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3EC96FB6-329A-4657-81E5-8A136D80318F}",
+      "organization": "Number Three Wind LLC",
+      "itemNo": "5",
+      "docket_id": "22-E-0433",
+      "file_name": "22-E-0433 NTW - Letter Supplement to Verified Petition for Approval of the Transfer of Interconnection Facilities and Request for Expedited Review - 09.14.22.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/10/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BA39CDD-6D0E-46EA-B20F-75D728E98037}",
+      "organization": "Number Three Wind LLC",
+      "itemNo": "2",
+      "docket_id": "22-E-0433",
+      "file_name": "22-E-0433 NTW - Supplement to Verified Petition for Approval of Transfer of Interconnection Facilities Request for Expedited Review - 08.10.2022 (rev.search).pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/25/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Number Three Wind, LLC for Approval, Pursuant to Section 70 of the Public Service Law, of the Transfer from Number Three Wind, LLC to Niagara Mohawk Power Corp. d/b/a National Grid of Certain Facilities Associated with the Interconnection of the Number Three Wind, LLC with Transmission Facilities Owned by Niagara Mohawk Power Corp. d/b/a National Grid,",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={35FD52E1-5380-4773-8E74-13FD4BE5C182}",
+      "organization": "Number Three Wind LLC",
+      "itemNo": "1",
+      "docket_id": "22-E-0433",
+      "file_name": "22-E-_____ - Number Three Wind Section 70 Petition - 07.25.2022 (FINAL) (1).pdf"
+    }
+  ]
+}

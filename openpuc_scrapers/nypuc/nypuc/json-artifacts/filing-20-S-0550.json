@@ -1,0 +1,60 @@
+{
+  "case": "20-S-0550",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "05/14/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0B9DC17B-1CC6-4062-8BB5-81E168360E90}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "20-S-0550",
+      "file_name": "268_20-S-0550_final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Supplement to Enwave Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6E8F7368-264F-4467-AF8D-F39AFC96B6C6}",
+      "organization": "Enwave Syracuse LLC, Syracuse Energy Concessionaire LLC",
+      "itemNo": "2",
+      "docket_id": "20-S-0550",
+      "file_name": "2021-04-23 Supplement to Enwave Petition.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/23/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={44720103-9EFB-4EBF-813A-59E2F378ED7B}",
+      "organization": "Enwave Syracuse LLC, Syracuse Energy Concessionaire LLC",
+      "itemNo": "2",
+      "docket_id": "20-S-0550",
+      "file_name": "2021-04-23 Enwave Filing Letter.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "11/05/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Filing Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC5DC065-DBCE-4FEB-9CC1-4B50FCF97E94}",
+      "organization": "Enwave Syracuse LLC, Syracuse Energy Concessionaire LLC",
+      "itemNo": "1",
+      "docket_id": "20-S-0550",
+      "file_name": "Filing Letter for Enwave NYPSC Financing Petition.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "11/05/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Enwave Petition for NYPSC Financing Order",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40C2A051-8DBD-42C7-AC3F-D9633BF8F4D4}",
+      "organization": "Enwave Syracuse LLC, Syracuse Energy Concessionaire LLC",
+      "itemNo": "1",
+      "docket_id": "20-S-0550",
+      "file_name": "Enwave Petition for NYPSC Financing Order.pdf"
+    }
+  ]
+}

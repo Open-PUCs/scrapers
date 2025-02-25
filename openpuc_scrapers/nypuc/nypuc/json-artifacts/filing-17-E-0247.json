@@ -1,0 +1,71 @@
+{
+  "case": "17-E-0247",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "17-E-0247 Langford Response 05222017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1E17F563-94E7-4FDF-B42E-E8C92265D0C5}",
+      "organization": "Individual",
+      "itemNo": "6",
+      "docket_id": "17-E-0247",
+      "file_name": "17-E-0247 Langford Response 05222017_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0247 Alexander Ack Letter 05082017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D887E243-A397-4A61-BDA7-6420D87ED934}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "17-E-0247",
+      "file_name": "17-E-0247 Alexander Ack Letter 05082017_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0247 Alexander Rehearing Request 2 05032017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDC175DD-B529-466C-AE5A-9A0C4C907E41}",
+      "organization": "Individual",
+      "itemNo": "4",
+      "docket_id": "17-E-0247",
+      "file_name": "17-E-0247 Alexander Rehearing Request 2 05032017_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "17-E-0247 Alexander Rehearing Request 05032017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F25793A2-0C3F-4403-B140-B91FCD0D96B6}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "17-E-0247",
+      "file_name": "17-E-0247 Alexander Rehearing Request 05032017_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/12/2021",
+      "nypuc_doctype": "Letters",
+      "name": "17-E-0247 Alexander SMD Final 04032017_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9762FEB2-F956-4568-92CF-E9D360ED62CB}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-E-0247",
+      "file_name": "17-E-0247 Alexander SMD Final 04032017_Redacted.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "06/20/2017",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess regarding a request for rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={66368535-62BB-443D-B68D-6B83C03EC537}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "17-E-0247",
+      "file_name": "367_ Letter 17-E-0247 _Redacted.pdf"
+    }
+  ]
+}

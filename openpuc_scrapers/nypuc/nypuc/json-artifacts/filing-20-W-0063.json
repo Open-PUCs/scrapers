@@ -1,0 +1,115 @@
+{
+  "case": "20-W-0063",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Lake Meadows Water Co., Inc.",
+      "itemNo": "4",
+      "docket_id": "20-W-0063",
+      "file_name": ""
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Lake Meadows Customer Noificationof Transfer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={86B747F8-FE83-4F88-A2EE-0BCFEAABDE92}",
+      "organization": "Lake Meadows Water Co., Inc.",
+      "itemNo": "3",
+      "docket_id": "20-W-0063",
+      "file_name": "Lake Meadows Customer Noificationof Transfer.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Lake Meadows Bills of Sales",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8A9B7C5F-AEC2-410D-A258-F34457800DF3}",
+      "organization": "Lake Meadows Water Co., Inc.",
+      "itemNo": "3",
+      "docket_id": "20-W-0063",
+      "file_name": "Lake Meadows Bills of Sales.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "08/21/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B25636AB-88BE-4826-B474-1267B2C336DB}",
+      "organization": "Lake Meadows Water Co., Inc.",
+      "itemNo": "3",
+      "docket_id": "20-W-0063",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/17/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Transfer of Assets and Dissolution",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30BEEB82-09FE-45CB-B6B8-F06348036A7A}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-W-0063",
+      "file_name": "464_20-W-0063 Order.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Short Environmental Assessment Form",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0390D76C-1E2B-4142-8FF1-07BA4820171A}",
+      "organization": "Lake Meadows Water Co., Inc., Mending Wall Associates, L.P., Town of North Greenbush",
+      "itemNo": "1",
+      "docket_id": "20-W-0063",
+      "file_name": "Short Environmental Assessment Form.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Lake Meadows Water District",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E1D5086D-4475-458A-A70C-53D7E9A339BC}",
+      "organization": "Lake Meadows Water Co., Inc., Mending Wall Associates, L.P., Town of North Greenbush",
+      "itemNo": "1",
+      "docket_id": "20-W-0063",
+      "file_name": "Lake Meadows Water District.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Petition by Lake Meadows Water Company, Inc., Mending Wall Associates, L.P. and the Town of North Greenbush for Approval of the Transfer of Water Supply Assets Serving the Lake Meadows Subdivision to the Town of North Greenbush.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1FF69FD5-87B8-470D-BF3D-C003521D9094}",
+      "organization": "Lake Meadows Water Co., Inc., Mending Wall Associates, L.P., Town of North Greenbush",
+      "itemNo": "1",
+      "docket_id": "20-W-0063",
+      "file_name": "Petition.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Attachment to the Petition",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3D6CA817-FEAC-4DD6-AE43-7DA59D2CCD90}",
+      "organization": "Lake Meadows Water Co., Inc., Mending Wall Associates, L.P., Town of North Greenbush",
+      "itemNo": "1",
+      "docket_id": "20-W-0063",
+      "file_name": "Attachment to the Petition.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "02/06/2020",
+      "nypuc_doctype": "Petitions",
+      "name": "Agreement to Transfer and Abandon",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0BB4F7B9-D29D-433D-BE5A-1E2CA50FE2FB}",
+      "organization": "Lake Meadows Water Co., Inc., Mending Wall Associates, L.P., Town of North Greenbush",
+      "itemNo": "1",
+      "docket_id": "20-W-0063",
+      "file_name": "Agreement to Transfer and Abandon.pdf"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "case": "24-G-0456",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/26/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Adopting Terms of Consent Order Agreement",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00DA2F92-0000-CC13-84B4-89FCA0752804}",
+      "organization": "Public Service Commission",
+      "itemNo": "7",
+      "docket_id": "24-G-0456",
+      "file_name": "161-B_24-G-0456.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "20240708 - Training Documentation (15 CEP)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0829390-0000-CE3E-A014-E78D75667147}",
+      "organization": "North Country Contractors, LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0456",
+      "file_name": "20240708 - Training Documentation (15 CEP).pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240703 - Payment ($750) - Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0829390-0000-C618-9F5A-02A01D8BBC53}",
+      "organization": "North Country Contractors, LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0456",
+      "file_name": "20240703 - Payment ($750) - Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/08/2024",
+      "nypuc_doctype": "Attachment",
+      "name": "20240703 - Consent Order - Final",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0829390-0000-CA56-805B-19FDC5FDBA80}",
+      "organization": "North Country Contractors, LLC",
+      "itemNo": "6",
+      "docket_id": "24-G-0456",
+      "file_name": "20240703 - Consent Order - Final.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Consent Offer Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0702790-0000-CA1D-84F8-B3D81A70833E}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "5",
+      "docket_id": "24-G-0456",
+      "file_name": "20240617 - Consent Offer Letter.pdf"
+    }
+  ]
+}

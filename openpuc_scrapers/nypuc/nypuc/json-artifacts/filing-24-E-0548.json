@@ -1,0 +1,49 @@
+{
+  "case": "24-E-0548",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "NYSEG Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B07C9B92-0000-C7A7-A2D9-DCA74CA7618D}",
+      "organization": "New York State Electric & Gas Corporation",
+      "itemNo": "4",
+      "docket_id": "24-E-0548",
+      "file_name": "2024-10-17 NYSEG - Complaint # 234517- PSC Appeal - NYSEG Response (24-E-0548).pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "09/30/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Acknowledgement Scheduling Letter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={30F54392-0000-CF4C-9FE4-DF3C5261273B}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "24-E-0548",
+      "file_name": "Acknowledgement Scheduling Letter - Ponzo v NYSEG #234517_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "09/30/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 09 24 Appeal of Complaint Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A0F24392-0000-C917-99A9-32F32C4B915D}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0548",
+      "file_name": "2024 09 24 Appeal of Complaint Decision - #234517_Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/30/2024",
+      "nypuc_doctype": "Letters",
+      "name": "2024 09 24 Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90EF4392-0000-C95A-827B-6B46CECFF933}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0548",
+      "file_name": "2024 09 24 Informal Hearing Decision #234517_Redacted.pdf"
+    }
+  ]
+}

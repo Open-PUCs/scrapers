@@ -1,0 +1,71 @@
+{
+  "case": "23-E-0586",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "09/16/2024",
+      "nypuc_doctype": "Reports",
+      "name": "Adelphi Hotel Condominium - Meter Test Plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C0CCFB91-0000-C218-B60D-32DF8EB17337}",
+      "organization": "The Adelphi Hotel Condominium",
+      "itemNo": "6",
+      "docket_id": "23-E-0586",
+      "file_name": "Adelphi Hotel Condominium - Meter Test Plan.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "04/22/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "The Adelphi Hotel Condominium - Order Certifications",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={002C078F-0000-CE17-8DE6-E366C7C3B590}",
+      "organization": "The Adelphi Hotel Condominium",
+      "itemNo": "5",
+      "docket_id": "23-E-0586",
+      "file_name": "The Adelphi Hotel Condominium - Order Certifications - 4.22.24.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/21/2024",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={1079CC8D-0000-C015-BE54-55D602BD31C6}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "23-E-0586",
+      "file_name": "364_23-E-0586.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/08/2024",
+      "nypuc_doctype": "Correspondence",
+      "name": "The Adelphi Hotel Condominium - Response to Staff Questions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5025EA8C-0000-C817-B31E-F76751114B0F}",
+      "organization": "The Adelphi Hotel Condominium",
+      "itemNo": "3",
+      "docket_id": "23-E-0586",
+      "file_name": "The Adelphi Hotel Condominium - Correspondence - 1.8.24.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "10/13/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "The Adelphi Hotel Condominium Correspondence 10.13.23",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90B6298B-0000-CB3F-A244-45DD9676B663}",
+      "organization": "The Adelphi Hotel Condominium",
+      "itemNo": "2",
+      "docket_id": "23-E-0586",
+      "file_name": "The Adelphi Hotel Condominium - Correspondence - 10.13.23.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "10/05/2023",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of The Adelphi Hotel Condominium to Submeter Electricity at 19 Washington Street, Saratoga Springs, New York, Located in the Territory of Niagara Mohawk Power Corp. d/b/a National Grid.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F05F018B-0000-CB1D-A141-23140D7FD3CA}",
+      "organization": "The Adelphi Hotel Condominium",
+      "itemNo": "1",
+      "docket_id": "23-E-0586",
+      "file_name": "Submetering Notice of Intent - 19 Washington Street, Saratoga Springs.pdf"
+    }
+  ]
+}

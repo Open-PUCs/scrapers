@@ -1,0 +1,38 @@
+{
+  "case": "21-S-0082",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/20/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Steam Metering Equipment with Conditions",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={008AB30E-AD3E-4028-9575-5854328C8B55}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "21-S-0082",
+      "file_name": "264_21-S-0082 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "02/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={79CBFDC6-3745-47C3-8A5B-B0B6CAC738C9}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-S-0082",
+      "file_name": "Cover letter to PSC for RITEC REI-SFC Steam Flow Computer Application.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "02/05/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Application for Approval of RITEC REI-SFC Steam Flow Computer",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7563C040-4247-4ACC-908F-5F4C4E8C75B5}",
+      "organization": "Consolidated Edison Company of New York, Inc.",
+      "itemNo": "1",
+      "docket_id": "21-S-0082",
+      "file_name": "REI-SFC FLOW COMPUTER PSC APPLICATION AND ATTACHMENTS.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case": "16-M-0296",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB7AC514-3405-44E4-82C4-D3D4207BB715}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-M-0296",
+      "file_name": "Cover Letter for Staff Report on 2015 Service Quality Report.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/30/2016",
+      "nypuc_doctype": "Reports",
+      "name": "2015 Utility Service Quality Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B6C883FE-A7B4-4F88-B592-8EE795D6E781}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "16-M-0296",
+      "file_name": "Case 16-M-0296 2015 Utility SQ Report 6-15-16.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/15/2016",
+      "nypuc_doctype": "Press Releases",
+      "name": "Press Release - No Lengthy Outages As Stronger, More Resilient Electric Grid Takes Hold",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7173D587-BA30-4EB3-80EA-EAF38097716F}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "16-M-0296",
+      "file_name": "pr16034.pdf"
+    }
+  ]
+}

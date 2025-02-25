@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0301",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/23/2024",
+      "nypuc_doctype": "Motions",
+      "name": "Energy Waiver Request and a Copy of the HEAP Application",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={900CBB92-0000-C927-B7EC-130F0CA8484E}",
+      "organization": "280 East Houston Partners, LLC",
+      "itemNo": "2",
+      "docket_id": "24-E-0301",
+      "file_name": "additional information.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/16/2024",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 280 East Houston Partners, LLC to Submeter Electricity at 280 East Houston Street, New York, Located in the Service Territory of Consolidated Edison Company of New York, Inc.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5002838F-0000-CC1C-B702-CC20626BAB6F}",
+      "organization": "280 East Houston Partners, LLC",
+      "itemNo": "1",
+      "docket_id": "24-E-0301",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

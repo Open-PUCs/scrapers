@@ -1,0 +1,49 @@
+{
+  "case": "17-V-0309",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewal",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={76295733-28EC-452D-A7B1-11D6CCC3A3AA}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "17-V-0309",
+      "file_name": "661_17-V-0309.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "06/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Public Hearing Notice",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={676DC276-769A-439B-9D8A-5F497878769A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0309",
+      "file_name": "T Newport public hearing notice.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/14/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC, l/k/a Charter Communications, for Approval of the Renewal of its Certificate of Confirmation and Cable Television Franchise in the Town of Newport, Herkimer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={027DF8E8-9183-4341-ABA3-740A90D8E6CE}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "2",
+      "docket_id": "17-V-0309",
+      "file_name": "T Newport R2 Form.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/07/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with Town of Newport, Herkimer County.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3062BB41-8EF1-42BA-90B3-609227430C8B}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "17-V-0309",
+      "file_name": "6 7 17 T Newport PSC Submission.pdf"
+    }
+  ]
+}

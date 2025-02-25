@@ -1,0 +1,104 @@
+{
+  "case": "17-E-0190",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/20/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Certificate of Compliance v2",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5BAD0B6C-2CB1-4908-B782-D5E1376FA21A}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "8",
+      "docket_id": "17-E-0190",
+      "file_name": "Docket 17-E-0190_Certificate of Compliance v2.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/16/2018",
+      "nypuc_doctype": "Correspondence",
+      "name": "Compliance Acceptance Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={494CD8D7-D5B5-4637-82F9-E5B218196787}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "6",
+      "docket_id": "17-E-0190",
+      "file_name": "Docket 17-E-0190_Acceptance Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/20/2017",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={06D8EF26-57B9-4187-BE82-EA84FD91F30E}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "17-E-0190",
+      "file_name": "369_ 17-E-0190 Final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "09/13/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Second Additional Response",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={34E850AD-CDA5-4DFA-8157-3822D781A472}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "4",
+      "docket_id": "17-E-0190",
+      "file_name": "Second Additional Response to Case 17-E-0190.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/27/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Revised Documents with Corrected Property Address",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0ED62AC8-9D18-435B-947F-DDA5944D2FD1}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "3",
+      "docket_id": "17-E-0190",
+      "file_name": "Case 17_E-0190_Revised Documents.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/26/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3E86EE47-2052-470D-83A4-22D308AC025F}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "2",
+      "docket_id": "17-E-0190",
+      "file_name": "Additional Response_Two Waterline Square_17-E-0190.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/06/2017",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Exception from Disclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A8828E0E-E04B-4742-8A17-56BCFC04BE55}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "1",
+      "docket_id": "17-E-0190",
+      "file_name": "Two Waterline Square_Justification Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "04/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "RBC 1 Nominee LLC_Two Waterline Square_Petition to Submeter_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C4825C09-6ACC-452F-BB2C-841A6CAC5BC8}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "1",
+      "docket_id": "17-E-0190",
+      "file_name": "RBC 1 Nominee LLC_Two Waterline Square_Petition to Submeter_Redacted.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "04/06/2017",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={7D8CD65D-E0C5-4484-B84A-A96ED6A88861}",
+      "organization": "RBC 1 Nominee LLC c/o GID Development Group",
+      "itemNo": "1",
+      "docket_id": "17-E-0190",
+      "file_name": "Two Waterline Square_Coverletter Request.pdf"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case": "20-E-0022",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "03/19/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Tariff Filing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={61024DF8-4707-413F-A603-4C922C90CE4C}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "20-E-0022",
+      "file_name": "366_20-E-0022.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/15/2020",
+      "nypuc_doctype": "Tariff",
+      "name": "",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "1",
+      "docket_id": "20-E-0022",
+      "file_name": ""
+    }
+  ]
+}

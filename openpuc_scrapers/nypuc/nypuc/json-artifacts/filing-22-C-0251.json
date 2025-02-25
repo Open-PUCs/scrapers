@@ -1,0 +1,49 @@
+{
+  "case": "22-C-0251",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "04/14/2023",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Consummation",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B0A78087-0000-C516-B8ED-F241676878B2}",
+      "organization": "Fusion of New Jersey LLC",
+      "itemNo": "3",
+      "docket_id": "22-C-0251",
+      "file_name": "22-00892_Fusion Companies Notice of Consummation.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "08/02/2022",
+      "nypuc_doctype": "Letters",
+      "name": "22-00892 Fusion Connect OOL Approval Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={115D47FC-407F-4AD4-B062-815F34915DF2}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "22-C-0251",
+      "file_name": "22-00892 Fusion Connect OOL Approval Letter.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "04/26/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Joint Application of Fusion Connect, Inc., Fusion LLC, Fusion Cloud Services, LLC and the North Haven Entities For Consent to a Change in Control of Fusion LLC and Fusion Cloud Services, LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCF6D2B6-DAF9-4A96-B2B8-57DE7A5C3105}",
+      "organization": "Birch Communications, LLC, Network Billing Systems, LLC d/b/a Fusion",
+      "itemNo": "1",
+      "docket_id": "22-C-0251",
+      "file_name": "Fusion-North Haven Entities Application.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "04/26/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={59EE16F4-3DED-4C25-86FA-1EA049F6D3D1}",
+      "organization": "Birch Communications, LLC, Network Billing Systems, LLC d/b/a Fusion",
+      "itemNo": "1",
+      "docket_id": "22-C-0251",
+      "file_name": "Fusion-North Haven Entities Appl. Cover Letter.pdf"
+    }
+  ]
+}

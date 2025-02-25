@@ -1,0 +1,93 @@
+{
+  "case": "19-E-0772",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/10/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Notice of Intent of 11 Hoyt Owner LLC",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={910C9050-9712-4D1D-A3BE-5F4CC2A1C9C9}",
+      "organization": "11 Hoyt Owner, LLC",
+      "itemNo": "7",
+      "docket_id": "19-E-0772",
+      "file_name": "compliance letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/20/2020",
+      "nypuc_doctype": "Orders",
+      "name": "Order Authorizing Submetering",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FFAD9CFB-3606-4DE6-9C36-AAC78DD54DA0}",
+      "organization": "Public Service Commission",
+      "itemNo": "6",
+      "docket_id": "19-E-0772",
+      "file_name": "361_19-E-0772 Order.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "11 Hoyt Owner LLC Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5748AC59-1E00-489C-998E-0B349D9A21F3}",
+      "organization": "11 Hoyt Owner, LLC",
+      "itemNo": "5",
+      "docket_id": "19-E-0772",
+      "file_name": "Letter 6-18-20.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "revised submetering offering plan",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={00FBB467-FF33-4286-8255-3298E74CDC96}",
+      "organization": "11 Hoyt Owner, LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0772",
+      "file_name": "revised submetering offering plan.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/18/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "cover Letter 5-15-20",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={608B68AA-F900-4DD3-8E1C-1B76D23F782C}",
+      "organization": "11 Hoyt Owner, LLC",
+      "itemNo": "4",
+      "docket_id": "19-E-0772",
+      "file_name": "cover Letter 5-15-20.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "05/14/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Additional Information",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={091131A9-A49F-4086-A11F-D5F93981089F}",
+      "organization": "11 Hoyt Owner, LLC",
+      "itemNo": "3",
+      "docket_id": "19-E-0772",
+      "file_name": "response letter.pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "04/22/2020",
+      "nypuc_doctype": "Correspondence",
+      "name": "Response Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BAAD027D-A3DE-4AB5-A6C9-DB5A56A6A27D}",
+      "organization": "11 Hoyt Owner, LLC",
+      "itemNo": "2",
+      "docket_id": "19-E-0772",
+      "file_name": "Response Letter.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "12/18/2019",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of 11 Hoyt Owner, LLC to Submeter Electricity at 11 Hoyt Street, Brooklyn, New York 11201, Located in the Territory of Consolidated Edison Company of New York, Inc..",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2C0A8695-ACD4-49BF-B0C9-B7B50AA289DB}",
+      "organization": "11 Hoyt Owner, LLC",
+      "itemNo": "1",
+      "docket_id": "19-E-0772",
+      "file_name": "submetering application.pdf"
+    }
+  ]
+}

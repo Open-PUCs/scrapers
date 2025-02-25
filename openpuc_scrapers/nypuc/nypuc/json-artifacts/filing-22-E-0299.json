@@ -1,0 +1,126 @@
+{
+  "case": "22-E-0299",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/17/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Metering Equipment",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E39BC55F-E21F-41E9-A4EC-1BC21413B460}",
+      "organization": "Public Service Commission",
+      "itemNo": "3",
+      "docket_id": "22-E-0299",
+      "file_name": "363_22-E-0299.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Test Report #TR-20190717-PT-CVC-110ER",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={82C674B1-C599-44B9-A954-774FE3106FF8}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0299",
+      "file_name": "Test Report #TR-20190717-PT-CVC-110ER.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Test Report #BIL-20190717-PT-CVC-110ER",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={018B41C8-F331-4202-9D43-6473A077067D}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0299",
+      "file_name": "Test Report #BIL-20190717-PT-CVC-110ER.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Test Report # Com-Exc-Imp-Cl-20190717-PT-CVC-110ER",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={DCDDEBA8-84C8-44CF-81FD-D943255BB475}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0299",
+      "file_name": "Test Report # Com-Exc-Imp-Cl-20190717-PT-CVC-110ER.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "PL-02583.01 CVC-110ER Wet Withstand Test Report",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={15711762-3C26-417E-9738-9603D44C615A}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0299",
+      "file_name": "PL-02583.01 CVC-110ER Wet Withstand Test Report.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "PL-02583 CVC-110ER ABB Instrument Transformer Short Circuit Test Report (1)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04083D42-4FA7-4B76-88CF-88845CC77C62}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0299",
+      "file_name": "PL-02583 CVC-110ER ABB Instrument Transformer Short Circuit Test Report (1).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Final 24512300-01, Short-Time Current Rating Test, ABB NC (Report)",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F9DC354F-4940-40E0-8219-C1F9809EA974}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0299",
+      "file_name": "Final 24512300-01, Short-Time Current Rating Test, ABB NC (Report).pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "07/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "ABB CVC-110ER (HCEP) - National Grid Letter of Intent 03-25-22",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={26F3CFCA-4507-45CF-982B-9A3DE8B7687C}",
+      "organization": "Niagara Mohawk Power Corporation d/b/a National Grid",
+      "itemNo": "2",
+      "docket_id": "22-E-0299",
+      "file_name": "ABB CVC-110ER (HCEP) - National Grid Letter of Intent 03-25-22.pdf"
+    },
+    {
+      "serial": "9",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of ABB Inc. for Approval of Combo IT Type CVC-110ER.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8BFDBAE9-8771-419D-AB14-80F3384B4EE7}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0299",
+      "file_name": "ABB Request for NY PSC Homologation CVC-110ER - May 18, 2022 r2.pdf"
+    },
+    {
+      "serial": "10",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "National Grid Letter of Intent",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BCF5725B-FBAF-4A70-9D93-5E4DCFC50D48}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0299",
+      "file_name": "ABB CVC-110ER (HCEP) - National Grid Letter of Intent 03-25-22.pdf"
+    },
+    {
+      "serial": "11",
+      "date_filed": "05/18/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "1VAP429993-DB_CVC-110ER_HCEP",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={99C05134-EEC8-4CAC-BAD6-462DA77A4453}",
+      "organization": "ABB Inc.",
+      "itemNo": "1",
+      "docket_id": "22-E-0299",
+      "file_name": "1VAP429993-DB_CVC-110ER_HCEP.pdf"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "case": "21-E-0182",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "07/15/2021",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Financing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={8DE8489B-A8D4-41DE-9BA0-4F5B463D5FCB}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "21-E-0182",
+      "file_name": "397_21-E-0182 final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "05/04/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Request for Nondisclosure",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DA9F192-0CCC-4B43-AB06-630611E923F1}",
+      "organization": "CCI Roseton LLC, Roseton Generating LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0182",
+      "file_name": "RequestForNondisclosure.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "05/04/2021",
+      "nypuc_doctype": "Correspondence",
+      "name": "Dax to Secretary Cvr Ltr re 21-E-0182 RAO Confidential Treatment 5-4-21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BE589EBE-E593-40C7-8E8C-593DEE819A6A}",
+      "organization": "CCI Roseton LLC, Roseton Generating LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0182",
+      "file_name": "Dax to Secretary Cvr Ltr re 21-E-0182 RAO Confidential Treatment 5-4-21.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "05/04/2021",
+      "nypuc_doctype": "Motions",
+      "name": "Dax to RAO Cvr Ltr re 21-E-0182 Rensselaer_Roseton Gen 5-04-21",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2ADC449B-3ACC-4813-B3EF-A66EA31D4E3B}",
+      "organization": "CCI Roseton LLC, Roseton Generating LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0182",
+      "file_name": "Dax to RAO Cvr Ltr re 21-E-0182 Rensselaer_Roseton Gen 5-04-21.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "05/04/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "20-E-0182 OFFICERS AFFIRMATION 5-03-21 (JG SIGNED) REDACTED",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6DF04C7E-DC5F-4DE9-8F7E-21D35487DBA0}",
+      "organization": "CCI Roseton LLC, Roseton Generating LLC",
+      "itemNo": "2",
+      "docket_id": "21-E-0182",
+      "file_name": "20-E-0182 OFFICERS AFFIRMATION 5-03-21 (JG SIGNED) REDACTED.pdf"
+    },
+    {
+      "serial": "6",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Short EAF Part 1",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FCD23E7C-E6A4-4429-B170-C73D5DB3B6A8}",
+      "organization": "Rensselaer Generating LLC, Roseton Generating LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0182",
+      "file_name": "Short EAF Part 1 (3-26-21)(executed).pdf"
+    },
+    {
+      "serial": "7",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Rensselaer Generating LLC and Roseton Generating LLC For Approval To Secure Long-Term Financing.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CAD72C41-CBE9-4E13-92F7-4817F8CDBDD8}",
+      "organization": "Rensselaer Generating LLC, Roseton Generating LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0182",
+      "file_name": "Verified Petition Rensselaer_Roseton Generating 3-26-21 FINALpdf.pdf"
+    },
+    {
+      "serial": "8",
+      "date_filed": "03/26/2021",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BF2A1214-9031-48F5-A22E-8C00EA197979}",
+      "organization": "Rensselaer Generating LLC, Roseton Generating LLC",
+      "itemNo": "1",
+      "docket_id": "21-E-0182",
+      "file_name": "Dax to Secretary Cvr Ltr re 21-E-___ Rensselaer_Roseton Gen Verified Pet 3-26-21.pdf"
+    }
+  ]
+}

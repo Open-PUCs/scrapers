@@ -1,0 +1,49 @@
+{
+  "case": "19-E-0294",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0294 Felton Ack Letter 04222019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={268E56D8-4E58-482D-8241-DD0D6D062912}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "4",
+      "docket_id": "19-E-0294",
+      "file_name": "19-E-0294 Felton Ack Letter 04222019.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Complaints",
+      "name": "19-E-0294 Felton Rehearing Request 04192019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={73789AD1-953D-4035-AE3A-714CB455FDC0}",
+      "organization": "Individual",
+      "itemNo": "3",
+      "docket_id": "19-E-0294",
+      "file_name": "19-E-0294 Felton Rehearing Request 04192019.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "10/26/2021",
+      "nypuc_doctype": "Letters",
+      "name": "19-E-0294 Felton SMD Final 03142019",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={ABD0A13A-E6E0-473F-B736-D529323EB152}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "19-E-0294",
+      "file_name": "19-E-0294 Felton SMD Final 03142019.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/18/2019",
+      "nypuc_doctype": "Letters",
+      "name": "Letter from Secretary Burgess Regarding a Request for Rehearing",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9845A3C7-C1D3-4928-97A9-BBBCD11D77CA}",
+      "organization": "Public Service Commission",
+      "itemNo": "1",
+      "docket_id": "19-E-0294",
+      "file_name": "368 Letter_Redacted.pdf"
+    }
+  ]
+}

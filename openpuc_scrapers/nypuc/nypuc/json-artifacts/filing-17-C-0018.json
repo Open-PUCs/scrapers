@@ -1,0 +1,49 @@
+{
+  "case": "17-C-0018",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "02/08/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "17-00078 Henry Walker (Momentum Telecom) ltr",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={E5905DDF-5A09-4836-B57D-A863B44648F3}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "2",
+      "docket_id": "17-C-0018",
+      "file_name": "17-00078 Henry Walker (Momentum Telecom) ltr.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "01/10/2017",
+      "nypuc_doctype": "Tariffs",
+      "name": "PSC #2-s",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={0D5E6291-69D8-4F0F-8553-81E61B7FC5FA}",
+      "organization": "Momentum Telecom, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0018",
+      "file_name": "PSC #2-s.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "01/10/2017",
+      "nypuc_doctype": "Tariffs",
+      "name": "PSC #1-s",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={56E31587-0A7A-4C8C-A4F5-1DB35EEC234E}",
+      "organization": "Momentum Telecom, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0018",
+      "file_name": "PSC #1-s.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "01/10/2017",
+      "nypuc_doctype": "Correspondence",
+      "name": "Affidavit - Bradley-s",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C466F3A3-874E-4283-B3F4-A2E77E0BA048}",
+      "organization": "Momentum Telecom, Inc.",
+      "itemNo": "1",
+      "docket_id": "17-C-0018",
+      "file_name": "Affidavit - Bradley-s.pdf"
+    }
+  ]
+}

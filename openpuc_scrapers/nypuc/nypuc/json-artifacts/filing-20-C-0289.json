@@ -1,0 +1,60 @@
+{
+  "case": "20-C-0289",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Consumer Complaint Determinations",
+      "name": "Commission Determination",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={16A7F8A1-044E-4F6D-B4F4-ACE4E0740920}",
+      "organization": "Public Service Commission",
+      "itemNo": "5",
+      "docket_id": "20-C-0289",
+      "file_name": "565_20-C-0289 Determination final.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/21/2021",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Regarding Appeal of Informal Hearing Decision",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={5D137C11-1425-4843-B58A-0743A7F66D91}",
+      "organization": "Public Service Commission",
+      "itemNo": "4",
+      "docket_id": "20-C-0289",
+      "file_name": "565_20-C-0289 Letter final revd_Redacted.pdf"
+    },
+    {
+      "serial": "3",
+      "date_filed": "06/17/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Letter Acknowledging Appeal _Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={25201068-587D-4B5A-937F-26EF3328EA94}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "3",
+      "docket_id": "20-C-0289",
+      "file_name": "949431 Ochei FINAL _Redacted.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/17/2020",
+      "nypuc_doctype": "Complaints",
+      "name": "Appeal of Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={AC3D3D43-2C06-46F0-AFB1-3D3C08826BE5}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "20-C-0289",
+      "file_name": "Appeal 949431_Redacted.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/17/2020",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Decision_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={3DAA6FDA-FF70-4188-8A11-48B75BAE26BF}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "20-C-0289",
+      "file_name": "Ochei IH_Redacted.pdf"
+    }
+  ]
+}

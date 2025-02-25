@@ -1,0 +1,27 @@
+{
+  "case": "24-E-0583",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "10/16/2024",
+      "nypuc_doctype": "Complaints",
+      "name": "2024 10 10 Appeal Request_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={40A39692-0000-C71F-8CCE-6DABD54F3549}",
+      "organization": "Individual",
+      "itemNo": "2",
+      "docket_id": "24-E-0583",
+      "file_name": "2024 10 10 Appeal Request_Redacted.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "10/16/2024",
+      "nypuc_doctype": "Letters",
+      "name": "Informal Hearing Request Response Letter 10.01.24_Redacted",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={309F9692-0000-CF27-9999-9E5E5417A112}",
+      "organization": "New York State Department of Public Service",
+      "itemNo": "1",
+      "docket_id": "24-E-0583",
+      "file_name": "Case 420576 - Informal Hearing Request - Ronald Thomas - Con Edison - Response letter 10.01.24_Redacted.pdf"
+    }
+  ]
+}

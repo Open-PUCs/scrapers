@@ -1,0 +1,60 @@
+{
+  "case": "22-W-0404",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "12/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={480FECDC-1F13-475C-B510-AC76DF4646B6}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "3",
+      "docket_id": "22-W-0404",
+      "file_name": "Cover Letter.pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "12/12/2022",
+      "nypuc_doctype": "Reports",
+      "name": "Copy of Pension settlement losses 22-W-0404",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={04B098B0-4ECF-49BC-9811-C42769F50F60}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "3",
+      "docket_id": "22-W-0404",
+      "file_name": "Copy of Pension settlement loss entries for 2016 2020 2021 Case 17-W-0062.xlsx"
+    },
+    {
+      "serial": "3",
+      "date_filed": "11/22/2022",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Deferral Accounting and Amortization of Pension Settlement Loss",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={9B0D75A6-7C7E-46F0-8169-8BD36EAC0062}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "22-W-0404",
+      "file_name": "461_17-W-0062 et. al final.pdf"
+    },
+    {
+      "serial": "4",
+      "date_filed": "06/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Petition of Liberty Utilities (New York Water) Corp. for Deferral Accounting and Amortization of Pension Settlement Losses.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F613E060-22A5-40FD-92C8-61192786183D}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "1",
+      "docket_id": "22-W-0404",
+      "file_name": "Case 22-W-____ - Petition of Liberty Utilities (New York Water) Corp. for Deferral Accounting and Amortization of Pension Settlement Losses.pdf"
+    },
+    {
+      "serial": "5",
+      "date_filed": "06/13/2022",
+      "nypuc_doctype": "Petitions",
+      "name": "Cover Letter",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={CD5FAAE6-6466-4BD9-BEEB-C7179E5C5F4D}",
+      "organization": "Liberty Utilities (New York Water) Corp.",
+      "itemNo": "1",
+      "docket_id": "22-W-0404",
+      "file_name": "Case 22-W-____ - Cover Letter.pdf"
+    }
+  ]
+}

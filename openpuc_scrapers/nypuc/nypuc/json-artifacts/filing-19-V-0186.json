@@ -1,0 +1,27 @@
+{
+  "case": "19-V-0186",
+  "filings": [
+    {
+      "serial": "1",
+      "date_filed": "08/16/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Order Approving Renewals",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={45DEBB43-8A41-4955-966F-5A7FCAEAA738}",
+      "organization": "Public Service Commission",
+      "itemNo": "2",
+      "docket_id": "19-V-0186",
+      "file_name": "661_18-V-0512 et al..pdf"
+    },
+    {
+      "serial": "2",
+      "date_filed": "03/14/2019",
+      "nypuc_doctype": "Orders",
+      "name": "Petition of Time Warner Cable Northeast LLC for Approval of the Renewal of its Franchise with the Village of Delanson, County of Schenectady, NY.",
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={740CFA67-C3FC-4169-AAB1-CADDD36CA54A}",
+      "organization": "Time Warner Cable Northeast LLC",
+      "itemNo": "1",
+      "docket_id": "19-V-0186",
+      "file_name": "V DELANSON RENEWAL TO PSC 031419.pdf"
+    }
+  ]
+}
